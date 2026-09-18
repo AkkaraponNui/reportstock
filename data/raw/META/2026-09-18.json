@@ -1,0 +1,216 @@
+{
+  "ticker": "META",
+  "as_of": "2026-09-18T07:52:02+00:00",
+  "source": "yfinance",
+  "profile": {
+    "name": "Meta Platforms, Inc.",
+    "sector": "Communication Services",
+    "industry": "Internet Content & Information",
+    "country": "United States",
+    "exchange": "NMS",
+    "currency": "USD",
+    "financial_currency": "USD",
+    "employees": 75472,
+    "website": "https://www.meta.com",
+    "summary": "Meta Platforms, Inc. engages in the development of products that enable people to connect and share with friends and family through mobile devices, personal computers, virtual reality (VR) headsets, and AI glasses in the United States, Canada, Europe, Asia-Pacific, and internationally. It operates through two segments, Family of Apps (FoA) and Reality Labs (RL). The FoA segment offers Facebook, which enables people to build community through feed, reels, stories, groups, marketplace, and other; Instagram that brings people closer through Instagram feed, stories, reels, live, and messaging; Messenger, a messaging application for people to connect with friends, family, communities, and businesses across platforms and devices through text, audio, and video calls; Meta AI, an assistant that's available across apps, as a stand-alone app, on AI glasses, and on the web; Threads, an application for text-based updates and public conversations; and WhatsApp, a messaging application that is used by people and businesses to communicate and transact. The RL segment provides virtual and augmented reality products, including consumer hardware, software, and content that help people feel connected, as well as Meta Quest devices that enable social experiences across gaming, fitness, entertainment, and more. The segment also includes wearables such as AI glasses like Ray Ban Meta and Oakley Meta glasses; and the Meta Ray Ban Display, which combines AI glasses with an integrated lens display an"
+  },
+  "market": {
+    "price": 682.31,
+    "market_cap": 1738188914688,
+    "week52_high": 790.8,
+    "week52_low": 520.26,
+    "off_52w_high": -0.13719,
+    "avg_volume": 18199354
+  },
+  "analyst": {
+    "target_mean": 755.2807,
+    "target_high": 1000.0,
+    "target_low": 580.0,
+    "upside_to_target": 0.106947,
+    "recommendation": "strong_buy",
+    "n_analysts": 56
+  },
+  "annual": {
+    "periods": [
+      "2021-12-31",
+      "2022-12-31",
+      "2023-12-31",
+      "2024-12-31",
+      "2025-12-31"
+    ],
+    "revenue": [
+      null,
+      116609000000.0,
+      134902000000.0,
+      164501000000.0,
+      200966000000.0
+    ],
+    "gross_profit": [
+      null,
+      91360000000.0,
+      108943000000.0,
+      134340000000.0,
+      164791000000.0
+    ],
+    "operating_income": [
+      null,
+      28944000000.0,
+      46751000000.0,
+      69380000000.0,
+      83276000000.0
+    ],
+    "net_income": [
+      null,
+      23200000000.0,
+      39098000000.0,
+      62360000000.0,
+      60458000000.0
+    ],
+    "ebitda": [
+      null,
+      37690000000.0,
+      59052000000.0,
+      86876000000.0,
+      105713000000.0
+    ],
+    "rnd": [
+      null,
+      35338000000.0,
+      38483000000.0,
+      43873000000.0,
+      57372000000.0
+    ],
+    "eps_diluted": [
+      null,
+      8.59,
+      14.87,
+      23.86,
+      23.49
+    ],
+    "shares_diluted": [
+      null,
+      2702000000.0,
+      2629000000.0,
+      2614000000.0,
+      2574000000.0
+    ],
+    "total_assets": [
+      null,
+      185727000000.0,
+      229623000000.0,
+      276054000000.0,
+      366021000000.0
+    ],
+    "equity": [
+      null,
+      125713000000.0,
+      153168000000.0,
+      182637000000.0,
+      217243000000.0
+    ],
+    "total_debt": [
+      null,
+      26591000000.0,
+      37234000000.0,
+      49060000000.0,
+      83897000000.0
+    ],
+    "cash": [
+      null,
+      40738000000.0,
+      65403000000.0,
+      77815000000.0,
+      81592000000.0
+    ],
+    "current_assets": [
+      null,
+      59549000000.0,
+      85365000000.0,
+      100045000000.0,
+      108722000000.0
+    ],
+    "current_liabilities": [
+      null,
+      27026000000.0,
+      31960000000.0,
+      33596000000.0,
+      41836000000.0
+    ],
+    "invested_capital": [
+      null,
+      135636000000.0,
+      171553000000.0,
+      211463000000.0,
+      275987000000.0
+    ],
+    "operating_cf": [
+      null,
+      50475000000.0,
+      71113000000.0,
+      91328000000.0,
+      115800000000.0
+    ],
+    "capex": [
+      null,
+      -31186000000.0,
+      -27045000000.0,
+      -37256000000.0,
+      -69691000000.0
+    ],
+    "free_cash_flow": [
+      null,
+      19289000000.0,
+      44068000000.0,
+      54072000000.0,
+      46109000000.0
+    ],
+    "buybacks": [
+      null,
+      -27956000000.0,
+      -19774000000.0,
+      -30125000000.0,
+      -26248000000.0
+    ]
+  },
+  "metrics": {
+    "years_of_data": 5,
+    "currency_mismatch": false,
+    "trading_currency": "USD",
+    "financial_currency": "USD",
+    "revenue_cagr": 0.198938,
+    "revenue_cagr_years": 3,
+    "net_income_cagr": 0.376117,
+    "fcf_cagr": 0.337084,
+    "revenue_growth_ttm": 0.28,
+    "earnings_growth_ttm": -0.134,
+    "forward_eps_growth": 0.300583,
+    "gross_margin_latest": 0.819994,
+    "gross_margin_trend": 0.011864,
+    "operating_margin_latest": 0.414379,
+    "operating_margin_trend": 0.05737,
+    "net_margin_latest": 0.300837,
+    "fcf_margin_latest": 0.229437,
+    "fcf_margin_trend": 0.01941,
+    "rnd_intensity_latest": 0.285481,
+    "roe": 0.29848,
+    "roa": 0.14591,
+    "roic_est": 0.238374,
+    "current_ratio": 2.226,
+    "debt_to_equity": 42.997,
+    "net_debt": 2305000000.0,
+    "net_debt_to_ebitda": 0.021804,
+    "market_cap": 1738188914688,
+    "enterprise_value": 1760247021568,
+    "trailing_pe": 25.383556,
+    "forward_pe": 19.517067,
+    "peg_est": null,
+    "price_to_sales": 7.615386,
+    "ev_to_ebitda": 16.053,
+    "ev_to_revenue": 7.712,
+    "fcf_yield": 0.026527,
+    "dividend_yield": 0.003078,
+    "dividend_rate": 2.1,
+    "payout_ratio": 0.0791,
+    "beta": 1.243
+  }
+}

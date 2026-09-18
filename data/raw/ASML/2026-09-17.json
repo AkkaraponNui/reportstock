@@ -1,0 +1,214 @@
+{
+  "ticker": "ASML",
+  "as_of": "2026-09-17T12:03:44+00:00",
+  "source": "yfinance",
+  "profile": {
+    "name": "ASML Holding N.V.",
+    "sector": "Technology",
+    "industry": "Semiconductor Equipment & Materials",
+    "country": "Netherlands",
+    "exchange": "NMS",
+    "currency": "USD",
+    "financial_currency": "EUR",
+    "employees": 43938,
+    "website": "https://www.asml.com",
+    "summary": "ASML Holding N.V. provides lithography solutions for the development, production, marketing, sales, upgrading, and servicing of advanced semiconductor equipment systems. The company offers lithography, metrology, and inspection systems. It also provides extreme ultraviolet lithography systems; and deep ultraviolet lithography systems comprising immersion and dry lithography systems solutions to manufacture various range of semiconductor nodes and technologies. In addition, the company offers metrology and inspection systems, including YieldStar optical metrology systems, a diffraction-based wafer metrology platform to assess the quality of patterns on the wafers; and HMI electron beam solutions to locate and analyze individual chip defects. Further, it provides computational lithography solutions, and lithography systems and control software solutions; and refurbishes and upgrades lithography systems, as well as offers customer support and related services. Additionally, the company offers hardware, software, and services to chipmakers to produce the patterns of integrated circuits. It operates in Japan, South Korea, Singapore, Taiwan, China, rest of Asia, the Netherlands, rest of Europe, the Middle East, Africa, and the United States. The company was formerly known as ASM Lithography Holding N.V. and changed its name to ASML Holding N.V. in 2001. ASML Holding N.V. was founded in 1984 and is headquartered in Veldhoven, the Netherlands."
+  },
+  "market": {
+    "price": 1602.22,
+    "market_cap": 615412662272,
+    "week52_high": 1999.96,
+    "week52_low": 916.03,
+    "off_52w_high": -0.198874,
+    "avg_volume": 1653575
+  },
+  "analyst": {
+    "target_mean": 2135.1782,
+    "target_high": 2843.2502,
+    "target_low": 887.9146,
+    "upside_to_target": 0.332637,
+    "recommendation": "strong_buy",
+    "n_analysts": 16
+  },
+  "annual": {
+    "periods": [
+      "2021-12-31",
+      "2022-12-31",
+      "2023-12-31",
+      "2024-12-31",
+      "2025-12-31"
+    ],
+    "revenue": [
+      null,
+      21173400000.0,
+      27558500000.0,
+      28262900000.0,
+      32667300000.0
+    ],
+    "gross_profit": [
+      null,
+      10700100000.0,
+      14136100000.0,
+      14492000000.0,
+      17258000000.0
+    ],
+    "operating_income": [
+      null,
+      6500700000.0,
+      9042300000.0,
+      9022600000.0,
+      11301400000.0
+    ],
+    "net_income": [
+      null,
+      5624200000.0,
+      7839000000.0,
+      7571600000.0,
+      9609400000.0
+    ],
+    "ebitda": [
+      null,
+      7100500000.0,
+      9976000000.0,
+      10123600000.0,
+      12550300000.0
+    ],
+    "rnd": [
+      null,
+      3253500000.0,
+      3980600000.0,
+      4303700000.0,
+      4698800000.0
+    ],
+    "eps_diluted": [
+      null,
+      16.07,
+      20.59,
+      19.24,
+      24.71
+    ],
+    "shares_diluted": [
+      null,
+      398000000.0,
+      394100000.0,
+      393600000.0,
+      388900000.0
+    ],
+    "total_assets": [
+      null,
+      36300400000.0,
+      39957500000.0,
+      48589600000.0,
+      50566600000.0
+    ],
+    "equity": [
+      null,
+      8810800000.0,
+      13452400000.0,
+      18476800000.0,
+      19612200000.0
+    ],
+    "total_debt": [
+      null,
+      4260400000.0,
+      4631600000.0,
+      4687600000.0,
+      4390900000.0
+    ],
+    "cash": [
+      null,
+      7376000000.0,
+      7010100000.0,
+      12741300000.0,
+      13321900000.0
+    ],
+    "current_assets": [
+      null,
+      23064900000.0,
+      24393900000.0,
+      30737400000.0,
+      30616100000.0
+    ],
+    "current_liabilities": [
+      null,
+      17983600000.0,
+      16274700000.0,
+      20051400000.0,
+      24263900000.0
+    ],
+    "invested_capital": [
+      null,
+      13071200000.0,
+      18084000000.0,
+      23164400000.0,
+      24003100000.0
+    ],
+    "operating_cf": [
+      null,
+      8486800000.0,
+      5443400000.0,
+      11166200000.0,
+      12658500000.0
+    ],
+    "capex": [
+      null,
+      -1319300000.0,
+      -2196200000.0,
+      -2083100000.0,
+      -1631200000.0
+    ],
+    "free_cash_flow": [
+      null,
+      7167500000.0,
+      3247200000.0,
+      9083100000.0,
+      11027300000.0
+    ],
+    "buybacks": [
+      null,
+      -4639700000.0,
+      -1000000000.0,
+      -500000000.0,
+      -5950000000.0
+    ]
+  },
+  "metrics": {
+    "years_of_data": 5,
+    "currency_mismatch": true,
+    "trading_currency": "USD",
+    "financial_currency": "EUR",
+    "revenue_cagr": 0.155511,
+    "revenue_cagr_years": 3,
+    "net_income_cagr": 0.195488,
+    "fcf_cagr": 0.154429,
+    "revenue_growth_ttm": 0.213,
+    "earnings_growth_ttm": 0.285,
+    "forward_eps_growth": 1.035223,
+    "gross_margin_latest": 0.528296,
+    "gross_margin_trend": 0.006863,
+    "operating_margin_latest": 0.345955,
+    "operating_margin_trend": 0.010792,
+    "net_margin_latest": 0.29416,
+    "fcf_margin_latest": 0.337564,
+    "fcf_margin_trend": 0.02007,
+    "rnd_intensity_latest": 0.143838,
+    "roe": 0.53942,
+    "roa": 0.16454,
+    "roic_est": 0.371956,
+    "current_ratio": 1.334,
+    "debt_to_equity": 9.092,
+    "net_debt": -8931000000.0,
+    "net_debt_to_ebitda": -0.711616,
+    "market_cap": 615412662272,
+    "enterprise_value": 34183997030400,
+    "trailing_pe": 54.645973,
+    "forward_pe": 26.850115,
+    "peg_est": 0.942109,
+    "price_to_sales": 17.420216,
+    "ev_to_ebitda": 2534.326,
+    "ev_to_revenue": 967.631,
+    "fcf_yield": 0.017919,
+    "dividend_yield": 0.57,
+    "beta": 1.363
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "ticker": "NOW",
+  "as_of": "2026-09-18T07:52:05+00:00",
+  "source": "yfinance",
+  "profile": {
+    "name": "ServiceNow, Inc.",
+    "sector": "Technology",
+    "industry": "Software - Application",
+    "country": "United States",
+    "exchange": "NYQ",
+    "currency": "USD",
+    "financial_currency": "USD",
+    "employees": 29187,
+    "website": "https://www.servicenow.com",
+    "summary": "ServiceNow, Inc. provides cloud-based solution for digital workflows in the North America, Brazil, Europe, the Middle East and Africa, Asia Pacific, and internationally. The company provides asset management, integrated risk management, IT service management, Operational Technology management, Security Operations, strategic portfolio management, IT operations management products; customer service management product; field service management applications; and sales and order management services. It also offers human resources delivery; legal and contract operations; workplace service delivery products; app engine product; automation engine; platform privacy and security product; and source-to-pay operations. In addition, the company provides RaptorDB, a database built to manage workloads at scale; ServiceNow Impact that provides customers with software tools, guided plans, and AI-driven recommendations; customer support; and workflow data fabric. It serves government, financial services, healthcare and life science, manufacturing, Public Sector, retail, technology, and Telecom sectors through service providers and resale partners. The company has a strategic collaboration with Cohesity, Inc. to develop, operate, and safeguard autonomous AI agents and data with enterprise-grade reliability; and with ServiceNow to Advance Ai-Powered Solution for Mission-Critical Infrastructure Monitoring. The company was formerly known as Service-now.com and changed its name to ServiceNow, Inc. "
+  },
+  "market": {
+    "price": 138.47,
+    "market_cap": 143158870016,
+    "week52_high": 194.726,
+    "week52_low": 81.24,
+    "off_52w_high": -0.288898,
+    "avg_volume": 20498065
+  },
+  "analyst": {
+    "target_mean": 143.84042,
+    "target_high": 248.0,
+    "target_low": 72.0,
+    "upside_to_target": 0.038784,
+    "recommendation": "strong_buy",
+    "n_analysts": 46
+  },
+  "annual": {
+    "periods": [
+      "2021-12-31",
+      "2022-12-31",
+      "2023-12-31",
+      "2024-12-31",
+      "2025-12-31"
+    ],
+    "revenue": [
+      null,
+      7245000000.0,
+      8971000000.0,
+      10984000000.0,
+      13278000000.0
+    ],
+    "gross_profit": [
+      null,
+      5672000000.0,
+      7050000000.0,
+      8697000000.0,
+      10295000000.0
+    ],
+    "operating_income": [
+      null,
+      355000000.0,
+      762000000.0,
+      1364000000.0,
+      1824000000.0
+    ],
+    "net_income": [
+      null,
+      325000000.0,
+      1731000000.0,
+      1425000000.0,
+      1748000000.0
+    ],
+    "ebitda": [
+      null,
+      788000000.0,
+      1324000000.0,
+      2325000000.0,
+      3022000000.0
+    ],
+    "rnd": [
+      null,
+      1768000000.0,
+      2124000000.0,
+      2543000000.0,
+      2960000000.0
+    ],
+    "eps_diluted": [
+      null,
+      0.32,
+      1.684,
+      1.368,
+      1.67
+    ],
+    "shares_diluted": [
+      null,
+      1020000000.0,
+      1030000000.0,
+      1040000000.0,
+      1047000000.0
+    ],
+    "total_assets": [
+      null,
+      13299000000.0,
+      17387000000.0,
+      20383000000.0,
+      26038000000.0
+    ],
+    "equity": [
+      null,
+      5032000000.0,
+      7628000000.0,
+      9609000000.0,
+      12964000000.0
+    ],
+    "total_debt": [
+      null,
+      2232000000.0,
+      2284000000.0,
+      2278000000.0,
+      2403000000.0
+    ],
+    "cash": [
+      null,
+      4280000000.0,
+      4877000000.0,
+      5762000000.0,
+      6284000000.0
+    ],
+    "current_assets": [
+      null,
+      6654000000.0,
+      7777000000.0,
+      9187000000.0,
+      10471000000.0
+    ],
+    "current_liabilities": [
+      null,
+      6005000000.0,
+      7365000000.0,
+      8358000000.0,
+      10443000000.0
+    ],
+    "invested_capital": [
+      null,
+      6518000000.0,
+      9116000000.0,
+      11098000000.0,
+      14455000000.0
+    ],
+    "operating_cf": [
+      null,
+      2723000000.0,
+      3398000000.0,
+      4267000000.0,
+      5444000000.0
+    ],
+    "capex": [
+      null,
+      -550000000.0,
+      -697000000.0,
+      -892000000.0,
+      -911000000.0
+    ],
+    "free_cash_flow": [
+      null,
+      2173000000.0,
+      2701000000.0,
+      3375000000.0,
+      4533000000.0
+    ],
+    "buybacks": [
+      null,
+      0.0,
+      -538000000.0,
+      -696000000.0,
+      -1840000000.0
+    ]
+  },
+  "metrics": {
+    "years_of_data": 5,
+    "currency_mismatch": false,
+    "trading_currency": "USD",
+    "financial_currency": "USD",
+    "revenue_cagr": 0.223765,
+    "revenue_cagr_years": 3,
+    "net_income_cagr": 0.752075,
+    "fcf_cagr": 0.277739,
+    "revenue_growth_ttm": 0.24,
+    "earnings_growth_ttm": -0.219,
+    "forward_eps_growth": 2.168044,
+    "gross_margin_latest": 0.775343,
+    "gross_margin_trend": -0.00167,
+    "operating_margin_latest": 0.13737,
+    "operating_margin_trend": 0.030435,
+    "net_margin_latest": 0.131646,
+    "fcf_margin_latest": 0.341392,
+    "fcf_margin_trend": 0.013057,
+    "rnd_intensity_latest": 0.222925,
+    "roe": 0.14244,
+    "roa": 0.04249,
+    "roic_est": 0.099686,
+    "current_ratio": 0.701,
+    "debt_to_equity": 67.538,
+    "net_debt": -3881000000.0,
+    "net_debt_to_ebitda": -1.284249,
+    "market_cap": 143158870016,
+    "enterprise_value": 146947866624,
+    "trailing_pe": 87.63924,
+    "forward_pe": 27.663515,
+    "peg_est": null,
+    "price_to_sales": 9.717545,
+    "ev_to_ebitda": 50.724,
+    "ev_to_revenue": 9.975,
+    "fcf_yield": 0.031664,
+    "dividend_yield": null,
+    "dividend_rate": null,
+    "payout_ratio": 0.0,
+    "beta": 0.972
+  }
+}

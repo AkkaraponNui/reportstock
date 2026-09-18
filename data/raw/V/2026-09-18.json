@@ -1,0 +1,196 @@
+{
+  "ticker": "V",
+  "as_of": "2026-09-18T07:52:23+00:00",
+  "source": "yfinance",
+  "profile": {
+    "name": "Visa Inc.",
+    "sector": "Financial Services",
+    "industry": "Credit Services",
+    "country": "United States",
+    "exchange": "NYQ",
+    "currency": "USD",
+    "financial_currency": "USD",
+    "employees": 34100,
+    "website": "https://www.visa.com",
+    "summary": "Visa Inc. operates as a payment technology company in the United States and internationally. The company operates VisaNet, a transaction processing network that enables authorization, clearing, and settlement of payment transactions. It also offers credit, debit, and prepaid card products; tap to pay, tokenization, and click to pay services; Visa Direct, a platform which facilitates money movement, enabling clients to collect, hold, convert, and send funds across its network; and issuing solutions, such as airport lounge access, dining reservations, shopping experiences, event tickets, and seller offers. In addition, the company provides acceptance solutions, an omnichannel payment integration with e-commerce platforms; risk detection and prevention solutions; and advisory and other services comprising consulting practice, proprietary analytics models, data scientists and economists, marketing services, and managed services. It provides its services under the Visa, Visa Electron, V PAY, Interlink, and PLUS brands. The company serves consumers, sellers, financial institutions, and government entities. Visa Inc. was founded in 1958 and is headquartered in San Francisco, California."
+  },
+  "market": {
+    "price": 369.93,
+    "market_cap": 694490038272,
+    "week52_high": 385.57,
+    "week52_low": 293.89,
+    "off_52w_high": -0.040563,
+    "avg_volume": 7409973
+  },
+  "analyst": {
+    "target_mean": 419.36163,
+    "target_high": 466.0,
+    "target_low": 330.0,
+    "upside_to_target": 0.133624,
+    "recommendation": "strong_buy",
+    "n_analysts": 37
+  },
+  "annual": {
+    "periods": [
+      "2022-09-30",
+      "2023-09-30",
+      "2024-09-30",
+      "2025-09-30"
+    ],
+    "revenue": [
+      29310000000.0,
+      32653000000.0,
+      35926000000.0,
+      40000000000.0
+    ],
+    "gross_profit": [
+      23577000000.0,
+      26086000000.0,
+      28884000000.0,
+      32145000000.0
+    ],
+    "operating_income": [
+      19681000000.0,
+      21927000000.0,
+      24057000000.0,
+      26556000000.0
+    ],
+    "net_income": [
+      14957000000.0,
+      17273000000.0,
+      19743000000.0,
+      20058000000.0
+    ],
+    "ebitda": [
+      19535000000.0,
+      22624000000.0,
+      25591000000.0,
+      26003000000.0
+    ],
+    "rnd": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "eps_diluted": [
+      7.0,
+      8.28,
+      9.73,
+      10.2
+    ],
+    "shares_diluted": [
+      2558000000.0,
+      2507000000.0,
+      2399000000.0,
+      2194000000.0
+    ],
+    "total_assets": [
+      85501000000.0,
+      90499000000.0,
+      94511000000.0,
+      99627000000.0
+    ],
+    "equity": [
+      35581000000.0,
+      38733000000.0,
+      39137000000.0,
+      37909000000.0
+    ],
+    "total_debt": [
+      22450000000.0,
+      20463000000.0,
+      20836000000.0,
+      25171000000.0
+    ],
+    "cash": [
+      18522000000.0,
+      20128000000.0,
+      15175000000.0,
+      18997000000.0
+    ],
+    "current_assets": [
+      30205000000.0,
+      33532000000.0,
+      34033000000.0,
+      37766000000.0
+    ],
+    "current_liabilities": [
+      20853000000.0,
+      23098000000.0,
+      26517000000.0,
+      35048000000.0
+    ],
+    "invested_capital": [
+      55707000000.0,
+      57498000000.0,
+      58942000000.0,
+      62335000000.0
+    ],
+    "operating_cf": [
+      18849000000.0,
+      20755000000.0,
+      19950000000.0,
+      23059000000.0
+    ],
+    "capex": [
+      -970000000.0,
+      -1059000000.0,
+      -1257000000.0,
+      -1482000000.0
+    ],
+    "free_cash_flow": [
+      17879000000.0,
+      19696000000.0,
+      18693000000.0,
+      21577000000.0
+    ],
+    "buybacks": [
+      -11589000000.0,
+      -12101000000.0,
+      -16713000000.0,
+      -18316000000.0
+    ]
+  },
+  "metrics": {
+    "years_of_data": 4,
+    "currency_mismatch": false,
+    "trading_currency": "USD",
+    "financial_currency": "USD",
+    "revenue_cagr": 0.109212,
+    "revenue_cagr_years": 3,
+    "net_income_cagr": 0.10276,
+    "fcf_cagr": 0.064672,
+    "revenue_growth_ttm": 0.144,
+    "earnings_growth_ttm": 0.102,
+    "forward_eps_growth": 0.279139,
+    "gross_margin_latest": 0.803625,
+    "gross_margin_trend": 0.000277,
+    "operating_margin_latest": 0.6639,
+    "operating_margin_trend": -0.002462,
+    "net_margin_latest": 0.50145,
+    "fcf_margin_latest": 0.539425,
+    "fcf_margin_trend": -0.029459,
+    "rnd_intensity_latest": null,
+    "roe": 0.6119,
+    "roa": 0.1911,
+    "roic_est": 0.336556,
+    "current_ratio": 0.985,
+    "debt_to_equity": 67.821,
+    "net_debt": 6174000000.0,
+    "net_debt_to_ebitda": 0.237434,
+    "market_cap": 694490038272,
+    "enterprise_value": 690501124096,
+    "trailing_pe": 31.537085,
+    "forward_pe": 24.654932,
+    "peg_est": 2.41715,
+    "price_to_sales": 15.610727,
+    "ev_to_ebitda": 22.207,
+    "ev_to_revenue": 15.521,
+    "fcf_yield": 0.031069,
+    "dividend_yield": 0.007245,
+    "dividend_rate": 2.68,
+    "payout_ratio": 0.2213,
+    "beta": 0.761
+  }
+}

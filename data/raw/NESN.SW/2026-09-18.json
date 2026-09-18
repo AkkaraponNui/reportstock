@@ -1,0 +1,216 @@
+{
+  "ticker": "NESN.SW",
+  "as_of": "2026-09-18T07:52:40+00:00",
+  "source": "yfinance",
+  "profile": {
+    "name": "Nestlé S.A.",
+    "sector": "Consumer Defensive",
+    "industry": "Packaged Foods",
+    "country": "Switzerland",
+    "exchange": "EBS",
+    "currency": "CHF",
+    "financial_currency": "CHF",
+    "employees": 271000,
+    "website": "https://www.nestle.com",
+    "summary": "Nestlé S.A., together with its subsidiaries, manufactures and distributes food and beverage, and nutritional science products in the United States, Brazil, Mexico, Greater China, the Philippines, India, the United Kingdom, France, Germany, Switzerland, and internationally. The company offers cereals, chocolate and confectionery, coffee, culinary, chilled and frozen food, dairy, drinks, food service, ice cream, nutrition and health, petcare, water, plant-based portfolio, and recipe products. It sells its products under the Nesquik Cereal, Fitness, Cheerios, Lion Cereals, Cini Minis, KitKat Cereal, Chocapic, Koko Krunch, Shreddies, Shredded Wheat Original, Corn Flakes, Trix Cereal, Aero, Baci Perugina, KitKat, Milkybar, Smarties, Cailler, Quality Street, Garoto, Nestlé Toll House, Munch, Damak, Hsu Fu Chi, Sahne Nuss, Nestlé Sustainably Sourced Cocoa, Blue Bottle Coffee, Nescafé, Nescafé Dolce Gusto, Nespresso, Starbucks Coffee At Home, DiGiorno, Garden Gourmet, Maggi, Thomy, Stouffer's, Hot Pockets, Lean Cuisine, Life Cuisine, Buitoni, Nestlé carnation, Nestlé Coffee Mate, and Nestea brands. The company also offers its products under the Roastelier by Nescafé, Plant-based and so good!, Milo, Chef, Maggi Professional, La Lechera, Minor's, Antica Gelateria Del Corso, Drumstick, Extrême, Häagen-Dazs, Maxibon, Mövenpick, Nancare, Gerber, Cerelac, Nestum, Alfaré HMO, Athéra HMO, Alfamino HMO, Bear Brand, Nido, Orgain, Nestlé Vital, Garden of Life, Pure Encapsulations, Solgar, Compl"
+  },
+  "market": {
+    "price": 77.15,
+    "market_cap": 198446776320,
+    "week52_high": 87.09,
+    "week52_low": 70.29,
+    "off_52w_high": -0.114135,
+    "avg_volume": 3291361
+  },
+  "analyst": {
+    "target_mean": 88.36364,
+    "target_high": 100.0,
+    "target_low": 69.0,
+    "upside_to_target": 0.145349,
+    "recommendation": "buy",
+    "n_analysts": 22
+  },
+  "annual": {
+    "periods": [
+      "2021-12-31",
+      "2022-12-31",
+      "2023-12-31",
+      "2024-12-31",
+      "2025-12-31"
+    ],
+    "revenue": [
+      null,
+      94780000000.0,
+      93351000000.0,
+      91720000000.0,
+      89885000000.0
+    ],
+    "gross_profit": [
+      null,
+      43035000000.0,
+      43023000000.0,
+      43050000000.0,
+      41191000000.0
+    ],
+    "operating_income": [
+      null,
+      15668000000.0,
+      15671000000.0,
+      15613000000.0,
+      13981000000.0
+    ],
+    "net_income": [
+      null,
+      9270000000.0,
+      11209000000.0,
+      10884000000.0,
+      9033000000.0
+    ],
+    "ebitda": [
+      null,
+      16076000000.0,
+      17804000000.0,
+      18662000000.0,
+      16207000000.0
+    ],
+    "rnd": [
+      null,
+      1696000000.0,
+      1656000000.0,
+      1667000000.0,
+      1613000000.0
+    ],
+    "eps_diluted": [
+      null,
+      3.42,
+      4.23,
+      4.19,
+      3.51
+    ],
+    "shares_diluted": [
+      null,
+      2709000000.0,
+      2648000000.0,
+      2599000000.0,
+      2576000000.0
+    ],
+    "total_assets": [
+      null,
+      135182000000.0,
+      126550000000.0,
+      139264000000.0,
+      127151000000.0
+    ],
+    "equity": [
+      null,
+      41982000000.0,
+      35742000000.0,
+      35917000000.0,
+      32810000000.0
+    ],
+    "total_debt": [
+      null,
+      54312000000.0,
+      55241000000.0,
+      63560000000.0,
+      57852000000.0
+    ],
+    "cash": [
+      null,
+      6687000000.0,
+      5851000000.0,
+      7571000000.0,
+      5930000000.0
+    ],
+    "current_assets": [
+      null,
+      35062000000.0,
+      30857000000.0,
+      35188000000.0,
+      31969000000.0
+    ],
+    "current_liabilities": [
+      null,
+      39976000000.0,
+      37084000000.0,
+      42863000000.0,
+      40694000000.0
+    ],
+    "invested_capital": [
+      null,
+      41982000000.0,
+      35742000000.0,
+      35917000000.0,
+      32810000000.0
+    ],
+    "operating_cf": [
+      null,
+      11907000000.0,
+      15941000000.0,
+      16675000000.0,
+      15904000000.0
+    ],
+    "capex": [
+      null,
+      -5361000000.0,
+      -6203000000.0,
+      -5963000000.0,
+      -4911000000.0
+    ],
+    "free_cash_flow": [
+      null,
+      6546000000.0,
+      9738000000.0,
+      10712000000.0,
+      10993000000.0
+    ],
+    "buybacks": [
+      null,
+      null,
+      -5234000000.0,
+      -4678000000.0,
+      -213000000.0
+    ]
+  },
+  "metrics": {
+    "years_of_data": 5,
+    "currency_mismatch": false,
+    "trading_currency": "CHF",
+    "financial_currency": "CHF",
+    "revenue_cagr": -0.01752,
+    "revenue_cagr_years": 3,
+    "net_income_cagr": -0.008596,
+    "fcf_cagr": 0.18863,
+    "revenue_growth_ttm": -0.025,
+    "earnings_growth_ttm": -0.315,
+    "forward_eps_growth": 0.666647,
+    "gross_margin_latest": 0.458263,
+    "gross_margin_trend": 0.002113,
+    "operating_margin_latest": 0.155543,
+    "operating_margin_trend": -0.002695,
+    "net_margin_latest": 0.100495,
+    "fcf_margin_latest": 0.122301,
+    "fcf_margin_trend": 0.017218,
+    "rnd_intensity_latest": 0.017945,
+    "roe": 0.26244,
+    "roa": 0.06647,
+    "roic_est": 0.336635,
+    "current_ratio": 0.83,
+    "debt_to_equity": 213.005,
+    "net_debt": 51922000000.0,
+    "net_debt_to_ebitda": 3.203677,
+    "market_cap": 198446776320,
+    "enterprise_value": 258528083968,
+    "trailing_pe": 26.695501,
+    "forward_pe": 16.01749,
+    "peg_est": null,
+    "price_to_sales": 2.23539,
+    "ev_to_ebitda": 15.707,
+    "ev_to_revenue": 2.912,
+    "fcf_yield": 0.055395,
+    "dividend_yield": 0.040181,
+    "dividend_rate": 3.1,
+    "payout_ratio": 1.0727,
+    "beta": 0.496
+  }
+}

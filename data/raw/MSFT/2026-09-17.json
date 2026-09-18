@@ -1,0 +1,194 @@
+{
+  "ticker": "MSFT",
+  "as_of": "2026-09-17T12:03:40+00:00",
+  "source": "yfinance",
+  "profile": {
+    "name": "Microsoft Corporation",
+    "sector": "Technology",
+    "industry": "Software - Infrastructure",
+    "country": "United States",
+    "exchange": "NMS",
+    "currency": "USD",
+    "financial_currency": "USD",
+    "employees": 223000,
+    "website": "https://www.microsoft.com",
+    "summary": "Microsoft Corporation, a technology company, develops and supports a portfolio of technology solutions for individuals and businesses worldwide. Its products include operating systems, server applications, business solution applications, software development tools, desktop and server management tools, and video games; and devices, such as PCs, tablets, gaming and entertainment consoles, other intelligent devices, and related accessories. The company's Productivity and Business Processes segment offers Microsoft 365 Commercial, Enterprise Mobility + Security, Power BI, Exchange, SharePoint, Microsoft Teams, Microsoft 365 Security and Compliance, Microsoft 365 Copilot, and Windows Commercial on-premises and Office licensed on-premises. This segment also provides Microsoft 365 Consumer products and cloud services; LinkedIn, including talent solutions, marketing solutions, subscriptions, and sales solutions; Dynamics 365, a set of cloud-based applications; and on-premises ERP and CRM applications. Its Intelligent Cloud segment offers server products and cloud services; cloud and AI consumption-based services, GitHub cloud services, health and life sciences cloud services, as well as virtual desktop offerings, and other cloud services; SQL Server, Windows Server, Visual Studio, System Center, and related client access licenses; and enterprise support services, industry solutions, Microsoft partner network, and learning experience. The company's More Personal Computing segment prov"
+  },
+  "market": {
+    "price": 490.3,
+    "market_cap": 3640745000960,
+    "week52_high": 553.72,
+    "week52_low": 349.2,
+    "off_52w_high": -0.114534,
+    "avg_volume": 34667530
+  },
+  "analyst": {
+    "target_mean": 572.91516,
+    "target_high": 870.0,
+    "target_low": 400.0,
+    "upside_to_target": 0.168499,
+    "recommendation": "strong_buy",
+    "n_analysts": 52
+  },
+  "annual": {
+    "periods": [
+      "2023-06-30",
+      "2024-06-30",
+      "2025-06-30",
+      "2026-06-30"
+    ],
+    "revenue": [
+      211915000000.0,
+      245122000000.0,
+      281724000000.0,
+      331839000000.0
+    ],
+    "gross_profit": [
+      146052000000.0,
+      171008000000.0,
+      193893000000.0,
+      225465000000.0
+    ],
+    "operating_income": [
+      88523000000.0,
+      109433000000.0,
+      128528000000.0,
+      155237000000.0
+    ],
+    "net_income": [
+      72361000000.0,
+      88136000000.0,
+      101832000000.0,
+      133749000000.0
+    ],
+    "ebitda": [
+      105140000000.0,
+      131680000000.0,
+      155445000000.0,
+      207519000000.0
+    ],
+    "rnd": [
+      27195000000.0,
+      29510000000.0,
+      32488000000.0,
+      35562000000.0
+    ],
+    "eps_diluted": [
+      9.68,
+      11.8,
+      13.64,
+      17.95
+    ],
+    "shares_diluted": [
+      7472000000.0,
+      7469000000.0,
+      7465000000.0,
+      7453000000.0
+    ],
+    "total_assets": [
+      411976000000.0,
+      512163000000.0,
+      619003000000.0,
+      758376000000.0
+    ],
+    "equity": [
+      206223000000.0,
+      268477000000.0,
+      343479000000.0,
+      442387000000.0
+    ],
+    "total_debt": [
+      59965000000.0,
+      67127000000.0,
+      60588000000.0,
+      56826000000.0
+    ],
+    "cash": [
+      111256000000.0,
+      75531000000.0,
+      94555000000.0,
+      76651000000.0
+    ],
+    "current_assets": [
+      184257000000.0,
+      159734000000.0,
+      191131000000.0,
+      207710000000.0
+    ],
+    "current_liabilities": [
+      104149000000.0,
+      125286000000.0,
+      141218000000.0,
+      168825000000.0
+    ],
+    "invested_capital": [
+      253460000000.0,
+      320107000000.0,
+      386630000000.0,
+      482681000000.0
+    ],
+    "operating_cf": [
+      87582000000.0,
+      118548000000.0,
+      136162000000.0,
+      182935000000.0
+    ],
+    "capex": [
+      -28107000000.0,
+      -44477000000.0,
+      -64551000000.0,
+      -115948000000.0
+    ],
+    "free_cash_flow": [
+      59475000000.0,
+      74071000000.0,
+      71611000000.0,
+      66987000000.0
+    ],
+    "buybacks": [
+      -22245000000.0,
+      -17254000000.0,
+      -18420000000.0,
+      -22271000000.0
+    ]
+  },
+  "metrics": {
+    "years_of_data": 4,
+    "currency_mismatch": false,
+    "trading_currency": "USD",
+    "financial_currency": "USD",
+    "revenue_cagr": 0.16124,
+    "revenue_cagr_years": 3,
+    "net_income_cagr": 0.227238,
+    "fcf_cagr": 0.040444,
+    "revenue_growth_ttm": 0.177,
+    "earnings_growth_ttm": 0.317,
+    "forward_eps_growth": 0.315088,
+    "gross_margin_latest": 0.679441,
+    "gross_margin_trend": -0.003869,
+    "operating_margin_latest": 0.467808,
+    "operating_margin_trend": 0.016001,
+    "net_margin_latest": 0.403054,
+    "fcf_margin_latest": 0.201866,
+    "fcf_margin_trend": -0.028436,
+    "rnd_intensity_latest": 0.107166,
+    "roe": 0.34039,
+    "roa": 0.14088,
+    "roic_est": 0.254075,
+    "current_ratio": 1.23,
+    "debt_to_equity": 29.118,
+    "net_debt": -19825000000.0,
+    "net_debt_to_ebitda": -0.095533,
+    "market_cap": 3640745000960,
+    "enterprise_value": 3692715048960,
+    "trailing_pe": 27.329987,
+    "forward_pe": 20.78187,
+    "peg_est": 0.655579,
+    "price_to_sales": 10.971419,
+    "ev_to_ebitda": 19.011,
+    "ev_to_revenue": 11.128,
+    "fcf_yield": 0.018399,
+    "dividend_yield": 0.8,
+    "beta": 1.108
+  }
+}

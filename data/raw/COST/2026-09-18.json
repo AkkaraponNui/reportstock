@@ -1,0 +1,196 @@
+{
+  "ticker": "COST",
+  "as_of": "2026-09-18T07:52:28+00:00",
+  "source": "yfinance",
+  "profile": {
+    "name": "Costco Wholesale Corporation",
+    "sector": "Consumer Defensive",
+    "industry": "Discount Stores",
+    "country": "United States",
+    "exchange": "NMS",
+    "currency": "USD",
+    "financial_currency": "USD",
+    "employees": 341000,
+    "website": "https://www.costco.com",
+    "summary": "Costco Wholesale Corporation, together with its subsidiaries, engages in the operation of membership warehouses in the United States, Puerto Rico, Canada, Mexico, Japan, the United Kingdom, Korea, Australia, Taiwan, China, Spain, France, Iceland, New Zealand, and Sweden. It offers merchandise, including sundries, dry groceries, candies, coolers, freezers, deli, liquor, and tobacco; non-food merchandise comprising appliances, small electronics, health and beauty aids, hardware, lawn and garden, sporting goods, tires, toys and seasonal, automotive, stamps, tickets, apparel, furniture, domestics, housewares, special order kiosks, and jewelry; and fresh food, such as meat, produce, service deli, and bakery products. The company is also involved in warehouse ancillary operations, which include gasoline, pharmacies, optical, food courts, hearing-aid centers, and tire installation centers. In addition, it engages in e-commerce, business centers, travel, and other businesses. The company was formerly known as Costco Companies, Inc. and changed its name to Costco Wholesale Corporation in August 1999. Costco Wholesale Corporation was founded in 1976 and is based in Issaquah, Washington."
+  },
+  "market": {
+    "price": 893.93,
+    "market_cap": 396439027712,
+    "week52_high": 1096.5,
+    "week52_low": 844.06,
+    "off_52w_high": -0.184742,
+    "avg_volume": 2169645
+  },
+  "analyst": {
+    "target_mean": 1069.2,
+    "target_high": 1315.0,
+    "target_low": 740.0,
+    "upside_to_target": 0.196067,
+    "recommendation": "buy",
+    "n_analysts": 35
+  },
+  "annual": {
+    "periods": [
+      "2022-08-31",
+      "2023-08-31",
+      "2024-08-31",
+      "2025-08-31"
+    ],
+    "revenue": [
+      226954000000.0,
+      242290000000.0,
+      254453000000.0,
+      275235000000.0
+    ],
+    "gross_profit": [
+      27572000000.0,
+      29704000000.0,
+      32095000000.0,
+      35349000000.0
+    ],
+    "operating_income": [
+      7793000000.0,
+      8114000000.0,
+      9285000000.0,
+      10383000000.0
+    ],
+    "net_income": [
+      5844000000.0,
+      6292000000.0,
+      7367000000.0,
+      8099000000.0
+    ],
+    "ebitda": [
+      9898000000.0,
+      10724000000.0,
+      12146000000.0,
+      13398000000.0
+    ],
+    "rnd": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "eps_diluted": [
+      13.14,
+      14.16,
+      16.56,
+      18.21
+    ],
+    "shares_diluted": [
+      444757000.0,
+      444452000.0,
+      444759000.0,
+      444803000.0
+    ],
+    "total_assets": [
+      64166000000.0,
+      68994000000.0,
+      69831000000.0,
+      77099000000.0
+    ],
+    "equity": [
+      20642000000.0,
+      25058000000.0,
+      23622000000.0,
+      29164000000.0
+    ],
+    "total_debt": [
+      9039000000.0,
+      8884000000.0,
+      8169000000.0,
+      8173000000.0
+    ],
+    "cash": [
+      11049000000.0,
+      15234000000.0,
+      11144000000.0,
+      15284000000.0
+    ],
+    "current_assets": [
+      32696000000.0,
+      35879000000.0,
+      34246000000.0,
+      38380000000.0
+    ],
+    "current_liabilities": [
+      31998000000.0,
+      33583000000.0,
+      35464000000.0,
+      37108000000.0
+    ],
+    "invested_capital": [
+      27199000000.0,
+      31516000000.0,
+      29416000000.0,
+      34877000000.0
+    ],
+    "operating_cf": [
+      7392000000.0,
+      11068000000.0,
+      11339000000.0,
+      13335000000.0
+    ],
+    "capex": [
+      -3891000000.0,
+      -4323000000.0,
+      -4710000000.0,
+      -5498000000.0
+    ],
+    "free_cash_flow": [
+      3501000000.0,
+      6745000000.0,
+      6629000000.0,
+      7837000000.0
+    ],
+    "buybacks": [
+      -439000000.0,
+      -676000000.0,
+      -700000000.0,
+      -903000000.0
+    ]
+  },
+  "metrics": {
+    "years_of_data": 4,
+    "currency_mismatch": false,
+    "trading_currency": "USD",
+    "financial_currency": "USD",
+    "revenue_cagr": 0.066404,
+    "revenue_cagr_years": 3,
+    "net_income_cagr": 0.114912,
+    "fcf_cagr": 0.308135,
+    "revenue_growth_ttm": 0.116,
+    "earnings_growth_ttm": 0.152,
+    "forward_eps_growth": 0.139959,
+    "gross_margin_latest": 0.128432,
+    "gross_margin_trend": 0.002437,
+    "operating_margin_latest": 0.037724,
+    "operating_margin_trend": 0.001316,
+    "net_margin_latest": 0.029426,
+    "fcf_margin_latest": 0.028474,
+    "fcf_margin_trend": 0.003736,
+    "rnd_intensity_latest": null,
+    "roe": 0.29152,
+    "roa": 0.08666,
+    "roic_est": 0.235186,
+    "current_ratio": 1.072,
+    "debt_to_equity": 24.567,
+    "net_debt": -7111000000.0,
+    "net_debt_to_ebitda": -0.530751,
+    "market_cap": 396439027712,
+    "enterprise_value": 384675020800,
+    "trailing_pe": 45.034256,
+    "forward_pe": 39.50515,
+    "peg_est": 2.599023,
+    "price_to_sales": 1.350329,
+    "ev_to_ebitda": 27.895,
+    "ev_to_revenue": 1.31,
+    "fcf_yield": 0.019768,
+    "dividend_yield": 0.006578,
+    "dividend_rate": 5.88,
+    "payout_ratio": 0.2701,
+    "beta": 0.855
+  }
+}

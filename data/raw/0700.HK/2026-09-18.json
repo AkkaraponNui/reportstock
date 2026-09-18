@@ -1,0 +1,216 @@
+{
+  "ticker": "0700.HK",
+  "as_of": "2026-09-18T07:52:31+00:00",
+  "source": "yfinance",
+  "profile": {
+    "name": "Tencent Holdings Limited",
+    "sector": "Communication Services",
+    "industry": "Internet Content & Information",
+    "country": "China",
+    "exchange": "HKG",
+    "currency": "HKD",
+    "financial_currency": "CNY",
+    "employees": 115927,
+    "website": "https://www.tencent.com",
+    "summary": "Tencent Holdings Limited, an investment holding company, provides value-added services, marketing services, fintech, and business services in Mainland China and internationally. The company's consumers business includes communications and social services, such as instant messaging and social networks; digital content, including online games, videos, live streaming, news, music, and literature; fintech services, which include mobile payment, wealth management, consumer loans, and securities trading; and various tools comprising network security management, browsing, navigation, application management, email, etc. Its enterprise business comprises marketing solutions, which offer digital tools, including user insight, creative management, placement strategy, and digital assets management; and cloud services, such as cloud computing, big data analytics, artificial intelligence, Internet of Things, and security and other technologies for financial services, education, healthcare, retail, industry, transport, energy, and radio and television industries. The company also invests in, produces, and distributes films and television programs; offers copyrights licensing and merchandise sales and other services; provides internet advertisement services; and offers software development, and information technology and system integration services, as well as develops and operates mobile games. The company was formerly known as Tencent (BVI) Limited and changed its name to Tencent Holdings "
+  },
+  "market": {
+    "price": 421.2,
+    "market_cap": 3792767549440,
+    "week52_high": 683.0,
+    "week52_low": 411.0,
+    "off_52w_high": -0.383309,
+    "avg_volume": 27596951
+  },
+  "analyst": {
+    "target_mean": 664.5823,
+    "target_high": 886.4708,
+    "target_low": 428.64542,
+    "upside_to_target": 0.577831,
+    "recommendation": "strong_buy",
+    "n_analysts": 41
+  },
+  "annual": {
+    "periods": [
+      "2021-12-31",
+      "2022-12-31",
+      "2023-12-31",
+      "2024-12-31",
+      "2025-12-31"
+    ],
+    "revenue": [
+      null,
+      554552000000.0,
+      609015000000.0,
+      660257000000.0,
+      751766000000.0
+    ],
+    "gross_profit": [
+      null,
+      238746000000.0,
+      293109000000.0,
+      349246000000.0,
+      422593000000.0
+    ],
+    "operating_income": [
+      null,
+      113940000000.0,
+      165658000000.0,
+      208786000000.0,
+      248767000000.0
+    ],
+    "net_income": [
+      null,
+      188243000000.0,
+      115216000000.0,
+      194073000000.0,
+      224842000000.0
+    ],
+    "ebitda": [
+      null,
+      281426000000.0,
+      232217000000.0,
+      310145000000.0,
+      356733000000.0
+    ],
+    "rnd": [
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "eps_diluted": [
+      null,
+      19.341,
+      11.887,
+      20.486,
+      24.153
+    ],
+    "shares_diluted": [
+      null,
+      9695000000.0,
+      9610000000.0,
+      9408000000.0,
+      9244000000.0
+    ],
+    "total_assets": [
+      null,
+      1578131000000.0,
+      1577246000000.0,
+      1780995000000.0,
+      2038986000000.0
+    ],
+    "equity": [
+      null,
+      721391000000.0,
+      808591000000.0,
+      973548000000.0,
+      1154152000000.0
+    ],
+    "total_debt": [
+      null,
+      359141000000.0,
+      371240000000.0,
+      358112000000.0,
+      406399000000.0
+    ],
+    "cash": [
+      null,
+      290756000000.0,
+      379155000000.0,
+      343159000000.0,
+      426753000000.0
+    ],
+    "current_assets": [
+      null,
+      565989000000.0,
+      518446000000.0,
+      496180000000.0,
+      595460000000.0
+    ],
+    "current_liabilities": [
+      null,
+      434204000000.0,
+      352157000000.0,
+      396909000000.0,
+      412751000000.0
+    ],
+    "invested_capital": [
+      null,
+      1055754000000.0,
+      1157209000000.0,
+      1312163000000.0,
+      1541885000000.0
+    ],
+    "operating_cf": [
+      null,
+      146091000000.0,
+      221962000000.0,
+      258521000000.0,
+      303052000000.0
+    ],
+    "capex": [
+      null,
+      -50850000000.0,
+      -47407000000.0,
+      -96048000000.0,
+      -112881000000.0
+    ],
+    "free_cash_flow": [
+      null,
+      95241000000.0,
+      174555000000.0,
+      162473000000.0,
+      190171000000.0
+    ],
+    "buybacks": [
+      null,
+      -29307000000.0,
+      -43767000000.0,
+      -102331000000.0,
+      -73312000000.0
+    ]
+  },
+  "metrics": {
+    "years_of_data": 5,
+    "currency_mismatch": true,
+    "trading_currency": "HKD",
+    "financial_currency": "CNY",
+    "revenue_cagr": 0.106743,
+    "revenue_cagr_years": 3,
+    "net_income_cagr": 0.06101,
+    "fcf_cagr": 0.259235,
+    "revenue_growth_ttm": 0.11,
+    "earnings_growth_ttm": 0.018,
+    "forward_eps_growth": 0.213601,
+    "gross_margin_latest": 0.562134,
+    "gross_margin_trend": 0.044251,
+    "operating_margin_latest": 0.33091,
+    "operating_margin_trend": 0.042055,
+    "net_margin_latest": 0.299085,
+    "fcf_margin_latest": 0.252966,
+    "fcf_margin_trend": 0.020312,
+    "rnd_intensity_latest": null,
+    "roe": 0.19906,
+    "roa": 0.07867,
+    "roic_est": 0.127458,
+    "current_ratio": 1.287,
+    "debt_to_equity": 38.595,
+    "net_debt": -20354000000.0,
+    "net_debt_to_ebitda": -0.057057,
+    "market_cap": 3792767549440,
+    "enterprise_value": 3934442225664,
+    "trailing_pe": 14.160781,
+    "forward_pe": 11.668401,
+    "peg_est": 6.482445,
+    "price_to_sales": 4.812494,
+    "ev_to_ebitda": 13.245,
+    "ev_to_revenue": 4.99,
+    "fcf_yield": 0.05014,
+    "dividend_yield": 0.012583,
+    "dividend_rate": 5.3,
+    "payout_ratio": 0.1798,
+    "beta": 0.74
+  }
+}

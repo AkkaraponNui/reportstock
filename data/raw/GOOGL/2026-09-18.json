@@ -1,0 +1,196 @@
+{
+  "ticker": "GOOGL",
+  "as_of": "2026-09-18T07:52:00+00:00",
+  "source": "yfinance",
+  "profile": {
+    "name": "Alphabet Inc.",
+    "sector": "Communication Services",
+    "industry": "Internet Content & Information",
+    "country": "United States",
+    "exchange": "NMS",
+    "currency": "USD",
+    "financial_currency": "USD",
+    "employees": 198933,
+    "website": "https://abc.xyz",
+    "summary": "Alphabet Inc. offers various products and platforms in the United States, Europe, the Middle East, Africa, the Asia-Pacific, Canada, and Latin America. It operates through Google Services, Google Cloud, and Other Bets segments. The Google Services segment provides products and services, including ads, Android, Chrome, devices, Gmail, Google Drive, Google Maps, Google Photos, Google Play, Search, and YouTube. It is also involved in the sale of apps and in-app purchases and digital content in Google Play and YouTube; and devices, as well as the provision of YouTube consumer subscription services, such as YouTube TV, YouTube Music and Premium, NFL Sunday Ticket, and Google One. The Google Cloud segment offers consumption-based fees and subscriptions for AI solutions, including AI infrastructure, Vertex AI platform, and Gemini enterprise. It also provides cybersecurity, and data and analytics services; Google Workspace that include cloud-based communication and collaboration tools for enterprises, such as Calendar, Gmail, Docs, Drive, and Meet; and other enterprise services. The Other Bets segment sells transportation and internet services. Alphabet Inc. was incorporated in 1998 and is headquartered in Mountain View, California."
+  },
+  "market": {
+    "price": 347.33,
+    "market_cap": 4247823319040,
+    "week52_high": 408.61,
+    "week52_low": 235.84,
+    "off_52w_high": -0.149972,
+    "avg_volume": 29605277
+  },
+  "analyst": {
+    "target_mean": 428.40756,
+    "target_high": 515.0,
+    "target_low": 340.0,
+    "upside_to_target": 0.233431,
+    "recommendation": "strong_buy",
+    "n_analysts": 53
+  },
+  "annual": {
+    "periods": [
+      "2022-12-31",
+      "2023-12-31",
+      "2024-12-31",
+      "2025-12-31"
+    ],
+    "revenue": [
+      282836000000.0,
+      307394000000.0,
+      350018000000.0,
+      402836000000.0
+    ],
+    "gross_profit": [
+      156633000000.0,
+      174062000000.0,
+      203712000000.0,
+      240301000000.0
+    ],
+    "operating_income": [
+      74842000000.0,
+      84293000000.0,
+      112390000000.0,
+      129039000000.0
+    ],
+    "net_income": [
+      59972000000.0,
+      73795000000.0,
+      100118000000.0,
+      132170000000.0
+    ],
+    "ebitda": [
+      85160000000.0,
+      97971000000.0,
+      135394000000.0,
+      180698000000.0
+    ],
+    "rnd": [
+      39500000000.0,
+      45427000000.0,
+      49326000000.0,
+      61087000000.0
+    ],
+    "eps_diluted": [
+      4.56,
+      5.8,
+      8.04,
+      10.81
+    ],
+    "shares_diluted": [
+      13159000000.0,
+      12722000000.0,
+      12447000000.0,
+      12230000000.0
+    ],
+    "total_assets": [
+      365264000000.0,
+      402392000000.0,
+      450256000000.0,
+      595281000000.0
+    ],
+    "equity": [
+      256144000000.0,
+      283379000000.0,
+      325084000000.0,
+      415265000000.0
+    ],
+    "total_debt": [
+      29679000000.0,
+      27121000000.0,
+      22574000000.0,
+      59291000000.0
+    ],
+    "cash": [
+      113762000000.0,
+      110916000000.0,
+      95657000000.0,
+      126843000000.0
+    ],
+    "current_assets": [
+      164795000000.0,
+      171530000000.0,
+      163711000000.0,
+      206038000000.0
+    ],
+    "current_liabilities": [
+      69300000000.0,
+      81814000000.0,
+      89122000000.0,
+      102745000000.0
+    ],
+    "invested_capital": [
+      269001000000.0,
+      295249000000.0,
+      335967000000.0,
+      461812000000.0
+    ],
+    "operating_cf": [
+      91495000000.0,
+      101746000000.0,
+      125299000000.0,
+      164713000000.0
+    ],
+    "capex": [
+      -31485000000.0,
+      -32251000000.0,
+      -52535000000.0,
+      -91447000000.0
+    ],
+    "free_cash_flow": [
+      60010000000.0,
+      69495000000.0,
+      72764000000.0,
+      73266000000.0
+    ],
+    "buybacks": [
+      -59296000000.0,
+      -61504000000.0,
+      -62222000000.0,
+      -45709000000.0
+    ]
+  },
+  "metrics": {
+    "years_of_data": 4,
+    "currency_mismatch": false,
+    "trading_currency": "USD",
+    "financial_currency": "USD",
+    "revenue_cagr": 0.125117,
+    "revenue_cagr_years": 3,
+    "net_income_cagr": 0.301352,
+    "fcf_cagr": 0.068791,
+    "revenue_growth_ttm": 0.242,
+    "earnings_growth_ttm": 2.94,
+    "forward_eps_growth": -0.263784,
+    "gross_margin_latest": 0.596523,
+    "gross_margin_trend": 0.014394,
+    "operating_margin_latest": 0.320326,
+    "operating_margin_trend": 0.021402,
+    "net_margin_latest": 0.328099,
+    "fcf_margin_latest": 0.181876,
+    "fcf_margin_trend": -0.010908,
+    "rnd_intensity_latest": 0.151642,
+    "roe": 0.48676,
+    "roa": 0.12959,
+    "roic_est": 0.220741,
+    "current_ratio": 2.724,
+    "debt_to_equity": 18.859,
+    "net_debt": -67552000000.0,
+    "net_debt_to_ebitda": -0.373839,
+    "market_cap": 4247823319040,
+    "enterprise_value": 4144185999360,
+    "trailing_pe": 17.211596,
+    "forward_pe": 23.378473,
+    "peg_est": 0.079519,
+    "price_to_sales": 9.52713,
+    "ev_to_ebitda": 23.932,
+    "ev_to_revenue": 9.295,
+    "fcf_yield": 0.017248,
+    "dividend_yield": 0.002534,
+    "dividend_rate": 0.88,
+    "payout_ratio": 0.0426,
+    "beta": 1.225
+  }
+}

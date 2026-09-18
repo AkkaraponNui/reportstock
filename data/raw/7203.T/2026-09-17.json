@@ -1,0 +1,214 @@
+{
+  "ticker": "7203.T",
+  "as_of": "2026-09-17T11:38:54+00:00",
+  "source": "yfinance",
+  "profile": {
+    "name": "Toyota Motor Corporation",
+    "sector": "Consumer Cyclical",
+    "industry": "Auto Manufacturers",
+    "country": "Japan",
+    "exchange": "JPX",
+    "currency": "JPY",
+    "financial_currency": "JPY",
+    "employees": 367990,
+    "website": "https://global.toyota",
+    "summary": "Toyota Motor Corporation designs, manufactures, assembles, and sells passenger vehicles, minivans and commercial vehicles, and related parts and accessories in Japan, North America, Europe, Asia, Central and South America, Oceania, Africa, the Middle East, and internationally. The company operates through Automotive, Financial Services, and All Other segments. The company offers subcompact and compact cars; mini-vehicles; mid-size, luxury, sports, and specialty cars; recreational and sport-utility vehicles; pickup trucks; minivans; trucks; and buses. It also develops and sells battery and hybrid electric vehicles and batteries. In addition, the company provides financial services, such as retail financing and leasing, wholesale financing, insurance, and credit cards. Further, it operates GAZOO.com, a web portal for automobile information, as well as engages in telecommunications and other businesses. It offers vehicles under the Toyota and Lexus brand names. It has strategic manufacturing alliance with Joby Aviation, Inc. to establish a joint venture to realize air mobility. Toyota Motor Corporation was founded in 1933 and is headquartered in Toyota, Japan."
+  },
+  "market": {
+    "price": 3034.0,
+    "market_cap": 35928122851328,
+    "week52_high": 4000.0,
+    "week52_low": 2686.0,
+    "off_52w_high": -0.2415,
+    "avg_volume": 28333682
+  },
+  "analyst": {
+    "target_mean": 3704.111,
+    "target_high": 4900.0,
+    "target_low": 2930.0,
+    "upside_to_target": 0.220867,
+    "recommendation": "buy",
+    "n_analysts": 18
+  },
+  "annual": {
+    "periods": [
+      "2022-03-31",
+      "2023-03-31",
+      "2024-03-31",
+      "2025-03-31",
+      "2026-03-31"
+    ],
+    "revenue": [
+      null,
+      37154298000000.0,
+      45095325000000.0,
+      48036704000000.0,
+      50684952000000.0
+    ],
+    "gross_profit": [
+      null,
+      6313016000000.0,
+      9368318000000.0,
+      9578038000000.0,
+      8463740000000.0
+    ],
+    "operating_income": [
+      null,
+      2725026000000.0,
+      5352935000000.0,
+      4795586000000.0,
+      3766216000000.0
+    ],
+    "net_income": [
+      null,
+      2451318000000.0,
+      4944933000000.0,
+      4765086000000.0,
+      3848098000000.0
+    ],
+    "ebitda": [
+      null,
+      5755993000000.0,
+      9116884000000.0,
+      8749929000000.0,
+      7605808000000.0
+    ],
+    "rnd": [
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "eps_diluted": [
+      null,
+      179.47,
+      365.94,
+      359.56,
+      295.25
+    ],
+    "shares_diluted": [
+      null,
+      13658382000.0,
+      13512848000.0,
+      13252456000.0,
+      13033274000.0
+    ],
+    "total_assets": [
+      null,
+      74303180000000.0,
+      90114296000000.0,
+      93601350000000.0,
+      105522331000000.0
+    ],
+    "equity": [
+      null,
+      28338706000000.0,
+      34220991000000.0,
+      35924826000000.0,
+      39918854000000.0
+    ],
+    "total_debt": [
+      null,
+      29380272000000.0,
+      36561781000000.0,
+      38792879000000.0,
+      43205469000000.0
+    ],
+    "cash": [
+      null,
+      9232641000000.0,
+      14114228000000.0,
+      15918163000000.0,
+      16642067000000.0
+    ],
+    "current_assets": [
+      null,
+      26459781000000.0,
+      34714279000000.0,
+      37078676000000.0,
+      42824081000000.0
+    ],
+    "current_liabilities": [
+      null,
+      23959715000000.0,
+      29177909000000.0,
+      29434220000000.0,
+      33605019000000.0
+    ],
+    "invested_capital": [
+      null,
+      57262858000000.0,
+      70320204000000.0,
+      74184354000000.0,
+      82413310000000.0
+    ],
+    "operating_cf": [
+      null,
+      2955076000000.0,
+      4206373000000.0,
+      3696934000000.0,
+      5472920000000.0
+    ],
+    "capex": [
+      null,
+      -3705832000000.0,
+      -5048394000000.0,
+      -5257927000000.0,
+      -5293348000000.0
+    ],
+    "free_cash_flow": [
+      null,
+      -750756000000.0,
+      -842021000000.0,
+      -1560993000000.0,
+      179572000000.0
+    ],
+    "buybacks": [
+      null,
+      null,
+      null,
+      null,
+      null
+    ]
+  },
+  "metrics": {
+    "years_of_data": 5,
+    "currency_mismatch": false,
+    "trading_currency": "JPY",
+    "financial_currency": "JPY",
+    "revenue_cagr": 0.109064,
+    "revenue_cagr_years": 3,
+    "net_income_cagr": 0.162203,
+    "fcf_cagr": null,
+    "revenue_growth_ttm": 0.104,
+    "earnings_growth_ttm": 0.869,
+    "forward_eps_growth": -0.077243,
+    "gross_margin_latest": 0.166987,
+    "gross_margin_trend": -0.001713,
+    "operating_margin_latest": 0.074306,
+    "operating_margin_trend": -0.001598,
+    "net_margin_latest": 0.075922,
+    "fcf_margin_latest": 0.003543,
+    "fcf_margin_trend": 0.005742,
+    "rnd_intensity_latest": null,
+    "roe": 0.12404,
+    "roa": 0.02339,
+    "roic_est": 0.036102,
+    "current_ratio": 1.169,
+    "debt_to_equity": 114.974,
+    "net_debt": 26563402000000.0,
+    "net_debt_to_ebitda": 3.492515,
+    "market_cap": 35928122851328,
+    "enterprise_value": 67237679464448,
+    "trailing_pe": 8.635018,
+    "forward_pe": 9.357843,
+    "peg_est": 0.107685,
+    "price_to_sales": 0.691497,
+    "ev_to_ebitda": 12.006,
+    "ev_to_revenue": 1.294,
+    "fcf_yield": 0.004998,
+    "dividend_yield": 3.32,
+    "beta": 0.337
+  }
+}

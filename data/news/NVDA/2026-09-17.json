@@ -1,0 +1,1076 @@
+{
+  "ticker": "NVDA",
+  "company": "NVIDIA",
+  "as_of": "2026-09-17T11:22:05+00:00",
+  "lookback_days": 21,
+  "summary": {
+    "total": 85,
+    "by_event_tag": {
+      "guidance": 12,
+      "capacity": 10,
+      "regulatory": 8,
+      "earnings": 8,
+      "mna": 7,
+      "analyst": 3,
+      "product": 2,
+      "management": 2,
+      "demand": 2
+    },
+    "headline_lean": {
+      "positive": 10,
+      "negative": 5,
+      "neutral": 70
+    },
+    "top_publishers": {
+      "Yahoo Finance": 11,
+      "The Motley Fool": 6,
+      "CNBC": 6,
+      "24/7 Wall St.": 5,
+      "Moomoo": 4,
+      "Reuters": 4,
+      "Seeking Alpha": 4,
+      "Barron's": 3,
+      "Business Insider": 3,
+      "Barchart.com": 2
+    }
+  },
+  "articles": [
+    {
+      "title": "Nvidia Stock Forecast: Where Investors Could Stand in 5 Years - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZ1lNTlByX1FIVTZuejR3cENwSnJJazF6WUdRcTdIbExWQlMza0VXaVFJMGJ6X2ItSzJwcER1dXBnU3R3c0VUMl96Qm9ydTNJYU8yb01rM2RyX1FoX3ljVV8tOVdNb0lSWk0yNXZQVkg0Nll4RXlVdUJJa1Y3M2RKM2dPTmFVZG9FNVVrNjlieVJsY19qTU1r?oc=5",
+      "published": "2026-09-16T19:23:00+00:00",
+      "publisher": "The Motley Fool",
+      "summary": "Nvidia Stock Forecast: Where Investors Could Stand in 5 Years &nbsp;&nbsp; The Motley Fool",
+      "query": "\"NVIDIA\" revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [
+        "guidance"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Why It’s Time to Load Up on Nvidia Stock - Barchart.com",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWkU1ejdycWlFSHlVYUlZSXZjWFVYanNxVGV2eW9rbkhmME5iSGVCblpPWkFKRjhtSWFFalNGdFFhQkJDMUgwd28yOW44X1ctQ2h6ZFJUZDNzTjlZeE4ydFpRZHF0MDdPdFBrVWY5MEw5SDd2QldVVnNQcUpuM0xtMWUtbjFiUmJjcC1Z?oc=5",
+      "published": "2026-09-16T18:30:25+00:00",
+      "publisher": "Barchart.com",
+      "summary": "Why It’s Time to Load Up on Nvidia Stock &nbsp;&nbsp; Barchart.com",
+      "query": "\"NVIDIA\" stock",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Intel doubles its GPU market share on Amazon while Nvidia and AMD drop off with inflated prices - PC Guide",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYk5IUG10U0pWOTd6R21tSERybm1mbVBscjUzU1BOQkNLVl8xd2E3Vm9rSHBJWDg0UFI4TkVDN2xUdDg2a2RvbjdlY2hDZ0JBck43bTRMb2M4SWZXWmtRX21Rck9DLUxfRnMzWUVTRU9LR1pMZ0kxUTJOYW42R3AzU1pIWFlfWTNJaTcwY2t1cjBaRFhVSDlpa0lqaW5CWHh2T3hlc04wbUVaTnBGQU1ITk1BdnpGYjFwQm1CZXlRYmRmMGM?oc=5",
+      "published": "2026-09-16T09:59:17+00:00",
+      "publisher": "PC Guide",
+      "summary": "Intel doubles its GPU market share on Amazon while Nvidia and AMD drop off with inflated prices &nbsp;&nbsp; PC Guide",
+      "query": "\"NVIDIA\" competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says - TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTW5yQnNCZkM1c1JRdjA5eFNnTnV4d0dfa2xPcWNrcGFwZ3Z0eTR1UUlWRFhtMlBKU0JfNVdnU1ZzV25Ea282aXhfZ3BkLXVnZ1pHbTIxQkI1enlyMmh6RldUNllKUkhGNUtDZVJMU3JFaVQzaGtVN29zQWZMOTMwYXc1bjFsNnJ5YVVadGtmN29RTENOSDdOcWREY3V3eTUxS1dIOEEtdXJjdw?oc=5",
+      "published": "2026-09-16T00:20:39+00:00",
+      "publisher": "TechCrunch",
+      "summary": "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says &nbsp;&nbsp; TechCrunch",
+      "query": "NVDA lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Nvidia's Huang rips Anthropic's proposal for AI safety antitrust waiver: 'Completely unnecessary' - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE44RHpQWkxyODlqZFVxWEs5TjRrN2ZWMktZUGRyWERQMURrUEZSWk53QXRpRURxcmJtMVJvcmIzWTY5Unk3VVBlRThad2J0YVhJcFRkSVdOUlNvU3Jvbzh1anRPTGU3SGZnUXZOOE5GcWtQOXpPMldaR1hCTdIBgAFBVV95cUxNZ1VaYzZvQzNWOHQwX3Vfc1BraXpSRU91R2E5ZWVoSUhaZjNZQ1BfT1hUaFU5aEI5cF95UHE1V3VWX1ExcGpQR2NXc2JsSUJzWGFGRjU3TC1waW1hM0FmbTNRS2c2UlZVcWk3bmxudUNBbXBVYWJDVHRLRm9meG1zQg?oc=5",
+      "published": "2026-09-15T22:13:52+00:00",
+      "publisher": "CNBC",
+      "summary": "Nvidia's Huang rips Anthropic's proposal for AI safety antitrust waiver: 'Completely unnecessary' &nbsp;&nbsp; CNBC",
+      "query": "NVDA lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Announcing Koa: Salesforce’s First CRM Reasoning Model, Built on NVIDIA Nemotron - Salesforce",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPWEZFRTRaU3FBVEVKVi1vYTdhLWJrNlVOaXZINDQ5aWo5dXB2Z3p6UmRiZTlWdWRXSTlEVU52XzJhZXpaaXQ1LUk3NmdMR0hlOTNmS2tROVE5MnVZUjRHWXk2WEJLcERYZVN1NUxqSnVWa2xsVldZMW14Ynk0dzhJaGlLajQ?oc=5",
+      "published": "2026-09-15T13:48:35+00:00",
+      "publisher": "Salesforce",
+      "summary": "Announcing Koa: Salesforce’s First CRM Reasoning Model, Built on NVIDIA Nemotron &nbsp;&nbsp; Salesforce",
+      "query": "\"NVIDIA\" acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Nvidia announces project with Palantir to develop AI supply chain management - jpost.com",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQQ1JGUk91ZkpKSFJSRzFsaml2U29idVQ1WjEwY1FUSi1pUDRycEVOSWs5XzJ6LTlCNmVxUUlSQlFSdUE4bFlBb0k2UGZtUHBOQ1BOWW1BODNYbWlQSVYtb2d4Wkt0RVJuMzdsYk9GaWZoYnhSeGlPMVAyb0IzanlVTm1WZEx4dw?oc=5",
+      "published": "2026-09-15T06:09:09+00:00",
+      "publisher": "jpost.com",
+      "summary": "Nvidia announces project with Palantir to develop AI supply chain management &nbsp;&nbsp; jpost.com",
+      "query": "NVDA capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "product",
+        "capacity"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "NVDA Stock Quote Price and Forecast - CNN",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5oakpQaVAtWVg3Rjh6M2FFaExEa1JVeThKN1FIX1p2OG1lWmVaVnhlU3Zsek42ZlRyd055aXc2dGNHa0NxV2RfU1I1dUoweXNi?oc=5",
+      "published": "2026-09-14T20:15:21+00:00",
+      "publisher": "CNN",
+      "summary": "NVDA Stock Quote Price and Forecast &nbsp;&nbsp; CNN",
+      "query": "NVDA revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [
+        "guidance"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Nvidia Stock Drops. It’s Still the Best Chip Bet in an AI Slowdown. - Barron's",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNd28zaEgxYzJOZi1kWWhWa0Y5RG5za0VEUDN5dEVXTjVPdzhnTlhLX3BIaUdTNUEtN20zRWhkandEbDlZaTNiX0VrUkQ2aFQ3Z3BvbmlDeTI5enc2RUJqaTkzV3FZZWxZUmxqMXBNZ25MNnRLMDhPYmV1aTd0WWc3MERLWQ?oc=5",
+      "published": "2026-09-14T18:26:00+00:00",
+      "publisher": "Barron's",
+      "summary": "Nvidia Stock Drops. It’s Still the Best Chip Bet in an AI Slowdown. &nbsp;&nbsp; Barron's",
+      "query": "NVDA stock",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "negative"
+    },
+    {
+      "title": "Tech stocks are tumbling as AI apocalypse fears go mainstream - Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNG5sa1kyUTFwUEs5eW4tNjRxbVhZWUIzNkloRHRiNFVXV0RXWG5CLWxjTTg3RXBjYXh1RTZ1TGxncklpUG1VY0hFSWg0b2tCYm03N1k1U2JNTVUxWGY0dnlPRmZCdnRUR2VicWljdVZodEgyTjFYa2g0eVktRG53TWR3QnpNcjJCMVpsekJWREVQNWlNTUNIVw?oc=5",
+      "published": "2026-09-14T13:50:00+00:00",
+      "publisher": "Business Insider",
+      "summary": "Tech stocks are tumbling as AI apocalypse fears go mainstream &nbsp;&nbsp; Business Insider",
+      "query": "\"NVIDIA\" stock",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "NVIDIA Stock Forecast: Can NVDA Reclaim $235 and Push Toward $300? - FXLeaders",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOUWdsSUxTRnRybllQYkhYYURfLXJzSXFCUzFtdWdmcmR1UTdnMHUwVXRkLVc2TVBXOV81cEdQblZseE56clVFN2Q2cXgzdkl5TDlaMjh1d3YwT2E3ZzJMMnBKSEtWX2NzRGI4UUlnSlZBb2hxRUpDR3FkM1RIS29iUnhqM19rRjdXd3ExUWpCNA?oc=5",
+      "published": "2026-09-14T11:12:39+00:00",
+      "publisher": "FXLeaders",
+      "summary": "NVIDIA Stock Forecast: Can NVDA Reclaim $235 and Push Toward $300? &nbsp;&nbsp; FXLeaders",
+      "query": "NVDA analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [
+        "guidance"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Jim Cramer Tries To Predict NVIDIA Corporation (NASDAQ:NVDA) Share Price Movement Following Anthropic CEO’s Remarks - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWVhZM0FqUkQ1dEpUQU5ZNzBkbHZuYWJpaWxIendUTDNDQjhNb20wVGEtampJcHNPYlhtRENrY002VXhrZ1VnV3BLVFdSa3dJOW9nZmxyRFBIbnUzd2NrelJteXpKbFFwcXpSa0llbk1mQXJGdVRDVDZUNUdPbmFCWnZCUkdJUE9ZaUpzaHNaa3A2X3d6LUpNQTFOb3c?oc=5",
+      "published": "2026-09-14T09:57:28+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Jim Cramer Tries To Predict NVIDIA Corporation (NASDAQ:NVDA) Share Price Movement Following Anthropic CEO’s Remarks &nbsp;&nbsp; Yahoo Finance",
+      "query": "NVDA stock",
+      "source_api": "google_news_rss",
+      "tags": [
+        "management"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Why is NVIDIA stock sliding today? - Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZ3RWRnhocHBpbHlUVTQwTU5pS2xDcTdtUktENDNlZ1I5WTNPaVZYZVYxSUluUU9zUFZQd1RzQy1VM2R6UkYya3dUUDNNS3U1bzg4SWRKZDJwcTVEQXh2UWszNW4xaWFHZkVYSkdzVFdnT2xyNGxUN3JzMVMzUXc5d0dEX3hHcV9mXy03ckhxVEZSaXEySm9SMW5fTQ?oc=5",
+      "published": "2026-09-14T09:46:28+00:00",
+      "publisher": "Investing.com",
+      "summary": "Why is NVIDIA stock sliding today? &nbsp;&nbsp; Investing.com",
+      "query": "\"NVIDIA\" stock",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Analyst sets jaw-dropping Nvidia price target - thestreet.com",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOaGp4bU82TFZGX2JxN3ZTLVFLeHdQZHFnUExiQmM2am5XdVBPUl9vMXpXdjdQcWM4azkwbVRwR3V0aDRJNFI3VVBZUm9DUGJsWUlxSFRvVHpUTlAtUTNfM1QybEdEMWM1aVRXb0NxN3ZiOHlOY0c1bm41YXRHMlpNZGxVTkdIeXA5a0h1c0VWWmFqUQ?oc=5",
+      "published": "2026-09-12T14:33:00+00:00",
+      "publisher": "thestreet.com",
+      "summary": "Analyst sets jaw-dropping Nvidia price target &nbsp;&nbsp; thestreet.com",
+      "query": "NVDA analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [
+        "analyst"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Nvidia will use Palantir to gain insight its supply chain - cio.com",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdENvaHE0cHY0a19WSXhhUmpQSkUtd2dXb0UyejdqNV9SUHNlSjRQVTl3QUhXTGNYMXlvSTVub1cwc2F6cU5FbGY4X0k3WnFBc28yYkdHSVItQl9NNnJ2V0VOcEVkeXRBSjJGX1JCV1V4QTJTY011b0w0NUM3cUJXNVFaTng5al9wb05hUTRtU2pTbXFQWG9Yem1xU1JfYlE?oc=5",
+      "published": "2026-09-11T14:40:48+00:00",
+      "publisher": "cio.com",
+      "summary": "Nvidia will use Palantir to gain insight its supply chain &nbsp;&nbsp; cio.com",
+      "query": "NVDA capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Palantir Foundry and cuOpt drive NVIDIA supply chain allocation - AI News",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSm0xdU1IZU1jNTdwVUZjYS1WMTlvOTE3N0FQYmNMdG9fWVdFekQ4S3lOOVZSeTlNeVl0eDE3UTh5ZlUtbUtrTzdRQlhVWE9DbWprQXR6ZHdqYTdDTHpXcERJYlFEZjBnNjhkSXNJRVdGQzlpS1FzcEQwWjBXT1VnN3lJODFHcW5aM0VYdjFMaFp3UWJSYzBqRWNCYkNibVcwYUtIMWRn?oc=5",
+      "published": "2026-09-11T12:03:41+00:00",
+      "publisher": "AI News",
+      "summary": "Palantir Foundry and cuOpt drive NVIDIA supply chain allocation &nbsp;&nbsp; AI News",
+      "query": "NVDA capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Chinese Nvidia rival Enflame soars 206% on stock market debut as AI demand stays hot - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNb3NRZnFyUlUzaHZKaEZCV19MVjJ6U0tHRnh3eXc1NzBTRWk0U3VYOEZrSlJLaWdxdWRaaFh1MXVpbjRzb3lKNzBtY0NrQ3ZabmxKNXdWVHJaeW5Pb1ZHemIyTmtwQ2RxMTBWRXVfUjBxZjhoRzNWSjFtWDlPYUpTNFZRVlBEZF9YOWdXdEdzMETSAZYBQVVfeXFMT2gyeDQ0M2xEdTM5MFh5MHdoYUd6elJxSUxVYTdQaGtpdkgxelRnRUpCYTczQzN3dDRHc0kzaHBDdnNJTGdCOXk4eXlhOWdBbHgzVjFfRF9Nc19pblI3MnZmOVBqUmRIMlNET3R1SGUwaUl2Y3hnVi1RdmcxLU1GbUNzdDdJeF9fdXZVcnBkTkJpazB0XzlB?oc=5",
+      "published": "2026-09-11T01:53:00+00:00",
+      "publisher": "CNBC",
+      "summary": "Chinese Nvidia rival Enflame soars 206% on stock market debut as AI demand stays hot &nbsp;&nbsp; CNBC",
+      "query": "NVDA competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [
+        "demand"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Jensen Huang explains why Nvidia will grow an astounding 70% next year - TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNR0MzWHlsQmg2a0g0RGE1UUp0OTVjUkpsTG8wVHUya2V0clh0RERnRWFaVi1udEVPSzZJMGVaeE5iT2xZbXJoM0thVDV2UEZxNGRWWmRWcC1ZRTBzZk0yMU16cEpqWXZ5Z3hfTGxQdHR3dmNRd3VFU0htQWdoaWxTZGtIdE5HZmlTNDJCMEZFNWRCN1c3MGdhV1JxVUFEY0VXaF9kUUFMTQ?oc=5",
+      "published": "2026-09-10T21:51:59+00:00",
+      "publisher": "TechCrunch",
+      "summary": "Jensen Huang explains why Nvidia will grow an astounding 70% next year &nbsp;&nbsp; TechCrunch",
+      "query": "\"NVIDIA\" revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Nvidia Just Handed Its 1.3 Million-Part Supply Chain to a Stock Cramer Called Ice Cold - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQ0lVUXJROHl3WEF2TWhQdlFtZGtpN3ZlTVRfRU94Rjd6dW1lYml2UVZ3ZDJSUXRKbEtsbTZRdW9wTnJiWDlyNklaTUVXR3hYeUFkT0RnaWx0eU1iWWlacWo0Z1gzaDlWSldWVHYwUElsdnRuODB5cTdXZDZDdzhCT1RqcVg4WVREM3FJVGlxWlo?oc=5",
+      "published": "2026-09-10T16:48:06+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Nvidia Just Handed Its 1.3 Million-Part Supply Chain to a Stock Cramer Called Ice Cold &nbsp;&nbsp; Yahoo Finance",
+      "query": "NVDA capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Nvidia Just Handed Its 1.3 Million-Part Supply Chain to a Stock Cramer Called Ice Cold - 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOOUJvUnFOUHBEbndHTmZMUk9qem5yNHZLUjNhbzF3Q0xoU0JjSklIMm95Vy1YT3RWY2xpMldZc2tmZnZWelJKanVhak9VeGNPUXdnRzc4cWdfeUU1bWlkSUFpLUVmREdhZTIyNmx1S212bUtvWi1QbVZJMjdSNDFadXEweHpkV0Q1d1dpYmFrLTVtUDRKaHhBRHBGa29kNjhoSnpFYlplRzI0SjFEWVRORGZzNGlhcVY0dS00dTZlYnNOMzhkOFJiNTR3?oc=5",
+      "published": "2026-09-10T16:48:00+00:00",
+      "publisher": "24/7 Wall St.",
+      "summary": "Nvidia Just Handed Its 1.3 Million-Part Supply Chain to a Stock Cramer Called Ice Cold &nbsp;&nbsp; 24/7 Wall St.",
+      "query": "NVDA capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "DOJ investigates Nvidia's deal with Groq - Axios",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4yTjVUSkhfVTRWeFZfM0ZmYWtJb3hqMHhlcmd2YU5wbXVsVDlFNXk3UnFnZ3QtNl9HM0lPLVo3ZlJyanB0cG9QVkVoZkxjRlFheGZjYllGS1huVkdKRWJ4V1dqOS0yZk1UX2c?oc=5",
+      "published": "2026-09-10T16:30:20+00:00",
+      "publisher": "Axios",
+      "summary": "DOJ investigates Nvidia's deal with Groq &nbsp;&nbsp; Axios",
+      "query": "NVDA lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Nvidia Will Pay Its Next Cash Dividend on Oct. 1. Here's How Many Shares of Nvidia (NVDA) Stock You'd Need for $10,000 in Yearly Dividends. - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSERMbnl2VTI1Q1ozaFYybURoNDEzdUZHWWxfYmVFRTVkQXYtc0NHVjRrUTYwNU1VMUwxNTJfQnEtR2p3VDAtUFA0OWdya2VTUWdjZUxkNUxicjBYbUl5OXpQRlA4OGxjYVVuVVZiR1NJaUYzSmVfWjBXZ2twZUoxUVZJQWJDT0kxa09IbFdHdWUyUjRRb3VySA?oc=5",
+      "published": "2026-09-10T16:10:00+00:00",
+      "publisher": "The Motley Fool",
+      "summary": "Nvidia Will Pay Its Next Cash Dividend on Oct. 1. Here's How Many Shares of Nvidia (NVDA) Stock You'd Need for $10,000 in Yearly Dividends. &nbsp;&nbsp; The Motley Fool",
+      "query": "NVDA stock",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Nvidia Has the AI Hype. AMD Has the Valuation. I’d Buy This Stock. - 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQby04ZVB0OUxJTFVKZ085VVdnbU11cFpMRFBwVTNOUmdBaFpvaGYtdkFxMEtzbmpTQzNxWHBOMWkyeFduUGlRM3dBdGE3WUMyeEp1aGdNUnd3UDBnV280TzlTRFQxS3lGQUJMcmJmclNfSE5HU0xZS05iZ1dGTHFRUXFEUGp0M2pWalBwRlZMdC1KSE9tTElUak9HOGtXemlHU3k1elV2Q2NVZw?oc=5",
+      "published": "2026-09-10T16:00:00+00:00",
+      "publisher": "24/7 Wall St.",
+      "summary": "Nvidia Has the AI Hype. AMD Has the Valuation. I’d Buy This Stock. &nbsp;&nbsp; 24/7 Wall St.",
+      "query": "NVDA competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Nvidia and Palantir are selling a sovereign AI stack, starting with Nvidia’s own supply chain - thenextweb.com",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBWUFQ4Qm0wWjBJaFdTNnVfNDlKRGVRTlFJXzV6aXdPSGdxX2lZMEVObm1mTGJOZG0xN2xydndFTzhBYzFDQldqVS1GWGI1Ml9SY3hQcGRXUko0S0NFMXpoVG5USHhuNG1EdW8yMTBzMDhCeEZrNHJOR3Nn?oc=5",
+      "published": "2026-09-10T10:55:30+00:00",
+      "publisher": "thenextweb.com",
+      "summary": "Nvidia and Palantir are selling a sovereign AI stack, starting with Nvidia’s own supply chain &nbsp;&nbsp; thenextweb.com",
+      "query": "NVDA capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Here's Where Wall Street Analysts See Nvidia's Share Price Going - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPYmZXQ3dYUXFPZGgzZV9nQWZTREtkODRMdVpwbUlJZ25CbFE2MWt6UVdBUFpPbnZCbkNaOTlMVmxYcDRrUlpqNGJZbnprRDFiM29NX2Z0LWVEYU1DU3VncTEydjBaOWtjVWlXSE9MWURTdGwxNVYydzh1NzB3dHNURlkwUmtpWVpIU2dtUDdXdw?oc=5",
+      "published": "2026-09-10T10:30:00+00:00",
+      "publisher": "The Motley Fool",
+      "summary": "Here's Where Wall Street Analysts See Nvidia's Share Price Going &nbsp;&nbsp; The Motley Fool",
+      "query": "\"NVIDIA\" stock",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Nvidia and Palantir plant a flag for sovereign AI, starting at Nvidia - Fast Company",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZER3ZzhjRXExd2N6dXo5RUFXUFJmbzJxWnF4VmN3WlZ0RmhxZ29oNlZnZUxwc242Q2FxdFo0eGVpYXIyNlhpYUpVd0YxQXhOOV9iQUM5ZVBFREdRVUg2QTItZFhNdEFtQ25aYk1VVFF0LTRZd1FSd3RSamJ2Q2x1VDV6cEJPUQ?oc=5",
+      "published": "2026-09-10T09:57:18+00:00",
+      "publisher": "Fast Company",
+      "summary": "Nvidia and Palantir plant a flag for sovereign AI, starting at Nvidia &nbsp;&nbsp; Fast Company",
+      "query": "\"NVIDIA\" capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "From Wafer-Out to First Token: Codifying Supply Chain Expertise with Nemotron and Palantir Foundry - NVIDIA Developer",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQWXRfamJETmNWUTMzNDNJeUU5RFZjN1pwN0NkVW02MHZ2RzJKeTB2RXJ2ZDIwWE1YRG5YSlNqSlZoWkgyYndZWDJVM1BmRmVxb3k3SDFRcmZwZXp4OEtZN21kMmtmSVBoX2JlbG90TXBjcWY2cGRHbW1YTlgzWkM4VlNYRWU3eThHOHIybEMtRGV6UU4wSjVoNWNyLUFIM1I1MUhqcWN4QllzQXJVdkZNZXlUY3ZyWVluWmVsWjJVUlZJTXM4M0NTMFU1NWY?oc=5",
+      "published": "2026-09-10T09:19:17+00:00",
+      "publisher": "NVIDIA Developer",
+      "summary": "From Wafer-Out to First Token: Codifying Supply Chain Expertise with Nemotron and Palantir Foundry &nbsp;&nbsp; NVIDIA Developer",
+      "query": "NVDA capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "News Summary: - Palantir",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxONWtGV2VpVjBJY3c0ZTY1cVp4ZEhkVXE1SjU3RWhvX3hfNTI5ZzJsbGtKVjcxX01kSmR1Vm12d0t0aTVCRVh2VEpXamxDLVRjeFN0cG5QbFVhUzhiLS1KcmpPMWQ1YnpnWEpWRUlHRE44NHgxWUF5WG5SWlFUVDJTWHpOVHVWWGhEOVl1NHFsbUh3TTRNMldjSWRxcXNyRUFkWUhScHdGT2VpLTgwdU81TjRLX01BeGdTUlM4Rk15dXI?oc=5",
+      "published": "2026-09-10T07:00:00+00:00",
+      "publisher": "Palantir",
+      "summary": "News Summary: &nbsp;&nbsp; Palantir",
+      "query": "NVDA capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "DOJ Probes Nvidia’s Tie-Up With Groq on Antitrust Concerns - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObWRYbFJ2cHd6QTdWaFZjQS0zQ2JvYlhBRjE5Z2dOQmtaS2FBZzd1V1ZUQ2hKUDRCQVVhWFpPMy14eUhqRlpHblJvQlhQUmRnM3BjNTFVbDdrc18yVUg1T1FGUURid0hTbWN4NFBLdGVERXBXdnFHbWpPYWU3NHJSMXRwekJFcndzeDlQczh4dUZwU29Da3BHeHFXV2phbXQ4Z294OE5oMUxLNEdzUXNKR2NObk5DZw?oc=5",
+      "published": "2026-09-10T04:39:00+00:00",
+      "publisher": "Bloomberg.com",
+      "summary": "DOJ Probes Nvidia’s Tie-Up With Groq on Antitrust Concerns &nbsp;&nbsp; Bloomberg.com",
+      "query": "NVDA lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory"
+      ],
+      "lean": "negative"
+    },
+    {
+      "title": "Regulators Are Investigating Nvidia’s Licensing Deal With Groq - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE01YXZUUFJEdW9IOFQ1dWpqME5faHM4MXV5ZDRyMXdJTUZJQXhuXzY0Z0FrTTQ1WGNHanhIT1pQN2FtYlhLcm90SFRGcmxpNlZTMFpzdDV2Z1pHcnVoeENJQ25mNGU3U3RQVkJqOWxKNTJINVRWbmkxeXBn?oc=5",
+      "published": "2026-09-10T00:23:24+00:00",
+      "publisher": "The New York Times",
+      "summary": "Regulators Are Investigating Nvidia’s Licensing Deal With Groq &nbsp;&nbsp; The New York Times",
+      "query": "NVDA lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "NVIDIA Expands AI Infrastructure Capacity in Partnership With Australia’s Data Center Ecosystem - NVIDIA Newsroom",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPd2dkbUp0Zi13THRQMU1kMXNIZVktQVN5NVR2cEszemg1RWM1cURfcDBCRGhLMGJfc3NTaW12anhJeGVDb1FfTC1SaHUzcnVUTzBnVmJseHBuUngteFBFLUZQT2FkMzBaTEEzclA0WFJGT0FmZ1htaFFSX1YwNnVTNk1yT0dnNVhzUm9Vbms0U0N0ck5UNVpyUlNZZ2JaQ3NDZ0hHUEw1VE5BMjZ0dGFIX2plWTRqRHRDeG5yQTFnY3pHZlFhcG9Ndw?oc=5",
+      "published": "2026-09-10T00:09:56+00:00",
+      "publisher": "NVIDIA Newsroom",
+      "summary": "NVIDIA Expands AI Infrastructure Capacity in Partnership With Australia’s Data Center Ecosystem &nbsp;&nbsp; NVIDIA Newsroom",
+      "query": "NVDA acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Nvidia Bears Mount 13.6 Million Share Short Volume Surge Near Peak: Short Seller Tracker - Moomoo",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNeF94VmlzV3BWOTl0S1RaeDFWS19mYTJ2UzIwR195XzltaVVZTFVYT2JpNkVzbG1EbHRQUmZndHgzT2poOUU2SVQ3Mmx0OUticC1idU1sbUJEanpTYUtKdmRaRlNGUnppb1FZckREalQxN1pvUHN4b251RUV3SzJtYndWTnBwN0tuSDUxOFNHUWc5eURXVG13VmVzdWZpdmV1ZWZwN0lDQXQzRWFQN0E?oc=5",
+      "published": "2026-09-09T14:47:27+00:00",
+      "publisher": "Moomoo",
+      "summary": "Nvidia Bears Mount 13.6 Million Share Short Volume Surge Near Peak: Short Seller Tracker &nbsp;&nbsp; Moomoo",
+      "query": "NVDA stock",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "positive"
+    },
+    {
+      "title": "Prediction: NVIDIA Stock Has Returned 14,700% in 10 Years. Can It Do It Again? - 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNXBTaTlUZF9YVFE0bzFOTk9ITEZfSGhTRVJvdVUwUDBBdmFEY01TV0tyM2hweE03Tkl3cDlGaFVtYnZmSUxIS0xBdTFoYzhrRzhyQjRGVm00LWx5NURZTW0zaDVpVGY1SUVCQ2plWVBrYXRIVzM1WUhxeGYzQmNnWUZBRlZxR3JuTy1PdEZIS3VhYW9OTkR2T0lkcDZ1MzMtdEJFUk5xckNZc2hwUDE0aWswWkRSR1hG?oc=5",
+      "published": "2026-09-09T14:00:00+00:00",
+      "publisher": "24/7 Wall St.",
+      "summary": "Prediction: NVIDIA Stock Has Returned 14,700% in 10 Years. Can It Do It Again? &nbsp;&nbsp; 24/7 Wall St.",
+      "query": "NVDA stock",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "DOJ probes Nvidia's licensing deal with AI startup Groq, NYT reports - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOM04tamJVM0lINldJeEdvdDNHbTMxM2NMY0FzZjlGbWQzRVRjWGMweU9WM1NFeXU2U0NwdDdxZ1JOSVVUM0tjZVlkQTZvbE41VGlOT2FVbVJrRjN4Wk1ldW1od2tBcUR2T1ZKR244TjQwdWtHTm5qVFRyOFdzSGVGWVNtbFUwdHVZdl9Fak9SR1JlUWN0VUNXdFZPajZuTGVMRVJ0QUFCNzlRajdUWjVGVGNJQkotdlhFQjFoREQ1WQ?oc=5",
+      "published": "2026-09-09T07:00:00+00:00",
+      "publisher": "Reuters",
+      "summary": "DOJ probes Nvidia's licensing deal with AI startup Groq, NYT reports &nbsp;&nbsp; Reuters",
+      "query": "NVDA lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory"
+      ],
+      "lean": "negative"
+    },
+    {
+      "title": "Nvidia Earnings Blow Everyone Away - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUXZGZ1UxcjJmS1FncHF0SW9PdThqeEpyVHRaSFZiUW5Ya1EwM1BfQWcyd2tVanQzbno1U05wbmoxOHZWX1pKOHhna1hyY0h1WVF0OXNQamFDSDFxYWdjNFJhLVFxVU1JY1dFSUZLaE85MUdDN3F3QWY1TlQ5dTl3eThrTQ?oc=5",
+      "published": "2026-09-09T04:35:00+00:00",
+      "publisher": "The Motley Fool",
+      "summary": "Nvidia Earnings Blow Everyone Away &nbsp;&nbsp; The Motley Fool",
+      "query": "NVDA earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Dear Nvidia Stock Fans, Mark Your Calendars for September 10 - Barchart.com",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVkgwdkU0a1VmdFBndEhZVmMwOTVMNFpyN3hBSmQydEdxUmJYX292bGd2eGlzaXJaZlhjZFJBRGpPM1Q1eFUwcVptZnI0aUV3bkxxQ0hVajRnS1FUVHRGNlZpdi0wQzZ1Vk1MUEdQN003WmN1X2FZWjhBUENmQUtFcWc2TzZvNnBxY3hpaTZpM2xuUXFnQ3hVTHZJWDRWRXFUdVR3M2FR?oc=5",
+      "published": "2026-09-08T07:00:00+00:00",
+      "publisher": "Barchart.com",
+      "summary": "Dear Nvidia Stock Fans, Mark Your Calendars for September 10 &nbsp;&nbsp; Barchart.com",
+      "query": "NVDA stock",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Nvidia supplier Wistron's shares drop after it announces $1.5 billion global stock sale - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA3cUkxRTNkckFPV0E1alVORURUem9QV3RSYWxaV1RScXY5X200LWRWVU02WVdjUHlrTElOd1loNlYwcmFJdTRUWGUwX01GdUcydjJySHlxVGVJWFEycjlHQW1RQm93czVPdEdvMTB3eVcwX1Uwb0N4R2NoZ9IBgAFBVV95cUxQSlprSjA1bjhJMlUtdzVaX2NKc05GSlhfRHBaVVdzSll4QzM4bGtrRGt0T3gyMnVxLWRQSHJSVWlDcno5UlhJaTVtczloMVFLRm1WdEZUc3kwQTZQMEhQeWRDZzNtNG13bi1GLUV5bnhXT3FVME9oa3lzOG5aTlo2Mg?oc=5",
+      "published": "2026-09-07T07:00:00+00:00",
+      "publisher": "CNBC",
+      "summary": "Nvidia supplier Wistron's shares drop after it announces $1.5 billion global stock sale &nbsp;&nbsp; CNBC",
+      "query": "NVDA stock",
+      "source_api": "google_news_rss",
+      "tags": [
+        "product"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "3 Market-Beating Stocks Worth Your Attention - StockStory",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUERGbThpM3N5azhNU2s2VWd1T1JBcHFYb3RaUmhxVmlhNVAwenVUeXg0ZXFCYndGdVVnck5pQUNScDk0VW5vV0lLS3NJTS1xVGFzUGZYOU5LdjRDNWZHb2NMODVXdFItZ3lHNEZNZjVxRWpvZF9CX3VpMGtMTlRSTXhpRnJjZ3hmck01eU9aLWx5UnNxTFBtNGpMN3EzdkNQS21DbUxfenB5dw?oc=5",
+      "published": "2026-09-07T07:00:00+00:00",
+      "publisher": "StockStory",
+      "summary": "3 Market-Beating Stocks Worth Your Attention &nbsp;&nbsp; StockStory",
+      "query": "NVDA competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "China’s Nvidia challenger crashed 20% in a reality check for an AI darling - Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPckZHdUhVT2dnUG1pdEVyTF9ob1NGS25PQU9YcGVGV0xWZnljWmJiNC1IeU5QcmVsbUM2aDF1QXBRX2JYOG1xQ0hMeV9RaDNCdnhlbklTT1NhX05uUGpfVWVkb3dOX042VTh1cjNlaWlCZENJQ0VZREFXejY0Y25CY3ZCOFZNZHlfT19HQzIwSVhYVm9NLWpuZjUzRDBybmRNT0E?oc=5",
+      "published": "2026-09-07T07:00:00+00:00",
+      "publisher": "Business Insider",
+      "summary": "China’s Nvidia challenger crashed 20% in a reality check for an AI darling &nbsp;&nbsp; Business Insider",
+      "query": "NVDA competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Nvidia just sent a strong signal to AMD and Intel investors - thestreet.com",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQjRRdUZ3UmR5Rm1ZRW9LMEVvTFdwd29nczZQUktDSlBnMkRfSTJuUHI0ZlhId09mOWRvU1lEYTlHMWl4TU9qbTBuRHVqSW5vSGFTUXk4eEx2bEFCWHk1ZVJpNWsyS3R2XzdaZWQteXBrUU9VelB1M2tyYW1JSFdzbm5Zc2V5bmlhaGM3eEVod21GcmF5a3Bac0h3WQ?oc=5",
+      "published": "2026-09-07T07:00:00+00:00",
+      "publisher": "thestreet.com",
+      "summary": "Nvidia just sent a strong signal to AMD and Intel investors &nbsp;&nbsp; thestreet.com",
+      "query": "NVDA competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Breakingviews - COMMENTARY: China's AI dragons breathe fire on Nvidia's moat - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQc2V3MzMyWDhGbmtOTkItcEdzR2dPdHNPelhqSG9sbEw1Mk0xTE85N29vZmtoTnZOa2NpOWFpNF9BSmd5N2EwMDVNOEFWWFlZR2l3SUlSNTdxR2wtT01Kc3RoUmh1bm9xTHBZNjItVXJ0dHZCeHNfX0pRTDBfdlh0QVV0N21fT2ZUZlF1WVFBWW5TejczdUE5MmRkaHpNeGZkTG1zVTlzbw?oc=5",
+      "published": "2026-09-07T07:00:00+00:00",
+      "publisher": "Reuters",
+      "summary": "Breakingviews - COMMENTARY: China's AI dragons breathe fire on Nvidia's moat &nbsp;&nbsp; Reuters",
+      "query": "\"NVIDIA\" competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Nvidia Finally Breaks Back Into The Chinese Market, But There's A Catch - bgr.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5vcDd4TmJvN3pKR1g0X0NnWVBHTjVFT3hkMTk4LUM2UWRnXzBiZUs2Q1IyZGhhTHd1N2JDWWk0TG1HRnRqUW1jNHNoajhDSWZaWUlia1hwR1pfYTVQUHZXd3UzaGxzMVBnWjktWWV2QlowVHRSWmc?oc=5",
+      "published": "2026-09-07T07:00:00+00:00",
+      "publisher": "bgr.com",
+      "summary": "Nvidia Finally Breaks Back Into The Chinese Market, But There's A Catch &nbsp;&nbsp; bgr.com",
+      "query": "\"NVIDIA\" competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Nvidia: 70% Growth Guidance Makes This A Strong Buy (NASDAQ:NVDA) - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPaHRVYjVwaFhqckFnUVJPNHkwYnRKNDBrZ3N2cVNmUzFwMDd3dTcwLV9vZ0J3RTNHVmhqS2VOY0FGQjlnaC1XVzVXU0tYaENSRGJFNTAxd0dIYlVvTUdYRzZVeExHNXZHWWtwT3JudlJua1V5dHVjbld1dEVrQkdnTlpvV1k0RDdmdnE2V0tveHZDaFlPZWR3eGZlOGpVbTg?oc=5",
+      "published": "2026-09-06T07:00:00+00:00",
+      "publisher": "Seeking Alpha",
+      "summary": "Nvidia: 70% Growth Guidance Makes This A Strong Buy (NASDAQ:NVDA) &nbsp;&nbsp; Seeking Alpha",
+      "query": "\"NVIDIA\" earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "guidance"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Nvidia (NVDA)’s First-Ever Year-Ahead Forecast Puts It on a Path to Pass Apple and Alphabet - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQa2NVbTgxd01uU3JxNVRGQUV0bl9wbVY1UHhlVllsMUViT0VJRzZUa3ozQ3NLOC1rMEhCXzhOUU5nUUxsaE12SjBPTXk0aHdycEx2bHFlSzBaMHJrU0pFVlJZcmtJV2FBeGVDYmlxanZqN0E3UjRMZGg5VkJjcE5uUVlLelA5MnQzYVNMSnFXUnJlZDFSdl9sMg?oc=5",
+      "published": "2026-09-06T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Nvidia (NVDA)’s First-Ever Year-Ahead Forecast Puts It on a Path to Pass Apple and Alphabet &nbsp;&nbsp; Yahoo Finance",
+      "query": "NVDA revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [
+        "guidance"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Is Nvidia still the best AI play on the stock market? I asked ChatGPT… - Yahoo Finance UK",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE84dTJNMXNzNFQ0MTNyb001VUFKeGYySHFrYTFCNFBWM0U5Z084UXlTbUNrbkV1alktZ01YR3U4SXZBa2FRRjhINl9mNThDM2k0cC14M0I5UFp3RURxMW9sWmRnRWQtRUs0ek5FX0dzT3VSWjJFR2p2V0pNaHBEV2M?oc=5",
+      "published": "2026-09-05T07:00:00+00:00",
+      "publisher": "Yahoo Finance UK",
+      "summary": "Is Nvidia still the best AI play on the stock market? I asked ChatGPT… &nbsp;&nbsp; Yahoo Finance UK",
+      "query": "\"NVIDIA\" competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "After Earnings, Is Nvidia Stock a Buy, a Sell, or Fairly Valued? - Morningstar",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNeDVnMEdoMnIzT3QtWGducy1Od25VMVM3Z3I3elBURm9ia05yQkNEUE9veGNaTEJZaW5INzlmTVdwOEpIbTgzX09mcEdiSGhGSU1oSXdMNzdfOEJkbGZxeXNTMlBhLVlPMWVNaWYtSmZMUmp2N1lBMm90dnF1cFhhSTVBd2F2a3AzRVg1OEdsdU1aSndxN05UTHB1Qk00Vjl1MnlwTw?oc=5",
+      "published": "2026-09-04T07:00:00+00:00",
+      "publisher": "Morningstar",
+      "summary": "After Earnings, Is Nvidia Stock a Buy, a Sell, or Fairly Valued? &nbsp;&nbsp; Morningstar",
+      "query": "NVDA stock",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Nvidia stock moves closer to all-time high - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNUhYQzNDeE0tUk5IOExEUk9IcG5ydGZwQ3cwNGFVb2d0bWZIMXpFNGR2d0ZpczA3UlhVa2EzT0VtNXczV1VZWllzMkJZQ0dPc25zNWd6OXo3aDV6TFhjVndOX3pKUkxVOEJsSktsbEpKLWlSTHVvdkdEZUdtU3ZrbnZZU1p4QjhlWFlOY0lfejFNZUZ4eFNEQ3lVUVkxRXk3?oc=5",
+      "published": "2026-09-04T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Nvidia stock moves closer to all-time high &nbsp;&nbsp; Yahoo Finance",
+      "query": "\"NVIDIA\" stock",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Why Nvidia's 'defensive move' to acquire Hugging Face is about much more than chips - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBud0FiNkhvS2wyMUhqdFFKR2RCdkRRbGl0VXZ5Y3Uwc3lOLVZrZFVuVUlIelkyLXoxVEJRVkhHTm9KOVZBXzNCallnell5MVg1clhwMWhRVExfUGRuLWdTQWxCRnVSdDRETUpOYjN1LVdlZEVpTEHSAXtBVV95cUxQNWNHaE1RcFhTVGpWSVFHajMxQjhrTklWSFotSmo2S1ZVWjFBOXYxMTc4M09HOVlCWVQ3cGhfM18zSE44X19qZ2FOWlYxbzVCT1NqWTZ4MEFNMjV6dm5pZzRVbkx5bVdZMVRlbjVpMy1weEZJeWE2RGtuWGc?oc=5",
+      "published": "2026-09-04T07:00:00+00:00",
+      "publisher": "CNBC",
+      "summary": "Why Nvidia's 'defensive move' to acquire Hugging Face is about much more than chips &nbsp;&nbsp; CNBC",
+      "query": "\"NVIDIA\" acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "mna"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Broadcom Falls 6% as Soft Guidance Overshadows 221% AI Revenue Surge; NVIDIA Inches Higher, AMD Slips - 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQYzNDMjBteE5NUktXM0k1YVJkU2Iwb0JBaHdwUTRTd0VNZjlXQ3MtNXJNNVFVQ2F4VG93MU9ud3hscGVLN0JzaU9QSUZMRklxU2lZRVlqZkMzVkFUMHFUdGZGWC1IS0J6TWQtWmlWdGtNbWlxdVo5b1owNVVoQURiVG9xa3Q3enVZdUxDLVg4TDhpSGlZTm1Ud2UxUTdRYzBjdTU1SUZMS2Z1dTdSTjFaU0JGaGxqT3MySi1wRUVrTmhmR0hUckR2SzZKMFExN0I1ekxQTVF2WVU?oc=5",
+      "published": "2026-09-03T07:00:00+00:00",
+      "publisher": "24/7 Wall St.",
+      "summary": "Broadcom Falls 6% as Soft Guidance Overshadows 221% AI Revenue Surge; NVIDIA Inches Higher, AMD Slips &nbsp;&nbsp; 24/7 Wall St.",
+      "query": "NVDA earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "guidance"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Hugging Face approached Nvidia’s Huang weeks ahead of $12.9B acquisition, CEO tells CNBC - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdkNmN2xvLUV5ZmwxTUJ2dHV0dGtLT0VwcU1EZFRMWGhMTjNpbUNQeDBoTm5FMkh4SktTVnoyWXFLVk1VSzFSV2Mtd0xuYkd4ei03VVdsUlJEa0k4MlJjRlJYRmtiOHlrcDliRmF4MmJZcl9iRExOZUtxck9mYmVuWG5JWHRWbTd6dnBUcXpkeXNmLVpxTC12TmEtQ1duUmh6SnNpU1BuY0_SAa4BQVVfeXFMTjByalk1Q0lUekR1RXVHeWxTakJPZ2htN0syWlIzWHhHRU5hR2xycjhtSTktd19BTEJiX1hjdFA1RW9JdzhYcUwyempqcV9GcWRqNjVCQVBUMUhKS0xGSXE0NENVOEZHYmhlRWVndm9LTGVOd09sY2Vtc08xRi1mX2lJRVYxVGNXblJhV1ptRmNiVmMyUXJxSW9OZ2t1UDBsR1R4UG9DOTRrazYxZEhR?oc=5",
+      "published": "2026-09-03T07:00:00+00:00",
+      "publisher": "CNBC",
+      "summary": "Hugging Face approached Nvidia’s Huang weeks ahead of $12.9B acquisition, CEO tells CNBC &nbsp;&nbsp; CNBC",
+      "query": "NVDA acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "mna",
+        "management"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Nvidia confirms $13 billion acquisition of open-weight AI platform Hugging Face - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOc2FYMnA1eEs4OGhIcmw4MTdSU3FBcmtJbkJjUHN2TDNCOUxOSnhYV0tfVWUwU2M2TnFieFBkX3dCS1phdjVKUTMtMVhGeVcwMVlkVV9BNVgyX3h5dVAwY1c5dlFMWVA3ZGxjU21od2ZIcFVBVWg5MjVtb1RrbzlDLW92Rkk0aDZaUHlXQXF1TmpFMy1vSk1wbVNIeGNiNnZuSEpWa2RNZ3ZsYm9BbWdUT191RXdNQXVaQ1QtU2Z0VF9vMFZwVlpzMnJZSzE3TFo1?oc=5",
+      "published": "2026-09-03T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Nvidia confirms $13 billion acquisition of open-weight AI platform Hugging Face &nbsp;&nbsp; Yahoo Finance",
+      "query": "NVDA acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "mna"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Nvidia is buying Hugging Face for $13 billion in one of its biggest acquisitions ever - Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONzhxUGZ1eVQ3NURPNUdNcTl0U1UxUVp5T3lyN0tjeFhldUZnaUlWczZUeDFLN2o5SFFhek96LTdsanZCWDA1NWUxb1VJa21OV0NEVUtmeXVnOFJwa3lCU2F1T2tZZDBUekZ6QlZOODd2Y0E3eE9HSFRTTHU3Ylc1YkM0ZjhJd0t2Q0lSZjB2STAwQUJnbEg0S1BRWGF5b1pZQ0VzMWJXcmZxNGF2?oc=5",
+      "published": "2026-09-03T07:00:00+00:00",
+      "publisher": "Business Insider",
+      "summary": "Nvidia is buying Hugging Face for $13 billion in one of its biggest acquisitions ever &nbsp;&nbsp; Business Insider",
+      "query": "NVDA acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "mna"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Nvidia Extends A.I. Spending Spree With $12.9 Billion Deal for Hugging Face - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0yMlJhVkx6YWNlSEdlelNIVXNzaG9oUWVVdWlJcFQ3NHVzVXJvOC1RWmJqN1NKQXlSbmVTU2l3WHdrdTBSbEhvaHh6NVVIa3h6b1BENWJYZnRpZnNMU0RRQl9fQ1NKSk9MLVdEcFZQcjZDRzZ2QWVBeTNB?oc=5",
+      "published": "2026-09-03T07:00:00+00:00",
+      "publisher": "The New York Times",
+      "summary": "Nvidia Extends A.I. Spending Spree With $12.9 Billion Deal for Hugging Face &nbsp;&nbsp; The New York Times",
+      "query": "NVDA acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Wilson Sonsini Advises Hugging Face on $12.9 Billion Acquisition by NVIDIA - Wilson Sonsini",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRFRsM3NiZHpZekxWOFVVZFk0UzBsNENrczQ2ZkhwUm9lYjgxb0F3alNzYzlDaEhENEpMeXhKcHRNeXlic1p6NGc2UlkzVTROeGRoSTlUMVAtdUhVbE0wREttQ0VVQ3pReXA0NGhiQzNUTWttTlNJN0hSVnNHWWJIVjNTeHJQVjVOZDJWZnc0clNsSkRZcmxCamtrQnNEWXFuZlBfcERPZkxqbndXQTlwT0F0aDhWR2M?oc=5",
+      "published": "2026-09-03T07:00:00+00:00",
+      "publisher": "Wilson Sonsini",
+      "summary": "Wilson Sonsini Advises Hugging Face on $12.9 Billion Acquisition by NVIDIA &nbsp;&nbsp; Wilson Sonsini",
+      "query": "\"NVIDIA\" acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "mna"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "The antitrust question is moving up the stack: What California’s new push and NVIDIA’s retreat mean for finance - Tearsheet",
+      "url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxQbGRFRTJReElDOEdRcDVGYl9LZXhYZzYtVzU3c2c0dllpcnlRSjFvS3J6ZDE3SS1zU3AzMm5IZ0FxOUIwWmU3Z2FCd3RYYWFtZzlqelRRSG5TN01GeUlRbWxNc2NIUHBNR2RFNzhfa0hnOUtraDNDTmtlelZ5NGFHcWdDekwzenRBbDdlTzRvdnVLNlZTNm1sS1RTanVEMVR0SkJWV1I0Z2Y4bkVXRzJpM0FNLXA1eWh3NDlCeS1NRFVwWk8xQU9pYnZqRnRhQTRzelJHak5iTFprdFJqUG9OZ3kyTWVHdmRFNWRCRllDNVVacWF3SC1nRUYxNTB1dUg1dmwwN3N3UUctam5POFBXNkpWS2ZxQVpDU05PWlotZ0Zmb0JWazJrYzhSMi1EOGNlNWVIelp3UF8wRXI3ekRTZVVyNjV2cm56MVItMDRVRi1PdGtia2RXZDMzNnk?oc=5",
+      "published": "2026-09-02T11:43:39+00:00",
+      "publisher": "Tearsheet",
+      "summary": "The antitrust question is moving up the stack: What California’s new push and NVIDIA’s retreat mean for finance &nbsp;&nbsp; Tearsheet",
+      "query": "\"NVIDIA\" lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Nvidia: The Market Is Crazy Not To Push The Stock Higher (NASDAQ:NVDA) - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNSVZ4NjJiVkduRG9ZVndLOGFrbW9OZHBYUnVaQXA5UTZSTHR2TmZsMFZST0hsM3Jzay1HMXBqWUd0ajQ5ZEllSEVmWkhfTy1KWlFPMjhGSHRVUEF5MFZnQmhJQ0JCbmtwc012dGlBSXYwd0xvR2xjNjAzQzV3cTlpQ2R3NllVZHgxQ2hIRlZmZ090aXBseFRzQTYwQzk?oc=5",
+      "published": "2026-09-02T07:00:00+00:00",
+      "publisher": "Seeking Alpha",
+      "summary": "Nvidia: The Market Is Crazy Not To Push The Stock Higher (NASDAQ:NVDA) &nbsp;&nbsp; Seeking Alpha",
+      "query": "NVDA earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "What to watch in Broadcom’s upcoming earnings – and why Nvidia is running - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUXFyS2FoVDgyeFgwRmZjTzJnb2RkMEc0eDZ1dy16cEgydFVacUItZC1paWNiT3QzREpTTUhnenZzNk9ZZGJuR2tlN3hLQ21TWXg4WTVWV0ZJd1dxMTBYakhSUWxsVGtTcHJTdFJRaE5hdk5XU2h2N1oyQTg0Vnc0YUhVajRZRWlUREdEZlRsSFh4VUE1V3lrM1BWd3cyYWRseENzdC1BMzFfbWtT?oc=5",
+      "published": "2026-09-02T07:00:00+00:00",
+      "publisher": "CNBC",
+      "summary": "What to watch in Broadcom’s upcoming earnings – and why Nvidia is running &nbsp;&nbsp; CNBC",
+      "query": "\"NVIDIA\" earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Nvidia forecasts 70% revenue jump fueled by exclusive SpaceX deal as Bank of England warns of AI bubble risk - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVkZQUFVBeWc0Z3RXVk9Vankza2RBY2tIdXhGQW92LWpGLXBOeFprQnR5d0RqNmZPZjU5dlNzSVgzNWNoZ1dRMkg3bk05LWJXUUJ0R1puWnI0X1lITjRJWkpINVdKWlRuVkk2Ul9kdVNuUmFydHg5MVp0RVEzYXNLZzJqQTJSQlV6czVHd0dFMzFyS3MyWl9rb09YUFQ?oc=5",
+      "published": "2026-09-02T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Nvidia forecasts 70% revenue jump fueled by exclusive SpaceX deal as Bank of England warns of AI bubble risk &nbsp;&nbsp; Yahoo Finance",
+      "query": "NVDA revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [
+        "guidance",
+        "regulatory"
+      ],
+      "lean": "negative"
+    },
+    {
+      "title": "Nvidia's 70% Growth Forecast Is a Supply Ceiling. Demand Is Actually Stronger Than That. - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONnF1OXdvN0wycVdmUllhRzcwTE16dDJ1M19aWm9EUEJkbHU1V2E0QUd5el83c0MxRW4zTUwtWFpCSmp2bllUTlJGb1g0RmFOd05VdC1SMmEySlZlTTRaVFMyYnYzNldobmhqNnBHbU1KSnY4bUg2ZGJobnZtbzZLSWlOZDdtMFhIbmFvZ25YZFhJWDMtdmQ3YQ?oc=5",
+      "published": "2026-09-02T07:00:00+00:00",
+      "publisher": "The Motley Fool",
+      "summary": "Nvidia's 70% Growth Forecast Is a Supply Ceiling. Demand Is Actually Stronger Than That. &nbsp;&nbsp; The Motley Fool",
+      "query": "NVDA revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [
+        "guidance",
+        "demand"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Nvidia Fiscal Q2: The AI Giant Answers To Losing Market Share (NASDAQ:NVDA) - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZ0stMVFMWTNqbEM2NUMzS1pYeUFsdGVVRmlzX3hyWWZwTWJWYUZJeS1FSDVFSFpUSGgyUXNvS2g5VXRFd2loZzF0cG5abVNDWEFaTkUxajc4cW5kM1NyR0FYNG9KODJqYkRKejZxWThpVnhvWDRsUFMxUEZaNFpzdTZYYVJJOGIzTjFyV3B6WWFiYkVYYzBHT1BmdVhscUNHZGlJ?oc=5",
+      "published": "2026-09-02T07:00:00+00:00",
+      "publisher": "Seeking Alpha",
+      "summary": "Nvidia Fiscal Q2: The AI Giant Answers To Losing Market Share (NASDAQ:NVDA) &nbsp;&nbsp; Seeking Alpha",
+      "query": "NVDA competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Nvidia Stock: How $14B Hugging Face Acquisition Could Secure Its AI Dominance - Barron's",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWVVDSThXWms1LXd6R2dQZ3d6aFBmQVZvbXJydkNQSDVVV0RlMnl3WTdQOWxxTHBBcm85bnp4NGxzVE51bExLR3d1X3ZHMWpoeTNlQ2JURy12Wm5oNm5rTzlNd3ZNNkhaSHJnbTRCZi10V2lKZWg4dm9ELVdrenRneWs1VGo?oc=5",
+      "published": "2026-09-02T07:00:00+00:00",
+      "publisher": "Barron's",
+      "summary": "Nvidia Stock: How $14B Hugging Face Acquisition Could Secure Its AI Dominance &nbsp;&nbsp; Barron's",
+      "query": "NVDA acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "mna"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "5-Star Analyst Drops Massive Nvidia Stock Price Target - GuruFocus",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMldZTTVkT3ZEWWpZVkZNZVdWeFZIbmtXOHd2eTZiQWVkeUlIZmhSNlJXR29uY0xCeWtvampxMVVJUjdIY09YZllTZ0E2a1VyNVhxNEY3ZjJjSXBQRk56WTFkLVA5bmNoUXkyVGp5T3cyZFJwSjRDam1vT216OTNxN2NaMW1oYU9PaDF4ZDhhbHBWYlBkMjVn?oc=5",
+      "published": "2026-09-01T19:01:07+00:00",
+      "publisher": "GuruFocus",
+      "summary": "5-Star Analyst Drops Massive Nvidia Stock Price Target &nbsp;&nbsp; GuruFocus",
+      "query": "NVDA analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [
+        "analyst"
+      ],
+      "lean": "negative"
+    },
+    {
+      "title": "Prediction: This Will Be Nvidia's Stock Price by the End of 2027, Based on Its Latest Forecast - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPT2RyZkJqUlpvRVJRUW9BRzZKMDRJaFV0a2w4OTV4djJhMTRiUXBOTlZuaC1mbWdpcEZaZjVUOVE4ckhhR3MwTkJxZjN6cXU3N01oNVRjZDhidjNGNU9UdmQ1QnFmalh3bXdDMlhMcXR4YTYzYVZETVJlZmtUSVFOVU9vaThwc0xZblNITm16YVpKanJmYU9mSTRaa0NaSzJ2SVE?oc=5",
+      "published": "2026-09-01T07:00:00+00:00",
+      "publisher": "The Motley Fool",
+      "summary": "Prediction: This Will Be Nvidia's Stock Price by the End of 2027, Based on Its Latest Forecast &nbsp;&nbsp; The Motley Fool",
+      "query": "NVDA analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [
+        "guidance"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Why Nvidia’s Hugging Face Acquisition Signals AI’s Full Ecosystem Play - Forbes",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNM3c0bVRMWWRNOUdVa1g2OW5QNjdfTTZUM2NYcF9td01RdmxCREVFNl94SExpclFSZ0FmY2tKeGtZSHhBMmpZaVBncXRrX0NrbVQ2ZTl5ZU1YU1JGbF9kWEhENHVqSWFLa25ucktoVmRsTGVxZ1p4eGl4WFcteUxNZ2w1Z2g1azVKSkdLbU1oc0VGaGVPMWlUbzc3VzViVEMwaDRlWV9KbHhkTGVTZGlOSlBuWE04Mk9mMVdJ?oc=5",
+      "published": "2026-09-01T07:00:00+00:00",
+      "publisher": "Forbes",
+      "summary": "Why Nvidia’s Hugging Face Acquisition Signals AI’s Full Ecosystem Play &nbsp;&nbsp; Forbes",
+      "query": "\"NVIDIA\" acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "mna"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "NVDA earnings are still making waves – moomoo AI Expert Mode laid out the entire AI supply chain with crystal clarity. - Moomoo",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdnRuOHplMWVBeHpfZGZjdk9fQjBCOWNIdGNJc09ENU1ULXFDSEZaV2g3Z29HVzlnTGxlaTBuVXVBanpsX3lJanBlWG11eHdTa3llTTM2UllpUHpvYnBVaFVHV3dDVnB1X0xvV191bzdheFVPR3FtZDhfY0ZhQkY5TnJ1VGF0aUczVHd4b1JHNHM3VXFVRC1HbWp2SkV4SW9KbmFLV2xJRi0tNTlGd0FwdQ?oc=5",
+      "published": "2026-08-31T07:00:00+00:00",
+      "publisher": "Moomoo",
+      "summary": "NVDA earnings are still making waves – moomoo AI Expert Mode laid out the entire AI supply chain with crystal clarity. &nbsp;&nbsp; Moomoo",
+      "query": "NVDA earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "capacity"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "3 Stocks to Sell and 3 Stocks to Buy for September - Morningstar",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQN05wdENLRmRFS2JtWEVQRHRiZmQ4Y1dtaFltX0lvMnRhNUF6NVI0ZTl0SG5UcFN3MnZsMU5mdFZqYTdOWnFZb3ZUN3BqMW1yTi1pNW1mMVhfYXN4cTFQSjVzaEdNa1dYTkdaa3VpTHVtYXJsSjMzclhmR0FETlBuNkVrUXFCb2Z3Z1k5eDJNLUMxWU1wZkNR?oc=5",
+      "published": "2026-08-31T07:00:00+00:00",
+      "publisher": "Morningstar",
+      "summary": "3 Stocks to Sell and 3 Stocks to Buy for September &nbsp;&nbsp; Morningstar",
+      "query": "NVDA earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Nvidia: This Is A Golden Opportunity (NASDAQ:NVDA) - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPdHNSb3BrYnhVOGNIWVNYcXhmWHNUZTl4T08yUmRzZF9vRE9sN2ppelo1M2tKRDJqN1dNT01TdVQzMkE3T3ZVa2FORUk5Tjk1SGJhTl9Kc2tYN0lvZy04Ul8zS2FKSDZiaEo1dkNvRUhjSFpXam1HVDVmRm5MOWlhbzl3?oc=5",
+      "published": "2026-08-31T07:00:00+00:00",
+      "publisher": "Seeking Alpha",
+      "summary": "Nvidia: This Is A Golden Opportunity (NASDAQ:NVDA) &nbsp;&nbsp; Seeking Alpha",
+      "query": "NVDA revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Prediction: Nvidia Stock Will Trade at $350 on This Date - 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNjZlNmJYaFgzS1N5RGtrcF9palRuX1J0WFR0OTFwQzd5Z0tsOE9FaWg3WHNfRThfZkt0UEYxN1V0OFRrRGZaTC1VTXJXRGRzSUI0bTdveE9wVnZ6N1Y0b1VHWVZobXlITTJpR2lweC1EUjI5UkREWURCS3B5NHVTZ0tQX1JSRS1KTi1idXdtTXJ5bXVYUURmS1FubGZEMEE?oc=5",
+      "published": "2026-08-31T07:00:00+00:00",
+      "publisher": "24/7 Wall St.",
+      "summary": "Prediction: Nvidia Stock Will Trade at $350 on This Date &nbsp;&nbsp; 24/7 Wall St.",
+      "query": "\"NVIDIA\" analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Prediction: Nvidia Stock Will Trade at $350 on This Date - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQa09tSTRvcDBJR2NRSEFWQXE3LXJaODZXbnlfVnJEb0xjay0zYTVmdUsydUhTQlpVajBHN3BUc01va3VIN0Q3ajFZWlpHbnRXX0l2amNqS1Q1d1NMcFI2SjY2VEN5TG94TWJrZXdzdmloRXZISmxLY3pVUjB5RGJ0X3Frb3p3NHVCRmVIN0Y2bU1kWGdIajcyX3hoTks1TlU?oc=5",
+      "published": "2026-08-31T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Prediction: Nvidia Stock Will Trade at $350 on This Date &nbsp;&nbsp; Yahoo Finance",
+      "query": "\"NVIDIA\" analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Nvidia to invest $3.5 billion in chipmaker MediaTek, expand partnership - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNGg1el9MUWRYTnBSbW42NnllVGxRSmwxLUloa1ppa01jamtTRXhiMEo0cUd0dk5iMDVPZEpMdDFBbGMtd2FzSVJFRjRIM3BSVVU1RFhEaTB1TDhHQzVNb2VnLTZWXzhQMmthTG5VRzk1STBaRVlsNENZOHNnWTJ4TURjR2hPUDNlS1VtSDd4NlB0UUxBLXprTnRJM25XOXNLVWt4amprQ3YyeWM?oc=5",
+      "published": "2026-08-31T07:00:00+00:00",
+      "publisher": "Reuters",
+      "summary": "Nvidia to invest $3.5 billion in chipmaker MediaTek, expand partnership &nbsp;&nbsp; Reuters",
+      "query": "NVDA acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "positive"
+    },
+    {
+      "title": "Nvidia is investing $3.5 billion in Taiwan's MediaTek to deepen AI chip partnership - qz.com",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE12NzJBYzBmTndlV0txR1pWSWcyd3dYVG1QSjNqQzdZRWZSQWpNVUlJOFprazF1NmEzSi14c041WTRUeEMwU1V3N0wtNnZ3WTM4NHFxNFI4bmVkaXRneUFISlljVTU1OGg4ajQtOEtDaWE3UnpfSHJF?oc=5",
+      "published": "2026-08-31T07:00:00+00:00",
+      "publisher": "qz.com",
+      "summary": "Nvidia is investing $3.5 billion in Taiwan's MediaTek to deepen AI chip partnership &nbsp;&nbsp; qz.com",
+      "query": "NVDA acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "positive"
+    },
+    {
+      "title": "Nvidia's $96.2B Quarter: AMD, Intel Fire Back [2026] - shattered.io",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1VcjdseXdoYUVLQUZUeWN0YlBkYlVZdFRtXzBqdE1DeGlIUnZ0RlpRb2RiM0Z6OTdkTTRRNFJ0TFVMaDZfdXg5b21xc2tacHptWXdZTXF2TjBjVHZMRWNZV3I3RFN6TTBfbVFGVmtWR1MtZw?oc=5",
+      "published": "2026-08-30T07:00:00+00:00",
+      "publisher": "shattered.io",
+      "summary": "Nvidia's $96.2B Quarter: AMD, Intel Fire Back [2026] &nbsp;&nbsp; shattered.io",
+      "query": "\"NVIDIA\" earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "I've Covered Semiconductors for 5 Years. Nvidia Is My No. 1 Pick Heading Into 2027. - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUVZMOG9wN1c1V083MEVUa0FkOG1TYk10M1NGUUhrVUU2ZVVLM19ZVU1MSFJuX0dORzZMMFktSnNDRWlhaEVsOUNzcW5FVUZyYTFwWjNrS0J4OFhjSUo3bnVKdnN6eWRubWZLUVVQUUtSWUhsX0lKQlh3M0luMlkwdks0U092S3p6LWstZFdycWE3cUM2NGI2c2dZZENHN2M2?oc=5",
+      "published": "2026-08-30T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "I've Covered Semiconductors for 5 Years. Nvidia Is My No. 1 Pick Heading Into 2027. &nbsp;&nbsp; Yahoo Finance",
+      "query": "NVDA competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "NVIDIA Stock (NVDA) Opinions on Post-Earnings AI Growth Prospects - Quiver Quantitative",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOYjhLRXY4T1p0RnlSU0xKcTB4aEJfQ2pyX1Zxb1RyRWk3UTBjWm5HMGtBZkdYMy1PZmZuaklHTXBTTVdLZHZNMmhjMEpJY08xZUxXbFNHNGpJQkVJU2xPNTE5YVRBT3Q5U3c5V3BRYnVaaWVmQ3hzU1VZYVBtbld5NjVIQzYybVRiR00yUUwwd1RSbzQ5U3BxaWhHa29WTkJHUFI3OA?oc=5",
+      "published": "2026-08-29T07:00:00+00:00",
+      "publisher": "Quiver Quantitative",
+      "summary": "NVIDIA Stock (NVDA) Opinions on Post-Earnings AI Growth Prospects &nbsp;&nbsp; Quiver Quantitative",
+      "query": "\"NVIDIA\" analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Nvidia Stock Breaks Out On Earnings Boost; Is Nvidia A Buy Now? - Investor's Business Daily",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNMExxTWMwSHpLWTBHWDdMcm5DbVNEQkFYNUVXN1hfdUlBOGUwSE5nVmRzbmJMUy1UWjN5ZUtmUnZUWUNvbTZFSFZUYklnZTg3UFRMeUVNekYtX1V6ZmNXRjdaOVRfYkZta0JlNGp5OEpEakRLNGg4Q2JpZ0xlZllMdHgxM0lmbTA5elE?oc=5",
+      "published": "2026-08-28T07:00:00+00:00",
+      "publisher": "Investor's Business Daily",
+      "summary": "Nvidia Stock Breaks Out On Earnings Boost; Is Nvidia A Buy Now? &nbsp;&nbsp; Investor's Business Daily",
+      "query": "\"NVIDIA\" stock",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Nvidia forecasts 70% sales growth next year, signals AI spending boom has years left to run - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVTdJRXVOXzFrQjZXaG1XeVpHNUg0UzBHMnZ0b3lUT1hCZktWajJhbkJfSmcweHEyVE9sNVdrOGx2MlFhUlZ2Z0xna3Jzd0gzWUJCdHR2MHN3Y0pqYURLQ0JQUmxfYVJpT3h3TEV4amE3TkR5SnlIa3A1NlRvcE16Y3NZbnNzQUVuRFlfS2lvUE81ajBta2hYaEp5Wk94c014b3lkQmg5S3N6WlMyWWc?oc=5",
+      "published": "2026-08-28T07:00:00+00:00",
+      "publisher": "Reuters",
+      "summary": "Nvidia forecasts 70% sales growth next year, signals AI spending boom has years left to run &nbsp;&nbsp; Reuters",
+      "query": "NVDA earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "guidance"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "NVIDIA (NVDA) Tops Q2 Estimates and Guides Above Forecasts, But Shares Slip - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNLXIxdFhhdlBIcE5nRXVpR1hxa2x0ZURpdGE5QS1ES0t6Q3lETUxMYUZTRkpzUS1NV05HNHlGYUx0NU80MElPNGNQdlFkUzRBU01UYzNfblVDcl9tTllsX0ZYMjBtSkJsRFUwN0N5REhXYkRuNTBUS2dFZEpfdjVzd1B2VElPc1RhMldUX2lfTXJ2T0hVTGh4dDlB?oc=5",
+      "published": "2026-08-28T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "NVIDIA (NVDA) Tops Q2 Estimates and Guides Above Forecasts, But Shares Slip &nbsp;&nbsp; Yahoo Finance",
+      "query": "NVDA earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "guidance"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Stock Market Rises On Nvidia, CrowdStrike, Salesforce, Warsh: Weekly Review - Investor's Business Daily",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOR0o4RVE4bHBXUWhEX1VRVmtvRzlPOEpPZmhWenZqT1ZMOUE3eHpyVXhvTlFWZ1JRalRFSEJ6NkQxcEFWRTZUVGhQT01rSUt1Q0hqNWRSX0M5bVBsdnE3NFZYelh5RG9mTzNQT25SN3hxNjB5U3NNSGRjUEt0cVc0X3g1Zlh2MlhEZ25zaC1sa1dFV1Y0?oc=5",
+      "published": "2026-08-28T07:00:00+00:00",
+      "publisher": "Investor's Business Daily",
+      "summary": "Stock Market Rises On Nvidia, CrowdStrike, Salesforce, Warsh: Weekly Review &nbsp;&nbsp; Investor's Business Daily",
+      "query": "NVDA earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "positive"
+    },
+    {
+      "title": "Nvidia's Revenue Forecast Is so Huge That Wall Street Wonders If SpaceX Is the Reason - Moomoo",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTkFFZk1yV0c5Nm1aS3lHSzljS1ZLS2xKOWVtN2xKc0hSUHFQRDZ5MWEwRVFLTkQ1RXZxUUZHZ2cxWjF1bWdJYTM3U1lVa2drLXhualBDemQxUGM5YS1FX0ZvUHlUVFZYNFZOc1RleXZSajNnd2w5b09CdVo3Znd5NkFJeFc0VHNBNlJtWFRWczZaMnFXTUtoWHdTZw?oc=5",
+      "published": "2026-08-28T07:00:00+00:00",
+      "publisher": "Moomoo",
+      "summary": "Nvidia's Revenue Forecast Is so Huge That Wall Street Wonders If SpaceX Is the Reason &nbsp;&nbsp; Moomoo",
+      "query": "NVDA revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [
+        "guidance"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Nvidia Stock Is Too Cheap. Apple Once Had the Same Problem. - Barron's",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVUd0NThwNElUVlBkb1VrQXRBVDRPaHhqdFRNbzl6RmE3RHZMNEhoS0xkamFvSDNwdWpqODFIRXZlRnpEVVotUTZUMUotXy11RmFLZllaSG1yMDlBOWhwbGN0MzloX0hqTVJWMmVteG50elJjSmo1bkxKb1BYa2VXejRGQ1NubDgya3prc2ZHTExNa1JHS1VZel9TNGM?oc=5",
+      "published": "2026-08-28T07:00:00+00:00",
+      "publisher": "Barron's",
+      "summary": "Nvidia Stock Is Too Cheap. Apple Once Had the Same Problem. &nbsp;&nbsp; Barron's",
+      "query": "\"NVIDIA\" revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Nvidia could hit a $13 trillion market cap, analyst says - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSEE2cno1eHgtUVc1OXhlbnlEb1lXREdLLXRwbS1Jek1TTHZ3REtyLUFiLW4xQmVtVWl2LXl1c1ZtelQ4VTJHeHZsTzVILUlaMm9STW1yaTRvQm0wbjQ1Qi1wNV9lZE1CalBtXzdaTXJvaFgtSmd1b1dpQ0VPNTlWODRYUGV1SG1leVhwRmxycThIWjV0Y1NpaDZpamwxQjNBbXBEMk8xRVllVWwtTC1nbW50U1k1Q0g1VHc?oc=5",
+      "published": "2026-08-28T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Nvidia could hit a $13 trillion market cap, analyst says &nbsp;&nbsp; Yahoo Finance",
+      "query": "NVDA analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Today's Analyst Rating | NVIDIA Price Target Raised to $320 by J.P. Morgan, Palo Alto Networks Price Target Raised to $450 by Jefferies - Moomoo",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPV3VuQU9sZzZFYkJwMTdDUWNwYzdKaHlDU1hCdWtkb2ZBZUZMbWRhcE82aElIb19fRERaZlhhWFpNZmlSemM4X2ZJcG03dzFBa3dDbndoNktJclJzMXpNRlQ0cG9fakg0T3FUUk5kQ3dnalA5NEg5RFZLMk50WVI0QVM5aFdyNnpkYThpLVhUOFpkN256dGxoYmxvNTd2bTA?oc=5",
+      "published": "2026-08-28T07:00:00+00:00",
+      "publisher": "Moomoo",
+      "summary": "Today's Analyst Rating | NVIDIA Price Target Raised to $320 by J.P. Morgan, Palo Alto Networks Price Target Raised to $450 by Jefferies &nbsp;&nbsp; Moomoo",
+      "query": "NVDA analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [
+        "analyst"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Exclusive | Nvidia Pauses Revenue-Sharing Deals With AI Cloud Companies - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNYlMycHNtbklRdFFPaXNoeHlmVzF1dHJYU042Z0xMRFdXdE45V1ZFek1wOGdVUjg2WHVxc3NBdjdXQnJibnlLUTVLb0Zya1A4czhaQkMxNTlFbVBBZ0RtTTduY0VydW51RF94dTRyaXExZ25ReUU0OG9BX3lUWUZqVHlLQjNjUm1RdWlKclJScXlHWlUxRlBtNw?oc=5",
+      "published": "2026-08-28T07:00:00+00:00",
+      "publisher": "WSJ",
+      "summary": "Exclusive | Nvidia Pauses Revenue-Sharing Deals With AI Cloud Companies &nbsp;&nbsp; WSJ",
+      "query": "NVDA lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Nvidia pauses AI cloud revenue-sharing deals over antitrust concerns - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNXzhtNXh5MTZMcFdpNnRLUE1oOFRYUDFDZDlhMTMya2FDb2NEUWtBdGFIajNmZEVtZHVmV052Q1huVWFRVTNBZ3lZR0dtZl9PUndscDhCSkwyNFZwelZqWlNOUXRKajFvVUNjcU9odHhXSmZGd05KMUpwaTYtZXREV3BRZ0tVY3hGSUxHRDVqeFhkUnB6YjBzdXNB?oc=5",
+      "published": "2026-08-28T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Nvidia pauses AI cloud revenue-sharing deals over antitrust concerns &nbsp;&nbsp; Yahoo Finance",
+      "query": "NVDA lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Nvidia paused its revenue-sharing deals with AI cloud firms over antitrust fears - qz.com",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOdThyT0tmWE1TSjA0XzI1RE1CamQ2aFhNTm80ZnJheVk0aU94bVhSZnB3Wi1xdUxWeE1xU2ZHRDhUbE0wbFNOd2VCMTkwOVVhWXRVbzMtNHdaazk2anQzYTdIc0M2Y3BYSC0xdnY0NzY5d3ppdWowdTRvSFk2TGtwQk5R?oc=5",
+      "published": "2026-08-28T07:00:00+00:00",
+      "publisher": "qz.com",
+      "summary": "Nvidia paused its revenue-sharing deals with AI cloud firms over antitrust fears &nbsp;&nbsp; qz.com",
+      "query": "\"NVIDIA\" lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory"
+      ],
+      "lean": "neutral"
+    }
+  ]
+}

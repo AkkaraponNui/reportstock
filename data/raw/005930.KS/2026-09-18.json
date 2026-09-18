@@ -1,0 +1,196 @@
+{
+  "ticker": "005930.KS",
+  "as_of": "2026-09-18T07:52:34+00:00",
+  "source": "yfinance",
+  "profile": {
+    "name": "Samsung Electronics Co., Ltd.",
+    "sector": "Technology",
+    "industry": "Consumer Electronics",
+    "country": "South Korea",
+    "exchange": "KSC",
+    "currency": "KRW",
+    "financial_currency": "KRW",
+    "employees": 128242,
+    "website": "https://www.samsung.com",
+    "summary": "Samsung Electronics Co., Ltd. engages in the consumer electronics, information technology and mobile communications, and device solutions businesses worldwide. The company operates through four divisions: Device eXperience (DX), Device Solutions (DS), SDC, and Harman. The company offers smartphones, tablets, audio sounds, watches, switches, and accessories; TVs, and sound devices; appliances, including refrigerators, washing machines and dryers, vacuum cleaners, cooking appliances, dishwashers, air conditioners, and air purifiers; monitors and memory storage products; displays, and smart and LED signages; and other accessories. It also engages in venture capital investments, cloud services, network devices installation, semiconductor equipment services, digital advertising platforms, marketing, consulting, connected services provider, logistics, financing, and software design activities. In addition, the company provides toll processing and sales of semiconductors and display panels; development and sale of network solutions; manufacture of semiconductors and food; the provision of repair services for electronic devices; and development and supply of semiconductor process defect and quality control software, as well as digital televisions, foundry, system large scale integration (LSI). Further, it provides connected car systems, audio and visual products, enterprise automation solutions, and connected services. Samsung Electronics Co., Ltd. was incorporated in 1969 and is bas"
+  },
+  "market": {
+    "price": 261000.0,
+    "market_cap": 1713873010819072,
+    "week52_high": 374500.0,
+    "week52_low": 81100.0,
+    "off_52w_high": -0.303071,
+    "avg_volume": 26725589
+  },
+  "analyst": {
+    "target_mean": 475850.1,
+    "target_high": 725000.0,
+    "target_low": 290000.0,
+    "upside_to_target": 0.82318,
+    "recommendation": "strong_buy",
+    "n_analysts": 36
+  },
+  "annual": {
+    "periods": [
+      "2022-12-31",
+      "2023-12-31",
+      "2024-12-31",
+      "2025-12-31"
+    ],
+    "revenue": [
+      302231360000000.0,
+      258935494000000.0,
+      300870903000000.0,
+      333605938000000.0
+    ],
+    "gross_profit": [
+      112189590000000.0,
+      78546914000000.0,
+      114308635000000.0,
+      131370425000000.0
+    ],
+    "operating_income": [
+      43376630000000.0,
+      6566976000000.0,
+      32725961000000.0,
+      43601051000000.0
+    ],
+    "net_income": [
+      54730018000000.0,
+      14473401000000.0,
+      33621363000000.0,
+      44260956000000.0
+    ],
+    "ebitda": [
+      86311148000000.0,
+      50603077000000.0,
+      81064474000000.0,
+      97013846000000.0
+    ],
+    "rnd": [
+      24919198000000.0,
+      28339724000000.0,
+      34998142000000.0,
+      37740392000000.0
+    ],
+    "eps_diluted": [
+      8057.0,
+      2131.0,
+      4950.0,
+      6603.0
+    ],
+    "shares_diluted": [
+      6792853171.0,
+      6791835289.0,
+      6792194545.0,
+      6703158564.0
+    ],
+    "total_assets": [
+      448424507000000.0,
+      455905980000000.0,
+      514531948000000.0,
+      566942110000000.0
+    ],
+    "equity": [
+      345186142000000.0,
+      353233775000000.0,
+      391687603000000.0,
+      424313255000000.0
+    ],
+    "total_debt": [
+      10333242000000.0,
+      12685944000000.0,
+      19330184000000.0,
+      25239139000000.0
+    ],
+    "cash": [
+      115227286000000.0,
+      92407210000000.0,
+      112651790000000.0,
+      125847114000000.0
+    ],
+    "current_assets": [
+      218470581000000.0,
+      195936557000000.0,
+      227062266000000.0,
+      247684612000000.0
+    ],
+    "current_liabilities": [
+      78344852000000.0,
+      75719452000000.0,
+      93326299000000.0,
+      106411348000000.0
+    ],
+    "invested_capital": [
+      350999072000000.0,
+      361076963000000.0,
+      405868471000000.0,
+      444590986000000.0
+    ],
+    "operating_cf": [
+      62181346000000.0,
+      44137427000000.0,
+      72982621000000.0,
+      85315148000000.0
+    ],
+    "capex": [
+      -53126732000000.0,
+      -60534167000000.0,
+      -53741639000000.0,
+      -52153149000000.0
+    ],
+    "free_cash_flow": [
+      9054614000000.0,
+      -16396740000000.0,
+      19240982000000.0,
+      33161999000000.0
+    ],
+    "buybacks": [
+      null,
+      null,
+      -1811775000000.0,
+      -8189263000000.0
+    ]
+  },
+  "metrics": {
+    "years_of_data": 4,
+    "currency_mismatch": false,
+    "trading_currency": "KRW",
+    "financial_currency": "KRW",
+    "revenue_cagr": 0.03347,
+    "revenue_cagr_years": 3,
+    "net_income_cagr": -0.068324,
+    "fcf_cagr": 0.541429,
+    "revenue_growth_ttm": 1.3,
+    "earnings_growth_ttm": 11.917,
+    "forward_eps_growth": null,
+    "gross_margin_latest": 0.393789,
+    "gross_margin_trend": 0.014434,
+    "operating_margin_latest": 0.130696,
+    "operating_margin_trend": 0.004493,
+    "net_margin_latest": 0.132674,
+    "fcf_margin_latest": 0.099405,
+    "fcf_margin_trend": 0.033561,
+    "rnd_intensity_latest": 0.113129,
+    "roe": 0.30794,
+    "roa": 0.17693,
+    "roic_est": 0.077475,
+    "current_ratio": 2.83,
+    "debt_to_equity": 3.868,
+    "net_debt": -100607975000000.0,
+    "net_debt_to_ebitda": -1.037048,
+    "market_cap": 1713873010819072,
+    "enterprise_value": 1504711861600256,
+    "trailing_pe": null,
+    "forward_pe": 3.701786,
+    "peg_est": 0.003106,
+    "price_to_sales": 3.531778,
+    "ev_to_ebitda": 6.625,
+    "ev_to_revenue": 3.101,
+    "fcf_yield": 0.019349,
+    "dividend_yield": 0.005732,
+    "dividend_rate": 1496.0,
+    "payout_ratio": 0.0749,
+    "beta": 1.544
+  }
+}

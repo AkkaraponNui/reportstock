@@ -1,0 +1,214 @@
+{
+  "ticker": "NVDA",
+  "as_of": "2026-09-17T12:03:42+00:00",
+  "source": "yfinance",
+  "profile": {
+    "name": "NVIDIA Corporation",
+    "sector": "Technology",
+    "industry": "Semiconductors",
+    "country": "United States",
+    "exchange": "NMS",
+    "currency": "USD",
+    "financial_currency": "USD",
+    "employees": 42000,
+    "website": "https://www.nvidia.com",
+    "summary": "NVIDIA Corporation operates as a data center scale AI infrastructure company in the United States, Taiwan, China, Hong Kong, Europe, and internationally. It operates through Compute & Networking, and Graphics segments. The Compute & Networking segment provides data center accelerated computing and networking platforms and artificial intelligence solutions and software, and automotive platforms and autonomous and electric vehicle solutions, including software. The Graphics segment offers GeForce GPUs for gaming and PCs; Quadro/NVIDIA RTX GPUs for enterprise workstation graphics. The company's products are used in gaming, professional visualization, data center, and automotive markets. It sells its products to original equipment manufacturers, original device manufacturers, system integrators and distributors, independent software vendors, cloud service providers, add-in board manufacturers, distributors, automotive manufacturers and tier-1 automotive suppliers, and other ecosystem participants. NVIDIA Corporation was incorporated in 1993 and is headquartered in Santa Clara, California."
+  },
+  "market": {
+    "price": 213.9,
+    "market_cap": 5165043154944,
+    "week52_high": 236.54,
+    "week52_low": 164.27,
+    "off_52w_high": -0.095713,
+    "avg_volume": 130678482
+  },
+  "analyst": {
+    "target_mean": 328.66034,
+    "target_high": 515.0,
+    "target_low": 180.0,
+    "upside_to_target": 0.536514,
+    "recommendation": "strong_buy",
+    "n_analysts": 58
+  },
+  "annual": {
+    "periods": [
+      "2022-01-31",
+      "2023-01-31",
+      "2024-01-31",
+      "2025-01-31",
+      "2026-01-31"
+    ],
+    "revenue": [
+      null,
+      26974000000.0,
+      60922000000.0,
+      130497000000.0,
+      215938000000.0
+    ],
+    "gross_profit": [
+      null,
+      15356000000.0,
+      44301000000.0,
+      97858000000.0,
+      153463000000.0
+    ],
+    "operating_income": [
+      null,
+      5577000000.0,
+      32972000000.0,
+      81453000000.0,
+      130387000000.0
+    ],
+    "net_income": [
+      null,
+      4368000000.0,
+      29760000000.0,
+      72880000000.0,
+      120067000000.0
+    ],
+    "ebitda": [
+      null,
+      5986000000.0,
+      35583000000.0,
+      86137000000.0,
+      144552000000.0
+    ],
+    "rnd": [
+      null,
+      7339000000.0,
+      8675000000.0,
+      12914000000.0,
+      18497000000.0
+    ],
+    "eps_diluted": [
+      null,
+      0.174,
+      1.19,
+      2.94,
+      4.9
+    ],
+    "shares_diluted": [
+      null,
+      25070000000.0,
+      24940000000.0,
+      24804000000.0,
+      24514000000.0
+    ],
+    "total_assets": [
+      null,
+      41182000000.0,
+      65728000000.0,
+      111601000000.0,
+      206803000000.0
+    ],
+    "equity": [
+      null,
+      22101000000.0,
+      42978000000.0,
+      79327000000.0,
+      157293000000.0
+    ],
+    "total_debt": [
+      null,
+      12031000000.0,
+      11056000000.0,
+      9982000000.0,
+      11040000000.0
+    ],
+    "cash": [
+      null,
+      13296000000.0,
+      25984000000.0,
+      43210000000.0,
+      62556000000.0
+    ],
+    "current_assets": [
+      null,
+      23073000000.0,
+      44345000000.0,
+      80126000000.0,
+      125605000000.0
+    ],
+    "current_liabilities": [
+      null,
+      6563000000.0,
+      10631000000.0,
+      18047000000.0,
+      32163000000.0
+    ],
+    "invested_capital": [
+      null,
+      33054000000.0,
+      52687000000.0,
+      87790000000.0,
+      165761000000.0
+    ],
+    "operating_cf": [
+      null,
+      5641000000.0,
+      28090000000.0,
+      64089000000.0,
+      102718000000.0
+    ],
+    "capex": [
+      null,
+      -1833000000.0,
+      -1069000000.0,
+      -3236000000.0,
+      -6042000000.0
+    ],
+    "free_cash_flow": [
+      null,
+      3808000000.0,
+      27021000000.0,
+      60853000000.0,
+      96676000000.0
+    ],
+    "buybacks": [
+      null,
+      -10039000000.0,
+      -9533000000.0,
+      -33706000000.0,
+      -40086000000.0
+    ]
+  },
+  "metrics": {
+    "years_of_data": 5,
+    "currency_mismatch": false,
+    "trading_currency": "USD",
+    "financial_currency": "USD",
+    "revenue_cagr": 1.000451,
+    "revenue_cagr_years": 3,
+    "net_income_cagr": 2.017961,
+    "fcf_cagr": 1.939052,
+    "revenue_growth_ttm": 1.059,
+    "earnings_growth_ttm": 1.278,
+    "forward_eps_growth": 0.956753,
+    "gross_margin_latest": 0.710681,
+    "gross_margin_trend": 0.044689,
+    "operating_margin_latest": 0.603817,
+    "operating_margin_trend": 0.127415,
+    "net_margin_latest": 0.556025,
+    "fcf_margin_latest": 0.447703,
+    "fcf_margin_trend": 0.094237,
+    "rnd_intensity_latest": 0.085659,
+    "roe": 1.17211,
+    "roa": 0.53572,
+    "roic_est": 0.621411,
+    "current_ratio": 4.589,
+    "debt_to_equity": 16.971,
+    "net_debt": -51516000000.0,
+    "net_debt_to_ebitda": -0.356384,
+    "market_cap": 5165043154944,
+    "enterprise_value": 5131381243904,
+    "trailing_pe": 27.04172,
+    "forward_pe": 13.698463,
+    "peg_est": 0.107187,
+    "price_to_sales": 17.048035,
+    "ev_to_ebitda": 25.496,
+    "ev_to_revenue": 16.937,
+    "fcf_yield": 0.018717,
+    "dividend_yield": 0.47,
+    "beta": 2.217
+  }
+}

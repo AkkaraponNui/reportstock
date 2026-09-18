@@ -1,0 +1,214 @@
+{
+  "ticker": "RELIANCE.NS",
+  "as_of": "2026-09-17T11:59:32+00:00",
+  "source": "yfinance",
+  "profile": {
+    "name": "Reliance Industries Limited",
+    "sector": "Energy",
+    "industry": "Oil & Gas Refining & Marketing",
+    "country": "India",
+    "exchange": "NSI",
+    "currency": "INR",
+    "financial_currency": "INR",
+    "employees": 404501,
+    "website": "https://www.ril.com",
+    "summary": "Reliance Industries Limited engages in hydrocarbon exploration and production, petroleum refining and marketing, petrochemicals, advanced materials and composites, renewable, financial services, retail, and digital services worldwide. It operates through the Oil to Chemicals, Oil and Gas, Retail, Digital Services, and Others segments. The company is involved in refining and marketing products, including liquefied petroleum gas, propylene, naphtha, gasoline, jet/aviation turbine fuel, kerosine oil, diesel, sulfur, and petroleum coke. It also provides polymers comprising high-density and low-density polyethylene (PE), linear low-density PE, homopolymer, random and impact copolymer, and polyvinyl chloride; fiber intermediates that include purified terephthalic acid, and ethylene glycols and oxide; aromatics, such as paraxylene, ortho xylene, benzene, and linear alkyl benzene and paraffin; and textiles that consist of fabrics, apparel, and auto furnishings. In addition, the company offers elastomers, such as polybutadiene rubber, styrene butadiene rubber, and butyl rubber; fiber and yarn polyesters; and bioenergy solutions, including compressed biogas, and pellets and briquettes. Further, it engages in oil and gas exploration and production activities; operation of various stores comprising supermarkets, hypermarket, wholesale cash and carry, specialty, and online stores; operation of media and entertainment platforms, and Network18 and television channels; and publishing of maga"
+  },
+  "market": {
+    "price": 1243.9,
+    "market_cap": 16833042186240,
+    "week52_high": 1611.8,
+    "week52_low": 1235.3,
+    "off_52w_high": -0.228254,
+    "avg_volume": 11909753
+  },
+  "analyst": {
+    "target_mean": 1676.8462,
+    "target_high": 1890.0,
+    "target_low": 1350.0,
+    "upside_to_target": 0.348055,
+    "recommendation": "strong_buy",
+    "n_analysts": 26
+  },
+  "annual": {
+    "periods": [
+      "2022-03-31",
+      "2023-03-31",
+      "2024-03-31",
+      "2025-03-31",
+      "2026-03-31"
+    ],
+    "revenue": [
+      null,
+      8778350000000.0,
+      9010640000000.0,
+      9646930000000.0,
+      10572190000000.0
+    ],
+    "gross_profit": [
+      null,
+      2059370000000.0,
+      2264650000000.0,
+      2420060000000.0,
+      2703950000000.0
+    ],
+    "operating_income": [
+      null,
+      1020150000000.0,
+      1116660000000.0,
+      1124620000000.0,
+      1213770000000.0
+    ],
+    "net_income": [
+      null,
+      667020000000.0,
+      696210000000.0,
+      696480000000.0,
+      807750000000.0
+    ],
+    "ebitda": [
+      null,
+      1533070000000.0,
+      1769440000000.0,
+      1812740000000.0,
+      2049060000000.0
+    ],
+    "rnd": [
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "eps_diluted": [
+      null,
+      49.295,
+      51.45,
+      51.47,
+      59.69
+    ],
+    "shares_diluted": [
+      null,
+      13532311532.0,
+      13532481373.0,
+      13532410577.0,
+      13532736424.0
+    ],
+    "total_assets": [
+      null,
+      16074310000000.0,
+      17559860000000.0,
+      19501210000000.0,
+      21781400000000.0
+    ],
+    "equity": [
+      null,
+      7158720000000.0,
+      7934810000000.0,
+      8432000000000.0,
+      9040300000000.0
+    ],
+    "total_debt": [
+      null,
+      3343920000000.0,
+      3461420000000.0,
+      3695750000000.0,
+      3980000000000.0
+    ],
+    "cash": [
+      null,
+      1612330000000.0,
+      2113100000000.0,
+      2387920000000.0,
+      2772120000000.0
+    ],
+    "current_assets": [
+      null,
+      4252960000000.0,
+      4701000000000.0,
+      4992700000000.0,
+      5942490000000.0
+    ],
+    "current_liabilities": [
+      null,
+      3957430000000.0,
+      3973670000000.0,
+      4537370000000.0,
+      5412540000000.0
+    ],
+    "invested_capital": [
+      null,
+      10298380000000.0,
+      11181030000000.0,
+      11907300000000.0,
+      12784510000000.0
+    ],
+    "operating_cf": [
+      null,
+      1150320000000.0,
+      1587880000000.0,
+      1787030000000.0,
+      1921130000000.0
+    ],
+    "capex": [
+      null,
+      -1409880000000.0,
+      -1528830000000.0,
+      -1399670000000.0,
+      -1229160000000.0
+    ],
+    "free_cash_flow": [
+      null,
+      -259560000000.0,
+      59050000000.0,
+      387360000000.0,
+      691970000000.0
+    ],
+    "buybacks": [
+      null,
+      null,
+      null,
+      null,
+      null
+    ]
+  },
+  "metrics": {
+    "years_of_data": 5,
+    "currency_mismatch": false,
+    "trading_currency": "INR",
+    "financial_currency": "INR",
+    "revenue_cagr": 0.063941,
+    "revenue_cagr_years": 3,
+    "net_income_cagr": 0.065891,
+    "fcf_cagr": null,
+    "revenue_growth_ttm": 0.297,
+    "earnings_growth_ttm": -0.224,
+    "forward_eps_growth": 0.287913,
+    "gross_margin_latest": 0.255761,
+    "gross_margin_trend": 0.006303,
+    "operating_margin_latest": 0.114808,
+    "operating_margin_trend": -0.001156,
+    "net_margin_latest": 0.076403,
+    "fcf_margin_latest": 0.065452,
+    "fcf_margin_trend": 0.031866,
+    "rnd_intensity_latest": null,
+    "roe": 0.08935,
+    "roa": null,
+    "roic_est": 0.075003,
+    "current_ratio": 1.097912,
+    "debt_to_equity": 36.653,
+    "net_debt": 1207880000000.0,
+    "net_debt_to_ebitda": 0.58948,
+    "market_cap": 16833042186240,
+    "enterprise_value": 19997155917824,
+    "trailing_pe": 22.440916,
+    "forward_pe": 17.424253,
+    "peg_est": null,
+    "price_to_sales": 1.490171,
+    "ev_to_ebitda": 11.07,
+    "ev_to_revenue": 1.77,
+    "fcf_yield": 0.041108,
+    "dividend_yield": 0.49,
+    "beta": 0.152
+  }
+}

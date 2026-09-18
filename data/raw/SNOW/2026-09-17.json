@@ -1,0 +1,194 @@
+{
+  "ticker": "SNOW",
+  "as_of": "2026-09-17T11:38:57+00:00",
+  "source": "yfinance",
+  "profile": {
+    "name": "Snowflake Inc.",
+    "sector": "Technology",
+    "industry": "Software - Application",
+    "country": "United States",
+    "exchange": "NYQ",
+    "currency": "USD",
+    "financial_currency": "USD",
+    "employees": 9394,
+    "website": "https://www.snowflake.com",
+    "summary": "Snowflake Inc. provides a cloud-based data platform for various organizations in the United States and internationally. The company's platform includes artificial intelligence (AI) Data Cloud, which enables customers to consolidate data into a single source of truth to drive meaningful business insights, build data applications, and share data and data products, as well as applies AI for solving business problems. It serves financial services, advertising, media and entertainment, retail and consumer goods, healthcare and life sciences, manufacturing, technology, telecom, travel and hospitality, and government and defense industries, as well as the public sector. the company has a collaboration with OpenAI, L.L.C. for the development of AI solutions for joint enterprise customers that deliver tangible return on investment. The company was formerly known as Snowflake Computing, Inc. and changed its name to Snowflake Inc. in April 2019. Snowflake Inc. was incorporated in 2012 and is based in Menlo Park, California."
+  },
+  "market": {
+    "price": 331.02,
+    "market_cap": 116783849472,
+    "week52_high": 384.56,
+    "week52_low": 118.3,
+    "off_52w_high": -0.139224,
+    "avg_volume": 5489313
+  },
+  "analyst": {
+    "target_mean": 425.18723,
+    "target_high": 525.0,
+    "target_low": 110.0,
+    "upside_to_target": 0.284476,
+    "recommendation": "strong_buy",
+    "n_analysts": 47
+  },
+  "annual": {
+    "periods": [
+      "2023-01-31",
+      "2024-01-31",
+      "2025-01-31",
+      "2026-01-31"
+    ],
+    "revenue": [
+      2065659000.0,
+      2806489000.0,
+      3626396000.0,
+      4683946000.0
+    ],
+    "gross_profit": [
+      1348119000.0,
+      1907931000.0,
+      2411723000.0,
+      3146141000.0
+    ],
+    "operating_income": [
+      -842267000.0,
+      -1094773000.0,
+      -1456010000.0,
+      -1435165000.0
+    ],
+    "net_income": [
+      -796705000.0,
+      -836097000.0,
+      -1285640000.0,
+      -1331616000.0
+    ],
+    "ebitda": [
+      -752458000.0,
+      -729320000.0,
+      -1099832000.0,
+      -1083169000.0
+    ],
+    "rnd": [
+      788058000.0,
+      1287949000.0,
+      1783379000.0,
+      1969472000.0
+    ],
+    "eps_diluted": [
+      -2.5,
+      -2.55,
+      -3.86,
+      -3.95
+    ],
+    "shares_diluted": [
+      318730000.0,
+      328001000.0,
+      332707000.0,
+      337493000.0
+    ],
+    "total_assets": [
+      7722322000.0,
+      8223383000.0,
+      9033938000.0,
+      9132495000.0
+    ],
+    "equity": [
+      5456436000.0,
+      5180308000.0,
+      2999929000.0,
+      1924102000.0
+    ],
+    "total_debt": [
+      251658000.0,
+      287981000.0,
+      2685270000.0,
+      2741114000.0
+    ],
+    "cash": [
+      4007868000.0,
+      3846248000.0,
+      4637671000.0,
+      4029686000.0
+    ],
+    "current_assets": [
+      4984690000.0,
+      5039264000.0,
+      5869372000.0,
+      5742612000.0
+    ],
+    "current_liabilities": [
+      1993517000.0,
+      2731230000.0,
+      3301183000.0,
+      4421691000.0
+    ],
+    "invested_capital": [
+      5456436000.0,
+      5180308000.0,
+      5271458000.0,
+      4203929000.0
+    ],
+    "operating_cf": [
+      545639000.0,
+      848122000.0,
+      959764000.0,
+      1221942000.0
+    ],
+    "capex": [
+      -49840000.0,
+      -97963000.0,
+      -75712000.0,
+      -104729000.0
+    ],
+    "free_cash_flow": [
+      495799000.0,
+      750159000.0,
+      884052000.0,
+      1117213000.0
+    ],
+    "buybacks": [
+      0.0,
+      -591732000.0,
+      -1932333000.0,
+      -873537000.0
+    ]
+  },
+  "metrics": {
+    "years_of_data": 4,
+    "currency_mismatch": false,
+    "trading_currency": "USD",
+    "financial_currency": "USD",
+    "revenue_cagr": 0.313765,
+    "revenue_cagr_years": 3,
+    "net_income_cagr": null,
+    "fcf_cagr": 0.311022,
+    "revenue_growth_ttm": 0.351,
+    "earnings_growth_ttm": null,
+    "forward_eps_growth": 1.947818,
+    "gross_margin_latest": 0.671686,
+    "gross_margin_trend": 0.004237,
+    "operating_margin_latest": -0.306401,
+    "operating_margin_trend": 0.029262,
+    "net_margin_latest": -0.284294,
+    "fcf_margin_latest": 0.23852,
+    "fcf_margin_trend": -0.002801,
+    "rnd_intensity_latest": 0.420473,
+    "roe": -0.48063,
+    "roa": -0.09022,
+    "roic_est": -0.269695,
+    "current_ratio": 0.939,
+    "debt_to_equity": 128.57,
+    "net_debt": -1288572000.0,
+    "net_debt_to_ebitda": 1.189632,
+    "market_cap": 116783849472,
+    "enterprise_value": 117076860928,
+    "trailing_pe": null,
+    "forward_pe": 109.82528,
+    "peg_est": 0.563838,
+    "price_to_sales": 21.488764,
+    "ev_to_ebitda": -112.977,
+    "ev_to_revenue": 21.543,
+    "fcf_yield": 0.009567,
+    "dividend_yield": null,
+    "beta": 1.328
+  }
+}

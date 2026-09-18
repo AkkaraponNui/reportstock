@@ -1,0 +1,214 @@
+{
+  "ticker": "AAPL",
+  "as_of": "2026-09-17T12:03:38+00:00",
+  "source": "yfinance",
+  "profile": {
+    "name": "Apple Inc.",
+    "sector": "Technology",
+    "industry": "Consumer Electronics",
+    "country": "United States",
+    "exchange": "NMS",
+    "currency": "USD",
+    "financial_currency": "USD",
+    "employees": 150000,
+    "website": "https://www.apple.com",
+    "summary": "Apple Inc. designs, manufactures, and markets smartphones, personal computers, tablets, wearables, and accessories worldwide. The company offers iPhone, a line of smartphones; Mac, a line of personal computers; iPad, a line of multi-purpose tablets; and wearables, home, and accessories comprising AirPods, Apple Vision Pro, Apple TV, Apple Watch, Beats products, and HomePod, as well as Apple branded and third-party accessories. It also provides AppleCare support and cloud services; and operates various platforms, including the App Store that allows customers to discover and download applications and digital content, such as books, music, video, games, and podcasts, as well as advertising services include third-party licensing arrangements and its own advertising platforms. In addition, the company offers various subscription-based services, such as Apple Arcade, a game subscription service; Apple Fitness+, a personalized fitness service; Apple Music, which offers users a curated listening experience with on-demand radio stations; Apple News+, a subscription news and magazine service; Apple TV, which offers original content and live sports; Apple Card, a co-branded credit card; and Apple Pay, a cashless payment service, as well as licenses its intellectual property. The company serves consumers, and small and mid-sized businesses; and the education, enterprise, and government markets. It distributes third-party applications for its products through the App Store. The company al"
+  },
+  "market": {
+    "price": 332.41,
+    "market_cap": 4851251544064,
+    "week52_high": 344.57,
+    "week52_low": 236.65,
+    "off_52w_high": -0.03529,
+    "avg_volume": 53710996
+  },
+  "analyst": {
+    "target_mean": 327.1964,
+    "target_high": 405.0,
+    "target_low": 215.0,
+    "upside_to_target": -0.015684,
+    "recommendation": "buy",
+    "n_analysts": 39
+  },
+  "annual": {
+    "periods": [
+      "2021-09-30",
+      "2022-09-30",
+      "2023-09-30",
+      "2024-09-30",
+      "2025-09-30"
+    ],
+    "revenue": [
+      null,
+      394328000000.0,
+      383285000000.0,
+      391035000000.0,
+      416161000000.0
+    ],
+    "gross_profit": [
+      null,
+      170782000000.0,
+      169148000000.0,
+      180683000000.0,
+      195201000000.0
+    ],
+    "operating_income": [
+      null,
+      119437000000.0,
+      114301000000.0,
+      123216000000.0,
+      133050000000.0
+    ],
+    "net_income": [
+      null,
+      99803000000.0,
+      96995000000.0,
+      93736000000.0,
+      112010000000.0
+    ],
+    "ebitda": [
+      null,
+      130541000000.0,
+      125820000000.0,
+      134661000000.0,
+      144748000000.0
+    ],
+    "rnd": [
+      null,
+      26251000000.0,
+      29915000000.0,
+      31370000000.0,
+      34550000000.0
+    ],
+    "eps_diluted": [
+      null,
+      6.11,
+      6.13,
+      6.08,
+      7.46
+    ],
+    "shares_diluted": [
+      null,
+      16325819000.0,
+      15812547000.0,
+      15408095000.0,
+      15004697000.0
+    ],
+    "total_assets": [
+      null,
+      352755000000.0,
+      352583000000.0,
+      364980000000.0,
+      359241000000.0
+    ],
+    "equity": [
+      null,
+      50672000000.0,
+      62146000000.0,
+      56950000000.0,
+      73733000000.0
+    ],
+    "total_debt": [
+      null,
+      132480000000.0,
+      111088000000.0,
+      106629000000.0,
+      98657000000.0
+    ],
+    "cash": [
+      null,
+      48304000000.0,
+      61555000000.0,
+      65171000000.0,
+      54697000000.0
+    ],
+    "current_assets": [
+      null,
+      135405000000.0,
+      143566000000.0,
+      152987000000.0,
+      147957000000.0
+    ],
+    "current_liabilities": [
+      null,
+      153982000000.0,
+      145308000000.0,
+      176392000000.0,
+      165631000000.0
+    ],
+    "invested_capital": [
+      null,
+      170741000000.0,
+      173234000000.0,
+      163579000000.0,
+      172390000000.0
+    ],
+    "operating_cf": [
+      null,
+      122151000000.0,
+      110543000000.0,
+      118254000000.0,
+      111482000000.0
+    ],
+    "capex": [
+      null,
+      -10708000000.0,
+      -10959000000.0,
+      -9447000000.0,
+      -12715000000.0
+    ],
+    "free_cash_flow": [
+      null,
+      111443000000.0,
+      99584000000.0,
+      108807000000.0,
+      98767000000.0
+    ],
+    "buybacks": [
+      null,
+      -89402000000.0,
+      -77550000000.0,
+      -94949000000.0,
+      -90711000000.0
+    ]
+  },
+  "metrics": {
+    "years_of_data": 5,
+    "currency_mismatch": false,
+    "trading_currency": "USD",
+    "financial_currency": "USD",
+    "revenue_cagr": 0.018125,
+    "revenue_cagr_years": 3,
+    "net_income_cagr": 0.039213,
+    "fcf_cagr": -0.039451,
+    "revenue_growth_ttm": 0.164,
+    "earnings_growth_ttm": 0.287,
+    "forward_eps_growth": 0.100873,
+    "gross_margin_latest": 0.469052,
+    "gross_margin_trend": 0.012862,
+    "operating_margin_latest": 0.319708,
+    "operating_margin_trend": 0.006735,
+    "net_margin_latest": 0.269151,
+    "fcf_margin_latest": 0.237329,
+    "fcf_margin_trend": -0.011742,
+    "rnd_intensity_latest": 0.083021,
+    "roe": 1.48751,
+    "roa": 0.27082,
+    "roic_est": 0.609719,
+    "current_ratio": 1.003,
+    "debt_to_equity": 78.445,
+    "net_debt": 43960000000.0,
+    "net_debt_to_ebitda": 0.3037,
+    "market_cap": 4851251544064,
+    "enterprise_value": 4873196142592,
+    "trailing_pe": 38.16418,
+    "forward_pe": 34.66721,
+    "peg_est": 1.207917,
+    "price_to_sales": 10.392058,
+    "ev_to_ebitda": 29.014,
+    "ev_to_revenue": 10.439,
+    "fcf_yield": 0.020359,
+    "dividend_yield": 0.32,
+    "beta": 1.085
+  }
+}

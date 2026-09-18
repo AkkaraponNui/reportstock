@@ -1,0 +1,216 @@
+{
+  "ticker": "CRM",
+  "as_of": "2026-09-18T07:52:04+00:00",
+  "source": "yfinance",
+  "profile": {
+    "name": "Salesforce, Inc.",
+    "sector": "Technology",
+    "industry": "Software - Application",
+    "country": "United States",
+    "exchange": "NYQ",
+    "currency": "USD",
+    "financial_currency": "USD",
+    "employees": 83334,
+    "website": "https://www.salesforce.com",
+    "summary": "Salesforce, Inc. provides customer relationship management technology services that connect companies and customers together in the United States, Europe, and the Asia Pacific. The company offers Agentforce, which enables customers to build, deploy, and manage enterprise-grade, autonomous AI agents at scale, enabling humans and agents to work together; Agentforce Sales, an integrated platform that brings together the power of humans with AI agents to help sales teams for selling, managing, and automating entire sales processes; Agentforce Service, which enables companies in every industry to bring all of their customer, employee, IT, and field service needs onto one integrated AI-powered platform; Data 360, a data engine that gives AI agents their context and serves as the foundation for how customers unify service offerings, making their data actionable for both humans and agents; Informatica, an AI-powered data management platform that enables customers to discover, integrate, govern, and deliver trusted data at scale across hybrid and multi-cloud environments; and Slack, a conversational interface for the agentic enterprise where people and agents work together, connecting knowledge, actions, and data in real time. It also provides marketing platforms; commerce services, which empower shopping experiences across various customer touchpoints; integration and analytics solutions; Salesforce Starter, a suite for small and medium-sized businesses that brings sales, service, ma"
+  },
+  "market": {
+    "price": 242.85,
+    "market_cap": 199865548800,
+    "week52_high": 269.11,
+    "week52_low": 146.32,
+    "off_52w_high": -0.097581,
+    "avg_volume": 14134927
+  },
+  "analyst": {
+    "target_mean": 278.9287,
+    "target_high": 475.0,
+    "target_low": 160.0,
+    "upside_to_target": 0.148564,
+    "recommendation": "buy",
+    "n_analysts": 54
+  },
+  "annual": {
+    "periods": [
+      "2022-01-31",
+      "2023-01-31",
+      "2024-01-31",
+      "2025-01-31",
+      "2026-01-31"
+    ],
+    "revenue": [
+      null,
+      31352000000.0,
+      34857000000.0,
+      37895000000.0,
+      41525000000.0
+    ],
+    "gross_profit": [
+      null,
+      22992000000.0,
+      26316000000.0,
+      29252000000.0,
+      32255000000.0
+    ],
+    "operating_income": [
+      null,
+      1858000000.0,
+      5999000000.0,
+      7666000000.0,
+      8917000000.0
+    ],
+    "net_income": [
+      null,
+      208000000.0,
+      4136000000.0,
+      6197000000.0,
+      7457000000.0
+    ],
+    "ebitda": [
+      null,
+      5644000000.0,
+      9958000000.0,
+      11143000000.0,
+      12548000000.0
+    ],
+    "rnd": [
+      null,
+      5055000000.0,
+      4906000000.0,
+      5493000000.0,
+      5993000000.0
+    ],
+    "eps_diluted": [
+      null,
+      0.21,
+      4.2,
+      6.36,
+      7.8
+    ],
+    "shares_diluted": [
+      null,
+      997000000.0,
+      984000000.0,
+      974000000.0,
+      956000000.0
+    ],
+    "total_assets": [
+      null,
+      98849000000.0,
+      99823000000.0,
+      102928000000.0,
+      112305000000.0
+    ],
+    "equity": [
+      null,
+      58359000000.0,
+      59646000000.0,
+      61173000000.0,
+      59142000000.0
+    ],
+    "total_debt": [
+      null,
+      14088000000.0,
+      12588000000.0,
+      11392000000.0,
+      17176000000.0
+    ],
+    "cash": [
+      null,
+      12508000000.0,
+      14194000000.0,
+      14032000000.0,
+      9565000000.0
+    ],
+    "current_assets": [
+      null,
+      26395000000.0,
+      29074000000.0,
+      29727000000.0,
+      28222000000.0
+    ],
+    "current_liabilities": [
+      null,
+      25891000000.0,
+      26631000000.0,
+      27980000000.0,
+      37118000000.0
+    ],
+    "invested_capital": [
+      null,
+      68960000000.0,
+      69072000000.0,
+      69606000000.0,
+      73581000000.0
+    ],
+    "operating_cf": [
+      null,
+      7111000000.0,
+      10234000000.0,
+      13092000000.0,
+      14996000000.0
+    ],
+    "capex": [
+      null,
+      -798000000.0,
+      -736000000.0,
+      -658000000.0,
+      -594000000.0
+    ],
+    "free_cash_flow": [
+      null,
+      6313000000.0,
+      9498000000.0,
+      12434000000.0,
+      14402000000.0
+    ],
+    "buybacks": [
+      null,
+      -4000000000.0,
+      -7620000000.0,
+      -7829000000.0,
+      -12596000000.0
+    ]
+  },
+  "metrics": {
+    "years_of_data": 5,
+    "currency_mismatch": false,
+    "trading_currency": "USD",
+    "financial_currency": "USD",
+    "revenue_cagr": 0.0982,
+    "revenue_cagr_years": 3,
+    "net_income_cagr": 2.297364,
+    "fcf_cagr": 0.316424,
+    "revenue_growth_ttm": 0.108,
+    "earnings_growth_ttm": 1.189,
+    "forward_eps_growth": 0.511941,
+    "gross_margin_latest": 0.776761,
+    "gross_margin_trend": 0.014718,
+    "operating_margin_latest": 0.214738,
+    "operating_margin_trend": 0.049662,
+    "net_margin_latest": 0.179579,
+    "fcf_margin_latest": 0.346827,
+    "fcf_margin_trend": 0.049204,
+    "rnd_intensity_latest": 0.144323,
+    "roe": 0.19381,
+    "roa": 0.05704,
+    "roic_est": 0.095737,
+    "current_ratio": 0.839,
+    "debt_to_equity": 110.417,
+    "net_debt": 7611000000.0,
+    "net_debt_to_ebitda": 0.606551,
+    "market_cap": 199865548800,
+    "enterprise_value": 230838550528,
+    "trailing_pe": 22.93201,
+    "forward_pe": 15.167262,
+    "peg_est": 0.127563,
+    "price_to_sales": 4.548809,
+    "ev_to_ebitda": 17.896,
+    "ev_to_revenue": 5.254,
+    "fcf_yield": 0.072058,
+    "dividend_yield": 0.007247,
+    "dividend_rate": 1.76,
+    "payout_ratio": 0.1568,
+    "beta": 1.202
+  }
+}

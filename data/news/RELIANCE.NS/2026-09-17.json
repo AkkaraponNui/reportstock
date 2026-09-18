@@ -1,0 +1,1189 @@
+{
+  "ticker": "RELIANCE.NS",
+  "company": "Reliance Industries",
+  "as_of": "2026-09-17T11:59:48+00:00",
+  "lookback_days": 30,
+  "summary": {
+    "total": 96,
+    "by_event_tag": {
+      "earnings": 22,
+      "regulatory": 11,
+      "guidance": 9,
+      "product": 5,
+      "mna": 2,
+      "analyst": 2,
+      "capacity": 1
+    },
+    "headline_lean": {
+      "positive": 19,
+      "negative": 12,
+      "neutral": 65
+    },
+    "top_publishers": {
+      "siam.in": 20,
+      "The Economic Times": 6,
+      "Reuters": 5,
+      "techgraph.co": 4,
+      "scanx.trade": 4,
+      "Univest": 3,
+      "Sahi": 3,
+      "Business Standard": 3,
+      "CNBC TV18": 3,
+      "Upstox": 2
+    }
+  },
+  "articles": [
+    {
+      "title": "Reliance Industries Ltd (RELIANCE) Share/Stock Price Live NSE/BSE - techgraph.co",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9CTEhuRnR3NnJmNS1MSFFMY1JRU1lCUG4wcVh3Z2RmajlmTkkwYWNVUEFQMVgyaXdVUWo4Vk50Rjg3TmFfU0VCUHFjZlo4YjhiRHV4VnR2MzJlV2hMc0pscWZn?oc=5",
+      "published": "2026-09-17T07:44:28+00:00",
+      "publisher": "techgraph.co",
+      "summary": "Reliance Industries Ltd (RELIANCE) Share/Stock Price Live NSE/BSE &nbsp;&nbsp; techgraph.co",
+      "query": "RELIANCE.NS analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Reliance Industries Share Price - Live NSE: RELIANCE Stock Price & Chart - Upstox",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB6bHBYSldaWTEwM0pneWlBUVNlVjM0Njl2NFVCNGR3NTlneGlzM3VRa3Zha1RQWXJDRkxjUjR6V0hPTGsyN2FKTmFtak50X0pjUjNtQmhvMmRCTHJnNXdhYzI4c0lKU3hlVnB4cWRNbw?oc=5",
+      "published": "2026-09-17T07:29:46+00:00",
+      "publisher": "Upstox",
+      "summary": "Reliance Industries Share Price - Live NSE: RELIANCE Stock Price & Chart &nbsp;&nbsp; Upstox",
+      "query": "\"Reliance Industries\" stock",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Reliance Industries shares in focus as govt slashes windfall tax on fuel exports; stock down 21% in 2026 s - The Economic Times",
+      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOLUFVV3JUdVdmaDhwX1FVYTN2UzY1NFlTUEZMY1hrUkhoWTJpQnRNc0V4ZnRxOFFPcEtYQUwxeDRHR3oyYm5OS1RiQ055aHRxdWVUOS00OUZoY3VEU0hFNjJkcm1HZVdpMm8xU3dWOUZpQ3hDdS1IRWUzbnZkZU9YQmhDV1RMX3Fic1pVTDZPaDYwelFONTdHSjBuX2ZEdXJ3cjY3UDVNR0pRT1d6T0ZlV09Jd3R6Wl9uQThNcHRWMzF6UTJobzdNT01FX2Zrd0pHSjZXc1M2ZVN0cTc0YnozaTRpTE9tcm5IdmhsSmRSQzVIay1ZcFhyOFJzU0ZMMjFNUUlBallIV2tySUhtc0NQY9IBlgJBVV95cUxQelhNN3IwaWJtUWRTZTVET2tvRS1aYzdLQTdPSl9mRndOWlliY282aTljZjZkaVMzTmlXbXlFbU1leUU2aUU0R2szUVdGcV9RQTA3eDZLOFI4STNkWnRJM3U2N2tfN3dHdEpIUWJwTXMzZTN3bHVZQ0FLV3Vxb0RDZ1dxODFSZEItaGVTa3lNajAzamZuamZRNzd1YjEzSlEtQkhydTJTNDFmNVlKcGRpeV9sLWZLV3FqUFhZUVpzTF9VVmpXaHppOElMeE9ieUJTclhWQ1lGTnBBVUltckdiU1ZzbUgzSmtMcDJfM0lLWk9wTHJPb3gzYVlMRmhyQXJLUnZRdnU2SGdTcFhtTmxzd3pTNi1sQQ?oc=5",
+      "published": "2026-09-17T04:02:15+00:00",
+      "publisher": "The Economic Times",
+      "summary": "Reliance Industries shares in focus as govt slashes windfall tax on fuel exports; stock down 21% in 2026 s &nbsp;&nbsp; The Economic Times",
+      "query": "\"Reliance Industries\" lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "EMMA HERNAN'S COAST TO COAST KITCHEN EXPANDS NATIONWIDE TARGET PARTNERSHIP WITH HER SIGNATURE EMPANADAS AND EXCLUSIVE SEAFOOD FLAVORS - Yahoo Finance Singapore",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZFhBaHJaZF9lX1JjZko5VWpldkZiZ254Yk9CS1VPSU5wZk1FYy1FaFBGaFV0NjhFdmpzQkFkQ0ViTnh2YWx1NnM2WGpTVE1xMTAwbUhWbEtqMWEtVllVRDhYbXpGSnJHYlUyX2lQTUQwN3I0U0hqdXliMkN3T0E1SXRNcmJSN0d3?oc=5",
+      "published": "2026-09-16T20:37:00+00:00",
+      "publisher": "Yahoo Finance Singapore",
+      "summary": "EMMA HERNAN'S COAST TO COAST KITCHEN EXPANDS NATIONWIDE TARGET PARTNERSHIP WITH HER SIGNATURE EMPANADAS AND EXCLUSIVE SEAFOOD FLAVORS &nbsp;&nbsp; Yahoo Finance Singapore",
+      "query": "RELIANCE.NS acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "positive"
+    },
+    {
+      "title": "Post-Industrial Polyester Flake Market To 2035: Recycled-Content Mandates Drive Growth - News and Statistics - IndexBox",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZTlyTHlhMDMzVmpZR3RxSm9rdHNLQ1cwbFJ2anVNOGF4a0RDQXlpemx5WmMzUUlQYUlvdUo3MXRORGRSTnhoeFFJbTRkTE1JdGhYNExXTkpSQ0xHa3E3cXR3YW1sWTRLbko1UnpwdXpGY2hQWTdOaFBZaXZDNFdKZUI3MzhvYkNUTEJ5TGJkRlZXUmxmV3dsclpRU1ZjdVU4MWZvQmpxcTZ0NXdrbEhOZ0UtX2gzM21pUlE1TGFlS1E0UQ?oc=5",
+      "published": "2026-09-16T16:16:15+00:00",
+      "publisher": "IndexBox",
+      "summary": "Post-Industrial Polyester Flake Market To 2035: Recycled-Content Mandates Drive Growth - News and Statistics &nbsp;&nbsp; IndexBox",
+      "query": "\"Reliance Industries\" capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "positive"
+    },
+    {
+      "title": "Reliance Industries advances Wednesday, outperforms competitors - MarketWatch",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOWFhYX0lxdmt2RFM3SVRna3JWMHdzSTVxSnVGbUM1dzdCWnRvdW5kXy01OUZ2Y1Rmem92NHJqQlNpdE5ZRVVFajM1eWREVWV6RUxCam8yY2N0OHhaaDYyajZWVGlEdERjLUZvcG9aTUUtTVd0a0FZTm50eGg1bm9kWWw3M2RFd1B3cS0xWDVjQkxvSXhQOTFhQVdaRzdiTUtmYUw3MUtiWkE0b3lvQVBPUTlOcjQtZ0NqZGVNbW1IaVFUS1Frd3hUVGJjd1o0WjNHNG5qRHdkUQ?oc=5",
+      "published": "2026-09-16T10:30:00+00:00",
+      "publisher": "MarketWatch",
+      "summary": "Reliance Industries advances Wednesday, outperforms competitors &nbsp;&nbsp; MarketWatch",
+      "query": "\"Reliance Industries\" stock",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "India new issue - Reliance Industries accepts bids for 5-year bonds, bankers say - marketscreener.com",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPWlVhVU1rM2MwTXA4WUxIQXJFSEtqMF9HXzdMTTQtbHYtTXhvV2F0dnVKLXpibm5zNXdsTzNrd0s1REh3Z1dwU2NCZEZ6a1Fhb0g3VDU4LUJLbUxZM3RMRTNnQjhhQUVJaVVlVWpYZWUyU2RkMm5RdlRaYzRRTE5uNWtDUENCU3Y3M0t5aWhRMUxDUXBqb1JFSDNRZm9uV3hVTkFHMmJpVkF6UTFuLUFiMVdZNUdKMGVLOUxoSU1rTkgweW1rSUZyeTdB?oc=5",
+      "published": "2026-09-16T02:56:18+00:00",
+      "publisher": "marketscreener.com",
+      "summary": "India new issue - Reliance Industries accepts bids for 5-year bonds, bankers say &nbsp;&nbsp; marketscreener.com",
+      "query": "\"Reliance Industries\" lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory"
+      ],
+      "lean": "negative"
+    },
+    {
+      "title": "WSG Brands Acquires Nasty Gal, Ushering in a New Era for the Iconic Fashion Brand - Yahoo Finance Singapore",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZTgzOU03dDAweG5lT1pZV3Y5dVhwX2FtNW1zYWNxdlNRV0R2bWprWHFZcWpNRlhOMThvaVlpdWxKODdZZV9yd1FSb0hkMUtUU1JidnVROExSOW9UUkFzRC1SSnpiYkpUTnJlX0NQTUxhMmdnUHg2eXk2OGd4QU9jQVUya0c?oc=5",
+      "published": "2026-09-15T20:21:00+00:00",
+      "publisher": "Yahoo Finance Singapore",
+      "summary": "WSG Brands Acquires Nasty Gal, Ushering in a New Era for the Iconic Fashion Brand &nbsp;&nbsp; Yahoo Finance Singapore",
+      "query": "RELIANCE.NS acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "mna"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Jio partners with Canva to offer 12-month Canva Pro, Pro Lite access to subscribers - ET Telecom",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOVHVscFRYeW92eVhqTEg0S2pWb3RSbHJ6QXFtN2kwMDdUdHBaVDBuSDV1TWVyUTRMLW11TVhNdmkzN0l2OEh4c3NwWFRPZlNsclZ6NkhicU51U3Y0SnhoY1JLaG1ENGxyVWM1SWpidWI3UGNUSlRHNEJhYkE3TU1TRWVIUjlKRWZoZldlR25uU1haS1BPOUkzRXFHMnQwakc0R2NFb2xaaXBoMVdra3hPTjAyV2xlQkprVFpCMUZPX2FkM1ZyV2ZzLVJjR1NiV0tWUzZ2R043MEZhWE5kU1ZNZlNLcTlXZ9IB6wFBVV95cUxONWQwbjJ2UUZFalJLZEQ1WkNEVE52S3JzX2NhM3FWcWl5T0k5MkZDZDNVYlQzZ1BtS2h5UnV2eXlPV3I1N1lHQzhwZHpBekJjX292MWVITjRDaXVuYWh5c0s3QWtGaFgwc01lT01xbUd3MHU3VjlqaDZVSWtzdWlkaFN1QXVOdmlsRmMzejYtcG9xbWQ4LVJoZ1lPUFdqWC14OEF4ZF9LTTlXRHJiLXZsaWxRb20wVjYyTGQ5RzA0N2pEZ2dBT2J3TU1XT3Z1UFBmSmQyR1NMQlpNZE5fWFcwdXB3WnZQOEoxaWg0?oc=5",
+      "published": "2026-09-15T13:09:53+00:00",
+      "publisher": "ET Telecom",
+      "summary": "Jio partners with Canva to offer 12-month Canva Pro, Pro Lite access to subscribers &nbsp;&nbsp; ET Telecom",
+      "query": "\"Reliance Industries\" acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Conversational Commerce: When Marketing Meets Customer Service - MarkHub24",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUFdRSTE5N3dNZVoyZURwVThHclNSbTZobVhiOU5paEpwRnBNXzdoWXdndlQ1TU5XV3ZNT1Y1SGoyVVZreFFUYnJueDRzMDBRMmQ3YXlxZTRURm0wZzlTcHVDLVU3VE5LVkZtdy1PVFRNVC1tekNLZ3hsODB6NkJMMFVQanJ3MmJEWHphcFptQ2lGdUducnZN?oc=5",
+      "published": "2026-09-15T10:40:27+00:00",
+      "publisher": "MarkHub24",
+      "summary": "Conversational Commerce: When Marketing Meets Customer Service &nbsp;&nbsp; MarkHub24",
+      "query": "\"Reliance Industries\" acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Reliance Industries Ltd. Share Price at Fresh 52-Week Low - Univest",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONzdfWEowOFZwRm9BRGtlQURURElBY3laa2hXTGowQ1VpNnJrdW16bHROZHFhb1JWWjUwT3R5dkdXQXBrcG14U0dnYnFQOHdEYktUZUtnZi1OQWVjdWpmSC1vNDlxREk4S3d0bHQ0cnhqbG1WWGExTGJ4b1dkMmtLMVhsbF9ObzBQTlQzWEZ2bUo?oc=5",
+      "published": "2026-09-15T04:54:00+00:00",
+      "publisher": "Univest",
+      "summary": "Reliance Industries Ltd. Share Price at Fresh 52-Week Low &nbsp;&nbsp; Univest",
+      "query": "\"Reliance Industries\" earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Earnings call transcript: RF Industries posts record q3 2026 revenue as shares fall - Investing.com India",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPZ2JLTF9BYkNyUExSaERNSGZuRWFyckszM09OT2hpZDJmOW5uQmkxRXd3bU1mM2taRmx2QjdkMFNkOURiR0M2ZDVGMTZnb2NWdUtwcDVEMk9Ubl9QNEFqWEtFd2h2QUlEM05oaHpTclE2QTh6SzJrSEZDY0kxMEU3VHJvc1N5MGxqUGUzTUx1Rm8wVjVKdFktRkQ5X3lIcm1mUjBFeVRneXp2c25IVWsyNXhqX2RqUlZyaE1IS3I2WGdEN0JmMDl2ZERNaFNFcGM0TTkwcXhFWGR2U0E?oc=5",
+      "published": "2026-09-14T13:30:06+00:00",
+      "publisher": "Investing.com India",
+      "summary": "Earnings call transcript: RF Industries posts record q3 2026 revenue as shares fall &nbsp;&nbsp; Investing.com India",
+      "query": "\"Reliance Industries\" revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Reliance Q1FY27 net profit rises 6.1% to ₹23,196 crore - scanx.trade",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWjd1NFdrcXdHd1pON1E0eXlaWlhGUDVybWhlZENDZnpGMkkxNTF4dXRVT3gxQ3JfcXFUMWRGNVRnWWZ4SXkydDB2LXZmNWpnVUlOVlg5WTVtOW5CTjVOcGlpZFFja3RxWno4aVJwa2VGU0R1cFUyNm10X1lWOEw0UUtNRVlTWVFPWk5fdkpRd1kyOE5UYmo5blBjSVkybDR6NVMzQ2JyX1RKVlNCR1ZjRDRTekpkUQ?oc=5",
+      "published": "2026-09-13T07:37:04+00:00",
+      "publisher": "scanx.trade",
+      "summary": "Reliance Q1FY27 net profit rises 6.1% to ₹23,196 crore &nbsp;&nbsp; scanx.trade",
+      "query": "\"Reliance Industries\" revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Lords Mark Industries sets ₹1,550 crore FY27 revenue guidance - scanx.trade",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONVlhTE5kREZxU0pCZ2FQRFk4VFB5ZFp6YTNiVUlTczBhS1YweW95ZXBlWm41aHhyb2Jxa0RGb0ZkMmV6U21GVXpFTlVGR2FzNWZlLUZoT2RTTnZuZTdYQVpJZDcyRmNhWUpSRDFZMGttYlJoUW9QTTNUNUxiWm5WWXBiN0FDU25qc2N2aFJRVkpYVmVxSktuR29fRXpKWG9SQXVBLVFBSHZrMUxkRzRsSFhYRmxyR0Zv?oc=5",
+      "published": "2026-09-12T07:11:29+00:00",
+      "publisher": "scanx.trade",
+      "summary": "Lords Mark Industries sets ₹1,550 crore FY27 revenue guidance &nbsp;&nbsp; scanx.trade",
+      "query": "\"Reliance Industries\" earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "guidance"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Reliance Power Stock Price Forecast. Should You Buy RPOWER.NS? - StockInvest.us",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9fanNmd0w2ZHNHTW5XbW1vNGVMMlJlMjNyUkQyRDVVQW5kRjk5ZzhqUER3M3JtLTFkb3p1a1JIN1ZJbml0amRWWkpETVota0E?oc=5",
+      "published": "2026-09-11T12:49:08+00:00",
+      "publisher": "StockInvest.us",
+      "summary": "Reliance Power Stock Price Forecast. Should You Buy RPOWER.NS? &nbsp;&nbsp; StockInvest.us",
+      "query": "RELIANCE.NS stock",
+      "source_api": "google_news_rss",
+      "tags": [
+        "guidance"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Reliance Industries to sell 5-year bonds next week, bankers say - marketscreener.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUjExUWR4YmtJbGk5Vko3QWJZN0pXNHdlbkk5TUREcng4X1R3SmJ5M2JkckUyXzk3d1NRY1FaT1FpXzhIWHZHWl8yTXZ5elROcHdQWUdEMXEwME5acmR1NTJjU0x0dDNzQk1nczEycFNtVVp6UnVGUHh2LThyX2lwaVpaR2pzSnphRFZ5Z1l1dXpPUEp4amJmYVNSYWRva1ZBczFJQ3pqSFdlR0hlcmlfanpCMUY5QQ?oc=5",
+      "published": "2026-09-11T06:58:24+00:00",
+      "publisher": "marketscreener.com",
+      "summary": "Reliance Industries to sell 5-year bonds next week, bankers say &nbsp;&nbsp; marketscreener.com",
+      "query": "\"Reliance Industries\" lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory"
+      ],
+      "lean": "negative"
+    },
+    {
+      "title": "India New Issue Reliance Industries to sell 5-year bonds next week, bankers say - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNndqZzJaaEFTaXNQUVZWemF0VzRQX2VNOTNWTnhjZzZKclFpWnd4RUM4bnluUkxENVY1UVl3X3o2Ym96SUNSR010WU5NOUM1cGs1OFBTRUgwbXdNLWFuX3kyYXM0eUdWNFdkZURid0F3RmVNZG9za2FsdXhNRHRvdU5UU1VGd2lTQ1lzY1hubmZIRXR2cHRabTdBdFFULWY5cEZIcTQwVElmM0NFcGJfZ3FybUVoNVg2eEdSeHpsdmw?oc=5",
+      "published": "2026-09-11T06:57:00+00:00",
+      "publisher": "Reuters",
+      "summary": "India New Issue Reliance Industries to sell 5-year bonds next week, bankers say &nbsp;&nbsp; Reuters",
+      "query": "\"Reliance Industries\" lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory"
+      ],
+      "lean": "negative"
+    },
+    {
+      "title": "As NSE, Reliance Jio eye listings, what are India's biggest share offerings? - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxONkxYbHBWcWxRQ0FRbUhwSWswMGpCNUk2ZHp4NXhnNnBhaTFrcGQ3OXgzYzJoNmx2UVppVUZxVzZRbkNlcTlkeDkxd0RfLU5menpzZlNUX2xtRzRjWVc5UzRmdVBaeGxxU2h4OW5IUE9TdVA5cWZEZVJScVlnUkdlanFfRFBnVVhXbmV5UGZpRng2Q0tldXZHa2pIZ3cyNnhm?oc=5",
+      "published": "2026-09-10T07:00:00+00:00",
+      "publisher": "Reuters",
+      "summary": "As NSE, Reliance Jio eye listings, what are India's biggest share offerings? &nbsp;&nbsp; Reuters",
+      "query": "RELIANCE.NS stock",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Reliance confirms no UPSI shared at UBS India Summit 2026 - scanx.trade",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOMzZpZmk0anJlZmo3ZTZ4MmZud2tHOHRkeUZVNFFTS3lJbXBQVThMWlQ5QmtPZXNtdTkwLXNvV3J0N3hZVmZ2T3ZfTTFJR2YySGVXWGY4dnk1TEFzaEJlMWVUWG5DZ2ROTHpkdUQ5a1o3eE9IbEJZd05Jem56dUhzeWVCNlRScjFmdEFTWl9PcVVMM0o0MGtqUGVIV1pCdWNWQlFZVmVDdTA1UUhPeFptVTlOaGZZajg?oc=5",
+      "published": "2026-09-10T07:00:00+00:00",
+      "publisher": "scanx.trade",
+      "summary": "Reliance confirms no UPSI shared at UBS India Summit 2026 &nbsp;&nbsp; scanx.trade",
+      "query": "\"Reliance Industries\" lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Tata Consultancy Services Share Price Today (TCS) | Live Chart, News & Stock Market - techgraph.co",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBFeGQ5c2VqX1BwUHJXcVRhS2ZmQm1aRHBwQU1QUU1hSjYwcmdneTA1UEh6dXRLZ21QWC1qSTF1SVpzSDdWYlNIakM4MzRXY3hNaVdhTkRYMTZVUkU?oc=5",
+      "published": "2026-09-10T07:00:00+00:00",
+      "publisher": "techgraph.co",
+      "summary": "Tata Consultancy Services Share Price Today (TCS) | Live Chart, News & Stock Market &nbsp;&nbsp; techgraph.co",
+      "query": "RELIANCE.NS competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Nifty Smallcap 100 Share Price Today (NIFTY_SMLCAP_100.NS) | Live Chart, News & Index Market - techgraph.co",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1zZUdRSjUwUXd5WVVQWGRVYW5uMzU4UDh0N2MwQ0Z3eHZoUXFMQWFCS25Xa2dhazk0TEZFMGR0R1F0X1l3RVlIM1EzTS1ONXRLNnVpT0dHV1cyMmpwMlhwbU9QemQtMU81S1ZzMg?oc=5",
+      "published": "2026-09-10T07:00:00+00:00",
+      "publisher": "techgraph.co",
+      "summary": "Nifty Smallcap 100 Share Price Today (NIFTY_SMLCAP_100.NS) | Live Chart, News & Index Market &nbsp;&nbsp; techgraph.co",
+      "query": "RELIANCE.NS competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "RIL stock: Three events that could drive a re-rating post 19% fall this year - Business Today",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPUVBPU3JCQk1RV2dBaWJfV3VUV2Z0SDRLS3BpclIwZnZMR1BDSmxKdEk1bUxHSUQzUWRmcF9Lc0tHN1M3enRzZXlWUjJkV0tNbmRxT0FYb002cWt0cmdLZGRkM0trd05SQnl1VWx0UUZrMzlLWVA5TmxySk9IT2stU0JEdTUwcWlYQlJYa2M1dzVidzRLOWM5akhlU2w4U3NfQ2U3WU04Q2JaazA4bzB3RXRPQXV2TFRRSkNDQ0lya0lscVVrQ3VzaThEdm9ZelpmWFFNcUl3ajdiNzloMlJ2TDN5NDBlY2xSSUswdnZpMjVtS21OY2lzeXI4Z9IBgAJBVV95cUxOVTRBYjdOc0kxQlNJejdUM2RFMFRRWEM2M09Dd1BZUFdQUkhRR3d5T2NzTEU4dzJMZjl2RWJORFVSNEdiX3hyNzRrNmlUR2VDRGw1UjNBMWFxSENEV0w4RFRyNzF6SzFoUTFOWWF5S3FXeUxMaVVqWjRNOEROWlhYR2RGbGhLOXVBUmlTVmpDcmxVcGNUaHlsaWFaWndRUVlaYTJnd0g5QVd4dTV6c21KRlNkNFdIX2IzTmg2d2xJSzc5em9KR1BzcEcxVFZVbmQ4ZXo3cDFQVHFrVzZKNWM3Y2w2bDdmZkhNX09saEV6QzZQRW5XY2lKSGhMTEhwMHlr?oc=5",
+      "published": "2026-09-10T03:58:22+00:00",
+      "publisher": "Business Today",
+      "summary": "RIL stock: Three events that could drive a re-rating post 19% fall this year &nbsp;&nbsp; Business Today",
+      "query": "\"Reliance Industries\" analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Reliance Industries Q4 Results: PAT Falls 13% YoY, West Asia War Hits O2C, Oil & Gas Biz; Full Earnings Report - Goodreturns",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxObHJOVnFVZ21hRUp4Y08tYlE3Y0RFUzY3cjlQSWRZNjRwcGJGd25jTWE2aWV2MVM4MVBYNV8yREVoQ0tNTzJJUHd2VVFXalVIcE1ieXlKeEZMSUh6UjhHMnBJM1hRbkhBV3FJbE82UFJkVmcyM2ctclpDcXdSaFlRR0R1WGhHYWpOQUxRNDkxNmIwM2YyamdVUjdXRndPVHR4SS1US1BqZ3hUMG1qMDZOdXNIbVF2dHphYXNQRFBtSEttaVhObUk0ZDZfVXR1NUlMcDRxMkhROXRoZw?oc=5",
+      "published": "2026-09-09T18:26:21+00:00",
+      "publisher": "Goodreturns",
+      "summary": "Reliance Industries Q4 Results: PAT Falls 13% YoY, West Asia War Hits O2C, Oil & Gas Biz; Full Earnings Report &nbsp;&nbsp; Goodreturns",
+      "query": "\"Reliance Industries\" earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings"
+      ],
+      "lean": "negative"
+    },
+    {
+      "title": "US markets today: Dow, S&P 500, Nasdaq futures indicate gap-down open as oil tops $100/bbl; Apple, energy stocks to watch - Upstox",
+      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQLTVWeWR0OFU4bFl0cG1wbHdndzE2bFkwUE9yWXJJeUpjNHRHbkFNTng2QTExbEJ1d2JnZlRrWUZhSnYwakFXVWZXbW4tN0lEX3NSQkJDcnh6ek5NUVZVbVBBcVhsclFXX2hpaFVESkhxWjlsZEpyUXlhM3BDVGF2dzl6NDByVzU3d21ITVNTRXlrRndsa3hNN3dPUVM1ZE9WN2ZlcGRyMlJKSFdZLTJMbFNReWhsTVJKbE5FcXZnb0Q1TTEwRjRJLTBIRnZ4X0NydGxxV1VLV2R0bUdScXIxN2tKMWNDMF85bk5yc0R4RzQyOE5QeUpsTUI0cWhQM2Qzc0NyaEtCVXEwaFJMM2c?oc=5",
+      "published": "2026-09-09T12:51:55+00:00",
+      "publisher": "Upstox",
+      "summary": "US markets today: Dow, S&amp;P 500, Nasdaq futures indicate gap-down open as oil tops $100/bbl; Apple, energy stocks to watch &nbsp;&nbsp; Upstox",
+      "query": "\"Reliance Industries\" earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Benzene-Toluene-Xylene (BTX) Market Share, Volume, Growth, 2034 - Straits Research",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB3NmxQS0Zkb1Z6dGczWi1ZNDVYUmJsT2VzbUdjRVZqTnpHcHAyZWFQb1I1R1gzY3VCMHYteWc2Y3JRRGJKR3NWNmtlWTJTTmFEMW5maDA5aDliSTZRTXJkb3pyRHBZMzhhQlJhaktXaHB3Zw?oc=5",
+      "published": "2026-09-09T07:00:00+00:00",
+      "publisher": "Straits Research",
+      "summary": "Benzene-Toluene-Xylene (BTX) Market Share, Volume, Growth, 2034 &nbsp;&nbsp; Straits Research",
+      "query": "\"Reliance Industries\" revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "positive"
+    },
+    {
+      "title": "KERING LAUNCHES ITS KERING GENERATION AWARD IN INDIA IN PARTNERSHIP WITH RELIANCE BRANDS LIMITED - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdmFzT0JlX2ZtNEljNmRGUTNQMW1CLVk3eGhRT3IyQlpJZ3Faazl3dmpWRlNVMmZIRWtGUzJBMGdYRElMaEllMTVfcDhwdXpCRmVkU2l0eFdZdlRtc2VpQmRiUzgtbnpHNXNHdE5fOUpOM0U4OGZ3dkpYU3pHSi1hZmw4YjRhQldMZXJhQy1jQ0lOYk1NS1g3UGozWks2SHl4TnZrQVZ5WQ?oc=5",
+      "published": "2026-09-08T13:17:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "KERING LAUNCHES ITS KERING GENERATION AWARD IN INDIA IN PARTNERSHIP WITH RELIANCE BRANDS LIMITED &nbsp;&nbsp; Yahoo Finance",
+      "query": "RELIANCE.NS acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "product"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Reliance enters India’s ice cream market with 10-cent products, disrupts pricing landscape - dairybusinessmea.com",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdVlkWU82X1BsRTROQlZ0bHhQMFhHWVdkTEE0ajE0SDN4Vkw5RFRubmZwb3pqR3RmN2hOSEZJeWEzRlhHLS1xZnFtZFltdUxmb0xOZFVNaVZLRHU2WHR4cjhWd0N1aXU5Qm1TZkk2VGFmaElHVFAtYk9abi05M1lJTkhCYnVBRm4zLVhfVHlndkVYRklSWGNYSVJJRTJWWS0wODVRRjZIazlQc3pLQmlfWExidGxsSDhqY2VuejBKcE5rVUVsNnZscQ?oc=5",
+      "published": "2026-09-07T08:52:33+00:00",
+      "publisher": "dairybusinessmea.com",
+      "summary": "Reliance enters India’s ice cream market with 10-cent products, disrupts pricing landscape &nbsp;&nbsp; dairybusinessmea.com",
+      "query": "\"Reliance Industries\" capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Stock Market Today: Live Share Prices, Global Indices & Indian Market - techgraph.co",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1SUFhnS00xSlZya3hRczRPT2FrbjJQY1BZOTBTbllwcU1ZQl9kN3kwQ2k2VkFRRmxVRmpIS3RKMnRjWDRsZFFXTXN5YjIxcE1WeFZr?oc=5",
+      "published": "2026-09-05T03:42:04+00:00",
+      "publisher": "techgraph.co",
+      "summary": "Stock Market Today: Live Share Prices, Global Indices & Indian Market &nbsp;&nbsp; techgraph.co",
+      "query": "RELIANCE.NS stock",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "NHPC (NSEI:NHPC) Stock Gets Fair Value Trim As Analysts Weigh Execution And Valuation - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVmNmTFZwdVlpSUN1S05NV0ZTcmZWU0NNM0dESHJkVjA2MzcxaDMybzl1T3hfZkthNk5pZnhxaUI5VE9ieUJjX0NLaGRBWGtmMzI1bzNRa0I4MXVIR0ZQdnBpWHliS0Q1Q3d2MUgzN0xrRHVGZUc1b2lxS3QzRUpGakpfdlAwc0poN01NcC05Nk15QWFW?oc=5",
+      "published": "2026-09-04T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "NHPC (NSEI:NHPC) Stock Gets Fair Value Trim As Analysts Weigh Execution And Valuation &nbsp;&nbsp; Yahoo Finance",
+      "query": "RELIANCE.NS stock",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Reliance rises 2% to be among top Nifty gainers, stock crosses key technical level - Moneycontrol.com",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNOEplem5JeVh4TUxsMFotR2RFbi1taDZmcTdUdGtpRDQ2YlNZVHhHajNicFF4ZlVIdFZQV1RuanZia29WdmJBeXBGcHZ2bVlMVGd2eHNncG9XMVRyeWM1UUtXMV90dFlHWE1qcDNvOUdLSl9FYmhfQm1YVExuS0hJWWhoWnZ2bHNzZHVuNWVNbnM5Z2FfdTd6ZFZFcldXUVZ0enZDUGRYLUdPanp1ODllVUp0Q3hSM1g2MXBWN3JOWDFhTjVOTGJBMjRZMGFSSzh2X3Rsemg4bTdRR000cVHSAeMBQVVfeXFMUGFpYVl0cFI0MVhoQ2NlOG1UbDgyOUlBcE1Wd0hGTTNjenZEV0V5cU1iQ1BERmViWFhXbEVQbF9aSjRUTnRPSW5RREw1RUVLRmRSeUhsMWFqeTVMQ0V3UnZ6TUFqVGM2cjNVbXlXSDFfTndJRFllMjIwd0xjalJpTFd4VHJjclNvcEQ0QlhRSDJpWlhDd2ZVUmhoU3dGMVRyaTFiclVMRkRrQ1BCb0syNnRjaWhsakQ5X1BxZTBWeEVRcFVuOHRtbDZpRlkyY1UzeVRWUGZWTG9qelp2ZGlmOV9LSTA?oc=5",
+      "published": "2026-09-04T07:00:00+00:00",
+      "publisher": "Moneycontrol.com",
+      "summary": "Reliance rises 2% to be among top Nifty gainers, stock crosses key technical level &nbsp;&nbsp; Moneycontrol.com",
+      "query": "\"Reliance Industries\" stock",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "positive"
+    },
+    {
+      "title": "Reliance shares are down 17% despite soaring refining margins. What the market is missing - The Economic Times",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOd1RrbF9OSlhBSHJXSVZfMGpialVLWlFzZ3RQeFJLRUd1bEZTNV9NamhSSlF5NFRwUzIyREVGQlpaR3NxUEsxbW9wY25NNjB4RFZaYVJDZ3lWb0FLWF9Ga0xIVEtDc1pES080akpfX0oySHVMa1NaU1pUTTVFQUxKM0ZmSUlvSWZXczVfZVBOckZaazBIOUFDYkFJVlRaNmc4dXYwOV9ZU0J4bTF2ZnZiajdJYWZHVnRnVnFRYzRFdlp1RUFTN1JlTEhGV3RKTnMyYkEyZm1uTlRGOE9ESm9UZDhBd3I4REV4MjdQeUliZEdrQjjSAfgBQVVfeXFMT0V1d1FXMlB4TFVTbHNfb2dFWnNKOE8xcmxnRkVhS1V0SUJzNGVpR3lxRmhfdGhuWmRFSDZzZklNMlNIcVZjMEJJWGpBblFSa3NNS2pTenZmTV9NVU1vSDU3NDlHaXktVFdYYjZ1S2JZbWh4UUxBdjBQOWM4T2hfZmFwV3dldEJxWVBuX2RyUS1CbElfOGhyV1Q3SnBsV3FRQnk0Q1ZfeUZkSHJCWnNFNkZnSzVHSUUxV25SdHpQVGdQcElFejYwMHliUTNlb2pPemRJbFJxNHBUZ3VKSnh5dEJYOVpkTHJ2ZTlEVnFJQ0xqYVRKZGloZng?oc=5",
+      "published": "2026-09-04T07:00:00+00:00",
+      "publisher": "The Economic Times",
+      "summary": "Reliance shares are down 17% despite soaring refining margins. What the market is missing &nbsp;&nbsp; The Economic Times",
+      "query": "\"Reliance Industries\" earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "DEE Development Targets ₹175 Crore Thailand Revenue By FY27 - Sahi",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbEhXWEo2WEthcVVYU2FNcm9VM0gtZlpLQ3Bidi1tRDVVbDdVOGVrNVdOckxIT1M5YXRqeGdrWU5ha2xSZERpMEsxSWx1amxkMHdUREY1eThJODJQdHpkTzNEbHAtUFRwMXVLcXRMMFFVNWVTZzVPdl8zV3ZZQWNYU29GQlgxMlhRSUN0aVE5WS1HQ2V4U0FWdXQteDFCdw?oc=5",
+      "published": "2026-09-04T07:00:00+00:00",
+      "publisher": "Sahi",
+      "summary": "DEE Development Targets ₹175 Crore Thailand Revenue By FY27 &nbsp;&nbsp; Sahi",
+      "query": "\"Reliance Industries\" earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "RIL shares rise 2% as strong O2C growth lifts Q2 earnings outlook - Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPYmpvZGsydnlqUmdnOV9ISGd1cXRkM0FWa3c2VmNiczg1NC01Mk5IdnpYSkZKMmY2YW5YdzhXemZtUFZmamx3RS04TWplQUQ0T0puZktPVUE5blQ0ckVEcjgxdGNORjhVSE5vRVJJZXJLRF9DMlBsWEJKUl81T1lKZ1EyeFNxckNxMjlyQlVSMHBvQUczdVV6LW8yVmdoVXZRSHJuWGxRSm1idFRYYUI0OVAtZXFFN3BwZ2FyaTZ4akVEcDRHS084OWh1NNIB0AFBVV95cUxQMnJuSXRIMFdUY2NTT3k0bG9vRVZJNmVrd3M4WmNjS1VyQ1FLN28wS3c4T2JCSGdJeHJDQmNVaUFhMlZOM2pBc1VvR1BZaWlBSVhWcXlidnZmTnlSVFhPUzVXRFVDWExzZkJMUk9VOVFsd1pkeWdtWDNCeUNNZ1otOWVIRHE0VkM4M2dRd3FILUtFdTZ5YTJ3UlloQ2lYWl9UeUxFWVVvSWI3dkg3OXZnN095eUljWXdVSF9ZOHJlckJaekdoRVVCcHJadW1GaUI1?oc=5",
+      "published": "2026-09-04T07:00:00+00:00",
+      "publisher": "Business Standard",
+      "summary": "RIL shares rise 2% as strong O2C growth lifts Q2 earnings outlook &nbsp;&nbsp; Business Standard",
+      "query": "\"Reliance Industries\" analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "guidance"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "MSMEs can tap the nuclear supply chain: Experts - The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNWlBkMkhuUEZ1M0pQZmY1MWEydWlLNDhOSEMxSmVsR0ZLNDJwbkhNMzR0RHd6dk9iZm9ROGxLR3Eya1VzRmxzZXZRdVFOVHpBckhlS1hCbkZ2eHAxT1J3U05FVGJsUTh4VkRDQU1qaml6aDZ1d3h1TngxaElLYkJNN1gzaEhQLURsYVJiV2FUenRLMndrTmNaakVQY0ZXalQtN1VzbEZ0LUhtbU9OU0pJVzNHazNWTk9Hdkg4MHJ30gHDAUFVX3lxTE9PejVMN3c1WEhuRlpFUndxNGk5UkotQXpoelBENFRHY1Z0NHYwUHpRNWxyTnJ5MUFaR2x6OWtuVGU4VjdtRHNEUTZHeDVNQnU5ZmNyV1NLQm8xcEFneEVyUEdVYjN4aTJsY3ZnRGpnQ3FONlEyYkI1eDYtUkFVOVpIeHhHeEl1STY1UGZGc0EwNkpHaUlYRy1aZl9RR2xLQ0JEUk5OX3c2OFNLcUIxT2hOMnQ0Nk45aGxTRG1uMDg3Qi1sRQ?oc=5",
+      "published": "2026-09-04T07:00:00+00:00",
+      "publisher": "The Times of India",
+      "summary": "MSMEs can tap the nuclear supply chain: Experts &nbsp;&nbsp; The Times of India",
+      "query": "\"Reliance Industries\" capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Reliance Takes Its ₹10 Disruption Playbook From Cola to Ice Cream - finance.biggo.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9FTUFUeXNkMndjTV9QSW9LaUZmLTFVbERQNndUaU5jUHBZS05zdF9memVQN3FhbkthNWxoMTQ5WHZtQ3BnbGNwMXNURlctaHEzcTVMOV9mN2dTMFFONU9JVmpWSEJPaEMwRFkyQk11TjVzMUtlN2c?oc=5",
+      "published": "2026-09-03T07:00:00+00:00",
+      "publisher": "finance.biggo.com",
+      "summary": "Reliance Takes Its ₹10 Disruption Playbook From Cola to Ice Cream &nbsp;&nbsp; finance.biggo.com",
+      "query": "RELIANCE.NS stock",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Three upside scenarios that JPMorgan lists out for Reliance Industries going forward - CNBC TV18",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQZW1vUHJOT0xwejJPRGx3akFTVXE1Wm5MVHBaam5lcWQ3aWItRXBOcHpyWlRXLVhwaGxIakNrS25OeEV3OWl3NjcySnNkZUlVVW05OG5rdS12TDJqUllVczhZTVEyVzc3NldTc2lQYXdmcXp6THhaQWdUZmpPcUkxcTF1Z3hpQkwzQ2x2RHhmdHFPM0JSOEFnV0JCcy1TMUpTbm16X1NnekdKbW5hWnducUpLTUJ5dUhkZFlrSU5wZW4xMmRIX2dlRzZiSFBBMlNMTUhj0gHYAUFVX3lxTE1OUmpLWjYyRVdkLV8yWElDZm9IODhRRVJOeEVDWm5OTUdScEdhOVAxaER6QUNRc09GeHZLbktWMGVqYUxKREp4WlNOZEt1eWxuWVpDQlU1b01iRGpsSk1GN1FzdHB5cFZQc1lzVFJrbTU4LWM5TnpxeEcxRHkzdm5CdDd4Sm9kNjQ2cGE5dGZiUVBoSERHOWYzT200MllqbFJtbnpBTUNmTm92Q3BISVhWd2NVMVpHTzN5SDdtRWhhZC00cUw4QUZMZ1pzZ2loSWNYTHpGcHVLYg?oc=5",
+      "published": "2026-09-03T07:00:00+00:00",
+      "publisher": "CNBC TV18",
+      "summary": "Three upside scenarios that JPMorgan lists out for Reliance Industries going forward &nbsp;&nbsp; CNBC TV18",
+      "query": "\"Reliance Industries\" analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Stocks in news: Reliance Industries, Wipro, Tata Motors, among 9 stocks that will be in focus today - The Economic Times",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOU1hrUXYtVGJIclVyOFQzUXFaRHlPUU9vOC1KZ1VId3pPbGJGQWFIMFFXUjhZNVFjMUNIcFpVWTQtUU5TQjQ2MzFmRzVNcExEWkNFWmlMSWdtYjJ1RGcwLWdKSk11RDc5TWpRSW4xUVJ3VVdOaUJobTJlV1VUc19NQlJPT3E0UFpCQ3B6bmw3c1J1OGd6NHB2UkROLTQwNDVNeU5RUHR1ZXJ6NWhFbjdMLTZzVXJtejhpemo4NXlPaUhJZEwtX1FodWU5RXdkREx6OE9ZUVBSdGt6bHo3NEpCNDhnb0NYU1dEZlB6UnhndVNtTGFJRWVrel8xMmtVZ9IBgwJBVV95cUxPY1EtOEpEclN3Wk1Ja3Y4OFROS0p1a2dORUsxVlJpdGZMVFROcGpPUXBLQlM0YWQtLURNY3kxMGxVYlZTQ0lIMDJGZ24tTE1hY1VqblQtYlVsa0VISjEtTFFqZVdvUjlrX0RkNmwxcWYwa0ozVXVuaUdlRDZGQkNPXzF3Nk1OODJVTjBwcmV4a3NfVTluZUYtZWw5blpaejVRa21jdlE5b0Q1VmVaRldNYjY1ZWFfaV8xdWFfTElVTHpjUEhXTWVfUjA3MGUyTTBnekhjQjhRRldGdzZJZF8tRVlKWlRMVXFod003NTR6RnhrcDM4ak83T1Q4OGVIYkxxMlM0?oc=5",
+      "published": "2026-09-02T07:00:00+00:00",
+      "publisher": "The Economic Times",
+      "summary": "Stocks in news: Reliance Industries, Wipro, Tata Motors, among 9 stocks that will be in focus today &nbsp;&nbsp; The Economic Times",
+      "query": "RELIANCE.NS stock",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "AM/NS India Secures 30-Year Captive Berth Concession at Paradip Port - Construction World",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQby1zOTdLS3ZJUTNIUlphV1pUUVh3cHNqb0IxNV96N1RQQjROVzZCZ29RTWFIVDJwLVRIX1VsbDNkZEFHWXpWZTczTHlQYTNCbmFhQ2RpM0tPWGhkTU1UT1JlMEVLMlNmeUx1OWxaZWFXNkZsQmZmSkFjcFFvSkcwNHlycmRzaVFuak1palhlUDYtYWxtb2pxRVZXc1gtcy1BOUZzQV9PUWpSU29JR1FTRUxycnNIZkRwbUlQN0lINnZvV1JVWWNEUEEzdFBFcTB3RVNpRWJrR2RZaTRBX2ZLQTZlelM?oc=5",
+      "published": "2026-09-02T07:00:00+00:00",
+      "publisher": "Construction World",
+      "summary": "AM/NS India Secures 30-Year Captive Berth Concession at Paradip Port &nbsp;&nbsp; Construction World",
+      "query": "RELIANCE.NS capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Shein Shares Fall 10% After Debut on Hong Kong Stock Market - Business Chief",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOS0x6RGhJYURtdkZBc21EOGlaMXRPZG5BNDVSRmhTLWdPMzVKWHh5RVBWQ3N6dE5jUHltYnhqWWdxUzhNNXBLbXhYbktZaGF0QnFpZ21kakZVQmNxV09oQ24xSUdaOXZONEhHSk9qTEdibGNrUDdOUG5reUp5aWpXOGZwcFMxUzl4QUVmSloxQzlPQ3c?oc=5",
+      "published": "2026-09-01T12:02:57+00:00",
+      "publisher": "Business Chief",
+      "summary": "Shein Shares Fall 10% After Debut on Hong Kong Stock Market &nbsp;&nbsp; Business Chief",
+      "query": "\"Reliance Industries\" capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Oil Price Spike Puts Saudi Aramco Stock And Energy Giants In Focus - simplywall.st",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQc2JobjI5RVpCV3FaTWJYb0NscjluSmhFbDVZbm5aSG0yUDNsMldVeDBBbl93NTIzcjNNbE5GUEg3LU5VZjAzaTNfT0ppWkU1azlUUE9jcFhDM0VjTGxJaHBjTkpUX0h1X3pMdHdXdTdyalZFWXZ4djRxQTVVN1VSWm4zR3pCUEtqbGx5SWF2S3VhUnROYlZ3VGJ3RTRocV9YTF9USFNDWEdiWklRTUFhWHZDcVNqdk4yU1YzOU1NclJvSkgyTU9NUEJGQjhyclRTTnNKMWFQV0VQRERL0gHiAUFVX3lxTE8tbzRCMWVzaGVxMElKbVFobDdvdGpyNGw0WXVVdUk2WFFsWl9OREVuYkdDNWRSMkRzdXZwNnNlRFMtVlFidGhsckJmMXM2bFJZREhraDRhelFxdzZWOFVISGNZZGpxN1JBekVhMU9FN2RHZzB2NE1jUXVBZW1fS0wtTzlDUU9fRkxMWEVINmt6VG1QUXBBblk5ZFJmZk9kT0tnN2NmWkxRbGRIZE1pQTBKajgxZmhsSmFnbXpXTmlUWFpQbTZlYjZnRVdTajFtcFN0UlVfYzJQWFpnb3lDeS1pbHc?oc=5",
+      "published": "2026-09-01T08:17:31+00:00",
+      "publisher": "simplywall.st",
+      "summary": "Oil Price Spike Puts Saudi Aramco Stock And Energy Giants In Focus &nbsp;&nbsp; simplywall.st",
+      "query": "\"Reliance Industries\" revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "RIL: Jefferies sees O2C, retail growth fuelling re-rating; stock rises 2.5% - Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQU3VndVFxM3BHNk1BRG9CTGZ1aDNwOUxNUFAzWllJYXBVRHZSZUFKWV9QeXVNMTB6S2Y4U1ZDZWZ3VkxTUmJqU3VJa3lVMUZoWkNzUlBaOUlMVjBDX2J3Z2xka1BOZUEtYTRJbG5rVFhuWm55ek5CT05LWC1WZV9ZaDlaSzNEY2JBSGUwakxVUjI0ellnamRMN3lYR0xFWWJJV3o4MmpVQTUyR21CUVM3TlF5MzdYWUhtd0NVNFUycDB1Tld6Qzg1UzB6QlllcWtzZGtyNtIB2gFBVV95cUxOM0VRdExJZGlUamxocER4el82MTc4THNIbG5JaUViOEhMWnVRWnRQamFpTG1CbHlRMkFzUjN4cTN3eS1tbjlsa2JoX2JrRnNDXzhRVjY2aHpkSHQ5V1JvVlJsdWZsQnpCZ2JtMUtkOEpFbG84RTF5UXdwMmlZRjctNl9JN3k4aHk3Zm9PUC0xLWVGX29CMlFacGhsZjJQdGxCYlNDV2ExZXUyaDB4VEwzVG9BYW5hNHAtQjZhQUhCZ1JhQ3BuTkRja1FmbFNybENRZUtURnRqeXgzUQ?oc=5",
+      "published": "2026-09-01T07:00:00+00:00",
+      "publisher": "Business Standard",
+      "summary": "RIL: Jefferies sees O2C, retail growth fuelling re-rating; stock rises 2.5% &nbsp;&nbsp; Business Standard",
+      "query": "\"Reliance Industries\" stock",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "positive"
+    },
+    {
+      "title": "Reliance Industries shares contribute to Nifty recovery; Jefferies sees 53% upside - CNBC TV18 - LinkedIn",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeFFLU2VoUWplMGNPNHdmXzljMDF5NU5fQjNGLTR2VzdaTTFvWHFvY1h1V1NHeXhadjJvZmhhelhVOEdHSU93d3Rrc0JoS1JmQ05zMzRMcExybkRlU0xlWnp0QTFNeTFHYlJRRzByZ1lzLXBUV2p3SHdBNjBPVFl0dzdLRlVPNjN5cV9OM2FCWEl0ZUZNNDU3dkE1ZnlyRzlBNy1lOThtZlJUUTlZRjJ0RGprQ0JsQQ?oc=5",
+      "published": "2026-09-01T07:00:00+00:00",
+      "publisher": "LinkedIn",
+      "summary": "Reliance Industries shares contribute to Nifty recovery; Jefferies sees 53% upside - CNBC TV18 &nbsp;&nbsp; LinkedIn",
+      "query": "\"Reliance Industries\" stock",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Ambani's Reliance enters India's crowded ice cream market with 10-cent products - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPLVpPbXFlWDM5NE1ZZUx0WXgxWDlXNDQtQlNHWnRabXRfT09KRVZPeDB0SHR1OWRobHA0MHluVGJvTkx1MENiUkRRdzRXYS1pcnN6ZFd4aFBIbVl4Z2VBal85aURwcGtMTXdkRXdoNnEzNE1IMW1aQ3FQdVpadjJFVFFhV09RN0tiaWpER1BhbGlMNFNJOEdwdnBhaXVzdw?oc=5",
+      "published": "2026-09-01T07:00:00+00:00",
+      "publisher": "Reuters",
+      "summary": "Ambani's Reliance enters India's crowded ice cream market with 10-cent products &nbsp;&nbsp; Reuters",
+      "query": "RELIANCE.NS competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory"
+      ],
+      "lean": "negative"
+    },
+    {
+      "title": "Reliance Industries shares contribute to Nifty recovery; Jefferies sees 53% upside - CNBC TV18",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQMVRrblVsclpia1V3S05PcGZZWThfekRxdTJpNkF2TWJGb3hCYk5EVjVURXFILVkxcVpDMXdrczlTTW5VYjVTMWpqSy1FYkxmRVF4c1gzdjJTU1NSQmdzUnpIWFpBbmlsZ3doX1pkRGVhRFdwbVBSa0stcDdDQl83a1Z5cFhxOTljbnEzMTJzYTlJN3ZOQ3pZdGxHbjBXXy1rM1NJWktIRkdjTGluSGNnWEJsbVhkOUU3ZUtLRVdDOGR6OGRLLTZva2E1eXBxUdIB0wFBVV95cUxQT2Z1bDlUQ216ejJfVEZFVUlBSGVqT2UxZmVQQ3ItM2tBZDhyNktIaXljUWFsQ3hwNVpPUFBhc1A2NUJHR3dIZXZGS3p6RU1BcTd6YlZzc29OMlNNSW9jS19hdUgwemlIR2Iyb3Y0S1VpQ0Z3Yk93MzBQamJDNGQ0a0hUUVNFNGJwU21jM3Zwcms1cTBuYjZ2eHlJUU51UDF3enBIWDVTQV82R29HT1d3ZjNUaXdpdUZ3MFNCeS1MRG9WTkJORGtjaEdGT3JrTW1uWDZF?oc=5",
+      "published": "2026-09-01T07:00:00+00:00",
+      "publisher": "CNBC TV18",
+      "summary": "Reliance Industries shares contribute to Nifty recovery; Jefferies sees 53% upside &nbsp;&nbsp; CNBC TV18",
+      "query": "\"Reliance Industries\" competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "List of 38 Acquisitions by Reliance Industries (Sep 2026) - Tracxn",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcDBlbURxRUx4N1dxSk4yM21aQ1ozOUpoTkcxenJEa211b1NyRmpXd0hSa3B6LXV4ZjFPUHB0NjNGcmh0MWR1ZGxqa3BiUTBrVHNpd3czSXVpX0JqWjRfNUIyLU1uM2hjanRhS1ZTaW1vZ0ZMQzktX210T0ZVZlhPTWZ0RmZVMS1ESzZVcTNQd2REQnNzOEtHa1lfQW1uWjVCdUhmVTZ5LTFMeG0yN2hYb2xCejhjZw?oc=5",
+      "published": "2026-09-01T07:00:00+00:00",
+      "publisher": "Tracxn",
+      "summary": "List of 38 Acquisitions by Reliance Industries (Sep 2026) &nbsp;&nbsp; Tracxn",
+      "query": "\"Reliance Industries\" acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "mna"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Jio IPO gets Sebi nod; here’s how Reliance Industries shares reacted - Fortune India",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPd0VpQ1VZeGxpWTg1OWRidzBZWHBqNnV4UWVhWWRkQ0NxVHRUTHJBd19lbGdMWk52eXMteWQ1V2trYzN5c3dYckRZenprNTc3UzdraWk5TDc3bkpvRkE5bWZ5cUVRSGJWSVo0WVk3VkdmaFdWQmVnSWFjd1NzMTNHWDlxTnRpN1o4Q1VqazlNMkczU3VZZTFRYlE5U1owUkcwMU1lYjVZdnJvR3FlWFZSSDNYUF_SAcIBQVVfeXFMUHJnc3JiMlh5aGNjUHhqcWY2WWtrNzBveWltaTk4Vy1KVFdKMGkzNVhVYnFfNWE3YjlZWVlBT2JsN1Q3V0tCSFItRmk2STZBNHZLVDYxTFhmNFhtaEh0SzVQaVVpcVJXVno2c3M5SHFaNmdJOVptZkZ3cm9pUlp3TFRQZmR5T2JVRjZlUXFYVE1QeXlQOWJxekkzN0ZubFB5c2I4U21JdElDRFA1bXR3Y0hJZ2VYMEs0T3NLUkUweVlFWUE?oc=5",
+      "published": "2026-08-31T07:00:00+00:00",
+      "publisher": "Fortune India",
+      "summary": "Jio IPO gets Sebi nod; here’s how Reliance Industries shares reacted &nbsp;&nbsp; Fortune India",
+      "query": "\"Reliance Industries\" stock",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Reliance stock edges lower as Jio Platforms IPO approval reshapes valuation story - ad-hoc-news.de",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNV0dnVHVtNUVBazhDc3FPTW40dzNrbFpXem8tMEl2VW1Ta2JUT3VXczlveWdzZHFZTk9GWVJvejROdHJGT1lzOE1TUXFQcEFBZFMxcnlmOEFHT2NEbnN5b3llVGF1bnFpSE44TmZScGl2aG5HbHVPdl8xYkNQU3V6S3JUY09qNFhwYkhqM05ScFREZkN0Ny1LT0hTU2FlYWszNWZtakpqVE5ZTWU4RzlRUWpyMHRTajY1WlF0dHFnMkJSQQ?oc=5",
+      "published": "2026-08-31T07:00:00+00:00",
+      "publisher": "ad-hoc-news.de",
+      "summary": "Reliance stock edges lower as Jio Platforms IPO approval reshapes valuation story &nbsp;&nbsp; ad-hoc-news.de",
+      "query": "\"Reliance Industries\" earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "positive"
+    },
+    {
+      "title": "How Cooking Gas Became a Barometer for the Iran War’s Energy Shock - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9VaFNUR0NSRkhEcVlpcXZZcFVWaWNMOVFxVnZ2M2lFRjNOS19Wa191N3VYb3J4VG04RHotc3FTUzI5R3gwamJhc2pKR211QWRnZFdJYi1Bd2ZpdksxZ0ItOW0yV1BBeDFxaHlR?oc=5",
+      "published": "2026-08-31T07:00:00+00:00",
+      "publisher": "Bloomberg.com",
+      "summary": "How Cooking Gas Became a Barometer for the Iran War’s Energy Shock &nbsp;&nbsp; Bloomberg.com",
+      "query": "\"Reliance Industries\" capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Timex Group India Gains 5.12% to ₹656.0: Stock Approaches Key Resistance at ₹688.8 - Price Target - siam.in",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMXY0T0pobHBHU3hqcnAwcTVQNTBxal9mY1pvTFBoRmJiMXMyeml5U0otS1V6T0NDdnF4aWtTQ3BHZTVUN3hkTWkxSC0tQzlNZko0Y1BPSldoMllncF9nb3RfdWdlTHdQZ0tVRWZNRFNqWG5IR1lscHZrUHdHTHdOZldEQkI5b18zYWNfQjlzY1BXcF9tQ0ZBSVlYTnMzdUVldDl2anBqZnhsUEdXaGNPdlVxZFdLd0d1eXRv?oc=5",
+      "published": "2026-08-30T22:40:11+00:00",
+      "publisher": "siam.in",
+      "summary": "Timex Group India Gains 5.12% to ₹656.0: Stock Approaches Key Resistance at ₹688.8 - Price Target &nbsp;&nbsp; siam.in",
+      "query": "RELIANCE.NS analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [
+        "analyst"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Zee’s Subhash Chandra accuses Mukesh Ambani of spreading misinformation, RIL denies allegations - thehindu.com",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOSHpYaXBTaVplZjA3VlhPdVVybkZ3aTBxY2U4dlp0VFlfQWJUVk5rLTVkSjZXdTVFb0JlcmF3Tm9YNmhQdmtXTXk1OUV0VUc1cjdGUFJZbHZwb0Q0aVdxVzExQnBETGhxR29pTW12ZFRNck02S01ETDROSEd4cUlhUXQyWlRWN1pPeEprSXdmTllmMzhuRkp0dFg3c2pVdHpWeW1VUmY1R3JVZlRFNFgzTHcyODdQVllGME05OG1sdmFxZmtuUjlHWmxfRks5YmpxeGJxMnEzZkhqTFdCSUlPbmJZN01qS0JCT0NndtIB8wFBVV95cUxQeGtKX0pEcWd2R1dlaVF5M2lkaEZVUWtKUTVyanQxZERqZU51bnkydXhJc3BnbXdyenk4eWVQZnFveGdibmp5NWhuNXc4Q0dPaWtKdVk3QTZBTXRweUpraHByc0paRmcyMDh3eVpQQ2hmdkdBUXU3MzdiX3FNa3FMa18zbE5tM0FQLTB1Nk83OTZFVTRXX2p0VGJxZksxbnFtMlp6ZnF2Z19UVUdTVHRQR05hX3VNOVAyeEVuNUJYbzVyNTI3aFMyRUpXMVd4MmZsdmwtVUhUb21kajhPUHhVU3JLcDBhQ0RuY3dHVlNsZ2ktRFk?oc=5",
+      "published": "2026-08-29T07:00:00+00:00",
+      "publisher": "thehindu.com",
+      "summary": "Zee’s Subhash Chandra accuses Mukesh Ambani of spreading misinformation, RIL denies allegations &nbsp;&nbsp; thehindu.com",
+      "query": "\"Reliance Industries\" acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory"
+      ],
+      "lean": "negative"
+    },
+    {
+      "title": "‘Unfounded’: Reliance Industries rejects allegations by Subhash Chandra - The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPRTFXTEJJT1VHRl85YnNsQXR6N3UwVUQyN25xYUZMOHh0bVhJSFZDeExpeXJyWE95V1NGV0w0cGluTnJ1LWpHMmNhZDFMb2hEQ3FjRmFBNXNmQTJHcC1vWGQ0bHNHVlVkak5oYzV4VlBTclNQU05mUlZBdlVDdUQzdlc4ajF6UndoQ1c0OWpyQ1NYalg4bTZNbGFrVlpRLXVWQkQzR1pSWEROLUdwRjRIb3FqaEVQdlFSYlQ1LVRPVW5PczZxYU84X09zQkZyRDJuQkJ2TENnSlJEU2d2Sm8ya1BRZTlORXYzcUHSAe8BQVVfeXFMTks0SS1RY0twcGhqMmtTOTRxaGVacHE3anJKYTc4OFkxaUlCWnUzZGdxNm9hd04yaURySDVmRTZrc3l3NW1rZXBGMm5uTHVqck1Ib2haODlzaW12MGw0SDZqOXRTTE9yaUh1VEg4YWw1WUtGRDduNi04RlpMT2FLVl9VUTdCckxFanZXSnMwYUJRVlQtbW4tYlNLX3ZRNFBvOG12WWhjYlBZWXI3RGtEUGVWVnhBVEFtSmVpajVDbWd5dXZhUzh1UFVISFF5ZjZoOVgxcFBDUmFMcWk5ZU53TWpmbmZ0RkcxX0hXMXM2UEU?oc=5",
+      "published": "2026-08-28T23:01:00+00:00",
+      "publisher": "The Times of India",
+      "summary": "‘Unfounded’: Reliance Industries rejects allegations by Subhash Chandra &nbsp;&nbsp; The Times of India",
+      "query": "\"Reliance Industries\" analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Reliance Home Finance (RHFL.NS) Edges Lower to ₹1.87, Hovering Near Key Support - Ending Diagonal - siam.in",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQ2kwNjU5LWc1MkpYcFpackpTdjJ1SnFRYUczOVVJUnU0Nkx4RmNuQTZkdS1NQW9HUGRLSmhFUXFJeTJRMTJSZ2JBaVNicXpzcWU1dW93ZUp1RGNYTkJoUXhGdVUxR3pqdUZzUEhwVmRmdTdvbzFRTnVpRFdDTHhHTDlpV0Jna0ZmUVNsclV2Z1BLQUdhZUpELTZLTjBISklfcGMxXzY1NUtiWEZSV3ZUbXRDVkV4bktP?oc=5",
+      "published": "2026-08-28T07:00:00+00:00",
+      "publisher": "siam.in",
+      "summary": "Reliance Home Finance (RHFL.NS) Edges Lower to ₹1.87, Hovering Near Key Support - Ending Diagonal &nbsp;&nbsp; siam.in",
+      "query": "RELIANCE.NS stock",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Reliance Industries Foreign-Currency Rating Affirmed At 'BBB' By Fitch With Stable Outlook - Sahi",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQci1XaFdGMjk5SGtFRDJkTGhGemt6TjJCa1hBcFhGZkwtYlpabEZBZEFQU1dmRkJVMExaQ1lsSXJzWVNsam9zRVByVDJ0emNLUlN4b19JbmctRk00bGhoaE9OOHQ1b0syaEg4QkJFa2ZoaEQ4dG5XZzRxaHE3d3dvRDJISWR6Q1FMajRpY2xyV3RJbHBkS2xVV0hJblRSdEZnUklVWjUwZXFTWU5kanN6ZWh0MFk1eVRHU3NDbHBEbmNVa3Y3NGc?oc=5",
+      "published": "2026-08-28T07:00:00+00:00",
+      "publisher": "Sahi",
+      "summary": "Reliance Industries Foreign-Currency Rating Affirmed At 'BBB' By Fitch With Stable Outlook &nbsp;&nbsp; Sahi",
+      "query": "\"Reliance Industries\" revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [
+        "guidance"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Dhirubhai Ambani | Biography, Family, Accomplishments, & Facts | Britannica Money - Britannica",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1SMnBFSlFHRFUtdXRQSjU5ZWhiczU5VWRKRnk5aVprRm5rZ1k3OFVra3VDQk9HM2phSjZFZ3JKUERUa0dJUDY1ajVVaTd0N0VfX1JDMXBGbVN3VExvMUE?oc=5",
+      "published": "2026-08-28T07:00:00+00:00",
+      "publisher": "Britannica",
+      "summary": "Dhirubhai Ambani | Biography, Family, Accomplishments, & Facts | Britannica Money &nbsp;&nbsp; Britannica",
+      "query": "\"Reliance Industries\" lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory"
+      ],
+      "lean": "negative"
+    },
+    {
+      "title": "India's markets regulator approves Jio Platforms' $3.8 billion IPO - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOaVpfMXktQU4wUXFHUVhTcnUxWkZWVnlDV1V6aGhFaC1tZ3Z2YnA2VGlDQTQta2NxdGtURTFWY1dpQXZrR1VVWlpxWGZLVW5tbU1qRGNVZmh0Sks5SXhUMXlSeGVZOG54YklIbS1ITTQ2ZnlTUUZzRG05eC1mN2loVENwZFltamRmeEVfTlBoZTFUYzI3NzJqSGRWUENFQ1JOUFhBZ0tyVVpaNDlPUGVJ?oc=5",
+      "published": "2026-08-28T07:00:00+00:00",
+      "publisher": "Reuters",
+      "summary": "India's markets regulator approves Jio Platforms' $3.8 billion IPO &nbsp;&nbsp; Reuters",
+      "query": "\"Reliance Industries\" lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Jio Platforms gets nod for $4 billion IPO, India’s biggest ever - The Indian Express",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxONWxoR0VWQmlCZ3dzRXBHckhTRC1oa25MZ2k5QUdaUG9hYVNSaHRCemkzNDF6bk9BQ0NZaEVNYlJ6TDg0SlRMelRsdnp6czA5eGNKZXJ3RHVJc01kYVpFbUxoTFRORGc4RzE1MnZSal8tZ3hNQkxYTlJrM2gtMU9PUmRQNm5TMG9STUdGX1lOSUxWVVVDSFg0N2M0dkx2aG5lbG14elVHck9fZ3BZNDktY0RTZjBCOG1kU1pDajdQazNJLWNndnlEcjBrR21NaHBicE0zdGZXenVXd9IB4AFBVV95cUxNSWxwdkg5NkZTeVdoVGdOODJ4c0lOMDBZaGVBQWRJQmwyN3g2M2hSa3cteUpNd1JXWm1NSFZ4cC1wU3dveUI0aXFJNkdkSFNHdlByTGRfdk1uNl8zaERzY0F6R3FVODlzYUR1LXdLbnMwVVFiT2ZnVVM1ZXdhaDF5dVpSdG5qbnkxNEZnaDYxZGo5SWNHUDMyM3hTcFhKSnZCMnVVbEtGM2tfUE1iSVhPMFVOT2VKclI1bHJnTXI3ZldzWFZReWpvWHRxXzRjLWE1YklHQVdGLXI2UnlhQ05JRQ?oc=5",
+      "published": "2026-08-28T07:00:00+00:00",
+      "publisher": "The Indian Express",
+      "summary": "Jio Platforms gets nod for $4 billion IPO, India’s biggest ever &nbsp;&nbsp; The Indian Express",
+      "query": "\"Reliance Industries\" competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Sensex tanks 539 points, Nifty drops below 24,100 dragged by HDFC Bank - ThePrint",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcW5HdGpReW1vdkhmcGFCVk1fSVRleTFQV3NUdXdxVlNVczhVcHk3cnBzVE1FX1F4NjFST25JMllaU1d6UHZWcTM0SklyU3lhZVc3ZUNIcDM0a3o1ZWNiSThSWUY0MUdHTXJFaUpvZy10a0dOMkF2OTBOSUtXbEhvcHhMcUVSYnhkZnQzV0IwZ3ptc0szbGJyMlBmVTBDeW9BSU5tTzJLYljSAa4BQVVfeXFMUEpXMnJvVzNMZVhyVjBjUFE5bmJ1RG9pRGNiZUYxSUlfdTJVbkRxdHo4OHhLdXVrcGM0RFpTc2hsSFI2X1NTeWc1c2tBdXRIekhDZENjYjZBWTFQQ3JFTU9xWjh1UldaejFSOHExNGI5OEt4TXQ3VDJuWS1xSWstMTNldDRrMXdLcG13dEhKYzZ0WDRMNVozcGx3NGRJTFRYbVFsdS1mcThLMXhOYWRR?oc=5",
+      "published": "2026-08-27T07:00:00+00:00",
+      "publisher": "ThePrint",
+      "summary": "Sensex tanks 539 points, Nifty drops below 24,100 dragged by HDFC Bank &nbsp;&nbsp; ThePrint",
+      "query": "\"Reliance Industries\" lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory"
+      ],
+      "lean": "negative"
+    },
+    {
+      "title": "Rolls-Royce, Safran vie for India’s next-generation fighter engine - Defense News",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdlNCdFZDYVRJaHJpaURqVmJjZkFhWjdDSWQxZXk1WFFNczVsc2NFNmhDVUh5SmYyNDktS3l1WlpiQk1lcGNGWnNkeW1oSjhYTHl4cTducEhhN3Fzc1JhTl8wZ2d4MF9mclFSTFM1Z3JHS09uclFObjlETEhBODBiQkxpSHgycUlBbzdIYW9wMlJrWVlKelJVOUZmUmgwMGp0S3lXeWRrNmhDNC1TTHFlMTl2aDctOHFmMHJYWHhFanNndw?oc=5",
+      "published": "2026-08-27T07:00:00+00:00",
+      "publisher": "Defense News",
+      "summary": "Rolls-Royce, Safran vie for India’s next-generation fighter engine &nbsp;&nbsp; Defense News",
+      "query": "\"Reliance Industries\" acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "product"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Raksha Bandhan and the power of partnership: Sibling duos who built successful businesses - peoplematters.in",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQY01abHk4ZktYUEpiTmlHZGZEeEdpaTBkdVFqeEFMdFh1V0NmaERyS0ptLVgzV0tJbl84SzlWRjhQU2wzTE5sMVRTMjB6aGxjdXJvRVByVG9aaFYtR25MRTdBd0dnV3dxUlhvM1ZqRlFxa3hDbFA3WmoyWHcwcElUM2ZWdjYwdmpjdkM2a2k0QW01UFpYWFUyZ2VqcHczQWtfaEs1R1R4aEVjYVg3eWoyRk40ZmlvbG52TGNYTDRQUG5veUxTQW04WG1ZMGRJelpMeXdaTGloREluQQ?oc=5",
+      "published": "2026-08-27T07:00:00+00:00",
+      "publisher": "peoplematters.in",
+      "summary": "Raksha Bandhan and the power of partnership: Sibling duos who built successful businesses &nbsp;&nbsp; peoplematters.in",
+      "query": "\"Reliance Industries\" acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Indian shares fall as IT, Reliance drag; losses deepen in closing auction - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVWRsRFlHSWlZWTlaRFNSdWlTbldWM2g1eTFCWHpLNWlZOHc2YVVfNFcwczVOX3ZjMmRxMjFkQXZRakR1SkhvMmpJYkF2ZTVRbTdKSHljWFJYZ25GeWdoQ2ZfWnByT3lEWjV6Q0tPVmRDMmZNVV8xS1ZyTnJMWDdPZWRQT1lCX3ZzZVdKZ09YT21pMHVhYXRvTjRQV0QwY3NuajB4VXI5NGI5WDNiMkUwOHc5amM?oc=5",
+      "published": "2026-08-26T07:00:00+00:00",
+      "publisher": "Reuters",
+      "summary": "Indian shares fall as IT, Reliance drag; losses deepen in closing auction &nbsp;&nbsp; Reuters",
+      "query": "RELIANCE.NS stock",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "negative"
+    },
+    {
+      "title": "Reliance Industries, SBI among 10 stocks with highest DII holding in Q1. Do you own any? - The Economic Times",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQSG5RdjJTc3JrTGoyQ0Qyazk0cXhvVjBmd2tLLTluQkpNTVlYRUpYczFSTTRtUVNncFB6ZVBBMWVoZklHVWNyd1NlZ08xQmpCbUJzazc3Z2ZMQjNPbnBtUkM1OWZEX1diV1Q4aEZQai03eHdURWd1WlM0NFRiaDZuSmlHdWI0VkpoZk1SWFhOT1hQNlFIWFY1bllRSTdVZEtrS0ZLcE9udWFhVThoSi1JUDdTTUhOam13OWNrS2dPZUhmOFdxSUpoSDVBM2ZoZ1MwZ0RCd0hSeER2bzFqX3ZfS0dTemZrUHBxaEk1NHJ6dTlyRzJhdU9yazJvd1drWEE?oc=5",
+      "published": "2026-08-26T07:00:00+00:00",
+      "publisher": "The Economic Times",
+      "summary": "Reliance Industries, SBI among 10 stocks with highest DII holding in Q1. Do you own any? &nbsp;&nbsp; The Economic Times",
+      "query": "RELIANCE.NS stock",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Market distribution of internet subscribers in India as of March 2026, by service provider - Statista",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNaVpXQnhkbDFpZWppOUVRa05Ka2UtNlZQaS1ac2t1WGs0R0s1bVQyWDNpV0JIMVdweTNCa040Yk9JWWxZZ09Zckk4VF94OTBpZDBqM2tKVzBBbmI0bzBTN0hQYXcyV3RkTkJsVkNHQ1pJTC1HdUdYQS0xeXoyMU5RWldhQzFUU2JDOUotX05fd21SaXJBcGc?oc=5",
+      "published": "2026-08-26T07:00:00+00:00",
+      "publisher": "Statista",
+      "summary": "Market distribution of internet subscribers in India as of March 2026, by service provider &nbsp;&nbsp; Statista",
+      "query": "\"Reliance Industries\" revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Eurotex (EUROTEXIND.NS) EPS and Revenue: Available Data Shows the Latest Reported Performance in the Current Update; Post-Report: The Stock Records a Flat Reaction in the Current Update - EPS Guidance Update - siam.in",
+      "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxORTIxYlVrNHJBSVpmQ0swRUw3V0ZyZ3pBMHB4Y0g2RFMtc3FwVVlkNklGTGFOeGh4UURqMGVmMVBHQ2FnN25HQUJmQ0Q4LVFsVGpPdlp1T0psY01kd3dvbmFKcTVqa2o3N2F3elFya3lLVk1fR2RZMDdUYjloYnoxZWFxN1h5WndJOXYzUnBwaE1wODRuUEE2TlpkaHdYNXFRMzc2VGZfT1ZrS0JQWkN2YU5wSE9pVDh6Y0dNRlVKUFJzeDY3ZDFsSFVVLXk0b0d4OXU0ekFTRldmbDhtVWdMZ1V3aFdkT2Rra05zSld6dWxmRzhCU1BRRXoweGxxd1A1cGt1ZTVsMnZ2UHBHeU01ampTRlNtamFCOWk2c1kzeHlBUjJINWE3cjczMklxZVdHSE51WUF6MW0tWGVlQzZkTmVWakI?oc=5",
+      "published": "2026-08-25T12:34:22+00:00",
+      "publisher": "siam.in",
+      "summary": "Eurotex (EUROTEXIND.NS) EPS and Revenue: Available Data Shows the Latest Reported Performance in the Current Update; Post-Report: The Stock Records a Flat Reaction in the Current Update - EPS Guidance Update &nbsp;&nbsp; siam.in",
+      "query": "RELIANCE.NS earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "guidance"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "The Company Reports Its Latest Available Figures under the Current Snapshot; Post-Earnings: Shares Rise 0.46% - siam.in",
+      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNS29MYmdZWmMtRWFVMVNWLVFaczhJSHJCTnFhYUViZXR2ZlZHSks4R3pILS1SVjZwZXV0RnRoa1JNVHdtMjQ5V1RBeWVTTmlWR0g1REthMnJieXFDaW1PbXN3RWYycmU1akdFMHptcnN5UmxuLXp6d0JQYmx6Y2RfWW13NWVkZ2E3ZkZFVFVwcEFvTVpta3ktSmFaYUtCbjIzX2xqYTFHNTBPOWJtN3pDMmNXNFRrcGFSU1oyMlRnOGpjb21vejVGRlR4VmVWQjNmUE5QNEpEVnRCNnhGQTFmQ2pwV2xRZ1lsWWhWRGdWYUJEMFFjd0xJUVhubWF4QUJOQmh1S2FNM0ZvMVVfamc?oc=5",
+      "published": "2026-08-25T09:32:24+00:00",
+      "publisher": "siam.in",
+      "summary": "The Company Reports Its Latest Available Figures under the Current Snapshot; Post-Earnings: Shares Rise 0.46% &nbsp;&nbsp; siam.in",
+      "query": "RELIANCE.NS revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "NCL (NCLIND.NS) Chart: Ends Down by 0.41% at ₹172.67 in the Latest Reading; Price Setup: Price Remains Between ₹164.04 Support and ₹181.30 Resistance for the Current Session - Hull Moving Average - siam.in",
+      "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxPNS0zRkpKalVsMzBFUTR4bE9yUzRFTWVRaFdJME5MU3lMenRpVzZXYmtjMFR1QTE5RVVLdEV3M3V1ajRQc3NoX3pqYWRMMW1sQndVVVljOWxHNG05bDNPRkpHcXZBQlc1Z3BpSXowb2s2dm1DODUwOHJHbUlSMFUwN0hfTG9XS3JLM1pMUG1EdmpxLXZtTlF2UGdPSzFVZE1Zc2dFdkJnME8yNnZQSTg0YXlTbmxhQ1BtTEZmbGhkbUgwNmpZQ3UxMUpYN2pBX29yQ2RiSjIxWmdsbHktZmV4bEQwdEpBRldHbTNWM1lCWXZzUHdPbDdPVlN5RWJULS13ZmFraVdMTEdVVHJVbjBfR01UTGhYWmNHU1F5WlhWM3kyMGR1bWIwcHpn?oc=5",
+      "published": "2026-08-25T07:00:00+00:00",
+      "publisher": "siam.in",
+      "summary": "NCL (NCLIND.NS) Chart: Ends Down by 0.41% at ₹172.67 in the Latest Reading; Price Setup: Price Remains Between ₹164.04 Support and ₹181.30 Resistance for the Current Session - Hull Moving Average &nbsp;&nbsp; siam.in",
+      "query": "RELIANCE.NS analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "The philosophy behind Mukesh Ambani’s business empire: ‘If work is a burden…’ - The Indian Express",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPOVV6YWhPdGtGemFXUU9qc0pnWjIwbGhaM28tRU8wM2RROHp4dzItaTNmMmJWaWh0OEZqU2pZNGNJOVVYa09TcjB4RTd0cWFIcFNyU0xPWWVOM0FqdmNicExKd3VZcWsydThkdHl1aDMwdi03eWJrZ0UyUGlqLXpneGJ0S2U2YXpwSTl4aGNyUVpVNS1vMDlmb0tHX2pKN2hnWVZOZk95WFNUUnFWSm5DNTRKWUVmTzBEcEHSAcABQVVfeXFMUF9WUzJudmV4SGtERU9NLXZkMkhuRVgtZno1REFxWTdQSWc3cDZDUWkzTTJSblIwMUFGN1dhOVI5d2VqNExTaHdtdno3YXVyZEVEQUNtSS10azBFSDFfdmlqcDhCamRFcDRTaWF5ZUxXSFd6b1EyRFRnZ1VVV3g1NTFPR1lZNEVBc3hmQm15NFRWRlZnLWxGV0dWNjItMnF3WGZJZ1V6YmxZSmd6cFlVMlVzaVBpSlduN2FSeUVNSTE5?oc=5",
+      "published": "2026-08-25T07:00:00+00:00",
+      "publisher": "The Indian Express",
+      "summary": "The philosophy behind Mukesh Ambani’s business empire: ‘If work is a burden…’ &nbsp;&nbsp; The Indian Express",
+      "query": "\"Reliance Industries\" lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory"
+      ],
+      "lean": "negative"
+    },
+    {
+      "title": "Reliance Industries Explores Aluminium Entry, Joins Odisha Bauxite Block Auction - Sahi",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMktkQ3JId1Ezempubk5mTWxKSFAtTEtxeklxNGR1dV9Pbi1QaEY5U3lrU0NGSjhITUpFamlsQmt0WWRfQVR2TFF0UXRwNWVGNmZHSFc1U1ZYVWhBWVNGYzVSS1hvVFl5aVFPNDdXRnFEWk1rUnpGMFJuNVNXQk1iUzlRZlhqTzR2cmNZckNuRFBmQTNEek5tNlJTemx0cnh6eEVqRVRpenpJeVFmTUNXNTNVZ2lCQ0tRVWc?oc=5",
+      "published": "2026-08-25T07:00:00+00:00",
+      "publisher": "Sahi",
+      "summary": "Reliance Industries Explores Aluminium Entry, Joins Odisha Bauxite Block Auction &nbsp;&nbsp; Sahi",
+      "query": "\"Reliance Industries\" acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Globale (GLOBALE.NS) Earnings Update: Available Data Shows the Latest Reported Performance under the Current Snapshot; Investor Response: Shares Close 2.72% Lower in the Available Record - Core Business Growth - siam.in",
+      "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxOLVcySTBiZzRjU0s5OS1oaVhwTnY1TE1EaUotSTdXWUl2UUxmVjlqOHg5SHM3Vjd5SVh0UW5JM01WUmJYcV9QVnozYXpCMlhOMDJxVWs2MzRzcmoxUlRhdGVsd3pqYXFvQkg4VWYyZlQtdzhKVDgxM1QwVnpzM2dIaWZwOXhKb3dsdEhST1hQV1hyTEhmd2pSaE9iUTQycU9tc2J3My1Cc2pQbE1BWG5JbmtGbjh1dGRxbEhoVS11aHg3ZXhiQThKT0dOZFg1WmVxSlFYRVM3NnZGZWFidURGX05IalF6TlZSelZLaW91azdTbTNVdUk5ZGdXNVBiN25iNmRTOTIwc2JoSjVBMnAtZ2Q2bTFfcGloZHQ0bE90Vy1vVW5yOWNzb3h2ODU3bzZsOUt4ZXZxZ0NJTWV3VE9FUjM2TVE?oc=5",
+      "published": "2026-08-25T05:30:08+00:00",
+      "publisher": "siam.in",
+      "summary": "Globale (GLOBALE.NS) Earnings Update: Available Data Shows the Latest Reported Performance under the Current Snapshot; Investor Response: Shares Close 2.72% Lower in the Available Record - Core Business Growth &nbsp;&nbsp; siam.in",
+      "query": "RELIANCE.NS earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Reliance (RELIANCE.NS) Watch: Slides 0.47% to ₹1,309.80 at the Close; Technical Setup: Support at ₹1,244.31 and Resistance at ₹1,375.29 Frame the Range at the Close - Put Support - siam.in",
+      "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOLW5UTlVMZUFXX3R5V3pvYnVXdTJTcVFwVjE3dTNPaHJjUy11TGZiOTg4cGl5NWdVZldBNkNnV2FQMjJJellILWhGTjhpdHE5dEFCZlRwaTJDM2RydUt6R3RqRWM4NjBCR2V4RDRQbHo5Tkc2NFhQdzZ4Y1VKZjZfNnhJYk1zY3JRYUl5WGlkbkc4LUNFYTRHVENVSnpJV1QwSm9yeW5xclV1T1VLY1hvZnZhQ2R6clExczdXZlNKZ0FZX3dweHRTRmRReHRTM3NyYVFyMDlIMi10b3R3Y2VPTTFCNVl6VDhEblRfVHpPWUxuZFg0SV83RENIdEdqX1NsMTRBOUtFenVaTmNhX3lMZ2ZYR1Bubjh5bVE?oc=5",
+      "published": "2026-08-24T10:48:41+00:00",
+      "publisher": "siam.in",
+      "summary": "Reliance (RELIANCE.NS) Watch: Slides 0.47% to ₹1,309.80 at the Close; Technical Setup: Support at ₹1,244.31 and Resistance at ₹1,375.29 Frame the Range at the Close - Put Support &nbsp;&nbsp; siam.in",
+      "query": "RELIANCE.NS stock",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Waaree (WAAREEENER.NS) Quarter in Focus: The Latest Report Adds New Financial Reference Points in the Reported Period; Closing Move: Shares Move 0.13% Lower on the Day - Post-Earnings Drift - siam.in",
+      "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxPem5oT3RsVFFnVEt3OU5TeGQydDBqYWRidUFMakNOeG5uUXplUmdIT1VzeHpzYnFYbXR0TDZZVTFfS0toN0hKZkItNGJLdE1ZQW9CNXFWRzljY09aLVZXVlFiVFQwS1NSSW52Sm9EWFpDTHV4dDRrMWdPb1pTSkVJcGRkRk9ScnotSE1zc3M4Slh1UXFCSklVdWxZUUs0QzROLXJVODZqLURwZ3RtcGdrRWtuUkFMRjFfdFRpYUw3SHVEaW5qTWVMaGgtLUh6dFJsWGdKUmF1NGVENjNVS3JoQVlMLVM3TDAwcGUyeXNleWFKSnMyeTJ6WkxBQVpzWlRlM0lDSldwWHZ3UzZ0UHZhYk1oTVMxSFAxSTd1U3R3UHFqbEh0bkRGcTdmNA?oc=5",
+      "published": "2026-08-24T10:40:27+00:00",
+      "publisher": "siam.in",
+      "summary": "Waaree (WAAREEENER.NS) Quarter in Focus: The Latest Report Adds New Financial Reference Points in the Reported Period; Closing Move: Shares Move 0.13% Lower on the Day - Post-Earnings Drift &nbsp;&nbsp; siam.in",
+      "query": "RELIANCE.NS revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Reliance (RPOWER.NS) Quarter in Focus: The Company Reports Its Latest Available Figures at the Close; Market Reaction: The Stock Records a 1.62% Decrease at the Close - Revenue Growth Outlook - siam.in",
+      "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxQeFFDZlZXZkZ2MjdLSno5S0E5VUpaNFRQbHd3RFJJMWxkZ0xzd1BMMEgxb1R3eUNBSnZXUHh0MTVYN2FfRkhJeTBubkxqLUwxM2daUUY0ME9pLVVKVHZsd1hGcUtYcEZlaDVCUm9wQlkzSmZmUTdnek1QcDlwZ3c1YlhHTXh6dDVxRk9XOUJsTUxYRjhvTndZWGpPRmd4VHZNcElpUzVCU3RMai1ReDh4VmVlaHVZQi1mZ0dNLVMxdjJNcEgtdW1zMURqWHBvWVBFQmZzYTA2Wko5SXJqbE1iYnZxQi1TTTF4a1FBTW1jc0tLMFBPbkY2VkNNMkd5WS1vbmtnZ2dLcjRLcDNUX2ZFR1VuY3BNRmhSQm1BQVB0RnJmdnBNMUJhNmZ3?oc=5",
+      "published": "2026-08-24T07:00:00+00:00",
+      "publisher": "siam.in",
+      "summary": "Reliance (RPOWER.NS) Quarter in Focus: The Company Reports Its Latest Available Figures at the Close; Market Reaction: The Stock Records a 1.62% Decrease at the Close - Revenue Growth Outlook &nbsp;&nbsp; siam.in",
+      "query": "RELIANCE.NS earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "guidance"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Nirlon (NIRLON.NS) EPS and Revenue: The Company Releases Its Current Earnings Data in the Latest Session; Share Response: Shares Rise 2.78% - EPS Revision Trend - siam.in",
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxORXhMUU5yLVhndTMtTzBYa2d0enZUWlVYT0wwelkycExNaTJOOE9wVmV6djluVTZ6dlZYdTc3cVc5V2VHb2x2aXNFQVBoWE5sMGNteDhQejlRUnBLVFdvdzB3TWdYbkNqTy0yTWMzYnJjV2VrUmlVcFBobXdfZ0o1a1Q5ZmhSN0RvWlR0WEtRZWthc0tLMzhscGdneHNkekJkTmIzdGNCN09zVHIyQzBuZTlnNExQQ0I4SU5TaDFKMmxCejl0eEUyZVBKMUYwcjJIOEJ0MjZiV0p5emlhaXh1TDBCQy1MLVUyY2FUWHJwSURMbXZvYXVjaEJNOTBydEZBTzNRUU1B?oc=5",
+      "published": "2026-08-24T07:00:00+00:00",
+      "publisher": "siam.in",
+      "summary": "Nirlon (NIRLON.NS) EPS and Revenue: The Company Releases Its Current Earnings Data in the Latest Session; Share Response: Shares Rise 2.78% - EPS Revision Trend &nbsp;&nbsp; siam.in",
+      "query": "RELIANCE.NS earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "product"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Polyester Fiber Market Size, Share & Growth Report | MRFR - Market Research Future",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBhX2FVTHJpTE12amJrX3ZST211UkttVGVQQm5uQ1pCYzVZVU5ueTBiZXhNSkFjTms5RDFxc0hVM2tOcy04SEFKT1A1Q1dPM1NjZnNDdzlpdTBxSm9Uemh5QUF6VVFXZ1dOXzZ4ajhUb1BNZWhMaEx6bnlRWUw?oc=5",
+      "published": "2026-08-24T07:00:00+00:00",
+      "publisher": "Market Research Future",
+      "summary": "Polyester Fiber Market Size, Share & Growth Report | MRFR &nbsp;&nbsp; Market Research Future",
+      "query": "\"Reliance Industries\" revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "positive"
+    },
+    {
+      "title": "Propylene Market Size, Share | Industry Report [2026-2034] - Fortune Business Insights",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1zU283UWY0VE12SWN6S2tJNkdrcEVRMmJPRW5LcHRpM280YXczSnRaZ0QzdEx1U1o4YVV6OHJCMTE2NFF3Mkdwc0FYNU9JdE03ODR2MnNydkZLRk4xVEdsQ3J0cGViMEtTd2FFalRqOTU?oc=5",
+      "published": "2026-08-24T07:00:00+00:00",
+      "publisher": "Fortune Business Insights",
+      "summary": "Propylene Market Size, Share | Industry Report [2026-2034] &nbsp;&nbsp; Fortune Business Insights",
+      "query": "\"Reliance Industries\" revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Ethylene Market Size, Share & Growth Report 2035 | MRFR - Market Research Future",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA0cUFTNGZ4TDU2X19qamhUbV9KMGlodWVxQmZGcGxmWnBpdVF5NjFJWUVFel9tazVuRzlseEljU1Rad0VFa2NBR1JsbUVDNVREbGw3WEFUV2twTWxFZFIxLWUyajFvb0toZ25VOGJ0QjY0QQ?oc=5",
+      "published": "2026-08-24T07:00:00+00:00",
+      "publisher": "Market Research Future",
+      "summary": "Ethylene Market Size, Share & Growth Report 2035 | MRFR &nbsp;&nbsp; Market Research Future",
+      "query": "\"Reliance Industries\" capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "positive"
+    },
+    {
+      "title": "Kennametal (KENNAMET.NS) Financial Update: The Company Releases Its Current Earnings Data for This Review; Share Move: Shares Move 8.34% Up for the Current Session - Product Revenue Analysis - siam.in",
+      "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxNMVp6UEVETkc1MS1wMmRTM1IwNlpUYmhvOGVYTzdOUzgtdlpFMVZ5V0NJWHl4TEU5clRvSVlWYkJzbTl0M3o1c1prUVE2bjd3bEhJMW1wVTlncHAyTHBBQ0YycHlOaWswdXVOSU5Rb0pmXzVPejVYbjVkSlc1cVU0Vk5VVXYtdmxRaHF1aElXNXJsRnBZQy0ycGVQdnFTQjNvWFBzS2VJdkw3aTJvVnk3emdxdGVBRUpEZFBHYjlXYjg1eHlEanJ2bGVBa21FZ3ppTHo0aFNSaGVQY2xVMWJwYkY0NXJZTS1Ha1VVTlFRZEswYUtqS0xLa1NmSVRBQnlDMGw2Mkd4WmZIWDlXZUtfQ1B5dG9DaDQ4VFRLUDBHcmpGd01kOEE?oc=5",
+      "published": "2026-08-24T03:38:16+00:00",
+      "publisher": "siam.in",
+      "summary": "Kennametal (KENNAMET.NS) Financial Update: The Company Releases Its Current Earnings Data for This Review; Share Move: Shares Move 8.34% Up for the Current Session - Product Revenue Analysis &nbsp;&nbsp; siam.in",
+      "query": "RELIANCE.NS earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "product"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Lifetime (LCUT) Financial Update: The Available Earnings Metric Delivers a Beat for the Current Session; The Share Price Sheds 1.40% on the Day - Return On Capital - Vinanet",
+      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNclpNS0FHeDBqVlNLQVNWSnlzUXpCTHJGeTVDcjF3djBBRy1pR1E2Q05zWUxkS1dISjVyZVdCWU5xRjIxbkZYeXlEUGNCZzRYZGpoQ0w4MnlQVThUaGxCV2Nqd3lvYjM1ZFc2aHZDVjRZSWppdFVyUGUyZmptV2xUZTR0VVJWV2pNd2pUOUlvZ0FnZTgyb2MyMzU2SXBSaTVMbkF6am1TSkpka1Rwc1h1aXZpcG5WU01ucnMwR3JwbFR3YmZNVjhIbS1yZGJnNGVBS00yNVdrekl0Znlhd1dhYlEwUnVsS1dOWURPUl9EdDNkc3ByNDdkdXZFYUJqVmpiRlVHNERQYnBNaFE?oc=5",
+      "published": "2026-08-23T15:37:24+00:00",
+      "publisher": "Vinanet",
+      "summary": "Lifetime (LCUT) Financial Update: The Available Earnings Metric Delivers a Beat for the Current Session; The Share Price Sheds 1.40% on the Day - Return On Capital &nbsp;&nbsp; Vinanet",
+      "query": "\"Reliance Industries\" earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Dish (DISHTV.NS) Q2 2026 Results: The Report Provides a New Financial Snapshot for the Current Session; Investor Response: Shares Fall 0.72% in the Latest Session - Energy Earnings Report - siam.in",
+      "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPcVlVWnZPYVJfOFFtdTRYZFpjNHFVUXE4TVY3LVhiQ3I5ME5TUDFtR1RZQmtuTUZpTWkwRTFKYTFKRFNXZDRlUGFUYlZaNEtfd1gxRU0tUDBtTVp4SmRjQ201aXl5ejNsS0RpVTc0VXROcnlKcW9hTlNEVEtMNzZKVWFUcElNRGhSRVI2dERTbzFDWm9GNUVvWGkwZ05QVXliOThodDZScThhMWlKQ01KVFA1YWJrcGU4SXBCMWVaOWVycU1CV0pudDVCbUFqeVFJdUVZSkY2NWc2OXdYakVUamlhX1JEa3pkSGdzNGUwYTMxUGhUNnRWdFV6NXY4d09BSTIyQ1ZpclZlZnVRbnhpNTBQSzZ6YnBWMklOR3ExeDNsc3Rh?oc=5",
+      "published": "2026-08-23T08:48:01+00:00",
+      "publisher": "siam.in",
+      "summary": "Dish (DISHTV.NS) Q2 2026 Results: The Report Provides a New Financial Snapshot for the Current Session; Investor Response: Shares Fall 0.72% in the Latest Session - Energy Earnings Report &nbsp;&nbsp; siam.in",
+      "query": "RELIANCE.NS revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Stocks to Watch for August 24: Reliance Industries, NATCO Pharma, Bank of Baroda - CNBC TV18",
+      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQRlZfdm05LVF4REl6SlZNWk1BSzJyOV9oRzNtTUR5aWFzR1BKbEROTXhjQjcwblhuRkdYTDNZTlFfT0RDdlhibTNnN0dPRXR2ejFUbkR4cnAyNF82STlhcnpzV3dKQ2FzNVNqdlJDYWl6bFZic1Q1UW82ZDNGd0Fwd2RtbGhfLVpHSDdGT0lvb0Y5TnNsdVQ3YkZJVndtbUJYTXplQVZST21nUGwyT1VPTEhxRzN3SjRvODhuMmtsakhHM09YMmgyYzAzaEJtSDJzVG9UMjhMdTNHZVRobXhHRnl4eWN3a3owQzFHNmtPMUk1dGtMdm85VFAwRExuZXE3SmJ5dTJXY3dJLVpUQXfSAZMCQVVfeXFMTWctRlNGV3ZEZ3J0T1M2MERuN0xDUFQzbUtqTzh6VXpHOFhZWGdDdFRBdXBEbF9TS1hXU3FuRVJrWUVva01Ba2w3eW0teDFXMFQxNVlGR3hpdXUwZXpuVklEeFFpaF91RU9lNFJQWXo1MnJvN2prUERqdzQyUGJVWERkdU9nU0ItQkNHdmtYU0VTakQ3bFlGWDhtUmQ5dTIwMDh6Vnp5RHZ5YnVDVzhYMDVpaDFnWVpUNDNJUHVmUVY1VGx6QVF6REkwOUhkQ2RJaUJRNmp2aGxpdU9faW5Ga1lVSXU0WmhhRmlOM1lDdzhfUUtFYkNEU0NQRjQ1ZUZETjhJYUtCOGdVMVpEOVNxa3ktYms?oc=5",
+      "published": "2026-08-23T07:00:00+00:00",
+      "publisher": "CNBC TV18",
+      "summary": "Stocks to Watch for August 24: Reliance Industries, NATCO Pharma, Bank of Baroda &nbsp;&nbsp; CNBC TV18",
+      "query": "\"Reliance Industries\" stock",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory"
+      ],
+      "lean": "negative"
+    },
+    {
+      "title": "Mohit (MOHITIND.NS) Results at a Glance: The Report Provides a New Financial Snapshot for the Current Session; Trading Move: Shares Move Lower 1.88% - Earnings Trend Analysis - siam.in",
+      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNMzllU1pHMDB5a2kyQnJWU3R6V3I2a3Zac0N1X1M3RjRra05jWFB5WDhncTkyT3I2U21mdDZDZlZjeW1MckFJQ0Z2REdtQnJVdGhvaU45dWRUOHdkcXFyRXhfdGNrbUIyYzlsNGhuV05qLVBOc0gxcll2M29IbUdxM0NaNGxNNkhGQjlvMXhEWmZzRXJlb3h0QjlRak1HVDljX2NCZVowSWdqeTlieW1wVlFNNW12R25feHlxSk0tblZacktMSkFNcjJIV1ZkUEJoRkh3Z282SFVQNmtFc1JXbEpNdmVzbElRTUhWbVRMOVR2bG5DME1QaVZXdFhzS1FoRnRaTHdzTGNiV0EtVXFCcnJR?oc=5",
+      "published": "2026-08-23T07:00:00+00:00",
+      "publisher": "siam.in",
+      "summary": "Mohit (MOHITIND.NS) Results at a Glance: The Report Provides a New Financial Snapshot for the Current Session; Trading Move: Shares Move Lower 1.88% - Earnings Trend Analysis &nbsp;&nbsp; siam.in",
+      "query": "RELIANCE.NS revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Teamo (TPHQ.NS) Results Check: The Company Lists Its Latest Available Figures in the Reported Period; Price Move: Shares Move 8.82% Lower in the Latest Session - Tech Earnings Analysis - siam.in",
+      "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxOTlpocG8zMjloWWl4eWtOYnVJN1NRQTJqNjdpelpiaVJWYW5GQld5Rk1XVFVwN3BzbXJNWXlFR1FNNXJpMFVfUVgyYkJGcUdwYjRjOHo0MVJQNGxVeUJfRmRjSm0wUEdiN000QlhIaEFnMDJSTHl2Tk8xSy1jdmVTbElXc0ZXNENEdDJkQVY0cm5tdmo5VjlqZ2UzQlpWdUk3SFA0T1NqVU11U1BEZ2d1U004SkowVFJnSExhRVNHVWFYdHFpaUh0RmhtNHE2S2d2SnZiR2NVSmZsRU9JTktabTN3d1hUQVpNQWtXSTlMWG5Za1c5cG5TdGJSTUJkbUI1OEZjSVRLLUFVQnl1VlR2TkpyMEJpLVF2cFVUR00xLVk?oc=5",
+      "published": "2026-08-23T02:42:03+00:00",
+      "publisher": "siam.in",
+      "summary": "Teamo (TPHQ.NS) Results Check: The Company Lists Its Latest Available Figures in the Reported Period; Price Move: Shares Move 8.82% Lower in the Latest Session - Tech Earnings Analysis &nbsp;&nbsp; siam.in",
+      "query": "RELIANCE.NS earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Mankind (MANKIND.NS) Earnings Update: Available Data Shows the Latest Reported Performance in the Reported Period; After Results: Shares Show Limited Movement in the Available Record - Final Results - siam.in",
+      "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxOOGR1OWZMX1g1aGpXMEMzRXFqRERoemdmbldQdXBpSUpuN1lQVEU0ZEl6Q1pEUGt2OWU0S2d4VlBKNml2OGJFb05tNWZHOFBmNDdaZVIzU1NOVEpVUE9PeXNEYWFmTWZWNDhxNmxxcUdvOGh1cV9GdjFaTnJhR0xyUGpMMUt6YjZRZ0NkdXloTW5tenVIakhXR2NBTzNtVlZQUEhvWl9DOWlkTGJfcjZReWxXZV9KUG1YOHIxN2UwQWNwcHFKQ01WeElnbmVNc251TTc0LTUzV0taOGp2YnpvOFNVRFZ4Y3dzeFJOcENmQnpleWhzekJFajRtTFNPZmNiN0tubWpsVlpkakVKaF8yVHNVWGd3TWlsZ1JYbGEtbWdKOG1FNm5YeGNhaEVrc0NhWnh4ajBVellSXzFBbXhsRU9B?oc=5",
+      "published": "2026-08-22T07:48:00+00:00",
+      "publisher": "siam.in",
+      "summary": "Mankind (MANKIND.NS) Earnings Update: Available Data Shows the Latest Reported Performance in the Reported Period; After Results: Shares Show Limited Movement in the Available Record - Final Results &nbsp;&nbsp; siam.in",
+      "query": "RELIANCE.NS earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Reliance (RPOWER.NS) Financial Update: The Report Provides a New Financial Snapshot under the Current Snapshot; Latest Reaction: Shares Move 5.87% Up - Earnings Call Transcript - siam.in",
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOaUJNdWRPa2I3djNLcWl6bmN4YmFJeFFyMkdicmZRX0dTcnhRSllpYTVPeUZ3SWQxUHROc3Z0TVRQRTJiYlN3Ny02T184MDAyVVFPX2liUDlDbElLV0ZMS0Y1ekV2cXQzNlpIbzRoVU52ZE01UW5Vb2dsS3Fiazl4WWZoZjFLMDlaVkFwelZqM1owUFlYWlowcW9RNmVCbzBhUmpfVVFua2ttdTNUc1gzbE5SNkt3amRkY3Fwa1E1a284NFhUSlFwUUVRV1RHMHZfcTQ0WE95ekdycmFyRkp2cEVNYnZYUHNneUxSd2Vrd0tDaHpIZkFvemVRZlQ3ZTdZcWRlX2JUNmNyTlVX?oc=5",
+      "published": "2026-08-22T01:32:44+00:00",
+      "publisher": "siam.in",
+      "summary": "Reliance (RPOWER.NS) Financial Update: The Report Provides a New Financial Snapshot under the Current Snapshot; Latest Reaction: Shares Move 5.87% Up - Earnings Call Transcript &nbsp;&nbsp; siam.in",
+      "query": "RELIANCE.NS earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Balaji (BALAMINES.NS) Results Review: The Report Provides a New Financial Snapshot at the Close; After Earnings: The Stock Gains 0.15% for the Current Session - Earnings Momentum Score - siam.in",
+      "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxPSmxpdXRkcTlrc014b0tESFhXTVRWUmY0OXBLejdkXzhTeWtlbnNhM2tUVGdaLVhTaXR3eU9GeXBZOEp0azhqT1d3WHNxWGFQSVBXSVdQOVdXODdxVW5XSjc4N0dYNkVFYmsxWUNhWlRWeU5PclZXVU5sZS1jX2lpQmQ0bmNKRHhVZHAyd2RncEhXUmNGcUFyM3lDcVI4RTF5OGRiVXBMR1AzNExJb0NlVlFtMWppN0ZKUDdTcTFoR2hkdC1HYnJvb3g2Q25TSWxIbDFsakRVZGJ0c1ZxNHV2SW1yeE05bUowQVlIUWFDSUZlUkg5Umd6dmxULTN3WnM1bDl5aVlrOG1CMkVLdzZUeklpYXRqRW44M0p1UVdB?oc=5",
+      "published": "2026-08-21T08:46:18+00:00",
+      "publisher": "siam.in",
+      "summary": "Balaji (BALAMINES.NS) Results Review: The Report Provides a New Financial Snapshot at the Close; After Earnings: The Stock Gains 0.15% for the Current Session - Earnings Momentum Score &nbsp;&nbsp; siam.in",
+      "query": "RELIANCE.NS revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "OM (OMINFRAL.NS) Chart: Closes 0.30% Higher at ₹84.92 for the Current Session; Immediate View: Support at ₹80.67 and Resistance at ₹89.17 Frame the Range at the Close - Strong Buy Stocks - siam.in",
+      "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQS2EwZG1vNVprQ2ZWOTRHa1FnQzBYdnI0bmlkYnptYnNIWGc3YUVQMDA4QXBuaWJVWk8tNlh3M0pxczdUeG50VUpxbDFSM0NJc0gwTm04NjRtakNmbXVYb09uNmxpWE5XV2pvck9IWktTaGQ0VHhkVVUzT1FJdXBfQUZ2NnFvdE5xcEZnZnRReFdlUkZsWXQ2MjZxc0VYajBkNGczenlENk15WFlpQndxb2ViTG1vXzBmQUM1N1BpTkJTTFU3N0x1VFFmRG5yTmtQdEpWdXZBb2htZFptLVlGQUtOTll3cG1scm83R3FnV2NOM0VhYjgyd2VyYXNhZXFpNnFxc1MyYzdJS2p5Z0dsbU8zSjNWaGZiYkxOTHRKWmM?oc=5",
+      "published": "2026-08-21T07:42:08+00:00",
+      "publisher": "siam.in",
+      "summary": "OM (OMINFRAL.NS) Chart: Closes 0.30% Higher at ₹84.92 for the Current Session; Immediate View: Support at ₹80.67 and Resistance at ₹89.17 Frame the Range at the Close - Strong Buy Stocks &nbsp;&nbsp; siam.in",
+      "query": "RELIANCE.NS analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "IG (IGPL.NS) Financial Results: The Latest Report Adds New Financial Reference Points in the Available Record; Market Response: The Market Price Advances 0.06% - Guidance Upgrade Report - siam.in",
+      "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPT2dyamtWSHJla21uOHNtd2hXcmp4MzRmOTZ3REY3dkxZWUxsMWx1YU5xYnhxY1FRQW5pcEZLUHd5RTZTU25OTFNzY1BzZ2EzWmQ5MTQ2MENlR0p4Tkd0V256cF9OQlhqQWN6d3MyMXQzelBveFN0VW5GWDZibzQ5X2RiODROLU5uU3JNOVFnSldJS1FDaUFOcEpnXzZGRWxlalRDQTRqRmp4M3QwaVl1UHNwR2FpNmNhQ1c3dzVkRldMX0dVVWJGMFFZU1BGZ1BCeTZmTlBwMnM4LXZvMS1QeDJOaGlmdDdMWVlndVlUd2hvRnpaOVFTZ1lCMy1UWXNxT3kwT1ZqcDhTcEJtYjlONC13d1lOaGtWTG1SM2NRRQ?oc=5",
+      "published": "2026-08-21T07:00:00+00:00",
+      "publisher": "siam.in",
+      "summary": "IG (IGPL.NS) Financial Results: The Latest Report Adds New Financial Reference Points in the Available Record; Market Response: The Market Price Advances 0.06% - Guidance Upgrade Report &nbsp;&nbsp; siam.in",
+      "query": "RELIANCE.NS earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "guidance",
+        "analyst"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Amanta (AMANTA.NS) Results at a Glance: The Latest Report Adds New Financial Reference Points on the Day; Trading Response: Shares Rise 5.00% in the Current Update - EPS Guidance Update - siam.in",
+      "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxOWG1kX3R0NXRYWVJCb25iV1NLRV9BcE5lUWhIdlFvUXM3QnpwNTJRR2dZTENLZ192RTY3YW1seEJickJEQWRQQUlxVERWMGw3QkI2enFNMTFrbjNkTE85QlQzWVBnQ2stWDBIdTlkTWY0aWRzTEJwSlJ3NldXa1lYajFLbTZtNUtySXFUT3ZsMkxTQ2pEYm1iT1laY0tIcmsxbk5RYU5MVWRDbzJQVjljc1dZNVlYT2FQUm1QSmZLUFR5dEpDT3Rvalk5Sk9jRUNBcjZ6UkpBenl1cmpaSDk1Z2c2bVI3VF9keXc2WXgwRTJubEZwZlh4MVlmdnZfSFZIWFlPaFhiLUFVdkJ6ZnBsSlpzalZOajFQTXk2TW5qc2ZQd0Va?oc=5",
+      "published": "2026-08-20T07:00:00+00:00",
+      "publisher": "siam.in",
+      "summary": "Amanta (AMANTA.NS) Results at a Glance: The Latest Report Adds New Financial Reference Points on the Day; Trading Response: Shares Rise 5.00% in the Current Update - EPS Guidance Update &nbsp;&nbsp; siam.in",
+      "query": "RELIANCE.NS earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "guidance"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Flexsteel (FLXS) Results at a Glance: The Available Earnings Metric Delivers a Beat in the Current Update; Session Move: The Market Price Advances 2.23% in the Current Update - Management Guidance Update - dars.gov.et",
+      "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxNY2FjZjVUM1pQTG9lcFB6TVc4Z1pnQzF6M1Nfc050Zll3MGo4WTFOXzBsbDhnQjZQbXZiZ21sMVBsN09lZjJMV1dscFJ0ZXVuajd1Z29RdmE0bTltbE44elFCR3ZLbDhYaW54ZW9LLXZTSWF4c3R4SldmdXo1SHpLMldNcTBjLTZNbmVlZUFvVjdmMDRuRlV4a3hEOThrdTFkdjAwVVNLYU5LQ1NZZjNVN3F5Qm8zcldpMndSRkhBRWxVRXRQcmU5RWxZTl8zN0JkMW9zcXNUdVRxUFE0QkFNdVp5THdIMGVmSnF5MmRjak1DbXh0eXpuQXRjUDNUVFBERGJxTms0V1hYQmowbEYtWDdHQk8tc2VwNE10cl85RExvT2s1MFB0QXIycHVRYlBmbkFxVg?oc=5",
+      "published": "2026-08-20T07:00:00+00:00",
+      "publisher": "dars.gov.et",
+      "summary": "Flexsteel (FLXS) Results at a Glance: The Available Earnings Metric Delivers a Beat in the Current Update; Session Move: The Market Price Advances 2.23% in the Current Update - Management Guidance Update &nbsp;&nbsp; dars.gov.et",
+      "query": "\"Reliance Industries\" earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "guidance"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Oxford Industries to release Q2FY26 results on September 3 - scanx.trade",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdGsyOTNtcGFETHZyMzZpQ2k0SS1FdTR2UUdYUEM0R3ZwWmItTUZYNnBlUmFmOVlVX2Q3clc3Vk5WazJKVThRSXVLbnlsMUFEZ2otOEY1REdKTU1xejBuVnNfMXUzV2M0RVQwUzFidkFoX1BNRW9mcnBfaTE2dmhvTkNxcFBEVDNIOXF5bXJJRmFOWnRxYzQzVWJITzJUVDVKSVVjNU9KdEI1Y2J0YVE?oc=5",
+      "published": "2026-08-20T07:00:00+00:00",
+      "publisher": "scanx.trade",
+      "summary": "Oxford Industries to release Q2FY26 results on September 3 &nbsp;&nbsp; scanx.trade",
+      "query": "\"Reliance Industries\" earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "product"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Reliance Share Price Prediction for Tomorrow 19 August 2026 - Univest",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNT1dvS2VCVmJEMkpEUzlJRTZfX1RLWGFfVDdxX05DbEpCdWdNRjJwTmoxekFhUV9fSDhsbE9zSGpZaXk2ejFCb1ZFMmIxRHVxMkVUSEpsQWtmTVRFbnVlRGdtcVI0bTd4ZEN6YjBaY1RGaWE2RXhoZHd0dE9yNno2dlNVV0ZFZHZVRmZxZg?oc=5",
+      "published": "2026-08-20T07:00:00+00:00",
+      "publisher": "Univest",
+      "summary": "Reliance Share Price Prediction for Tomorrow 19 August 2026 &nbsp;&nbsp; Univest",
+      "query": "\"Reliance Industries\" analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Reliance Industries rises on buzz of Rs 2.73 lakh crore coal gasification project - Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQQ2RubUtwUkZfOEw5SWdUYUx6a1pDUE43OFhnY1N4NXpOemNUX3BfdGtvSjRRUFNfdm9rcnlVMmhjTGpyUmdVYzdfN3Frc1o1SDFKekZDb3dKX3p6d0JoNGEtQlBIanEzcUpnMmZEVDg4RmIxbGtsbGZxdnBVWUFaR1E5dHZ2dnd5bUtTQTNPZk13TnhENC03RWpSb3FUbUJhS1RGd0lnVHRydDQ3cG1Vby1JYm9SMnMzVXZZNXVxX0NZc0ZKd3dmTHd2dXZybEZjS3Z3ZUVTMzhfdDF2R3RBbXJqb0xReTRxMHZmOExMcEk5SHBEekHSAfsBQVVfeXFMTnR3UEY1eWRZWnNXeUd1UVBJSGo5UkhnX1BlRkJTd1lOdUFJaFZLQWR5c1N3QndXcGEzU0tKc0pjbXlYNXpkV1RvUUpPeFc5eUR2S2hjZzI2b09IRmNwMF9MTkxJaHNPMW1uT2hxX1JxNm1hazU4ZUNnUGE0UzQ2a1F1LUE0WkRzOS1DMWJKajJQdnpWRlVVcVRnckZKYTQ5NXhINjR2amJYZzlJX0NZNE5XT3V5YzM4OXJseFBlUkhLMlVpT0RjUFExdWlIbllEQlBhWWc5cHRGMEFoWW9Ncnlrb1lqeGtXdF81aGxjNVVlUTZoNFpxTm10eHM?oc=5",
+      "published": "2026-08-20T07:00:00+00:00",
+      "publisher": "Business Standard",
+      "summary": "Reliance Industries rises on buzz of Rs 2.73 lakh crore coal gasification project &nbsp;&nbsp; Business Standard",
+      "query": "\"Reliance Industries\" acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "positive"
+    },
+    {
+      "title": "India's battery storage self-reliance a decade away amid tech, financing and execution delays: Report - The Economic Times",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNTHRZeVlrWDRITVh2Z2pOLVNaQy0zUjNRNVRWMXJIOFVpdHljQ0NVODU4bmtnVlE2LVgtMjBsZ19hU3dtbUF3S1ZFdVFmdXM5Q2dFc0xQNzE2bG5KbUxoa2R4UTl0RzNZbmNJamNRRnRvTllRN2x3eEtlTktlVHZNQzNnYnEyX0hHYXZteFJVeGstb2pZYTFIZTRkS1d4V3lNRHZfVVNuZ0w2SlE2b2pKTG5WVU42WmN6WHJtdmU3X0Nkb0Q4dEp5QVA0WHp1Mkh0RlFzTmtiNU8tS29LeFR0bDZqQmtSLS1aWVpON3I3SmFRTF9iVzk3REJVbmzSAYICQVVfeXFMUDBqdDJFb0hYRGRBbmtXNmwyVnpUaDVYZGxPUnZfSDdWLWgxb2d4Q2FkS1lRZXFCQmNjcm5PTTFRdldGMDBCY1NpVWFZejQ0UFNIT0EzYzhsMjBBZVFPZC1UQzlsS0pGRUF0Xzc0aGtGWmJfUWtscEZtblBPMlBFcGNQc0puUE52dmxZQ0liWHEyVDczVDNQbl92ZV9HNjNIYWhLRFdMQk5WbUNYMWFSa1pQamMzUDhYZ2Z4bm5IQUk5SXRrbXU5Rl9sYThDV0J3NjhvcWpjeUljVHgxTU9KMFVUWk5qY1Y0XzBqT2U0dmpBZl9lNjBsQW85aDJSTG54TEln?oc=5",
+      "published": "2026-08-20T07:00:00+00:00",
+      "publisher": "The Economic Times",
+      "summary": "India's battery storage self-reliance a decade away amid tech, financing and execution delays: Report &nbsp;&nbsp; The Economic Times",
+      "query": "RELIANCE.NS capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "negative"
+    },
+    {
+      "title": "Good News, AP Gets Massive Investment Plan from Reliance - Gulte",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVG5IWFBIQXNKLTRWdUtuRC1hbllqZDVxLTRORGFINE56QjdxMmZwcXJRRmFVQ2VxTFBrSC05T0hCMmlwUkZrU3dpZkF3WTFVUzB1VGllUHRrWFE5bzRfX0dGMlJxNVlCMURJaXlnLXZreHVqWW85bUk4SHliNUtWRU1oZUFHc1UxWnkzR1drRDdRenRfeDVTMG9wbkFTNXJp0gGmAUFVX3lxTE5NVmxidldkdUhxWmFWTk1CREg2SEFpa2Nab0tFcUpHZWNyeGRaRnRESUg1RldLZzRWMnRQR25oMkpxVUM0S1hDTzhkanQ4QmE4bHRJMkRsYU1lRTE3aHk3ZnBRX2ZHbHV5MXhEcHhHa1hMTG1PYXVHbTBJcFdoSEhSZlc4RldUM2xfWVZWeTBjWEFmTU5GRTJfMnFvVDBOa3JUZDRTaXc?oc=5",
+      "published": "2026-08-20T07:00:00+00:00",
+      "publisher": "Gulte",
+      "summary": "Good News, AP Gets Massive Investment Plan from Reliance &nbsp;&nbsp; Gulte",
+      "query": "\"Reliance Industries\" capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "South-Korea Antimony-free Polyesters Market Size, Share,Trends, Growth Analysis Report, 2030 - MarketsandMarkets",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOOVRwOFpWVFplcW1feEJ2U3dwcVQ2dmw5S05VT3RPaVZfUlpxS1V1SzBtUUhMSGFtTjY0YXhlVFNBV09oVmNoOGgxUmlPbzlwb01TUlQydEpBdThsVVllSFFoY2FScEdMaFVrXzFmRVdvaVNjWVFOcFV1OTRFM296a0ozNloteGx5dE5lUHU0UDdkTm1UajEydFNWbDM0ZzRlUGdPZA?oc=5",
+      "published": "2026-08-19T13:47:25+00:00",
+      "publisher": "MarketsandMarkets",
+      "summary": "South-Korea Antimony-free Polyesters Market Size, Share,Trends, Growth Analysis Report, 2030 &nbsp;&nbsp; MarketsandMarkets",
+      "query": "\"Reliance Industries\" revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "positive"
+    },
+    {
+      "title": "India Inc’s blockbuster Q1 earnings may not last as 3 key tailwinds fade in H2 - The Economic Times",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQT1FON2tlZkRPaHBuTG9YYjRXeXBvbEJCYTNhOXZwbU54NGNfTUl1T2VNQ0JnWUoyU1RPUWJKZWtZNjllN3hJLUU5OEwtWERBaGMwM1NxbS04NDBQNWduTWR2UGFtNmE4aGRyaHR4OGo1Q01hZ3I3NEdTWUNGakY5cWl1M3RhSGY5QXRCdkh0UTE0VG5SdzJITlNHazFKWmc5Zk5SRFpiZGFxNXVZR1pJWWVhRkJXOUNIUEp3bmNzU29XTnR1M2h6OWRUTHVVaGdJdGhZaEg2WnBEeWFRUWV3bGtWTWxYd9IB6wFBVV95cUxOQmFhel9qcEpPTFVxTGpuMlVKM1NabkFBQVZwNnRyR2xmdEpXM3JXVjNTNDdGV3Bwa0lrTHZ2bTlDWF9EVW1FMU9nUFpUX3pUVlFZV1MzUEdmeEdNbGtJeEtkZ19OMlR4WEwzU0x0M2FVZzZia3BPUFNKYzl2YmlpblhxQ1NkQW9RVmF2SjVCc2xZWURlRllpa3lUeTk3YVl1dkxET2lsUEZzVDJUM0tmTGJIdXgxYmRhV2pmdnB4Tk1sS0VWdjVRNjV4S2ppM05DVC1XSGpCSlRoeGttV2l6cy1UVmNQUTRGZUVz?oc=5",
+      "published": "2026-08-19T07:00:00+00:00",
+      "publisher": "The Economic Times",
+      "summary": "India Inc’s blockbuster Q1 earnings may not last as 3 key tailwinds fade in H2 &nbsp;&nbsp; The Economic Times",
+      "query": "\"Reliance Industries\" revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Reliance Industries Share Price Prediction for Tomorrow: Levels for 19 August 2026 - Univest",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUjJROF9Xc0ZnLVVocVYxN28wcm5Rd2xRZ0htd2F4UHVrVUE4S0lnX3h3ajF1OEJLZ1VTZ3Jwd005cWkzSVIzV21KTGJDZ01ERmtrbTBsVDdYVGM3SzAyaHZEQUdqeFFvaUVPaklwNmhiQXAwWlVQcGtKbFpsWDI1ZFhWT0t3R3NMSFJ5Rw?oc=5",
+      "published": "2026-08-19T07:00:00+00:00",
+      "publisher": "Univest",
+      "summary": "Reliance Industries Share Price Prediction for Tomorrow: Levels for 19 August 2026 &nbsp;&nbsp; Univest",
+      "query": "\"Reliance Industries\" analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    }
+  ]
+}

@@ -1,0 +1,216 @@
+{
+  "ticker": "AMD",
+  "as_of": "2026-09-18T07:51:48+00:00",
+  "source": "yfinance",
+  "profile": {
+    "name": "Advanced Micro Devices, Inc.",
+    "sector": "Technology",
+    "industry": "Semiconductors",
+    "country": "United States",
+    "exchange": "NMS",
+    "currency": "USD",
+    "financial_currency": "USD",
+    "employees": 31000,
+    "website": "https://www.amd.com",
+    "summary": "Advanced Micro Devices, Inc. operates as a semiconductor company internationally. It operates in three segments: Data Center, Client and Gaming, and Embedded. The company offers artificial intelligence (AI) accelerators, microprocessors, and graphics processing units (GPUs) as standalone devices or as incorporated into accelerated processing units, chipsets, and data center and professional GPUs; and embedded processors and semi-custom system-on-chip (SoC) products, microprocessor and SoC development services and technology, data processing units, field programmable gate arrays (FPGA), system on modules, AI network interface cards, and adaptive SoC products. It provides processors under the AMD Ryzen, AMD Ryzen AI, AMD Ryzen PRO, AMD Ryzen Threadripper, AMD Ryzen Threadripper PRO, AMD Athlon, and AMD PRO A-Series brands; graphics under the AMD Radeon graphics and AMD Embedded Radeon graphics; professional graphics under the AMD Radeon Pro graphics brand; and AI and general-purpose compute infrastructure for hyperscale providers. The company offers data center graphics under the AMD Instinct accelerators and Radeon PRO V-series brands; server microprocessors under the AMD EPYC brand; low power solutions under the AMD Athlon, AMD Geode, AMD Ryzen, AMD EPYC, and AMD R-Series and G-Series brands; FPGA products under the Virtex-6, Virtex-7, Virtex UltraScale+, Kintex-7, Kintex UltraScale, Kintex UltraScale+, Artix-7, Artix UltraScale+, Spartan-6, and Spartan-7 brands; adaptive SOC"
+  },
+  "market": {
+    "price": 545.09,
+    "market_cap": 889845841920,
+    "week52_high": 584.73,
+    "week52_low": 154.78,
+    "off_52w_high": -0.067792,
+    "avg_volume": 24780722
+  },
+  "analyst": {
+    "target_mean": 616.508,
+    "target_high": 1250.0,
+    "target_low": 365.0,
+    "upside_to_target": 0.131021,
+    "recommendation": "strong_buy",
+    "n_analysts": 50
+  },
+  "annual": {
+    "periods": [
+      "2021-12-31",
+      "2022-12-31",
+      "2023-12-31",
+      "2024-12-31",
+      "2025-12-31"
+    ],
+    "revenue": [
+      null,
+      23601000000.0,
+      22680000000.0,
+      25785000000.0,
+      34639000000.0
+    ],
+    "gross_profit": [
+      null,
+      10603000000.0,
+      10460000000.0,
+      12725000000.0,
+      17152000000.0
+    ],
+    "operating_income": [
+      null,
+      1264000000.0,
+      401000000.0,
+      2086000000.0,
+      3694000000.0
+    ],
+    "net_income": [
+      null,
+      1320000000.0,
+      854000000.0,
+      1641000000.0,
+      4335000000.0
+    ],
+    "ebitda": [
+      null,
+      5534000000.0,
+      4051000000.0,
+      5145000000.0,
+      7275000000.0
+    ],
+    "rnd": [
+      null,
+      5005000000.0,
+      5872000000.0,
+      6456000000.0,
+      8091000000.0
+    ],
+    "eps_diluted": [
+      null,
+      0.84,
+      0.53,
+      1.0,
+      2.65
+    ],
+    "shares_diluted": [
+      null,
+      1571000000.0,
+      1625000000.0,
+      1637000000.0,
+      1636000000.0
+    ],
+    "total_assets": [
+      null,
+      67580000000.0,
+      67885000000.0,
+      69226000000.0,
+      76926000000.0
+    ],
+    "equity": [
+      null,
+      54750000000.0,
+      55892000000.0,
+      57568000000.0,
+      62999000000.0
+    ],
+    "total_debt": [
+      null,
+      2863000000.0,
+      3003000000.0,
+      2212000000.0,
+      3847000000.0
+    ],
+    "cash": [
+      null,
+      5855000000.0,
+      5773000000.0,
+      5132000000.0,
+      10552000000.0
+    ],
+    "current_assets": [
+      null,
+      15019000000.0,
+      16768000000.0,
+      19049000000.0,
+      26947000000.0
+    ],
+    "current_liabilities": [
+      null,
+      6369000000.0,
+      6689000000.0,
+      7281000000.0,
+      9455000000.0
+    ],
+    "invested_capital": [
+      null,
+      57217000000.0,
+      58360000000.0,
+      59289000000.0,
+      66221000000.0
+    ],
+    "operating_cf": [
+      null,
+      3565000000.0,
+      1667000000.0,
+      3041000000.0,
+      7709000000.0
+    ],
+    "capex": [
+      null,
+      -450000000.0,
+      -546000000.0,
+      -636000000.0,
+      -974000000.0
+    ],
+    "free_cash_flow": [
+      null,
+      3115000000.0,
+      1121000000.0,
+      2405000000.0,
+      6735000000.0
+    ],
+    "buybacks": [
+      null,
+      -4108000000.0,
+      -1412000000.0,
+      -1590000000.0,
+      -1923000000.0
+    ]
+  },
+  "metrics": {
+    "years_of_data": 5,
+    "currency_mismatch": false,
+    "trading_currency": "USD",
+    "financial_currency": "USD",
+    "revenue_cagr": 0.136436,
+    "revenue_cagr_years": 3,
+    "net_income_cagr": 0.486409,
+    "fcf_cagr": 0.293083,
+    "revenue_growth_ttm": 0.501,
+    "earnings_growth_ttm": 1.595,
+    "forward_eps_growth": 2.761036,
+    "gross_margin_latest": 0.495164,
+    "gross_margin_trend": 0.017002,
+    "operating_margin_latest": 0.106643,
+    "operating_margin_trend": 0.022248,
+    "net_margin_latest": 0.125148,
+    "fcf_margin_latest": 0.194434,
+    "fcf_margin_trend": 0.023119,
+    "rnd_intensity_latest": 0.233581,
+    "roe": 0.10196,
+    "roa": 0.05128,
+    "roic_est": 0.044068,
+    "current_ratio": 2.609,
+    "debt_to_equity": 6.361,
+    "net_debt": -6705000000.0,
+    "net_debt_to_ebitda": -0.921649,
+    "market_cap": 889845841920,
+    "enterprise_value": 881010802688,
+    "trailing_pe": 131.66426,
+    "forward_pe": 35.007442,
+    "peg_est": 0.219482,
+    "price_to_sales": 21.543295,
+    "ev_to_ebitda": 92.137,
+    "ev_to_revenue": 21.329,
+    "fcf_yield": 0.007569,
+    "dividend_yield": null,
+    "dividend_rate": null,
+    "payout_ratio": 0.0,
+    "beta": 2.476
+  }
+}

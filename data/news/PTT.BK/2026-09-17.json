@@ -1,0 +1,309 @@
+{
+  "ticker": "PTT.BK",
+  "company": "PTT Public",
+  "as_of": "2026-09-17T11:59:29+00:00",
+  "lookback_days": 30,
+  "summary": {
+    "total": 23,
+    "by_event_tag": {
+      "demand": 4,
+      "regulatory": 2,
+      "earnings": 2,
+      "product": 1,
+      "capacity": 1,
+      "mna": 1
+    },
+    "headline_lean": {
+      "positive": 5,
+      "negative": 1,
+      "neutral": 17
+    },
+    "top_publishers": {
+      "kaohoon international": 5,
+      "Yahoo Finance Singapore": 3,
+      "Nation Thailand": 3,
+      "Reuters": 2,
+      "The Star": 1,
+      "Pattaya Mail": 1,
+      "Offshore Magazine": 1,
+      "Offshore Engineer Magazine": 1,
+      "zeebiz.com": 1,
+      "Newswav": 1
+    }
+  },
+  "articles": [
+    {
+      "title": "Trading ideas: AirAsia, PTT Synergy, Frontken, Crest Builder, EcoWorld Malaysia, YTL Power, Hextar Retail - The Star",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOcHpIUnBuQlF0ajNYWTVXTzlFQWhNQjMwREZqQ0dBREUweHEwMzB5RHlVLVluQnVNMGdlMk9zbmsxdzB5Z2ZOS0wwWks1VmE5QTctT1FLVW1QSGJYdnoxWDB2a1poaEVxUFlPYnV0MXVmbWRiOXpvRHZ0a05XZHZVWkYxRUZER3BIZm9faWVjOUxKdjBnVWtOM1FMVDhSdVBXbkpTd1h4djBfd2dFN3UyUU5NcDRtcFZ3TVdNanczOXl1TGhPcDlUalNDQzBzZl92Q0NoMldoQ0R0a2dCb0dkeU5qYVo2U2RRbnRrZHIzWnc?oc=5",
+      "published": "2026-09-17T00:33:00+00:00",
+      "publisher": "The Star",
+      "summary": "Trading ideas: AirAsia, PTT Synergy, Frontken, Crest Builder, EcoWorld Malaysia, YTL Power, Hextar Retail &nbsp;&nbsp; The Star",
+      "query": "PTT.BK stock",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "PTT unveils its vision for Thailand’s future as an energy hub - Pattaya Mail",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNa09YMDlzOEFjU2h0TkQ2aG8ySTNKSXdvajlWQ2I5bGJzdUFBUzBKbmw3TGpYTDFPUktWRkRqQWl2REVmMzlFaWJobEltcUlHN2tUNzd2TkZEcUZ4NDBYMThISTBxQWs4UmdKUnlGbEJCOXZYaXE5RE5XMDlzUzg5N05SU2ZSc1dxMS1ORkFISjQ2amVmTVRkbzVvY3d5Q0piM2s4NVJ4RmNHaW5vZ2JJWA?oc=5",
+      "published": "2026-09-16T23:49:31+00:00",
+      "publisher": "Pattaya Mail",
+      "summary": "PTT unveils its vision for Thailand’s future as an energy hub &nbsp;&nbsp; Pattaya Mail",
+      "query": "\"PTT Public\" competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [
+        "product"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "PETRONAS, PTTEP secure 35-year extension for Malaysia-Thailand offshore gas block - Offshore Magazine",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQblkxQV8tZ0VjaGhNWWxoNHo0ak9adlp6OUdVbjN5b2Uta3dlcFdIUVk5Y2hhLTdvVTYzOWljRGN4c2dWOVgxNEdYZXVJOG16Y2psN1FmMWVvdXUwUDlPZjZYRkJkc240UFZqLS1MTjNqOG52UFQ5cU56clBrQ2FiTDFvMDlZeDZ2cU0zbE93akdZWXcxbzB1eVdFcHZGVjF3MGcwZnJQekttWFJQQjRCekNWdFh5aElqTC1SbVFkN1lYbmhPZ2RNd2VIdGk5Z3JZWVVMaDdaREg?oc=5",
+      "published": "2026-09-15T00:51:10+00:00",
+      "publisher": "Offshore Magazine",
+      "summary": "PETRONAS, PTTEP secure 35-year extension for Malaysia-Thailand offshore gas block &nbsp;&nbsp; Offshore Magazine",
+      "query": "\"PTT Public\" capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Thailand's PTT seeks LNG deals in US Gulf to widen supply base - Yahoo Finance Singapore",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQVdnZ3RJc0VncWtBOFhMalJ1OFcyUDIyUVVjbGNyMXU5ZHpFbjJVOG9UT3lxb18xbTNRN1FUVDllQTU3Vk0wVnhwa0NsdkpKV3BXeFJJcDFQVWMxN3VsVHBsZlRyUmlpSXl3a3doQlIzT0h2a255RzRKM09EOWhLMmlwZ0c?oc=5",
+      "published": "2026-09-15T00:51:00+00:00",
+      "publisher": "Yahoo Finance Singapore",
+      "summary": "Thailand's PTT seeks LNG deals in US Gulf to widen supply base &nbsp;&nbsp; Yahoo Finance Singapore",
+      "query": "PTT.BK stock",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "China Petroleum & Chemical Corporation (0386.HK) interactive stock chart – Yahoo Finance - Yahoo Finance Singapore",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5MZFM0Vkk5eVNPUmEyaVBabFhBdUd3djN0RWdXNjRBcTBQcFVxcm5Hdm9mUm03NVJCQ3YzcVlGRFk0RnJKcjVkY2ttdDVjU2dUcXY4X3hCRGwyR0JIakE?oc=5",
+      "published": "2026-09-14T19:34:13+00:00",
+      "publisher": "Yahoo Finance Singapore",
+      "summary": "China Petroleum & Chemical Corporation (0386.HK) interactive stock chart – Yahoo Finance &nbsp;&nbsp; Yahoo Finance Singapore",
+      "query": "PTT.BK stock",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Thailand's PTT Chief Urges Stronger Partnerships and Trust to Secure Southeast Asia’s Energy Future - kaohoon international",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBoTzdfLWdNSzdlaklVdFdvcjJrQjlxbzVfdFVMcXkyQ2xFalVXYmFnTTk2S3FucVFZQk5ueHVPZWlKT0JFU1VnX1hVaXJJR3k4NWMtWmNWUXExSjhNeFBRNA?oc=5",
+      "published": "2026-09-14T15:01:13+00:00",
+      "publisher": "kaohoon international",
+      "summary": "Thailand's PTT Chief Urges Stronger Partnerships and Trust to Secure Southeast Asia’s Energy Future &nbsp;&nbsp; kaohoon international",
+      "query": "\"PTT Public\" competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "positive"
+    },
+    {
+      "title": "Petronas, Thailand's PTT secure approvals for new gas block sharing contract - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPeVpranoxX1doNVBaRjROWnl0SHpfSGVSa2RhR0hjX3V3YWFsOXpxcTV4bmVPS01xS1AtQnVjMnVYVV9oSHBheFowNVg5bWpQNzFza2dMLXpaRktJVEE3VExTSkFvb3lsNUFfUjdaczNFd3paMkpSS3QzanM3d3o1VE9iSG1hcGJpSXNaeTR3QW03V3M3bDJvbnc5c3FtQzBMRmZFR1ZaRG96V1o4Y18yUDFNN2RaakdOTFQ0QTkwRVNwZ1d4QnRwcDRB?oc=5",
+      "published": "2026-09-14T12:59:01+00:00",
+      "publisher": "Reuters",
+      "summary": "Petronas, Thailand's PTT secure approvals for new gas block sharing contract &nbsp;&nbsp; Reuters",
+      "query": "\"PTT Public\" lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "demand"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "PTT outlines plan to boost LNG trading to 15 million tonnes a year by 2035 - Nation Thailand",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9uLXpDb1lPaFlkZW9URmlWaEhOc0F4c3Z4ZWFqeGRnNHZxYmw2T2EzcWtSdWZpVlF1dWlyOFVWVkVwX2FmOEo2SUlvZVRHMk1WRGRlYlk0R0lCcTdWTHhLSkhxNjBaNE4za0E?oc=5",
+      "published": "2026-09-14T10:59:00+00:00",
+      "publisher": "Nation Thailand",
+      "summary": "PTT outlines plan to boost LNG trading to 15 million tonnes a year by 2035 &nbsp;&nbsp; Nation Thailand",
+      "query": "\"PTT Public\" capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Petronas, PTTEP Get Approvals for New Gas Block Sharing Contract - Offshore Engineer Magazine",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUXhkS3RQWDYtNDh6aHdsWkxqMlRZQmhWWGdvenp3X3dGNlFIMHdqZlA0Z0hoemVKLXV1T2xDWFF5QU04RnNBWHJkRk51OTlHa1NUZFlDbDBhenhaU1hCb0F5dHZCYU5sdThQS2l2LUhLX1R6dWtTVkphOTBfeXdpdG9TdVE5VXRSb1U4bUZPNXpNMzBHbExmbkdibmJIdThicTVJ?oc=5",
+      "published": "2026-09-14T09:33:41+00:00",
+      "publisher": "Offshore Engineer Magazine",
+      "summary": "Petronas, PTTEP Get Approvals for New Gas Block Sharing Contract &nbsp;&nbsp; Offshore Engineer Magazine",
+      "query": "\"PTT Public\" stock",
+      "source_api": "google_news_rss",
+      "tags": [
+        "demand"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "NSE IPO: National Stock Exchange hasn’t applied for PTT — what does it mean for investors? - zeebiz.com",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNUW0yM2w1TC0zUV9SQTRWX3RSOTZGcndURWRVclhJRkZNVnozWXU3MGtpNnFGMkJPejNSOGZpdThJd2xXRUZTNEU5dGZGNmRNeE8tRnVZUTBxaUJoRHhKZHZFbmxLRGpNOVdMbHA4bWVKNU9PZzhnOUpIdkZHOWVpcjBmYW9US0VmSmNlMjVwMWNUNE0yVjNSY1pySXA3ajZOOE51ZGpnS0tGQ1RVSnpkMzZfOGxjVDhLcVZWYVRET085SVppZER1UzlPaG0wWDhrNVVn?oc=5",
+      "published": "2026-09-14T08:33:00+00:00",
+      "publisher": "zeebiz.com",
+      "summary": "NSE IPO: National Stock Exchange hasn’t applied for PTT — what does it mean for investors? &nbsp;&nbsp; zeebiz.com",
+      "query": "PTT.BK stock",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Thailand’s Energy Arm ‘PTT’ Targets LNG-Trading Expansion to Strengthen National Energy Security - kaohoon international",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBaYmlqbkJsWEdGd01WLW1IdENrdlBKMUUxeVpXNGVwM3g1V2huRWJrV3NyT3FBQUJKRWxRcC1SamdNNGRxTk5PdlkzQUF1WlNFLWpRdzdJeW5PVVlvZk9GUQ?oc=5",
+      "published": "2026-09-14T08:30:16+00:00",
+      "publisher": "kaohoon international",
+      "summary": "Thailand’s Energy Arm ‘PTT’ Targets LNG-Trading Expansion to Strengthen National Energy Security &nbsp;&nbsp; kaohoon international",
+      "query": "\"PTT Public\" analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "M’sia, Thailand sign new agreements on gas production sharing and sales - Newswav",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRW42OU95bUViNEsyTzJxS2JydWJCZGlqSFdIU19tUDlHQnFQV3RKdlhlRDVqczJ6TDdub2ZIcG13bG45Rm5vcXdwVTdtTDk0NjN5V1pyeGVEWlRlUUFTaG9yVEJKZEZZRVlRdkx3R1hVeVV4TTVRU0lqcVVHQUNkMXZTSGZieVZrMjN6YlRXaGs1TUNkUzZ0MXB6Vl9GVFpPWWdvUTQ2aDRCUFdIQ0FGNQ?oc=5",
+      "published": "2026-09-14T04:57:25+00:00",
+      "publisher": "Newswav",
+      "summary": "M’sia, Thailand sign new agreements on gas production sharing and sales &nbsp;&nbsp; Newswav",
+      "query": "\"PTT Public\" acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Adnoc said to be in talks for Thailand, Dangote refinery stakes - Yahoo Finance Singapore",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNOWhtTUd0QmVDd1ZLcDVCb1lKTWU1SXVnYXk1LUktZWJJUlo3d05NVl85cFd2eW9xdkx4LWR4U2pUeGQyYVJPSkd6Wl9sRWFCRGdpQ1VmOWNkekYxeEdySG1nQVZwcE5FQWIxMVRkNldVS2NpbjU3UmMyeS1uaHNXZjEwWjJzakM3NFE?oc=5",
+      "published": "2026-09-06T07:00:00+00:00",
+      "publisher": "Yahoo Finance Singapore",
+      "summary": "Adnoc said to be in talks for Thailand, Dangote refinery stakes &nbsp;&nbsp; Yahoo Finance Singapore",
+      "query": "PTT.BK stock",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory",
+        "mna"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "PTT Public Company Limited - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1qb05KanVjMXJfSjZHVnRmSUlvOUpwaU9HWC1UcVJGYncyZWRJcno5OWxKNmdSYWExN3M3emJsaVcxalpBRzJIcUVSbUpvQVZFSVZhdHJMY0lBWGRLTXBxU2c5bEE4WXZHU1Iw?oc=5",
+      "published": "2026-09-02T07:00:00+00:00",
+      "publisher": "Reuters",
+      "summary": "PTT Public Company Limited &nbsp;&nbsp; Reuters",
+      "query": "\"PTT Public\" stock",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Thai Oil-Linked Stocks Rally as Crude Rises Over Escalating Middle East Conflicts - kaohoon international",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBYWWJFUzFmVzVUNnVFSU1pSmlTZFhaTGxjRkdub2FjWmdVbUJQNl9GSmc4Nm1YWkkxRFY0ZFZYX3FlQlRvbmRvMkh2MHZRWVQ1dml3NWpNOXpYVC1BYl9Feg?oc=5",
+      "published": "2026-09-01T07:00:00+00:00",
+      "publisher": "kaohoon international",
+      "summary": "Thai Oil-Linked Stocks Rally as Crude Rises Over Escalating Middle East Conflicts &nbsp;&nbsp; kaohoon international",
+      "query": "\"PTT Public\" stock",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "positive"
+    },
+    {
+      "title": "PTT stock context unclear amid missing company data - ad-hoc-news.de",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbEpPZFRUZEJJZUp4WHZPcFZQU2o4LXltcFBOOWk5RjVubi1lTzFsZHhhVWhWcVNLS3dGc3E3cGNoTFpHeDRWaDFtNFMyQ1o2TWxLdmhoTmZNc0FKazhLZ0UwQThERHF2ZktSSzBiczQ1ZUpIN201OHJSN0xtWTV3MzFzWGVSV2xoYVpLd1FWM2xTRGEzRlFGTV9xck5kcjRFeVNBWUkyXzUyeFM4UktN?oc=5",
+      "published": "2026-08-31T15:01:18+00:00",
+      "publisher": "ad-hoc-news.de",
+      "summary": "PTT stock context unclear amid missing company data &nbsp;&nbsp; ad-hoc-news.de",
+      "query": "PTT.BK stock",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "PTTEP Signs Production Sharing and Sales Contract for Gas Well in Thai-Malaysia JDA - kaohoon international",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1xdHVoSEJ3cjA4WGI4alZTUWEyUV8yTVk4UUlsWUlKTUt1Ujc2VmhHR25XUHlRcTN2cTRsQzVseV9IUXBOaFZTSzQyWTBtb1Bqa3RyLXd6dUhNOGNoZndPbA?oc=5",
+      "published": "2026-08-27T07:00:00+00:00",
+      "publisher": "kaohoon international",
+      "summary": "PTTEP Signs Production Sharing and Sales Contract for Gas Well in Thai-Malaysia JDA &nbsp;&nbsp; kaohoon international",
+      "query": "\"PTT Public\" stock",
+      "source_api": "google_news_rss",
+      "tags": [
+        "demand"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Bangkok prepares to host Gastech 2026 amid rising Asian energy demand - Nation Thailand",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9HRkRjRlcwZVU0VGFPNjVGWlUxb1BaWExMRUNHcTVHM3hSSDVxOTNkV05kWExFVHpNZnFRSF9tZldhTXpYYWoydV8ybmlTM1k3S2RPUnFWTjVJTDZ3c3kzS1ZWZFFQR2M?oc=5",
+      "published": "2026-08-27T07:00:00+00:00",
+      "publisher": "Nation Thailand",
+      "summary": "Bangkok prepares to host Gastech 2026 amid rising Asian energy demand &nbsp;&nbsp; Nation Thailand",
+      "query": "\"PTT Public\" capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory",
+        "demand"
+      ],
+      "lean": "negative"
+    },
+    {
+      "title": "Ptt PCL (PUTRY) (Q2 2026) Earnings Call Highlights: Record THB78 Billion Net Income Fueled by ... By GuruFocus - Investing.com Canada",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQNUpRN0dtOFF1TDFUWi1nRkpyYzBueEtWc2IwazU0Q2NOdzZOQkI2LUd3NjdLOUY1ZXFGOUxPRGpETnI2TnF2UlYxbmMtNmt2eW9WTU02bXdkUkQtSmpjLTl4LUlua0JVTEJQdFZZRVkxX1FVOWp2WjMta0VzUERRUHNsbl9JMlpqRkZSMXFoZkJCeEZDMUI1N3FzcUVqR1BuQWlaM1MyUUpsQXM4eDdvck5ROVdfZnJjZVRRdWd1aUNSRkM2b2toc1NlQjQ4MU8yUXhBb2ZpNA?oc=5",
+      "published": "2026-08-27T00:30:33+00:00",
+      "publisher": "Investing.com Canada",
+      "summary": "Ptt PCL (PUTRY) (Q2 2026) Earnings Call Highlights: Record THB78 Billion Net Income Fueled by ... By GuruFocus &nbsp;&nbsp; Investing.com Canada",
+      "query": "PTT.BK stock",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "PTT Public Company Limited 2026 Q2 - Results - Earnings Call Presentation (OTCMKTS:PUTRY) 2026-08-21 - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxON2Y4RUpna2RfZF9oMms4bVBhMVRpOG5DbHIwYVlIQXpqemRPZmp5N3doRUlTa2VNUHlmd25fZ2cwbDB3M0tkeV9YcERyekpuTEdVZ2Flb0w2X1NmNFRETElUcTgzTVNiN0ZFVk14RDBnNmx0RkFZLUs0TGFNd2tBS1Jrckw4aUJkSkE0VXV3NTM1UTFISUhJbGFjN3hHdXJ2RWZPUkZjMzgxYmhLb0xr?oc=5",
+      "published": "2026-08-21T07:00:00+00:00",
+      "publisher": "Seeking Alpha",
+      "summary": "PTT Public Company Limited 2026 Q2 - Results - Earnings Call Presentation (OTCMKTS:PUTRY) 2026-08-21 &nbsp;&nbsp; Seeking Alpha",
+      "query": "PTT.BK stock",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "PTT Doubles Down on Bt1trn Investment Drive, Eyes LNG Leadership by 2035 - Nation Thailand",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9VNlYzcGNKaml2VGF6SDdJOHY0WURXMGZ0aVBBbjJIZGd1eDAyU2EzVmMweEs4d0RuX3YwR0dOdHJZS3Boc1RoWS1xRWZPZW1MNEJldU9jNFhQNkhncjRwdm1lQTBMb1pCbXc?oc=5",
+      "published": "2026-08-21T07:00:00+00:00",
+      "publisher": "Nation Thailand",
+      "summary": "PTT Doubles Down on Bt1trn Investment Drive, Eyes LNG Leadership by 2035 &nbsp;&nbsp; Nation Thailand",
+      "query": "\"PTT Public\" stock",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Krungsri Highlights PTT’s Resilience With Global Diversification, Anticipates Broad-Based Recovery in 2026 - kaohoon international",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE45OXpIdFMxa0llWURJYWx6ZnJXb3NVV3RYdWx2dkEyY0xrZjQwNC1vYU1lNmRRZjhPNnhRT2tOM01obXYzQ1RoSVR2SkNmZDFxT1hjN3lyWWVZY1pzOXo2eA?oc=5",
+      "published": "2026-08-21T07:00:00+00:00",
+      "publisher": "kaohoon international",
+      "summary": "Krungsri Highlights PTT’s Resilience With Global Diversification, Anticipates Broad-Based Recovery in 2026 &nbsp;&nbsp; kaohoon international",
+      "query": "\"PTT Public\" stock",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "MARC Revises MHB Ratings To Positive - BusinessToday Malaysia",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMmpDNzN2WV9SYWhWVnhEeE1pYXBNeFhGR0E0U1U5Y2xhNU1FZWVyRzFWWlY0VVlQVkdHLUNWTEdxQXQ3aHY0T2dpdFZWNlZqVmYzOEswazBxWDVjd2FJMFdzNnZhVGI2d3R0QS1sVTRnWENWR1NFNnhZdkRQa3ljOXFFT0FtSW8w?oc=5",
+      "published": "2026-08-21T07:00:00+00:00",
+      "publisher": "BusinessToday Malaysia",
+      "summary": "MARC Revises MHB Ratings To Positive &nbsp;&nbsp; BusinessToday Malaysia",
+      "query": "\"PTT Public\" capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    }
+  ]
+}

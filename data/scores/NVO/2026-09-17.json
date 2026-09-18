@@ -1,0 +1,284 @@
+{
+  "ticker": "NVO",
+  "company": "Novo Nordisk A/S",
+  "sector": "Healthcare",
+  "as_of": "2026-09-17T12:12:41+00:00",
+  "source_snapshot": "data\\raw\\NVO\\2026-09-17.json",
+  "composite_score": 67.0,
+  "grade": "B  decent but with a real weak pillar",
+  "pillar_weight_coverage": 1.0,
+  "pillars": {
+    "growth": {
+      "score": 52.9,
+      "coverage": 1.0,
+      "weight": 0.3,
+      "metrics": {
+        "revenue_cagr": {
+          "value": 0.204285,
+          "score": 80.4,
+          "weight": 0.35
+        },
+        "revenue_growth_ttm": {
+          "value": 0.021,
+          "score": 28.4,
+          "weight": 0.3
+        },
+        "net_income_cagr": {
+          "value": 0.226456,
+          "score": 76.8,
+          "weight": 0.2
+        },
+        "forward_eps_growth": {
+          "value": -0.152522,
+          "score": 5.9,
+          "weight": 0.15
+        }
+      }
+    },
+    "quality": {
+      "score": 86.5,
+      "coverage": 1.0,
+      "weight": 0.25,
+      "metrics": {
+        "roic_est": {
+          "value": 0.318708,
+          "score": 90.2,
+          "weight": 0.3
+        },
+        "operating_margin_latest": {
+          "value": 0.413047,
+          "score": 92.8,
+          "weight": 0.25
+        },
+        "gross_margin_latest": {
+          "value": 0.809787,
+          "score": 97.9,
+          "weight": 0.2
+        },
+        "operating_margin_trend": {
+          "value": -0.002884,
+          "score": 44.2,
+          "weight": 0.15
+        },
+        "roe": {
+          "value": 0.59815,
+          "score": 100.0,
+          "weight": 0.1
+        }
+      }
+    },
+    "cash": {
+      "score": 42.0,
+      "coverage": 1.0,
+      "weight": 0.15,
+      "metrics": {
+        "fcf_margin_latest": {
+          "value": 0.093796,
+          "score": 48.9,
+          "weight": 0.45
+        },
+        "fcf_cagr": {
+          "value": -0.232553,
+          "score": 0.0,
+          "weight": 0.35
+        },
+        "fcf_yield": {
+          "value": 0.157318,
+          "score": 100.0,
+          "weight": 0.2
+        }
+      }
+    },
+    "balance_sheet": {
+      "score": 62.4,
+      "coverage": 1.0,
+      "weight": 0.15,
+      "metrics": {
+        "net_debt_to_ebitda": {
+          "value": 0.69603,
+          "score": 82.3,
+          "weight": 0.45
+        },
+        "debt_to_equity": {
+          "value": 63.327,
+          "score": 64.7,
+          "weight": 0.3
+        },
+        "current_ratio": {
+          "value": 0.873,
+          "score": 23.9,
+          "weight": 0.25
+        }
+      }
+    },
+    "valuation": {
+      "score": 92.6,
+      "coverage": 0.7,
+      "weight": 0.15,
+      "metrics": {
+        "forward_pe": {
+          "value": 12.334992,
+          "score": 83.1,
+          "weight": 0.3
+        },
+        "peg_est": {
+          "value": null,
+          "score": null,
+          "weight": 0.3
+        },
+        "ev_to_ebitda": {
+          "value": 1.611,
+          "score": 100.0,
+          "weight": 0.2
+        },
+        "price_to_sales": {
+          "value": 0.559357,
+          "score": 99.3,
+          "weight": 0.2
+        }
+      }
+    }
+  },
+  "projection_5y": {
+    "bear": {
+      "scenario": "bear",
+      "assumptions": {
+        "start_growth": 0.023,
+        "terminal_growth": 0.04,
+        "start_net_margin": 0.3314,
+        "end_net_margin": 0.2432,
+        "exit_pe": 8.7,
+        "current_sales_multiple": 3.465,
+        "sales_multiple_basis": "trailing_pe x net_margin",
+        "years": 5
+      },
+      "revenue_path": [
+        {
+          "year": 1,
+          "growth": 0.0264,
+          "revenue_index": 1.026
+        },
+        {
+          "year": 2,
+          "growth": 0.0298,
+          "revenue_index": 1.057
+        },
+        {
+          "year": 3,
+          "growth": 0.0332,
+          "revenue_index": 1.092
+        },
+        {
+          "year": 4,
+          "growth": 0.0366,
+          "revenue_index": 1.132
+        },
+        {
+          "year": 5,
+          "growth": 0.04,
+          "revenue_index": 1.177
+        }
+      ],
+      "revenue_index_end": 1.177,
+      "exit_sales_multiple": 2.115,
+      "implied_market_cap": 132428383234.0,
+      "current_market_cap": 184269553664,
+      "total_return": -0.2813,
+      "annualized_return": -0.0639
+    },
+    "base": {
+      "scenario": "base",
+      "assumptions": {
+        "start_growth": 0.0418,
+        "terminal_growth": 0.04,
+        "start_net_margin": 0.3314,
+        "end_net_margin": 0.3242,
+        "exit_pe": 12.6,
+        "current_sales_multiple": 3.465,
+        "sales_multiple_basis": "trailing_pe x net_margin",
+        "years": 5
+      },
+      "revenue_path": [
+        {
+          "year": 1,
+          "growth": 0.0414,
+          "revenue_index": 1.041
+        },
+        {
+          "year": 2,
+          "growth": 0.0411,
+          "revenue_index": 1.084
+        },
+        {
+          "year": 3,
+          "growth": 0.0407,
+          "revenue_index": 1.128
+        },
+        {
+          "year": 4,
+          "growth": 0.0404,
+          "revenue_index": 1.174
+        },
+        {
+          "year": 5,
+          "growth": 0.04,
+          "revenue_index": 1.221
+        }
+      ],
+      "revenue_index_end": 1.221,
+      "exit_sales_multiple": 4.071,
+      "implied_market_cap": 264291317086.0,
+      "current_market_cap": 184269553664,
+      "total_return": 0.4343,
+      "annualized_return": 0.0748
+    },
+    "bull": {
+      "scenario": "bull",
+      "assumptions": {
+        "start_growth": 0.0543,
+        "terminal_growth": 0.04,
+        "start_net_margin": 0.3314,
+        "end_net_margin": 0.3729,
+        "exit_pe": 15.8,
+        "current_sales_multiple": 3.465,
+        "sales_multiple_basis": "trailing_pe x net_margin",
+        "years": 5
+      },
+      "revenue_path": [
+        {
+          "year": 1,
+          "growth": 0.0514,
+          "revenue_index": 1.051
+        },
+        {
+          "year": 2,
+          "growth": 0.0486,
+          "revenue_index": 1.103
+        },
+        {
+          "year": 3,
+          "growth": 0.0457,
+          "revenue_index": 1.153
+        },
+        {
+          "year": 4,
+          "growth": 0.0429,
+          "revenue_index": 1.202
+        },
+        {
+          "year": 5,
+          "growth": 0.04,
+          "revenue_index": 1.25
+        }
+      ],
+      "revenue_index_end": 1.25,
+      "exit_sales_multiple": 5.892,
+      "implied_market_cap": 391812173917.0,
+      "current_market_cap": 184269553664,
+      "total_return": 1.1263,
+      "annualized_return": 0.1629
+    }
+  },
+  "flags": [],
+  "disclaimer": "Rules-based scorecard over public financial data. Not investment advice and not a price forecast. Assumptions are listed with every projection."
+}
