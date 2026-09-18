@@ -1,0 +1,91 @@
+# The investable universe this system tracks.
+#
+# watchlist: every ticker the agents refresh by default.
+# groups:    named baskets you can pass to any tool in place of a ticker list,
+#            e.g. `uv run python tools/fetch_fundamentals.py ai_infra`
+#
+# Ticker format is whatever Yahoo Finance uses: plain symbols for US listings,
+# a suffix for other exchanges (7203.T Tokyo, ASML.AS Amsterdam, 0700.HK Hong
+# Kong, NESN.SW Zurich, RELIANCE.NS India, 005930.KS Korea).
+#
+# This list is a starting point for research, not a recommendation. Edit freely.
+
+watchlist:
+  # --- AI and semiconductor infrastructure ---
+  - NVDA        # NVIDIA, accelerated computing
+  - AMD         # Advanced Micro Devices
+  - AVGO        # Broadcom, custom silicon and networking
+  - TSM         # TSMC, foundry
+  - ASML        # ASML, EUV lithography monopoly
+  - AMAT        # Applied Materials, wafer fab equipment
+  - MU          # Micron, memory and HBM
+  - ARM         # Arm Holdings, CPU architecture licensing
+
+  # --- Platform and software compounders ---
+  - MSFT        # Microsoft, cloud and enterprise AI
+  - GOOGL       # Alphabet, search, cloud, and models
+  - AMZN        # Amazon, AWS and retail
+  - META        # Meta Platforms
+  - CRM         # Salesforce
+  - NOW         # ServiceNow
+  - SNOW        # Snowflake
+
+  # --- Healthcare and biotech ---
+  - LLY         # Eli Lilly, metabolic drugs
+  - NVO         # Novo Nordisk, metabolic drugs
+  - UNH         # UnitedHealth
+  - ISRG        # Intuitive Surgical
+  - VRTX        # Vertex Pharmaceuticals
+
+  # --- Energy transition and industrials ---
+  - TSLA        # Tesla
+  - ENPH        # Enphase Energy
+  - CAT         # Caterpillar
+  - ETN         # Eaton, electrification
+  - VRT         # Vertiv, data centre power and cooling
+
+  # --- Financials and payments ---
+  - V           # Visa
+  - MA          # Mastercard
+  - JPM         # JPMorgan Chase
+  - BRK-B       # Berkshire Hathaway
+
+  # --- Consumer ---
+  - COST        # Costco
+  - LVMUY       # LVMH (US ADR)
+
+  # --- Asia and Europe ex-US ---
+  - 0700.HK     # Tencent
+  - 9988.HK     # Alibaba
+  - 005930.KS   # Samsung Electronics
+  - 7203.T      # Toyota Motor
+  - SAP         # SAP SE
+  - NESN.SW     # Nestle
+
+groups:
+  ai_infra: [NVDA, AMD, AVGO, TSM, ASML, AMAT, MU, ARM]
+  ai_power: [ETN, VRT, CAT, ENPH]
+  platforms: [MSFT, GOOGL, AMZN, META]
+  software: [CRM, NOW, SNOW]
+  healthcare: [LLY, NVO, UNH, ISRG, VRTX]
+  financials: [V, MA, JPM, BRK-B]
+  consumer: [COST, LVMUY, NESN.SW]
+  asia: ["0700.HK", "9988.HK", "005930.KS", "7203.T", TSM]
+  europe: [ASML, SAP, "NESN.SW", NVO, LVMUY]
+  mega_cap: [NVDA, MSFT, GOOGL, AMZN, META, AVGO, LLY, BRK-B]
+
+# Benchmarks the report compares every name against.
+benchmarks:
+  - SPY         # S&P 500
+  - QQQ         # Nasdaq 100
+  - ACWX        # All-country world ex-US
+
+# Macro themes the news sub-agent sweeps on every run.
+macro_themes:
+  - Federal Reserve rate path
+  - US and EU inflation
+  - semiconductor export controls
+  - AI capital expenditure cycle
+  - tariffs and trade policy
+  - energy prices and grid capacity
+  - China growth and property

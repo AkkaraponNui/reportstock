@@ -1,0 +1,23 @@
+# Settings that apply when the app is served, locally or hosted.
+# Secrets never go here. Put them in the host's secrets panel, or in
+# .streamlit/secrets.toml locally, which .gitignore excludes.
+
+[server]
+headless = true
+# Hosts set the port themselves; this is only the local default.
+port = 8501
+# Uploads are not part of this app, so keep the limit small.
+maxUploadSize = 5
+# Reruns on file change are useful locally and wasteful on a host.
+fileWatcherType = "auto"
+
+[browser]
+gatherUsageStats = false
+
+[theme]
+base = "light"
+primaryColor = "#2563eb"
+
+[client]
+# A stack trace in a public deployment leaks paths and internals.
+showErrorDetails = "stacktrace"

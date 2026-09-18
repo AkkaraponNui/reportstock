@@ -1,0 +1,23 @@
+[project]
+name = "reportstock"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "anthropic>=1.6.0",
+    "feedparser>=6.0.14",
+    "lxml>=6.1.3",
+    "numpy>=2.4.6",
+    "pandas>=3.0.5",
+    "plotly>=7.1.0",
+    "pyyaml>=6.0.3",
+    "requests>=2.34.2",
+    "streamlit>=1.64.0",
+    "yfinance>=1.7.0",
+]
+
+[dependency-groups]
+dev = [
+    "pytest>=9.1.1",
+]

@@ -1,0 +1,9 @@
+{
+  "venvPath": ".",
+  "venv": ".venv",
+  "extraPaths": ["tools", "ui"],
+  "include": ["tools", "ui", "app.py"],
+  "exclude": ["**/__pycache__", ".venv", "data"],
+  "typeCheckingMode": "basic",
+  "reportMissingImports": "warning"
+}

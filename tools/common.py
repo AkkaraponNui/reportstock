@@ -1,0 +1,235 @@
+"""Shared helpers for the reportstock data tools."""
+from __future__ import annotations
+
+import json
+import math
+import os
+import re
+import sys
+from datetime import datetime, timezone
+from pathlib import Path
+
+ROOT = Path(__file__).resolve().parent.parent
+DATA = ROOT / "data"
+RAW = DATA / "raw"
+NEWS = DATA / "news"
+FILINGS = DATA / "filings"
+SCORES = DATA / "scores"
+REPORTS = DATA / "reports"
+CONFIG = ROOT / "config"
+
+for _d in (RAW, NEWS, FILINGS, SCORES, REPORTS, CONFIG):
+    _d.mkdir(parents=True, exist_ok=True)
+
+UA = os.environ.get(
+    "REPORTSTOCK_UA",
+    "reportstock/0.1 (research; contact: set REPORTSTOCK_UA env var)",
+)
+
+
+def utc_now() -> str:
+    return datetime.now(timezone.utc).isoformat(timespec="seconds")
+
+
+def today() -> str:
+    return datetime.now(timezone.utc).strftime("%Y-%m-%d")
+
+
+def slug(s: str) -> str:
+    return re.sub(r"[^A-Za-z0-9._-]+", "_", str(s)).strip("_") or "unknown"
+
+
+def clean(x):
+    """Make a value JSON-safe: NaN/inf -> None, numpy -> python."""
+    if x is None:
+        return None
+    if isinstance(x, (str, bool)):
+        return x
+    if isinstance(x, dict):
+        return {str(k): clean(v) for k, v in x.items()}
+    if isinstance(x, (list, tuple)):
+        return [clean(v) for v in x]
+    try:
+        if hasattr(x, "item") and not isinstance(x, (int, float)):
+            x = x.item()
+    except Exception:
+        return str(x)
+    if isinstance(x, float):
+        if math.isnan(x) or math.isinf(x):
+            return None
+        return round(x, 6)
+    if isinstance(x, int):
+        return x
+    try:
+        import datetime as _dt
+        if isinstance(x, (_dt.date, _dt.datetime)):
+            return x.isoformat()
+    except Exception:
+        pass
+    return str(x)
+
+
+def write_json(path: Path, payload: dict) -> Path:
+    path.parent.mkdir(parents=True, exist_ok=True)
+    path.write_text(
+        json.dumps(clean(payload), ensure_ascii=False, indent=2), encoding="utf-8"
+    )
+    return path
+
+
+def read_json(path: Path):
+    p = Path(path)
+    if not p.exists():
+        return None
+    return json.loads(p.read_text(encoding="utf-8"))
+
+
+def latest_snapshot(directory: Path, pattern: str = "*.json"):
+    """Newest JSON file in a directory, by filename (files are date-stamped)."""
+    d = Path(directory)
+    if not d.exists():
+        return None
+    files = sorted(d.glob(pattern))
+    return files[-1] if files else None
+
+
+def cagr(first: float | None, last: float | None, years: float) -> float | None:
+    """Compound annual growth rate. None when undefined (needs positive endpoints)."""
+    if first is None or last is None or years <= 0:
+        return None
+    try:
+        first, last = float(first), float(last)
+    except (TypeError, ValueError):
+        return None
+    if first <= 0 or last <= 0:
+        return None
+    return (last / first) ** (1.0 / years) - 1.0
+
+
+def pct_change(first: float | None, last: float | None) -> float | None:
+    if first in (None, 0) or last is None:
+        return None
+    try:
+        return (float(last) - float(first)) / abs(float(first))
+    except (TypeError, ValueError, ZeroDivisionError):
+        return None
+
+
+def safe_div(a, b):
+    try:
+        a, b = float(a), float(b)
+    except (TypeError, ValueError):
+        return None
+    if b == 0:
+        return None
+    r = a / b
+    return None if (math.isnan(r) or math.isinf(r)) else r
+
+
+def slope_per_year(values: list[float | None]) -> float | None:
+    """Least-squares slope of a series ordered oldest -> newest, per step."""
+    pts = [(i, float(v)) for i, v in enumerate(values) if v is not None]
+    if len(pts) < 2:
+        return None
+    n = len(pts)
+    mx = sum(p[0] for p in pts) / n
+    my = sum(p[1] for p in pts) / n
+    num = sum((p[0] - mx) * (p[1] - my) for p in pts)
+    den = sum((p[0] - mx) ** 2 for p in pts)
+    return safe_div(num, den)
+
+
+def with_retry(fn, attempts=4, base_delay=1.5, label="request", quiet=False):
+    """Call fn(), retrying on transient failures with exponential backoff.
+
+    Rate limits and brief network faults are the normal failure mode when this
+    runs against a free data source, and without a retry a single 429 drops a
+    ticker silently, which is worse than being slow. Only transient errors are
+    retried: a 404 means the symbol does not exist and trying again cannot help.
+
+    Raises the last exception when every attempt fails, so the caller still sees
+    a real failure rather than a None that looks like missing data.
+    """
+    import random
+    import time
+
+    transient_markers = ("429", "timeout", "timed out", "connection", "temporarily",
+                         "too many requests", "502", "503", "504", "reset")
+    last = None
+
+    for attempt in range(attempts):
+        try:
+            return fn()
+        except Exception as e:  # noqa: BLE001 - the caller decides what is fatal
+            last = e
+            text = "{} {}".format(type(e).__name__, e).lower()
+            status = getattr(getattr(e, "response", None), "status_code", None)
+
+            retryable = (
+                status in (408, 425, 429, 500, 502, 503, 504)
+                or any(m in text for m in transient_markers)
+            )
+            if not retryable or attempt == attempts - 1:
+                raise
+
+            # Honour Retry-After when the server sends one, else back off with
+            # jitter so parallel callers do not retry in lockstep.
+            delay = base_delay * (2 ** attempt) + random.uniform(0, 0.5)
+            headers = getattr(getattr(e, "response", None), "headers", None) or {}
+            retry_after = headers.get("retry-after") or headers.get("Retry-After")
+            if retry_after:
+                try:
+                    delay = max(delay, float(retry_after))
+                except (TypeError, ValueError):
+                    pass
+            delay = min(delay, 30.0)
+
+            if not quiet:
+                print(
+                    "  retrying {} in {:.1f}s (attempt {}/{}): {}".format(
+                        label, delay, attempt + 2, attempts, type(e).__name__
+                    ),
+                    file=sys.stderr,
+                )
+            time.sleep(delay)
+
+    if last:
+        raise last
+    raise RuntimeError("with_retry exhausted without an exception")
+
+
+def load_universe() -> dict:
+    """Read config/universe.yaml; tolerate a missing file."""
+    import yaml
+
+    path = CONFIG / "universe.yaml"
+    if not path.exists():
+        return {"watchlist": [], "groups": {}}
+    return yaml.safe_load(path.read_text(encoding="utf-8")) or {}
+
+
+def resolve_tickers(args_tickers: list[str] | None) -> list[str]:
+    """Tickers from CLI args, else every ticker in the universe watchlist.
+
+    A CLI arg may also name a group in universe.yaml (e.g. "ai_infra").
+    """
+    uni = load_universe()
+    groups = uni.get("groups") or {}
+    watch = [t["ticker"] if isinstance(t, dict) else t for t in (uni.get("watchlist") or [])]
+    if not args_tickers:
+        return watch
+    out: list[str] = []
+    for a in args_tickers:
+        if a in groups:
+            out.extend(groups[a])
+        elif a.lower() in ("all", "watchlist"):
+            out.extend(watch)
+        else:
+            out.append(a)
+    seen, uniq = set(), []
+    for t in out:
+        t = t.strip().upper()
+        if t and t not in seen:
+            seen.add(t)
+            uniq.append(t)
+    return uniq
