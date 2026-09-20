@@ -72,9 +72,18 @@ functions and writes the same dated snapshots under `data/`, so anything fetched
 in the browser is immediately visible to the agents and the other way round.
 There is no separate database and no second copy of the logic.
 
-EDGAR requires a contact string: `export REPORTSTOCK_UA="name you@example.com"`.
-Optional keys that add news depth: `FINNHUB_API_KEY`, `ALPHAVANTAGE_API_KEY`.
-Everything works without them.
+Credentials come from `.env` at the repo root, which `tools/common.py` loads at
+import time, so every tool and the app pick it up without an export. A variable
+already set in the shell wins over the file (`override=False`), so a deployed
+host's injected secrets are never shadowed by a stale `.env`. `.env` is
+gitignored; `.env.example` is the template.
+
+EDGAR requires a real contact string in `REPORTSTOCK_UA`, and it throttles
+anonymous traffic rather than refusing it, so the failure looks like a company
+that never filed. `common.ua_is_configured()` detects every placeholder form;
+the older check looked only for "example.com" and so never fired on the default
+value. Optional keys that add news depth: `FINNHUB_API_KEY`,
+`ALPHAVANTAGE_API_KEY`. Everything works without them.
 
 ## Deployment
 
@@ -223,8 +232,23 @@ report it as an expected return.
 Yahoo Finance is delayed and revises. Adequate for structural comparison over
 years, not for anything time-sensitive.
 
-Non-US tickers (`7203.T`, `0700.HK`, `NESN.SW`, `005930.KS`) have no SEC filings,
-so risk-factor evidence is uneven across a mixed universe.
+Home listings outside the US (`7203.T`, `0700.HK`, `NESN.SW`, `005930.KS`) have
+no SEC presence at all. A foreign company with a US listing does file, but on
+Form 20-F, which puts risk factors in Item 3.D rather than Item 1A and ends the
+section at Item 4; `fetch_filings.py` reads both layouts and picks by form. Some
+20-F filers incorporate their risk factors by reference instead of printing
+them, which comes back flagged as `incorporated_by_reference` rather than as a
+missing section, and an integrated annual report with no Item structure at all
+(ASML) still cannot be parsed. Risk-factor evidence is therefore uneven across a
+mixed universe, but far less so than the ticker suffix suggests.
+
+The extractor's failure mode is picking the wrong span, not crashing: a filing
+names its risk factors in the contents, in running page headers and in
+cross-references as well as at the real heading. Only spans with a real
+next-section boundary and a plausible length qualify, and the longest wins. Keep
+that structure if you touch it, and keep `_strip_html` splitting block from
+inline tags - collapsing an inline tag to a space turns "RISK FACTORS" into
+"RIS K FACTORS" and every pattern downstream silently stops matching.
 
 `roic_est` uses a flat 21% tax haircut, not a real effective rate. It ranks; it
 does not measure.

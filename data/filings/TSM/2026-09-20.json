@@ -1,0 +1,230 @@
+{
+  "company": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
+  "sic_description": "Semiconductors & Related Devices",
+  "fiscal_year_end": "1231",
+  "exchanges": [
+    "NYSE",
+    "OTC"
+  ],
+  "filings": [
+    {
+      "form": "6-K",
+      "filed": "2026-09-10",
+      "period": "2026-08-31",
+      "accession": "0001046179-26-000658",
+      "description": "6-K",
+      "url": "https://www.sec.gov/Archives/edgar/data/1046179/000104617926000658/tsm-revenue20260910.htm"
+    },
+    {
+      "form": "6-K",
+      "filed": "2026-09-01",
+      "period": "2026-09-01",
+      "accession": "0001046179-26-000552",
+      "description": "6-K",
+      "url": "https://www.sec.gov/Archives/edgar/data/1046179/000104617926000552/tsm-dividendadjustmentx202.htm"
+    },
+    {
+      "form": "6-K",
+      "filed": "2026-08-25",
+      "period": "2026-07-31",
+      "accession": "0001046179-26-000545",
+      "description": "6-K",
+      "url": "https://www.sec.gov/Archives/edgar/data/1046179/000104617926000545/tsm-monthend6kx20260825.htm"
+    },
+    {
+      "form": "6-K",
+      "filed": "2026-08-14",
+      "period": "2026-06-30",
+      "accession": "0001046179-26-000541",
+      "description": "6-K",
+      "url": "https://www.sec.gov/Archives/edgar/data/1046179/000104617926000541/tsm-fsx20260814x6k.htm"
+    },
+    {
+      "form": "6-K",
+      "filed": "2026-08-11",
+      "period": "2026-08-11",
+      "accession": "0001046179-26-000539",
+      "description": "6-K",
+      "url": "https://www.sec.gov/Archives/edgar/data/1046179/000104617926000539/sonysemiconductorsolutions.htm"
+    },
+    {
+      "form": "6-K",
+      "filed": "2026-08-11",
+      "period": "2026-08-11",
+      "accession": "0001046179-26-000536",
+      "description": "6-K",
+      "url": "https://www.sec.gov/Archives/edgar/data/1046179/000104617926000536/tsm-boardx20260811.htm"
+    },
+    {
+      "form": "6-K",
+      "filed": "2026-08-10",
+      "period": "2026-07-31",
+      "accession": "0001046179-26-000471",
+      "description": "6-K",
+      "url": "https://www.sec.gov/Archives/edgar/data/1046179/000104617926000471/tsm-revenue20260810.htm"
+    },
+    {
+      "form": "6-K",
+      "filed": "2026-07-24",
+      "period": "2026-06-30",
+      "accession": "0001046179-26-000459",
+      "description": "6-K",
+      "url": "https://www.sec.gov/Archives/edgar/data/1046179/000104617926000459/tsm-monthend6kx20260724.htm"
+    },
+    {
+      "form": "6-K",
+      "filed": "2026-07-16",
+      "period": "2026-06-30",
+      "accession": "0001046179-26-000451",
+      "description": "6-K",
+      "url": "https://www.sec.gov/Archives/edgar/data/1046179/000104617926000451/tsm-20260716x6k.htm"
+    },
+    {
+      "form": "6-K",
+      "filed": "2026-07-13",
+      "period": "2026-06-30",
+      "accession": "0001046179-26-000447",
+      "description": "6-K",
+      "url": "https://www.sec.gov/Archives/edgar/data/1046179/000104617926000447/tsm-revenue20260713.htm"
+    },
+    {
+      "form": "6-K",
+      "filed": "2026-07-02",
+      "period": "2026-07-02",
+      "accession": "0001046179-26-000381",
+      "description": "6-K",
+      "url": "https://www.sec.gov/Archives/edgar/data/1046179/000104617926000381/a20260702changeofaztreasur.htm"
+    },
+    {
+      "form": "6-K",
+      "filed": "2026-06-25",
+      "period": "2026-05-31",
+      "accession": "0001046179-26-000377",
+      "description": "6-K",
+      "url": "https://www.sec.gov/Archives/edgar/data/1046179/000104617926000377/tsm-monthend6kx20260625.htm"
+    },
+    {
+      "form": "6-K",
+      "filed": "2026-06-10",
+      "period": "2026-05-31",
+      "accession": "0001046179-26-000367",
+      "description": "6-K",
+      "url": "https://www.sec.gov/Archives/edgar/data/1046179/000104617926000367/tsm-revenue20260610.htm"
+    },
+    {
+      "form": "6-K",
+      "filed": "2026-06-04",
+      "period": "2026-06-04",
+      "accession": "0001046179-26-000302",
+      "description": "6-K",
+      "url": "https://www.sec.gov/Archives/edgar/data/1046179/000104617926000302/tsm-agmx20260604x6k.htm"
+    },
+    {
+      "form": "6-K",
+      "filed": "2026-05-27",
+      "period": "2026-05-27",
+      "accession": "0001046179-26-000294",
+      "description": "6-K",
+      "url": "https://www.sec.gov/Archives/edgar/data/1046179/000104617926000294/tsm-dividendadjustmentx202.htm"
+    },
+    {
+      "form": "6-K",
+      "filed": "2026-05-26",
+      "period": "2026-04-30",
+      "accession": "0001046179-26-000292",
+      "description": "6-K",
+      "url": "https://www.sec.gov/Archives/edgar/data/1046179/000104617926000292/tsm-monthend6kx20260526.htm"
+    },
+    {
+      "form": "6-K",
+      "filed": "2026-05-15",
+      "period": "2026-05-15",
+      "accession": "0001046179-26-000280",
+      "description": "6-K",
+      "url": "https://www.sec.gov/Archives/edgar/data/1046179/000104617926000280/tsmctosell81ofvanguardinte.htm"
+    },
+    {
+      "form": "6-K",
+      "filed": "2026-05-15",
+      "period": "2026-03-31",
+      "accession": "0001046179-26-000278",
+      "description": "6-K",
+      "url": "https://www.sec.gov/Archives/edgar/data/1046179/000104617926000278/tsm-fsx20260515x6k.htm"
+    },
+    {
+      "form": "6-K",
+      "filed": "2026-05-12",
+      "period": "2026-05-12",
+      "accession": "0001046179-26-000275",
+      "description": "6-K",
+      "url": "https://www.sec.gov/Archives/edgar/data/1046179/000104617926000275/a20260512boardofdirectorsr.htm"
+    },
+    {
+      "form": "6-K",
+      "filed": "2026-05-12",
+      "period": "2026-05-12",
+      "accession": "0001046179-26-000274",
+      "description": "6-K",
+      "url": "https://www.sec.gov/Archives/edgar/data/1046179/000104617926000274/tsm-boardx20260512.htm"
+    },
+    {
+      "form": "6-K",
+      "filed": "2026-05-08",
+      "period": "2026-05-08",
+      "accession": "0001046179-26-000215",
+      "description": "6-K",
+      "url": "https://www.sec.gov/Archives/edgar/data/1046179/000104617926000215/sonysemiconductorsolutions.htm"
+    },
+    {
+      "form": "6-K",
+      "filed": "2026-05-08",
+      "period": "2026-04-30",
+      "accession": "0001046179-26-000213",
+      "description": "6-K",
+      "url": "https://www.sec.gov/Archives/edgar/data/1046179/000104617926000213/tsm-revenue20260508.htm"
+    },
+    {
+      "form": "6-K",
+      "filed": "2026-04-24",
+      "period": "2026-03-31",
+      "accession": "0001046179-26-000205",
+      "description": "6-K",
+      "url": "https://www.sec.gov/Archives/edgar/data/1046179/000104617926000205/tsm-monthend6kx20260424.htm"
+    },
+    {
+      "form": "6-K",
+      "filed": "2026-04-17",
+      "period": "2026-04-17",
+      "accession": "0001046179-26-000203",
+      "description": "6-K",
+      "url": "https://www.sec.gov/Archives/edgar/data/1046179/000104617926000203/tsm-boardx20260417x6k.htm"
+    },
+    {
+      "form": "6-K",
+      "filed": "2026-04-16",
+      "period": "2025-12-31",
+      "accession": "0001046179-26-000201",
+      "description": "6-K",
+      "url": "https://www.sec.gov/Archives/edgar/data/1046179/000104617926000201/tsm_20260416.htm"
+    }
+  ],
+  "ticker": "TSM",
+  "cik": "0001046179",
+  "as_of": "2026-09-20T08:24:57+00:00",
+  "source": "sec_edgar",
+  "risk_factors": {
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1046179/000162828026025362/tsm-20251231.htm",
+    "chars": 23564,
+    "truncated": false,
+    "text": "We wish to caution readers that the following important factors, and those important factors described in other \nreports submitted to, or filed with, the U.S. Securities and Exchange Commission (“U.S. SEC”), among other factors, could \naffect our actual results and could cause our actual results to differ materially from those expressed in any forward-looking \nstatements made by us or on our behalf, and that such factors may adversely affect our business and financial status and \ntherefore the value of your investment. \nRisks Relating to Our Business \nAny global systemic political, economic and financial crisis (as well as the indirect effects flowing therefrom) could \nnegatively affect our business, results of operations, and financial condition. \nIn recent times, several major systemic political, economic and financial crises negatively affected global business, \nbanking and financial sectors, including the semiconductor industry and markets. \nSince 2018, political and trade tensions among a number of the world’s major economies have been on the rise. \nThese tensions have resulted or may result in the implementation of tariffs, non-tariff trade barriers, sanctions, export \ncontrols and other measures that have been particularly impactful to the semiconductor industry and related markets. \nProlonged or increased use of such measures may negatively impact the growth of the global economy and the \nsemiconductor industry, resulting in declines in electronic products sales from which we generate our income through our \nproducts and services. For example, in April 2025, the U.S. President announced a 10% baseline tariff on imports into the \nU.S. from all countries, as well as varying reciprocal tariffs on most of the U.S.’s trading partners under the International \nEmergency Economic Powers Act (“IEEPA”). Collection of the reciprocal tariffs was delayed until August 2025, and while \nthey excluded semiconductors, semiconductor manufacturing equipment and their respective derivative products \n(collectively “Semiconductor Items”), these tariffs nonetheless affected our cost of operations in the U.S. These tariffs were \ndeclared unlawful by a February 2026 U.S. Supreme Court ruling. While the ruling removes IEEPA as a basis for tariffs, \nits broader impact on the U.S.’s tariff and trade agenda, international trade activities, and the global economy remains \nuncertain. Following the Supreme Court ruling, the U.S. imposed a replacement tariff under Section 122 of the Trade Act \nof 1974 and in March 2026, the U.S. Trade Representative, using authority in Section 301 of the Trade Act of 1974, \ninitiated two investigations relating to alleged manufacturing overcapacity and failures to take action on forced labor, \ntargeting various economies, including Taiwan, which could result in trade actions such as the imposition of additional \ntariffs. Also, in April 2025, the U.S. government initiated a Section 232 investigation related to imports of Semiconductor \nItems, which concluded in December 2025. As a result, the U.S. issues a proclamation imposing a 25% ad valorem tariff on \nthe import of certain advanced computing chips and derivative products meeting specified technical performance \nthresholds, unless such products are imported for designated use in the U.S. The proclamation also signaled the potential \nfor broader tariffs on Semiconductor Items following further trade negotiations, accompanied by a tariff offset program \nintended to incentivize the U.S. domestic manufacturing. Further, in January 2026, the U.S. announced it had reached a \ntrade and investment agreement with Taiwan which would reduce U.S. reciprocal tariff rates on Taiwanese goods to no \nmore than 15%. The agreement also grants preferential Section 232 treatment for Taiwanese semiconductor producers \ninvesting in U.S. manufacturing capacity. However, details regarding the impacts of the U.S. Supreme Court decision \n4 \nstriking down the IEEPA reciprocal tariffs as well as the preferential treatment with respect to Section 232 tariffs, \nincluding any offsets, are still unclear. Any tariffs imposed on imports of semiconductors and products incorporating chips \ninto the U.S. may result in increased costs for purchasing such products, which may, in turn, lead to decreased demand for \nour products and services and adversely affect our business and future growth. Any tariffs imposed on imports of \nsemiconductor manufacturing materials and equipment into the U.S. may result in increased costs for our manufacturing \noperations in the U.S. and reduce our profitability. \nAdditionally, any increase in the use of export control restrictions and sanctions to target certain countries and \nentities, any expansion of the extraterritorial jurisdiction of such measures, or a complete or partial ban on semiconductor \nproducts sales to certain entities could impact not only our ability to continue supplying products to those customers, but \nalso our customers’ demand for our products, and could even lead to changes in semiconductor supply chains. For \nexample, in October 2022 and October 2023, the U.S. adopted additional export controls (the “October Rules”) over \nspecified countries (including China) under the U.S. Export Administration Regulations (“U.S. EAR”) on certain advanced \ncomputing integrated circuits (“ICs”). In January 2025, the U.S. further issued new rules to reinforce controls on exports of \nadvanced computing ICs, pursuant to which we may need to obtain an export license prior to shipping products using 16- \nnanometer or below process to specified destinations unless specific conditions are met. As a result, shipments of certain \nproducts may be delayed or prohibited due to the license requirements and our financial results may be adversely affected. \nThe October Rules also impose license requirements for items subject to the U.S. EAR where the items are destined to a \nsemiconductor fabrication facility in China that fabricates specified advanced node ICs as well as for U.S. persons’ \nactivities supporting such facility or semiconductor manufacturing items. In response, we obtained from the U.S. \nDepartment of Commerce a Validated End-User (the “VEU”) authorization for our fab located in Nanjing, China, which \nallowed our fab in Nanjing to receive exports of eligible items from the U.S. without separate licenses. Although the VEU \nauthorization expired in December 2025, the U.S. Department of Commerce has granted TSMC Nanjing Company Limited \n(“TSMC Nanjing”) an annual export license that allows U.S. export-controlled items to be supplied to TSMC Nanjing, \nwhich ensures uninterrupted fab operations and product deliveries. However, there is no assurance that this annual export \nlicense will not be terminated, or we can timely get the license renewed in the future. \nOn the other hand, measures adopted by an affected country to counteract the impact of another country’s actions or \nregulations could lead to significant legal liability to multinational corporations including our own. For example, in January \n2021, China adopted a blocking statute that, among other matters, entitles Chinese entities incurring damages from a \nmultinational’s compliance with foreign laws to seek civil remedies. As of the date of this annual report, our current results \nof operations have not been materially affected by the expanded export control regulations or the novel rules or measures \nadopted to counteract them. Nevertheless, depending on future developments in global trade tensions and military conflicts, \nsuch regulations, rules, or measures may have an adverse impact on our business and operations, and we may incur \nsignificant legal liability and financial losses as a result. Please see “Our failure to comply with applicable laws and \nregulations material to our operations, such as export control, environmental and climate related laws and regulations, or \nthe inability to timely obtain requisite approvals necessary for the conduct of our business, such as fab land and \nconstruction approvals, could harm our business and operational results or subject us to potential significant legal liability” \nfor a further discussion. \nAny future systemic political, economic or financial crisis or market volatility, including but not limited to interest \nrate and foreign exchange rate fluctuations, inflation or deflation or changes in economic, fiscal and monetary policies in \nmajor economies, could cause revenue or profits for the semiconductor industry as a whole to decline dramatically. If the \neconomic conditions or financial conditions of our customers were to deteriorate, the demand for our products and services \nmay decrease and additional accounting related allowances may be required, which could reduce our revenue and income. \nFor example, the geopolitical instability resulting from military conflicts cause, among others, supply chains disruptions, \ninflation, heightened regulatory uncertainty and volatility in financial markets, which may lead to broader negative impacts \non the global economy. In addition, sufficient external financing may not be available to us on a timely basis, on \ncommercially reasonable terms to us, or at all. If sufficient external financing is not available when we need such financing \nto meet our capital requirements, we may be forced to curtail our expansion, modify plans or delay the deployment of new \nor expanded services until we obtain such financing. In conclusion, any of these events, including any future global \nsystemic crisis or further escalation of trade tensions as described above, could materially and adversely affect our results \nof operations. \n5 \nOur global manufacturing, design and sales activities subject us to risks associated with political, economic, financial, \nmilitary or other conditions or developments in various jurisdictions, including in particular the R.O.C., as well as in \ninternational trade, which could negatively affect our business and financial status and therefore the market value of \nyour investment. \nThe majority of our principal executive officers and our principal production facilities are located in the R.O.C., and \nthe majority of our net revenue is derived from our operations in the R.O.C. In addition, we have operations worldwide and \na significant percentage of our revenue comes from sales to locations outside the R.O.C. Operating in the R.O.C. and \noverseas exposes us to changes in laws, rules, regulations and the enforcements of such laws, rules and regulations in \ncertain key areas that could have a material impact on our operations, such as intellectual property, labor, antitrust, export \ncontrols, import restrictions, and trade barriers or disputes. In addition, deterioration in general political, economic, \nfinancial or social conditions, military conflicts, the risk of outbreak of war or hostilities, terrorism events, security risks, \nsocial unrest, health conditions and possible disruptions in transportation networks in the various jurisdictions in which we \noperate or elsewhere, could have an adverse impact on our business and results of operations as well as the market price \nand the liquidity of our ADSs and common shares. Furthermore, any major change in economic, fiscal and/or trade policies \nin the U.S. from which we derive a substantial portion of our revenue or in another major jurisdiction could severely affect \nour business, financial condition and results of operations. For example, recent political and trade tensions among major \neconomies as well as military conflicts (such as the conflict in Ukraine since early 2022) have resulted in the imposition of \ntrade barriers, such as sanctions and import and export controls, which could increase our manufacturing costs, limit our \naccess to certain supplies, make our pricing less competitive, and limit our ability to offer our products and services in \nsome markets or source key materials and key production equipment, which may have adverse direct or indirect effects on \nour sales. \nAny law or government policy that encourages our customers to relocate their manufacturing capacity or supply \nchain to their own countries or require their respective contractors, subcontractors and relevant agents to do so could also \nimpair our ability to sustain our current level of productivity and manufacturing efficiency. An important aspect of our \nbusiness operation is an ecosystem of interconnected semiconductor fabs, employees and suppliers that provides us with \nsignificant operational synergies, flexibility and efficiencies. For example, we are able to temporarily reassign thousands of \nour engineers and other relevant personnel from one manufacturing site to another to refine specific designs and adapt \nmanufacturing processes in a timely manner. These advantages permit us to operate our manufacturing fabs efficiently and \nresolve any technical or commercial difficulties quickly to maintain our competitive edge. Restrictions on our ability to \ntransfer people among our operations in the R.O.C., the United States, the P.R.C., Japan, and Europe efficiently due to \nchallenges such as regional employment rules and regulations, and immigration or travel restrictions, may impair or reduce \nthese advantages, and we may not be able to sustain our current ability to supply our customers with goods and services at \nthe current level of cost, quality, quantity and delivery schedule to which our customers have been accustomed. \nIn addition, the financial markets have viewed certain past developments in relations between the R.O.C. and the \nP.R.C. as occasions to depress general market prices of the securities of R.O.C. companies, including our own. Also, we \nmay face potential operational risks arising from applicable export controls which impose license requirements on our \nP.R.C. fab’s acquisition of certain manufacturing tools. \nIf we are unable to successfully manage the complexity of our global operations and deal with the challenges and risks \nrelated to our global expansion, our business, financial condition and results of operations could be adversely affected. \nWe have multiple expansion projects that are currently underway, including the design and construction of new fabs \nworldwide. Global expansion has required and will continue to require considerable managerial, financial and other \nresources. We expect to face particular challenges in global expansion and operations, including but not limited to: \n•higher costs associated with the construction of new fabs, establishing supply chains for various materials in \ndifferent locations, sustaining our current level of productivity and manufacturing efficiency provided by our \necosystem, and recruiting and retaining talent; \n•labor shortages, interruptions in the supply chains for various materials, and construction issues, which could \nsubstantially delay the completion of our expansion projects, and could further result in substantial additional \ncosts or failure to meet our capacity expansion plans; \n•disruptions to our operations caused by natural or man-made disasters, including earthquakes, flooding, \ntyphoons, droughts, tsunamis, sandstorms, wildfires, volcanic eruptions, fire, gas/chemical leakage or spill, \n6 \npandemic, cyberattacks, supply chain disruption, geopolitical tensions, labor issues, sabotage, failure of \ncritical facilities and equipment, and disruptions in utilities, such as water, electricity and natural gas, etc.; \n•scarcity of industrial-use land and access to utilities which could limit our future expansion of operations; \n•compliance with applicable foreign laws and regulations, and the risk of penalties if our practices are deemed \nnot to be in compliance; \n•challenges in managing information technology infrastructure in multiple locations and across different \nsystems and risks of our information technology infrastructure succumbing to cyberattacks worldwide; \n•adverse changes relating to government grants or other government incentives, including non-receipt, delay \nand potential clawbacks of government grants; \n•challenges in creating an inclusive workplace in new sites to embrace the cultural differences and managing \nthe operation over large geographic distances and in the context of different employment practices and labor \nlaws and regulations; \n•increased intellectual property infringement assertions and enforcement actions against us; and \n•exposure to different tax jurisdictions and potential adverse tax consequences. \nIf we are unable to overcome the above challenges, our business, financial condition and results of operations could \nbe adversely affected. \nDecreases in demand and average selling prices for products that contain semiconductors may adversely affect demand \nfor our products and may result in a decrease in our revenue and earnings. \nA vast majority of our revenue is derived from customers who use our products in HPC (including AI applications), \nsmartphones, IoT, automotive, and digital consumer electronics. Any deterioration in or a slowdown in the growth of such \nend markets, driven by various factors such as shortages in the supply of certain components, constraints in power supply \nor environmental, social, and governance (“ESG”) concerns, which results in a substantial decrease in the demand for \noverall global semiconductor foundry services, including our products and services, could adversely affect our revenue. \nFurther, semiconductor manufacturing facilities require substantial investment to construct and are largely fixed cost assets \nonce they are in operation. Because we own most of our manufacturing capacities, a significant portion of our operating \ncosts is fixed. In general, these costs do not decline when customer demand or our capacity utilization rates drop, and thus \ndeclines in customer demand, among other factors, may significantly decrease our margins. Conversely, as product demand \nrises and factory utilization increases, the fixed costs are spread over increased output, which can improve our margins. In \naddition, the historical trend of declining average selling prices (“ASP”) of end-use applications places downward pressure \non the prices of the components that go into such applications. Decreases in the ASP of end-use applications may increase \npricing pressure on components produced by us, which, in turn, may negatively impact our revenue, margin and earnings. \nSince we are dependent on the highly cyclical semiconductor and electronics industries, which have experienced \nsignificant and sometimes prolonged periods of downturn and overcapacity, our revenue, margins and earnings may \nfluctuate significantly. \nThe electronics industries and semiconductor market are cyclical and subject to significant and often rapid \nfluctuations in product demand, which could impact our semiconductor foundry business. Variations in customer order \nlevels may result in volatility in our revenue and earnings. From time to time, the electronics and semiconductor industries \nhave experienced significant and occasionally prolonged periods of downturn and overcapacity. Because we are, and will \ncontinue to be, dependent on the demand of electronics and semiconductor companies for our services, periods of downturn \nand overcapacity in the general electronics and semiconductor industries could lead to reduced demand for overall \nsemiconductor foundry services, including our services. If we are not able to take appropriate actions, such as reducing our \ncosts to sufficiently offset declines in demand, our revenue, margins, and earnings will likely suffer during periods of \ndownturn and overcapacity. \n7 \nIf we are unable to remain a technological leader in the semiconductor industry, unable to timely respond to fast- \nchanging semiconductor market dynamics, or unable to maintain our edge in product quality, we may become less \ncompetitive. \nThe semiconductor industry and its technologies are constantly changing. We compete by developing process \ntechnologies using increasingly advanced nodes and manufacturing products with more functions. We also compete by \ndeveloping new derivative technologies. If we do not anticipate these changes in technologies and rapidly develop new and \ninnovative technologies, or our competitors unforeseeably gain sudden access to additional technologies, we may not be \nable to provide services on competitive terms. For example, the global surge in the development of AI has had a significant \nimpact on customer demand for advanced semiconductor chips and the market dynamics in our industry; thus, our ability to \ncontinuously develop relevant technologies, products and services to meet these customer needs and changes in the AI \nindustry will be critical for us to effectively compete in this space. In addition, our customers have accelerated the cadence \nof introducing new products and services to the market. If we are unable to meet these shorter product time-to-market, we \nrisk losing these customers. These factors have also been intensified by the shift of the global technology market to AI- \nrelated products, such as AI smartphones, AI PCs, and AI accelerators, and increasing competition and concentration of \ncustomers (all further discussed among these risk factors). \nThe uncertainty and instability inherent in advanced technologies impose challenges for achieving expected product \nquality and product yield. If we fail to overcome these challenges, it may result in loss of revenue and additional cost, as \nwell as loss of business or customer trust. We also believe that the effective use of AI in our internal operations is \nimportant to our long-term success. As the AI technologies are rapidly evolving, if we are unable to effectively deploy new \nAI technologies in our internal operations, it may hurt our competitive position. \nIf we are unable to overcome the above factors, we may become less competitive and our revenue may decline \nsignificantly. \nIf we are unable to compete effectively in the highly competitive foundry segment of the semiconductor industry, \nincluding through equal access to governmental financial incentives, especially those available to our competitors, we \nmay lose customers and/or our profit margin and earnings may decrease. \nThe competition in the semiconductor foundry segment is fierce. We compete with other foundry service providers, \nas well as a number of integrated device manufacturers. Some of these companies may have access to more advanced or \ndifferent technologies than us. Other companies may have greater financial and other resources than us, such as the \npossibility of receiving direct or indirect government subsidies, economic stimulus funds, or other incentives that may be \nunavailable to us. The governments of the United States, China, Europe, South Korea and Japan provide various incentive \nprograms to promote developments of their domestic semiconductor industries, such as the Creating Helpful Incentives to \nProduce Semiconductors and Science Act of 2022 (the “U.S. CHIPS Act”), which provides financial incentives to \nincentivize the development of U.S. semiconductor industry. In November 2024, TSMC Arizona Corporation (“TSMC \nArizona”) entered into agreements with the U.S. Department of Commerce for the receipt of certain incentives pursuant to \nthe U.S. CHIPS Act, which includes up to US$6.6 billion in total direct funding and up to US$5 billion of proposed loans. \nPlease see “",
+    "candidate_risk_headings": [
+      "Since 2018, political and trade tensions among a number of the world’s major economies have been on the rise.",
+      "P.R.C. fab’s acquisition of certain manufacturing tools.",
+      "AI technologies in our internal operations, it may hurt our competitive position."
+    ],
+    "from_filing": {
+      "form": "20-F",
+      "filed": "2026-04-16"
+    }
+  }
+}

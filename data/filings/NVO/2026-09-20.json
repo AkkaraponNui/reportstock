@@ -1,0 +1,228 @@
+{
+  "company": "NOVO NORDISK A S",
+  "sic_description": "Pharmaceutical Preparations",
+  "fiscal_year_end": "1231",
+  "exchanges": [
+    "NYSE",
+    "OTC"
+  ],
+  "filings": [
+    {
+      "form": "6-K",
+      "filed": "2026-09-17",
+      "period": "2026-09-17",
+      "accession": "0001171843-26-006088",
+      "description": "FORM 6-K",
+      "url": "https://www.sec.gov/Archives/edgar/data/353278/000117184326006088/f6k_091726.htm"
+    },
+    {
+      "form": "6-K",
+      "filed": "2026-09-15",
+      "period": "2026-09-14",
+      "accession": "0001171843-26-006038",
+      "description": "FORM 6-K",
+      "url": "https://www.sec.gov/Archives/edgar/data/353278/000117184326006038/f6k_091426.htm"
+    },
+    {
+      "form": "6-K",
+      "filed": "2026-09-09",
+      "period": "2026-09-07",
+      "accession": "0001171843-26-005925",
+      "description": "FORM 6-K",
+      "url": "https://www.sec.gov/Archives/edgar/data/353278/000117184326005925/f6k_090726.htm"
+    },
+    {
+      "form": "6-K",
+      "filed": "2026-08-31",
+      "period": "2026-08-31",
+      "accession": "0001171843-26-005795",
+      "description": "FORM 6-K",
+      "url": "https://www.sec.gov/Archives/edgar/data/353278/000117184326005795/f6k_083126.htm"
+    },
+    {
+      "form": "6-K",
+      "filed": "2026-08-24",
+      "period": "2026-08-24",
+      "accession": "0001171843-26-005715",
+      "description": "FORM 6-K",
+      "url": "https://www.sec.gov/Archives/edgar/data/353278/000117184326005715/f6k_082426.htm"
+    },
+    {
+      "form": "6-K",
+      "filed": "2026-08-18",
+      "period": "2026-08-17",
+      "accession": "0001171843-26-005599",
+      "description": "FORM 6-K",
+      "url": "https://www.sec.gov/Archives/edgar/data/353278/000117184326005599/f6k_081726.htm"
+    },
+    {
+      "form": "6-K",
+      "filed": "2026-08-10",
+      "period": "2026-08-10",
+      "accession": "0001171843-26-005376",
+      "description": "FORM 6-K",
+      "url": "https://www.sec.gov/Archives/edgar/data/353278/000117184326005376/f6k_081026.htm"
+    },
+    {
+      "form": "6-K",
+      "filed": "2026-08-10",
+      "period": "2026-08-06",
+      "accession": "0001171843-26-005375",
+      "description": "FORM 6-K",
+      "url": "https://www.sec.gov/Archives/edgar/data/353278/000117184326005375/f6k_080626.htm"
+    },
+    {
+      "form": "6-K",
+      "filed": "2026-08-04",
+      "period": "2026-06-30",
+      "accession": "0000353278-26-000023",
+      "description": "6-K",
+      "url": "https://www.sec.gov/Archives/edgar/data/353278/000035327826000023/caq22026.htm"
+    },
+    {
+      "form": "6-K",
+      "filed": "2026-08-04",
+      "period": "2026-08-04",
+      "accession": "0001171843-26-005184",
+      "description": "6-K",
+      "url": "https://www.sec.gov/Archives/edgar/data/353278/000117184326005184/f6k_080426.htm"
+    },
+    {
+      "form": "6-K",
+      "filed": "2026-08-04",
+      "period": "2026-08-04",
+      "accession": "0001171843-26-005172",
+      "description": "FORM 6-K",
+      "url": "https://www.sec.gov/Archives/edgar/data/353278/000117184326005172/f6k_080426.htm"
+    },
+    {
+      "form": "6-K",
+      "filed": "2026-07-31",
+      "period": "2026-07-31",
+      "accession": "0001171843-26-005109",
+      "description": "FORM 6-K",
+      "url": "https://www.sec.gov/Archives/edgar/data/353278/000117184326005109/f6k_073126.htm"
+    },
+    {
+      "form": "6-K",
+      "filed": "2026-07-27",
+      "period": "2026-07-27",
+      "accession": "0001171843-26-004880",
+      "description": "FORM 6-K",
+      "url": "https://www.sec.gov/Archives/edgar/data/353278/000117184326004880/f6k_072726.htm"
+    },
+    {
+      "form": "6-K",
+      "filed": "2026-07-21",
+      "period": "2026-07-20",
+      "accession": "0001171843-26-004788",
+      "description": "FORM 6-K",
+      "url": "https://www.sec.gov/Archives/edgar/data/353278/000117184326004788/f6k_072026.htm"
+    },
+    {
+      "form": "6-K",
+      "filed": "2026-07-13",
+      "period": "2026-07-13",
+      "accession": "0001171843-26-004596",
+      "description": "FORM 6-K",
+      "url": "https://www.sec.gov/Archives/edgar/data/353278/000117184326004596/f6k_071326.htm"
+    },
+    {
+      "form": "6-K",
+      "filed": "2026-07-06",
+      "period": "2026-07-06",
+      "accession": "0001171843-26-004469",
+      "description": "FORM 6-K",
+      "url": "https://www.sec.gov/Archives/edgar/data/353278/000117184326004469/f6k_070626.htm"
+    },
+    {
+      "form": "6-K",
+      "filed": "2026-06-29",
+      "period": "2026-06-29",
+      "accession": "0001171843-26-004353",
+      "description": "FORM 6-K",
+      "url": "https://www.sec.gov/Archives/edgar/data/353278/000117184326004353/f6k_062926.htm"
+    },
+    {
+      "form": "6-K",
+      "filed": "2026-06-24",
+      "period": "2026-06-22",
+      "accession": "0001171843-26-004275",
+      "description": "FORM 6-K",
+      "url": "https://www.sec.gov/Archives/edgar/data/353278/000117184326004275/f6k_062226.htm"
+    },
+    {
+      "form": "6-K",
+      "filed": "2026-06-15",
+      "period": "2026-06-15",
+      "accession": "0001171843-26-004116",
+      "description": "FORM 6-K",
+      "url": "https://www.sec.gov/Archives/edgar/data/353278/000117184326004116/f6k_061526.htm"
+    },
+    {
+      "form": "6-K",
+      "filed": "2026-06-08",
+      "period": "2026-06-08",
+      "accession": "0001171843-26-003963",
+      "description": "FORM 6-K",
+      "url": "https://www.sec.gov/Archives/edgar/data/353278/000117184326003963/f6k_060826.htm"
+    },
+    {
+      "form": "6-K",
+      "filed": "2026-06-01",
+      "period": "2026-06-01",
+      "accession": "0001171843-26-003822",
+      "description": "FORM 6-K",
+      "url": "https://www.sec.gov/Archives/edgar/data/353278/000117184326003822/f6k_060126.htm"
+    },
+    {
+      "form": "6-K",
+      "filed": "2026-05-27",
+      "period": "2026-05-26",
+      "accession": "0001171843-26-003710",
+      "description": "FORM 6-K",
+      "url": "https://www.sec.gov/Archives/edgar/data/353278/000117184326003710/f6k_052626.htm"
+    },
+    {
+      "form": "6-K",
+      "filed": "2026-05-22",
+      "period": "2026-05-22",
+      "accession": "0001171843-26-003645",
+      "description": "FORM 6-K",
+      "url": "https://www.sec.gov/Archives/edgar/data/353278/000117184326003645/f6k_052226.htm"
+    },
+    {
+      "form": "6-K",
+      "filed": "2026-05-22",
+      "period": "2026-05-22",
+      "accession": "0001171843-26-003634",
+      "description": "FORM 6-K",
+      "url": "https://www.sec.gov/Archives/edgar/data/353278/000117184326003634/f6k_052226.htm"
+    },
+    {
+      "form": "6-K",
+      "filed": "2026-05-18",
+      "period": "2026-05-18",
+      "accession": "0001171843-26-003506",
+      "description": "FORM 6-K",
+      "url": "https://www.sec.gov/Archives/edgar/data/353278/000117184326003506/f6k_051826.htm"
+    }
+  ],
+  "ticker": "NVO",
+  "cik": "0000353278",
+  "as_of": "2026-09-20T08:24:59+00:00",
+  "source": "sec_edgar",
+  "risk_factors": {
+    "source_url": "https://www.sec.gov/Archives/edgar/data/353278/000035327826000012/nvo-20251231.htm",
+    "chars": 6714,
+    "truncated": false,
+    "text": "For information on risk factors, reference is made to ‘Risk management’ on pages 41-42 of our Annual Report 2025, excluding the section ‘Mitigating actions’ on page 42. Outlined in greater detail below, we are subject to cybersecurity risks and the risk related to climate change. \nThe potential risk on our business as a result of cybersecurity breaches \nWe rely on our IT systems to protect our intellectual property, business confidential information, and personal data. Therefore, disruption as a result of cybersecurity breaches could negatively impact the Company’s business and operations or financial results. \nIT systems act as the foundation of our operations. They support processes in research & development, manufacturing, sales and supply, and business administration. As we are a global company, the size and complexity of our IT systems are significant, and our IT infrastructure and networks are spread across the geographic regions in which we operate. The dedicated cybersecurity teams who operate our global IT security infrastructure may be unable to respond sufficiently to the threats facing us or may fail to prevent service interruptions or security breaches resulting from attacks by malicious third parties. Many of these cyber threats have the potential to cause significant downtime of critical IT systems or the unintended disclosure of confidential information and personal data. Although we have not previously experienced material losses as a result of such incidents, we cannot guarantee that we will be able to prevent similar incidents from occurring or adversely affecting our business in the future. \nWe are subject to data privacy regulation in the EU (including the General Data Protection Regulation) and to privacy laws in many other jurisdictions where we do business that impose obligations and restrictions on the collection and use of personal data. In the ordinary course of the Company’s business, it collects and stores personal data (including sensitive personal data) of patients, health care professionals, employees and other third parties. \nMany third-party vendors provide support services in relation to our business processes and require access to sensitive information (including personal data) in the course of their work. Such vendors could themselves be susceptible to cybersecurity or personal data breaches. Any unauthorised access, disclosure, or other loss of personal data could result in legal claims or proceedings, liability under laws that protect the privacy of personal information, and significant regulatory penalties, disrupt the Company’s operations and damage the Company’s reputation. \nThe potential risk on our business as a result of failure to meet regulatory or ethical expectations on environmental impact, including climate change \nAt Novo Nordisk, material environmental risks, including material risks related to climate and water are identified and assessed through our enterprise risk management process. For climate, short- and medium-term climate risks are assessed across business areas, while long-term risks are assessed as part of our company-wide strategic risk identification process. The risk assessment includes an annual natural hazards risk rating of production sites, as well as for the majority of our suppliers for whom we have determined the location. Risk ratings are assessed related to parameters like natural events, including flooding, earthquakes, high- \n3 \nNovo Nordisk Form 20-F 2025 \nITEM 3 KEY INFORMATION \nspeed winds, tornados, hailstorms, and lightning. The risk assessment serves to provide input for risk mitigation and consequently prioritise actions to prevent or minimise the impact of supply disruptions on manufacturing. \nNovo Nordisk’s main production facilities are in Denmark and the United States. In Denmark the risk of natural events is assessed lower, whereas our production facilities in North Carolina, United States are exposed to extreme weather conditions such as tornadoes and hurricanes, and our production site in Indiana, United States is exposed to a higher risk of tornadoes and subsequent rainfall and lightening. The Company also has other production facilities in countries that are at greater risk of natural disasters. For example, our production facility in Koriyama, Japan is exposed to a higher risk of earthquakes, and our production facility in Tianjin, China is located in an area prone to storm surges due to rising sea levels. \nClimate related transition risks were evaluated in 2024 using an Integrated Assessment Model (IAM). The IAM captures sector- and region-specific macroeconomic shifts, energy supply, raw materials pricing, labour costs and revenue changes. In 2025, there have been no significant changes to the conclusion from 2024. \nDespite our commitment to identifying and mitigating climate-related risks, and our commitment to climate target-setting, achieving our targets depends in part on the availability of lower carbon technologies and materials that meet our quality standards as part of the general transition to a lower-carbon economy. Novo Nordisk continuously recalibrates priority areas and levers within the climate roadmap. However, many of our scope 3 decarbonisation levers have a delayed effect that will not fully materialise for several years. To reduce scope 3 emissions, Novo Nordisk is focused on our suppliers' transition to renewable electricity. Our actions are focused on the following high-impact categories: \n•Direct spend: Procurement of low-carbon feedstocks for key raw materials, such as e-methanol, low-carbon ammonia and glucose from regenerative agriculture; \n•Indirect spend: Procurement of low-carbon goods and services; \n•Investments: Converting to low-carbon construction materials. \nThe availability of high-quality water is essential for the production of diabetes and biopharmaceutical products, and hence for the company’s operations. We withdraw a substantial amount of water from water stressed regions, defined as regions that do not have enough water to meet the needs of all users and the local environment. Through our enterprise risk management processes, we have identified that there is a risk of future scarcity of water supply impacting our production´s ability to withdraw water. \nFactors that may inhibit our ability to reach these climate targets or water ambitions, or a failure to maximise our environmental sustainability credentials could expose us to increased regulatory risk or reputational risk related to growing emissions. This could result in a material adverse effect on our business, financial condition, results of operations and prospects and lead to reputational damage.",
+    "candidate_risk_headings": [],
+    "incorporated_by_reference": true,
+    "note": "This section points to another document for part of its content, so what is here is incomplete. See the opening sentences for where the rest lives.",
+    "from_filing": {
+      "form": "20-F",
+      "filed": "2026-02-04"
+    }
+  }
+}

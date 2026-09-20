@@ -21,10 +21,53 @@ CONFIG = ROOT / "config"
 for _d in (RAW, NEWS, FILINGS, SCORES, REPORTS, CONFIG):
     _d.mkdir(parents=True, exist_ok=True)
 
+
+def _load_dotenv():
+    """Read `.env` at the project root into the environment, if it is there.
+
+    Every tool and the Streamlit app import this module, so this is the one
+    place that runs before anything reads a credential. Two things matter:
+
+    The path is anchored to ROOT rather than the working directory, because a
+    tool is as likely to be run from the repo root as from `tools/`, and a
+    loader that silently finds nothing is worse than no loader at all.
+
+    A real environment variable always wins over the file (`override=False`).
+    On a deployed host the platform injects its own secrets, and a stale `.env`
+    that shadowed them would be a very quiet way to leak the wrong contact
+    string to EDGAR or bill the wrong API key.
+    """
+    try:
+        from dotenv import load_dotenv
+    except ImportError:
+        # Optional at runtime: the shell can export these instead.
+        return False
+    return load_dotenv(ROOT / ".env", override=False)
+
+
+_load_dotenv()
+
 UA = os.environ.get(
     "REPORTSTOCK_UA",
     "reportstock/0.1 (research; contact: set REPORTSTOCK_UA env var)",
 )
+
+
+def ua_is_configured(ua: str | None = None) -> bool:
+    """Whether REPORTSTOCK_UA carries a real contact, not the placeholder.
+
+    EDGAR throttles anonymous traffic, and the failure shows up as filings that
+    look like they were never made rather than as an error, so the tools check
+    this and say so rather than quietly collecting nothing.
+
+    Takes an argument so it can be tested against every placeholder form; the
+    previous check looked only for "example.com" and therefore never fired on
+    the default value, which does not contain it.
+    """
+    ua = UA if ua is None else ua
+    if not ua or "@" not in ua:
+        return False
+    return "example.com" not in ua and "set REPORTSTOCK_UA" not in ua
 
 
 def utc_now() -> str:
