@@ -208,6 +208,35 @@ def load_universe() -> dict:
     return yaml.safe_load(path.read_text(encoding="utf-8")) or {}
 
 
+def resolve_funds(args_funds: list[str] | None) -> list[str]:
+    """Fund symbols from CLI args, else every fund in the universe.
+
+    An arg may name a group from `fund_groups` (e.g. "core"). Kept separate from
+    resolve_tickers because a fund and a stock are not interchangeable here: the
+    equity scorecard has nothing to say about an ETF.
+    """
+    uni = load_universe()
+    groups = uni.get("fund_groups") or {}
+    listed = [f["ticker"] if isinstance(f, dict) else f for f in (uni.get("funds") or [])]
+    if not args_funds:
+        return listed
+    out: list[str] = []
+    for a in args_funds:
+        if a in groups:
+            out.extend(groups[a])
+        elif a.lower() in ("all", "funds"):
+            out.extend(listed)
+        else:
+            out.append(a)
+    seen, uniq = set(), []
+    for t in out:
+        t = t.strip().upper()
+        if t and t not in seen:
+            seen.add(t)
+            uniq.append(t)
+    return uniq
+
+
 def resolve_tickers(args_tickers: list[str] | None) -> list[str]:
     """Tickers from CLI args, else every ticker in the universe watchlist.
 

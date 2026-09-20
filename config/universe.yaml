@@ -80,6 +80,40 @@ benchmarks:
   - QQQ         # Nasdaq 100
   - ACWX        # All-country world ex-US
 
+# Funds and ETFs. These are NOT scored like the stocks above: a fund has no
+# income statement, so revenue growth, margins and ROIC do not exist for it.
+# tools/fetch_funds.py and tools/score_funds.py handle them on their own terms -
+# cost, risk-adjusted return, concentration, size and yield.
+funds:
+  # --- broad market ---
+  - VOO         # S&P 500, Vanguard
+  - QQQ         # Nasdaq 100
+  - VTI         # entire US market
+  - VXUS        # international developed + emerging, ex-US
+  - VWO         # emerging markets
+
+  # --- style tilts ---
+  - VUG         # US large-cap growth
+  - VTV         # US large-cap value
+  - SCHD        # US dividend quality
+
+  # --- sector and thematic ---
+  - VGT         # US information technology
+  - SMH         # semiconductors
+  - ARKK        # disruptive innovation, actively managed
+
+  # --- diversifiers ---
+  - BND         # US total bond market
+  - GLD         # gold bullion
+
+fund_groups:
+  core: [VOO, VTI, VXUS, BND]
+  index_us: [VOO, QQQ, VTI]
+  international: [VXUS, VWO]
+  style: [VUG, VTV, SCHD]
+  thematic: [VGT, SMH, ARKK]
+  diversifier: [BND, GLD]
+
 # Macro themes the news sub-agent sweeps on every run.
 macro_themes:
   - Federal Reserve rate path

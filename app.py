@@ -28,6 +28,7 @@ st.set_page_config(
 )
 
 import page_chat  # noqa: E402
+import page_funds  # noqa: E402
 import page_macro  # noqa: E402
 import page_predict  # noqa: E402
 import page_ranking  # noqa: E402
@@ -41,6 +42,7 @@ PAGES = {
     "search": ("ค้นหาหุ้น", ":material/search:", page_search.render),
     "report": ("รายงานหุ้นรายตัว", ":material/monitoring:", page_report.render),
     "predict": ("โมเดลพยากรณ์การเติบโต", ":material/insights:", page_predict.render),
+    "funds": ("กองทุนและ ETF", ":material/donut_large:", page_funds.render),
     "ranking": ("จัดอันดับ", ":material/leaderboard:", page_ranking.render),
     "macro": ("ภาพรวมมหภาค", ":material/public:", page_macro.render_macro),
     "reports": ("รายงานที่สร้างไว้", ":material/description:", page_macro.render_reports),

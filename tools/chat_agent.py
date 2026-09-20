@@ -79,6 +79,13 @@ SYSTEM_PROMPT = """คุณคือนักวิเคราะห์หุ�
 price_return_annualized กับ dividend_contribution เวลาเทียบหุ้นโตช้าที่จ่ายปันผลกับหุ้นโตเร็วที่ไม่จ่าย
 ให้พูดถึงทั้งสองส่วน เพราะการดูแต่ส่วนต่างราคาจะเอียงเข้าข้างหุ้นที่ไม่จ่ายเสมอ
 
+กองทุนกับหุ้นเป็นคนละเรื่อง กองทุนไม่มีงบกำไรขาดทุน ห้ามเรียก get_fundamentals กับ ETF
+ให้ใช้ get_fund แทน เกณฑ์ของกองทุนคือค่าธรรมเนียม ผลตอบแทนเทียบความเสี่ยง การกระจายตัว ขนาด และปันผล
+โดยค่าธรรมเนียมถ่วงน้ำหนักสูงกว่าผลตอบแทนย้อนหลังโดยตั้งใจ เพราะเป็นตัวชี้อนาคตที่เชื่อถือได้มากกว่า
+
+เวลาใครถามว่าควรซื้อกองทุนเพิ่มไหม ให้เรียก get_fund_overlap เสมอ การซื้อดัชนีทับหุ้นที่ถืออยู่แล้ว
+เป็นวิธีที่พอร์ตกระจุกตัวโดยดูเหมือนกระจาย ซึ่งเป็นข้อผิดพลาดที่พบบ่อยที่สุดและมองไม่เห็นจากชื่อกองทุน
+
 คะแนนรวมอ่านจากอดีตแล้วสมมติว่ารูปแบบเดิมดำเนินต่อ มันมองไม่เห็นธุรกิจที่กำลังเปลี่ยนรูป
 ซึ่งในช่วงห้าปีมักเป็นสิ่งที่ตัดสินผลจริง คะแนนสูงเป็นเหตุผลให้ไปดูให้ละเอียด ไม่ใช่ข้อสรุป
 ถ้าคุณไม่เห็นด้วยกับคะแนน ให้บอกและอธิบายว่าทำไม นั่นมีประโยชน์กว่าการท่องคะแนนซ้ำ
@@ -275,6 +282,52 @@ TOOLS = [
             "sector has enough members for its medians to mean anything."
         ),
         "input_schema": {"type": "object", "properties": {}, "additionalProperties": False},
+    },
+    {
+        "name": "list_funds",
+        "description": (
+            "Every fund and ETF with data stored locally, with its category, expense "
+            "ratio, composite score, and how much of it overlaps the individual stocks "
+            "tracked here. Call this for any question about funds, index investing, or "
+            "what to hold alongside individual names."
+        ),
+        "input_schema": {"type": "object", "properties": {}, "additionalProperties": False},
+    },
+    {
+        "name": "get_fund",
+        "description": (
+            "Full detail on one fund: cost, measured volatility and worst drawdown, "
+            "returns over several windows, top-ten holdings, sector weights, asset mix, "
+            "and the fund scorecard. A fund has no income statement, so never call "
+            "get_fundamentals on one; the equity metrics do not exist for it. Cost is "
+            "weighted above past return in the score on purpose, because it is the more "
+            "reliable guide to future relative performance."
+        ),
+        "input_schema": {
+            "type": "object",
+            "properties": {"fund": {"type": "string", "description": "ETF symbol, e.g. QQQ"}},
+            "required": ["fund"],
+            "additionalProperties": False,
+        },
+    },
+    {
+        "name": "get_fund_overlap",
+        "description": (
+            "What a fund duplicates. With one fund, it reports how much of that fund "
+            "sits in stocks already tracked here. With two, it reports the positions "
+            "they share. Buying an index on top of the names inside it is the most "
+            "common way a portfolio becomes concentrated while looking diversified, so "
+            "raise this whenever someone asks about adding a fund to existing holdings."
+        ),
+        "input_schema": {
+            "type": "object",
+            "properties": {
+                "fund": {"type": "string"},
+                "other_fund": {"type": "string", "description": "optional second fund"},
+            },
+            "required": ["fund"],
+            "additionalProperties": False,
+        },
     },
     {
         "name": "compare_stocks",
@@ -500,6 +553,67 @@ def _tool_get_sector_medians():
     }
 
 
+def _tool_list_funds():
+    from score_funds import FUNDS as FUND_DIR, score_fund
+
+    if not FUND_DIR.exists():
+        return {"funds": [], "note": "No fund data stored yet."}
+    rows = []
+    for d in sorted(FUND_DIR.iterdir()):
+        if not d.is_dir():
+            continue
+        try:
+            r = score_fund(d.name)
+        except Exception as e:
+            rows.append({"ticker": d.name, "error": str(e)})
+            continue
+        ov = r.get("overlap_with_tracked") or {}
+        rows.append({
+            "ticker": r["ticker"],
+            "name": r.get("name"),
+            "category": r.get("category"),
+            "composite_score": r.get("composite_score"),
+            "expense_ratio": r["metrics"].get("expense_ratio"),
+            "distribution_yield": r["metrics"].get("distribution_yield"),
+            "volatility": r["metrics"].get("volatility_annual"),
+            "max_drawdown": r["metrics"].get("max_drawdown"),
+            "overlap_with_tracked_stocks": ov.get("overlap_weight"),
+            "snapshot_date": r.get("source_snapshot"),
+        })
+    return {"funds": rows, "count": len(rows)}
+
+
+def _tool_get_fund(fund):
+    from common import latest_snapshot as _latest, read_json as _read
+    from score_funds import FUNDS as FUND_DIR, score_fund
+
+    try:
+        scored = score_fund(fund)
+    except FileNotFoundError as e:
+        return {"error": str(e)}
+    snap = _latest(FUND_DIR / fund.upper())
+    raw = (_read(snap) if snap else {}) or {}
+    return {
+        "score": scored,
+        "profile": raw.get("profile"),
+        "costs": raw.get("costs"),
+        "returns": raw.get("returns"),
+        "risk": raw.get("risk"),
+        "composition": raw.get("composition"),
+        "market": raw.get("market"),
+    }
+
+
+def _tool_get_fund_overlap(fund, other_fund=None):
+    from score_funds import overlap_between, overlap_with_tracked
+
+    if other_fund:
+        res = overlap_between(fund, other_fund)
+    else:
+        res = overlap_with_tracked(fund)
+    return res if res.get("ok") else {"error": res.get("reason", "overlap failed")}
+
+
 def _tool_compare_stocks(tickers):
     rows = []
     for tk in tickers or []:
@@ -563,6 +677,9 @@ DISPATCH = {
     "fetch_stock_data": lambda i: _tool_fetch_stock_data(i["ticker"], i.get("news_days", 90)),
     "get_peer_comparison": lambda i: _tool_get_peer_comparison(i["ticker"]),
     "get_sector_medians": lambda i: _tool_get_sector_medians(),
+    "list_funds": lambda i: _tool_list_funds(),
+    "get_fund": lambda i: _tool_get_fund(i["fund"]),
+    "get_fund_overlap": lambda i: _tool_get_fund_overlap(i["fund"], i.get("other_fund")),
     "compare_stocks": lambda i: _tool_compare_stocks(i["tickers"]),
     "read_report": lambda i: _tool_read_report(i.get("filename")),
 }

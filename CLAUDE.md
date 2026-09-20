@@ -39,6 +39,11 @@ uv run python tools/predict.py ai_infra --report-name ai   # one comparison repo
 uv run python tools/predict.py NVDA --no-report       # JSON only
 uv run python tools/predict.py --fit-only             # just the fitted fade curve
 uv run python tools/build_report.py --all --name full-universe
+
+uv run python tools/fetch_funds.py                     # every fund in universe.yaml
+uv run python tools/score_funds.py --rank              # fund league table
+uv run python tools/score_funds.py --overlap QQQ       # vs the stocks tracked here
+uv run python tools/score_funds.py --overlap VOO QQQ   # two funds against each other
 ```
 
 Any tool takes tickers, a group name from `config/universe.yaml`, or nothing at
@@ -114,7 +119,7 @@ because in a panel this small two extreme points drag the regression line and
 inflate R-squared. The trimmed fit is used and the disagreement between the two is
 carried into the slope's standard error. If you re-tune this, keep both fits.
 
-`tools/chat_agent.py` is Claude with eleven read-only tools over the same
+`tools/chat_agent.py` is Claude with fifteen read-only tools over the same
 snapshots plus one with a side effect (`fetch_stock_data`). It uses
 `claude-opus-5` with adaptive thinking and effort in `output_config`. The system
 prompt's first rule is that it must read a file before quoting a number, because
@@ -163,6 +168,38 @@ worth reading is `disagreements` - where a metric scores well absolutely but sit
 at its sector median, meaning the company is riding an industry rather than
 beating one. Report both, and check `reliable` before quoting a percentile: fewer
 than four companies in a group makes the number arithmetic without meaning.
+
+## Funds are not companies
+
+A fund has no income statement, so revenue growth, margins and ROIC do not exist
+for it and four of the five equity pillars have nothing to measure. Never run an
+ETF through `score.py` or quote `get_fundamentals` for one. `tools/fetch_funds.py`
+and `tools/score_funds.py` handle them on their own terms: cost, risk-adjusted
+history, concentration, size and yield.
+
+Cost is weighted above past return on purpose. The expense ratio predicts future
+relative performance more reliably than past performance does, and it is the only
+number known in advance. Say that when the ranking surprises someone.
+
+Yahoo mixes three unit conventions inside one fund payload: `netExpenseRatio` is
+a percentage number, `yield` is a fraction, `ytdReturn` is a percentage number
+while `threeYearAverageReturn` is a fraction, and `fund_operations` reports the
+expense ratio as a fraction again. `fetch_funds.py` normalizes each to a fraction
+and cross-checks the expense ratio between its two sources. Read a raw field and
+you are off by 100x.
+
+The overlap check is the part worth surfacing. Buying an index on top of the names
+inside it is the most common way a portfolio becomes concentrated while looking
+diversified, and nothing in a fund's name reveals it. `overlap_with_tracked`
+compares a fund against the stocks followed here; `overlap_between` compares two
+funds. Both read published top-ten holdings only, so they measure a floor on
+duplication, never the whole picture.
+
+A bond fund and an equity fund are not comparable on risk: 6% volatility is
+unremarkable for bonds and extraordinary for equities. Read `category` before the
+rank, the same way the equity side needs peer context beside its absolute bands.
+Funds with no equity holdings, like BND and GLD, drop the diversification pillar
+and the composite renormalizes over the rest.
 
 ## Conventions that matter
 
