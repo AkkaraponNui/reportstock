@@ -1,0 +1,63 @@
+{
+  "ticker": "GLD",
+  "as_of": "2026-09-20T02:38:27+00:00",
+  "source": "yfinance",
+  "is_fund": true,
+  "quote_type": "ETF",
+  "profile": {
+    "name": "SPDR Gold Shares",
+    "family": "State Street Investment Management",
+    "category": "Commodities Focused",
+    "legal_type": "Exchange Traded Fund",
+    "currency": "USD",
+    "exchange": "PCX",
+    "inception": 1100736000,
+    "description": "The Trust holds gold bars and from time to time, issues Baskets in exchange for deposits of gold and distributes gold in connection with redemptions of Baskets. The investment objective of the Trust is for the Shares to reflect the performance of the price of gold bullion, less the Trust’s expenses. The Sponsor believes that, for many investors, the Shares represent a cost-effective investment in gold."
+  },
+  "market": {
+    "price": 398.36,
+    "nav": 398.68768,
+    "total_assets": 152861196288,
+    "avg_volume": 9121742,
+    "week52_high": 509.7,
+    "week52_low": 341.84
+  },
+  "costs": {
+    "expense_ratio": 0.004,
+    "expense_ratio_basis": "cross-checked, sources agree",
+    "turnover": 0.0,
+    "cost_per_100k_per_year": 400.0
+  },
+  "returns": {
+    "ytd": 0.056381,
+    "three_year_avg": 0.307706,
+    "five_year_avg": 0.196241,
+    "distribution_yield": 0.0,
+    "price_cagr_measured": 0.1956,
+    "total_cagr_estimate": 0.1956
+  },
+  "risk": {
+    "months_observed": 59,
+    "span_years": 4.92,
+    "price_cagr": 0.1956,
+    "volatility_annual": 0.17,
+    "max_drawdown": -0.2385,
+    "worst_month": -0.1168,
+    "best_month": 0.1227,
+    "share_of_negative_months": 0.4237,
+    "note": "Price return only; distributions are reported separately as yield.",
+    "beta_3y": 0.45,
+    "return_per_unit_of_risk": 0.915,
+    "risk_free_assumed": 0.04
+  },
+  "composition": {
+    "concentration": {
+      "available": false
+    },
+    "sector_weights": {},
+    "sector_concentration_hhi": null,
+    "asset_classes": {
+      "otherPosition": 1.0
+    }
+  }
+}

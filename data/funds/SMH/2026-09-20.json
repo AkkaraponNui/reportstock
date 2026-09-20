@@ -1,0 +1,121 @@
+{
+  "ticker": "SMH",
+  "as_of": "2026-09-20T02:38:26+00:00",
+  "source": "yfinance",
+  "is_fund": true,
+  "quote_type": "ETF",
+  "profile": {
+    "name": "VanEck Semiconductor ETF",
+    "family": "VanEck",
+    "category": "Technology",
+    "legal_type": "Exchange Traded Fund",
+    "currency": "USD",
+    "exchange": "NGM",
+    "inception": 1324339200,
+    "description": "The fund normally invests at least 80% of its total assets in securities that comprise the fund's benchmark index. The index includes common stocks and depositary receipts of U.S. exchange-listed companies in the semiconductor industry. Such companies may include medium-capitalization companies and foreign companies that are listed on a U.S. exchange. The fund is non-diversified."
+  },
+  "market": {
+    "price": 560.61,
+    "nav": 572.84,
+    "total_assets": 67787030528,
+    "avg_volume": 9767098,
+    "week52_high": 671.83,
+    "week52_low": 313.6
+  },
+  "costs": {
+    "expense_ratio": 0.0035,
+    "expense_ratio_basis": "cross-checked, sources agree",
+    "turnover": 0.12,
+    "cost_per_100k_per_year": 350.0
+  },
+  "returns": {
+    "ytd": 0.545583,
+    "three_year_avg": 0.579733,
+    "five_year_avg": 0.342345,
+    "distribution_yield": 0.002,
+    "price_cagr_measured": 0.3464,
+    "total_cagr_estimate": 0.3484
+  },
+  "risk": {
+    "months_observed": 59,
+    "span_years": 4.92,
+    "price_cagr": 0.3464,
+    "volatility_annual": 0.3487,
+    "max_drawdown": -0.4005,
+    "worst_month": -0.1759,
+    "best_month": 0.3216,
+    "share_of_negative_months": 0.3559,
+    "note": "Price return only; distributions are reported separately as yield.",
+    "beta_3y": 2.06,
+    "return_per_unit_of_risk": 0.884,
+    "risk_free_assumed": 0.04
+  },
+  "composition": {
+    "concentration": {
+      "available": true,
+      "top_10_weight": 0.7167,
+      "largest_weight": 0.2263,
+      "holdings": [
+        {
+          "symbol": "NVDA",
+          "name": "NVIDIA Corp",
+          "weight": 0.2263
+        },
+        {
+          "symbol": "TSM",
+          "name": "Taiwan Semiconductor Manufacturing Co Ltd ADR",
+          "weight": 0.0965
+        },
+        {
+          "symbol": "AVGO",
+          "name": "Broadcom Inc",
+          "weight": 0.0611
+        },
+        {
+          "symbol": "MU",
+          "name": "Micron Technology Inc",
+          "weight": 0.0545
+        },
+        {
+          "symbol": "AMD",
+          "name": "Advanced Micro Devices Inc",
+          "weight": 0.0536
+        },
+        {
+          "symbol": "ASML",
+          "name": "ASML Holding NV ADR",
+          "weight": 0.051
+        },
+        {
+          "symbol": "LRCX",
+          "name": "Lam Research Corp",
+          "weight": 0.044
+        },
+        {
+          "symbol": "AMAT",
+          "name": "Applied Materials Inc",
+          "weight": 0.0436
+        },
+        {
+          "symbol": "ADI",
+          "name": "Analog Devices Inc",
+          "weight": 0.0432
+        },
+        {
+          "symbol": "TXN",
+          "name": "Texas Instruments Inc",
+          "weight": 0.043
+        }
+      ],
+      "note": "Only the ten largest positions are published, so the true tail is unknown."
+    },
+    "sector_weights": {
+      "technology": 1.0
+    },
+    "sector_concentration_hhi": 1.0,
+    "asset_classes": {
+      "cashPosition": 0.0007,
+      "stockPosition": 0.9993
+    }
+  }
+}

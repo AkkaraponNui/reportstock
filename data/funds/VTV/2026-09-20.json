@@ -1,0 +1,132 @@
+{
+  "ticker": "VTV",
+  "as_of": "2026-09-20T02:38:25+00:00",
+  "source": "yfinance",
+  "is_fund": true,
+  "quote_type": "ETF",
+  "profile": {
+    "name": "Vanguard Morningstar Value ETF",
+    "family": "Vanguard",
+    "category": "Large Value",
+    "legal_type": "Exchange Traded Fund",
+    "currency": "USD",
+    "exchange": "PCX",
+    "inception": 1075075200,
+    "description": "The fund manager employs an indexing investment approach designed to track the target index, a broadly diversified index made up of the value stocks of large U.S. companies, as determined by the index provider. Under normal circumstances, it invests at least 80% of its net assets, plus the amount of any borrowings for investment purposes, in the stocks that make up the target index."
+  },
+  "market": {
+    "price": 221.78,
+    "nav": 221.31,
+    "total_assets": 262299090944,
+    "avg_volume": 2725504,
+    "week52_high": 228.57,
+    "week52_low": 182.81
+  },
+  "costs": {
+    "expense_ratio": 0.0003,
+    "expense_ratio_basis": "cross-checked, sources agree",
+    "turnover": 0.08,
+    "cost_per_100k_per_year": 30.0
+  },
+  "returns": {
+    "ytd": 0.189291,
+    "three_year_avg": 0.18186,
+    "five_year_avg": 0.125578,
+    "distribution_yield": 0.0182,
+    "price_cagr_measured": 0.1188,
+    "total_cagr_estimate": 0.137
+  },
+  "risk": {
+    "months_observed": 59,
+    "span_years": 4.92,
+    "price_cagr": 0.1188,
+    "volatility_annual": 0.1388,
+    "max_drawdown": -0.1534,
+    "worst_month": -0.0789,
+    "best_month": 0.1173,
+    "share_of_negative_months": 0.3729,
+    "note": "Price return only; distributions are reported separately as yield.",
+    "beta_3y": 0.67,
+    "return_per_unit_of_risk": 0.699,
+    "risk_free_assumed": 0.04
+  },
+  "composition": {
+    "concentration": {
+      "available": true,
+      "top_10_weight": 0.2266,
+      "largest_weight": 0.0394,
+      "holdings": [
+        {
+          "symbol": "MU",
+          "name": "Micron Technology Inc",
+          "weight": 0.0394
+        },
+        {
+          "symbol": "JPM",
+          "name": "JPMorgan Chase & Co",
+          "weight": 0.0347
+        },
+        {
+          "symbol": "BRK-B",
+          "name": "Berkshire Hathaway Inc Class B",
+          "weight": 0.0288
+        },
+        {
+          "symbol": "XOM",
+          "name": "ExxonMobil Holdings Corp",
+          "weight": 0.0243
+        },
+        {
+          "symbol": "JNJ",
+          "name": "Johnson & Johnson",
+          "weight": 0.0233
+        },
+        {
+          "symbol": "WMT",
+          "name": "Walmart Inc",
+          "weight": 0.0167
+        },
+        {
+          "symbol": "ABBV",
+          "name": "AbbVie Inc",
+          "weight": 0.0165
+        },
+        {
+          "symbol": "BAC",
+          "name": "Bank of America Corp",
+          "weight": 0.0144
+        },
+        {
+          "symbol": "CSCO",
+          "name": "Cisco Systems Inc",
+          "weight": 0.0143
+        },
+        {
+          "symbol": "CVX",
+          "name": "Chevron Corp",
+          "weight": 0.0142
+        }
+      ],
+      "note": "Only the ten largest positions are published, so the true tail is unknown."
+    },
+    "sector_weights": {
+      "realestate": 0.0251,
+      "consumer_cyclical": 0.0367,
+      "basic_materials": 0.0307,
+      "consumer_defensive": 0.0856,
+      "technology": 0.1407,
+      "communication_services": 0.0301,
+      "financial_services": 0.2332,
+      "utilities": 0.0436,
+      "industrials": 0.1327,
+      "energy": 0.0809,
+      "healthcare": 0.1607
+    },
+    "sector_concentration_hhi": 0.1372,
+    "asset_classes": {
+      "cashPosition": 0.0014,
+      "stockPosition": 0.9966,
+      "otherPosition": 0.002
+    }
+  }
+}

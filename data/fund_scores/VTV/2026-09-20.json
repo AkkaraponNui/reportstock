@@ -1,0 +1,175 @@
+{
+  "ticker": "VTV",
+  "name": "Vanguard Morningstar Value ETF",
+  "category": "Large Value",
+  "family": "Vanguard",
+  "is_fund": true,
+  "as_of": "2026-09-20T02:39:14+00:00",
+  "source_snapshot": "2026-09-20",
+  "composite_score": 84.5,
+  "grade": "A  a sound core holding on cost and risk",
+  "pillar_weight_coverage": 1.0,
+  "pillars": {
+    "cost": {
+      "score": 97.7,
+      "coverage": 1.0,
+      "weight": 0.3,
+      "metrics": {
+        "expense_ratio": {
+          "value": 0.0003,
+          "score": 98.7,
+          "weight": 0.8
+        },
+        "turnover": {
+          "value": 0.08,
+          "score": 94.0,
+          "weight": 0.2
+        }
+      }
+    },
+    "risk_adjusted_return": {
+      "score": 83.2,
+      "coverage": 1.0,
+      "weight": 0.25,
+      "metrics": {
+        "return_per_unit_of_risk": {
+          "value": 0.699,
+          "score": 81.9,
+          "weight": 0.45
+        },
+        "total_cagr_estimate": {
+          "value": 0.137,
+          "score": 82.5,
+          "weight": 0.3
+        },
+        "max_drawdown": {
+          "value": -0.1534,
+          "score": 86.2,
+          "weight": 0.25
+        }
+      }
+    },
+    "diversification": {
+      "score": 81.0,
+      "coverage": 1.0,
+      "weight": 0.2,
+      "metrics": {
+        "top_10_weight": {
+          "value": 0.2266,
+          "score": 75.7,
+          "weight": 0.6
+        },
+        "sector_concentration_hhi": {
+          "value": 0.1372,
+          "score": 88.8,
+          "weight": 0.4
+        }
+      }
+    },
+    "size": {
+      "score": 100.0,
+      "coverage": 1.0,
+      "weight": 0.1,
+      "metrics": {
+        "total_assets": {
+          "value": 262299090944,
+          "score": 100.0,
+          "weight": 1.0
+        }
+      }
+    },
+    "income": {
+      "score": 54.4,
+      "coverage": 1.0,
+      "weight": 0.15,
+      "metrics": {
+        "distribution_yield": {
+          "value": 0.0182,
+          "score": 54.4,
+          "weight": 1.0
+        }
+      }
+    }
+  },
+  "metrics": {
+    "expense_ratio": 0.0003,
+    "turnover": 0.08,
+    "return_per_unit_of_risk": 0.699,
+    "total_cagr_estimate": 0.137,
+    "max_drawdown": -0.1534,
+    "volatility_annual": 0.1388,
+    "top_10_weight": 0.2266,
+    "sector_concentration_hhi": 0.1372,
+    "total_assets": 262299090944,
+    "distribution_yield": 0.0182
+  },
+  "flags": [
+    "Nothing structural stands out. The remaining question is what it duplicates in the rest of the portfolio, which the overlap check answers."
+  ],
+  "overlap_with_tracked": {
+    "ok": true,
+    "fund": "VTV",
+    "fund_name": "Vanguard Morningstar Value ETF",
+    "snapshot": "2026-09-20",
+    "tracked_count": 40,
+    "overlap_weight": 0.1029,
+    "overlap_share_of_top10": 0.4541,
+    "already_tracked": [
+      {
+        "symbol": "MU",
+        "name": "Micron Technology, Inc.",
+        "weight_in_fund": 0.0394
+      },
+      {
+        "symbol": "JPM",
+        "name": "JPMorgan Chase & Co.",
+        "weight_in_fund": 0.0347
+      },
+      {
+        "symbol": "BRK-B",
+        "name": "Berkshire Hathaway Inc.",
+        "weight_in_fund": 0.0288
+      }
+    ],
+    "not_tracked": [
+      {
+        "symbol": "XOM",
+        "name": "ExxonMobil Holdings Corp",
+        "weight_in_fund": 0.0243
+      },
+      {
+        "symbol": "JNJ",
+        "name": "Johnson & Johnson",
+        "weight_in_fund": 0.0233
+      },
+      {
+        "symbol": "WMT",
+        "name": "Walmart Inc",
+        "weight_in_fund": 0.0167
+      },
+      {
+        "symbol": "ABBV",
+        "name": "AbbVie Inc",
+        "weight_in_fund": 0.0165
+      },
+      {
+        "symbol": "BAC",
+        "name": "Bank of America Corp",
+        "weight_in_fund": 0.0144
+      },
+      {
+        "symbol": "CSCO",
+        "name": "Cisco Systems Inc",
+        "weight_in_fund": 0.0143
+      },
+      {
+        "symbol": "CVX",
+        "name": "Chevron Corp",
+        "weight_in_fund": 0.0142
+      }
+    ],
+    "reading": "Only 10% sits in names already followed, across 3 holdings, so duplication is minor.",
+    "caveat": "Overlap is measured against the ten largest published positions only, and against the stocks followed here rather than a real portfolio. It is a floor on duplication, not a full picture."
+  },
+  "disclaimer": "A rules-based comparison of funds on cost, risk-adjusted history, concentration, size and yield. Past return is the weakest of these as a guide to the future and cost is the strongest, which is why cost carries more weight. Not investment advice."
+}

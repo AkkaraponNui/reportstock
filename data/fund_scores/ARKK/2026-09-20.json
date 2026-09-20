@@ -1,0 +1,177 @@
+{
+  "ticker": "ARKK",
+  "name": "ARK Innovation ETF",
+  "category": "Mid-Cap Growth",
+  "family": "ARK ETF Trust",
+  "is_fund": true,
+  "as_of": "2026-09-20T02:39:14+00:00",
+  "source_snapshot": "2026-09-20",
+  "composite_score": 31.9,
+  "grade": "E  hard to justify against a cheap index",
+  "pillar_weight_coverage": 1.0,
+  "pillars": {
+    "cost": {
+      "score": 38.4,
+      "coverage": 1.0,
+      "weight": 0.3,
+      "metrics": {
+        "expense_ratio": {
+          "value": 0.0075,
+          "score": 30.0,
+          "weight": 0.8
+        },
+        "turnover": {
+          "value": 0.43,
+          "score": 72.0,
+          "weight": 0.2
+        }
+      }
+    },
+    "risk_adjusted_return": {
+      "score": 6.3,
+      "coverage": 1.0,
+      "weight": 0.25,
+      "metrics": {
+        "return_per_unit_of_risk": {
+          "value": -0.23,
+          "score": 13.5,
+          "weight": 0.45
+        },
+        "total_cagr_estimate": {
+          "value": -0.0595,
+          "score": 0.0,
+          "weight": 0.3
+        },
+        "max_drawdown": {
+          "value": -0.7403,
+          "score": 0.9,
+          "weight": 0.25
+        }
+      }
+    },
+    "diversification": {
+      "score": 51.0,
+      "coverage": 1.0,
+      "weight": 0.2,
+      "metrics": {
+        "top_10_weight": {
+          "value": 0.5065,
+          "score": 36.4,
+          "weight": 0.6
+        },
+        "sector_concentration_hhi": {
+          "value": 0.2136,
+          "score": 72.9,
+          "weight": 0.4
+        }
+      }
+    },
+    "size": {
+      "score": 71.1,
+      "coverage": 1.0,
+      "weight": 0.1,
+      "metrics": {
+        "total_assets": {
+          "value": 6437586432,
+          "score": 71.1,
+          "weight": 1.0
+        }
+      }
+    },
+    "income": {
+      "score": 10.0,
+      "coverage": 1.0,
+      "weight": 0.15,
+      "metrics": {
+        "distribution_yield": {
+          "value": 0.0,
+          "score": 10.0,
+          "weight": 1.0
+        }
+      }
+    }
+  },
+  "metrics": {
+    "expense_ratio": 0.0075,
+    "turnover": 0.43,
+    "return_per_unit_of_risk": -0.23,
+    "total_cagr_estimate": -0.0595,
+    "max_drawdown": -0.7403,
+    "volatility_annual": 0.4317,
+    "top_10_weight": 0.5065,
+    "sector_concentration_hhi": 0.2136,
+    "total_assets": 6437586432,
+    "distribution_yield": 0.0
+  },
+  "flags": [
+    "An expense ratio of 0.75% costs 750 per 100,000 invested every year, whatever the fund returns. Over five years that is roughly 3,750 before any compounding effect.",
+    "The ten largest positions are 51% of the fund. Whatever the name suggests, this is a concentrated bet.",
+    "It has fallen 74% from a peak within the measured window. Ask whether you would have held it through that, because the return only accrues to someone who did."
+  ],
+  "overlap_with_tracked": {
+    "ok": true,
+    "fund": "ARKK",
+    "fund_name": "ARK Innovation ETF",
+    "snapshot": "2026-09-20",
+    "tracked_count": 40,
+    "overlap_weight": 0.0958,
+    "overlap_share_of_top10": 0.1891,
+    "already_tracked": [
+      {
+        "symbol": "TSLA",
+        "name": "Tesla, Inc.",
+        "weight_in_fund": 0.0958
+      }
+    ],
+    "not_tracked": [
+      {
+        "symbol": "SPCX",
+        "name": "Space Exploration Technologies Corp Class A",
+        "weight_in_fund": 0.0614
+      },
+      {
+        "symbol": "CRCL",
+        "name": "Circle Internet Group Inc Ordinary Shares - Class A",
+        "weight_in_fund": 0.0571
+      },
+      {
+        "symbol": "TEM",
+        "name": "Tempus AI Inc Class A common stock",
+        "weight_in_fund": 0.0555
+      },
+      {
+        "symbol": "COIN",
+        "name": "Coinbase Global Inc Ordinary Shares - Class A",
+        "weight_in_fund": 0.0474
+      },
+      {
+        "symbol": "CRSP",
+        "name": "CRISPR Therapeutics AG",
+        "weight_in_fund": 0.0468
+      },
+      {
+        "symbol": "TWST",
+        "name": "Twist Bioscience Corp",
+        "weight_in_fund": 0.0366
+      },
+      {
+        "symbol": "HOOD",
+        "name": "Robinhood Markets Inc Class A",
+        "weight_in_fund": 0.0366
+      },
+      {
+        "symbol": "SHOP",
+        "name": "Shopify Inc Registered Shs -A- Subord Vtg",
+        "weight_in_fund": 0.0365
+      },
+      {
+        "symbol": "PLTR",
+        "name": "Palantir Technologies Inc Ordinary Shares - Class A",
+        "weight_in_fund": 0.033
+      }
+    ],
+    "reading": "Only 10% sits in names already followed, across 1 holdings, so duplication is minor.",
+    "caveat": "Overlap is measured against the ten largest published positions only, and against the stocks followed here rather than a real portfolio. It is a floor on duplication, not a full picture."
+  },
+  "disclaimer": "A rules-based comparison of funds on cost, risk-adjusted history, concentration, size and yield. Past return is the weakest of these as a guide to the future and cost is the strongest, which is why cost carries more weight. Not investment advice."
+}

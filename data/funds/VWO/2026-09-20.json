@@ -1,0 +1,133 @@
+{
+  "ticker": "VWO",
+  "as_of": "2026-09-20T02:38:24+00:00",
+  "source": "yfinance",
+  "is_fund": true,
+  "quote_type": "ETF",
+  "profile": {
+    "name": "Vanguard FTSE Emerging Markets Index Fund ETF Shares",
+    "family": "Vanguard",
+    "category": "Diversified Emerging Mkts",
+    "legal_type": "Exchange Traded Fund",
+    "currency": "USD",
+    "exchange": "PCX",
+    "inception": 1109894400,
+    "description": "The index measures the investment return of stocks issued by companies located in emerging market countries. The fund employs an indexing investment approach designed to track the performance of the FTSE Emerging Markets All Cap China A Inclusion Index. It invests by sampling the index, meaning that it holds a broadly diversified collection of securities that, in the aggregate, approximates the index in terms of key characteristics."
+  },
+  "market": {
+    "price": 59.7963,
+    "nav": 60.1,
+    "total_assets": 168359133184,
+    "avg_volume": 7248649,
+    "week52_high": 61.54,
+    "week52_low": 52.2
+  },
+  "costs": {
+    "expense_ratio": 0.0006,
+    "expense_ratio_basis": "cross-checked, sources agree",
+    "turnover": 0.06,
+    "cost_per_100k_per_year": 60.0
+  },
+  "returns": {
+    "ytd": 0.12865,
+    "three_year_avg": 0.175884,
+    "five_year_avg": 0.064308,
+    "distribution_yield": 0.0229,
+    "price_cagr_measured": 0.0668,
+    "total_cagr_estimate": 0.0897
+  },
+  "risk": {
+    "months_observed": 59,
+    "span_years": 4.92,
+    "price_cagr": 0.0668,
+    "volatility_annual": 0.1483,
+    "max_drawdown": -0.2764,
+    "worst_month": -0.1008,
+    "best_month": 0.143,
+    "share_of_negative_months": 0.4407,
+    "note": "Price return only; distributions are reported separately as yield.",
+    "beta_3y": 0.75,
+    "return_per_unit_of_risk": 0.335,
+    "risk_free_assumed": 0.04
+  },
+  "composition": {
+    "concentration": {
+      "available": true,
+      "top_10_weight": 0.2586,
+      "largest_weight": 0.1472,
+      "holdings": [
+        {
+          "symbol": "2330.TW",
+          "name": "Taiwan Semiconductor Manufacturing Co Ltd",
+          "weight": 0.1472
+        },
+        {
+          "symbol": "0700.HK",
+          "name": "Tencent Holdings Ltd",
+          "weight": 0.029
+        },
+        {
+          "symbol": "9988.HK",
+          "name": "Alibaba Group Holding Ltd Ordinary Shares",
+          "weight": 0.0219
+        },
+        {
+          "symbol": "2454.TW",
+          "name": "MediaTek Inc",
+          "weight": 0.0147
+        },
+        {
+          "symbol": "2308.TW",
+          "name": "Delta Electronics Inc",
+          "weight": 0.009
+        },
+        {
+          "symbol": "00939",
+          "name": "China Construction Bank Corp Class H",
+          "weight": 0.0086
+        },
+        {
+          "symbol": "2317.TW",
+          "name": "Hon Hai Precision Industry Co Ltd",
+          "weight": 0.0077
+        },
+        {
+          "symbol": "RELIANCE.NS",
+          "name": "Reliance Industries Ltd",
+          "weight": 0.0073
+        },
+        {
+          "symbol": "HDFCBANK.NS",
+          "name": "HDFC Bank Ltd",
+          "weight": 0.0068
+        },
+        {
+          "symbol": "ICICIBANK.NS",
+          "name": "ICICI Bank Ltd",
+          "weight": 0.0065
+        }
+      ],
+      "note": "Only the ten largest positions are published, so the true tail is unknown."
+    },
+    "sector_weights": {
+      "realestate": 0.0208,
+      "consumer_cyclical": 0.0991,
+      "basic_materials": 0.0791,
+      "consumer_defensive": 0.0329,
+      "technology": 0.3181,
+      "communication_services": 0.0651,
+      "financial_services": 0.2016,
+      "utilities": 0.0265,
+      "industrials": 0.0754,
+      "energy": 0.041,
+      "healthcare": 0.0404
+    },
+    "sector_concentration_hhi": 0.1734,
+    "asset_classes": {
+      "cashPosition": 0.0455,
+      "stockPosition": 0.9527,
+      "preferredPosition": 0.0003,
+      "otherPosition": 0.0015
+    }
+  }
+}

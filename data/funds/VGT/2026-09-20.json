@@ -1,0 +1,127 @@
+{
+  "ticker": "VGT",
+  "as_of": "2026-09-20T02:38:26+00:00",
+  "source": "yfinance",
+  "is_fund": true,
+  "quote_type": "ETF",
+  "profile": {
+    "name": "Vanguard Information Technology Index Fund ETF Shares",
+    "family": "Vanguard",
+    "category": "Technology",
+    "legal_type": "Exchange Traded Fund",
+    "currency": "USD",
+    "exchange": "PCX",
+    "inception": 1075075200,
+    "description": "The fund employs an indexing investment approach designed to track the performance of the index, an index made up of stocks of large, mid-size, and small U.S. companies within the information technology sector, as classified under the GICS. The Advisor attempts to replicate the target index by seeking to invest all of its assets in the stocks that make up the index, in order to hold each stock in approximately the same proportion as its weighting in the index. It is non-diversified."
+  },
+  "market": {
+    "price": 121.48,
+    "nav": 122.4,
+    "total_assets": 170651172864,
+    "avg_volume": 4004115,
+    "week52_high": 126.0,
+    "week52_low": 83.09
+  },
+  "costs": {
+    "expense_ratio": 0.0009,
+    "expense_ratio_basis": "cross-checked, sources agree",
+    "turnover": 0.08,
+    "cost_per_100k_per_year": 90.0
+  },
+  "returns": {
+    "ytd": 0.282031,
+    "three_year_avg": 0.324795,
+    "five_year_avg": 0.19282,
+    "distribution_yield": 0.0036,
+    "price_cagr_measured": 0.1871,
+    "total_cagr_estimate": 0.1907
+  },
+  "risk": {
+    "months_observed": 59,
+    "span_years": 4.92,
+    "price_cagr": 0.1871,
+    "volatility_annual": 0.2338,
+    "max_drawdown": -0.3252,
+    "worst_month": -0.1183,
+    "best_month": 0.1831,
+    "share_of_negative_months": 0.4068,
+    "note": "Price return only; distributions are reported separately as yield.",
+    "beta_3y": 1.49,
+    "return_per_unit_of_risk": 0.645,
+    "risk_free_assumed": 0.04
+  },
+  "composition": {
+    "concentration": {
+      "available": true,
+      "top_10_weight": 0.6307,
+      "largest_weight": 0.1774,
+      "holdings": [
+        {
+          "symbol": "NVDA",
+          "name": "NVIDIA Corp",
+          "weight": 0.1774
+        },
+        {
+          "symbol": "AAPL",
+          "name": "Apple Inc",
+          "weight": 0.158
+        },
+        {
+          "symbol": "MSFT",
+          "name": "Microsoft Corp",
+          "weight": 0.1152
+        },
+        {
+          "symbol": "AVGO",
+          "name": "Broadcom Inc",
+          "weight": 0.0452
+        },
+        {
+          "symbol": "MU",
+          "name": "Micron Technology Inc",
+          "weight": 0.0418
+        },
+        {
+          "symbol": "AMD",
+          "name": "Advanced Micro Devices Inc",
+          "weight": 0.0295
+        },
+        {
+          "symbol": "CSCO",
+          "name": "Cisco Systems Inc",
+          "weight": 0.0171
+        },
+        {
+          "symbol": "PLTR",
+          "name": "Palantir Technologies Inc Ordinary Shares - Class A",
+          "weight": 0.0161
+        },
+        {
+          "symbol": "INTC",
+          "name": "Intel Corp",
+          "weight": 0.0154
+        },
+        {
+          "symbol": "LRCX",
+          "name": "Lam Research Corp",
+          "weight": 0.0149
+        }
+      ],
+      "note": "Only the ten largest positions are published, so the true tail is unknown."
+    },
+    "sector_weights": {
+      "consumer_cyclical": 0.0006,
+      "basic_materials": 0.0001,
+      "technology": 0.9927,
+      "financial_services": 0.0034,
+      "industrials": 0.0031,
+      "healthcare": 0.0001
+    },
+    "sector_concentration_hhi": 0.9855,
+    "asset_classes": {
+      "cashPosition": 0.0024,
+      "stockPosition": 0.9973,
+      "otherPosition": 0.0002
+    }
+  }
+}

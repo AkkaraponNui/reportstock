@@ -1,0 +1,131 @@
+{
+  "ticker": "VUG",
+  "as_of": "2026-09-20T02:38:25+00:00",
+  "source": "yfinance",
+  "is_fund": true,
+  "quote_type": "ETF",
+  "profile": {
+    "name": "Vanguard Morningstar Growth ETF",
+    "family": "Vanguard",
+    "category": "Large Growth",
+    "legal_type": "Exchange Traded Fund",
+    "currency": "USD",
+    "exchange": "PCX",
+    "inception": 1075075200,
+    "description": "The fund manager employs an indexing investment approach designed to track the performance of the target index, a broadly diversified index made up of the growth stocks of large U.S. companies, as determined by the index provider. Under normal circumstances, it invests at least 80% of its net assets, plus the amount of any borrowings for investment purposes, in the stocks that make up the target index."
+  },
+  "market": {
+    "price": 88.43,
+    "nav": 88.81,
+    "total_assets": 384533856256,
+    "avg_volume": 6542803,
+    "week52_high": 90.6,
+    "week52_low": 69.63333
+  },
+  "costs": {
+    "expense_ratio": 0.0003,
+    "expense_ratio_basis": "cross-checked, sources agree",
+    "turnover": 0.12,
+    "cost_per_100k_per_year": 30.0
+  },
+  "returns": {
+    "ytd": 0.087598,
+    "three_year_avg": 0.239906,
+    "five_year_avg": 0.125668,
+    "distribution_yield": 0.0038,
+    "price_cagr_measured": 0.1193,
+    "total_cagr_estimate": 0.1231
+  },
+  "risk": {
+    "months_observed": 59,
+    "span_years": 4.92,
+    "price_cagr": 0.1193,
+    "volatility_annual": 0.2027,
+    "max_drawdown": -0.3316,
+    "worst_month": -0.1288,
+    "best_month": 0.1425,
+    "share_of_negative_months": 0.4068,
+    "note": "Price return only; distributions are reported separately as yield.",
+    "beta_3y": 1.27,
+    "return_per_unit_of_risk": 0.41,
+    "risk_free_assumed": 0.04
+  },
+  "composition": {
+    "concentration": {
+      "available": true,
+      "top_10_weight": 0.6347,
+      "largest_weight": 0.1362,
+      "holdings": [
+        {
+          "symbol": "NVDA",
+          "name": "NVIDIA Corp",
+          "weight": 0.1362
+        },
+        {
+          "symbol": "AAPL",
+          "name": "Apple Inc",
+          "weight": 0.1249
+        },
+        {
+          "symbol": "MSFT",
+          "name": "Microsoft Corp",
+          "weight": 0.1012
+        },
+        {
+          "symbol": "GOOGL",
+          "name": "Alphabet Inc Class A",
+          "weight": 0.0534
+        },
+        {
+          "symbol": "AMZN",
+          "name": "Amazon.com Inc",
+          "weight": 0.0476
+        },
+        {
+          "symbol": "GOOG",
+          "name": "Alphabet Inc Class C",
+          "weight": 0.0421
+        },
+        {
+          "symbol": "AVGO",
+          "name": "Broadcom Inc",
+          "weight": 0.041
+        },
+        {
+          "symbol": "META",
+          "name": "Meta Platforms Inc Class A",
+          "weight": 0.0339
+        },
+        {
+          "symbol": "TSLA",
+          "name": "Tesla Inc",
+          "weight": 0.0279
+        },
+        {
+          "symbol": "LLY",
+          "name": "Eli Lilly and Co",
+          "weight": 0.0264
+        }
+      ],
+      "note": "Only the ten largest positions are published, so the true tail is unknown."
+    },
+    "sector_weights": {
+      "realestate": 0.0096,
+      "consumer_cyclical": 0.1129,
+      "basic_materials": 0.005,
+      "consumer_defensive": 0.0133,
+      "technology": 0.5775,
+      "communication_services": 0.1453,
+      "financial_services": 0.0422,
+      "industrials": 0.0449,
+      "energy": 0.003,
+      "healthcare": 0.0462
+    },
+    "sector_concentration_hhi": 0.3737,
+    "asset_classes": {
+      "cashPosition": 0.001,
+      "stockPosition": 0.9986,
+      "otherPosition": 0.0004
+    }
+  }
+}

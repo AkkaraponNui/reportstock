@@ -1,0 +1,132 @@
+{
+  "ticker": "VOO",
+  "as_of": "2026-09-20T02:38:23+00:00",
+  "source": "yfinance",
+  "is_fund": true,
+  "quote_type": "ETF",
+  "profile": {
+    "name": "Vanguard S&P 500 ETF",
+    "family": "Vanguard",
+    "category": "Large Blend",
+    "legal_type": "Exchange Traded Fund",
+    "currency": "USD",
+    "exchange": "PCX",
+    "inception": 1283817600,
+    "description": "The fund manager employs an indexing investment approach designed to track the performance of the Standard & Poor's 500 Index, a widely recognized benchmark of U.S. stock market performance that is dominated by the stocks of large U.S. companies. The advisor attempts to replicate the target index by investing all, or substantially all, of its assets in the stocks that make up the index, holding each stock in approximately the same proportion as its weighting in the index. The fund is non-diversified."
+  },
+  "market": {
+    "price": 701.03,
+    "nav": 702.22,
+    "total_assets": 1756880437248,
+    "avg_volume": 7305095,
+    "week52_high": 716.39,
+    "week52_low": 578.46
+  },
+  "costs": {
+    "expense_ratio": 0.0003,
+    "expense_ratio_basis": "cross-checked, sources agree",
+    "turnover": 0.02,
+    "cost_per_100k_per_year": 30.0
+  },
+  "returns": {
+    "ytd": 0.131135,
+    "three_year_avg": 0.212797,
+    "five_year_avg": 0.13095,
+    "distribution_yield": 0.0104,
+    "price_cagr_measured": 0.1242,
+    "total_cagr_estimate": 0.1346
+  },
+  "risk": {
+    "months_observed": 59,
+    "span_years": 4.92,
+    "price_cagr": 0.1242,
+    "volatility_annual": 0.1557,
+    "max_drawdown": -0.239,
+    "worst_month": -0.092,
+    "best_month": 0.1055,
+    "share_of_negative_months": 0.3898,
+    "note": "Price return only; distributions are reported separately as yield.",
+    "beta_3y": 1.0,
+    "return_per_unit_of_risk": 0.608,
+    "risk_free_assumed": 0.04
+  },
+  "composition": {
+    "concentration": {
+      "available": true,
+      "top_10_weight": 0.3781,
+      "largest_weight": 0.0808,
+      "holdings": [
+        {
+          "symbol": "NVDA",
+          "name": "NVIDIA Corp",
+          "weight": 0.0808
+        },
+        {
+          "symbol": "AAPL",
+          "name": "Apple Inc",
+          "weight": 0.0703
+        },
+        {
+          "symbol": "MSFT",
+          "name": "Microsoft Corp",
+          "weight": 0.057
+        },
+        {
+          "symbol": "AMZN",
+          "name": "Amazon.com Inc",
+          "weight": 0.0384
+        },
+        {
+          "symbol": "GOOGL",
+          "name": "Alphabet Inc Class A",
+          "weight": 0.0301
+        },
+        {
+          "symbol": "AVGO",
+          "name": "Broadcom Inc",
+          "weight": 0.0265
+        },
+        {
+          "symbol": "GOOG",
+          "name": "Alphabet Inc Class C",
+          "weight": 0.024
+        },
+        {
+          "symbol": "META",
+          "name": "Meta Platforms Inc Class A",
+          "weight": 0.019
+        },
+        {
+          "symbol": "MU",
+          "name": "Micron Technology Inc",
+          "weight": 0.0163
+        },
+        {
+          "symbol": "TSLA",
+          "name": "Tesla Inc",
+          "weight": 0.0157
+        }
+      ],
+      "note": "Only the ten largest positions are published, so the true tail is unknown."
+    },
+    "sector_weights": {
+      "realestate": 0.018,
+      "consumer_cyclical": 0.0931,
+      "basic_materials": 0.0168,
+      "consumer_defensive": 0.0446,
+      "technology": 0.3872,
+      "communication_services": 0.095,
+      "financial_services": 0.1202,
+      "utilities": 0.0199,
+      "industrials": 0.0775,
+      "energy": 0.0348,
+      "healthcare": 0.0929
+    },
+    "sector_concentration_hhi": 0.2009,
+    "asset_classes": {
+      "cashPosition": 0.0007,
+      "stockPosition": 0.9987,
+      "otherPosition": 0.0006
+    }
+  }
+}

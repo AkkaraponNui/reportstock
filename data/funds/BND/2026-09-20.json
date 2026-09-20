@@ -1,0 +1,65 @@
+{
+  "ticker": "BND",
+  "as_of": "2026-09-20T02:38:27+00:00",
+  "source": "yfinance",
+  "is_fund": true,
+  "quote_type": "ETF",
+  "profile": {
+    "name": "Vanguard Total Bond Market Index Fund ETF Shares",
+    "family": "Vanguard",
+    "category": "Intermediate Core Bond",
+    "legal_type": "Exchange Traded Fund",
+    "currency": "USD",
+    "exchange": "NGM",
+    "inception": 1175558400,
+    "description": "This index measures the performance of a wide spectrum of public, investment-grade, taxable, fixed income securities in the United States-including government, corporate, and international dollar-denominated bonds, as well as mortgage-backed and asset-backed securities-all with maturities of more than 1 year. All of the fund's investments will be selected through the sampling process, and at least 80% of its assets will be invested in bonds held in the index."
+  },
+  "market": {
+    "price": 71.47,
+    "nav": 71.16,
+    "total_assets": 398834597888,
+    "avg_volume": 8197096,
+    "week52_high": 75.23,
+    "week52_low": 71.03
+  },
+  "costs": {
+    "expense_ratio": 0.0003,
+    "expense_ratio_basis": "cross-checked, sources agree",
+    "turnover": 0.38,
+    "cost_per_100k_per_year": 30.0
+  },
+  "returns": {
+    "ytd": -0.001891,
+    "three_year_avg": 0.040081,
+    "five_year_avg": -0.005194,
+    "distribution_yield": 0.0404,
+    "price_cagr_measured": -0.0035,
+    "total_cagr_estimate": 0.0369
+  },
+  "risk": {
+    "months_observed": 59,
+    "span_years": 4.92,
+    "price_cagr": -0.0035,
+    "volatility_annual": 0.0643,
+    "max_drawdown": -0.1577,
+    "worst_month": -0.0418,
+    "best_month": 0.0454,
+    "share_of_negative_months": 0.4746,
+    "note": "Price return only; distributions are reported separately as yield.",
+    "beta_3y": 0.98,
+    "return_per_unit_of_risk": -0.048,
+    "risk_free_assumed": 0.04
+  },
+  "composition": {
+    "concentration": {
+      "available": false
+    },
+    "sector_weights": {},
+    "sector_concentration_hhi": null,
+    "asset_classes": {
+      "cashPosition": 0.0135,
+      "bondPosition": 0.9864,
+      "convertiblePosition": 0.0001
+    }
+  }
+}

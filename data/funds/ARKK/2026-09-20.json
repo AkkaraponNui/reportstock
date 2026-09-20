@@ -1,0 +1,127 @@
+{
+  "ticker": "ARKK",
+  "as_of": "2026-09-20T02:38:26+00:00",
+  "source": "yfinance",
+  "is_fund": true,
+  "quote_type": "ETF",
+  "profile": {
+    "name": "ARK Innovation ETF",
+    "family": "ARK ETF Trust",
+    "category": "Mid-Cap Growth",
+    "legal_type": "Exchange Traded Fund",
+    "currency": "USD",
+    "exchange": "BTS",
+    "inception": 1414713600,
+    "description": "The fund is an actively-managed exchange-traded fund (\"ETF\") that will invest under normal circumstances primarily (at least 65% of its assets) in domestic and foreign equity securities of companies that are relevant to the fund's investment theme of disruptive innovation. Its investments in foreign equity securities will be in both developed and emerging markets. The fund may invest in foreign securities listed on foreign exchanges as well as American Depositary Receipts (“ADRs”) and Global Depositary Receipts (“GDRs”). The fund is non-diversified."
+  },
+  "market": {
+    "price": 86.92,
+    "nav": 88.301,
+    "total_assets": 6437586432,
+    "avg_volume": 5071644,
+    "week52_high": 92.65,
+    "week52_low": 62.945
+  },
+  "costs": {
+    "expense_ratio": 0.0075,
+    "expense_ratio_basis": "cross-checked, sources agree",
+    "turnover": 0.43,
+    "cost_per_100k_per_year": 750.0
+  },
+  "returns": {
+    "ytd": 0.111242,
+    "three_year_avg": 0.280623,
+    "five_year_avg": -0.060429,
+    "distribution_yield": 0.0,
+    "price_cagr_measured": -0.0595,
+    "total_cagr_estimate": -0.0595
+  },
+  "risk": {
+    "months_observed": 59,
+    "span_years": 4.92,
+    "price_cagr": -0.0595,
+    "volatility_annual": 0.4317,
+    "max_drawdown": -0.7403,
+    "worst_month": -0.289,
+    "best_month": 0.3144,
+    "share_of_negative_months": 0.5763,
+    "note": "Price return only; distributions are reported separately as yield.",
+    "beta_3y": 2.44,
+    "return_per_unit_of_risk": -0.23,
+    "risk_free_assumed": 0.04
+  },
+  "composition": {
+    "concentration": {
+      "available": true,
+      "top_10_weight": 0.5065,
+      "largest_weight": 0.0958,
+      "holdings": [
+        {
+          "symbol": "TSLA",
+          "name": "Tesla Inc",
+          "weight": 0.0958
+        },
+        {
+          "symbol": "SPCX",
+          "name": "Space Exploration Technologies Corp Class A",
+          "weight": 0.0614
+        },
+        {
+          "symbol": "CRCL",
+          "name": "Circle Internet Group Inc Ordinary Shares - Class A",
+          "weight": 0.0571
+        },
+        {
+          "symbol": "TEM",
+          "name": "Tempus AI Inc Class A common stock",
+          "weight": 0.0555
+        },
+        {
+          "symbol": "COIN",
+          "name": "Coinbase Global Inc Ordinary Shares - Class A",
+          "weight": 0.0474
+        },
+        {
+          "symbol": "CRSP",
+          "name": "CRISPR Therapeutics AG",
+          "weight": 0.0468
+        },
+        {
+          "symbol": "TWST",
+          "name": "Twist Bioscience Corp",
+          "weight": 0.0366
+        },
+        {
+          "symbol": "HOOD",
+          "name": "Robinhood Markets Inc Class A",
+          "weight": 0.0366
+        },
+        {
+          "symbol": "SHOP",
+          "name": "Shopify Inc Registered Shs -A- Subord Vtg",
+          "weight": 0.0365
+        },
+        {
+          "symbol": "PLTR",
+          "name": "Palantir Technologies Inc Ordinary Shares - Class A",
+          "weight": 0.033
+        }
+      ],
+      "note": "Only the ten largest positions are published, so the true tail is unknown."
+    },
+    "sector_weights": {
+      "consumer_cyclical": 0.1245,
+      "technology": 0.2697,
+      "communication_services": 0.0349,
+      "financial_services": 0.1725,
+      "industrials": 0.1125,
+      "healthcare": 0.2859
+    },
+    "sector_concentration_hhi": 0.2136,
+    "asset_classes": {
+      "stockPosition": 0.9701,
+      "bondPosition": 0.0005,
+      "otherPosition": 0.0294
+    }
+  }
+}

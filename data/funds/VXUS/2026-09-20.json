@@ -1,0 +1,133 @@
+{
+  "ticker": "VXUS",
+  "as_of": "2026-09-20T02:38:24+00:00",
+  "source": "yfinance",
+  "is_fund": true,
+  "quote_type": "ETF",
+  "profile": {
+    "name": "Vanguard Total International Stock Index Fund ETF Shares",
+    "family": "Vanguard",
+    "category": "Foreign Large Blend",
+    "legal_type": "Exchange Traded Fund",
+    "currency": "USD",
+    "exchange": "NGM",
+    "inception": 1296000000,
+    "description": "The manager employs an indexing investment approach designed to track the performance of the FTSE Global All Cap ex US Index, a float-adjusted market-capitalization-weighted index designed to measure equity market performance of companies located in developed and emerging markets, excluding the United States. The fund invests all, or substantially all, of its assets in the common stocks included in its target index."
+  },
+  "market": {
+    "price": 86.3438,
+    "nav": 85.87,
+    "total_assets": 665693061120,
+    "avg_volume": 5345628,
+    "week52_high": 88.62,
+    "week52_low": 72.08
+  },
+  "costs": {
+    "expense_ratio": 0.0005,
+    "expense_ratio_basis": "cross-checked, sources agree",
+    "turnover": 0.04,
+    "cost_per_100k_per_year": 50.0
+  },
+  "returns": {
+    "ytd": 0.163748,
+    "three_year_avg": 0.193557,
+    "five_year_avg": 0.090232,
+    "distribution_yield": 0.0251,
+    "price_cagr_measured": 0.0915,
+    "total_cagr_estimate": 0.1166
+  },
+  "risk": {
+    "months_observed": 59,
+    "span_years": 4.92,
+    "price_cagr": 0.0915,
+    "volatility_annual": 0.1523,
+    "max_drawdown": -0.2725,
+    "worst_month": -0.0991,
+    "best_month": 0.1304,
+    "share_of_negative_months": 0.4237,
+    "note": "Price return only; distributions are reported separately as yield.",
+    "beta_3y": 0.92,
+    "return_per_unit_of_risk": 0.503,
+    "risk_free_assumed": 0.04
+  },
+  "composition": {
+    "concentration": {
+      "available": true,
+      "top_10_weight": 0.128,
+      "largest_weight": 0.0397,
+      "holdings": [
+        {
+          "symbol": "2330.TW",
+          "name": "Taiwan Semiconductor Manufacturing Co Ltd",
+          "weight": 0.0397
+        },
+        {
+          "symbol": "005930.KQ",
+          "name": "Samsung Electronics Co Ltd",
+          "weight": 0.019
+        },
+        {
+          "symbol": "000660.KQ",
+          "name": "SK hynix Inc",
+          "weight": 0.0146
+        },
+        {
+          "symbol": "ASML.AS",
+          "name": "ASML Holding NV",
+          "weight": 0.0142
+        },
+        {
+          "symbol": "0700.HK",
+          "name": "Tencent Holdings Ltd",
+          "weight": 0.0078
+        },
+        {
+          "symbol": "HSBA.L",
+          "name": "HSBC Holdings PLC",
+          "weight": 0.0076
+        },
+        {
+          "symbol": "ROP.SW",
+          "name": "Roche Holding AG Ordinary Shares new",
+          "weight": 0.0067
+        },
+        {
+          "symbol": "RY",
+          "name": "Royal Bank of Canada",
+          "weight": 0.0062
+        },
+        {
+          "symbol": "NOVN.SW",
+          "name": "Novartis AG Registered Shares",
+          "weight": 0.0062
+        },
+        {
+          "symbol": "9988.HK",
+          "name": "Alibaba Group Holding Ltd Ordinary Shares",
+          "weight": 0.0059
+        }
+      ],
+      "note": "Only the ten largest positions are published, so the true tail is unknown."
+    },
+    "sector_weights": {
+      "realestate": 0.0233,
+      "consumer_cyclical": 0.0807,
+      "basic_materials": 0.077,
+      "consumer_defensive": 0.0477,
+      "technology": 0.1986,
+      "communication_services": 0.0433,
+      "financial_services": 0.2329,
+      "utilities": 0.0289,
+      "industrials": 0.1511,
+      "energy": 0.0476,
+      "healthcare": 0.0689
+    },
+    "sector_concentration_hhi": 0.1415,
+    "asset_classes": {
+      "cashPosition": 0.0268,
+      "stockPosition": 0.9714,
+      "preferredPosition": 0.0001,
+      "otherPosition": 0.0017
+    }
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "ticker": "SCHD",
+  "as_of": "2026-09-20T02:38:25+00:00",
+  "source": "yfinance",
+  "is_fund": true,
+  "quote_type": "ETF",
+  "profile": {
+    "name": "Schwab U.S. Dividend Equity ETF",
+    "family": "Schwab ETFs",
+    "category": "Large Value",
+    "legal_type": "Exchange Traded Fund",
+    "currency": "USD",
+    "exchange": "PCX",
+    "inception": 1319068800,
+    "description": "To pursue its goal, the fund generally invests in stocks that are included in the index. The index is designed to measure the performance of high dividend yielding stocks issued by U.S. companies that have a record of consistently paying dividends, selected for fundamental strength relative to their peers, based on financial ratios. The fund will invest at least 90% of its net assets in these stocks."
+  },
+  "market": {
+    "price": 33.89,
+    "nav": 33.66,
+    "total_assets": 112337240064,
+    "avg_volume": 22208612,
+    "week52_high": 35.31,
+    "week52_low": 26.32
+  },
+  "costs": {
+    "expense_ratio": 0.0006,
+    "expense_ratio_basis": "cross-checked, sources agree",
+    "turnover": 0.3,
+    "cost_per_100k_per_year": 60.0
+  },
+  "returns": {
+    "ytd": 0.29204,
+    "three_year_avg": 0.153001,
+    "five_year_avg": 0.098461,
+    "distribution_yield": 0.03,
+    "price_cagr_measured": 0.0926,
+    "total_cagr_estimate": 0.1226
+  },
+  "risk": {
+    "months_observed": 59,
+    "span_years": 4.92,
+    "price_cagr": 0.0926,
+    "volatility_annual": 0.1495,
+    "max_drawdown": -0.157,
+    "worst_month": -0.0796,
+    "best_month": 0.1121,
+    "share_of_negative_months": 0.4068,
+    "note": "Price return only; distributions are reported separately as yield.",
+    "beta_3y": 0.56,
+    "return_per_unit_of_risk": 0.553,
+    "risk_free_assumed": 0.04
+  },
+  "composition": {
+    "concentration": {
+      "available": true,
+      "top_10_weight": 0.4176,
+      "largest_weight": 0.0478,
+      "holdings": [
+        {
+          "symbol": "MRK",
+          "name": "Merck & Co Inc",
+          "weight": 0.0478
+        },
+        {
+          "symbol": "ABT",
+          "name": "Abbott Laboratories",
+          "weight": 0.0477
+        },
+        {
+          "symbol": "AMGN",
+          "name": "Amgen Inc",
+          "weight": 0.0472
+        },
+        {
+          "symbol": "KO",
+          "name": "Coca-Cola Co",
+          "weight": 0.042
+        },
+        {
+          "symbol": "VZ",
+          "name": "Verizon Communications Inc",
+          "weight": 0.0397
+        },
+        {
+          "symbol": "CVX",
+          "name": "Chevron Corp",
+          "weight": 0.0393
+        },
+        {
+          "symbol": "HD",
+          "name": "The Home Depot Inc",
+          "weight": 0.039
+        },
+        {
+          "symbol": "COP",
+          "name": "ConocoPhillips",
+          "weight": 0.0386
+        },
+        {
+          "symbol": "UNH",
+          "name": "UnitedHealth Group Inc",
+          "weight": 0.0385
+        },
+        {
+          "symbol": "PG",
+          "name": "Procter & Gamble Co",
+          "weight": 0.0379
+        }
+      ],
+      "note": "Only the ten largest positions are published, so the true tail is unknown."
+    },
+    "sector_weights": {
+      "consumer_cyclical": 0.0689,
+      "consumer_defensive": 0.1946,
+      "technology": 0.1294,
+      "communication_services": 0.0646,
+      "financial_services": 0.0976,
+      "utilities": 0.0009,
+      "industrials": 0.075,
+      "energy": 0.1541,
+      "healthcare": 0.2148
+    },
+    "sector_concentration_hhi": 0.1486,
+    "asset_classes": {
+      "cashPosition": 0.0007,
+      "stockPosition": 0.9993
+    }
+  }
+}

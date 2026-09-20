@@ -1,0 +1,130 @@
+{
+  "ticker": "QQQ",
+  "as_of": "2026-09-20T02:38:23+00:00",
+  "source": "yfinance",
+  "is_fund": true,
+  "quote_type": "ETF",
+  "profile": {
+    "name": "Invesco QQQ Trust",
+    "family": "Invesco",
+    "category": "Large Growth",
+    "legal_type": "Exchange Traded Fund",
+    "currency": "USD",
+    "exchange": "NGM",
+    "inception": 921024000,
+    "description": "To maintain the correspondence between the composition and weights of the securities in the trust (the \"securities\") and the stocks in the NASDAQ-100 Index®, the adviser adjusts the securities from time to time to conform to periodic changes in the identity and/or relative weights of index securities. The composition and weighting of the securities portion of a portfolio deposit are also adjusted to conform to changes in the index."
+  },
+  "market": {
+    "price": 716.92,
+    "nav": 721.72,
+    "total_assets": 488981004288,
+    "avg_volume": 37183288,
+    "week52_high": 748.65,
+    "week52_low": 555.6
+  },
+  "costs": {
+    "expense_ratio": 0.0018,
+    "expense_ratio_basis": "cross-checked, sources agree",
+    "turnover": 0.0,
+    "cost_per_100k_per_year": 180.0
+  },
+  "returns": {
+    "ytd": 0.169957,
+    "three_year_avg": 0.255159,
+    "five_year_avg": 0.147372,
+    "distribution_yield": 0.0042,
+    "price_cagr_measured": 0.1423,
+    "total_cagr_estimate": 0.1465
+  },
+  "risk": {
+    "months_observed": 59,
+    "span_years": 4.92,
+    "price_cagr": 0.1423,
+    "volatility_annual": 0.2082,
+    "max_drawdown": -0.3258,
+    "worst_month": -0.136,
+    "best_month": 0.1569,
+    "share_of_negative_months": 0.3898,
+    "note": "Price return only; distributions are reported separately as yield.",
+    "beta_3y": 1.26,
+    "return_per_unit_of_risk": 0.512,
+    "risk_free_assumed": 0.04
+  },
+  "composition": {
+    "concentration": {
+      "available": true,
+      "top_10_weight": 0.4627,
+      "largest_weight": 0.0851,
+      "holdings": [
+        {
+          "symbol": "NVDA",
+          "name": "NVIDIA Corp",
+          "weight": 0.0851
+        },
+        {
+          "symbol": "AAPL",
+          "name": "Apple Inc",
+          "weight": 0.0741
+        },
+        {
+          "symbol": "MSFT",
+          "name": "Microsoft Corp",
+          "weight": 0.06
+        },
+        {
+          "symbol": "MU",
+          "name": "Micron Technology Inc",
+          "weight": 0.0475
+        },
+        {
+          "symbol": "AMZN",
+          "name": "Amazon.com Inc",
+          "weight": 0.0445
+        },
+        {
+          "symbol": "AMD",
+          "name": "Advanced Micro Devices Inc",
+          "weight": 0.0337
+        },
+        {
+          "symbol": "GOOGL",
+          "name": "Alphabet Inc Class A",
+          "weight": 0.0315
+        },
+        {
+          "symbol": "TSLA",
+          "name": "Tesla Inc",
+          "weight": 0.0293
+        },
+        {
+          "symbol": "GOOG",
+          "name": "Alphabet Inc Class C",
+          "weight": 0.0291
+        },
+        {
+          "symbol": "AVGO",
+          "name": "Broadcom Inc",
+          "weight": 0.028
+        }
+      ],
+      "note": "Only the ten largest positions are published, so the true tail is unknown."
+    },
+    "sector_weights": {
+      "consumer_cyclical": 0.1111,
+      "basic_materials": 0.01,
+      "consumer_defensive": 0.0624,
+      "technology": 0.5915,
+      "communication_services": 0.127,
+      "financial_services": 0.0021,
+      "utilities": 0.0114,
+      "industrials": 0.0391,
+      "energy": 0.0053,
+      "healthcare": 0.0402
+    },
+    "sector_concentration_hhi": 0.3856,
+    "asset_classes": {
+      "cashPosition": 0.0011,
+      "stockPosition": 0.9989
+    }
+  }
+}

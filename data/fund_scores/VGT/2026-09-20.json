@@ -1,0 +1,176 @@
+{
+  "ticker": "VGT",
+  "name": "Vanguard Information Technology Index Fund ETF Shares",
+  "category": "Technology",
+  "family": "Vanguard",
+  "is_fund": true,
+  "as_of": "2026-09-20T02:39:14+00:00",
+  "source_snapshot": "2026-09-20",
+  "composite_score": 62.4,
+  "grade": "B  workable with one clear weakness",
+  "pillar_weight_coverage": 1.0,
+  "pillars": {
+    "cost": {
+      "score": 91.8,
+      "coverage": 1.0,
+      "weight": 0.3,
+      "metrics": {
+        "expense_ratio": {
+          "value": 0.0009,
+          "score": 91.2,
+          "weight": 0.8
+        },
+        "turnover": {
+          "value": 0.08,
+          "score": 94.0,
+          "weight": 0.2
+        }
+      }
+    },
+    "risk_adjusted_return": {
+      "score": 77.3,
+      "coverage": 1.0,
+      "weight": 0.25,
+      "metrics": {
+        "return_per_unit_of_risk": {
+          "value": 0.645,
+          "score": 78.7,
+          "weight": 0.45
+        },
+        "total_cagr_estimate": {
+          "value": 0.1907,
+          "score": 94.9,
+          "weight": 0.3
+        },
+        "max_drawdown": {
+          "value": -0.3252,
+          "score": 53.5,
+          "weight": 0.25
+        }
+      }
+    },
+    "diversification": {
+      "score": 12.7,
+      "coverage": 1.0,
+      "weight": 0.2,
+      "metrics": {
+        "top_10_weight": {
+          "value": 0.6307,
+          "score": 21.1,
+          "weight": 0.6
+        },
+        "sector_concentration_hhi": {
+          "value": 0.9855,
+          "score": 0.0,
+          "weight": 0.4
+        }
+      }
+    },
+    "size": {
+      "score": 98.8,
+      "coverage": 1.0,
+      "weight": 0.1,
+      "metrics": {
+        "total_assets": {
+          "value": 170651172864,
+          "score": 98.8,
+          "weight": 1.0
+        }
+      }
+    },
+    "income": {
+      "score": 20.8,
+      "coverage": 1.0,
+      "weight": 0.15,
+      "metrics": {
+        "distribution_yield": {
+          "value": 0.0036,
+          "score": 20.8,
+          "weight": 1.0
+        }
+      }
+    }
+  },
+  "metrics": {
+    "expense_ratio": 0.0009,
+    "turnover": 0.08,
+    "return_per_unit_of_risk": 0.645,
+    "total_cagr_estimate": 0.1907,
+    "max_drawdown": -0.3252,
+    "volatility_annual": 0.2338,
+    "top_10_weight": 0.6307,
+    "sector_concentration_hhi": 0.9855,
+    "total_assets": 170651172864,
+    "distribution_yield": 0.0036
+  },
+  "flags": [
+    "The ten largest positions are 63% of the fund. Whatever the name suggests, this is a concentrated bet.",
+    "Sector exposure is concentrated: 99% sits in technology. This is a sector position wearing a fund's clothing."
+  ],
+  "overlap_with_tracked": {
+    "ok": true,
+    "fund": "VGT",
+    "fund_name": "Vanguard Information Technology Index Fund ETF Shares",
+    "snapshot": "2026-09-20",
+    "tracked_count": 40,
+    "overlap_weight": 0.5671,
+    "overlap_share_of_top10": 0.8992,
+    "already_tracked": [
+      {
+        "symbol": "NVDA",
+        "name": "NVIDIA Corporation",
+        "weight_in_fund": 0.1774
+      },
+      {
+        "symbol": "AAPL",
+        "name": "Apple Inc.",
+        "weight_in_fund": 0.158
+      },
+      {
+        "symbol": "MSFT",
+        "name": "Microsoft Corporation",
+        "weight_in_fund": 0.1152
+      },
+      {
+        "symbol": "AVGO",
+        "name": "Broadcom Inc.",
+        "weight_in_fund": 0.0452
+      },
+      {
+        "symbol": "MU",
+        "name": "Micron Technology, Inc.",
+        "weight_in_fund": 0.0418
+      },
+      {
+        "symbol": "AMD",
+        "name": "Advanced Micro Devices, Inc.",
+        "weight_in_fund": 0.0295
+      }
+    ],
+    "not_tracked": [
+      {
+        "symbol": "CSCO",
+        "name": "Cisco Systems Inc",
+        "weight_in_fund": 0.0171
+      },
+      {
+        "symbol": "PLTR",
+        "name": "Palantir Technologies Inc Ordinary Shares - Class A",
+        "weight_in_fund": 0.0161
+      },
+      {
+        "symbol": "INTC",
+        "name": "Intel Corp",
+        "weight_in_fund": 0.0154
+      },
+      {
+        "symbol": "LRCX",
+        "name": "Lam Research Corp",
+        "weight_in_fund": 0.0149
+      }
+    ],
+    "reading": "57% of the fund sits in 6 companies already followed individually. Buying both concentrates the same bet twice.",
+    "caveat": "Overlap is measured against the ten largest published positions only, and against the stocks followed here rather than a real portfolio. It is a floor on duplication, not a full picture."
+  },
+  "disclaimer": "A rules-based comparison of funds on cost, risk-adjusted history, concentration, size and yield. Past return is the weakest of these as a guide to the future and cost is the strongest, which is why cost carries more weight. Not investment advice."
+}

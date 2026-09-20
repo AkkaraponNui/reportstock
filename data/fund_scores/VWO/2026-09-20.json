@@ -1,0 +1,175 @@
+{
+  "ticker": "VWO",
+  "name": "Vanguard FTSE Emerging Markets Index Fund ETF Shares",
+  "category": "Diversified Emerging Mkts",
+  "family": "Vanguard",
+  "is_fund": true,
+  "as_of": "2026-09-20T02:39:14+00:00",
+  "source_snapshot": "2026-09-20",
+  "composite_score": 78.0,
+  "grade": "B+ solid, check what it duplicates",
+  "pillar_weight_coverage": 1.0,
+  "pillars": {
+    "cost": {
+      "score": 94.9,
+      "coverage": 1.0,
+      "weight": 0.3,
+      "metrics": {
+        "expense_ratio": {
+          "value": 0.0006,
+          "score": 94.8,
+          "weight": 0.8
+        },
+        "turnover": {
+          "value": 0.06,
+          "score": 95.5,
+          "weight": 0.2
+        }
+      }
+    },
+    "risk_adjusted_return": {
+      "score": 60.5,
+      "coverage": 1.0,
+      "weight": 0.25,
+      "metrics": {
+        "return_per_unit_of_risk": {
+          "value": 0.335,
+          "score": 56.8,
+          "weight": 0.45
+        },
+        "total_cagr_estimate": {
+          "value": 0.0897,
+          "score": 64.4,
+          "weight": 0.3
+        },
+        "max_drawdown": {
+          "value": -0.2764,
+          "score": 62.7,
+          "weight": 0.25
+        }
+      }
+    },
+    "diversification": {
+      "score": 74.7,
+      "coverage": 1.0,
+      "weight": 0.2,
+      "metrics": {
+        "top_10_weight": {
+          "value": 0.2586,
+          "score": 70.9,
+          "weight": 0.6
+        },
+        "sector_concentration_hhi": {
+          "value": 0.1734,
+          "score": 80.6,
+          "weight": 0.4
+        }
+      }
+    },
+    "size": {
+      "score": 98.7,
+      "coverage": 1.0,
+      "weight": 0.1,
+      "metrics": {
+        "total_assets": {
+          "value": 168359133184,
+          "score": 98.7,
+          "weight": 1.0
+        }
+      }
+    },
+    "income": {
+      "score": 63.8,
+      "coverage": 1.0,
+      "weight": 0.15,
+      "metrics": {
+        "distribution_yield": {
+          "value": 0.0229,
+          "score": 63.8,
+          "weight": 1.0
+        }
+      }
+    }
+  },
+  "metrics": {
+    "expense_ratio": 0.0006,
+    "turnover": 0.06,
+    "return_per_unit_of_risk": 0.335,
+    "total_cagr_estimate": 0.0897,
+    "max_drawdown": -0.2764,
+    "volatility_annual": 0.1483,
+    "top_10_weight": 0.2586,
+    "sector_concentration_hhi": 0.1734,
+    "total_assets": 168359133184,
+    "distribution_yield": 0.0229
+  },
+  "flags": [
+    "Nothing structural stands out. The remaining question is what it duplicates in the rest of the portfolio, which the overlap check answers."
+  ],
+  "overlap_with_tracked": {
+    "ok": true,
+    "fund": "VWO",
+    "fund_name": "Vanguard FTSE Emerging Markets Index Fund ETF Shares",
+    "snapshot": "2026-09-20",
+    "tracked_count": 40,
+    "overlap_weight": 0.0582,
+    "overlap_share_of_top10": 0.2251,
+    "already_tracked": [
+      {
+        "symbol": "0700.HK",
+        "name": "Tencent Holdings Limited",
+        "weight_in_fund": 0.029
+      },
+      {
+        "symbol": "9988.HK",
+        "name": "Alibaba Group Holding Limited",
+        "weight_in_fund": 0.0219
+      },
+      {
+        "symbol": "RELIANCE.NS",
+        "name": "Reliance Industries Limited",
+        "weight_in_fund": 0.0073
+      }
+    ],
+    "not_tracked": [
+      {
+        "symbol": "2330.TW",
+        "name": "Taiwan Semiconductor Manufacturing Co Ltd",
+        "weight_in_fund": 0.1472
+      },
+      {
+        "symbol": "2454.TW",
+        "name": "MediaTek Inc",
+        "weight_in_fund": 0.0147
+      },
+      {
+        "symbol": "2308.TW",
+        "name": "Delta Electronics Inc",
+        "weight_in_fund": 0.009
+      },
+      {
+        "symbol": "00939",
+        "name": "China Construction Bank Corp Class H",
+        "weight_in_fund": 0.0086
+      },
+      {
+        "symbol": "2317.TW",
+        "name": "Hon Hai Precision Industry Co Ltd",
+        "weight_in_fund": 0.0077
+      },
+      {
+        "symbol": "HDFCBANK.NS",
+        "name": "HDFC Bank Ltd",
+        "weight_in_fund": 0.0068
+      },
+      {
+        "symbol": "ICICIBANK.NS",
+        "name": "ICICI Bank Ltd",
+        "weight_in_fund": 0.0065
+      }
+    ],
+    "reading": "Only 6% sits in names already followed, across 3 holdings, so duplication is minor.",
+    "caveat": "Overlap is measured against the ten largest published positions only, and against the stocks followed here rather than a real portfolio. It is a floor on duplication, not a full picture."
+  },
+  "disclaimer": "A rules-based comparison of funds on cost, risk-adjusted history, concentration, size and yield. Past return is the weakest of these as a guide to the future and cost is the strongest, which is why cost carries more weight. Not investment advice."
+}

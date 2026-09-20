@@ -1,0 +1,175 @@
+{
+  "ticker": "VOO",
+  "name": "Vanguard S&P 500 ETF",
+  "category": "Large Blend",
+  "family": "Vanguard",
+  "is_fund": true,
+  "as_of": "2026-09-20T02:39:14+00:00",
+  "source_snapshot": "2026-09-20",
+  "composite_score": 76.9,
+  "grade": "B+ solid, check what it duplicates",
+  "pillar_weight_coverage": 1.0,
+  "pillars": {
+    "cost": {
+      "score": 98.6,
+      "coverage": 1.0,
+      "weight": 0.3,
+      "metrics": {
+        "expense_ratio": {
+          "value": 0.0003,
+          "score": 98.7,
+          "weight": 0.8
+        },
+        "turnover": {
+          "value": 0.02,
+          "score": 98.5,
+          "weight": 0.2
+        }
+      }
+    },
+    "risk_adjusted_return": {
+      "score": 76.5,
+      "coverage": 1.0,
+      "weight": 0.25,
+      "metrics": {
+        "return_per_unit_of_risk": {
+          "value": 0.608,
+          "score": 76.5,
+          "weight": 0.45
+        },
+        "total_cagr_estimate": {
+          "value": 0.1346,
+          "score": 81.9,
+          "weight": 0.3
+        },
+        "max_drawdown": {
+          "value": -0.239,
+          "score": 70.2,
+          "weight": 0.25
+        }
+      }
+    },
+    "diversification": {
+      "score": 63.1,
+      "coverage": 1.0,
+      "weight": 0.2,
+      "metrics": {
+        "top_10_weight": {
+          "value": 0.3781,
+          "score": 54.9,
+          "weight": 0.6
+        },
+        "sector_concentration_hhi": {
+          "value": 0.2009,
+          "score": 75.3,
+          "weight": 0.4
+        }
+      }
+    },
+    "size": {
+      "score": 100.0,
+      "coverage": 1.0,
+      "weight": 0.1,
+      "metrics": {
+        "total_assets": {
+          "value": 1756880437248,
+          "score": 100.0,
+          "weight": 1.0
+        }
+      }
+    },
+    "income": {
+      "score": 37.4,
+      "coverage": 1.0,
+      "weight": 0.15,
+      "metrics": {
+        "distribution_yield": {
+          "value": 0.0104,
+          "score": 37.4,
+          "weight": 1.0
+        }
+      }
+    }
+  },
+  "metrics": {
+    "expense_ratio": 0.0003,
+    "turnover": 0.02,
+    "return_per_unit_of_risk": 0.608,
+    "total_cagr_estimate": 0.1346,
+    "max_drawdown": -0.239,
+    "volatility_annual": 0.1557,
+    "top_10_weight": 0.3781,
+    "sector_concentration_hhi": 0.2009,
+    "total_assets": 1756880437248,
+    "distribution_yield": 0.0104
+  },
+  "flags": [
+    "Nothing structural stands out. The remaining question is what it duplicates in the rest of the portfolio, which the overlap check answers."
+  ],
+  "overlap_with_tracked": {
+    "ok": true,
+    "fund": "VOO",
+    "fund_name": "Vanguard S&P 500 ETF",
+    "snapshot": "2026-09-20",
+    "tracked_count": 40,
+    "overlap_weight": 0.3541,
+    "overlap_share_of_top10": 0.9365,
+    "already_tracked": [
+      {
+        "symbol": "NVDA",
+        "name": "NVIDIA Corporation",
+        "weight_in_fund": 0.0808
+      },
+      {
+        "symbol": "AAPL",
+        "name": "Apple Inc.",
+        "weight_in_fund": 0.0703
+      },
+      {
+        "symbol": "MSFT",
+        "name": "Microsoft Corporation",
+        "weight_in_fund": 0.057
+      },
+      {
+        "symbol": "AMZN",
+        "name": "Amazon.com, Inc.",
+        "weight_in_fund": 0.0384
+      },
+      {
+        "symbol": "GOOGL",
+        "name": "Alphabet Inc.",
+        "weight_in_fund": 0.0301
+      },
+      {
+        "symbol": "AVGO",
+        "name": "Broadcom Inc.",
+        "weight_in_fund": 0.0265
+      },
+      {
+        "symbol": "META",
+        "name": "Meta Platforms, Inc.",
+        "weight_in_fund": 0.019
+      },
+      {
+        "symbol": "MU",
+        "name": "Micron Technology, Inc.",
+        "weight_in_fund": 0.0163
+      },
+      {
+        "symbol": "TSLA",
+        "name": "Tesla, Inc.",
+        "weight_in_fund": 0.0157
+      }
+    ],
+    "not_tracked": [
+      {
+        "symbol": "GOOG",
+        "name": "Alphabet Inc Class C",
+        "weight_in_fund": 0.024
+      }
+    ],
+    "reading": "35% of the fund sits in 9 companies already followed individually. Buying both concentrates the same bet twice.",
+    "caveat": "Overlap is measured against the ten largest published positions only, and against the stocks followed here rather than a real portfolio. It is a floor on duplication, not a full picture."
+  },
+  "disclaimer": "A rules-based comparison of funds on cost, risk-adjusted history, concentration, size and yield. Past return is the weakest of these as a guide to the future and cost is the strongest, which is why cost carries more weight. Not investment advice."
+}

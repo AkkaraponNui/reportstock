@@ -1,0 +1,176 @@
+{
+  "ticker": "QQQ",
+  "name": "Invesco QQQ Trust",
+  "category": "Large Growth",
+  "family": "Invesco",
+  "is_fund": true,
+  "as_of": "2026-09-20T02:39:14+00:00",
+  "source_snapshot": "2026-09-20",
+  "composite_score": 65.0,
+  "grade": "B  workable with one clear weakness",
+  "pillar_weight_coverage": 1.0,
+  "pillars": {
+    "cost": {
+      "score": 84.3,
+      "coverage": 1.0,
+      "weight": 0.3,
+      "metrics": {
+        "expense_ratio": {
+          "value": 0.0018,
+          "score": 80.4,
+          "weight": 0.8
+        },
+        "turnover": {
+          "value": 0.0,
+          "score": 100.0,
+          "weight": 0.2
+        }
+      }
+    },
+    "risk_adjusted_return": {
+      "score": 70.7,
+      "coverage": 1.0,
+      "weight": 0.25,
+      "metrics": {
+        "return_per_unit_of_risk": {
+          "value": 0.512,
+          "score": 70.7,
+          "weight": 0.45
+        },
+        "total_cagr_estimate": {
+          "value": 0.1465,
+          "score": 85.1,
+          "weight": 0.3
+        },
+        "max_drawdown": {
+          "value": -0.3258,
+          "score": 53.4,
+          "weight": 0.25
+        }
+      }
+    },
+    "diversification": {
+      "score": 43.4,
+      "coverage": 1.0,
+      "weight": 0.2,
+      "metrics": {
+        "top_10_weight": {
+          "value": 0.4627,
+          "score": 42.8,
+          "weight": 0.6
+        },
+        "sector_concentration_hhi": {
+          "value": 0.3856,
+          "score": 44.3,
+          "weight": 0.4
+        }
+      }
+    },
+    "size": {
+      "score": 100.0,
+      "coverage": 1.0,
+      "weight": 0.1,
+      "metrics": {
+        "total_assets": {
+          "value": 488981004288,
+          "score": 100.0,
+          "weight": 1.0
+        }
+      }
+    },
+    "income": {
+      "score": 22.6,
+      "coverage": 1.0,
+      "weight": 0.15,
+      "metrics": {
+        "distribution_yield": {
+          "value": 0.0042,
+          "score": 22.6,
+          "weight": 1.0
+        }
+      }
+    }
+  },
+  "metrics": {
+    "expense_ratio": 0.0018,
+    "turnover": 0.0,
+    "return_per_unit_of_risk": 0.512,
+    "total_cagr_estimate": 0.1465,
+    "max_drawdown": -0.3258,
+    "volatility_annual": 0.2082,
+    "top_10_weight": 0.4627,
+    "sector_concentration_hhi": 0.3856,
+    "total_assets": 488981004288,
+    "distribution_yield": 0.0042
+  },
+  "flags": [
+    "The ten largest positions are 46% of the fund. Whatever the name suggests, this is a concentrated bet.",
+    "Sector exposure is concentrated: 59% sits in technology. This is a sector position wearing a fund's clothing."
+  ],
+  "overlap_with_tracked": {
+    "ok": true,
+    "fund": "QQQ",
+    "fund_name": "Invesco QQQ Trust",
+    "snapshot": "2026-09-20",
+    "tracked_count": 40,
+    "overlap_weight": 0.4337,
+    "overlap_share_of_top10": 0.9373,
+    "already_tracked": [
+      {
+        "symbol": "NVDA",
+        "name": "NVIDIA Corporation",
+        "weight_in_fund": 0.0851
+      },
+      {
+        "symbol": "AAPL",
+        "name": "Apple Inc.",
+        "weight_in_fund": 0.0741
+      },
+      {
+        "symbol": "MSFT",
+        "name": "Microsoft Corporation",
+        "weight_in_fund": 0.06
+      },
+      {
+        "symbol": "MU",
+        "name": "Micron Technology, Inc.",
+        "weight_in_fund": 0.0475
+      },
+      {
+        "symbol": "AMZN",
+        "name": "Amazon.com, Inc.",
+        "weight_in_fund": 0.0445
+      },
+      {
+        "symbol": "AMD",
+        "name": "Advanced Micro Devices, Inc.",
+        "weight_in_fund": 0.0337
+      },
+      {
+        "symbol": "GOOGL",
+        "name": "Alphabet Inc.",
+        "weight_in_fund": 0.0315
+      },
+      {
+        "symbol": "TSLA",
+        "name": "Tesla, Inc.",
+        "weight_in_fund": 0.0293
+      },
+      {
+        "symbol": "AVGO",
+        "name": "Broadcom Inc.",
+        "weight_in_fund": 0.028
+      }
+    ],
+    "not_tracked": [
+      {
+        "symbol": "GOOG",
+        "name": "Alphabet Inc Class C",
+        "weight_in_fund": 0.0291
+      }
+    ],
+    "reading": "43% of the fund sits in 9 companies already followed individually. Buying both concentrates the same bet twice.",
+    "caveat": "Overlap is measured against the ten largest published positions only, and against the stocks followed here rather than a real portfolio. It is a floor on duplication, not a full picture."
+  },
+  "disclaimer": "A rules-based comparison of funds on cost, risk-adjusted history, concentration, size and yield. Past return is the weakest of these as a guide to the future and cost is the strongest, which is why cost carries more weight. Not investment advice."
+}

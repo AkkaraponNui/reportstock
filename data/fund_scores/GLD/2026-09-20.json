@@ -1,0 +1,112 @@
+{
+  "ticker": "GLD",
+  "name": "SPDR Gold Shares",
+  "category": "Commodities Focused",
+  "family": "State Street Investment Management",
+  "is_fund": true,
+  "as_of": "2026-09-20T02:39:14+00:00",
+  "source_snapshot": "2026-09-20",
+  "composite_score": 66.3,
+  "grade": "B  workable with one clear weakness",
+  "pillar_weight_coverage": 0.8,
+  "pillars": {
+    "cost": {
+      "score": 66.4,
+      "coverage": 1.0,
+      "weight": 0.3,
+      "metrics": {
+        "expense_ratio": {
+          "value": 0.004,
+          "score": 58.0,
+          "weight": 0.8
+        },
+        "turnover": {
+          "value": 0.0,
+          "score": 100.0,
+          "weight": 0.2
+        }
+      }
+    },
+    "risk_adjusted_return": {
+      "score": 87.3,
+      "coverage": 1.0,
+      "weight": 0.25,
+      "metrics": {
+        "return_per_unit_of_risk": {
+          "value": 0.915,
+          "score": 91.5,
+          "weight": 0.45
+        },
+        "total_cagr_estimate": {
+          "value": 0.1956,
+          "score": 95.3,
+          "weight": 0.3
+        },
+        "max_drawdown": {
+          "value": -0.2385,
+          "score": 70.3,
+          "weight": 0.25
+        }
+      }
+    },
+    "diversification": {
+      "score": null,
+      "coverage": 0.0,
+      "weight": 0.2,
+      "metrics": {
+        "top_10_weight": {
+          "value": null,
+          "score": null,
+          "weight": 0.6
+        },
+        "sector_concentration_hhi": {
+          "value": null,
+          "score": null,
+          "weight": 0.4
+        }
+      }
+    },
+    "size": {
+      "score": 98.1,
+      "coverage": 1.0,
+      "weight": 0.1,
+      "metrics": {
+        "total_assets": {
+          "value": 152861196288,
+          "score": 98.1,
+          "weight": 1.0
+        }
+      }
+    },
+    "income": {
+      "score": 10.0,
+      "coverage": 1.0,
+      "weight": 0.15,
+      "metrics": {
+        "distribution_yield": {
+          "value": 0.0,
+          "score": 10.0,
+          "weight": 1.0
+        }
+      }
+    }
+  },
+  "metrics": {
+    "expense_ratio": 0.004,
+    "turnover": 0.0,
+    "return_per_unit_of_risk": 0.915,
+    "total_cagr_estimate": 0.1956,
+    "max_drawdown": -0.2385,
+    "volatility_annual": 0.17,
+    "top_10_weight": null,
+    "sector_concentration_hhi": null,
+    "total_assets": 152861196288,
+    "distribution_yield": 0.0
+  },
+  "flags": [],
+  "overlap_with_tracked": {
+    "ok": false,
+    "reason": "No published holdings for GLD."
+  },
+  "disclaimer": "A rules-based comparison of funds on cost, risk-adjusted history, concentration, size and yield. Past return is the weakest of these as a guide to the future and cost is the strongest, which is why cost carries more weight. Not investment advice."
+}

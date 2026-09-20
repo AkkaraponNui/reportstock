@@ -1,0 +1,132 @@
+{
+  "ticker": "VTI",
+  "as_of": "2026-09-20T02:38:23+00:00",
+  "source": "yfinance",
+  "is_fund": true,
+  "quote_type": "ETF",
+  "profile": {
+    "name": "Vanguard Morningstar Total Stock Market ETF",
+    "family": "Vanguard",
+    "category": "Large Blend",
+    "legal_type": "Exchange Traded Fund",
+    "currency": "USD",
+    "exchange": "PCX",
+    "inception": 990662400,
+    "description": "The fund manager employs an indexing investment approach designed to track the performance of the CRSP U.S. Total Market Index (the “Target Index”), which represents 100% of the investable U.S. stock market, as determined by the index provider. Under normal circumstances, the fund invests at least 80% of its net assets, plus the amount of any borrowings for investment purposes, in the stocks that make up the target index."
+  },
+  "market": {
+    "price": 375.34,
+    "nav": 375.67,
+    "total_assets": 2343736705024,
+    "avg_volume": 3076736,
+    "week52_high": 385.12,
+    "week52_low": 310.4
+  },
+  "costs": {
+    "expense_ratio": 0.0003,
+    "expense_ratio_basis": "cross-checked, sources agree",
+    "turnover": 0.03,
+    "cost_per_100k_per_year": 30.0
+  },
+  "returns": {
+    "ytd": 0.134479,
+    "three_year_avg": 0.208909,
+    "five_year_avg": 0.119513,
+    "distribution_yield": 0.0103,
+    "price_cagr_measured": 0.1132,
+    "total_cagr_estimate": 0.1235
+  },
+  "risk": {
+    "months_observed": 59,
+    "span_years": 4.92,
+    "price_cagr": 0.1132,
+    "volatility_annual": 0.1587,
+    "max_drawdown": -0.2482,
+    "worst_month": -0.0923,
+    "best_month": 0.104,
+    "share_of_negative_months": 0.4237,
+    "note": "Price return only; distributions are reported separately as yield.",
+    "beta_3y": 1.02,
+    "return_per_unit_of_risk": 0.526,
+    "risk_free_assumed": 0.04
+  },
+  "composition": {
+    "concentration": {
+      "available": true,
+      "top_10_weight": 0.3345,
+      "largest_weight": 0.0687,
+      "holdings": [
+        {
+          "symbol": "NVDA",
+          "name": "NVIDIA Corp",
+          "weight": 0.0687
+        },
+        {
+          "symbol": "AAPL",
+          "name": "Apple Inc",
+          "weight": 0.063
+        },
+        {
+          "symbol": "MSFT",
+          "name": "Microsoft Corp",
+          "weight": 0.051
+        },
+        {
+          "symbol": "AMZN",
+          "name": "Amazon.com Inc",
+          "weight": 0.0341
+        },
+        {
+          "symbol": "GOOGL",
+          "name": "Alphabet Inc Class A",
+          "weight": 0.027
+        },
+        {
+          "symbol": "AVGO",
+          "name": "Broadcom Inc",
+          "weight": 0.0237
+        },
+        {
+          "symbol": "GOOG",
+          "name": "Alphabet Inc Class C",
+          "weight": 0.0212
+        },
+        {
+          "symbol": "META",
+          "name": "Meta Platforms Inc Class A",
+          "weight": 0.017
+        },
+        {
+          "symbol": "MU",
+          "name": "Micron Technology Inc",
+          "weight": 0.0146
+        },
+        {
+          "symbol": "TSLA",
+          "name": "Tesla Inc",
+          "weight": 0.014
+        }
+      ],
+      "note": "Only the ten largest positions are published, so the true tail is unknown."
+    },
+    "sector_weights": {
+      "realestate": 0.0228,
+      "consumer_cyclical": 0.0921,
+      "basic_materials": 0.0192,
+      "consumer_defensive": 0.0426,
+      "technology": 0.3637,
+      "communication_services": 0.0876,
+      "financial_services": 0.1238,
+      "utilities": 0.0198,
+      "industrials": 0.0911,
+      "energy": 0.0368,
+      "healthcare": 0.1006
+    },
+    "sector_concentration_hhi": 0.1866,
+    "asset_classes": {
+      "cashPosition": 0.0019,
+      "stockPosition": 0.9978,
+      "otherPosition": 0.0004
+    }
+  }
+}
