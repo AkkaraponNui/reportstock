@@ -89,7 +89,45 @@ def _load_dotenv():
     return load_dotenv(ROOT / ".env", override=False)
 
 
+def _load_streamlit_secrets():
+    """Copy Streamlit's secrets into the environment, where the tools look.
+
+    A hosted deployment has no `.env`: Streamlit Community Cloud keeps secrets
+    in its own panel and serves them through `st.secrets`. Everything under
+    `tools/` reads `os.environ`, so without this bridge REPORTSTOCK_UA silently
+    stays at its placeholder on the host and EDGAR throttles every filing fetch
+    while looking, from the outside, like a set of companies that never filed.
+
+    Only string values are copied, and only when the variable is not already
+    set, so a real environment variable still wins. Nothing here logs a value.
+    """
+    try:
+        import streamlit as st
+    except ImportError:
+        return 0
+    try:
+        secrets = st.secrets
+    except Exception:
+        # No secrets configured at all, which is normal and not an error.
+        return 0
+
+    copied = 0
+    for key in ("REPORTSTOCK_UA", "ANTHROPIC_API_KEY", "ANTHROPIC_AUTH_TOKEN",
+                "FINNHUB_API_KEY", "ALPHAVANTAGE_API_KEY", "APP_PASSWORD"):
+        if os.environ.get(key):
+            continue
+        try:
+            value = secrets.get(key)
+        except Exception:
+            continue
+        if isinstance(value, str) and value:
+            os.environ[key] = value
+            copied += 1
+    return copied
+
+
 _load_dotenv()
+_load_streamlit_secrets()
 
 UA = os.environ.get(
     "REPORTSTOCK_UA",

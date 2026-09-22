@@ -164,3 +164,59 @@ class TestConcurrentFetchOrdering:
         assert rc == 1                      # a failure is reported, not hidden
         assert "AAA" in out.out and "CCC" in out.out
         assert "BAD" in out.err
+
+
+class TestStreamlitSecretsBridge:
+    """A hosted deployment has no .env.
+
+    Streamlit Community Cloud keeps secrets in its own panel and serves them
+    through st.secrets, while everything under tools/ reads os.environ. Without
+    a bridge, REPORTSTOCK_UA stays at its placeholder on the host and EDGAR
+    throttles every fetch while looking like companies that never filed.
+    """
+
+    def _bridge(self, monkeypatch, secrets, env=None):
+        import types
+
+        import common
+
+        fake = types.SimpleNamespace(secrets=types.SimpleNamespace(get=secrets.get))
+        monkeypatch.setitem(sys.modules, "streamlit", fake)
+        for k in ("REPORTSTOCK_UA", "ANTHROPIC_API_KEY", "APP_PASSWORD"):
+            monkeypatch.delenv(k, raising=False)
+        for k, v in (env or {}).items():
+            monkeypatch.setenv(k, v)
+        return common._load_streamlit_secrets()
+
+    def test_secrets_reach_the_environment(self, monkeypatch):
+        import os
+
+        self._bridge(monkeypatch, {"REPORTSTOCK_UA": "Host User host@example.org"})
+        assert os.environ["REPORTSTOCK_UA"] == "Host User host@example.org"
+
+    def test_a_real_environment_variable_still_wins(self, monkeypatch):
+        import os
+
+        self._bridge(
+            monkeypatch,
+            {"REPORTSTOCK_UA": "from secrets"},
+            env={"REPORTSTOCK_UA": "from the shell"},
+        )
+        assert os.environ["REPORTSTOCK_UA"] == "from the shell"
+
+    def test_no_streamlit_installed_is_not_an_error(self, monkeypatch):
+        import common
+
+        monkeypatch.setitem(sys.modules, "streamlit", None)
+        # A None module makes `import streamlit` fail the attribute lookup;
+        # every tool runs outside Streamlit, so this must stay silent.
+        try:
+            common._load_streamlit_secrets()
+        except Exception as e:
+            pytest.fail("bridge raised outside Streamlit: {}".format(e))
+
+    def test_non_string_secrets_are_ignored(self, monkeypatch):
+        import os
+
+        self._bridge(monkeypatch, {"REPORTSTOCK_UA": 12345})
+        assert "REPORTSTOCK_UA" not in os.environ

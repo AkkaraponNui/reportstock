@@ -19,5 +19,9 @@ base = "light"
 primaryColor = "#2563eb"
 
 [client]
-# A stack trace in a public deployment leaks paths and internals.
-showErrorDetails = "stacktrace"
+# A stack trace in a public deployment leaks absolute paths and internals, and
+# this file is what ships to the host. The comment used to say exactly that
+# while the value below still said "stacktrace". For local debugging, override
+# it on the command line instead of editing this file:
+#   uv run python -m streamlit run app.py --client.showErrorDetails=full
+showErrorDetails = "none"
