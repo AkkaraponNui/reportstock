@@ -18,6 +18,7 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 
 from common import (  # noqa: E402
+    get_logger,
     RAW,
     cagr,
     clean,
@@ -340,6 +341,7 @@ def main():
     )
     ap.add_argument("--years", type=int, default=5)
     ap.add_argument("--out-date", default=today(), help="filename date stamp")
+    ap.add_argument("--workers", type=int, default=4, help="parallel fetches; 1 is sequential. Kept low because Yahoo rate-limits.")
     ap.add_argument("-v", "--verbose", action="store_true")
     args = ap.parse_args()
 
@@ -352,29 +354,61 @@ def main():
         return 2
 
     ok = failed = 0
+    results = {}
+
+    def work(tk):
+        return tk, fetch_one(tk, years=args.years)
+
+    # Concurrency is capped low on purpose. Yahoo rate-limits, and a fetch that
+    # comes back 429 or silently empty is worse than a slow one: the empty case
+    # looks like a company with no statements rather than like an error. Results
+    # are collected first and printed in the order the tickers were given, so a
+    # run stays reproducible and diffable regardless of which finished first.
+    if args.workers > 1 and len(tickers) > 1:
+        from concurrent.futures import ThreadPoolExecutor, as_completed
+
+        with ThreadPoolExecutor(max_workers=args.workers) as pool:
+            futures = {pool.submit(work, tk): tk for tk in tickers}
+            for fut in as_completed(futures):
+                tk = futures[fut]
+                try:
+                    _tk, payload = fut.result()
+                    results[tk] = payload
+                except Exception as e:
+                    results[tk] = e
+    else:
+        for tk in tickers:
+            try:
+                results[tk] = fetch_one(tk, years=args.years)
+            except Exception as e:
+                results[tk] = e
+
     for tk in tickers:
-        try:
-            payload = fetch_one(tk, years=args.years)
-            path = write_json(RAW / tk.upper() / "{}.json".format(args.out_date), payload)
-            m = payload["metrics"]
-            name = str(payload["profile"]["name"] or "?")[:30]
-            print(
-                "{:<8} {:<30} revCAGR={} opMgn={} ROIC={} fwdPE={}  -> {}".format(
-                    tk.upper(),
-                    name,
-                    _p(m["revenue_cagr"]),
-                    _p(m["operating_margin_latest"]),
-                    _p(m["roic_est"]),
-                    _n(m["forward_pe"]),
-                    path.relative_to(RAW.parent.parent),
-                )
-            )
-            ok += 1
-        except Exception as e:
+        payload = results.get(tk)
+        if isinstance(payload, Exception) or payload is None:
             failed += 1
+            e = payload or RuntimeError("no result")
+            get_logger().error("fetch_fundamentals %s failed: %s: %s",
+                               tk.upper(), type(e).__name__, e)
             print("{:<8} FAILED: {}: {}".format(tk.upper(), type(e).__name__, e), file=sys.stderr)
             if args.verbose:
-                traceback.print_exc()
+                traceback.print_exception(type(e), e, e.__traceback__)
+            continue
+        path = write_json(RAW / tk.upper() / "{}.json".format(args.out_date), payload)
+        m = payload["metrics"]
+        name = str(payload["profile"]["name"] or "?")[:30]
+        print(
+            "{:<8} {:<30} revCAGR={} opMgn={} ROIC={} fwdPE={}  -> {}".format(
+                tk.upper(),
+                name,
+                _p(m["revenue_cagr"]),
+                _p(m["operating_margin_latest"]),
+                _p(m["roic_est"]),
+                _n(m["forward_pe"]),
+                path.relative_to(RAW.parent.parent),
+            )
+        )
+        ok += 1
     print("\ndone: {} ok, {} failed".format(ok, failed))
     return 0 if failed == 0 else 1
 

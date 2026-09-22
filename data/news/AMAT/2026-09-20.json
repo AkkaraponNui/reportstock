@@ -1,0 +1,1801 @@
+{
+  "ticker": "AMAT",
+  "company": "Applied Materials",
+  "as_of": "2026-09-20T09:08:06+00:00",
+  "lookback_days": 180,
+  "summary": {
+    "total": 138,
+    "by_event_tag": {
+      "earnings": 30,
+      "guidance": 22,
+      "demand": 20,
+      "analyst": 18,
+      "capacity": 13,
+      "regulatory": 12,
+      "speculation": 7,
+      "price_move": 7,
+      "mna": 7,
+      "product": 3,
+      "management": 2,
+      "capital_return": 1
+    },
+    "headline_lean": {
+      "positive": 26,
+      "negative": 7,
+      "neutral": 105
+    },
+    "top_publishers": {
+      "Yahoo Finance": 47,
+      "TIKR.com": 9,
+      "StockStory": 5,
+      "Reuters": 4,
+      "24/7 Wall St.": 4,
+      "Morningstar": 4,
+      "Quiver Quantitative": 3,
+      "Trefis": 3,
+      "TradingView": 3,
+      "CNBC": 3
+    }
+  },
+  "articles": [
+    {
+      "title": "Applied Materials vs. Nvidia: Which Tech Stock Is a Better Buy in 2026? - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNYTZEZTFYSm9UU00ySXZIQTdLcEt1N0JkZGFSNVUzUDZPeGFaQmptVDRxS05fWWRtRUxBeHQ0TFI1YnhLa005Q1lMT0VnQWx3ZVdMX3Nfc3Zfdnc4T3lid3lBYWlWN1R3VGlqbXRrTVdzYjcwZFgxNlVINnZOVUlOZW5UVUVWR3l5bUFTa253OG5XZUczZkJsUl9YV0JLdw?oc=5",
+      "published": "2026-09-20T01:35:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Applied Materials vs. Nvidia: Which Tech Stock Is a Better Buy in 2026? &nbsp;&nbsp; Yahoo Finance",
+      "query": "\"Applied Materials\" lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "speculation"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Applied Materials (AMAT) Will Invest $5 Billion In An India Semiconductor Hub - simplywall.st",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNUUJLVUJ1QVRTcTFMSWZoalZ0a3VnM2F6R2htRzBCMTh1dTFrOXd2LVBJQm5xeGJSVXFHV2dSVV9LVWxQazJuTVZXa19jS0V0NDNpVzVSalhUNzFnSHgtWG1YVWJvQ3EtYU9qWWlhV0RQM0xSY0d1OURRU1NwNXJZeE9RaEd4S0pvUm5KZlB2eFlIZWtXaVYydl9FWTh4a2NhYnQ2M3JJbHdSekVfMXloOE1pYzNiRVdRenNHVTlPc05YYjB6MkNldWhxanBYQU5QWTV0b3FhNmdyQdIB3wFBVV95cUxNUV9md0xuTzU5S0l0dWM3OVBQV3Uwa2txUlRXT2M0UWxaTEZ1Z0VhZmMyckM0OS1URjBXTmxRSUx2eFotWXlkR2U1UmdrdC03SGVUWC1oOFcxQlFKanZGYktVTGhIZGVFRU9hREJJQ1dxZnBkZ1lSRkN2V2ZmWEozSGtMMTZndnhaTl8xdnl5SjhicXJjbWhjVWlPYTRIZ2hPSXBVeVYtc0M0TUFwWmxMRm8yRkJodmttMnpjRW9ERk9qWGFtbmVJVEJjY25lY2NlbFlxU1JLb0JweS0wdHJV?oc=5",
+      "published": "2026-09-18T09:35:54+00:00",
+      "publisher": "simplywall.st",
+      "summary": "Applied Materials (AMAT) Will Invest $5 Billion In An India Semiconductor Hub &nbsp;&nbsp; simplywall.st",
+      "query": "AMAT capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Applied Materials to Invest $5 Bn in India to Expand Semiconductor R&D, Supply Chain - analyticsindiamag.com",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeW4zZExrMmR4UnRJbERRWjJPN1M2aWFvVkNWSV9TeW9rZXVyRURoc1NtVGY2OVB6Ti1xeTczOXhLWHI1c0NPVDdTTmlnWVpQdXAxNWQ5c0hJNENnY25abU9IRVJIZ1NROTVtcnhubEt4N1c1a21VUEc5WW9ObDFvNTdFOTFhQ1NkRkVoMFZYOXJmYVBvY2ZwbEROY1R6TFdaN05iYm91NWtGZUhYWWZFZ2tyZTl5bms0MXRR?oc=5",
+      "published": "2026-09-17T17:01:32+00:00",
+      "publisher": "analyticsindiamag.com",
+      "summary": "Applied Materials to Invest $5 Bn in India to Expand Semiconductor R&amp;D, Supply Chain &nbsp;&nbsp; analyticsindiamag.com",
+      "query": "AMAT capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity",
+        "demand"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Applied Materials to invest $5 billion in India as Modi's flagship chip event kicks off - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPQ3kyeU5pWlZVczhBTGVoMVlLTFZkLS1Tb2J5QkhXdldvNW1fVlVCNTNRMUdiVUNBVGVDaURDb2NFSTZTOG1MR2Q2dWdXdXJDSkJmd0t3NjNncGN6VGdCeDF4T2pGWEQ2OXhNTU5zcEFaa0c2aTJEczgtbE1GeWZ6M0JJb2ZJbWY1TzlIaTYwOHVtWEp0LWtZeW9sNjNmUVE0cHRIaFNnSzZVZ3NmNUZXVW5yamdHODNTVkxXWE5CaHV6Y0V6VzVTd1BJNA?oc=5",
+      "published": "2026-09-17T12:50:12+00:00",
+      "publisher": "Reuters",
+      "summary": "Applied Materials to invest $5 billion in India as Modi's flagship chip event kicks off &nbsp;&nbsp; Reuters",
+      "query": "\"Applied Materials\" lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "AMAT, AVGO Expand AI Supply Chain Push With New Packaging Technology Partnership - Stocktwits",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQLVB3NGdqMXpYcGNVUU1yOGRxczN5ZnBncXdwVGdDWkpaSjhhV2paTVVVb2k2LTZsNVczQjVDX1BBY2dCZmRvTU5VcXBMSmJMQXl5VVJvMWdLYTNhWld5aUdQLUM3R3YxZ3k5cWtlWE5oT1dXTE84Qks2MWZBWlpkRmpXZTBNeHBuU2YxLVpTVnZDY1QzcEx6ZUlWSUhXdzJrZ2xjaC1JNngwMDRja3ZLYTdjQ3VRbVhfRHpRMjNyTWFDN0ZqNFdXY2txa2FUd2lQek05RDRiMEwzUDFJQTc4a1VoVW5DRlh0TG84SE85MA?oc=5",
+      "published": "2026-09-16T14:38:35+00:00",
+      "publisher": "Stocktwits",
+      "summary": "AMAT, AVGO Expand AI Supply Chain Push With New Packaging Technology Partnership &nbsp;&nbsp; Stocktwits",
+      "query": "AMAT acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity",
+        "demand"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Applied Materials Shares Fall 5.8% as Semiconductor Stocks Decline - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVHl2Q216NGxKUW83SlBYb0lQQUNqS0xnekx2QndFay1QQjFlcXdIZkZCaUpmUEk4ZzdKVlZVeW5NVm1hNUVoUzh0Sjc2RUIyakUzbTNWNVFoOERlcjZmd0ZDZGs2cjFwSjN3V0pSR3VEdnc3RmctTmhKU09lOW1IQUx0RTkwb2pEdkJhZEJJYjczWDc1YzRKdlV6eDg?oc=5",
+      "published": "2026-09-14T12:04:43+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Applied Materials Shares Fall 5.8% as Semiconductor Stocks Decline &nbsp;&nbsp; Yahoo Finance",
+      "query": "AMAT stock",
+      "source_api": "google_news_rss",
+      "tags": [
+        "price_move"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "SEC files suit vs. LSU over school's intent to play pro athletes - 6abc Philadelphia",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUlR2bF9kWjhURGIyUFlWdGZiRjk1dEdFcExJeEpJYjBiOXBOQ0JHX0JsUVM2ZFExdkRtVFlsZHVSc1hLMXBJRDVXV3RKQ0ZablA1WkE0RlBYN2luWmlNamkteFpKN0xNT0FKMTBkMWVobE4tT1IyeGVsd2I4bEZ0anNZcG0xQWphWmVz?oc=5",
+      "published": "2026-09-03T07:00:00+00:00",
+      "publisher": "6abc Philadelphia",
+      "summary": "SEC files suit vs. LSU over school's intent to play pro athletes &nbsp;&nbsp; 6abc Philadelphia",
+      "query": "AMAT lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Should You Buy, Sell or Hold AMAT Stock After a 72.5% YTD Rise? - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNlNQX0EzODd6NVgzdXU3cUEzaDJsbmtzb3FOUV8xQ0JiQ2J0aTVPU3Nmb3g4M1k0Ukh5eDVzMU1yMU5zWGo5YXo1TXlWSlBCSm5hS21DRlZMQXViZDlXSzI4a3Rvbk1VZ1dtZ1l2aF9ZSGJQTzFDdU8tXzZVNkQtQ3NQci1HeHdzLVh2VHBnUWxIUHc?oc=5",
+      "published": "2026-09-02T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Should You Buy, Sell or Hold AMAT Stock After a 72.5% YTD Rise? &nbsp;&nbsp; Yahoo Finance",
+      "query": "AMAT stock",
+      "source_api": "google_news_rss",
+      "tags": [
+        "speculation"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Applied Materials Just Dropped 14% in a Month. Sell Now, or Buy More? - 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOY2dDaGJQTVRobVZHQUlJRkdld0pqRE9yS1pEbHp2NHlTVlVQc283RDFxc3NHSHVuR1FLRC1mTDFodEJxbllqYndjM0h1djk5dGJzQzBJV291dzdscWJxaWlZa2JOWW94S3lUY2hST0I4WEx0VHpfdkY4MGNjRHJsRWdRUjhOVWlYVXpMTkhXWmlHNllIeTlkWGhKTFE2T1RRSEJ3bFhsemQ1UjJ3NGc?oc=5",
+      "published": "2026-09-02T07:00:00+00:00",
+      "publisher": "24/7 Wall St.",
+      "summary": "Applied Materials Just Dropped 14% in a Month. Sell Now, or Buy More? &nbsp;&nbsp; 24/7 Wall St.",
+      "query": "AMAT stock",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Georgia golfer ends NCAA eligibility fight to get fifth season - Golfweek",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPdjBXSlZXMFRJNjNuUUZqcVVORmZQQlRiUWNSYi1GVi1NMmVXMlE4YTJwYk5EdlFpWDFpUzRnazlsTlQ3Ujg4dFB5NXZEZnIxd3Q3azlXSmhwNDhSajZya18zVEtNZlExWm5iS2tTbkkydWxsRTNlNzJSVko1bHl3ZjlrLVpDX0ZGcS1uUnlHVXRaODNkQkNGSUxKR01CcDMxQzYwd1BRNzAwa2FWWWZpTkxtOW5BYVBkVFl4Y09ZVm5lNklOLUtqVTgwdi1vTmdnQUE?oc=5",
+      "published": "2026-09-01T07:00:00+00:00",
+      "publisher": "Golfweek",
+      "summary": "Georgia golfer ends NCAA eligibility fight to get fifth season &nbsp;&nbsp; Golfweek",
+      "query": "AMAT lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "How Far Applied Materials Stock Can Move On You In A Year - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNG1GeXpHNDBxZ2VOQmdETk91U0VmWEQ4VWFJT1VXQm9NQTZ0a29sYkRFSFZqZzVkSTJSSVpzNEtrVFBjZjBOUlRvZ1VkSU9FUXlPUGdKS0NnTUNOZjBCVklURkNwZHNsNDVhSmdBWnJ5T2c1NndGRlFHRzE5aDlWZVd4V015azktQjdlNXphdjIxa2M2SE5xQllHVHpRUEE?oc=5",
+      "published": "2026-08-28T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "How Far Applied Materials Stock Can Move On You In A Year &nbsp;&nbsp; Yahoo Finance",
+      "query": "AMAT stock",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Does Applied Materials (AMAT) Have the Potential to Rally 34.71% as Wall Street Analysts Expect? - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSllIak44TTA1VW8yZTBYN1pJbnNyRWpleHlKUWRQMjZtQV9mQmFZajNybEREQkJWamhTX05XcjBEel9vZVVvMmgzMTVFbE5aZ3NnajJKM3ZXdFRCRlk0LXhpaUpPcDV5eFUzcy1QbmxPM1ZsZnpuMkFkX290YlNqUjRnTUQ3Z2FFZEZicEhIb3Q2Y3ViOEdaWXFfczhmZEpFbVBDZA?oc=5",
+      "published": "2026-08-26T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Does Applied Materials (AMAT) Have the Potential to Rally 34.71% as Wall Street Analysts Expect? &nbsp;&nbsp; Yahoo Finance",
+      "query": "AMAT analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [
+        "analyst"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Applied Materials’ China Problem Is Getting Worse - 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNdmYzaUZLVlA5ZVJfdU1xdzNSeDVsSWVfTVdHTC1fV0VVTWxfcjMzT3BFb1BYeE9ja0E5bkRUR084a0lxaHVWWndxX0dYMl90UG5seW45VUlNWGtEeGVEd3RZQTVhWEo3eG1fTkd2YkRwMzFqUHByQ0Q4RHZGdExlb08yVFhQOUx1ZExZOVUtU3EweFNKbjhr?oc=5",
+      "published": "2026-08-26T07:00:00+00:00",
+      "publisher": "24/7 Wall St.",
+      "summary": "Applied Materials’ China Problem Is Getting Worse &nbsp;&nbsp; 24/7 Wall St.",
+      "query": "AMAT competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Applied Materials Drops 34%. Here’s Why You Should Buy the Dip in AMAT Stock. - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNYklqU29ic1dER1k0eEpSLURpdnpiRzY1ZENnU1Y3Y2E4OWNock1WdDZVU0tZVXlnMm9YRjNQTFpVZ2NFZlB1YU5UY3V1eVdzT1F3bDlZUHJELTFQckhjVzJMUE96YTFIQzZmWV9lMjJFUWNkcVVodk05UGVGbVY4RldISnBsM0FkV2o2TzR4T29kcGswR0VJWXdnUQ?oc=5",
+      "published": "2026-08-24T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Applied Materials Drops 34%. Here’s Why You Should Buy the Dip in AMAT Stock. &nbsp;&nbsp; Yahoo Finance",
+      "query": "AMAT stock",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "negative"
+    },
+    {
+      "title": "U.S. Amateur semifinalist files lawsuit against NCAA seeking fifth year at Georgia - Yahoo Sports",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQemJUUWlNbGpfVktVdHZnQjczY3ktYlZtY3NoYms1SHZmNENMR29ZaThYd1ZpNFpmUXdVSFlkdjVGT003Tkw4S041SUlDMFJVRTdBMnR1ZWx1djhXekJzNlNDb1NUb09RbHV2Q3Iwek85YUNaZDliTnViRVRuVDI1RGF2cUFCUWJDdkt6MFRn?oc=5",
+      "published": "2026-08-24T07:00:00+00:00",
+      "publisher": "Yahoo Sports",
+      "summary": "U.S. Amateur semifinalist files lawsuit against NCAA seeking fifth year at Georgia &nbsp;&nbsp; Yahoo Sports",
+      "query": "AMAT lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory"
+      ],
+      "lean": "negative"
+    },
+    {
+      "title": "After Earnings, Is Applied Materials Stock a Buy, a Sell, or Fairly Valued? - Morningstar",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObGRBenNZSlF3NzhPNW92ci1nSm90dTVOU0VRMHNUVUFXOWstazRUcERNMkZKby1BMnpRZE1Hb3VTYy1JYzk5WkkyVWlOckVjVW9YVEV0dHpfLTJZS25NYjRVbzhlVG1JYUd3enhaMEkweGh6SV91dDFhd0ViWmJnZzdKZU10Wm05ejNvZmpSUm5oMGQ1WWdhUUtNNFBWUmttNXlUTmxtZw?oc=5",
+      "published": "2026-08-21T07:00:00+00:00",
+      "publisher": "Morningstar",
+      "summary": "After Earnings, Is Applied Materials Stock a Buy, a Sell, or Fairly Valued? &nbsp;&nbsp; Morningstar",
+      "query": "AMAT stock",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Applied Materials (AMAT) Is Considered a Good Investment by Brokers: Is That True? - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbTAzODl1RkFCZkk3bTVpNm4wdXV1S1lUUF9kY1R3bHRIaXFubElfWU5vbEdHNHVyUFZiMmRvcDlkVVRiS3lDZG51WHpwYnBneHVpWThuSlFPWGVSeUJ4azNwWWtVNG81cWh3UEhWelpWRXFNVEFtM2ZjVV9JRHpMOTB4VWtET0dvcGVQYnhIQkdQR21Icmxpb1NyWDlCNzY2aUx3LUNB?oc=5",
+      "published": "2026-08-21T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Applied Materials (AMAT) Is Considered a Good Investment by Brokers: Is That True? &nbsp;&nbsp; Yahoo Finance",
+      "query": "AMAT stock",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Paul Tudor Jones Just Liquidated His Entire Stake in Applied Materials Stock. I Don’t Think He’s 100% Bearish on AI Though… Yet - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdDlvQ00yX2dPVGh5LUdKbktrOGlxRTYwR1doNldLbVI0Z2FoZTZOLUZveW93eXE0U2x6XzJkeEhiNnhEdC1TRzlVX1lSQXFmNlR5akZ5V0JqT3ptcEEyVkU2cC1KMWVuZmpLTUR0V2NWLUxKV19qTy0zVTI5N2Q0U2hWOEF2OTB3a3dnbTlPZFZHbmpNVWtNWXhNU0VLUQ?oc=5",
+      "published": "2026-08-20T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Paul Tudor Jones Just Liquidated His Entire Stake in Applied Materials Stock. I Don’t Think He’s 100% Bearish on AI Though… Yet &nbsp;&nbsp; Yahoo Finance",
+      "query": "AMAT stock",
+      "source_api": "google_news_rss",
+      "tags": [
+        "mna"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Is Applied Materials (AMAT) Undervalued After Q3 Results And Q4 Revenue Guidance? - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcGtpLUNvZUc1QVhXMEMxRHdrU21lUF9sY2RpeDJmSW92dXNZWUJlWWZWSVJ6RGlXdnN5NGdzcE9QazFuMFkzbmxCdm9fUzhlTFpqRjkzenUzMW93V2t0MDA5V0xLLV83UWNtb05adGtKOGREa09ETGpsWUtKVzBlTHBabTVTdUl2NFoxYUxKajYyWS1VUWVpc3ZoQzdCNXpDQWVhVQ?oc=5",
+      "published": "2026-08-20T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Is Applied Materials (AMAT) Undervalued After Q3 Results And Q4 Revenue Guidance? &nbsp;&nbsp; Yahoo Finance",
+      "query": "AMAT earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "guidance"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Applied Materials’s Q2 Earnings Call: Our Top 5 Analyst Questions - StockStory",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQbk9tdFhfUUxsNlE0WmtTdEdsU0x4VjlDUXpwYmt5b0RWVVFWc2diX3hRQzRyTE9yWG9xSExUUTQ5TGdNMl9NazhUWnhUbmVfM3NraWVZT1lySHdHaUtQTlBlWFVmTXdaUEplZjNjOEJ1ODJmZ1NIUjRkOWUza2JfZ1lQU2xlM1cyYW5aX29sMHNRVEtRQVBFWkhMQUVSU2tpNVl6dV85MDVpUlpfMzQ4Z2xqVVVhNkFkNEMzZ3lMa3BVdDlScnc?oc=5",
+      "published": "2026-08-20T07:00:00+00:00",
+      "publisher": "StockStory",
+      "summary": "Applied Materials’s Q2 Earnings Call: Our Top 5 Analyst Questions &nbsp;&nbsp; StockStory",
+      "query": "AMAT earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Applied Materials Delivered a Record Quarter. The Stock Fell Anyway - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZkJTalM4R1E3OWdZakk1T1JLMmJERVlVRzA1VjNZUlhhaFk2a0VUeGZiV2RmTjdFeGtJTWFfbUJCXzFOUEZsWGlLaGl3UHZ2S3ZZd183ZE5CdUNBWXFfVDZsNi1GM21mNHpHZGVvdm04a3h3LVdQcDFQQU5aR3JXRzhmanhSTmJFMDBfV2RBWUJ1Y05IY3pTenJUd215UTRjd0Vfd184Y0VVbEU?oc=5",
+      "published": "2026-08-19T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Applied Materials Delivered a Record Quarter. The Stock Fell Anyway &nbsp;&nbsp; Yahoo Finance",
+      "query": "\"Applied Materials\" stock",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "positive"
+    },
+    {
+      "title": "Should You Buy, Sell or Hold AMAT Stock After a 31% Rise in 3 Months? - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQb1ZHaVFZYmVWQ1MyNEJWWXR5M0V3cVVjOXJaczhQandyZENQejBBaFRfNGRKRnlDTUV2eU1NWWgyNDNFRWFwYmdWdU1tYk5uZGR1QS1hZmdKbkRTNU45Xy16SEI3VS1DZFplQnJNT3FoeEV6OHdqSHNHcDJrSU5fYzllLTZTdnZKRFE3WjV6bEJXLXM?oc=5",
+      "published": "2026-08-18T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Should You Buy, Sell or Hold AMAT Stock After a 31% Rise in 3 Months? &nbsp;&nbsp; Yahoo Finance",
+      "query": "AMAT stock",
+      "source_api": "google_news_rss",
+      "tags": [
+        "speculation"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Applied Materials Rockets 98% in 2026: How Does AMAT Compare to Lam Research and KLA as AI Capex Powers Chip Gear Stocks? - 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNSnNrcVN4SmZkNS00cmlLeUlwOXIzb18tLWpkWE04d0FMbTNCUjZfOGU3ZFRpQkhoZXRnb1ZWMHJ1Q2dQSTZMUVlTdmJwaGpZbEZUVmowczNQbHlTZFJUQldTVkZaa0NhdXRyY3ZXS1c4VUhYVDhkOFJsbUdJODhBWEdBdC1tSlZkWXFZR3BYS2w5eGtYM0FZZkNGMVBnLWdpdk9YQmUyOHk5NmVOSVdNdklCVTNrODR0cHl1d0M0OXVVNlNRdE5LS082RGdRUUFpZHZBS0NLX2Z6Nm1qdHhXU2RrQ01RbnhpQm5MaENTal9GTjk1?oc=5",
+      "published": "2026-08-18T07:00:00+00:00",
+      "publisher": "24/7 Wall St.",
+      "summary": "Applied Materials Rockets 98% in 2026: How Does AMAT Compare to Lam Research and KLA as AI Capex Powers Chip Gear Stocks? &nbsp;&nbsp; 24/7 Wall St.",
+      "query": "AMAT competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Applied Materials Fell 5% Today. Here’s Where AMAT Stock Could Go in 2026 - TIKR.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPaUkydVN3MlBQVFNPUUFVVGJhLVBzQmo2U0t5MzJxMzlGWm1PTXpNSjEzb3laVDBjMjZpWEpicEpJQlQ1VlpyWjJUQkNFWmtUZk1GYTBHRWFrMHhFNlJITUh5Y1p1dm9YLXNRbklLemtvNmtlbFRzYVV5SXlCRkpxdmFybVNnd3JHQTJ4Zlk4RzhYZzdWSVp5RVI0QUE?oc=5",
+      "published": "2026-08-18T07:00:00+00:00",
+      "publisher": "TIKR.com",
+      "summary": "Applied Materials Fell 5% Today. Here’s Where AMAT Stock Could Go in 2026 &nbsp;&nbsp; TIKR.com",
+      "query": "\"Applied Materials\" competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Applied Materials Trades More Than 25% Below Its High With Revenue at a Record - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbS1uSTE3QWJPdHVJekpLRndYZkRrZVZWR2F3ZmkwOXdQZlg4dGtyb1FsVFZUMEh4ckd4VnEyYVd5VUZrc0lObXBvVThTNUZhVlFkQW9zZnBwd0xMZ1I1czdTa2FMWmxzdWV3VzBvTW5CSmU2UkZVNU5iQi1CSko5ODYxcEhpWWNQc2NKTVJqMHFkVS13RXEtNg?oc=5",
+      "published": "2026-08-16T07:00:00+00:00",
+      "publisher": "The Motley Fool",
+      "summary": "Applied Materials Trades More Than 25% Below Its High With Revenue at a Record &nbsp;&nbsp; The Motley Fool",
+      "query": "\"Applied Materials\" stock",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "positive"
+    },
+    {
+      "title": "3 Market-Beating Stocks to Keep an Eye On - StockStory",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZzluaVF4cm5aUzVybm1hQl9XdEh0QUQ5Y1QyNlhQcTBBYmk2Ni1JQ19mS0hkWmxna3NyVkVIV0syZGhUMnBIS3VqUEZkM1N4c3VNSF8tNzB1SEJhanBiQjR6SFhjZGJTaXFFU2hnczA5UGhvSXQ0T3pNVmdRc2RsbWVFLTlfODNRQ3I3aE9RZUUtOXQxSE55UXRMSndpazRFMEFKbXNR?oc=5",
+      "published": "2026-08-16T07:00:00+00:00",
+      "publisher": "StockStory",
+      "summary": "3 Market-Beating Stocks to Keep an Eye On &nbsp;&nbsp; StockStory",
+      "query": "AMAT competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Applied Materials Stock Fell 5% After a Record Q3 2026 Quarter. Here’s Where the Stock Could Go - TIKR.com",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNek5URE9PNGhDYlRuSHd1Q1o0dGNvVk9NMXN3T3RNTFAwcHNFWTZGT0RzMGJzY1VfQlVPNmJfNXBxVVU5NHpqYkVXM3FqRUotaEh6TDloS284VnRJd2hUVi15QTd0cnNZS3hZNno3UmtScjF3WnVhMXFiR2pNWkExNldFRTFUZmNpLUx4Z29nY3hIZF9DcXlhcUxrRGtZX3V1VzFScUg4VXhERUVOMUpRU2otQTY4TEtpcUE?oc=5",
+      "published": "2026-08-15T07:00:00+00:00",
+      "publisher": "TIKR.com",
+      "summary": "Applied Materials Stock Fell 5% After a Record Q3 2026 Quarter. Here’s Where the Stock Could Go &nbsp;&nbsp; TIKR.com",
+      "query": "\"Applied Materials\" competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Applied Materials (AMAT) Stock: A Top AI Pick After Record Q3 Results - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNM1NkQWItdnd4NmJvSy1DNDVUVTEwQTRvZ2kzZlBMLU5jZ200SkVZNkZpMTk3Y2NDeWZ6TzB5RDdqMkxPbjRvWlFmekVITVNvNlNjMXctWGUzRk9RLThkcEFNWDVwdUd6MTRiX3U3bWRsd0dqSE8zRTFhUERuRGhEcVF6MG9ERHNxd3dYQ2JPNm5oMGlQeTVRSXVTeUw?oc=5",
+      "published": "2026-08-14T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Applied Materials (AMAT) Stock: A Top AI Pick After Record Q3 Results &nbsp;&nbsp; Yahoo Finance",
+      "query": "AMAT stock",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Applied Materials is Down 6% Premarket. Will It Drag Down Lam Research, KLA, and Other Semi Equipment Stocks? - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNLTFxSnJFR0lWc2pCM3lmZVpsU01pV21CSFNBbTJDbVRCVHdGR2x4MV96REhqVWRpVS1JNkdLQ3NCUnZNRVNUZzJTaFhmdEY4anY2LVNQZnJXRnN4cEZENlk5MGNZNDFOc3ZhaHJsMFV5XzBSZHhDUUg1YThtSXhNcjBuejEwYnB4dmJUZ1c5aDIzOW42bVk2LU5aQ1FRMzVJ?oc=5",
+      "published": "2026-08-14T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Applied Materials is Down 6% Premarket. Will It Drag Down Lam Research, KLA, and Other Semi Equipment Stocks? &nbsp;&nbsp; Yahoo Finance",
+      "query": "\"Applied Materials\" stock",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Applied Materials Quarterly Revenue Guidance Implies Slower Systems Shipment Growth, Morgan Stanley Says - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONE1oMHV2WjdxeTM5OExHdGFuZE5ZSkRoNUpQNDlWVFl2bHF0QW4tdGk3WE4wUXA3aXpiUDV0bjBoenZocmIzZjFpWmljNDBySWF5QlZFcWhpUUNGMVlJUEhUZHpwWUxNbXlXejFDMXpmR0hsY2tkMUVNS0Y4dndjQUVZVC0tV25YWkJQc1gxNUVwdjMzR0Y5WjZRb2V4OFBfUTNCODJLZkZ2MjRZZ2c?oc=5",
+      "published": "2026-08-14T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Applied Materials Quarterly Revenue Guidance Implies Slower Systems Shipment Growth, Morgan Stanley Says &nbsp;&nbsp; Yahoo Finance",
+      "query": "AMAT earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "guidance"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Applied Materials shares are down on guidance and margin concerns. Analysts call it time to buy. - MarketWatch",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNWlhHOU1EV2VjQkh0UHdZa2xSSEdBVXhnMm4yX2lpOWdsZTQwVGlSN1g1eXl4UXFTZVhkZEZsZmZ0ZURtVzRPMkloOUF3VThUWjdSNFNmeVotSGZUd0Z4dWhFZ1l4Yno2VG8zaVBRMGlBU3FySU15ODFacWd5RGQwdkNjcmFWeXN4dU9jRjdYRG5wUDByd2RzWGlMNktWMlBSenFuajU2aHg1UHJ3UVYwX0lab254YTVRemdkNGlBb0R5RkJfWDAwUE1ReXNDNGpZUkRCdWZDNA?oc=5",
+      "published": "2026-08-14T07:00:00+00:00",
+      "publisher": "MarketWatch",
+      "summary": "Applied Materials shares are down on guidance and margin concerns. Analysts call it time to buy. &nbsp;&nbsp; MarketWatch",
+      "query": "AMAT earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "guidance",
+        "mna"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Applied Materials Earnings: Momentum Continues as AI Equipment Demand Keeps Accelerating - Morningstar",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRWxUUlVOSE1rTU1udERXTkh3MjdYdHQ5cVFZeEU3UUxNQy0tYUxOMDJsLTBEek9xODVvVUFjOWE2V0FtQ3U5SmJRY254UUZLRF9YczlkcW1idTluU0tTdWFWY1dIa1R4UUtvVXQyX052MWo3SWxXdkx1NHh4UmtPMjZmUzlnS0lCOXNkWWJ3ekwzYzlhbUlOWUt5YnZZcVdxSWMwbGtucExFX0RObUYwcjNsSm04QVhJUUFR?oc=5",
+      "published": "2026-08-14T07:00:00+00:00",
+      "publisher": "Morningstar",
+      "summary": "Applied Materials Earnings: Momentum Continues as AI Equipment Demand Keeps Accelerating &nbsp;&nbsp; Morningstar",
+      "query": "\"Applied Materials\" earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "demand"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Applied Materials Slips Despite Strong Outlook as SMIC Rallies on Earnings: Dow Jones, S&P, Nasdaq, Wall Street Futures - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWHdLaVQyc1pDdkRuNkRiY2FBanNoOWNFTzZKZW5uVFd5MUJXenp0OUVDejZ6Y1ZMYUVBVjJCSmlTRzVrN2txX2d6QkF0M3B3UWdfRVlrZHZ0ei1UYXoyTFpCNGFTUW5FeDNIdktocmRkS2tWZWxOVGVURDdIOVN3TzRXUk5kaHktN0FNYm5NTHMyTUN3aFk5TGJWd1hHUDVLV1VXM2RR?oc=5",
+      "published": "2026-08-14T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Applied Materials Slips Despite Strong Outlook as SMIC Rallies on Earnings: Dow Jones, S&amp;P, Nasdaq, Wall Street Futures &nbsp;&nbsp; Yahoo Finance",
+      "query": "AMAT revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "guidance",
+        "analyst"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Applied Materials slips as investors seek faster growth after stellar run - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUFlrcFhLMmZGclJ2RWRqTlJJdDRoenVPcUJVZUduajRrNEZueVBjejJiU2dQMFAtVG94SjRCU1E0V0h0OG1oOU82LXlrLVFnZjdGQ1dvaXdEQlBrQjl2M1JDMlN2WmpURXJQMEtmX1pFOFpkb3dwOWRTTW14UjNrbXBvQWU0SXFRTG5nZ2FKcWxCYlp3NjZySWJNQVVOZGJvd19qTnp1Mm1yQXRNZzFidHM3bmlSQQ?oc=5",
+      "published": "2026-08-14T07:00:00+00:00",
+      "publisher": "Reuters",
+      "summary": "Applied Materials slips as investors seek faster growth after stellar run &nbsp;&nbsp; Reuters",
+      "query": "\"Applied Materials\" revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "positive"
+    },
+    {
+      "title": "Applied Materials Stock Slides, Despite Solid Results - Investopedia",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTjJBY3ZLY3R2NVZNTzB6NmJUMW5XV01URDlEczBxY1YzWnlSMlJoSGVUUVhqc0tKcklNUXVKOF9iX1d3T2JDVFNvSjBfWjdDdV80TzZuQmdMSWk1QjJXLVBlcFhmdnphYkhqUURiYjIwUHlFM0lKdjRLNFljTWw5bTQxa1hjYXFHZXJKVnh4TTdSMFNieHI0TF84YjM1N0htZk5taGMyemdFX2M1YXc?oc=5",
+      "published": "2026-08-14T07:00:00+00:00",
+      "publisher": "Investopedia",
+      "summary": "Applied Materials Stock Slides, Despite Solid Results &nbsp;&nbsp; Investopedia",
+      "query": "AMAT competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "price_move"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Applied Materials forecasts revenue above estimates, shares fall on high expectations - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWHJyaGsycWNqcVJHZjVUTjk4UDRVcmlGaldsMk80U2FjN2hzNkdNTUZ1RVlaUTI5emRfaUkwNl9haWpQeFY4MzJFTW4xVm5lYWJlZUd2RHRESzN0TU10U0hhQnFoYTNJX2VXaU9HcnluM0l3a3FrMWdqUzlTRlpNM0RmdHVDTnZib0haWHd5UTJhams3TEZ4UmxXMUJGUGdMN1gtWjB3cXhnZw?oc=5",
+      "published": "2026-08-13T07:00:00+00:00",
+      "publisher": "Reuters",
+      "summary": "Applied Materials forecasts revenue above estimates, shares fall on high expectations &nbsp;&nbsp; Reuters",
+      "query": "AMAT earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "guidance",
+        "price_move"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Applied Materials (NASDAQ:AMAT) Surprises With Q2 Sales But Stock Drops - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQmh2VmdSU2RsZEhKVEtveTEyUzFjN0NaLVZJMzRid3lzRTNxaE5nMWlwZkVRaTV0bVBQQ0lxYktyeEZiLUFPVFZGS0V1Uy1xcThPVW9jVzhDa2xsSXF5dXNPTWVzTGlmb1ZqQVMzdG1YMm14RkRuMjhlVWVrWEZoSjVCZ2ZWdWxuRzk3NUM5eC1yVk9zZ1JLT3RTcWI2VFByYl9CaUVITQ?oc=5",
+      "published": "2026-08-13T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Applied Materials (NASDAQ:AMAT) Surprises With Q2 Sales But Stock Drops &nbsp;&nbsp; Yahoo Finance",
+      "query": "AMAT earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "demand",
+        "price_move"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Earnings call transcript: Applied Materials beats Q3 2026 estimates, shares fall - Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOeWZxNWNOVFFwSlVreEk1cUtrWXM5UzhsdzNabEowWVVsR29hNkkydzdnaVl4T2pwSmpLYUw3MnYyWl82REFZdFF0aHI2WWVPNjZSdk95TXBMaW4tbGgwb00tTW9wNGRDVXhzeG9QcVhkOVhzQk9MLW0zazZuMzJpTWUyTUpZLUNKM0dKakdhXy1vVi1nYmhrcDl6YllZSE05czYyQXhTZ0JtQXNlcHgyNDVUbzRZOU92Qkh1ZF9MRktoM1JKaThNN210WWQwN0U?oc=5",
+      "published": "2026-08-13T07:00:00+00:00",
+      "publisher": "Investing.com",
+      "summary": "Earnings call transcript: Applied Materials beats Q3 2026 estimates, shares fall &nbsp;&nbsp; Investing.com",
+      "query": "\"Applied Materials\" earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "price_move"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "AMAT Stock Slips After-Hours Even As Q4 Revenue, Earnings Outlook Top Expectations - Stocktwits",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNYUM2dF9RVnFBSHJwTlRoNHptcWI0OEUxZ0laYVFaUEZpUzNZcjNkUzJtUmVHRmZ6VjR6eFZySU1zdTExMldmUG5mbEhGdVdVakhMdUlWNW9qTFJkSC00ckZfS2h5enBOS2RUdUFYYS1OQ1FZdmhTNUxWUjc5aTRaRzRGaEdya2FsOER3NVJoTEprc2dydjJ1SUI4OWtydWkyVmhxS1B0bUR4Z0lWSFVMWnNEaw?oc=5",
+      "published": "2026-08-13T07:00:00+00:00",
+      "publisher": "Stocktwits",
+      "summary": "AMAT Stock Slips After-Hours Even As Q4 Revenue, Earnings Outlook Top Expectations &nbsp;&nbsp; Stocktwits",
+      "query": "AMAT revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "guidance"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Applied Materials earnings outlook: options market prices in 7.5% move - Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPbFVmalFRd19qbENxcG16SnFkOEUxcnp4c0QzM1JIeFZEcy1GbHQyN0FxZnFqbGpZc3Zic0M4NS01QmcxYnFzZ0lIeU16ZzZjTk9IY3dHczhJYzc2U0llMzROb0VXTTBIU0VKSS1yMXgyWDY4R0loQ0VDTmhacWdoTHVkaDdwbEpwLTByazBoZmxOZC1ud2xKTTlqN3h4cnlnTUtWQ1NmOGxwS0ZuSElpQWRuZ2NuMFVkMy1kUHZ2NzExME13U1JzUg?oc=5",
+      "published": "2026-08-13T07:00:00+00:00",
+      "publisher": "Investing.com",
+      "summary": "Applied Materials earnings outlook: options market prices in 7.5% move &nbsp;&nbsp; Investing.com",
+      "query": "AMAT revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "guidance"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Trump rips Hochul, Mamdani pied-à-terre tax as ‘amateur hour’ that’ll ‘ruin’ NYC - New York Post",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVC1LOU1DMFV3OWFoYlZJN2l3RTFrU0FmNGc4bE8yTGJFNDdXVkJOQkM1RVN5b1VEX29pYkI5dmpvY0pGMnpVQXA3WkRmQ0xXSVlzczlHWDNLV0FwXzJKX25uSkxBNnZmaWdyV2o1Zmctc2M4T0FGYW5PUkxJX0hyT3FvMEpmazZIWGRPQjlVaGxJV1Y0Tk9xc2NJTnNRSk5iLWF3M2Q4aVVYbGo0ZFpIeGlzaw?oc=5",
+      "published": "2026-08-11T07:00:00+00:00",
+      "publisher": "New York Post",
+      "summary": "Trump rips Hochul, Mamdani pied-à-terre tax as ‘amateur hour’ that’ll ‘ruin’ NYC &nbsp;&nbsp; New York Post",
+      "query": "AMAT lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Earnings Preview | Applied Materials Q3 Earnings Countdown: Wall Street Forecasts 35% Profit Growth, with a 43x P/E Ratio Awaiting Validation - Moomoo",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOa0F0Uzk3dnR6V2syLUxqTzRONXFVWnVpdUEzT2tuUjJtQWhTZEUzdGVYZHRfckJlVjE4WXMzZHFERURKdjA0MW9KWnFhQ0ozcE5xSmx0NExfQXdBaHFxSEtJNlgzZEEwMWdLc05XN1Q5NGFLVHZZVktIYVVwbm1Rby1FMEVDaXd6TEpqS0ZKa2tmbXdzUHBNbWt4aXNmSHFGbkQ0clkyODc1dFdxOW9ZdmlacjFlbGFNRWV4Tw?oc=5",
+      "published": "2026-08-09T07:00:00+00:00",
+      "publisher": "Moomoo",
+      "summary": "Earnings Preview | Applied Materials Q3 Earnings Countdown: Wall Street Forecasts 35% Profit Growth, with a 43x P/E Ratio Awaiting Validation &nbsp;&nbsp; Moomoo",
+      "query": "\"Applied Materials\" revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "guidance",
+        "analyst"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Applied Materials: We Expect Upside Heading Into July-Quarter Results - Morningstar",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbGNvNXg5TjNfa3pCdUhJMWNRczlrWUY4MldlV0h5QjFHUjBPbjhaa0hfdjBrY1VMSmJpV0RWWVdHc1pvN0FpYTl4YnRfTDU1d2VYZDllbWEyV3ZVZlBBWGo5eFllb1JZMjJKR2dTNkdMbzhQSFJDMzdnVDhlaTBTVVRLUEN5RlNka1pKelRmQnl4d1VYSHRNS3pCUzB2VWt0TWxEc2N3?oc=5",
+      "published": "2026-08-03T07:00:00+00:00",
+      "publisher": "Morningstar",
+      "summary": "Applied Materials: We Expect Upside Heading Into July-Quarter Results &nbsp;&nbsp; Morningstar",
+      "query": "AMAT earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "speculation"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Applied Materials (AMAT) Stock May Not Be A Bargain Despite AI Materials Foundry News - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPd1JnNzNwbXQ4VXdjdnd1Zm5VVDI2akJVYW1OckJoWVE2cWcza19nWjhCaFJlMWhmRlpXX3ZFbktGZEtCWGxPNTVvNE10SHRoRGFNZ0VCTkktQXdEVS1CYlEwa1RxWTNLNjZTeU03NGktRFhxYzF5OVV0bEl5bHotTFNvcjNCeG5FRmV0Yjc3NzlWS2FwQ2VwTXNxejZ2Zw?oc=5",
+      "published": "2026-07-30T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Applied Materials (AMAT) Stock May Not Be A Bargain Despite AI Materials Foundry News &nbsp;&nbsp; Yahoo Finance",
+      "query": "AMAT stock",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Lawsuit alleges Pulaski Co. student’s two-way radios were seized without warrant - WKYT",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVzJsRFhPdnFUb2JfQmZobGQxN1JHSmZYMUc1b3ZBRmNNOEVsWVVwN0pkaDM0LUlzbHczNVFNM0R6Qm5DMEtYckhFZ3VjUDlaZlp0Y25lRlJ6bXFiRTBKY3BXdkl2bWI2Y0NZM2RiTDhfMF9HNjNWSGFPd2pzekt2NHlGS2ZKeVY5M3FNcEp0elM5bFpuWnZraEg2TmNxLUJDczRrV05GT041aHFfZ2JQR9IBxAFBVV95cUxQWGVraE5KYTBuRGVObDVaY3Nib1YtU0FXOF85eW1tN3p5VkZmYlNpN1hSM1hTVXR2RC1iN0JXZmViX1RXY0pQSC0ySkczMVRrb0RnR054MHBianJNVVZud2lwdHlpb2xCLUw4bndrWEJiU21JMlFnZndQOUszUHp1bno4dVh3UUhXRUJudXg1N0NLYUotYVFKNms0Y01iT1o5LUlfRVo0N211TDlMNVZocUhJYUkzb0wtRjJBUkFhVzNUSnlv?oc=5",
+      "published": "2026-07-28T07:00:00+00:00",
+      "publisher": "WKYT",
+      "summary": "Lawsuit alleges Pulaski Co. student’s two-way radios were seized without warrant &nbsp;&nbsp; WKYT",
+      "query": "AMAT lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory"
+      ],
+      "lean": "negative"
+    },
+    {
+      "title": "Benicia chip manufacturing tool maker acquired by Applied Materials - The Press Democrat",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPU0huRmNWSDYyX3h2TVpHcXNwNGs5OUYtTUhvOFlGeTRGZTFFVWtUeEstZFIza0ZhWVRwWXNyUUVJeHZ5eC1VUW8xRjc0R19CTHpGOHZsQllCWkdIeVZpUjUwUVJIZW11VlUwdEd6bTFHeHI3OW1aTGFQT0ZxbGxkRmNGMEY1T3pQb2w5Y2VDdw?oc=5",
+      "published": "2026-07-28T07:00:00+00:00",
+      "publisher": "The Press Democrat",
+      "summary": "Benicia chip manufacturing tool maker acquired by Applied Materials &nbsp;&nbsp; The Press Democrat",
+      "query": "AMAT acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "mna"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Lawsuit claims licensed Pulaski County student’s radios were unlawfully confiscated - FOX 56 News",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNaHU4RDFvRjctei1FdUltZ3hGenl6MGxoVER0aExCQjNLdGdpd3VUTDZFNHVQZF9ocDk4VnRnWnVoaXN1YzJWZTdPWXdfUHo2TWNjY19kRk9ad2gzSU5IVzFGNlMxREFwRGo0bE51RUNXWG9TNmpDVklKVktIeTlvWHA3SWg2N0c1UHBaVjl2ZWFrU2dKTXZuNzVMdmV4Q2dQb1QydWR3NWRSSVAzQTdhb2lJLTFJTUdiazZB0gHAAUFVX3lxTE5KaUNPQTVmNHNsNV9TTVJwRlBhSkU4Y3FTUGRpN0plVGFNeFU4N0Uwakp5SlRSc0dybHdNU2tsSFJrd3RGTWU1cE9EZlc0QUpFcVZWc0I1ZFp3aHo0WFF2TmhJLWJlQ2Y3aWJadmRJU2pNMFZVUDU3QUdZR0pqR1pZZjVqZmNDTldfRFlNNE5rR0E2RVgyWTJXZFEwWXJKUWUyRDlKeExicGlYRGEyV0hVMDRnUGMwQXVmRHMzNjdXOQ?oc=5",
+      "published": "2026-07-27T07:00:00+00:00",
+      "publisher": "FOX 56 News",
+      "summary": "Lawsuit claims licensed Pulaski County student’s radios were unlawfully confiscated &nbsp;&nbsp; FOX 56 News",
+      "query": "AMAT lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory"
+      ],
+      "lean": "negative"
+    },
+    {
+      "title": "Family of KY student says deputy seized child’s radios without warrant. They’re suing - Lexington Herald Leader",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1JTVJ4Qmx0RXZ5M0plemVUclFpc1FTSWNldHFhWTNZNDdzR2hXanlPWnZJdnFZbVJHampWcDJJWmdNc3dCb3djQXk5T2JoR2FheV9yQXFNZWJSSWpzZHI1Mkluc0k4MEhH0gFoQVVfeXFMTV9LQXFlVlN2Zk5DejVJUXpVTlFwbWZwWUczZC05T0o5blNEQTRBa0tycHAxaFA1OU1NaVNtVnNXZlI4T3BDVlRlSzhyS041RGRPRjJKaERmWVF3aXQtUlE2MXM5UEV2cWI?oc=5",
+      "published": "2026-07-24T07:00:00+00:00",
+      "publisher": "Lexington Herald Leader",
+      "summary": "Family of KY student says deputy seized child’s radios without warrant. They’re suing &nbsp;&nbsp; Lexington Herald Leader",
+      "query": "AMAT lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "What to Expect From Applied Materials' Next Quarterly Earnings Report - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNYXBKTGsxdGdEd2pxZjNZaXhtREZoeEp3cnpmYmFuSlBZcHVCX0xjcGtyMG1zX2xjd1lkTTZqck4xZ2NzQlFYeE9lWnF1cEhGUVRIVklYYUtEcU9MODM2Y1BtWXJCSFI5ZkZFM3UzVnVMVGRUdllFMHAyOFpVekNvdmFTdG5IYnZNa3BWY3pCM3BZWEFlbXNZUFBnclNmYWZ2UzhqWVQ2WQ?oc=5",
+      "published": "2026-07-23T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "What to Expect From Applied Materials' Next Quarterly Earnings Report &nbsp;&nbsp; Yahoo Finance",
+      "query": "AMAT earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Why Applied Materials (AMAT) Stock Is Up Today - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOejI3aFd5SEIzSHRaeHhnX3B3d1piQzJiNjlxQmNoTnhsTHU4VV9VemlsREs2elBaN3ZibC1LNkNybEljaTF1dXM1eWRyRnJOYklYZjNRRTJuV0E0c016Z3otckVYRTQwd1hXbzFxOTdVX2VGc0syd3dTSERDV0JYdC1sR2lSeEhEa3JMV0xpeDcxTzhiYVdYZ0x2a2hzUQ?oc=5",
+      "published": "2026-07-21T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Why Applied Materials (AMAT) Stock Is Up Today &nbsp;&nbsp; Yahoo Finance",
+      "query": "AMAT stock",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Officer sues, alleging LAPD retaliated against him for investigating death he believed was a homicide - police1.com",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNY1dlMUprSzI3eHp6bG9EZWtBaFRiRDdVZVJ6MUZfeDE4bnhwX2hHV19DYVVtLWk3WE5Ua1dzYXA5UWJpZVlzejJ2c1NmNjNKX1hSemVVV3E5NjV2VVJ2RVg3TDVDMi1yeEU0My1MYVJjQzNQd2tLUGNYbmI2UHFVMFlkTWJ5YkdUMmlCeFRhVW9hYnROX2dJQ2VWdk9MR1lySnE2MnlibjNzeXRGZlc4c3NaVjhHeTMxbmsweE0xeHJrMnpnV013Q1hB?oc=5",
+      "published": "2026-07-20T07:00:00+00:00",
+      "publisher": "police1.com",
+      "summary": "Officer sues, alleging LAPD retaliated against him for investigating death he believed was a homicide &nbsp;&nbsp; police1.com",
+      "query": "\"Applied Materials\" lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Applied Materials (AMAT) Sees a More Significant Dip Than Broader Market: Some Facts to Know - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSTlsTDVfWEpfc2dHUWtHSEVmNXFTTXdXWVBld0FhYmo2TXZMTzgySU9pbU9FVTgtR2JmLWdENDVEVl9qTnFmRG1RWmp2Sy12MDdBbmpadng1OVpJZ0ZXNnhWVGV4bTA2Y0oyZXEwX1prZ2N5X3E1RDBKNkQ3X0FLUlJ0bkZtWmNscFl4R0EzU09ESHVYUVV3bWstY0E4dw?oc=5",
+      "published": "2026-07-20T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Applied Materials (AMAT) Sees a More Significant Dip Than Broader Market: Some Facts to Know &nbsp;&nbsp; Yahoo Finance",
+      "query": "AMAT competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Applied Materials (AMAT) Stock Looks Above Fair Value Even As Earnings Look About Right - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVk9zT1N3TV9uTUc3VFBGVVctVGxWUHlkZklKNUtXaTZ6aDl6MmFDRHhlYVhLMUJfUUl4ekd3Sm9TaWRXRnJXenhLOHRIYWo1QlY4TlY0REVWTTVLUUhKYm1IdnhMR2JfM05tZ2lyWkVhak84NW56QXFreXZyNmRZMzBkR09XNDJ3OFI0NHFzUVhLUjllcml2TkdxRDJ4aWpl?oc=5",
+      "published": "2026-07-16T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Applied Materials (AMAT) Stock Looks Above Fair Value Even As Earnings Look About Right &nbsp;&nbsp; Yahoo Finance",
+      "query": "AMAT stock",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Applied Materials Hit Its Highest Margins in 25 Years. Here’s Where Shares Could Go in 2026. - TIKR.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbGxmLVVRcFQ2NUNibC1oM2NzMGVWNFZEVVB3SE5UVTJlX2xHZ3M4aXgtMmVzRzhfbV95aG1KUWJVckJxWW1BSW1WSGtHVXUyRm5wYTNPcy1RWE5OZ1NzaUdGaHZNZlZ0SHQyRUxDYmg4WHpnZVR5bmRQSUpMYnNOZjBxME5COG1KV2JObGg3QjJRTnlrdVdRNkozUFpEUmZ4SEhudUo1SUJMUDJ3S3IwdXB0TXVuUQ?oc=5",
+      "published": "2026-07-16T07:00:00+00:00",
+      "publisher": "TIKR.com",
+      "summary": "Applied Materials Hit Its Highest Margins in 25 Years. Here’s Where Shares Could Go in 2026. &nbsp;&nbsp; TIKR.com",
+      "query": "\"Applied Materials\" earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "How Applied Materials (AMAT) Is Positioned in the AI Hardware Build Out - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVVpINXdGLUJ2MUR3emZvVFhjX2JzUXQ1OC12VjBZNlFWeWtMXzZIdWZSMlhnNzVuN1I3NGp1bXR1T1BoSWFpTElQSXV6R2ZVNUxzVjFoUEh5MDdpZVdrVkZ0bWw2bmNCZm5wbmRTM0x4ZUc3RzVyTmNGQ0JxQy1za2V2OElBR1BmcUNpdXBEQXVkOHlZaUtPdk9JTQ?oc=5",
+      "published": "2026-07-14T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "How Applied Materials (AMAT) Is Positioned in the AI Hardware Build Out &nbsp;&nbsp; Yahoo Finance",
+      "query": "AMAT acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Dynamic Competition Is (Also) a Pro-Enforcement Framework - promarket.org",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOR3Yzd2xwMlBEdnNWb0JfTVZmeE52bmZvWm5nWnA5aHFDZWdJVHJXN0UtdURLN2hNVE9GUG43UnhVTkxzS3lUUWRyUUQtTGRpMEs1bV9GZzRMdG56Zm45SWpjS1ZyZnVKZjlRV3NPRkRuUG82UDFfX3hSbGNWa25NaWpzRkZDZTVfeWk5dUpGelJsN3BwTUpBUg?oc=5",
+      "published": "2026-07-10T07:00:00+00:00",
+      "publisher": "promarket.org",
+      "summary": "Dynamic Competition Is (Also) a Pro-Enforcement Framework &nbsp;&nbsp; promarket.org",
+      "query": "AMAT lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Micron shares rise on $3B US semiconductor supply chain investment - Proactive financial news",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZUlDX0FiQlJEVlN2R0hFR193RXQ2eDk5QzFtT2ZoMTJtSTI3elBRTWdCWDNLMWtWZ0U0WWczV3lHUE1nVG9DSk5MWVphcnAzS2VfNjBXSVBZVjFOY3BTU05hWDVRT3FFdGRidHhuZENKYmxmbHFOQUpWbEdMVl9DWDRXYWhBSUcxTW5UQ2RQWWJDLWE0dDhlZ1VBb1diUFNSMkp1QWlXV2JfekgzODBlSnRXcWtfaEZBTzZEMmVER3JhMjROcjAyS21ueTV2Rm92RHc?oc=5",
+      "published": "2026-07-09T07:00:00+00:00",
+      "publisher": "Proactive financial news",
+      "summary": "Micron shares rise on $3B US semiconductor supply chain investment &nbsp;&nbsp; Proactive financial news",
+      "query": "AMAT capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity",
+        "demand",
+        "price_move"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Susquehanna Raises Price Target on Applied Materials, Inc. (AMAT) - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPV2d4U1B6b1RnYjVXa3ZaaVR0U0lobHg0a3Y1UEs3WWRoTEFfeEFxYU8xQ0FGbVhqZHhiRFM3LW41RmQtRmtFMlhTWjMzZ1l3bEhjVWFWcWZJNVNsYkdEZFdMOWRlUGJFbUNaellYUlRYek8tV2VFYWl4WmRoWnNrRGRKVEZQWVNyUlRVbExacGRNMjY4NXJzWWdXUklHX1pVcncyNHM2MA?oc=5",
+      "published": "2026-07-08T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Susquehanna Raises Price Target on Applied Materials, Inc. (AMAT) &nbsp;&nbsp; Yahoo Finance",
+      "query": "AMAT analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [
+        "guidance",
+        "analyst"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Applied Materials Tanks Even As Morgan Stanley Hikes Stock Price Target - TIKR.com",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPVF9GXzB0aHVTeVBUaFlJa2IwcUw3LXBxd3BxRHZLc3FyWXpXVkg5RGVJTlFHZ3ZDcHNuZHBpOGswdjJVaEZvNlk5a0VwNTMxenVnak0yUzFzNm5ZTGliVTBQQWNnU25QX2ZwWXdCTHd0MW9KN21JTF84N3NYNkdyWGFHSk5fZllWNTBYRWVyVER4UjhPTXhWdWlZejJYTlQzalVyczVoWGtCWFdYczg4bGZtbUZMZG43ZXpORTRxYzZ5U3NWckNOeHo1amZ0THhTRXJYSkVfSHhLeDZ5Vy1vclpB?oc=5",
+      "published": "2026-07-07T07:00:00+00:00",
+      "publisher": "TIKR.com",
+      "summary": "Applied Materials Tanks Even As Morgan Stanley Hikes Stock Price Target &nbsp;&nbsp; TIKR.com",
+      "query": "AMAT analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [
+        "analyst"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Is Trending Stock Applied Materials, Inc. (AMAT) a Buy Now? - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRDExWWVma2RfS2ZJTFpkUzh3R0l4dDhLNzlrNm9YbkZZWlpobTBoZVNpQTNVRU03MFRlaGIyVmpBX3ZxbDZybDdkWngtUE13ZEhqTVdBQVhYMzh1cnBFN3FVS3JhUmhvOUtvR0pqb3B6emJ0T0VkVVMzVjdRQlloYmFHWkYzUHBWYjk5Ym56QXJmUTMzWk1wT1lhT0RKaVM1NDJz?oc=5",
+      "published": "2026-07-06T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Is Trending Stock Applied Materials, Inc. (AMAT) a Buy Now? &nbsp;&nbsp; Yahoo Finance",
+      "query": "\"Applied Materials\" stock",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Applied Materials Stock (AMAT) Opinions on Analyst Price Target Upgrades - Quiver Quantitative",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSE9TbmlzeFFoSmRmYkdTTmplRnFneGFwb1JQVFI1NVhTVW54SWhwV0hDdzdCT21CZk1DQm9uVl93M0c2RmNrMWxmT1hFVVlYQ0xlN1E5RjVVQjVEQUhrMF9WLWx3amQ5VzEtRXhMalktV3JGMU45S0VEUEx0cWswbVFWMU9nLWptUDNYcFROMjhSbUhZR3ZKNHdRNU84cWJWZ190MGVGb1g3MXZYZ0E?oc=5",
+      "published": "2026-07-06T07:00:00+00:00",
+      "publisher": "Quiver Quantitative",
+      "summary": "Applied Materials Stock (AMAT) Opinions on Analyst Price Target Upgrades &nbsp;&nbsp; Quiver Quantitative",
+      "query": "AMAT analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [
+        "analyst"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "B. Riley Raises PT on Applied Materials (AMAT) Stock - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOamZLSzhCMXBnYXdiSGNhN1FHdElXNE42dURlLWQzanpIQjlSeC05cXdpa19JNDQ4SVQ4dng3RGVlOTZORTkxVHB5VnVHNFZBUWEwaUNpZEg0YXFqNmxoamUxbmI4UVdKSmp3NkhMYU5LSjg2RTZGWHRMV0JkaUk1ZVdTMFI4WmhFQ2w2WUpnb292Y0do?oc=5",
+      "published": "2026-07-04T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "B. Riley Raises PT on Applied Materials (AMAT) Stock &nbsp;&nbsp; Yahoo Finance",
+      "query": "AMAT stock",
+      "source_api": "google_news_rss",
+      "tags": [
+        "guidance"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Applied Materials Stock May Not Be as Expensive as It Seems Even After Record Rally - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbXVtRHhuRGtWTl9YOXQ3SWRyQ1NpMTRuQk5PTk5RVjhEUUVFMjRLWWdRSk95ZzFQLW9OT3ZBc1ZzR29wYkVfV0EyVTRvdGxMMW9zQW5vS2FveVN6NTF6LUJkUE9KUmlRUk9jLUd2bk5XTnpkeWNaWWhCZGpuVjNjVFh6ckVFNzYzVzRudWJvdXRqbU5FaGo5SE12OVQ?oc=5",
+      "published": "2026-07-03T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Applied Materials Stock May Not Be as Expensive as It Seems Even After Record Rally &nbsp;&nbsp; Yahoo Finance",
+      "query": "\"Applied Materials\" stock",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "positive"
+    },
+    {
+      "title": "Why Applied Materials (AMAT) Shares Are Falling Today - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSFltcExpUVlESk5qZ0htUTRCSEE3RFdmbEFJTmRjV1FYNEt5OHhQY3ZRS0UtRW5EaTB0aF9fcmU0TmdmY1lUUUg4TlZaTTZGczRMcWtnZXczRHFhdDlhWlVfYW0yVy1sRU0tZkpvRVJETnd4UUpvSUJBT0N0ZjZ4RTBpQTVGX0JLUW5wSVNzbjItbUhjMi1Od2ZKMFRRd2M?oc=5",
+      "published": "2026-07-01T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Why Applied Materials (AMAT) Shares Are Falling Today &nbsp;&nbsp; Yahoo Finance",
+      "query": "AMAT stock",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Stock Of The Month: Applied Materials Notches Best Rally Since 1975 - Benzinga",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxON0lzNDdSbXdKREkzNklZdWVQc3YxWnRoN3l0LXVILXBwNXlfdFlzUUVHRTBicXA4VG5Rd2h2R1g2N0ZfWHhVRTNUN2RxS09YOEZaTk55UkdNb2QwTXJnS3J5aXk1VzFyc3RReDdNcmU1TGRXWGE0UDN1VDNUVTJ6RmtIZEdsX2lRLWJQN0NxQ3hvMG5fMnh6b1lsSUkwREswN0pKVmhn?oc=5",
+      "published": "2026-06-30T07:00:00+00:00",
+      "publisher": "Benzinga",
+      "summary": "Stock Of The Month: Applied Materials Notches Best Rally Since 1975 &nbsp;&nbsp; Benzinga",
+      "query": "\"Applied Materials\" lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Applied Materials Stock Hits Record High After Price-Target Hikes - Investor's Business Daily",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQYWlONW1UUUg1VzM1ZHE4LUR0WlB2VTBXS2Z1NEV5MVBPVk85RGlGUDR4a0M3TGJLanpsWUZCVWFKS2JPbGxoMndzSzZ0UHFZRXpDREt4RjJoSmlmUkl6eXg0ZlM3blRrdGx6WnRyYU5COUYxbllUVnZSdFE3Q1I2MmJDN2F3TXZ6QzNpWTd6TlVHVTcwUXB0bkJrcw?oc=5",
+      "published": "2026-06-29T07:00:00+00:00",
+      "publisher": "Investor's Business Daily",
+      "summary": "Applied Materials Stock Hits Record High After Price-Target Hikes &nbsp;&nbsp; Investor's Business Daily",
+      "query": "AMAT analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "positive"
+    },
+    {
+      "title": "Applied Materials: Equipment Market Surge Priced Into Stock Price - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZC1ZVWc4aExpOVEtYm5xVDlkYVZMNU9aRWdXeGhMRHZvQ21JTlhsWG1FbFEzTFZYcjRNY3p4cWc0dVFnS0FYZXBBWGZfTF9hWkVZR3UwYjNCdlM0WXctZ2ZSZC13cl9FM2U5cHd1eDZBVDdqWFgzdWU5TElJVEFqZGlPbXh1LUNyekJpaVJTWndxeDJpdUt2bU5tNFNCRm1HTVY0dk56WXA?oc=5",
+      "published": "2026-06-29T07:00:00+00:00",
+      "publisher": "Seeking Alpha",
+      "summary": "Applied Materials: Equipment Market Surge Priced Into Stock Price &nbsp;&nbsp; Seeking Alpha",
+      "query": "AMAT competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [
+        "speculation"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Bank of America Just Gave Applied Materials Stock a New Street-High Price Target - barchart.com",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdFdiTkJHV3ZlcUhRYnlNd2JkbzNXb0xCVkJvY0xRbkxRb29jOFQtcVloOTV2azVXVmh0VXdIYnJLZU40R1p0TGRNSVhzcE44S0FCclFUenU0M0xCNUx4ZlRkdnRkSkRxMUNNckpsT2dTdHFoa1l2bllTdno3cXNJTTFTakJub3dwUExRejFmZVBQUkg5X0dReUx0elhnR2pKSFZuNFdHeFNPUUczSDJ3R0FPcEpQSzZGc1dXaVdfVHhQdw?oc=5",
+      "published": "2026-06-27T07:00:00+00:00",
+      "publisher": "barchart.com",
+      "summary": "Bank of America Just Gave Applied Materials Stock a New Street-High Price Target &nbsp;&nbsp; barchart.com",
+      "query": "AMAT analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [
+        "analyst",
+        "regulatory"
+      ],
+      "lean": "negative"
+    },
+    {
+      "title": "After A Large Run, Is Applied Materials Stock A Bet On AI’s Future or Yesterday’s News? - Trefis",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPTzRKTjVpSEN5b0dVdW9lVkpxdkxxRERzWUYyWjZtdmxlNy1TZ2lsN2ZsdnJhZ0RnWFBveHZ4ZWU0MlZveGNOd1pCOGpPWDNvR1ZBNnV4YmdQRW9VbXd6eTlUTl82RHF5TVE0YThmTy1ZZkh6UlNnaFg2T1NpaU0yNjRBRE5TZmVWOEE4d3FhMmFYSzN0OEM3Y3NycnJJT0hWZmtadi1rUEUzWWpVUjY4VFMwTTFjOXE5bFdjb1FkVnhhLVpMaHpDdGxnSE9meWhub2RqQkltSnFCR1B1?oc=5",
+      "published": "2026-06-25T07:00:00+00:00",
+      "publisher": "Trefis",
+      "summary": "After A Large Run, Is Applied Materials Stock A Bet On AI’s Future or Yesterday’s News? &nbsp;&nbsp; Trefis",
+      "query": "\"Applied Materials\" capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Why Applied Materials Just Got a New Street-High Price Target - barchart.com",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTTRMeGx2cS05UW1fdTJMbTBuYWg4OGg5MVExdnJ2bjRYZnlxMEYyY2w1d0JiWlVobER5NTRoa1loOGRGdnR0Tk9ETHdISG9CUU1tNFYteUE2cXJxNzd0TDdybkJMRFc1aVlHdFk2TXFBdVdTZFE4eEdLYWZ0T2ZISkRhcFlfNDBWMTlQQWE1U0FGS3FBaVZDM2s4M0ZGOWZqN3Z6UVEwVVg?oc=5",
+      "published": "2026-06-24T07:00:00+00:00",
+      "publisher": "barchart.com",
+      "summary": "Why Applied Materials Just Got a New Street-High Price Target &nbsp;&nbsp; barchart.com",
+      "query": "\"Applied Materials\" lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "analyst"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Everyone Is Watching Applied Materials Stock’s AI Boom. The Real Story Is In The Supply Chain. - Trefis",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxONzFOZXhkSzhYTzlOcm9XOE42OFNIWldJdEFSMnBaMEpzUmpqcnpDbVBlZjB5SHJ3dzEzU1A4NWlxNkJ4YkdibS1sOFRmSXBTZmVWMEloRWozbFBYRWVfNE9FUU5YSG9SY0N6RUVvQnNlTGpsN2gzREg4a0hIZm83RVdFUUNvMmd0amJGeHNfT0M0WVZ0a28yUmNUcldqQkk0aU5qYzJHZ09NdWFYdXVvWmIyb2JmVWFEeF9XbHFncW5GWHdfZkM4bzdLRjlBYkdkV0EzbTVDM0VTeWdKWXpDZmIwS1U4bms?oc=5",
+      "published": "2026-06-24T07:00:00+00:00",
+      "publisher": "Trefis",
+      "summary": "Everyone Is Watching Applied Materials Stock’s AI Boom. The Real Story Is In The Supply Chain. &nbsp;&nbsp; Trefis",
+      "query": "AMAT capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity",
+        "demand"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "When Trade Secret Claims Become Non-Competes by Another Name - IPWatchdog.com",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPN1JoemwwdWI2Y2FGdkhZMjhWYWRhMGtSdFpWZ0ZxWktzRUFCVFlYVVVZdkJrM2ZwVm1sc2hOd3M3ZFJMNFY5bHAwQWxGeXIxVjBLdG5sa3B4cVgzU2ZiZkNNampiQVBBc0lKMEtnWks4YnU4cDdGUjNJOFVWajdrR0JTa09LMFpqNWdQQUdiTFJ5NTNEVUQ2alRRbw?oc=5",
+      "published": "2026-06-22T07:00:00+00:00",
+      "publisher": "IPWatchdog.com",
+      "summary": "When Trade Secret Claims Become Non-Competes by Another Name &nbsp;&nbsp; IPWatchdog.com",
+      "query": "\"Applied Materials\" lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Applied Materials (AMAT) Shares Skyrocket, What You Need To Know - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRGQ2eElsUC1FdVZqZW1DNWRCS0ZvcktaOG5yTWNSSTNiLTJXZ0ZWUE9GaFJPa3JHWWVVUnNJZjcxMERKMzJQd3FYalhnejE2U1l5TUxybC04ZU1fZGx2ZnlXSkRnM01vc1M5Ym5HU2RBRnJ5WFdtd3pBX2Y1RGlnVTlnOGRTcmFMQl9FT01Ya01tTEx0bUdwQXQzVm1LMHFqNlRwOUZ2UQ?oc=5",
+      "published": "2026-06-17T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Applied Materials (AMAT) Shares Skyrocket, What You Need To Know &nbsp;&nbsp; Yahoo Finance",
+      "query": "\"Applied Materials\" analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Why Semiconductor Equipment Suppliers Are Crushing Their Customers in 2026 - 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWW5rMUh3U3lIQURnek9tRW9fVWxYTEZ2MHBHemlzSHA0bnYzTWFwcWVwd0hvV19aczcwbEk1ckxXREhzbmlJZVktczA1dGE0aUpFVnhnQUdCWWZOcmlpdFZITVMzM1hQeV8zZkw5ZFdLNldrd3dkaXpmejdZWU5rRUx5LVJmSGpmTzRiblNKWm9fRmRNQVRYTjUydjVMVmZySFRuWXN6SWJtenJTcXBqSnhPdXFNTXNDbFE?oc=5",
+      "published": "2026-06-17T07:00:00+00:00",
+      "publisher": "24/7 Wall St.",
+      "summary": "Why Semiconductor Equipment Suppliers Are Crushing Their Customers in 2026 &nbsp;&nbsp; 24/7 Wall St.",
+      "query": "AMAT capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "demand"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Applied Materials (AMAT) Gets Higher Price Targets from Barclays and Cantor Fitzgerald - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcEZBZ0s4eW83NllvWk9mZWVHUWVoNnhobVZLdzF5VzA2WW41c01lcl8teUVFWGhBRk1YZkI3bmtUNUdSWUczaXJYcExDSnJqN3B1VWZKbndCeXRpRUxjOHJ0ZjcxRjlBZ0JkYnJPY0pZSVhPdEhRS2FGRDJIc2ZObkk2cE9DMllqRWFYOXRxSm5vOUZTbnl3Snd6Smo1SkZ4?oc=5",
+      "published": "2026-06-14T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Applied Materials (AMAT) Gets Higher Price Targets from Barclays and Cantor Fitzgerald &nbsp;&nbsp; Yahoo Finance",
+      "query": "AMAT analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [
+        "analyst"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Cantor Fitzgerald Raises its Price Target on Applied Materials (AMAT) - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZDFaNjJyWExSYkhRcTdoR2xlOURfR1hvWjdmNDl0RlpVUEFMWmZpNHJHTUpVLVlyVkJOQU1FMGdFc2lOMkZmYnRBbHdBZjlTLUN5WExjYmFrcnd0OU9NMWFTVk5YZXQzX3ZOYS1INkJkYldrdlQwWFZLcktvTnZlU3NqZ3Izal9veWc0ek5WVFREemI1S1BxRV95WURUcW9XZzNKcg?oc=5",
+      "published": "2026-06-13T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Cantor Fitzgerald Raises its Price Target on Applied Materials (AMAT) &nbsp;&nbsp; Yahoo Finance",
+      "query": "AMAT analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [
+        "guidance",
+        "analyst"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Lam Research and Applied Materials Shares Skyrocket, What You Need To Know - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNajdnbVhXaUFzb1Q1WG4tNkFLVU5ndnJsY2gwMmlETmtxbGVLTWd3UldZQkM3ZHNYUENvRlNYaVdaNmJpR05aQndOVkppdG9GcGs2UDhaVDZlNzVodnU2ZWU1M2JaUkNMSXJMUWR2RU1KZmR0YzRyczZPZEFjdTZNZS1RQ2h3VTFCUVZ5MnBoSFhBenNwNnZta0N5YWtySVY2djllMQ?oc=5",
+      "published": "2026-06-12T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Lam Research and Applied Materials Shares Skyrocket, What You Need To Know &nbsp;&nbsp; Yahoo Finance",
+      "query": "\"Applied Materials\" competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Applied Materials Opens New Singapore Manufacturing Campus - thelec.net",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1jQktDN1hZWFBDajYydkQ5X1VvaUlFSGFaS0JjQjg3TnVqdWFTd1lOWmdxWVRzc0xCQURXYUc2THRFTUF0RlJ0U3hEZFNDMDdOMWlTQjlmelBPRHh0emUteXVQZ2s5clk?oc=5",
+      "published": "2026-06-12T07:00:00+00:00",
+      "publisher": "thelec.net",
+      "summary": "Applied Materials Opens New Singapore Manufacturing Campus &nbsp;&nbsp; thelec.net",
+      "query": "AMAT capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Applied Materials expands Singapore base as AI supply-chain bottlenecks loom - digitimes",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUjJybC1hcDF2b1NRc1A0d1FEX0g3RFJEQWZSRjMtXzM5YnFQQzFiM1Fra1kyZldLODBsclF5b1dXQllYNjBVMk1GZG11dE1LTmk1eVF1TFFjWHF0R3NIa3ltZXdURWRQVklmalJxSUJtZDdCcm4wRVRnOG5MN2FLTDdINlp2VGd3SXNSZGZWRXg5NW9GXzRoTWoxNnhHT3Ax?oc=5",
+      "published": "2026-06-11T07:00:00+00:00",
+      "publisher": "digitimes",
+      "summary": "Applied Materials expands Singapore base as AI supply-chain bottlenecks loom &nbsp;&nbsp; digitimes",
+      "query": "AMAT capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "demand"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "New lawsuit accuses Sean 'Diddy' Combs of sexually assaulting a child actor - ABC7 Los Angeles",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOb19uakduZ2taVTRmc1lKc3puemVuVThmMnpaLUxUc2J5S0hZVTBnY2xZLW00akdMeEFZamZHX0xEbDhwRWpIaVhSMkd0RGpzelhjOU42RmszV1RDMDB0bFhCZFpjeEowNTk4bGZnTnQxVEdlZURUSERCWGNlZkNpS1J5Y3A1NWVpNmw2akRmdzFjczhuSmtmWHlKMUktcFZjWUE?oc=5",
+      "published": "2026-06-10T07:00:00+00:00",
+      "publisher": "ABC7 Los Angeles",
+      "summary": "New lawsuit accuses Sean 'Diddy' Combs of sexually assaulting a child actor &nbsp;&nbsp; ABC7 Los Angeles",
+      "query": "AMAT lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory"
+      ],
+      "lean": "negative"
+    },
+    {
+      "title": "Medicare Advantage Insurers And Brokers Fail To Toss Whistleblower Lawsuit - Health Affairs",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQOEM4am82aV9LTGdOczhTSzVteU1tR01Ra3l6eEtXZE8tM1lxOHdHSUQ1WnBKYzZYQ0hJYWdKYTNOaC1tTTg5MXpDVS1qX1lyNGZrUkNZYjluYlJKa21CVHZOdDlJYmpuLU1XMDNlWHJPVjdWNVowOS0xc0NlaHhiWXluTG9GZ0pJNHVlaVNDdVB6djI3M3pHZ1ZSZXFSdnRxb0pHcjl5SUozTXFpZ3l5cDNLMHNQSjJSVlZj?oc=5",
+      "published": "2026-06-09T07:00:00+00:00",
+      "publisher": "Health Affairs",
+      "summary": "Medicare Advantage Insurers And Brokers Fail To Toss Whistleblower Lawsuit &nbsp;&nbsp; Health Affairs",
+      "query": "AMAT lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory"
+      ],
+      "lean": "negative"
+    },
+    {
+      "title": "Applied Materials Stock Is Defying the Downturn, But What Are You Actually Buying? - Trefis",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOUmJ6bHNnbjRHazEzVWFsRGJVTEYtdHhXc1dRd3hRa05KOWpEcGJDQUtXSUswdWNBdVJadGozT0hGRVkydm10aEVueU1sYmYyRTM2NmVNQzFjQ2ZoZ2FUYVZ5X1pON1lMT05OUEotZEZaWlZzUHBRanUxV0xuZGdMNF9PTnBxQTBERjA0Mkx6a0xMNmxwWldnNWtCMmxCS21QWlN2cGkwdUM4eDVVc0NnLWJYdE1VZ1NGLWZiTDVHWG1ETF9tSGhuMWZMUTZremx5c1NtQm1YQkI?oc=5",
+      "published": "2026-06-09T07:00:00+00:00",
+      "publisher": "Trefis",
+      "summary": "Applied Materials Stock Is Defying the Downturn, But What Are You Actually Buying? &nbsp;&nbsp; Trefis",
+      "query": "\"Applied Materials\" competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "How The Applied Materials (AMAT) Narrative Is Evolving Without New Analyst Price Target Changes - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOT3Z3WUl0MXpodk9ldmlMRFJYOWdNcVpjYjZqNUpleF9TSUtjaXNPNG5UT3FTaTFDRUVoeFJ4Qy0xenFRNGFJRUN2dmNGZUxQRDdTa2dmbDQxQ2ViRjNsTm9HVklLekV0VlRlbHQ5eEhfeUlhb1hITTR4cDBhc0lCZXVLTFZ1akIwdmJaQmxrSExha1h2cDdBcElzdldMb01icXJlMWc3ams2dw?oc=5",
+      "published": "2026-06-04T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "How The Applied Materials (AMAT) Narrative Is Evolving Without New Analyst Price Target Changes &nbsp;&nbsp; Yahoo Finance",
+      "query": "AMAT analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [
+        "analyst"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "AXTI's Capacity Expansion: Will It Cement AI Supply-Chain Leadership? - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMFVTdTcwZExiQXpQSzZyMWJhcGZidmFlbW1WZS1FWWJyWmN3R1NiOGVMeFFkY19BaUFTSFpzYnFKWDJsaVNuNk1ZdXIwdzRqdzJpcjNpeEx2b0VLd2Q3N3Z2QXpCWmxXTzdYM21TVFJKMXAxa0tidVg3QlJKdXVDNXo5OGV0MmhmMVNxYV85ck5xbVBlWW44UWZ1aGpTMU16REFXYjBVYUNlTVhMd1ZIUXZkR0FyRlFweHlhM1p0SS0?oc=5",
+      "published": "2026-06-03T07:00:00+00:00",
+      "publisher": "TradingView",
+      "summary": "AXTI's Capacity Expansion: Will It Cement AI Supply-Chain Leadership? &nbsp;&nbsp; TradingView",
+      "query": "\"Applied Materials\" capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity",
+        "demand"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Applied Materials, Inc. completed the acquisition of ASMPT NEXX, Inc. from Asm Assembly Systems, LLC. - marketscreener.com",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNaWJuWkNHREdRdTJZeklDd190NGwyQzFibzRzUVlUWVA2bzVQZnVtbUtRakZEbzJzSVo2NzdsSkFVd3p6YU1BOTBFUi1STmRrM1VGUG9XV3pIVDVDME9TOWNHOXQtQWxnT2xtV1R4ekVwS01ybHRlcWdlSUNpWnZ5Y0hiWkw4LXVua2pqTTE3X1F3ZDlxSGRhVml6b2Y0YVFwZnRXMzZoT0FDNWRrVnhqNFItcm5SSXZwWkNWR0pPX2JDb2xfMnp6cEl6dGJXRHAybFJiVm9Ta0djeFhKdEtvaVZ3?oc=5",
+      "published": "2026-06-02T07:00:00+00:00",
+      "publisher": "marketscreener.com",
+      "summary": "Applied Materials, Inc. completed the acquisition of ASMPT NEXX, Inc. from Asm Assembly Systems, LLC. &nbsp;&nbsp; marketscreener.com",
+      "query": "AMAT acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "mna"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Applied Materials Honors AES as Chip Supply Chain Demand Grows - MyChesCo",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTktqTjZncFNmY2FqbmM5ZVNqM2E0ck02T0hCSWRBNzNxdGJVREZGcVExT3RqeEZsMWZUQTZYendZZVZRSWF0RzZqdmFJZTNkTFB2MUY3ZjE3V29zS1VnT3NLWFdRNzU2RmwzdzlRUTlvZWpuNlpRM1BjbHZyVDNQZW1Pc214YndxZjZySzBMUjFGbDhNcmVqY2thZmgzUFg1Z2o0X3VZOA?oc=5",
+      "published": "2026-06-02T07:00:00+00:00",
+      "publisher": "MyChesCo",
+      "summary": "Applied Materials Honors AES as Chip Supply Chain Demand Grows &nbsp;&nbsp; MyChesCo",
+      "query": "AMAT capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity",
+        "demand"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "This is the greatest time ever for semiconductors, says CEO of key equipment supplier - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQY25zN1MwUk01RjQ3dGdOT0pScV84UWlBQzNEX3RiOURyZjR1MjZqVHpMZlJ1Tkk1d1FmZDNWZDBWbUd0TXptc2s0RE10X0ZpMXlmM2NCWDdQZmJfZlFCTHRVLU5YMlV4eXNXTzVwcGs2Y2t6RENkV3dncE1yMENCblc5bHE4bi11VkxaQjdqM0cxNnd2TFFrVjY2UTZ2eWdRbVN5RlVDMFJFWWlibGdIUlN6T2lUaW92Z3RCWVJ30gHDAUFVX3lxTE8zRHRWUW1uZVRWUFp6dWhwWXk0aXk0Rk1GMHpFakE5Wlh0U0FJSU1DeVl4TlZva09zc2pwaklPaVdWanZwSlgyNmJ2TWNGdWpmRlFSb2kzTUk2S0ttMngzRUNyUFJhWHVMWld0VDVoOGtWcER5UHkyTDY3RkI5VTlyT2ZRSlVtVVVDTGlCMkFaVWdhRW1sUjgxWXFZLVd2Sjk4YnVQaXIxMjRWcVNrX0NqZmdnWU5QVWZKczQ4VjBxczlmQQ?oc=5",
+      "published": "2026-05-28T07:00:00+00:00",
+      "publisher": "CNBC",
+      "summary": "This is the greatest time ever for semiconductors, says CEO of key equipment supplier &nbsp;&nbsp; CNBC",
+      "query": "AMAT capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "management"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Applied Materials (AMAT) Is Up 11.8% After Raising Q3 Outlook And Expanding AI Packaging Alliance - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTTlWRU1fYWFjM2lNNHlWQ3BxWFliRDI1eDVTcXZ2bTR4REdBbWtSVWRKZXBGMEhybXQzenRGZWR5VWtsTjB2RWEzN3N6QmxNeG5BOTl4NjdYMnMtUG5QdHFkRm5JYmxjZDZlZmtVZlkxbDVleThMNTlhaDhsY25HcGdpZnktNF8tcDJnVWFFOVNIb1d5V1cw?oc=5",
+      "published": "2026-05-26T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Applied Materials (AMAT) Is Up 11.8% After Raising Q3 Outlook And Expanding AI Packaging Alliance &nbsp;&nbsp; Yahoo Finance",
+      "query": "\"Applied Materials\" earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "guidance"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Meta, Broadcom and others to launch $125 million semiconductor research hub at UCLA - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdHVtYmhRNC05dW51VGZRRHoxb2kxZDZKaTdfOFVnMzQ2cDZzWjJSOGNBalAxSmgzLUVKdWN0SlEtUW9ZVVpTZWdqQmVfRFpCUV91MTE0aUJRYlZSbnJfR09sR2RpWXBBYkN0NTh6cW5Pa3hGT01MYnpPWF9DNmxoZDk5N3B1dmlnRV9pWXFCR2ZDcHRPay1KRXI0U2lPMDFFSEs2dm1qTGI2UjFpVlBUWEt5ZVXSAboBQVVfeXFMUFdOOGtvMmlrUU9xdUhDZHNmcEd3RXRlMjgxV2E5OU5BZHpEejlPZEZJNGwzRmxTN0R1M09FY19tZlRmYjNPSUZRWl9hUU9udmN3bEFlS2E5Q0RzSm53TXhpYk5yWHJhNzdlWXppd2pSVW9ITS02T2tncjFDc0UyTXk1UV9mYndIZ2t3QlhVVzBMOWV0RHcxQ2Z0Zm5uWlBpRXJvdWNaVl9veUYyZXB4MkZYMXVnTXZ2Z2l3?oc=5",
+      "published": "2026-05-21T07:00:00+00:00",
+      "publisher": "CNBC",
+      "summary": "Meta, Broadcom and others to launch $125 million semiconductor research hub at UCLA &nbsp;&nbsp; CNBC",
+      "query": "\"Applied Materials\" lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "product"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "5 Revealing Analyst Questions From Applied Materials’s Q1 Earnings Call - StockStory",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPckowRG4zVFZldzFRTXdCT3l3X1RxNmJDTWwzRmtIdng5OTNjYlJGSHQ4VENMQW9kY0xKNnF2cTBreEJvdlExaG1vUW1CcmF4UXdJN0gzOTdSTVMtUXVtZ1BodEpGc3dSOU00SDJ5Ums3UUU1TGlNT2ZTMDRDNUxPOENyUVI0M1lsWDBUQ1VNRnNzRWpqLWlGeTNhRUhsRTNDUzUtcU1CYmJ0ZDRmRWpVazhxVGtXN3BhOWRxamxfTWRyb2hXU3c0OUlrRGlHeFU?oc=5",
+      "published": "2026-05-20T07:00:00+00:00",
+      "publisher": "StockStory",
+      "summary": "5 Revealing Analyst Questions From Applied Materials’s Q1 Earnings Call &nbsp;&nbsp; StockStory",
+      "query": "AMAT capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Morgan Stanley resets Applied Materials stock price forecast - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbGJDNjBGbXFBclhERFhLUkZ6M0lCd0FvRnpLT2pyX1NUSGVxUnpLSkxVOW91WVVXZmVldkY2Vk9yWHV5Z1Q1ZlN3WldyVzdSR0puRVRYeUp3UnhJWENCZUw4UjIza1hDM0xpOVZhdXZ4NlVVWko0bkNzMHB4RnN6RDU0bmVvZXJNS05YVGN1ZGo0QUVEQ3RNY3BDVy1nM3N4a241R0E1Yw?oc=5",
+      "published": "2026-05-19T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Morgan Stanley resets Applied Materials stock price forecast &nbsp;&nbsp; Yahoo Finance",
+      "query": "AMAT analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [
+        "guidance"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Applied Materials Beat Q2 Estimates and Raised Its 2026 Outlook. The Stock Dipped. Here’s What Investors Should Know - TIKR.com",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPZ1dhN1ZYUy1ET3NUWkxzME1zSEVVR2FOTE5ZWW5tbG40RnR3VjQxYVF3Ni1vR2RNNGMyVzdmLW9JbU9FdlhIOEx6b1VoQnpSS3JHd04ySE9sVjZGQi1BZ0sweE1KRzZ6RnlvNWpPYTlETXJuYkJoakdlYnBSZjVSWl8wMF94Q0lFMllUemJOSExyQVRxZXVnQmZLUVlmcWFSeERCM3VTNnZWVTlhZF9kZ29LN3ZRRThralNHOU11blV6Z1lVOVJHdTNzZ1RwNVVCdnU1c1hn?oc=5",
+      "published": "2026-05-18T07:00:00+00:00",
+      "publisher": "TIKR.com",
+      "summary": "Applied Materials Beat Q2 Estimates and Raised Its 2026 Outlook. The Stock Dipped. Here’s What Investors Should Know &nbsp;&nbsp; TIKR.com",
+      "query": "\"Applied Materials\" analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "guidance"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Applied Materials Q2 FY 2026: AI Capacity Expansion Fuels Equipment Demand - The Futurum Group",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMXBIOVFPb2lyOXZ5Z3lJWnA3SnNDV3N1UWlsblYtWU9EN2FselQ5dzhEVXhkd1l6Si1vaFdMX21yckhLTDcwb2dNMGVGcWg0Vnhhb1F6MlpQUDNYOUJvRmh0bTJIQVFlZjh3RkpFNGxjTVRDY2t4Nm1fLVlwbllXUHh1TXZpQWpiLVhDVXAtWkhZaWJobmxFUW1ubnVFUENjTHYtbU1FZFFaSk8y?oc=5",
+      "published": "2026-05-18T07:00:00+00:00",
+      "publisher": "The Futurum Group",
+      "summary": "Applied Materials Q2 FY 2026: AI Capacity Expansion Fuels Equipment Demand &nbsp;&nbsp; The Futurum Group",
+      "query": "AMAT capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "capacity",
+        "demand"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Applied Materials, Inc. Just Beat Analyst Forecasts, And Analysts Have Been Updating Their Predictions - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbV81bEdGNndvWG0zZTVERTB3bXRoUktIdGJ2NUwzYnJxbnF3cDE2VXhJdGh5eEF0emdBZnpGUnZZSUtvSjBMUHRkZGlROGt2ZG9XRmlZSFdqNk1qSk1ZUWtXUUR6M1E1U2NIakFacDAzTHczalVwZW45NmswTVZnQ24xeFVVNzNPVVB2Y0hLWkJtTEFfS3VRU0FhNno?oc=5",
+      "published": "2026-05-17T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Applied Materials, Inc. Just Beat Analyst Forecasts, And Analysts Have Been Updating Their Predictions &nbsp;&nbsp; Yahoo Finance",
+      "query": "AMAT earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "guidance"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Applied Materials, Inc. Beat Analyst Estimates: See What The Consensus Is Forecasting For This Year - simplywall.st",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPaHktRjFEdno1alEzM1BZeFAtRU9odjdHM1dhVUJZakNudUliN0ktaV9Xdzc3OVprTUpobXhTdHphX0ZfS09iSDhpeDZqakNaeUFzSk5DN2JxSEJmcVNoM3hsclRwekRtRWpTdU5vSWFVVHFCZWVqaDdFZ1c4N3hRekF5NGRvUDJybWZweTBHRGQyU3pvdTV2ZHFja2JwT2g3Z1VBWTJQQ214Mi1zZWVJRExVbWxGMHdBTGlUU3RFUmREYmYyLTdYNWRMTWlGWVBKXzlSSE8zNVNVcV9a0gHiAUFVX3lxTE84Z1BySlZMNE9TOG5iREtwMU5jNnNfQ1hJcmNoU1J4aHVnSlZHZTRSZWhCU3VULWwwa3ZkanYyamljOVNPTDZkWEtnZ2JEZHVNckI4dkJPa2lGNjZ6WGc0Z1o0ZG95cUNyY1R3RHktT1EyTHJvSXBSMEVtQnJabDJJU1p3MnNfS2pZWEhkU3hOd1d2SjY3TnJ6bkl0MmZaWjdWSUJXdXhfa1lJMzFPd2JOdHVyMUpkdFZTdnpaZkZUOGVybFNIMEZLc1BzSkIzVkdoUnFrX3BBMnl2ZlZJWXZjQlE?oc=5",
+      "published": "2026-05-17T07:00:00+00:00",
+      "publisher": "simplywall.st",
+      "summary": "Applied Materials, Inc. Beat Analyst Estimates: See What The Consensus Is Forecasting For This Year &nbsp;&nbsp; simplywall.st",
+      "query": "AMAT revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [
+        "guidance",
+        "analyst"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Applied Materials’ revenue forecast rises on AI demand - Taipei Times",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8za0x4RDFldl9nNEUtemxNcVp3YjVyTVc1dTJ0UlNEX21JWW50N2JGcnBVSFd0V3pzYl9MVFZwa1p3Vy13MnE5WkZHYXpidGlTRjVpaUppc2tOd2I4R2xrME15NHVlcnJjd1FianlzMGMweUVPVFE?oc=5",
+      "published": "2026-05-16T07:00:00+00:00",
+      "publisher": "Taipei Times",
+      "summary": "Applied Materials’ revenue forecast rises on AI demand &nbsp;&nbsp; Taipei Times",
+      "query": "\"Applied Materials\" revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [
+        "guidance",
+        "demand"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Applied Materials Earnings: It Just Keeps Accelerating - Morningstar",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcnh3LXJyRHE1bmhKaGdzdHI5WlVib1RIY1F2anZsVjBobVN6bjl2Q3Q2M1VjUTNRRVdkamgwTmlDQ2RaY3lGa0NxUGc3UmlyaWNaVUFYWG1tWjB5aFJIaFZSalJ4aVBwa2lFdGNRVWhxWHJyUWxNVzJWcmpjQ2wtTXhTSzkxaXlHQTBEN25xZnd5d3Rwel9PcnlFcHVSZw?oc=5",
+      "published": "2026-05-15T07:00:00+00:00",
+      "publisher": "Morningstar",
+      "summary": "Applied Materials Earnings: It Just Keeps Accelerating &nbsp;&nbsp; Morningstar",
+      "query": "\"Applied Materials\" earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Applied Materials Slips Despite Record Quarter and Strong Outlook (AMAT) - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWTE1dnlkVWwtNmE4RUl6Qm5mcnVmVHllaW45cHFtUWh1N25oZ3pDNnNLR1E3NVlfdThWbEx1YzhKUERrbU5iQlpmX3ZTNXpBMWlfZ0k2N01wTDF0Mk5zVDFnNzVKUGlhT3VMU21CTU54bW9ObmVodURrZm4xcHoyR1FTQ0RadWotMUJoSi0xRVBUUHFyV1VOdVZVWUpKQldwZGd0TXdR?oc=5",
+      "published": "2026-05-15T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Applied Materials Slips Despite Record Quarter and Strong Outlook (AMAT) &nbsp;&nbsp; Yahoo Finance",
+      "query": "AMAT revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [
+        "guidance"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Eight Firms Just Piled Into Applied Materials: Wall Street Hikes Price Targets After Record Quarter - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUXplNUxpYl9BZm5VZ19scFJsR3dSempZbjNBTTVEenM3RTFuYnl4OHFGSGFnVHhzS3JwcXhidEVIOGhwTEJ3QU9MLTc3WWlFUm0wRnJCNFBab051TEQwYVNTQzdIWWx1Rkh2MWp6OWdhUTVWTEFYZFRNODRVQWR4U0VpdGVvbC04dTRXSE0zWV9XTVAxUVdKU05EVQ?oc=5",
+      "published": "2026-05-15T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Eight Firms Just Piled Into Applied Materials: Wall Street Hikes Price Targets After Record Quarter &nbsp;&nbsp; Yahoo Finance",
+      "query": "\"Applied Materials\" analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [
+        "analyst"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "ASU joins Applied Materials' EPIC Center as inaugural university research partner - ASU News",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxON1c0Nno0Q2FrM2sxNGh1bTR6V2RzeUh4Q0JLb09Kdm9NZVpyOUpicTNjVkkyb1JOTy1VVndaMXluWTR6bThfVzA0d3B5WTFfb1ZUaUV0OTNnd3VraEFEak5HVWlRLWU2RWpHcEEtd2NlYjZwOFBDYmJUaVZVaXdNYnE0ZVhQVFFnamZRRTFwaWxlQUdHN2RGN0lXQXBVWTdlUlFZbjc3RDI3RGZ4aDJXSEFOUQ?oc=5",
+      "published": "2026-05-15T07:00:00+00:00",
+      "publisher": "ASU News",
+      "summary": "ASU joins Applied Materials' EPIC Center as inaugural university research partner &nbsp;&nbsp; ASU News",
+      "query": "AMAT acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Applied Materials (NASDAQ:AMAT) Exceeds Q1 Expectations, Inventory Levels Improve - StockStory",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQQ1VoeFdtS1FockgwSWVoelhGaWhoRFRYQjdYVnhjcDVlZTFkVTBXaW5yTFA4Qy1sb0RVWWh4N1NHNG5qRWdGT2lPNVZEd3hCUFVLQnFJanNtSl9MV18wTkdpdmN3bjZFcFZqV1gzQkI0VTlaLXNTb1BLVzhzUzhPdGQ1UlltRjV5a2pPZk1weG9KZHRTOWVHbW43M1ZPa3h3S09RN3EtdlMwQW0zTkVpM0pmMVVZVjJDLWlRRjlrYk1XMWd2UzM1cVFXOERuT0VCR0E?oc=5",
+      "published": "2026-05-14T07:00:00+00:00",
+      "publisher": "StockStory",
+      "summary": "Applied Materials (NASDAQ:AMAT) Exceeds Q1 Expectations, Inventory Levels Improve &nbsp;&nbsp; StockStory",
+      "query": "AMAT earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Applied Materials Inc (NASDAQ:AMAT) Crushes Q2 Estimates and Delivers AI-Fueled Guidance - ChartMill",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOQURia0hlQXhnM2E4Uklhb0h3M1FWWmpQdW1rYjRrbF9NQjE2aEdSMDZBZ0kxcC1aaWNxX3ZYTDB1YjNVVS0yUHJveDlwb0k1TTJEdV90SnVpbjlSbHd6S2tnRTJ4ZWMzbjJvemlMbmtYTFY1emVJR1pETGVGbnVSdjU4dG0zb24xSEJMLW9JSjM5YmFYU0VfUGlSQnZlUVEzQmw4SWwwaVU3Wm4tOTlGZHplVFNCaE5wREdwUllDdTZzWFFuQVJtdmQ2dF9OMnBNb0xn?oc=5",
+      "published": "2026-05-14T07:00:00+00:00",
+      "publisher": "ChartMill",
+      "summary": "Applied Materials Inc (NASDAQ:AMAT) Crushes Q2 Estimates and Delivers AI-Fueled Guidance &nbsp;&nbsp; ChartMill",
+      "query": "AMAT earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "guidance"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Our Game Plan for Applied Materials and Its Earnings Report After the Close - TheStreet Pro",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdHVpQ2dPNndXY2ZPWlhCbjFjQVNwd1M2QUJ4WWQ0N291eHNramJhcUozY3FKN2ljdXNRdzBxbWlaQV9rS1NUVEo0Yi01SjJIU0JlVk5xQW1vR093YzFTNjU1QUZFLWV5bHhPeVczRlBPOUdLX2RSSnpUUDZsRk5wcGpJb1pFNXp5QkpEYV9Gb3QzYVNXVW15Wk9HZVBLMHRydHUzRV82LXJuamtUWDNBYw?oc=5",
+      "published": "2026-05-14T07:00:00+00:00",
+      "publisher": "TheStreet Pro",
+      "summary": "Our Game Plan for Applied Materials and Its Earnings Report After the Close &nbsp;&nbsp; TheStreet Pro",
+      "query": "AMAT earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "analyst"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Applied Materials rallies after better-than-expected Q2 results, strong sales guidance - Sherwood News",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA2dVJDUW1YNUxiX3dLUEFZc1djSDJtdkt3aVdqSXRQUmhYZmxyVVdZUkN2SE1VbzdRUnFvWUFNVm1UdGJaSTZMekV0R1VpdU5nb3VBd1hfSmNvV05XMTNfa2hQVnJfaHNIM1A2Z19pM0N4WUNGZXNkdk9sLTRIZw?oc=5",
+      "published": "2026-05-14T07:00:00+00:00",
+      "publisher": "Sherwood News",
+      "summary": "Applied Materials rallies after better-than-expected Q2 results, strong sales guidance &nbsp;&nbsp; Sherwood News",
+      "query": "AMAT earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "guidance",
+        "demand"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Applied Materials Raises Outlook as Semiconductor Equipment Demand Grows - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSWR2MG40N2gyNV9rUDctcHVsRmhybDhRZVg0QWM4aU5GaTd4U242czBjbk16N0tVbWgyOEtIcGlGdFV0UU1FUVkydWI1M3NwUnFPeXo5OG5WNld4LW13TjdIMUlLZEV4U1l1bGJvMDZoNkwyanhaRjFNMTY0OXlzUjZHRXYzQVRVeXdxTVZvUkRMdE9yXzh5MkJIaHhhVmU3WU15dVpaa091WmJva2dja1lqVVhGTlYySFZoTQ?oc=5",
+      "published": "2026-05-14T07:00:00+00:00",
+      "publisher": "WSJ",
+      "summary": "Applied Materials Raises Outlook as Semiconductor Equipment Demand Grows &nbsp;&nbsp; WSJ",
+      "query": "\"Applied Materials\" earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "guidance",
+        "demand"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Applied Materials sees quarterly revenue above estimates on sustained AI spending - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOXUta1YzLTFfLXRzb1U1OHZlV1ZpcVhtY1k4SGU2U0NrZ3EyUTQ2SUx4eXZfS2pzbEwteGp3ZFlvdmk5LVgxRE1GSEx5QTZQZm55bGljalpwQnpPZ1R2U0RXc0xQZjA2b0FfaWNGNURndi1teWhyUEpGV2Rjdk9qU1FvNEk1cG15Uk1UaFZNUzZRWW8yRHY5NmtUNlY1SzAtNXdmMDgwQjE?oc=5",
+      "published": "2026-05-14T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Applied Materials sees quarterly revenue above estimates on sustained AI spending &nbsp;&nbsp; Yahoo Finance",
+      "query": "AMAT revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "How To Earn $500 A Month From Applied Materials Stock Ahead Of Q2 Earnings - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQV180aHJ5aHF2elVHSzd0ejBsb29vVkliYUxNWWlOU0Z1QWczYlpMajdVc1ZWWHVTWURJbW1xNVhhYlZFdUFEVlJoZ2dvUDhSN0FweWZOSUItQzRSZkNnTnhmeVBfS1A3NjREY09sMkRFZXpleGoyaVg5aFYtQjROVTlVWTcxTlR5NUozNDdvYWFfRHpEQmQ3NVhRdzFVZw?oc=5",
+      "published": "2026-05-14T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "How To Earn $500 A Month From Applied Materials Stock Ahead Of Q2 Earnings &nbsp;&nbsp; Yahoo Finance",
+      "query": "\"Applied Materials\" lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "AMAT stock on edge ahead of earnings: what's next for Applied Materials? - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSjFOcFJtODJDRjcwREs5X3ZXbE9PN01GWG8yUUd5dl9tc3V1Q3AxdFBzcjd5M0FNdkVPNUUtQ29YRkJrdUFoMG84ejNkYXhNNkxEeWh0Y0o5OWFMdnhGNXZHejloaDlEWW1RUWRZOXkxT3BqMFY2Ny13M1ZpbXJ2Y1lsU3JJbGtjNHdZSkE4d2tHQ3V4WktEakYxM0kyM3EydzZ3T0I2T0RpbzVOX0pHYjVaaC1hN2xhVXFBQUczeW9EQVpFTEE?oc=5",
+      "published": "2026-05-13T07:00:00+00:00",
+      "publisher": "TradingView",
+      "summary": "AMAT stock on edge ahead of earnings: what's next for Applied Materials? &nbsp;&nbsp; TradingView",
+      "query": "AMAT revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "How Applied Materials (AMAT) Is Deepening Its Role in AI Chip Manufacturing - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQeHZyeFN1bVItQ3BDOC1FMW9YYlpxdVE2UGlWbjNZakNqeWp2YVJPTFJiRzZrMzZkTzUtdjRuYlJGWlAxZmlzVWttWEJHNERGX3lMX21IMDU3V2w1cjdlYW92cDdJTHpXRnY2U2tzTW9fZEItdUFHbzd6UlRKeEZxdWJENWZ4TlN5eG5Z?oc=5",
+      "published": "2026-05-13T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "How Applied Materials (AMAT) Is Deepening Its Role in AI Chip Manufacturing &nbsp;&nbsp; Yahoo Finance",
+      "query": "AMAT acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Applied Materials Stock Jumped 6% on the TSMC EPIC Deal. Here’s What It Means for Investors in 2026 - TIKR.com",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZXFqakw1YjlZTTF3TXlYdHM3U082Y2RHMzY2WXNBMC1jZnpuZE5rSGFUdS0zTVRHVGJ2MnlWM3pzSVRjalVRNE9WNUwyXzhDdVJqYndidmh2LXBBUkFfcWpLVmFLN2t4QUEwT05weFE5M1p3NjY3ZUY1U0JOODY5cDZDSFhmdF9UcGdXdlFUQ2xIbGJvN0NaTW1feWY2cng1Z0FHZEVVNUUxeEhOR1FSdTJ4LU1vOHlqSldqQ1M4SQ?oc=5",
+      "published": "2026-05-13T07:00:00+00:00",
+      "publisher": "TIKR.com",
+      "summary": "Applied Materials Stock Jumped 6% on the TSMC EPIC Deal. Here’s What It Means for Investors in 2026 &nbsp;&nbsp; TIKR.com",
+      "query": "\"Applied Materials\" acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "demand"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Applied Materials, Inc. Stock 12‑Month Price Target Raised to $453.26, Implies 2% Upside - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOeHVua3Fkb2V1cVZ2RE1la0N1Z0JGNGlUMGtkZFJoeDFFRWt2N0xObnBETFBVRU1mSGRWS2V1ZEJVM213WmlXWUtfOWcxWjctTGR4d2RSUjBaMDYtc1lIeXRSRk9nZ2s1b1d3QnA3QkhTZnQzMEVrOWJ4MWNmZWw1U1o5QTROa2UySXIxdGNJNGFGZXFRZ0Jla1M4TERaaXU1Q0RZdDltWERMZ2xySlgtUUZ4R1lqSEIxY2FMR2JVS0tIVWdtZ0Q0ZkVVMnZMNUhQVkJpTzNZaVVpOU56RWc?oc=5",
+      "published": "2026-05-12T07:00:00+00:00",
+      "publisher": "TradingView",
+      "summary": "Applied Materials, Inc. Stock 12‑Month Price Target Raised to $453.26, Implies 2% Upside &nbsp;&nbsp; TradingView",
+      "query": "AMAT analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [
+        "analyst",
+        "speculation"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Applied Materials, TSMC expand partnership at $5B Silicon Valley research hub - The Business Journals",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVFBEaHBJbk44aHpUNEdCaklUaldVVEZ1VWJya2tfakNzSUtMLVFDby1NN1p4QU9JY2FFWEtmZ0hvZnJ0cnVXcWhNTGxkZVRPVjlPLVRNSVBjUXlncXgxOXZIRGk0dmVsaGhFd0YxeFhnR1c2akoweVJvNUFBQlUzWmhQYjl1cUNJaFdTRXptUE5wZGJoUTNLQzZ3?oc=5",
+      "published": "2026-05-12T07:00:00+00:00",
+      "publisher": "The Business Journals",
+      "summary": "Applied Materials, TSMC expand partnership at $5B Silicon Valley research hub &nbsp;&nbsp; The Business Journals",
+      "query": "AMAT acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "demand"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "TSMC Joins Applied Materials at $5B Silicon Valley Hub to Crack the 3D Transistor Wall Slowing Down Advanced AI Chips - Wccftech",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOV2RkbmRzVS1Rc05qMHgwMGMtX1Jlem1scmFZeEszQWRqVkZ6amhBRklqR1lZckhvM3NPaDlYZ1pMMG11UkRsbXJXaklDakZPZzNUZGZ4WnlTSGdPTDlBYnI4TUhUejkza0lhQXhuZEVDRFFIS0JteTBiU3pyQzVsU3A0NnJPalNscEl2ZGVCWWtRaV9kRTh3SEVwRnI0bzhGUms5R0NMMFJtNHPSAbABQVVfeXFMUGg5U2NGNGVPNjNmWE1JUFBtWU55OWYxUHJCNXZPZW03a3VyM0dfWkZ4akI1SUZCT2Y1OVdNSVg2Qk1XNmVxbFhvc0Exd21GeGRnZFJ0WWlBQURWSFNPakozN1Q4VlUycklnbDJtSy15YUR2U3dKaWd6QUdsWDZwNUtUbTVTWTUxb0Vyd1hEblJ6aTVoMVpLQ2FxWXM4LUtMeURZV2Z4bk9Lc3h1VGMycVA?oc=5",
+      "published": "2026-05-12T07:00:00+00:00",
+      "publisher": "Wccftech",
+      "summary": "TSMC Joins Applied Materials at $5B Silicon Valley Hub to Crack the 3D Transistor Wall Slowing Down Advanced AI Chips &nbsp;&nbsp; Wccftech",
+      "query": "\"Applied Materials\" acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Microsoft CEO Says OpenAI Board Was ‘Amateur City’ - New York Magazine",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTTZOeDJXRG9mbnF6VlpDTlVIejdwMWc1dEhxY1FtWmNWSE9GNzhod2UyOXBKTDZqeFpNRFJuWlpaT3dGcS1mVXRKcGVSTFBGcEJDQ3N6cFIyWnB2V2dKUTdIWV8xVmFkQ0xGeGVpU2FJLVRqMkM2ZlJDdVVwUlBYcGd6RW1yRDdXbW9Qa01aQzg0VE1KM3JGd1dmM0xwR2tkSlRn?oc=5",
+      "published": "2026-05-11T07:00:00+00:00",
+      "publisher": "New York Magazine",
+      "summary": "Microsoft CEO Says OpenAI Board Was ‘Amateur City’ &nbsp;&nbsp; New York Magazine",
+      "query": "AMAT lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "management"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "OpenAI trial: Nadella says Musk never raised concerns to him about Microsoft investment - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPODh4U09iR1VxbVJOUVU3UFN3OGxwWDVSdGI5bUNPb2N2alFTTnNYTlEyczdWUGZzdjdUNEhHWkZBSkZsM09pWXIyaWdtQUNPTEIwd3F6Mm8xWURFeEtwTVp5T1lTald6QjlEUGdRU1R2eFVzcVQ5NkgzcWktV1VWdDJpb0ptZDFLZ1HSAY8BQVVfeXFMT3VHQndoaTNlUlhTaGFrOGVjZUFSalV6RnNiZy1zMXZNdGYxRGhTNFQ1S21wbTdpMl9JSnV1V214aWJISmVKZk1vS2NyRS1reEUzQXRrVWV3REtOOEhLQ2FxQ0tsMTFFSVZBSVVHZGxpRTVSN2kxV1RQbkVLSzNLVkZHZHg3YVV5dG11ZXFrWTQ?oc=5",
+      "published": "2026-05-11T07:00:00+00:00",
+      "publisher": "CNBC",
+      "summary": "OpenAI trial: Nadella says Musk never raised concerns to him about Microsoft investment &nbsp;&nbsp; CNBC",
+      "query": "AMAT lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory",
+        "capacity"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Applied Materials and TSMC Partner to Drive Semiconductor R&D Roadmap - The Futurum Group",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOcnlGM3JjcVNhREdKWUVxN0pNQW1MekhVeEJ5dE4zZzRJS3Rhc1dIaEkyVzl3c01mdGZzLWpsYmlpcGdSdkIySVo4UTljY3l0TkVlQVY4RDdCc3BxY2Q0QldtTXAtdjVlNzFlVFQ2YVk4Q0F0S3BKZXo0VEVIb3NINnhDQ3JRNnB1UnFIcG1mNHV3UlFEV2lyWUFhUTMzM1dnM2xubGl3?oc=5",
+      "published": "2026-05-11T07:00:00+00:00",
+      "publisher": "The Futurum Group",
+      "summary": "Applied Materials and TSMC Partner to Drive Semiconductor R&amp;D Roadmap &nbsp;&nbsp; The Futurum Group",
+      "query": "AMAT acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "product"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Applied Materials (AMAT) and TSMC Expand Partnership to Advance Next-Generation AI Chips - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcXBQOWdBTkhhOUl4QTFQdWxMbHlhMTdWQVlCU0xadE5iY3F0Z3F4TFdlVy1KdlJGbk41eXpzMHlfWmRNV2RWR0MzMTlZV0xpbDdUVjNpa0dqNy0zUFdvUHFOckh0aTNIQklmVG53X2Q0WUI4WWFUNkVVN1l1NU9vc1pWbWRiamVMU3RHYUhSa3gybjY3b19PNi1xTnNIT3ltQmtsRGFB?oc=5",
+      "published": "2026-05-11T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Applied Materials (AMAT) and TSMC Expand Partnership to Advance Next-Generation AI Chips &nbsp;&nbsp; Yahoo Finance",
+      "query": "AMAT acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "product",
+        "demand"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Applied Materials makes unexpected AI move as demand explodes - thestreet.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPREtjTVZJd1FRa1RwTWxsQTRSUVFPSjhQMEUyQnRqWDhUdWNFMlRDOVY0Yms0c0xBWnJ4cURMWFJld3hSUkRza2w4cFJlTE5zd0cyc2pjMV84NHd5NEdKUV9pMkRNNE5oSDNYVVMxNTItRF95OVRoaFhpN2N2UzBhUUVKN1Z5MjBJR2pyTjZtaWxpdXJ3c2lxTEJMWVlzWjMxUVFlQ1RBTkhpMGNGUDZ5VzBLaFI?oc=5",
+      "published": "2026-05-11T07:00:00+00:00",
+      "publisher": "thestreet.com",
+      "summary": "Applied Materials makes unexpected AI move as demand explodes &nbsp;&nbsp; thestreet.com",
+      "query": "\"Applied Materials\" acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "analyst",
+        "demand"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Applied Materials Lost Share Across Key Semiconductor Equipment Markets in 2025 - drrobertcastellano.substack.com",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQYVlWRjVpeHJ2MTJQZWY3dm8tUDU2RHFrbnQ5eFhjRWRRU3JVTkt5LWRoMHh2bXdESG9yUW1xQUJXeU5QVXZBQm1UcVZ1R0tqWERtZUFLeUhFMEMtVVdWSkxYQmJhOFNUTFpTZldIWS0wU0hpTU56U1YyMnk1ZFo0VGxBNA?oc=5",
+      "published": "2026-05-10T07:00:00+00:00",
+      "publisher": "drrobertcastellano.substack.com",
+      "summary": "Applied Materials Lost Share Across Key Semiconductor Equipment Markets in 2025 &nbsp;&nbsp; drrobertcastellano.substack.com",
+      "query": "AMAT competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "3 Market-Beating Stocks to Consider Right Now - StockStory",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaGI1ZmpyR3VDM0dadmZESDFvdDJHajFVOTlaM2dkeS1yT0JVZVFzQnhpSlJkdWcxWEZkVG5zWGdROHpYakhVOWVfdXdsRnBIa1JkbUVvaVo5dFF1c3dPWm5LeWRadlNYNG5iLW04bTFKNW1rZ0JTRzJHQlY4M0FjTkFzc21LeFZFTllaTVA3TFQ2MzVsVHRWdjBvNDhHczFLekpYa3BCSVJoS0U?oc=5",
+      "published": "2026-05-10T07:00:00+00:00",
+      "publisher": "StockStory",
+      "summary": "3 Market-Beating Stocks to Consider Right Now &nbsp;&nbsp; StockStory",
+      "query": "AMAT competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Applied Materials (AMAT) Reports Next Week: Wall Street Expects Earnings Growth - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWXFhamFxZHc2QVhVMUF0NzhnVzFBWm8ycVRNanBQSC03dW9NbVcwQjlvZkM4cWNkbWotdkQyZ2VJN25LenJ5bjZOU0M1b0VWWmhnOUV2Vl9KZXViZDZQTUVyaHNIRUh1ekVCdDYtYU9UN1JzWjM5bmstQnNNMGlveVo1aVI3SC1vd3h3a2xtbnV3aDE3SEY1bnhfcEZUQjNQRXc?oc=5",
+      "published": "2026-05-07T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Applied Materials (AMAT) Reports Next Week: Wall Street Expects Earnings Growth &nbsp;&nbsp; Yahoo Finance",
+      "query": "AMAT revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "analyst"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Applied Materials Targets $3.5 Billion Electrochemical Deposition Market With NEXX Acquisition - The Futurum Group",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTjg2V21mc1NXZk80TUk2ODk2MkNjNUZvT05yb2dkeDhBOVBIbjhYRlFUMC1oS2V0eVZkX2I2WjV4eERzMEljekNzb0tzWFJ6cHZSV2xndjVyN1djd3FEX0U5QVEzS01CN21nbGlwbFltUmhaXzk1UzRVeWJjUTZqbXN5YzJmOEFNSHdWNm16Z2xmV0xBU3VXTGMzdTVHUl91WXI0clZYbEIxSExkeDJJdklfY3RZLUJhNVg4Qnc1VHZEZjVVZDZJ?oc=5",
+      "published": "2026-05-07T07:00:00+00:00",
+      "publisher": "The Futurum Group",
+      "summary": "Applied Materials Targets $3.5 Billion Electrochemical Deposition Market With NEXX Acquisition &nbsp;&nbsp; The Futurum Group",
+      "query": "\"Applied Materials\" lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "mna"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Here's Why Applied Materials (AMAT) Fell More Than Broader Market - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNWWlaN2RLeHlCSUNIZXRna3Z3dDBXS015SHo0ZVQzczNCLUFTV0V2alhuMVRSaExHY3IxbEs1TEl0UFJMa05NOXplVUQ2aGU4R1hMZUFJUFI4Vjc1TEZSY21NTFhqQkduSzdWMnhtempMM2hhdUxIQTh6X2RlZ1EyTjU1bzVCdk9mWnVEbnBuNWtJbVdFV3B6cjdGdUNadw?oc=5",
+      "published": "2026-05-07T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Here's Why Applied Materials (AMAT) Fell More Than Broader Market &nbsp;&nbsp; Yahoo Finance",
+      "query": "AMAT competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [
+        "speculation"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Applied Materials to Acquire NEXX Business from ASMPT Limited, Expanding Advanced Packaging Portfolio for AI Technologies - Quiver Quantitative",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQcWt2VTZfek1TT3R2QndSZGZIaGlGcU05VmJoVUNIaTU4SHUycWpJQ1hOaXBVNUhMaWdoQVFVaDFiVG5YcEdYZUdtMDBvczB4YTJITThWWlJvVWJ0Tl9tMGJ6b1NjaTdIVENEem9tcXhZd2NmbURtQWtnVDRBYV9nVXhIS1lCeXRfcHhRNzlsT3JsOHlyVU00SWt3?oc=5",
+      "published": "2026-05-04T07:00:00+00:00",
+      "publisher": "Quiver Quantitative",
+      "summary": "Applied Materials to Acquire NEXX Business from ASMPT Limited, Expanding Advanced Packaging Portfolio for AI Technologies &nbsp;&nbsp; Quiver Quantitative",
+      "query": "AMAT acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "mna"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Applied Materials Broadens Advanced Packaging Portfolio with Acquisition of NEXX - GlobeNewswire",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOOTVKZFRDQTZ1cTVaSzRXeVJ0RjhTeWo4dU5TUjQxT2cxVHJYMlRYRlBEdGk2MnlBZFU5TDdIWUhYOTJ5RHlENm5iQU5seUhfSFNEbVpDX1R0aFNxNWMwUDdsT1phSmRoemdjUEc0dG0tUzdZWjJXYTBQeHRJWmtDNE53YUt4cHl3RXBINHl1Sm1EQVlaNEV2U2E5V3VMU1lTQlpIWEZ2bHczRjgxcUJRYkdHLVBGQWxJc2M1OUt0NXkwcC10Z3d4TVZTaTduYmVIYkw0clNiRmpYT19iRlowenNnYXRqVE0?oc=5",
+      "published": "2026-05-03T07:00:00+00:00",
+      "publisher": "GlobeNewswire",
+      "summary": "Applied Materials Broadens Advanced Packaging Portfolio with Acquisition of NEXX &nbsp;&nbsp; GlobeNewswire",
+      "query": "\"Applied Materials\" acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "mna"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Applied Materials Reports Q2 Earnings on May 14. Here’s What the $5B EPIC Bet Means for Investors - TIKR.com",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMXdmUGxNdnFhM000QjNFSERzSUlwQmlCRUk5NWRmQ0k2SXJJR0tpUGFVY3BBbE5OYlBXNFRveDU3N3dSLUtTSDBBdERtUk5TenZPeW1hV014NlVPaXJ6ZzVzRThrTm9ndjE4Z2gxZVBHWHdPUlhVSHBGNTZNbUl3TkdBaFlNYi03MDFZM3d4U01wRnc0cHFRWDdhSS12NE4tWFRnT3VtbWo1SVlVNm5LUEZadXhtOVhNdVdWVg?oc=5",
+      "published": "2026-05-02T07:00:00+00:00",
+      "publisher": "TIKR.com",
+      "summary": "Applied Materials Reports Q2 Earnings on May 14. Here’s What the $5B EPIC Bet Means for Investors &nbsp;&nbsp; TIKR.com",
+      "query": "AMAT earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "US Export Curbs On Hua Hong Test Applied Materials China Exposure - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPWlVySWo0eUdNaXVRUzFVUXBxRlNHc0tKUTY1NHlYUkx0aDdVZjhnV253dXJBbmYwc1BVM3BSclM2a1Y3eEZYMWtadjlDeXp0RnNjMkI3N2xQMlRZTnVSUzV6QUU1LTdVZm9uUmZBZ1lBT05JZ1o5cXFYOS1PQzRnSmpUUG1HZVh2Y21JSjhib2VVR1k?oc=5",
+      "published": "2026-04-28T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "US Export Curbs On Hua Hong Test Applied Materials China Exposure &nbsp;&nbsp; Yahoo Finance",
+      "query": "\"Applied Materials\" lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Applied Materials (AMAT) Stock Dips While Market Gains: Key Facts - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSkdNRkotYy1ibllrRTUtck5udlZSVnhBT0Z0d3BGUndxWGRYRGFuMVJIX0pqWkoyZlk5NDk1bWl3NzhzTjlfbXphczEtcm5rS2lTSkNWeFM0TDFha1pfeHUzVjYyRklRRk9BUHI5Qjdqa0lqamN1bElUdmZ5Vnd2WC1pZFltUTlHRmpoVlg3NTNKdjRMSmNGcEJwSzBGb2s?oc=5",
+      "published": "2026-04-27T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Applied Materials (AMAT) Stock Dips While Market Gains: Key Facts &nbsp;&nbsp; Yahoo Finance",
+      "query": "AMAT competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [
+        "price_move"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "What to Expect From Applied Materials' Q2 2026 Earnings Report - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTExObHMyNms0VVlCa1FTSzFNRmE4R0Z2X0V6SUJyUThMVEFfVTgxYm1tWXVlVl9aQXNubGVhaTRWMGh6b3hFXzhNSjFIRkxCTzFuZk5MMEhmbVZEVGVZU0tWVWdHcTVlUXh3N0c0UXdIcDU5S0dWOHpvOXA5aEhSUFctOUdFMEk3Z1R2TGJHMHhCZmhHTjh5QldpUGdsQQ?oc=5",
+      "published": "2026-04-24T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "What to Expect From Applied Materials' Q2 2026 Earnings Report &nbsp;&nbsp; Yahoo Finance",
+      "query": "AMAT earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Applied Materials Stock Outlook: What a $439 Price Target Means - TIKR.com",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOLXlFM1JYcGd3Ry1kZTJkVnZMSGRoTnVxQl9oblpkcmlTcnFfRktsX0ZCcUdrRF9qazZXTktnQTBoQVlrcU5TVENsVUxFOU9raGxxOHdwelZOaWplelRJTmhFcVhsZS10NFVaWk9FV0V3Q013QVhLTHp3T3Q1dFdTS092STBjckVNZG5vZGRyTUk?oc=5",
+      "published": "2026-04-22T07:00:00+00:00",
+      "publisher": "TIKR.com",
+      "summary": "Applied Materials Stock Outlook: What a $439 Price Target Means &nbsp;&nbsp; TIKR.com",
+      "query": "AMAT analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [
+        "guidance",
+        "analyst"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "COMMENTARY: $252 million BIS settlement: Export controls and cross-agency trade enforcement remain priority - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQZjRvSjU3SHBUQU5OLU9TdTh0M3poTVJEQzZiZUs4TVg4WnVXSFAwSDVUMWR5dWxOb0l2Z0dWZkxLbHZfZ19TM0NNMGdOa2ZKc3VPUXQ5Qi1zSGRsS2ozQ1BRU25LeVN0VUlfUlkzMjVSbld1X05YNDJkU3hMa0hpMmlJUjFHVnNEcVBONlhiaWJ1MmlCaDZhV2RHMzM1dU1sTkJNVHdkcTg1U2NVXzBzSkxrc3BJTXJNUTZuaVVmTWlJWWVSOGtBUDluZkkxcUJrdHB3eVVhQXhXVnJa?oc=5",
+      "published": "2026-04-21T07:00:00+00:00",
+      "publisher": "Reuters",
+      "summary": "COMMENTARY: $252 million BIS settlement: Export controls and cross-agency trade enforcement remain priority &nbsp;&nbsp; Reuters",
+      "query": "\"Applied Materials\" lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Advantest Joins Applied Materials in Co-Innovation Partnership to Enhance Semiconductor Manufacturing and Testing Efficiencies - Quiver Quantitative",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQUWYzQ0dyV2RyYnpfcUxvOUg3RVdDemlnb2JrbGZMUVhMYUZHVmstaEN6WldycW4tUVF1WDhMVnZDMTVybGNacmhBUlJ3cDBwamdzVkFzNktSRFFjZFlrYlRRdzVUcmlnRERVNzNtdmk1TEc5UGJ2eThaQ202NTlFYVRiZXNLS1c3dzZZN2k4OGc3dlJCaGcweEFJNnZlbzFEc3FyY19BQ1U0eGRhNml6djBMNmYwR1NobjRKcW5oS2g0VVlYWWs2cU5SYlBjcmEzYlJFMHZFaWlXRmtuLWVnSVBhRFdJMFNocHdvaXo4RHg?oc=5",
+      "published": "2026-04-21T07:00:00+00:00",
+      "publisher": "Quiver Quantitative",
+      "summary": "Advantest Joins Applied Materials in Co-Innovation Partnership to Enhance Semiconductor Manufacturing and Testing Efficiencies &nbsp;&nbsp; Quiver Quantitative",
+      "query": "AMAT acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "demand"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "How Rory McIlroy Won the Masters Without Dominating a Single Stat - AmateurGolf.com",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZjhBT1cwR1NFcUJTNlVmVXFnUzJXbmRucVhNeWNoQ1dvdTdMdFpOWVlTd3BjczV6OXprU04xQ29Fd2pJdk0yYXJpSHNrVzNteVhLRzFUV2ZGSFJWRU9zck5kSWZCc0xGUEJBMzhwdDUtQ0hZbmhLTEVHZVdnWE9fd3k0WFNEQlF5bVNlQlp4NjlXcU5NcW1pSmRueVFRenBTX1hCdzVYcEhFazNyOXRwR2xSc3U0N2Y5UHNhVw?oc=5",
+      "published": "2026-04-12T07:00:00+00:00",
+      "publisher": "AmateurGolf.com",
+      "summary": "How Rory McIlroy Won the Masters Without Dominating a Single Stat &nbsp;&nbsp; AmateurGolf.com",
+      "query": "AMAT lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "2026 US Open Cup Round 2: Detroit City FC earns first regulation win vs. Flint City Bucks in rivalry renewal - TheCup.us",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOOFJOWjBsU3ktTnY2OFZYQXBhNDhOSE1oaGl6bUo1anNSMzNzWHkzWk05eW0zQWFPRVNfZVpIRy1MRER2bVVXbDkySXhJSEZkMmZSaUYtaHEyME5xMk1IT0hNanRwZUJISG1JaTExdHJidHU4Z0szSlRWMFJPby0zeTlYczZ6ZXNkQWU5X2JCVlVFZGwyQjQ1a3Z5QkM2Nm5hOUZpekF1OEhYTlVjV3RyU2JuM085X3ZHYnhjQmhiZlAtWnhEdkc0V0pjdTZFd28xQ3c?oc=5",
+      "published": "2026-04-03T07:00:00+00:00",
+      "publisher": "TheCup.us",
+      "summary": "2026 US Open Cup Round 2: Detroit City FC earns first regulation win vs. Flint City Bucks in rivalry renewal &nbsp;&nbsp; TheCup.us",
+      "query": "AMAT lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Augusta National Women’s Amateur 2026: Field, format and how to watch - Golf Channel",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQmdSOWRtd2haRzZpMGNxTm9NNzk3NFp1ZUpfRlhadU1nOC1BeDZ5Z1JTYWtvUDBQX1Jobm5laTdmcTJpWWZabFlURzFTbjItckRobFNlQmRoeGJ3d1IxVEJ6S1NiZ21uYldoYllfb1Bvcm03UWVBcGZ0dFZCWmJIOVRJRDRXZWRiQ1RwY3FMQmZsV1lvMkg0ZGFwYmJqVjViVnZybFBSSQ?oc=5",
+      "published": "2026-03-29T07:00:00+00:00",
+      "publisher": "Golf Channel",
+      "summary": "Augusta National Women’s Amateur 2026: Field, format and how to watch &nbsp;&nbsp; Golf Channel",
+      "query": "AMAT lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Applied Materials Overcomes a 21% Drawdown: How $700 Billion in AI CapEx Fuels the $431 Target - TIKR.com",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQTltNTlEa3pjeFMya2U5UlREVEZzT2hOTVpMQjRtQTIydk1zNjROV0p0dGtKODNLWHlZRmZ3WmVVT2x0OXNGdkFWZDU2ZVJUelN2dU5jN2RIWE1UOTk0R1pGS3AzN3dtQ2NBTk5nUklNUWY0M3hnOHlIY1NRR1hybHNPb2JfUndreUh1ZFRXZHhhQVduZktURVBGbXVTek5abjZDVmhhd1lsX09iQUoxYXZudDIwenc?oc=5",
+      "published": "2026-03-28T07:00:00+00:00",
+      "publisher": "TIKR.com",
+      "summary": "Applied Materials Overcomes a 21% Drawdown: How $700 Billion in AI CapEx Fuels the $431 Target &nbsp;&nbsp; TIKR.com",
+      "query": "AMAT capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Applied Materials (AMAT) Is Up 5.7% After Record DRAM Tools, Dividend Hike And AI Supply-Chain Push - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQb1RTYjg5Q09uUFVycDZ1RWVxLU52TEo2MHg4cXlTNWdzNXUwd0hOa1FwSHBKWnM1R2VqM3J6YmtINlRVR1A3UDIyRzhTN2VGWWs1eWRDREF3M2tRZklEUFdpZzcyaVY1blpvUmVaWTNNYXhpWFdZWTItSUJZUjRuT1RnRXBVLTF1a2VnUG50Ujl1R1d6R2c?oc=5",
+      "published": "2026-03-25T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Applied Materials (AMAT) Is Up 5.7% After Record DRAM Tools, Dividend Hike And AI Supply-Chain Push &nbsp;&nbsp; Yahoo Finance",
+      "query": "AMAT capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "demand",
+        "capital_return"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "UPS Powers Customer Success With New Tech-Enabled Logistics Center In Asia Pacific - UPS",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQanhkcWRoVkEzY0hweUV4dU0tamNLV2k1UGNQTVNPVkJtT0Rici1WOWhrMlEwck03UUsxZWhCZ0k5UDdXd1VTLTdmWExaQTFYQUx1RUEzTUtxZERYUTF2S2tvU2R5Z213bE83WERQT29jaDE1VVFhVmFaLUk3MXk1UG5JV0VXSlc5VVBTa0lhc0RKQ0M4Ry1NNHA4MmQ4MVRMVUJJR0FGcmRFS1NEcXlMdkVscURiYXNBUGRaMThaR2g2WFBYQXVNekdBOEdzQmFaekE?oc=5",
+      "published": "2026-03-25T07:00:00+00:00",
+      "publisher": "UPS",
+      "summary": "UPS Powers Customer Success With New Tech-Enabled Logistics Center In Asia Pacific &nbsp;&nbsp; UPS",
+      "query": "\"Applied Materials\" capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    }
+  ]
+}

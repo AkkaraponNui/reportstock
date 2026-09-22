@@ -69,17 +69,63 @@ MACRO_ANGLES = [
 
 # Lightweight event tagging. The analyst agent still reads the text; these tags
 # just make filtering and counting cheap.
+#
+# The vocabulary was widened after measuring it: 47% of a 1,750-article pull
+# came back with no tag at all, and the misses were not exotic. "Amazon sued by
+# FTC" missed `regulatory` because the list held "lawsuit" but not "sued";
+# "Meta cash flow craters as Zuckerberg doubles down on AI spending" missed
+# `capacity` because it held "capex" but not "spending". Untagged is the one
+# state that carries no information, so it is worth attacking directly.
 EVENT_TAGS = {
-    "earnings": ["earnings", "q1", "q2", "q3", "q4", "quarterly results", "beats", "misses", "eps"],
-    "guidance": ["guidance", "forecast", "outlook", "raises", "lowers", "cuts outlook"],
-    "analyst": ["price target", "upgrade", "downgrade", "initiated", "overweight", "underweight", "buy rating"],
-    "regulatory": ["antitrust", "regulator", "lawsuit", "investigation", "probe", "fine", "sanction", "export control", "tariff", "ban"],
-    "product": ["launch", "unveils", "announces", "new chip", "release", "roadmap", "next-gen"],
-    "mna": ["acquire", "acquisition", "merger", "buyout", "stake", "takeover", "divest"],
-    "capacity": ["capex", "capacity", "fab", "factory", "plant", "supply chain", "shortage", "expansion"],
-    "management": ["ceo", "cfo", "resign", "steps down", "appoints", "layoff", "restructuring"],
-    "demand": ["demand", "orders", "backlog", "bookings", "contract", "deal worth"],
-    "macro": ["fed", "inflation", "rate cut", "rate hike", "recession", "gdp", "tariff", "yield"],
+    "earnings": ["earnings", "q1", "q2", "q3", "q4", "quarterly results", "beats",
+                 "misses", "eps", "revenue rose", "revenue fell", "results",
+                 "posts", "double-digit growth", "profit"],
+    "guidance": ["guidance", "forecast", "outlook", "raises", "lowers", "cuts outlook",
+                 "guides", "reaffirms", "full-year"],
+    "analyst": ["price target", "upgrade", "downgrade", "initiated", "overweight",
+                "underweight", "buy rating", "mean target", "analyst says",
+                "street", "consensus"],
+    "regulatory": ["antitrust", "regulator", "lawsuit", "investigation", "probe",
+                   "suing", "trial", "ruling", "appeal", "complaint",
+                   "fine", "sanction", "export control", "export curb", "tariff",
+                   "ban", "sue", "sued", "sues", "suit", "injunction",
+                   "class action", "accused", "accuses", "patent", "subpoena",
+                   "settlement", "settles", "court", "judge", "doj", "ftc", "sec ",
+                   "compliance", "license", "licence"],
+    "product": ["launch", "unveils", "announces", "new chip", "release", "roadmap",
+                "next-gen", "introduces", "debuts", "rolls out"],
+    "mna": ["acquire", "acquisition", "merger", "buyout", "stake", "takeover",
+            "divest", "acquires", "buys", "to buy", "to acquire", "joint venture"],
+    "capacity": ["capex", "capacity", "fab", "factory", "plant", "supply chain",
+                 "shortage", "expansion", "spending", "data center", "datacenter",
+                 "build", "investment", "invests", "production"],
+    "management": ["ceo", "cfo", "resign", "steps down", "appoints", "layoff",
+                   "restructuring", "hires", "departs"],
+    "demand": ["demand", "orders", "backlog", "bookings", "contract", "deal worth",
+               "interest in", "adoption", "customers", "sales", "deal", "partnership",
+               "supply", "wins", "says no"],
+    "macro": ["fed", "inflation", "rate cut", "rate hike", "recession", "gdp",
+              "tariff", "yield", "interest rates", "treasury", "dollar"],
+    "capital_return": ["buyback", "share repurchase", "repurchase program",
+                       "dividend", "special dividend", "split"],
+    # Not an event. This is the filter that matters most, because it separates
+    # "classified as not worth reading" from "we could not tell", and those two
+    # were indistinguishable while both came back with an empty tag list.
+    "speculation": ["price prediction", "could hit", "where the stock will go",
+                    "is it too late", "should you buy", "best stocks",
+                    "stocks to buy", "buying opportunity", "prediction:",
+                    "what will", "here's why", "heres why", "is this a",
+                    "millionaire", "if you invested", "better buy",
+                    "stock forecast", "1 year", "by 2030", "wall street thinks",
+                    "upside", "priced in", "fairly priced", "price really justified",
+                    "how much", "worth buying", "still a buy", "too late to buy"],
+    # Also not an event: a day's price move reported as news. Roughly a fifth of
+    # every pull is this, and it says nothing about five-year earnings power.
+    "price_move": ["stock sinks", "stock jumps", "stock drops", "stock falls",
+                   "stock rises", "stock rallied", "stock soars", "stock slides",
+                   "shares fall", "shares rise", "shares jump", "shares drop",
+                   "outpaces", "market gains", "what you should know",
+                   "why .* stock", "hits new high", "52-week"],
 }
 
 NEGATIVE_HINTS = ["falls", "drops", "plunge", "slump", "cuts", "misses", "downgrade", "lawsuit", "probe", "ban", "warns", "layoff", "delay", "recall", "loss"]

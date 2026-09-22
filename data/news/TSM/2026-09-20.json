@@ -1,0 +1,2423 @@
+{
+  "ticker": "TSM",
+  "company": "Taiwan Semiconductor Manufacturing",
+  "as_of": "2026-09-20T09:07:24+00:00",
+  "lookback_days": 180,
+  "summary": {
+    "total": 185,
+    "by_event_tag": {
+      "demand": 53,
+      "earnings": 44,
+      "capacity": 35,
+      "guidance": 30,
+      "speculation": 17,
+      "regulatory": 11,
+      "analyst": 8,
+      "price_move": 5,
+      "product": 4,
+      "management": 2,
+      "mna": 2
+    },
+    "headline_lean": {
+      "positive": 47,
+      "negative": 10,
+      "neutral": 128
+    },
+    "top_publishers": {
+      "Yahoo Finance": 53,
+      "24/7 Wall St.": 10,
+      "Taipei Times": 7,
+      "TradingView": 6,
+      "Seeking Alpha": 6,
+      "Reuters": 6,
+      "Investor's Business Daily": 6,
+      "CNBC": 5,
+      "The Motley Fool": 4,
+      "Quiver Quantitative": 4
+    }
+  },
+  "articles": [
+    {
+      "title": "Taiwan Semiconductor Manufacturing's Foundry Market Share Is a Massive Moat Nobody Talks About - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSmVIQnVhQkdTOThiYVVDcVF1QW5TVWhZOGdlcjIzdTNJenJSVGJsZkVyZjVFUU1ndzFCbW4yeHhBYTVxLWNaQ3RlQnlacW5VSHpIYi1zZWNRTnJpVS1vMUlKWVIxWVkwSUVqR1Blay1yQ2diU1FtamtGWno4cW03aEZJMDBWM0R1WVpmajVmRlRsQ3N5ampfcGc1UVlaUmxWZG84akZ6cXhYUE5fZ0h6bjdEWk5ldw?oc=5",
+      "published": "2026-09-20T08:23:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Taiwan Semiconductor Manufacturing's Foundry Market Share Is a Massive Moat Nobody Talks About &nbsp;&nbsp; Yahoo Finance",
+      "query": "\"Taiwan Semiconductor Manufacturing\" competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "TSMC Stock Forecast: TSM Reported $35.9B Revenue. Why Is Demand Still Outpacing Supply? - TradingKey",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPRDNVeXY1UmNhRlc1N0Vrb2cxc0VzVTJsSFdqUUk0bTFNdUE0WElNeGFtS3I1ZjlwRjg5WVRRWjR0THJDZkl0SXAzOE5DNVhqREtJMm5PUFc1bjM5MkJ5cmNuckRZODlwQVFGdk5MSEVVSDc0d2xlbjI0V2FHYlp2Z0tTdnlOeW1UZ0V4M1ZRa2V4M1JmcXZramdTVjA0OVRqNkRvMkl3a1V6ZjZQcFdGUjFFMk9WZG92aVlHVTdhQld5OW9PMVBPWG5R?oc=5",
+      "published": "2026-09-19T20:00:21+00:00",
+      "publisher": "TradingKey",
+      "summary": "TSMC Stock Forecast: TSM Reported $35.9B Revenue. Why Is Demand Still Outpacing Supply? &nbsp;&nbsp; TradingKey",
+      "query": "TSM revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [
+        "guidance",
+        "demand",
+        "speculation"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Truck Driver Arrested After Crashing Into SW Rochester Business - 106.9 KROC",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE93bDdncG5pZmxaQmlJR0pmQVU3S1g3ZnJVMHFDZ1gwVk4xWmpNSmZJU05kMWEtalk5UmdKS1gtZ3IyWWtfQlpYZUJxTlJISEdNZmxrY1Fpd3p5a0Fsc2xHS1BCNThVbU4zVlJLWXgzOEUwdzE4YnlJR2dpLWl3aVk?oc=5",
+      "published": "2026-09-18T16:50:08+00:00",
+      "publisher": "106.9 KROC",
+      "summary": "Truck Driver Arrested After Crashing Into SW Rochester Business &nbsp;&nbsp; 106.9 KROC",
+      "query": "TSM lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "TSMC (TSM) Stock Forecast: June Revenue Up 68%, Q2 Earnings Tomorrow; Is $438 the Next Stop? - TradingKey",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZ1JnUDhUX2U1ZXlyTk1ZZlJZQUlCanB0VnhQVTE2RktleVdTd2Z5a2JxS25KZGJuYTIzc1duU2lvVkZXMU16WlVSRzB3a2tkQW11czBQUF80VFdJX1pQM2tBelY1akNLaEZlbXF3QVJ5eVNKNGM2TWh1S3ByREV5TDBmUmRTT05kSDNxMXhaZVhDSEhOYXc4WjRJVm9CN0xaLTVQbW1RLWR5WXhzb1RhZ0dFRFdCM3ltVmx3dy1VQ3JqSFlnMjU0ejFGN2V1cWNa?oc=5",
+      "published": "2026-09-18T06:27:03+00:00",
+      "publisher": "TradingKey",
+      "summary": "TSMC (TSM) Stock Forecast: June Revenue Up 68%, Q2 Earnings Tomorrow; Is $438 the Next Stop? &nbsp;&nbsp; TradingKey",
+      "query": "TSM earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "guidance",
+        "speculation"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Taiwan Semiconductor Manufacturing Co. (TSMC) - Britannica",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1qcmkzWDFJem9aNjFJODBRVml5UUxNcWk5eXQ1bU41bUFiUG9LMFVHYWpnVi00Q0ZHSUZnTlpSTUdSVTMxUXpQcFUyMHVmLVVCMG96NldrdkU0bExZMW1RWlpyVU80Y2R0N29KejlpNWIweUVVRUxGUUtR?oc=5",
+      "published": "2026-09-17T16:00:00+00:00",
+      "publisher": "Britannica",
+      "summary": "Taiwan Semiconductor Manufacturing Co. (TSMC) &nbsp;&nbsp; Britannica",
+      "query": "\"Taiwan Semiconductor Manufacturing\" lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "TSMC’s Germany venture hits milestone - Taipei Times",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9Mb2NQQUJUckVLeTNDVGtvdzRwUWN3WFRScjZKTmZfcVhlcklPb3I2TFgyZ2RSdWs1ekhvUlAwdHUzR1RxUUlMX3VzcklxRzdqU0xPcWh5dXJsZy1GV0t6bXhNVFNuY2tmdWhrMGd5cHl5QnB1S1E?oc=5",
+      "published": "2026-09-15T16:00:00+00:00",
+      "publisher": "Taipei Times",
+      "summary": "TSMC’s Germany venture hits milestone &nbsp;&nbsp; Taipei Times",
+      "query": "\"Taiwan Semiconductor Manufacturing\" lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Judge Denies New Trial Request in Mayo Clinic-Dr. Joyner Lawsuit - KROC-AM",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1kaG1PUTEtZjdoYnpYQzB4VFpZelBVckdmZmFWWm9NTDB4X2ptMXM2SDR4cG9PSXR6TDFtQk5BWjhscERyZU1RNnFORzZIaXRYNFV5d3NjSm5SNWtxQTZMMDNQUmRBcW5FMThSMTYxODM?oc=5",
+      "published": "2026-09-14T21:53:46+00:00",
+      "publisher": "KROC-AM",
+      "summary": "Judge Denies New Trial Request in Mayo Clinic-Dr. Joyner Lawsuit &nbsp;&nbsp; KROC-AM",
+      "query": "TSM lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory"
+      ],
+      "lean": "negative"
+    },
+    {
+      "title": "Taiwan Semiconductor Manufacturing (NYSE:TSM) Hits Record August Revenue, Is The AI Upside Already Priced In? - simplywall.st",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNYnMxVG9PSmNnOW5pRGVtbE1XVXpCQmFGTW1ZWkhYbWp1eVgyRzMzRFpCNDRkc29FUkNjTFN3VlQ5TUo1RUExaFBzVW9qTDl0VlU1TnY5RTNGVENZOFZzdE9rcnE3REJGY3JPQjYybi11SWFjT2FfVHZWMW1sSDllR2VyMUVzcFk4aGNPazRURENHVkxNbm9wVmc2VXBBdkZreERtSnJvaWtzZnhycjBLQkRoTnpJd09CZzNOaElTTkJaRHF6eVFHeEczU1Rlbm1Lc3BGMHlPVy1kX3JtLWU3dW9zRXJQaHc5Vzg3VdIB8gFBVV95cUxNcXo4WV91OHRlb1JyeDQtOXhRRk9iSzM1REs3LTlNLU15T3Bmb1Ztd0VRS0xLQjFlZ2RNSGM4YzRZS1VISy12c3FDNEdjS0hBZGFPTnIydXN2RUZ2OGxHVVJEU3UxU1NQQmZNeFB0TURablpvanhOa0Zjc1FSZDI2MTZVUmpzNWxMbDBXZ0dlNEY3XzdEMkhjXzdyZzhQNEFkNl9xbFpXamNHLWg2NFIwWGwtNGhucjlPdUNKbTNldlh5Y3Jfd0pIYXViZHJuVGM1MGFFSG5FWEp2azJZQ2RXRnQyQmMyLTlOZ09ya3dOdDA0QQ?oc=5",
+      "published": "2026-09-12T10:41:05+00:00",
+      "publisher": "simplywall.st",
+      "summary": "Taiwan Semiconductor Manufacturing (NYSE:TSM) Hits Record August Revenue, Is The AI Upside Already Priced In? &nbsp;&nbsp; simplywall.st",
+      "query": "\"Taiwan Semiconductor Manufacturing\" revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [
+        "speculation"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Dow, S&P 500, Nasdaq Futures Edge Higher Ahead Of PPI, Jobless Claims: NVDA, AAPL, META, ORCL, TSM, TSLA, SLS In Focus - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNb3lISFRXbWZQbzh3amhud2RZTFJqMHVKWVdGRWViTDA4UEhxTXdTVG9qRWtTVUczQ1ZtaVJmRGk3Uk9nQzVCOFhwRzgwWVVEQ29yNkFFZjViTDc0V3lCdGxwc3YxcFpDTmdJN1VBXzQ3S1UwemtzLVo5dlc0S1dvQ1RYbjBUc29WQk1MUjhTM2lINjVnNHhFcFhDLXZZSlFrazF3MnozRmlxUTgtZ0Z0bVJZSko2T2NsQjh0M2xWM3RQV0dBSGY2eTVnUzN3M003ZFhCZU4zZHN2aTlUQmt5eE1rZGlqb1RpVkt4ZzhuZ1V5M09QU3RmWkthS3dodw?oc=5",
+      "published": "2026-09-10T08:45:46+00:00",
+      "publisher": "TradingView",
+      "summary": "Dow, S&amp;P 500, Nasdaq Futures Edge Higher Ahead Of PPI, Jobless Claims: NVDA, AAPL, META, ORCL, TSM, TSLA, SLS In Focus &nbsp;&nbsp; TradingView",
+      "query": "TSM lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "World’s largest contract chipmaker TSMC sees August revenue surge over 53% to record high - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9ycjd0eDNoeHBMd2Y4OE5TT2JvVUlNbVlhREFBc19jRTU3b0lrRTkxU1JrSmdmZ1AwcGFsWUlvZXBfT3FVS093cWxNZDA0WlRmb3haODhHVHREaDlyV3RYWVNjdEtYWTMtdGxwUEhPb3kzd9IBd0FVX3lxTE51eV9XN2ZtTHdhbUJaX1dtaTFWT0k5THItMFBIb3RRN3ZZT2dlamlnLXRaMkROcHFCQjBTWkcyQ3BlTWc1bmRsMUpsTnRwU2VKUWRxSW5lQ3FiTV9MRzVKX1QwUi1LYThTaEhpdUs0dTcyd0hER2Jn?oc=5",
+      "published": "2026-09-10T07:00:00+00:00",
+      "publisher": "CNBC",
+      "summary": "World’s largest contract chipmaker TSMC sees August revenue surge over 53% to record high &nbsp;&nbsp; CNBC",
+      "query": "\"Taiwan Semiconductor Manufacturing\" revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [
+        "demand"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "TSMC’s market share edges higher - Taipei Times",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5ZLXVRaUI1UzNXdnZBQmx5VTYxZmpXN2pvblJzcU0xZk1hOF9tdHlCWDlYVm1MRk9mX25IZ0dId0N5V2l1cGpPQjBESFh3dDlqM3VFZzg5XzRSdVZOWTMxVTVYNlpYX3BCWjd3WHRmWE5sRVp3NVE?oc=5",
+      "published": "2026-09-10T07:00:00+00:00",
+      "publisher": "Taipei Times",
+      "summary": "TSMC’s market share edges higher &nbsp;&nbsp; Taipei Times",
+      "query": "\"Taiwan Semiconductor Manufacturing\" competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Is Taiwan Semiconductor Manufacturing (NYSE:TSM) Reasonable When Cash Flow And Earnings Disagree? - simplywall.st",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNVnFxVlBWVXVnaWNJQUJwQXgzT1lvMENJMHdtdnVQamhfNG4zcmNTNTJGN2YyQWhHeDZVSTUzcEljS0thbUFidVhmdFVxenpxN1duTUVSd2J0czlnNXRUME1zMGRXdU56czBPS2R1Q1JkdW9LcTRtQkhtVUgwS1g0dXZadEgyQ2pZQlE4QlZYV0p4Q0lZc0xRREhHODNsWU5UWEtfc0hZQ3pPVzgxbWU3alYyZ2czSUlBbXlYbjZRSU9jak5mdkdwMk82Qk5YdEZkYVRVeWwxeDMzQUFBcG9SeHotbnU5dk1SWlZBMtIB8gFBVV95cUxPa2gwWFlQazJrNlFpWHhVMTRSX3pmOHQzVVY2MjdaUTNyeTBYTW1pYUdwdFczWnB1a1V4dnM2YUtxenRpcHJhMlBuZjFncEdaNUFNVXpoQUdxb2Q0TlMxUXB2aWJZRkNRTkluSXFjQjlsWWRWOG1OTE4wTm4wdlNnTXoyN2JiNm5WZFVNZldRZW9tWm1nMGU3V0o4T3E2Wjd3ZUcxdkZMd29GVzI3ckFmMWVHVDlzRmhmM1Z3Ui1nS2ZtMzFYVkdseXBrSXFmaURqc21Ga0o5cmpkNlFBWDZyTnRsSFc2NF9vVGJiWHVMY1R2QQ?oc=5",
+      "published": "2026-09-08T20:42:05+00:00",
+      "publisher": "simplywall.st",
+      "summary": "Is Taiwan Semiconductor Manufacturing (NYSE:TSM) Reasonable When Cash Flow And Earnings Disagree? &nbsp;&nbsp; simplywall.st",
+      "query": "\"Taiwan Semiconductor Manufacturing\" competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Taiwan Semiconductor Manufacturing Company (TSM) Raises Guidance as Demand for Advanced Chips Soars - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNU3Q4ZW1zd0JRTFhTNmhoTEpqeDFiN0Q1UkJoMENCYVhlNktSbVJKWjk3VGdkQWg1V1NUMzdLM09CS0JSR1Q3X2E3TGRNbXRXS0dNRDB2T2c0X3lYRUVsLTF6VVkxQzQ0WWhQN3p4aTdiOTdKV0dYWlllb3NRbnExS1hDZlI1czdQRjNhYWhMRjNCNm1STDh6TnAtbXQyMUlMRWFvMkxvTjlybllWaWUwUQ?oc=5",
+      "published": "2026-09-07T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Taiwan Semiconductor Manufacturing Company (TSM) Raises Guidance as Demand for Advanced Chips Soars &nbsp;&nbsp; Yahoo Finance",
+      "query": "\"Taiwan Semiconductor Manufacturing\" competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [
+        "guidance",
+        "demand"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Prediction: Taiwan Semiconductor's Market Value Passes $3 Trillion Before 2029 - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcldxY1czYlBnMmdUVmw3X0Y1ck9abTFhR1VjeFd0TmVPbG5ES3FjSU1NdElZd0IxNEFpbU1IcG1FSUZEM1FKTmcyQ0I5LVplWDVrbm9ESDlKYkxvN3N1V0VMSHRtX1pVM21pVkhPeENkNzRQbkxOYWU2eGs5STFYQkFkTmVYX25ManV2ODloR2V1cW1vQkZXaGd6S0dvT09iZ0MyMllELXljdVZLUDU2eloxcnhCTFJXeFV2R2k1TQ?oc=5",
+      "published": "2026-09-06T07:00:00+00:00",
+      "publisher": "The Motley Fool",
+      "summary": "Prediction: Taiwan Semiconductor's Market Value Passes $3 Trillion Before 2029 &nbsp;&nbsp; The Motley Fool",
+      "query": "\"Taiwan Semiconductor Manufacturing\" competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [
+        "speculation"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Taiwan Semiconductor Manufacturing (TSM) Could Be 9% Above Fair Value As Capex Plans Grow - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVU5RZ1ZLM09jZWhZbjlGNXVsaGRUVEl1OG9yMjVoS0lqVjF4WXI3R3R2OEJNVXlQSFZCcmRYcHIwSTZHZ19KNDh0NEZEd3NzQ3IxTUY3SnVaUHpWbncxV1ZTUTV0RlA1SnFqZ2N0cHZRZ1lLZXNWU24wQW93Z1hXTWtYVHJJUkg2bkRGYlBPc2FORGR4XzVJZVEwNkl2aU5UMG5uaGgwNTVYZjc0aFE?oc=5",
+      "published": "2026-09-03T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Taiwan Semiconductor Manufacturing (TSM) Could Be 9% Above Fair Value As Capex Plans Grow &nbsp;&nbsp; Yahoo Finance",
+      "query": "TSM stock",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "TSMC says unable to keep pace with AI boom despite fivefold expansion - Taipei Times",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5MYlhHS2pVc1F4T3E4VmhfWlhyVEgyRkI2UFRfZHJTUzFLbzVoWFR6WUJSenY5WXQyc1N5eF9mbEpEOXVIY2lhSWY2dW1fMjhKN2JPa04wSUsxUWhFM0tPd2hFU0ZWUzJLSnh6UmhaS0FtYWs4dWc?oc=5",
+      "published": "2026-09-03T07:00:00+00:00",
+      "publisher": "Taipei Times",
+      "summary": "TSMC says unable to keep pace with AI boom despite fivefold expansion &nbsp;&nbsp; Taipei Times",
+      "query": "\"Taiwan Semiconductor Manufacturing\" capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "CEO of Taiwan Semiconductor (NYSE: TSM) gains 204K shares from stock vesting - Stock Titan",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOLXhmc0hCa0ZfbGY4eDI1UUpUZmlwZnBUcTFJTkdRQ0dHT1B1OGlvZ0t3M0pzcnlsalZyZHJ1MFBMTU5kTUJIaVRWUFh3YVpoQm5sUmp2aFltWDVRTDZKZUtVdnZ5NjFpdjd2YXY4cTNra2RKN3FEdE90MjRYTWxqNXVySVExS2kyYW1RaEpfaHBnNnIxdjEwZ1AwUVFfbkVMYThSWl8zTFV2S2ZaN1ZMRUZxaXMtNTBPYXNEdjFXRXRmemJZMk5lS1dB?oc=5",
+      "published": "2026-09-02T07:00:00+00:00",
+      "publisher": "Stock Titan",
+      "summary": "CEO of Taiwan Semiconductor (NYSE: TSM) gains 204K shares from stock vesting &nbsp;&nbsp; Stock Titan",
+      "query": "TSM acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "management"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "TSMC's $269 Billion Expansion Puts Its 67.7% Margin in Focus - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQeEk2dlh1QkQzWEdURE01TFIxZ2hET25sQVZNTGJySDFXeGstMEhsUTRQVWxuYnFHaWdvZ29vMmZINW1pb3BTVjlUUHFzbHJWbVF2eGVsS2tUN2RMekh4TVl0aFpra2tMM21zb3RBbXZ6VVlFTXFSTTNnNGxnMGFKY1VoUjZzQTVoUHdQWGhRN0pWZGhiMzBRSFV3QTlBQQ?oc=5",
+      "published": "2026-09-01T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "TSMC's $269 Billion Expansion Puts Its 67.7% Margin in Focus &nbsp;&nbsp; Yahoo Finance",
+      "query": "TSM stock",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Japan to relax overtime regulation under workaholic PM - Courthouse News",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUUNhWUJLUUxrek1vWi0xUC1CaTVZeVZyNkZTVVpTN3N6enpXUGx6MFNwQlVSR01ta0YxTGdMRXJuYmlqenpyYVNuaUVyMjdLa1FMLUdMSHJlaHNsWURRWGJrR1NvYkpoYWRnZllISk1KYmJjNVZBWmFxM3lKTEs3Y2FjX0F0bnpOeTVKUnZB?oc=5",
+      "published": "2026-09-01T07:00:00+00:00",
+      "publisher": "Courthouse News",
+      "summary": "Japan to relax overtime regulation under workaholic PM &nbsp;&nbsp; Courthouse News",
+      "query": "\"Taiwan Semiconductor Manufacturing\" lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "TSMC (NYSE: TSM) VP now holds 1.8M shares after grant - Stock Titan",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQSl9lbGN5eF9CUnJ2MHpZWUo1dWxmMFNVbWhYRGlxbzVWc01RVlBsM1RjQkl3ZEVVcjRkbDJaQ2dnTVdEdEw4aGkzcGRHMWlLbjNydGItYm5TS3MwSmxRY1djVHdnZm9OWDR0dDVNSS1HY3N6ZUhtU2RTbVRvenh6VmxkTW85eHZKaFdRRE0xOTlEQW94bTJoV1NWajNQdUZIdl9lQ2lkQVMxZl9LVU9aWmZWRmNZUlFVcjl2bDZWaTVvRHZMc3VjSkh3?oc=5",
+      "published": "2026-09-01T07:00:00+00:00",
+      "publisher": "Stock Titan",
+      "summary": "TSMC (NYSE: TSM) VP now holds 1.8M shares after grant &nbsp;&nbsp; Stock Titan",
+      "query": "TSM acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "TSMC (NYSE: TSM) VP adds 8,175 shares via no-cash award vesting - Stock Titan",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNY0RiS3p6ek1jdHNKVjNja24ybjVFN2hHV3QtSHJSaDZjVnR2bEZpemljbjUxc2NDVzNELUduVE02SGk2Snd4ZGJNUmoycEk2VjJudGU2cWcybHBuV200clNMaUFZeTJVTW1UTThoQjZaZWJmMk5sWnFjMW1IRG02UC1ISE9mNFR0VG0zRnQ1WjVPZXRFM1NwUndjYVZQQ1VtRW5oSW5HTGFBc2g1RUsyQmVMUTBDWVA4eDR2ZHBKR2l0cjZ1RGZ0YnFB?oc=5",
+      "published": "2026-09-01T07:00:00+00:00",
+      "publisher": "Stock Titan",
+      "summary": "TSMC (NYSE: TSM) VP adds 8,175 shares via no-cash award vesting &nbsp;&nbsp; Stock Titan",
+      "query": "TSM acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Taiwan Semiconductor Manufacturing Company Stock (TSM) Opinions on July Revenue Surge and AI Demand - Quiver Quantitative",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOWmZ6dmNyeDVPRmFIbm5yZ09YQnM2WnU4ejVLdklXdENiWHZZaUxXUkhuMWRlZV9GN0JGYk90Y2hCazZrTXVaSzNQaDlnWThVdUppUGRRb2UxU2FJQ19tQ3ZuNkU5MU9RZVZlVldVem1HNDktM3JpOElvZHVzcjBQeDR4dExlTGlwWGdhM1ZqNkVuTk5GLTVITGh3M0doSzBJQ210SXNxdUI0NTd3enN3ZHB5UnJSMlc1cnAxZmpwMENuY0dIVW5qZDhlRXE3X1U1Y0JsUDdfZllwc19kRW4zTkxXTllFTVd3elJDZmpMWQ?oc=5",
+      "published": "2026-08-30T07:00:00+00:00",
+      "publisher": "Quiver Quantitative",
+      "summary": "Taiwan Semiconductor Manufacturing Company Stock (TSM) Opinions on July Revenue Surge and AI Demand &nbsp;&nbsp; Quiver Quantitative",
+      "query": "TSM capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "demand"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Taiwan Semiconductor Manufacturing (TSM) Stock Looks Stretched As Its 363% Run Continues - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVHNLR2ViUjM2SHNnaFBqWXhza3dHTVVhaGw4c2hKR1lfSVF4SGtXbTdnam85RGhKN1RoSlF0T21iSjZQYXVuSXlRTGFWMjB3bGJDWkZabW1mRndtZzM4ZjBfem1Jb2VDYlhRRFplTU5jc0ZkSFotNG53RkltQWoyOEc5ekNPUkhHS2F5R1liOHdpTDhENmRSYm5pdkZwZDVULTVtbXBvS1ZwV2Y4UVE?oc=5",
+      "published": "2026-08-29T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Taiwan Semiconductor Manufacturing (TSM) Stock Looks Stretched As Its 363% Run Continues &nbsp;&nbsp; Yahoo Finance",
+      "query": "TSM stock",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "What Is Taiwan Semiconductor Manufacturing (TSM) Getting From Its 3nm Chip Partnership? - simplywall.st",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQU2YzVEVRb0FTeW1JNFhNSmlaV2JGWTVRdUkyczhBU29PeEtQaVNOWGRIRUp5Ul83bDVMWDJxMmVDZWZQc1hwTVh3NUxHMUk0aDVrTVVSdC1hZ1NIVlhKRk1ZRGtOdWRzbk5PRU4ydTZkVnZSdFVaUHlOel9uRnhHQTVDVEFBaGtiZzBSLVE0Wm9pVXVKN3RGVFZucmVtRmZFR0xZSkc1S0NnRFp1Z0ltZEFtNE9kdnpBcW1YVnhxTktrNDNZSE1RZHBKTGcxV3hhcWI4MUN6LWxpdkpEUnU3NGNvN2xoUlQ0aHVF0gHwAUFVX3lxTE9BcVFHYm1qc0p1LUtWME8yQU91TmJyRVR6MmRUaGxOUnZmMmpZT3BXdFVGaEIxSjRyaFpRZ2JsTi16OEtDQmZ6NWxleTVIOTJxTFpuUW9ZVXlmRmY2eHFIX2VQSllnbUNmOWNtM1lnWENaYkVreUZIMWRjTnU3VjAtNFRtcUlfSlhkalRndDdtY3FUR25GeVFOOHAzVWVTb1lMSTNWU3FLcXlrZkxCNHRDX1BZSVptVTdyMDA1VEhSUUxyNXpYU0FRR1NWUjNSUmVCaW1PNWJUTHhYblNEWnZWbjZxVFNiUnM5cGlfV2JwUA?oc=5",
+      "published": "2026-08-28T07:00:00+00:00",
+      "publisher": "simplywall.st",
+      "summary": "What Is Taiwan Semiconductor Manufacturing (TSM) Getting From Its 3nm Chip Partnership? &nbsp;&nbsp; simplywall.st",
+      "query": "TSM acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "demand"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Why Is Taiwan Semiconductor Manufacturing (TSM) Winning More 3nm AI Chip Work? - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNOHlIeVU0VXE3Q3VpYm1wSktPSjVGcXI2cVNQWENJYi1fSHhnMlpMQnU5Z2pyeUF0cTJJUFRSUnBLWFZGMm95ZFRlSlFncjJmOWswRXZZTXVTNUlwMzNlMElUbVQ1NUtlRTVsNXlkaWw4UTVnVTBrdUV6TUw2aDUwRGFybzFNTjNDUUhZTmlTT1hrU1l0WmtTWGxOYmpLS2hvcHZoMEFjVU1lZw?oc=5",
+      "published": "2026-08-27T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Why Is Taiwan Semiconductor Manufacturing (TSM) Winning More 3nm AI Chip Work? &nbsp;&nbsp; Yahoo Finance",
+      "query": "TSM acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Price Prediction: TSM Will Trade at This Price in 2027 - 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUDIzVGpBZV9GRENQMGpjYmFpZG93dnAtOGZBZlJ5SjUwaUJWRXhmcG1Sc09BV1BLb3pyQmdnRXpZM0QwamM3VW94SG1KUjhuY1NOZDJzMU4zSS0xMlluWFUtZzFaejhRS25ISWNpU0pfWXEzV3lSMEVFTUQtdFhxYnF1cVpmSTdEcXB3TFJ5RXY3aFBHZmdoclNnbUxhQQ?oc=5",
+      "published": "2026-08-26T07:00:00+00:00",
+      "publisher": "24/7 Wall St.",
+      "summary": "Price Prediction: TSM Will Trade at This Price in 2027 &nbsp;&nbsp; 24/7 Wall St.",
+      "query": "TSM analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [
+        "speculation"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Price Prediction: TSM Will Trade at This Price in 2027 - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVXJMbzJHSUNCNjNtWU5aQ3luZjA3Z3Z2RjByb3RXdnBtMHE1Yi1RaGtCdE41WTFYenBaRF9TU3kwY3dfczFZMVlMRXVKNzhyd2hxbHdVbk5qMWY2QktRMUQwaWJWTGYtUExTenlaZ0h5czJNenBZb3AwcXlZNkRyYUxRYTdwUXlGRFBoaVJNODhKTHg2bXRuRUZ3dWhkZw?oc=5",
+      "published": "2026-08-26T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Price Prediction: TSM Will Trade at This Price in 2027 &nbsp;&nbsp; Yahoo Finance",
+      "query": "TSM analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [
+        "speculation"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Global Pure Foundry Market Share: Quarterly - Counterpoint Research",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORDdQWldzVUpIZDdpYmE4TWhIVDE1SnRCaEdPcG82dmFOaWoyOXVjdGhZeFhVRmdqOFN1S2xWaXBfNi1PaGFDRXZsRU1HQ0NmS0VsMWowQ19pUXgyOER3bE8wSk02SmlIeW5LSzlOZFFnYXpzd3ZwdVhoUTByeWlvcDN2SF9VNl9KWUE3a3NSUQ?oc=5",
+      "published": "2026-08-26T07:00:00+00:00",
+      "publisher": "Counterpoint Research",
+      "summary": "Global Pure Foundry Market Share: Quarterly &nbsp;&nbsp; Counterpoint Research",
+      "query": "\"Taiwan Semiconductor Manufacturing\" competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Why Taiwan Semiconductor Manufacturing (TSM) Stock Is Down Today - Quiver Quantitative",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPN2RmYmwxcWFZenZHVmlNYXhvTmgzNklwcXJ0Z1FUUV9xTnJ6NFU5aGJrN2FtZXEzZlJJSWJEcUlCWVRJdmV6eEw2SmJqeG5JQ0lrMFVwSGI0cEk5UjhtY09icWR3Y2ZOR1lxdEtvakhuZWNnYmlfenNtNzdZTXBEZ19xdlpoRnk0UTZFWU9VZ2ppYlJ4eTVmbUEzU2Zodw?oc=5",
+      "published": "2026-08-24T07:00:00+00:00",
+      "publisher": "Quiver Quantitative",
+      "summary": "Why Taiwan Semiconductor Manufacturing (TSM) Stock Is Down Today &nbsp;&nbsp; Quiver Quantitative",
+      "query": "TSM stock",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "TSMC's $100 Billion Arizona Expansion Shows The Stock Is a No-Brainer Buy - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcGhKSGVZNU9MUVJGanAwdlFLMEg4NmtzbUtBeGVQZ1ZlZzJCMjdzOWtlcGt4NnZZQTVTNURqbXd6TlBpd19NSUdfU3JwUVphcWhyTE5nNFZnNDlIdU03YV9MaTl3c0o1MU1CQ2oxX3EyenFKMV85VDVBSVIydU5Wa0FSREljOV9kVnVsRE5OT0Y3ZC1VemxsUHEwN3BGV2pvVUE?oc=5",
+      "published": "2026-08-22T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "TSMC's $100 Billion Arizona Expansion Shows The Stock Is a No-Brainer Buy &nbsp;&nbsp; Yahoo Finance",
+      "query": "TSM stock",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "This Stock Is Riding an AI Wave That Shows No Signs of Slowing - 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQmNqT2dtcDhyN1B0T2p1S0F2Q3VCbXJtMktoVGZDeWFDWTBJblJxU0YzNUlxMXhyNzVMdy0wZmltZlBQeDhia19QaXhRbUI3eGFia1ZZakxxeXMxRDBlLW1UV0VaR3hNUlBibktfLUZfVUdVeGFnV2h4RmQ0LUw2c3hjOHhzV3BSTlBUbDhuU25VYy1OS0lQWENjWTU0RXM5bmlqcEFydFJsZw?oc=5",
+      "published": "2026-08-20T07:00:00+00:00",
+      "publisher": "24/7 Wall St.",
+      "summary": "This Stock Is Riding an AI Wave That Shows No Signs of Slowing &nbsp;&nbsp; 24/7 Wall St.",
+      "query": "TSM stock",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Taiwan Semiconductor Manufacturing Company (TSM) Looks Built for Long-Term Growth, but What Happens in the Next Downturn? - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUEFFVjg2WnNEeEtUd0ZpZ2RUaUdzNjFMYjVfVHYySVJ0SGYxVmJlTTNuTDFIWm1aWTNJM2tnOC1WcW5hUTVyTXFKVGR3UjB2X2R3WDVkYXZXT3puZnVxTGhIdUk5U3pVNGZKYU1TOE5YUGE1NzVVdlJjV3VYLXdBeWlNdzlsLVgyNmUtdVlMX2tvQmVHcEJjeDg1UkVScTVNaTVsc3pOVTlsV0J4dHlULQ?oc=5",
+      "published": "2026-08-19T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Taiwan Semiconductor Manufacturing Company (TSM) Looks Built for Long-Term Growth, but What Happens in the Next Downturn? &nbsp;&nbsp; Yahoo Finance",
+      "query": "\"Taiwan Semiconductor Manufacturing\" stock",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "positive"
+    },
+    {
+      "title": "7 Best Semiconductor Stocks for 2026 | Investing - money.usnews.com",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPdVlocTJ6U2RLbGpQUnpwLWxwSjQ4ZlI3cjR5U204TDlkakhISEo5d3ItaGFVQ1VSdk1UdXBFc1JGYnVqT1ZoN2RKQUREM3dxeDRYbzF5Rl9XeHl6WXZzWWNkY1NRS0pvd0RDYVVLbFRTNHdzR2xyZXpaam1naEc3Y3dR?oc=5",
+      "published": "2026-08-18T07:00:00+00:00",
+      "publisher": "money.usnews.com",
+      "summary": "7 Best Semiconductor Stocks for 2026 | Investing &nbsp;&nbsp; money.usnews.com",
+      "query": "TSM competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Should You Buy Taiwan Semiconductor Stock Below $440? Here's What History Says. - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSjEyVC02bUQtTTJkaFczMnJxTE9CXzRBaDNaMmc4OExoODM4X0llMm1lQ3dXVkhkRWhab0RSQkU2NWxXa200cUh1LTR3bXcyVWh1ejBhZ2ZiNW1oYlBKN2YyYTdPV2IxT3JickpkeDBIc0xMakwySmVpa0VYQk94MjdtTXF1X1l1MGtLSlVtcF9JeU1VbDIwcUVRdnJ3TnpsSV80?oc=5",
+      "published": "2026-08-16T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Should You Buy Taiwan Semiconductor Stock Below $440? Here's What History Says. &nbsp;&nbsp; Yahoo Finance",
+      "query": "TSM stock",
+      "source_api": "google_news_rss",
+      "tags": [
+        "speculation"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Will Karen Waldrup Head Up the Week's Most Popular Videos? - Taste of Country",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9QMEdDVmtOcXhxUlpZNVgtYzRheThVUUt5OG5MNVdvZGlMS1pvckxGbFJMWnAtWlM4bkFpME1jVFh4bk12WlhsNXVyQXJZSk9KaU5LbS1NcmNaYlJpU1BnTV9FMS0wQzZWc3I5OGhGT20?oc=5",
+      "published": "2026-08-15T07:00:00+00:00",
+      "publisher": "Taste of Country",
+      "summary": "Will Karen Waldrup Head Up the Week's Most Popular Videos? &nbsp;&nbsp; Taste of Country",
+      "query": "TSM lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Taiwan Semiconductor Manufacturing (TSM) Stock Trades Rich On Cash Flow While Earnings Look Cheaper - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQcTNncnhaZzFUa3JfYlhXVV9vWDNWUzVKcWNnYUtpd3pILS1OT2RPU1RuaDBaem5sSGJFS0Zwd0p0TUxlREU1NHRwZk51N29aNFdDYkxSSTNFN29lbVdYRk5wRFFoMFhORjdoOVIyUDkwbm1MT0VTNDBmUGdNWnhGQWJtbXV4ck9vVWFZVUR5ZTRzc1o5dlE4SzA1b050Y3dmTmx2WTQ3WEJsZVNVdnc?oc=5",
+      "published": "2026-08-14T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Taiwan Semiconductor Manufacturing (TSM) Stock Trades Rich On Cash Flow While Earnings Look Cheaper &nbsp;&nbsp; Yahoo Finance",
+      "query": "TSM stock",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Taiwan Semiconductor Ceramic Packaging Materials Market Size, Share,Trends, Growth Analysis Report, 2030 - MarketsandMarkets",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcG9IZjB4WVA3T2VNZm1NbmtjUWlqdmhPU3ZGMGZQcF9xSGZVakg4cnBYWW90ajlLTDdlTDU4ODFkSmlTNGlxc1k3aTVteG5yVVZ5S3kwNGJ0YmRyMndLUldoNU83R3FLeHp0YmdZcHJ2c0cwenhWZmR2bDNnM25wQ1pxcDJFSnhwbjYyelpkcUtwWFRRVEt4NS0wQXc5cThFS1BEZm90aWFIMF9zZXk0d2lvdHY?oc=5",
+      "published": "2026-08-11T21:04:08+00:00",
+      "publisher": "MarketsandMarkets",
+      "summary": "Taiwan Semiconductor Ceramic Packaging Materials Market Size, Share,Trends, Growth Analysis Report, 2030 &nbsp;&nbsp; MarketsandMarkets",
+      "query": "\"Taiwan Semiconductor Manufacturing\" competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "positive"
+    },
+    {
+      "title": "Arizona wants Taiwan’s investors to think beyond chips - Rest of World",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0tN1VkYXFOclktWW1acTdKd0tUNHZ6V0dKR1ZrMUprbnR4M1BtN0VOcDItVnVIRVNKRmFCMmtBVl9tdWpETVJwNWhrQmlfdkp5T01sNVlQaXZmVHBKWUZSYVpn?oc=5",
+      "published": "2026-08-07T07:00:00+00:00",
+      "publisher": "Rest of World",
+      "summary": "Arizona wants Taiwan’s investors to think beyond chips &nbsp;&nbsp; Rest of World",
+      "query": "\"Taiwan Semiconductor Manufacturing\" capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Buc-ees is suing a small Ohio Mart over a beaver logo. Why this might matter for those in New Jersey - New Jersey 101.5",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9CR0dFYWNab2NHdVg3U2IyaC1naWhiX1R2X19iQVd0YWFsZHU5YjIzZDJGSUZScDhma090WERYNFZrMlN4UXBCdGkzMGV2UWYzNHJUOWpXcEZEanpi?oc=5",
+      "published": "2026-08-06T07:00:00+00:00",
+      "publisher": "New Jersey 101.5",
+      "summary": "Buc-ees is suing a small Ohio Mart over a beaver logo. Why this might matter for those in New Jersey &nbsp;&nbsp; New Jersey 101.5",
+      "query": "TSM lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Taiwan Semiconductor Manufacturing (TSM) Eyes Faster 3 Nanometer Output, Is The Stock Expensive? - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUDdIdlNyTHZmSmFRM2VIaVE5dmJDa0VQelh4aTR5QTNHUGlBVU5WbjV0UkpsbHY3UHdqMWJsR3p4V2NaRGtIWkY1ZWRsRkFPWkt4RHJMX1NJV2tBdXQyUXplejBIRmpOZ0F2dDBhZzRlZ01kXzAtVUhUSmpYamdRQ3RoanZLZVM4VTlMTFllSGsyRUNaeWpPRUVXUXcxMS1nOU1RalZDZlpfRzN5?oc=5",
+      "published": "2026-08-05T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Taiwan Semiconductor Manufacturing (TSM) Eyes Faster 3 Nanometer Output, Is The Stock Expensive? &nbsp;&nbsp; Yahoo Finance",
+      "query": "\"Taiwan Semiconductor Manufacturing\" stock",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Sony's TSMC Sensor Venture Could Reshape Its Imaging Growth Story - Eastern Progress",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNbzJIYWd1MnQyemxlUVZQQWczT0VCbV9tZURUZG1ud2VxUEJ2ZmZzX080Zkt0LWRjSGd5ajhmSDJhNHpfQjBoZG9sRUJfbExOUjEtTENRdVN2em5FajBkeDctTWNEUmhKTkhMSEJkYXl0ZFZfbU5IeTdVNTZzblNXQ3FmMGxJc09weWNFRzlMR2RnWW10c2JmTTJWLXVEWDdtb3VBVTVrc2ljZFZMYzl3QzJqSVRHLUxBVHJCTDFOc2t0YndrNlFEWTAwYlRocW0wNWJLTllzTzBjQ2pRN0lR?oc=5",
+      "published": "2026-08-05T07:00:00+00:00",
+      "publisher": "Eastern Progress",
+      "summary": "Sony's TSMC Sensor Venture Could Reshape Its Imaging Growth Story &nbsp;&nbsp; Eastern Progress",
+      "query": "TSM acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "positive"
+    },
+    {
+      "title": "The Case Against the Proposed Chip Security Act in Taiwan - Lawfare",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdlF2QjdPamt1N1F6S08tcG1iN0ZaYUFubVZhdW82WXlaT2tQTTFIdDlRUnc4Q0U3elY5MHhEdWVMd3c5RUhDMGZzbXJWelYxYXQtT1pQWmlZTVk5RWlmd2E0U2FIVllGYjhMNzV1QXg4QWdncVlsRTZES3U5dVU3MkNRdXhIT1ZocXhCblVJY2lPQXV3cnBxNU13?oc=5",
+      "published": "2026-08-04T07:00:00+00:00",
+      "publisher": "Lawfare",
+      "summary": "The Case Against the Proposed Chip Security Act in Taiwan &nbsp;&nbsp; Lawfare",
+      "query": "\"Taiwan Semiconductor Manufacturing\" lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Taiwan Semiconductor Just Reclaimed a $2 Trillion Market Cap. It Still Trades at About 20 Times Forward Earnings. - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQOHhBMm82akxQR3o3c2tPYTBjc3hjVWxFQmI4OWs5aVlMNE1wU0hsa1BsaXhycFRzWFJPS1VPYURId2dydTJJU3dMUGVPSGkwVXpZbGwxd0k0RS1wMnBRSkpCYkctOTRwQ3hGWUhSVWFVOUFKb000dkdnYjRmNTF5QWxqcURNWkxVNzhTazNGRG5IaXYxdkFNMQ?oc=5",
+      "published": "2026-08-03T07:00:00+00:00",
+      "publisher": "The Motley Fool",
+      "summary": "Taiwan Semiconductor Just Reclaimed a $2 Trillion Market Cap. It Still Trades at About 20 Times Forward Earnings. &nbsp;&nbsp; The Motley Fool",
+      "query": "\"Taiwan Semiconductor Manufacturing\" competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Kumamoto Quake Disrupts Japan's Semiconductor Hub, Raising Supply Chain Concerns - JAPAN Forward",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBQRTJnVE9RUi1PUWRqeFE3QU1iZ0ZZRmdxNTA4NHM0eXRPNWhad2h6ak9qdU5aZkJ2XzRVd1Jid3JSUnN4MHFGOG1FT2dUaEt6M0pkZjA3c1V6cWNObGF1MzVJTG5qd0NtcFMwMVhscFFfZHRzMU1waGIxWQ?oc=5",
+      "published": "2026-08-03T07:00:00+00:00",
+      "publisher": "JAPAN Forward",
+      "summary": "Kumamoto Quake Disrupts Japan's Semiconductor Hub, Raising Supply Chain Concerns &nbsp;&nbsp; JAPAN Forward",
+      "query": "\"Taiwan Semiconductor Manufacturing\" capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity",
+        "demand"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Got $1,000? Taiwan Semiconductor Manufacturing's $100 Billion Arizona Investment Makes It a Must-Own Stock - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOcnBCTy0zcmNtSmFWdkdmUTJDSU1oRFhTand4RmtpVnJnZUVFbXlwQThhWEdhM1hNV0s2UkZfbHVyZVp2bHpQaWx0bUZXNmxxUzBEX2dsWkdUMGcweHVkcXRWUEVVSG1KUWVicmJpdTNYbXNIWndkcjYxV2FkdnJGeWJoVGNVRVliWGEteE1EcU1KR1dUdWwxcVJXMA?oc=5",
+      "published": "2026-08-02T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Got $1,000? Taiwan Semiconductor Manufacturing's $100 Billion Arizona Investment Makes It a Must-Own Stock &nbsp;&nbsp; Yahoo Finance",
+      "query": "\"Taiwan Semiconductor Manufacturing\" stock",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "ASML vs. TSMC: Which Semiconductor Supply Chain Stock Is the Better AI Play? - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRWtadUVrVV85SmRReXRNdXBlbDZ2YWFnN0Y3STVLSTdhOHhVUkttSGFfcU9JZDNDeVQ2R1VxR3NGaTQ5Wngxc2dYeFl6bWRRMlJWVHVPUkVadVI3S3ZkRW9RczNUMFUxS2loS2RPcF9LYXQxcFJKamNoUUdpZEg5ZUU0dGg1ZXhoek9qbEdqZUlrY3hnUjUtdQ?oc=5",
+      "published": "2026-08-02T07:00:00+00:00",
+      "publisher": "The Motley Fool",
+      "summary": "ASML vs. TSMC: Which Semiconductor Supply Chain Stock Is the Better AI Play? &nbsp;&nbsp; The Motley Fool",
+      "query": "TSM capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity",
+        "demand"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Taiwan Semiconductor Manufacturing (NYSE:TSM) Stock Looks Reasonable Despite Its 335% Run - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdXlOU25CLUxKaTlvbTI1NklKcGlYR3BwaE9PWmVrVVhoajRIeHJ1YkZyU2h2bklHRkFBdkFBSVlxeHp1LXJBbjdJUV9GOHNiUzVRS2hIeFlkVFFvVG1EMUp1dHB6YlljLXdZenh3Yy1KTkZqRE5pcmpyVjM3dG5nbmVhVUVtZktTVWF4VWtqdDB4bm0zZG1sZTgyTjd1T1h5SGpRc1lORW1wTWNh?oc=5",
+      "published": "2026-07-31T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Taiwan Semiconductor Manufacturing (NYSE:TSM) Stock Looks Reasonable Despite Its 335% Run &nbsp;&nbsp; Yahoo Finance",
+      "query": "TSM stock",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "1 AI Stock I’d Buy Before It Hits Another All-Time High - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdnBTckozbnpmS3JmSzg2UFhLR2s5WjUyRGd5QmpUeExrcUg1SDJuWXk1QnFrRWU2M1VHczZiT1RKVVVieU5ZN3UyY0dDUnNrbWd5WC1BMElqY3g4aUZBV19aSnJMZXlHSG80MmlTREx2S2VEYUtwUnc2THR6c2x6QUhfTGJIdXdp?oc=5",
+      "published": "2026-07-31T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "1 AI Stock I’d Buy Before It Hits Another All-Time High &nbsp;&nbsp; Yahoo Finance",
+      "query": "TSM analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "ANALYSIS: How AI has rewired Taiwan’s stock market - Taipei Times",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9XOEpncmVJZWI0ODBhNWJ3c0QteG9xY21aekczY3J0OFlMU1d6WUlLWXRzV2VqbllSemNGYWhwczVSc0QySVZVSVZ0N3dTWWRra1hUNGQ3eUZNZnJOVVVfMlp6U3hsMXJvWXQ4Ml9xRDVjNXc3ajk0?oc=5",
+      "published": "2026-07-31T07:00:00+00:00",
+      "publisher": "Taipei Times",
+      "summary": "ANALYSIS: How AI has rewired Taiwan’s stock market &nbsp;&nbsp; Taipei Times",
+      "query": "\"Taiwan Semiconductor Manufacturing\" competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "ASML vs. TSM: Which AI Chip Stock Is the Better Buy Now? - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRWl0cVVHc3E4LXhLNWhCcFBlUllvUEJYV195aDFQcktNMTYzY09ydXNoRlZFb2F2dkJXMDdfWmVteDhzNWR6Q3JGcGNRcVFYS2t1anZMTnBJUW9DT2dkbTItWWdLVnlyZEpmSFByMEVMek5YNzFoTXdtaU5JdjdXVkt2OFVpOFc0ZlNN?oc=5",
+      "published": "2026-07-30T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "ASML vs. TSM: Which AI Chip Stock Is the Better Buy Now? &nbsp;&nbsp; Yahoo Finance",
+      "query": "TSM stock",
+      "source_api": "google_news_rss",
+      "tags": [
+        "speculation"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Taiwan Semiconductor Manufacturing (NYSE:TSM) Stock Faces Fresh Questions Over China Tools And AI Spending - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNajFUc2tLWTZiY0FnYXEwVXZ3blpiYkxLRWxrNmlqNXR2cmpmMUVrRlkyVFdMaW13bWRXT01yWFhNdUVXNjFkd0plT2NhWV9LeU56V2NESGtQMHRsdWlLNHlQSlR2LW9fNTNDN3dkQVBxVXlDWFNCV2xNMFYxajZJUGtEZWg3b01NVUVUZ3dJRHhkc0JqeV9sSHYwYVRSNTJFdUt3Z3FtSnZyNzJD?oc=5",
+      "published": "2026-07-28T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Taiwan Semiconductor Manufacturing (NYSE:TSM) Stock Faces Fresh Questions Over China Tools And AI Spending &nbsp;&nbsp; Yahoo Finance",
+      "query": "\"Taiwan Semiconductor Manufacturing\" stock",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Beijing Just Aimed at Taiwan Semiconductor Manufacturing Company (NYSE:TSM). Here’s Why the Bull Case Still Wins - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQaFpXakRKdFV2WDBKcEczOHhqMVJwSVpUeDRJTWZRS3pSS2VQNWZsNVhCa0lCODF5LTlocHFzQ3dRcnZTZ2taa2tIZ1VKZ2YwQm9hVnd6RUNfMXVmV0R3QUJnek5CMnRBWjh4NFF3VXNYZXdydUdzUG94c0JFeUhSek9kS1BkNDlBb3NRT2liOUNaczVWNXZNcE5wbE9uLTZsTlVzMEtsQQ?oc=5",
+      "published": "2026-07-27T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Beijing Just Aimed at Taiwan Semiconductor Manufacturing Company (NYSE:TSM). Here’s Why the Bull Case Still Wins &nbsp;&nbsp; Yahoo Finance",
+      "query": "\"Taiwan Semiconductor Manufacturing\" stock",
+      "source_api": "google_news_rss",
+      "tags": [
+        "demand"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Arizona built the Fabs – now let’s build the supply chains - Arizona Capitol Times",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVnBBT0xUWnVBdXctaDRTVWt6d2pSQ0Z1WVR4bEkxdG9Ed2lZZG5MZUJPZlRfSUU2SngwR0lpTUh0VldDTUpvcDE4SXpyMlNja0VlMDFFaU05OGp2cVF6cWhUUWJseUJCMG90MDItZ21uaGd3c1lnX002Z29reDB1Ylc5THlKcGp6aU9CdVR0WFpMNlJKX3Z5Rl9ncWZzZ0N6?oc=5",
+      "published": "2026-07-27T07:00:00+00:00",
+      "publisher": "Arizona Capitol Times",
+      "summary": "Arizona built the Fabs – now let’s build the supply chains &nbsp;&nbsp; Arizona Capitol Times",
+      "query": "\"Taiwan Semiconductor Manufacturing\" capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity",
+        "demand"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "TSMC Boosts U.S. Chip Production by $100 Billion as AI Fuels Growth - MarketWise",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbXZPQzM2R2REZUdqWGZ0NWtuenVvcUhWX1NwaGo3X04tUmFhVGE4UnQ0YVFacUEzdzF6RFRoZmFRZVpZbERyYVIwT2s4UjNCSjdGOXBzNjBCZzlDS3FiNDJGeUdSOU43S1JJdGstejJ3LWRVbFVwMDlxb09JTmx5VXl0d3F4czdX?oc=5",
+      "published": "2026-07-24T07:00:00+00:00",
+      "publisher": "MarketWise",
+      "summary": "TSMC Boosts U.S. Chip Production by $100 Billion as AI Fuels Growth &nbsp;&nbsp; MarketWise",
+      "query": "\"Taiwan Semiconductor Manufacturing\" capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "TSM: Inside The Price Dispute That Can Upend The AI Supply Chain (NYSE:TSM) - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPR28xcTMzd3VNVnRRa1dzN2ZtLUNhLWJ2ZzRwYlJ4T3RjUXNCTDQxRFdTUG83a0pjUFNOWTM2R3ROMlhqNW9HTENkNWRwZzVabktleVcwS3hXdTNoU1dMYkJaOURtem9SNDJyb25kSjBMV1ItZm9KeFpuOFE0V3BXSlFrc20xYktxSDJlUU1abXQzNWlhT0tTQzhYbkZhSGRVc2hPVDJMSUpUOVUzZmM4VzFiV3RhYzRMUVVMZ2NQMA?oc=5",
+      "published": "2026-07-23T07:00:00+00:00",
+      "publisher": "Seeking Alpha",
+      "summary": "TSM: Inside The Price Dispute That Can Upend The AI Supply Chain (NYSE:TSM) &nbsp;&nbsp; Seeking Alpha",
+      "query": "TSM capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity",
+        "demand"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Taiwan Semiconductor (TSM) Stock Is Down Nearly 15% This Month Despite Record AI Demand. Here Is Why - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSDZPcmF3QXJBZEZmUWNjSEUtdVFzRDc4XzZvLUJPLVNhSGVjTFpLU0hucG93bE5xb0p1SUpvNjRZaGtOVUdzWjVYNlJwaFkyS2JKclBIV2xZa2tSRzFJa2ZRMmV0MExsY25HS21nYnFqX3otR3JVYmM3cTF0TVR5YmdLMmU2blQtRU1jNGxDXy1iMUQwVENFVThzaDcxVmo4SkE?oc=5",
+      "published": "2026-07-22T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Taiwan Semiconductor (TSM) Stock Is Down Nearly 15% This Month Despite Record AI Demand. Here Is Why &nbsp;&nbsp; Yahoo Finance",
+      "query": "TSM stock",
+      "source_api": "google_news_rss",
+      "tags": [
+        "demand"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "TSMC accelerates Arizona fab expansion with additional $100bn investment - Cleanroom Technology",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUFpDRWxsV1dhRENweVlTWHFaZXNVU1h1ZFJXZFl2Ym1SUk9xTFN6bnBoTXZDa0lqYXFPYkhNRkx3WEs3NkpIZk10Y1lNVXJWejNXM2oyOE1UNVJtMURld2FYN1Nhbk5MN3RvWkZaeG54WlU5cEVCSU9sdUJYcmtBdUs5NHpNNHZDcEJRVzgwRGwzVHN0ZFRwNmxpVQ?oc=5",
+      "published": "2026-07-22T07:00:00+00:00",
+      "publisher": "Cleanroom Technology",
+      "summary": "TSMC accelerates Arizona fab expansion with additional $100bn investment &nbsp;&nbsp; Cleanroom Technology",
+      "query": "\"Taiwan Semiconductor Manufacturing\" capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "US Chips Supply Chain: Inside TSMC’s $265bn Arizona Plans - manufacturingdigital.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQN1ZsNjNCd3J0bjZ2UUZTRjJ6ZDNMUm1kTjhjbjgxME5DRGhWZldGS25qR0FQdW5zTFhPRi1TaExTbURyLS05aWl3Tld2TkxrSEhrSWMwVVFXSElkdDJjNW1teXItX1pxWF91Tl9QZ1RZVDlzMlpCcmd3bFctSGFXeDNuVWYya2ROOHNrcjZJa2g4ZVo3STZGWGdZMTI?oc=5",
+      "published": "2026-07-22T07:00:00+00:00",
+      "publisher": "manufacturingdigital.com",
+      "summary": "US Chips Supply Chain: Inside TSMC’s $265bn Arizona Plans &nbsp;&nbsp; manufacturingdigital.com",
+      "query": "\"Taiwan Semiconductor Manufacturing\" capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity",
+        "demand"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Taiwan Semiconductor Manufacturing Company Limited (TSM) Doubled Since Giverny Capital Asset Management’s Entry - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOYUZwUjl4dXpwQ3BUUDhTQjFCOWRySGJ0VWNkTUVZbl9nOHlDaExHa1FvYy1lMUhpUUdfWXlkOVQwZkk2X1FUV1hScHRBTlJ3SGdUZ1hTdTFGeGdnSGdlMFJMLS1pZG85ZUxGLS1oazlhcXBBelAtNEVRYzlaeGlZSDJVZU12VlRaYTRJaVRIeXBUOFpEOW9PeVEwckhQTEJaT3NMRkk3bEw2c05wbXFoaE1jQ1J0Zw?oc=5",
+      "published": "2026-07-21T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Taiwan Semiconductor Manufacturing Company Limited (TSM) Doubled Since Giverny Capital Asset Management’s Entry &nbsp;&nbsp; Yahoo Finance",
+      "query": "\"Taiwan Semiconductor Manufacturing\" stock",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "What TSMC's capex surge could mean (TSM:NYSE) - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1vV3JDZjRqX2dYYXlSbkZCU0hIbkxlMTRHZm9jSWl1Sks3Q3UtZVFVSmRYS0JjTTJOZjFqUGYtWjhXTGpGbTlPNFpmdy12VDBsSWJWR0lVZkU3OE1QcU9wN1R5WVZsZnRKcjNycEdIejk4eW1RVEJVc0FhVQ?oc=5",
+      "published": "2026-07-21T07:00:00+00:00",
+      "publisher": "Seeking Alpha",
+      "summary": "What TSMC's capex surge could mean (TSM:NYSE) &nbsp;&nbsp; Seeking Alpha",
+      "query": "TSM capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Taiwan Semiconductor Manufacturing Company Limited (TSM) Jumped as Market Favored AI Capex Winners - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPY2hPYUxic3hHd21TbVhDRDdNZjdmSUNsak45MWVOVU5ZU3dyd1g2NVJ6eEF3ZjE5Y0N6NzhvcEtBOHczNVhCRjM2Mm1SUm5IMm5lUFN6VXdBNzFlYmt0d1hkV0dRUlVQM0M5S2Z1enV2SVdMNzlHUV80bTFtdnRISUN4TVFLNURIYkZyVGlQU0dROHREY2pzVTI1RnRWbno0NmdEWWJ6QUlnMXJGQ3Bzel8zWmloQQ?oc=5",
+      "published": "2026-07-20T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Taiwan Semiconductor Manufacturing Company Limited (TSM) Jumped as Market Favored AI Capex Winners &nbsp;&nbsp; Yahoo Finance",
+      "query": "\"Taiwan Semiconductor Manufacturing\" competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Taiwan Semiconductor Manufacturing: Is the Stock a Buy as Revenue Continues to Soar? - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQ094TzZwR0NXclhPbnUzdTdMSjB1RC01VDRsMXNsS3d4WnJTWDlocm9NYXpjSklDVUE3UGRSOWNyS01JUlBIcm5zQlhBeVBXbWtVLTBGVVF0aWlmaVNYajgyWlRocnVjejh2aUE0Q0JXbG91UlVsazdUOUktNzJwRHhyamlGbVcybThyR1d5UkRHcjlvTUpvX19taTBCd2diQ1RQdGIxdERmUkxpMmc?oc=5",
+      "published": "2026-07-19T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Taiwan Semiconductor Manufacturing: Is the Stock a Buy as Revenue Continues to Soar? &nbsp;&nbsp; Yahoo Finance",
+      "query": "\"Taiwan Semiconductor Manufacturing\" stock",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "TSMC: The Market Is Punishing The Wrong AI Stock (NYSE:TSM) - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcV9VaXRWRDhFbFd6dEt0QllsQTNaaGUtdTRjbmNkamJna1pDZm8zUkliZURSMGludmh5ckVXNWs2V0FzSGVzZkwyWURQMXRkRjhkQnRLSVc4N2x3YXZmOGttRU1yaWg5TWJ1eW1fc0lTNmZBRnQ0a0d6NUV6Y3owcTk1amhVQzdHX1pxYlp3T0NfUQ?oc=5",
+      "published": "2026-07-18T07:00:00+00:00",
+      "publisher": "Seeking Alpha",
+      "summary": "TSMC: The Market Is Punishing The Wrong AI Stock (NYSE:TSM) &nbsp;&nbsp; Seeking Alpha",
+      "query": "TSM competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "TSM Stock Falls To Two-Month Low Amid Semiconductor Sell-Off Despite Wave Of Price Target Hikes - Stocktwits",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSEFiTUxReFJJejlzQTRMSzdyMXlRa0ZiakxGQ3pMTGh5WXE0NWQyT01RVDRFVWR0c0FnSjIyTy15TmJFeVhMQXRfNG5xX2xtMXd4aG9mTzBGbWJFSjhYRE14UHZEbVRxVS1iWXVsOWFKYm9oNW1xRF9CRUVmOHdlSG02TmpTdUdCc3JzR1hLRDk1QjVPV19iSF9jaGxOWTZxdVZQdURCQ2dFdnc1SUVqSGJhZVViTEtpOUxKOVJ6c1lPUmRMVVpR?oc=5",
+      "published": "2026-07-17T07:00:00+00:00",
+      "publisher": "Stocktwits",
+      "summary": "TSM Stock Falls To Two-Month Low Amid Semiconductor Sell-Off Despite Wave Of Price Target Hikes &nbsp;&nbsp; Stocktwits",
+      "query": "TSM analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [
+        "analyst",
+        "price_move"
+      ],
+      "lean": "negative"
+    },
+    {
+      "title": "Semiconductor manufacturing and U.S.-China tensions, explained - qz.com",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9aTTRqNmVTd0owUmtCWVVuclBnaHVYdlJzZmNoM0dRMEhjMkN4MWxESGRPTTFVYloybFc3UGJEOVdudzNHbV9nNzNtTVRhMGdWaHNEWnhEdjJRLXVxbVJabENXTWJ1ZVl1Q0NXZQ?oc=5",
+      "published": "2026-07-17T07:00:00+00:00",
+      "publisher": "qz.com",
+      "summary": "Semiconductor manufacturing and U.S.-China tensions, explained &nbsp;&nbsp; qz.com",
+      "query": "\"Taiwan Semiconductor Manufacturing\" capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Taiwan Semiconductor Manufacturing Q2 Earnings Call Highlights - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNM1oyc1JtVDZTTXdTemJ2Ykl4N1JrSkZxNmU2Smd0SUhld2VhcWlDTUlGdXFQelM3LVMtTzlKRmcxVnJkdi1DY2FVckpvSl9MOERsT1pJZWQyTTlubVRtM3FFWXNHaWR1QXc4a053MS1BaEpDbmNjV2d2Q0s5M2FCd2ZVXzZNUHVuOTZoWmJnbHZ0NzRJYUhFNS1DZkZNdzNYSGVBUi0ybUZXQlFHbFFF?oc=5",
+      "published": "2026-07-16T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Taiwan Semiconductor Manufacturing Q2 Earnings Call Highlights &nbsp;&nbsp; Yahoo Finance",
+      "query": "TSM earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "TSMC to invest additional $100 billion in Arizona after second-quarter profit soars 77% - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9UME5mV1RnT1B1TjZfcWhybXd1MEhKdndFNDhwU21pd29CakVKdUNRRW1sYldVNmV2Y2EzNTVfWWxrejBXeF9JM21zSWhKaXZUUG9YQ2NZRlFPblVmcm9XNms2dy1JU2otZ3BhRDlfYm5LQdIBd0FVX3lxTE15WHpRU2xvZnBaVFJUZERLTVRsYl8yZUl2RlhKZXIzNHhRVW9Mdk9hRlBta2lvQVNMYVpTb0xxam5iREZEem5XREFqb1pPakpJcGs4MFdUNnBFS0htRDdMd2V0YTRoSGM5UlNDcURzWmRUZW41NEZV?oc=5",
+      "published": "2026-07-16T07:00:00+00:00",
+      "publisher": "CNBC",
+      "summary": "TSMC to invest additional $100 billion in Arizona after second-quarter profit soars 77% &nbsp;&nbsp; CNBC",
+      "query": "TSM earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "TSMC to Invest a Further $100 Billion in U.S. After AI Fuels Surge in Earnings - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNR2F6a01DSDV3TC10TENhU0VkUXppaXNkTGswdHFnb0tSOS1PM2pTajEzY3JmNEtCU2ktSUlEZWpDUWMxMHdtSmFYNVBLcF9rQlF6ZTkxanRkYXdYWmh3cV9aT0lqOF94amZ0OUhWQWdKUnBoRi1Tb0pxNi1BYnhJZGJtalAwN19INnp6bE1R?oc=5",
+      "published": "2026-07-16T07:00:00+00:00",
+      "publisher": "WSJ",
+      "summary": "TSMC to Invest a Further $100 Billion in U.S. After AI Fuels Surge in Earnings &nbsp;&nbsp; WSJ",
+      "query": "TSM earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "TSMC Stock Falls After Earnings. Why Strong Guidance Wasn't Enough - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWTROUlpCVlN5TTlXd3RUZUJWbXNsendVMHJIeVA1UzVUbHBMT1FhUUhUNEVRSHliOHUxazdKSlhwZUpVRXByS3VnUlprNk8tRFRMa1psb3QtQ3JYdXpYUnhLYUlpYU0yN3QzbVZwZlBpUVVRbjNNaXVrNXJLR2EzTEdyZ0VuS0lBRUFsV0lqSEd4dk5jbHpmRnVQNm1aUHFldnAzenJRM0NqMTlqOVRXM1kzV3U5UlVrTV82QV9wMXpyWm8?oc=5",
+      "published": "2026-07-16T07:00:00+00:00",
+      "publisher": "TradingView",
+      "summary": "TSMC Stock Falls After Earnings. Why Strong Guidance Wasn't Enough &nbsp;&nbsp; TradingView",
+      "query": "TSM earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "guidance",
+        "price_move"
+      ],
+      "lean": "negative"
+    },
+    {
+      "title": "TSMC Earnings: AI Demand Is Stronger Than the Chip Selloff Suggests - Moomoo",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUWR3OWgweDZyT2trRC1uYXQ0UWh5QzlhQ1hZV3h6VjJZdlEzZE0wZFd1YlZHQ21jUl9mdGtvaWI2ZFc0VndyREw4X2NaVUxiRWZiZ3V3U2xMbld4aWdjLVBWODJsd2N5cW00b3F4dy1LT3NPZ2lxbGxlMUhFaFA5eHVSbzRxaDB2UXRqQ1F3MkdGbmxfcktaYk85S3NwWk1hbWtQZWMzRng2UDNvS2c0?oc=5",
+      "published": "2026-07-16T07:00:00+00:00",
+      "publisher": "Moomoo",
+      "summary": "TSMC Earnings: AI Demand Is Stronger Than the Chip Selloff Suggests &nbsp;&nbsp; Moomoo",
+      "query": "TSM earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "demand"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "TSMC to invest another $100 billion in US as Q2 profit blows past forecasts - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUk5mYmNUVFNRQ1VkeFE1RHUyQzZEb1YzRncyMVVTR2VSdVZiaFJRM0Q3RWNXZUl6c3JQV2xldkowNmdKUTNzVmZvVGt3NDZjZy1lN0I3S1Y4a2dvT2psbUNvVFhjWW12ckZLREdHeWlweUgzbGJ6UG0za25BRGlpcVlhMkJpRHFkVVFZWWRZeFVIV18xelNBV2x1QWF3aFAyY1NydG1pWmpCWDJNY1ZF?oc=5",
+      "published": "2026-07-16T07:00:00+00:00",
+      "publisher": "Reuters",
+      "summary": "TSMC to invest another $100 billion in US as Q2 profit blows past forecasts &nbsp;&nbsp; Reuters",
+      "query": "TSM earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "guidance"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "TSMC Beats, Raises Guidance but Shares Slide — Here’s What’s Spooking Investors - nai500.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNamxQWEFQN0NTZjU0UVdjYnpJaXhQVG96ZkNuR2UweGdUbjN5Sk0tUlBCQlllVmZwOW84OHhzY3JMS3owYURZdVZ4UzBvN3VxVHhBUmJJa3NUdkh2TW01MXdETEZ5XzZRSzlRektZOU0zN01UcXRSakdYUlJqZTlxZ3NOYVA0QUxjOENYUUZUSFU5TUlYYlVLd1JoVlI1TV9sS0NKVmt0REFCZmM?oc=5",
+      "published": "2026-07-16T07:00:00+00:00",
+      "publisher": "nai500.com",
+      "summary": "TSMC Beats, Raises Guidance but Shares Slide — Here’s What’s Spooking Investors &nbsp;&nbsp; nai500.com",
+      "query": "TSM earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "guidance"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Why Is TSM Stock Dipping Premarket Despite Strong Q2 Beat And Outlook? - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOWmxzWkVMckE0WkE0M3QxVnVfS2Z3TTBoUExlRmpxRm5BQ2k4SDc5aFVOUWZPczJyUUlpRlFSc3BpaE9yQXVCOE1EWGVFVlJwZ0k4RTZFMjZWV0ExbnFjeElxOUYxWFF5bUJmcW1McnV2UTVxN3RXZjBpWjdpMk1TY3N5d1FHd3pzSE5hc2ZMZWFnTnk3LVlnNnVwaUY?oc=5",
+      "published": "2026-07-16T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Why Is TSM Stock Dipping Premarket Despite Strong Q2 Beat And Outlook? &nbsp;&nbsp; Yahoo Finance",
+      "query": "TSM earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "guidance"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Taiwan Semiconductor Earnings: Lifting Fair Value Estimate After a Beat-and-Raise Quarter - Morningstar",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOT0gzNkczVzJNdDlseUZOemFKSjlnTEFGa1hqR0wxMUZkVDZwWGRvb25UbWtkd0xqSjNhdUNPUjgxTDAwOGpGVlFvemloVnZVLTA3a1lKbmFBdWhzVlhMV193X2JRUk9xYjBRYUtGcGNpbDBsUV84eEhrU0ZUVVNrajJqLWRMZWZGNGsyMi1fWHlnRlhKc1otSkNjal9KODh3cFlBOFBxUVZNUzNNN3ZMc3BLbUhoX3phX3VTSFRSUGxKS0VQTUMwWERn?oc=5",
+      "published": "2026-07-16T07:00:00+00:00",
+      "publisher": "Morningstar",
+      "summary": "Taiwan Semiconductor Earnings: Lifting Fair Value Estimate After a Beat-and-Raise Quarter &nbsp;&nbsp; Morningstar",
+      "query": "\"Taiwan Semiconductor Manufacturing\" earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "TSMC raises capex and revenue forecast, highlighting growing AI chip demand - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZEtLT0pUSHFicmNvSlZYRUtLLXJob2xXV2VEZndWcEY3TV8tU3ltX08waTg1RDVpeEQ4S3VsRHhGNzZYQWdCT0lkaENNXzN5d0RLX3R2NVRZWm5fc1htZjE2S24xamZiS0FwNXJpdDdhMURoUUFDUWtEeEp3RUZ6ZV9sbEo5dGpWN3ZMZm13Ym9KOFo2VmZ3cUlsUnlWd3F6YVJDNHc5TC00NWlLS2U3a3ZmNXVpVzJXdjAzYy1GR29JUi1Vd1kxLTBsbw?oc=5",
+      "published": "2026-07-16T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "TSMC raises capex and revenue forecast, highlighting growing AI chip demand &nbsp;&nbsp; Yahoo Finance",
+      "query": "TSM revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [
+        "guidance",
+        "capacity",
+        "demand"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "TSMC Raised Its 2026 Revenue Guidance: What It Means for AI Chip Demand - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTlY1MlF5MFhnam1xc0VfVU14VWxMcTQweWtEQXV1aFJ2YTlLVmhlYlBzRm9ubmZmWmtyRXJUbi1hbEViZ0EtRVhUbVlrcXVxcGFvTDU2X2hKS01TZHFIT0Yzbms5al9JUHc4YkM0ZmlrcGpDV1N2RlA1VkJVMDU2N2xheFNEUkhjQ0d6UVhIa09BRTBYLTRaUFNBUGZ2dw?oc=5",
+      "published": "2026-07-16T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "TSMC Raised Its 2026 Revenue Guidance: What It Means for AI Chip Demand &nbsp;&nbsp; Yahoo Finance",
+      "query": "TSM revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [
+        "guidance",
+        "demand"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "TSMC Hikes Sales, Spending Outlook to Catch AI ‘Megatrend’ - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeXFMd1QtVVYwTDVYNUFCTkppRGZ0OEFzbElVS2VpemNrN3VGTVhFMHROaFBVek5WUzRYYm1mYThXdG1QZ1F4SVZ4cklvbUV4MmttdWNMTDRxTEZWdHI4VDk0UEpKdEpycFQxMVpZT1labl84ZWdfNmVsVjh5aUszZEFUZHYzdjkwNXNqc19haDFaM1RYSHJVNXdQVExvN0tUY0JoNklHTGFQblhland2clpKZkNFdw?oc=5",
+      "published": "2026-07-16T07:00:00+00:00",
+      "publisher": "Bloomberg.com",
+      "summary": "TSMC Hikes Sales, Spending Outlook to Catch AI ‘Megatrend’ &nbsp;&nbsp; Bloomberg.com",
+      "query": "\"Taiwan Semiconductor Manufacturing\" revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [
+        "guidance",
+        "capacity",
+        "demand"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Taiwan Semiconductor Tops Q2 Targets On Leading-Edge Chip Demand - Investor's Business Daily",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNXzNFUDhLVlQ5bUVJZ25Rc09NaldVNEU0S0lmZUhvN1pMZzBoNlR2ME1wNkZoaHVvN1dWeDktNGVTUjJENks5Wkc0T2hjT3puSkNIQjBkNmlNZWJZQ1hIc2lGWGNoWHluc0pzd1YwcHVXbTB2SE9SNl8zZ2loTUY4SWlhNHpqV2t0dHBoZk5LU25LTWhD?oc=5",
+      "published": "2026-07-16T07:00:00+00:00",
+      "publisher": "Investor's Business Daily",
+      "summary": "Taiwan Semiconductor Tops Q2 Targets On Leading-Edge Chip Demand &nbsp;&nbsp; Investor's Business Daily",
+      "query": "TSM analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "demand"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Price Prediction: After a Record 77% Profit Jump, Where Does TSMC Stock Go From Here? - 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcC1XUlNFeF9XMkRCeGlVc0s3dkdLckRUZC1yVFRDQjNOWEJYcmt4TEFQNDhNNUN4dDZ1YkJzRGx4TmpQUVpVZ2lkaklYMUJDYnNad2Y4WHc3VjRwMmh4NXdqNWZnNGJWc1F5Z1p3N1lHMWgwVjZNOGJuMVRTSktQcFVURUx0RENHQkFpMWprZ2FsVGlCYzNxc1FjbkQtQTNraGdlSGgyX2NtM3lRaWRLMjFpRzhyZnc5LU1JMFQyaHAxUTg?oc=5",
+      "published": "2026-07-16T07:00:00+00:00",
+      "publisher": "24/7 Wall St.",
+      "summary": "Price Prediction: After a Record 77% Profit Jump, Where Does TSMC Stock Go From Here? &nbsp;&nbsp; 24/7 Wall St.",
+      "query": "TSM analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "speculation"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Here's Why the Riley Strain Lawsuit Against His Fraternity Was Dismissed - Taste of Country",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1PT3RtVUJFLWw2cTlaa1d5cjFTSzNvRDhUczBnNXJSNnlQMkFNd1B0MS1ydGc4NjhoY2RmVnJVUEEyN2dBZWtmNUIxOXRmaUVoczhzb00zWEV4MEQyQWs4OTZWMjdSclAtMUE?oc=5",
+      "published": "2026-07-16T07:00:00+00:00",
+      "publisher": "Taste of Country",
+      "summary": "Here's Why the Riley Strain Lawsuit Against His Fraternity Was Dismissed &nbsp;&nbsp; Taste of Country",
+      "query": "TSM lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory",
+        "speculation"
+      ],
+      "lean": "negative"
+    },
+    {
+      "title": "How Taiwan and South Korea Safeguard Semiconductor Supply Chains Amid US-Iranian Tensions - Global Taiwan Institute",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSG56enV0eEcwZlEybHgxZ29QanFmc09KZjU1R3hGbC1HbmFTUTl6eVVOd1pNRjVxZVJmTmlLUElnUHVoTFVnY2NYdFRvTE9rUkZMWnVSblNrSS1UR0h1TU95MDFzdHBmUWFPMHZVWTNPTXM4aklBbXpVX0NoaThybk5kUGhTZnhXMGRUcjk2UU5JZG5u?oc=5",
+      "published": "2026-07-16T07:00:00+00:00",
+      "publisher": "Global Taiwan Institute",
+      "summary": "How Taiwan and South Korea Safeguard Semiconductor Supply Chains Amid US-Iranian Tensions &nbsp;&nbsp; Global Taiwan Institute",
+      "query": "\"Taiwan Semiconductor Manufacturing\" capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity",
+        "demand"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Taiwan computer chipmaker TSMC pledges another $100 billion to expand US chipmaking capacity - AP News",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOT2MzZG5oUVN6dDFLX0dtWk5GNXdoakNILXBqRmZsUlQ5NzdEbk1aZTlxcU9xWl9lS1NBLWNwb0JfbWctbUwxeFBKMlNMeVN6UEZmbF95NlRIRVFZbDN2SW9VZjFzUHpTYTljR21GU2xrM1JtRU9ETTFBMnhFeHBQcHRKQzRIV202RWdYZXFmektSalBDckxITVRFeDJNZw?oc=5",
+      "published": "2026-07-16T07:00:00+00:00",
+      "publisher": "AP News",
+      "summary": "Taiwan computer chipmaker TSMC pledges another $100 billion to expand US chipmaking capacity &nbsp;&nbsp; AP News",
+      "query": "\"Taiwan Semiconductor Manufacturing\" capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Taiwan Semiconductor Manufacturing (NYSE:TSM) Stock Looks Cheap Even With AI Demand Risk - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTVozczVKVks0M256TXZjOGpxcC1MSldMNWRGNGlVbktRUHpRTWw2ODRaZXNZYS1ITGItT0Fkd3VsUWlHYzhOYk8wdWpqZm1xVGtHNDFhbk50RHdkWXhpb2NMbHV0c2xpbWxYa0JJTjNzejROUmRoWWlFajd2enRJdGtNNnJ5Q1JpOVJSbWlnV3FybEVGUzBqVmhGS2ZKTHIzczB6UEVlTzRUUk9l?oc=5",
+      "published": "2026-07-15T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Taiwan Semiconductor Manufacturing (NYSE:TSM) Stock Looks Cheap Even With AI Demand Risk &nbsp;&nbsp; Yahoo Finance",
+      "query": "\"Taiwan Semiconductor Manufacturing\" stock",
+      "source_api": "google_news_rss",
+      "tags": [
+        "demand"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "TSMC to post Q2 earnings as AI chip demand stays strong (TSM:NYSE) - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbkpDdVZEbkI0TmpjSGVTd25lVTBYTHZXRnd5Vm9HX1VVU2VFR2VDTE85TjRJdnRKelVYQjFSbjVJVEZHMERrZmpTekpWMVk0b2Y4enJ1MkJaQ0E3ODdBSUthakNDMzVJbkFkZUJuNkRzOWVsRlAzQ3BHM3RtTG1HcEswR3R5VW1QLTMwcUM0eWUweTBEZzBRZQ?oc=5",
+      "published": "2026-07-15T07:00:00+00:00",
+      "publisher": "Seeking Alpha",
+      "summary": "TSMC to post Q2 earnings as AI chip demand stays strong (TSM:NYSE) &nbsp;&nbsp; Seeking Alpha",
+      "query": "TSM earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "demand"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Taiwan Semiconductor Manufacturing Company heads into earnings with Wedbush expecting continued AI-driven growth - Yahoo! Finance Canada",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZXBoZWJ0QVg4TFhENnB3Qk13QVZSUzZ3NVdDY0lRY3pvMFluNUttSnNBQnRIcmNvT3l6TXRrbldYSENZamNGc1lzY2l3cUpnREUxamMzYUV0UkxpSk1jbThBQ3ptZzVMQWttZFVTMnpPR3VjSXRHc2p5bkdhb3BaRjJyOUhfUVhsWjVhdDVQbWY1WE9yMm5OelhWSFJOUQ?oc=5",
+      "published": "2026-07-15T07:00:00+00:00",
+      "publisher": "Yahoo! Finance Canada",
+      "summary": "Taiwan Semiconductor Manufacturing Company heads into earnings with Wedbush expecting continued AI-driven growth &nbsp;&nbsp; Yahoo! Finance Canada",
+      "query": "\"Taiwan Semiconductor Manufacturing\" earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Taiwan Semiconductor Earnings Call: Full-year revenue growth forecast raised to 40%, capital expenditure increased to USD 64 billion, and additional investment of USD 100 billion in the U.S. announced - Moomoo",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOXhjcFNYOUg2MFBfekk5SzI1LUxaYW1vWUwwaURoNlNkamU2UGVBS0VpbHQwMmxQZmw1SlZleDZpZnVVbTNDdDBhWWFHejN1bl9yZHFDMG1JdjdnN3FkcDdmbXk5bWRkU2pYMWU5MnU1QlR6Q2VPb3NqMlI0SjhVLUV6bjhBVXFPUDhaOUg4RjB6TXVaRzEtZU8zZDFXTm1zWHJ0N2pJeHRKQnFhbGRFNGFlTktZZHp4?oc=5",
+      "published": "2026-07-15T07:00:00+00:00",
+      "publisher": "Moomoo",
+      "summary": "Taiwan Semiconductor Earnings Call: Full-year revenue growth forecast raised to 40%, capital expenditure increased to USD 64 billion, and additional investment of USD 100 billion in the U.S. announced &nbsp;&nbsp; Moomoo",
+      "query": "TSM revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "guidance",
+        "capacity"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Should You Buy TSM Stock Ahead of Q2 Earnings on HPC Strength? - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPSURyNkVmOERDWVIycTMzN0lMVk1Cc18tNGtyVy1lbHcwaGxuX00xQmRtRTRLaW9EU1RjZERyanFhYWhWaWJmbFhfeV9uYm9vd1JmRmFqbU55d2pHSjNaN3hIbGZuM3pOT0tydEV4UGRRTkMzaG50OTE3eDg1NFlNck5rcWR2cS1wcmJvU3ExYVQ?oc=5",
+      "published": "2026-07-13T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Should You Buy TSM Stock Ahead of Q2 Earnings on HPC Strength? &nbsp;&nbsp; Yahoo Finance",
+      "query": "TSM stock",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "speculation"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "TSMC Q2 revenue beats guidance as June sales surge 68% - qz.com",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE02LVJPSlpwU090WDlucmJkOGRZeEpoekJ5UlFYREsySFY5R0x1VEstSThpUkE2TzRRNUMzSXpMU19NTXlGX0RBRml5bDFDTkNWZjR5Z3hTOW54RWZjVnppTmRETWpZWEUwalZnTmdyWFg?oc=5",
+      "published": "2026-07-13T07:00:00+00:00",
+      "publisher": "qz.com",
+      "summary": "TSMC Q2 revenue beats guidance as June sales surge 68% &nbsp;&nbsp; qz.com",
+      "query": "TSM earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "guidance",
+        "demand"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "TSMC's June sales drive revenue surge of 68% ahead of earnings report - Euronews.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOanY4bi03LWlvMXhWN3ZpMTI0RC1uUEZFSjVJWnAtNS12UmEzMnI3eHVWSkNCd0lQeTI5dXdia0hjQ3BqRjlBWHRHZC02dDM2OVBYVTNRWmg4TWhibWNPRWxBSUlNZDJiRE9vQ0xQQ1pSWmRidGNCaXZnNkpaOENDczNvX0t1QUdyd2tiUHhsSDRmd1JrOElTeXRpbEdWdEl3djJkZGhocm4zdmdudHlwUV9R?oc=5",
+      "published": "2026-07-13T07:00:00+00:00",
+      "publisher": "Euronews.com",
+      "summary": "TSMC's June sales drive revenue surge of 68% ahead of earnings report &nbsp;&nbsp; Euronews.com",
+      "query": "\"Taiwan Semiconductor Manufacturing\" earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "demand"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "TSMC, the world's largest contract chipmaker, reports 68% surge in June revenue - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOYkpaR2xMRU44OFdXYWtKVkxDbGpiTmlMVFNQelU2RXBwVXlDVWpEdmlva3lidXJ4MmEzUXNQUzNHV2dtNjJjb1BoRHVKeUFSd1Y3dWY3ZDY4RjRqcjA2VkVqWmpneE1yam5DQklBTUE1M29FRDlLOS0zOE9KLThHQUJ6Tm11dk9HUU1sOVdBN3FsLXPSAZgBQVVfeXFMTXNpeUxkaGhJbkhLZG81S1Bpcmxzc3lMQU1Vb0RUeVFUUk9RY1JfMno2VmVNSUVZZTFUWEhtVzhaTlhQaWM3TU9FT0hEMnVXZUY2TGdZLTZRMGh2VUV1R3VaYmxod1VkOWtuQlFkazMyMTJONHVaRFY2Mmw0WV9teFRfTldWY0hVclhjR2hhV0VZSGZEWTE2S1k?oc=5",
+      "published": "2026-07-13T07:00:00+00:00",
+      "publisher": "CNBC",
+      "summary": "TSMC, the world's largest contract chipmaker, reports 68% surge in June revenue &nbsp;&nbsp; CNBC",
+      "query": "\"Taiwan Semiconductor Manufacturing\" earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "demand"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "TSM Stock Dips Premarket As 36% Q2 Sales Surge Fails To Offset Iran-Driven Market Jitters - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSzJBZDFXNDVKbEllZ21hY1pVbkQxRk1haVN1eWY4ekVQTWxMSXROWk4tV081dUFQekhLR0htdXQ3M1IxbFNndjc4cnJJeWNYSnhvOUgtMEVtbTRENDZJVmlPejh3WVdDSjBXdFlzLVpWZUlRd2QtNHhXSzdzVzE4M2RlNWQtRjlKd0dnb203UnJhV01NREdR?oc=5",
+      "published": "2026-07-13T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "TSM Stock Dips Premarket As 36% Q2 Sales Surge Fails To Offset Iran-Driven Market Jitters &nbsp;&nbsp; Yahoo Finance",
+      "query": "TSM revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "demand"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "TSMC Delivers Record Second-Quarter Revenue as AI Chip Demand Accelerates (TSM) - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWjlkZ0UyaW53Mm1taU5ncDl5eVlBX1J3cUNURDR0bFNOeWlnZmZ4ekdIMUpFeThCbDhTZ1Btcm9VcF9kNmx0UHFhVGtyajU1R2J5Yldwd25udUVOcEJlVHFZQlcwMDVwQVZhRjFyVHh6R0FybURKNExSM1BXUm9kanNzRkxBeGxsc0xMRWhrOEN1VVB6aDNyRmd1N0Noa2hN?oc=5",
+      "published": "2026-07-13T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "TSMC Delivers Record Second-Quarter Revenue as AI Chip Demand Accelerates (TSM) &nbsp;&nbsp; Yahoo Finance",
+      "query": "TSM revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [
+        "demand"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "What Taiwan Semiconductor’s Earnings Can Say About Its 2026 Outlook | August Edition - forbes.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONmJpZVh6Z045UFNJb1E5SmNBaHdQSVlqR0RraGtJTElDRmZMY2h6RmdfdUdHZm82dTdseWV3eDhteGFKMll5OE5UMGNtVkVuNU4yTng3RndmZ3djSDFuZlBIOGJhT1RUUHd3dUtmNzJ4TmZOUmtYZWZTY0JxTWk4ZXJjSmFDeHgxbkRfWm5HQkJjOWdvTWxzakR5dVo?oc=5",
+      "published": "2026-07-13T07:00:00+00:00",
+      "publisher": "forbes.com",
+      "summary": "What Taiwan Semiconductor’s Earnings Can Say About Its 2026 Outlook | August Edition &nbsp;&nbsp; forbes.com",
+      "query": "\"Taiwan Semiconductor Manufacturing\" revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "guidance"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "TSMC seen riding AI boom to fifth straight quarter of record profit - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZXNNZTY0OFNsNFNDUVliQ081ZU9neVBvcHVpSS1FQ21uNFlKZ3lKTTN0R1VnQlRITnRlOU5TemY5bERQUExjcFBwVU5yejVyQWJ0ZjU0aW1UdDdiWXdlRjhsUFNpUy1BcC1BRXhtTnRkWXZ1a19xYXU0MDRoUTdFdWtJUHNIcDI2QUVDaW8zQlByaTRmejV1c1c1eFRqMFBZZGRqc05KVDFaRENCME9FTHFQdnRTc0U?oc=5",
+      "published": "2026-07-13T07:00:00+00:00",
+      "publisher": "Reuters",
+      "summary": "TSMC seen riding AI boom to fifth straight quarter of record profit &nbsp;&nbsp; Reuters",
+      "query": "\"Taiwan Semiconductor Manufacturing\" revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Taiwan Semiconductor Manufacturing Company Stock (TSM) Opinions on AI Chip Demand and Earnings - Quiver Quantitative",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPTUMyaWFvV0ROaXJrNmhGN1VPRlVOaG10VS1VTmRIWFo3Skw2ME9WaW9WNEJxTVh3WEVEbVpyR21QVVloM3RHbWtuc0F5LWdDYVhseGhIb2Rhb2pnNWxLdXNJR0hGcWh6U01iTzJiUjA0Ym9FQ0NwMm5VSVpYVHdqN2pZUFNyYWJCcmxWczliY3ljcXJOUll4ZFpCaGYtYm92eWg4RlhoYXY1S2lHc183NG54NWNYUUdnOWJzMlgyZGJHdXY1SkdTRGd2UQ?oc=5",
+      "published": "2026-07-12T07:00:00+00:00",
+      "publisher": "Quiver Quantitative",
+      "summary": "Taiwan Semiconductor Manufacturing Company Stock (TSM) Opinions on AI Chip Demand and Earnings &nbsp;&nbsp; Quiver Quantitative",
+      "query": "\"Taiwan Semiconductor Manufacturing\" analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "demand"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Prediction: Taiwan Semiconductor's Stock Will Soar on July 17 - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcHVhT01rWXB0MjNySklfR0RYWG8tWXVoM3A0dWhPLWpyWWhiZ0RQZXNwb2RVb1hha3V1S1UtQ2VwTEp0Z25MLWhnLTF1ZTVNYmgzS2FFekM3a2plNU81OTNwT1pERGtRbUpRaTJWWUI4LU9jd1dfbjd1MkFVOFMzQm5XQTN1bGl4ZkFJNW9DVWlETUlYNWpVRDVTY0hJMDgxWFEybVBMaDc4dDRX?oc=5",
+      "published": "2026-07-11T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Prediction: Taiwan Semiconductor's Stock Will Soar on July 17 &nbsp;&nbsp; Yahoo Finance",
+      "query": "\"Taiwan Semiconductor Manufacturing\" stock",
+      "source_api": "google_news_rss",
+      "tags": [
+        "speculation"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "TSM Price Prediction: The Stock Will End The Year at This Price - 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMXRTdzIweDNzaU9yOEF4MkRSMTJ3ZkpFUTdsMzhaRkI2UTJkUkx6bTZoazBMRkNiUW1tM1YyVW9YYnlMRHowSm5CS2xSZmtpY2VvdGZLQzFibll2Y2lxQTdzbENHVjJEanVRVk1oTjhFYkpkYnhZR2hhZGtGUG5UanU0QWdnYlcxeEN3aDJnZEUyclpZRTNqcjlKTFU0ai1yNzRpaVc4QmtUdw?oc=5",
+      "published": "2026-07-10T07:00:00+00:00",
+      "publisher": "24/7 Wall St.",
+      "summary": "TSM Price Prediction: The Stock Will End The Year at This Price &nbsp;&nbsp; 24/7 Wall St.",
+      "query": "TSM analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [
+        "speculation"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "A Potential New Rival Wants to Undercut TSMC. Here's What Investors Need to Know. - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTzdGZUpNRURPVVBHYzVZQW1XLUEydFphQXBzZjJKUk1HcU1GbWtWZkRlbC0wRExPTGY2aDJtNG55WWxpNEY2aWE1NWJjdXpaY25WLTVjRll1emxZejFYN3NlYnhleXpLRXVZNUxGcXFoYzNSMjV0RXJVajVUUjI2R2Q3ck1MOFVjamJTWWtRQ1NIWldyRUloZkx4cWNudFVhN0xYeE9JeWFURTZLTHB6Y0FFeUFyNDAtUGtIWWxB?oc=5",
+      "published": "2026-07-10T07:00:00+00:00",
+      "publisher": "The Motley Fool",
+      "summary": "A Potential New Rival Wants to Undercut TSMC. Here's What Investors Need to Know. &nbsp;&nbsp; The Motley Fool",
+      "query": "TSM competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Will Earnings Be The Catalyst To Lift TSM Stock Higher? - Investor's Business Daily",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNblAycUZNZ1RGRGhzczVyLW5tVjZKcWVScmJncDJQZ2pqYVhqUG5rZ2laTC1vb0hQRHhTTUFXS0p4RU5DcUpjTUNPdWluVVpzeWp4cmVQcGkzY2ViYmtZaFBMeDJ4LUMxcmlibldmZGYxV0s1dGptREx0S2k2X09CdVl5YTJLM1FYRVhONWg4VWdEc3Z2d3RuWEluZkZzS3FQbVBfSHdXaEZuZEZf?oc=5",
+      "published": "2026-07-09T07:00:00+00:00",
+      "publisher": "Investor's Business Daily",
+      "summary": "Will Earnings Be The Catalyst To Lift TSM Stock Higher? &nbsp;&nbsp; Investor's Business Daily",
+      "query": "TSM stock",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "RSH publishes revised consumer standards and requirements - GOV.UK",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNOGZPelpKOGJjNGZtUmhHTkpGMGdMWkZhVzhVUmk4TXFKX1VSRV95ekJYbEkyUFFLSW10WkdULV9ibnVoSUFPeFRzV1FwY3h0QTBZNGVMVXNyNU9Ucm9DYV8wTURROUhzR3VHc0lnRVZ3bzFnRUZtc2hMVzFyaFJ6MnhiMTdYSWtpMDZJR2YwTDN0cTZDVW9V?oc=5",
+      "published": "2026-07-09T07:00:00+00:00",
+      "publisher": "GOV.UK",
+      "summary": "RSH publishes revised consumer standards and requirements &nbsp;&nbsp; GOV.UK",
+      "query": "TSM lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "RSH reveals new STAIRs and competence requirements will come into force in October under revised standards - Inside Housing",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNQUhJOUxSbXRmOXRodTVldGhNSkUwaElJdXN4UG1sa1BrTkZndW1TTDBEcFpMdkVxVHU4YnY4RFpNdDJUemh5UFFBQ2ZhVVlHQ2Uta2w2a3dhb0VXSEdFcF9EaDlJM0JiNVgwb2xFbDlPRm1zcFEzOXFOY18zelZGRVhKTHp1cnAxc194UjJvTFZMWGNiZmtPNWtSWHctZ1RHVS1BeWFmU3ZxT3JKTmlMQ3JFUTJGX2NRSjZtVDNxX3hMNDg1ajJObWNOMERib1JrRF94dnpRMkE5aU4takJqZnJROA?oc=5",
+      "published": "2026-07-09T07:00:00+00:00",
+      "publisher": "Inside Housing",
+      "summary": "RSH reveals new STAIRs and competence requirements will come into force in October under revised standards &nbsp;&nbsp; Inside Housing",
+      "query": "TSM lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Revenue and Growth Outlook Affirm Why Taiwan Semiconductor Manufacturing Co. (TSM) is a Top AI Stock on Wall Street’s Radar - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUDlON1NIRC0wUW4xMUExdFRCUDNEclRIYnRxZXN5QlVRSl83T3VlbXhrR3Zlak5pZlhMdkxDcTVKc0oxa1RCQ1haODFla3lFUGQyeWVyVGVWMXZaMnFyODRGcnFsd2NiSzY5SVF1OXFQSGRJWjk5QXVfNHgtOW1PckFlRFdBanFRbEFZdDZpMmJPV191ZDFVZlNjQkoxQQ?oc=5",
+      "published": "2026-07-08T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Revenue and Growth Outlook Affirm Why Taiwan Semiconductor Manufacturing Co. (TSM) is a Top AI Stock on Wall Street’s Radar &nbsp;&nbsp; Yahoo Finance",
+      "query": "\"Taiwan Semiconductor Manufacturing\" stock",
+      "source_api": "google_news_rss",
+      "tags": [
+        "guidance",
+        "analyst"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "TSMC (TSM) Falls More Steeply Than Broader Market: What Investors Need to Know - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNdC1tYUhPS3psNjVodThzWi1yRmd5THZSVWFUN1J3SGFSUVl5NmtuLTUzM3BCUFNrLUZqUUI3ZUFtcElsWDdrYk9zcDJRUm13TU0xajlycjRVRmtESS0wbmxzZ1ZIRjN5c0lhdDN2WHhXcTV6YVlLcHVNenFzZHFsMDVrU3hzdVNsQWRpM3VDVk1aOVB1cXg0?oc=5",
+      "published": "2026-07-07T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "TSMC (TSM) Falls More Steeply Than Broader Market: What Investors Need to Know &nbsp;&nbsp; Yahoo Finance",
+      "query": "TSM competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "negative"
+    },
+    {
+      "title": "With government subsidies and massive factory investments, the US is racing to strengthen its semiconductor supply chain before the next global disruption. Senior Producer Olivia Nemec explains. - LinkedIn",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOcVlNWE5GWGp0c0pNY0xCamFVOTlrOE4tRUdPdHlCdkMzMVNwem9HZG5ERjc5WFh6WEMyMUdPYUxoUzdfbWhueUJuVFZoOHRXdmFiWWdRM2JiR196TUNnZzlnOElxUjdTUzFseTNmYUZVR3BSSXhPb25LLUJ1RHQ5S3BFMHFta0tMNm9idGxOejBrWG1zOVBYZEhGZ1hJQm83Y0R2SUJvTFVRVlJPa1BtZnctdU40U2xBTHFjTGhEdWtzODcw?oc=5",
+      "published": "2026-07-07T07:00:00+00:00",
+      "publisher": "LinkedIn",
+      "summary": "With government subsidies and massive factory investments, the US is racing to strengthen its semiconductor supply chain before the next global disruption. Senior Producer Olivia Nemec explains. &nbsp;&nbsp; LinkedIn",
+      "query": "\"Taiwan Semiconductor Manufacturing\" capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity",
+        "demand"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Citi Raises TSMC Price Target on Strong AI Outlook Ahead of Earnings (TSM) - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQckRYdl9tU1RqMS1fdEhfVjhJcHBMQTgyUzhIbElpQVVqU3pMbWNvSlh1NHItTlZNSHl1ZGhsVGd6bkNQQk10UHVWcndicnpXWWFtOTRGRDVVbnFJNU9aa3hZQm1VekRoWkxzb2NEcnJDR1FNd0IxSEtiU01kMzBqMm5wcjdpbzVmT05BRGItcVhSdzVvVTdyaA?oc=5",
+      "published": "2026-07-06T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Citi Raises TSMC Price Target on Strong AI Outlook Ahead of Earnings (TSM) &nbsp;&nbsp; Yahoo Finance",
+      "query": "TSM analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "guidance",
+        "analyst"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Taiwan semiconductor suppliers are moving to the US, creating new opportunities - Electronic Products & Technology",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRDdvOFlJMXZtVURmM0I1d2VhNGktZWcwcnVOSGhQTmlGSV9zU1plZFVLNWI5czkyZ1loRFdQUmVLbG5JLXZITnBsMTRKY1Y1UTEyc2xNdDhkclVQenRVS1lOVGpsbEFiWW9yY0tZU0M4dVdqMEJFLWVZWE43MDE1M2syQzZVUktBbEQ0VVhJS05MRzR2UTlGVmFPeVAzVG8?oc=5",
+      "published": "2026-07-06T07:00:00+00:00",
+      "publisher": "Electronic Products & Technology",
+      "summary": "Taiwan semiconductor suppliers are moving to the US, creating new opportunities &nbsp;&nbsp; Electronic Products & Technology",
+      "query": "\"Taiwan Semiconductor Manufacturing\" capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "TSMC: Even In Capex Normalization, The Messiah Of Manufacturing Rules (NYSE:TSM) - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQOEFLLWJEUEl4YlpqTHcxbVJNdXdBM1NjWGFnOHFiTk1RTEVaSURDdkNkQkdnLTVyX1pOXzRSUmxBX3dVUHUxSjg4LUtkc2pDTElOVy1nVFpobTZseGpHVHZpSFZBMUJ4TkdxRjN0VjV3TnRmTVdkdDN4YXQ0X0hISGZCT1ZHdHBQNWtiOTdVNWtibjN1NzJobm5IYlRCdmptbmN3Z2lKVWtyVDdi?oc=5",
+      "published": "2026-07-02T07:00:00+00:00",
+      "publisher": "Seeking Alpha",
+      "summary": "TSMC: Even In Capex Normalization, The Messiah Of Manufacturing Rules (NYSE:TSM) &nbsp;&nbsp; Seeking Alpha",
+      "query": "TSM capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Trump says Taiwan is doubling the size of chipmaking plant in Arizona - Fox Business",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVGZxTXF0R3lBT0lYS2JtOHlEZWFjN2d2X1hfbGhCV0RPZzREV09HVzJ1QVBVNDZBZFNFV3ZGMmg5UFpXWHRYMDNlTnhEdFVya3NzWVVYaXZXLVFxb3J4dzlIVmEyaEZPbXpiTHhkZEVjalpBdmNqMXF4UUZUT0ZPR0RuY0ZkNURzR0wtWGFXNFAzSUVKQksw0gGcAUFVX3lxTE9fMHJPSEdpME1CN3p1MDV6dmV6UFVWQzN0VVg3ZEY1eTZVdXROajAxOERYVFNEZlV0Z2dzUmMtYkMyaDZmUlhUQ3owNnVPY29vT2VNQkNMbkZpY0dYcWhZMnZXR0lRendPb0hpdTBuVzdfeWQ1NnRxeWYtcnlfU2hGTTRycHdsYm1fRkk3Z3NqWFgzTXdWWFluQm1pVA?oc=5",
+      "published": "2026-07-01T07:00:00+00:00",
+      "publisher": "Fox Business",
+      "summary": "Trump says Taiwan is doubling the size of chipmaking plant in Arizona &nbsp;&nbsp; Fox Business",
+      "query": "\"Taiwan Semiconductor Manufacturing\" competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Taiwan Semiconductor Manufacturing (TSM) Stock May Still Look Cheap On Record AI Earnings - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQY0xITDhQbERVVGJyNV9jaWxDQmw1c0pqV1NlcTJST1RVQnE3YWx5R1RDQWRkam5xSlh3dmFPM3o1dTdXcU1xdmZTN2FkcExwcG82VWFRUnFJQzIwUllyQUhSWF9HSHFGZGVlcGNIWnFpWmlkV0xIWTVURjgxSWI1eTMzNGVBVWY0dlA3NElpeGFiZThYRUJjRm1UdmZzSHc1UXNWMURsV1JVeHp0M3c?oc=5",
+      "published": "2026-06-30T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Taiwan Semiconductor Manufacturing (TSM) Stock May Still Look Cheap On Record AI Earnings &nbsp;&nbsp; Yahoo Finance",
+      "query": "TSM stock",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Taiwan Semiconductor Manufacturing (NYSE:TSM) Teams With Amkor In Arizona For AI Chip Packaging - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQ1AwM2c4dEpwOEViS01lVkN0RHBQb0hOS05LeWpySjV3aWFqenI3cGlmWXJxVTk5MGFKX0JrVDdPa1lJaUhvWnNiT28xa0ozTVl1R2RfUlVNV1R4bnpvOWE3RDlRelBKc1E0aFlpMjRES1ljWndpVFBmWlg0Ny1PS2Y4SzZLd3Qwb2FwRWNGWU84WEFNSndJaktac2pGWE5OWkMwZng2dnhxTEE?oc=5",
+      "published": "2026-06-28T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Taiwan Semiconductor Manufacturing (NYSE:TSM) Teams With Amkor In Arizona For AI Chip Packaging &nbsp;&nbsp; Yahoo Finance",
+      "query": "TSM acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Taiwan Semiconductor (TSM), Amkor (AMKR) Form 10-Year Partnership for Advanced Semiconductor Packaging in Arizona - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMXJIMVIyRW1rb2xidXdqT09BZkl6ZGsxZ3U0NW1nd01KMW9NdXZqWGZWeG1MWDQ4SWtlcHMzQUowUG5VdmIzRW9kWEZkbzQ5ejlrVjhIUEtKVDdKWnQ4Q28xRDJEZ0N6X1FJMGlGOG4yUDZUYWRfRGRiT3VmZ3kzUy1WckNHazcwYVBQcEN6WWN0STBVLXM1bE9iX1M?oc=5",
+      "published": "2026-06-27T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Taiwan Semiconductor (TSM), Amkor (AMKR) Form 10-Year Partnership for Advanced Semiconductor Packaging in Arizona &nbsp;&nbsp; Yahoo Finance",
+      "query": "\"Taiwan Semiconductor Manufacturing\" acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "demand"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Aletheia Capital Raises Price Target on Taiwan Semiconductor (TSM) on Advanced Node Growth Expectations - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZlFXOU50Um5SMWFJWlhNNlVCNmVLREgwSzRuT25VLXVrYnVTZDJrMHVQYWtWcEdibU1ndjFSLWViM0h2dVpLTDVUdXVJWThmeWRmTlJQVlNkMnJEM3pwakhGM1RUdGJGbzRyX2QyLVBhbUlObkNwNWxGTlAtZWh3UVNNYWtOc2tSNFRfSlNoNTNsdDFvTlUyWW1JeE5fWWJPNGtv?oc=5",
+      "published": "2026-06-26T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Aletheia Capital Raises Price Target on Taiwan Semiconductor (TSM) on Advanced Node Growth Expectations &nbsp;&nbsp; Yahoo Finance",
+      "query": "\"Taiwan Semiconductor Manufacturing\" analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [
+        "guidance",
+        "analyst"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Breakout Watch: This Firm Helps Nvidia, TSM And Intel Bring AI Ideas To Market - Investor's Business Daily",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNN25EbElUVENuS3FRTHIzWVBvOGRCWWYtWVhTbmpkVjRrY1J1bzdRSDFNcmFuejlvOWYxRC01c2pIRXM5ejdNZTd2UXFFdHpYczFLV2s0RHFpYnhncGZ0Wi1nZ1MtN2k0a2tYTUNzX1lzUURmZ1ZaeHNNMmpsa3E5eDlTZlcxU1VmX2UyeVIzekdadTk3VkN2Z1ZYN080ZFV4bDM2U21NNDZycWNCeFdHYm0wOVZSVzJVd1ltR2l0MnFaY2JTTVAtMHVtcw?oc=5",
+      "published": "2026-06-26T07:00:00+00:00",
+      "publisher": "Investor's Business Daily",
+      "summary": "Breakout Watch: This Firm Helps Nvidia, TSM And Intel Bring AI Ideas To Market &nbsp;&nbsp; Investor's Business Daily",
+      "query": "TSM acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "2330 Forecast — Price Target — Prediction for 2027 - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1QNmM5MTdSU29hTFpCQ2JabmdPRDk3QTl6V2NBNFI1YmxDeFlKU21faS1QUXhjelhLdldXUGtQVWhqbjNCSVA5azlzTVROaTBMQXBuYUNsbWZ3RnBxYXpNM2R3QzdUai1aS2diRDFSMEpaOUJITUFJ?oc=5",
+      "published": "2026-06-25T15:08:36+00:00",
+      "publisher": "TradingView",
+      "summary": "2330 Forecast — Price Target — Prediction for 2027 &nbsp;&nbsp; TradingView",
+      "query": "\"Taiwan Semiconductor Manufacturing\" analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [
+        "guidance",
+        "analyst"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Can Taiwan Semiconductor Shares Hit $500 Before 2026 Ends? - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMFZpVDZseWxtLThaRWVrbTFIRU03MkFKVlI4ZERnU3o2T3JvUHZrRTV1NF9oOE9KN2phR1pxOTBRYWZhMXBMeWlyZWVTeFdxa1BIRGFUUW96eTdRbHROOWVrblItYW05Z1RhcjBma2NVN2NCY0piQ2FwZ1JVbUlocTZOVFZVdUtvQksyVDdqdDdZYUJuUHBkQU1KTWMyd0tQM3c?oc=5",
+      "published": "2026-06-24T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Can Taiwan Semiconductor Shares Hit $500 Before 2026 Ends? &nbsp;&nbsp; Yahoo Finance",
+      "query": "TSM analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "TSM Stock Jumps Overnight On Reports Of Foundry Price Hike Amid Massive Capacity Expansion - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMGdmaEo5UjN1NGVnUVE3THIxdHFwRHBzU0llVjh2RUY5TG9zR0tyS01YUFZCMWtQaUFEaFNhV1ZsTTFGRXBTdG1HUVRIcTRzM1NfS2NPUnRpdmdKSHp5TGp3ZmZ4WHdIMXdaa2VlbWFaQmtPcExDYWVOMXJ1UXpOcWlHUUpSNnh0akNrWElUR1RZbU43RHkzOTZ4R3BMOUVx?oc=5",
+      "published": "2026-06-23T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "TSM Stock Jumps Overnight On Reports Of Foundry Price Hike Amid Massive Capacity Expansion &nbsp;&nbsp; Yahoo Finance",
+      "query": "TSM stock",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity",
+        "price_move"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "TSMC, Amkor lock in 10-year deal for advanced packaging and test services - The Business Journals",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPN1hGM2twWUt0djhwSXBSWUpycmg0c04tXzktNlgzMWVDcUx0SjBpZDNXRGhBR3RXU014eE5fcWNhUlF5S2pKQnZJLTNvcU5NLWxqTUR5b1Q3VWlYazBGVU40YkpFcDFtNXlRYndNUjRXYm1QcWFFT2YxLXhkZkNUMmgwenpwNk1kUG5rR3p1bm8?oc=5",
+      "published": "2026-06-18T07:00:00+00:00",
+      "publisher": "The Business Journals",
+      "summary": "TSMC, Amkor lock in 10-year deal for advanced packaging and test services &nbsp;&nbsp; The Business Journals",
+      "query": "TSM acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "demand"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Chemical company files 1 million Turkish lira damages lawsuit against Onlar TV broadcasters - Media and Law Studies Association (MLSA)",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTWd0SUhPaWRxWGRGNkVlcnZpN2kyNVlld2EzZ3NUSjdlTGxCakU3VlBTekw1VnQ5RWZ3ZmdQdkZmdzZvN2xUZHJDeXc2OFYta2hHMVRCajhJRG92d0ZGbGJOTmZnaVlDR080aXhPRmd3M1FjVWNLNGlKSmhCbWxrZmgzTXJDdGRSUDFPVUl4c2sxNjZXemg4QUZxNDhFQnVBM1NGd3VraHdkTnU4SGZobkpwNnZ1V3RSdlJhTXFB?oc=5",
+      "published": "2026-06-17T07:00:00+00:00",
+      "publisher": "Media and Law Studies Association (MLSA)",
+      "summary": "Chemical company files 1 million Turkish lira damages lawsuit against Onlar TV broadcasters &nbsp;&nbsp; Media and Law Studies Association (MLSA)",
+      "query": "TSM lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory"
+      ],
+      "lean": "negative"
+    },
+    {
+      "title": "News - Regulator’s electrical safety TSM takes effect to boost ‘transparency’ - socialhousing.co.uk",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTE1oTlJpcTVGWWRGWTU0aENXRnVkSTBWTWRQY3hBOUdCVlNRLUh1bVJOeDM5Uy1Pem44VGRFUkJYQUh0TDNXZl9EZVFyUkxLQm9oYWs4OXFwbHdpNWNWNkR0WVlncTBFWHFVYnBxVTVLeTBDUTRQeVQ2OG9HMDJXam9Qc1d0clJtaG5mTHE0ZWliMGZqYjdCR0RBMUpMajVodzR0YjFFTHRJcjJQcFFr?oc=5",
+      "published": "2026-06-17T07:00:00+00:00",
+      "publisher": "socialhousing.co.uk",
+      "summary": "News - Regulator’s electrical safety TSM takes effect to boost ‘transparency’ &nbsp;&nbsp; socialhousing.co.uk",
+      "query": "TSM lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "TSMC suit may be patent trolls - Taipei Times",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5udWlVTjNjSUt4NTRFMkgxei0yNHpPTkMwVlQtaV9aUDQ3VEQyV3NIN0VZRmRPdUFRWk4xX1ZyMGJGNm9GNjlOYUlySlg4VGEza0JDSVlXV1p1dG5HemJHUl9JY0NodXNlekpvV3Z2WnhFc2FHa2c?oc=5",
+      "published": "2026-06-17T07:00:00+00:00",
+      "publisher": "Taipei Times",
+      "summary": "TSMC suit may be patent trolls &nbsp;&nbsp; Taipei Times",
+      "query": "\"Taiwan Semiconductor Manufacturing\" lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Taiwan Semi Price Prediction and Forecast 2026–2030: How Much Upside Ahead? - 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWW1ENlVzQkZzUXVxMlJZQ3BQRzg2VHZNMWQzM2IwcWoyYWNETEVrV0pOenBzU2ZyMXhsaUxZTVp0ZlE5NFJCSWtSQmptTVlKcVRMMmpXcGwtYk9UWW1ULXlmUDhBOXI5UmRlaVg0WDluajEzakc5RUh4dnFNdnlTa3RfbnpGb2JERWxsdTZ4LV91ZngwNmZEMVc5NEY1a19NYWFSWjdHc2dCSjFqdGlodE52c0JQaEs1?oc=5",
+      "published": "2026-06-17T07:00:00+00:00",
+      "publisher": "24/7 Wall St.",
+      "summary": "Taiwan Semi Price Prediction and Forecast 2026–2030: How Much Upside Ahead? &nbsp;&nbsp; 24/7 Wall St.",
+      "query": "TSM acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "guidance",
+        "speculation"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Taiwan Semiconductor Manufacturing (NYSE:TSM) And Amkor Sign 10 Year Arizona Packaging Deal - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQnlkMlFDcWxpLThqdDNOd2RrWkZNOFg2dExMLUprUE9mX3lkc2pHV0lFbGIxYkQ0cUd5M0xvY1RqMG9xV1RsQy1qYjZyNHlkMFpJZzV1ZjZKdUxmS3ZZUWRZc29wZHMya21MWGpqbXI5RVdGYkptV0tZTEE4Y3pBOVFGV3NsQ2xMV2RfbmY4VkdxQjJnNFJxV1Z2b0YybGk5OVZjU2F5eG82M1hM?oc=5",
+      "published": "2026-06-16T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Taiwan Semiconductor Manufacturing (NYSE:TSM) And Amkor Sign 10 Year Arizona Packaging Deal &nbsp;&nbsp; Yahoo Finance",
+      "query": "TSM acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "demand"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "TSMC and Amkor Technology Announce Long Term Partnership to Accelerate Advanced Packaging in the United States - Business Wire",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNb1NWNG9RQjBueWVReDg5b0ZOMjAxMWluSnhyLTF3bEgtV01JbFh3a2YzMnAycEZWU2FfWUcxc0tDRmNfWG9idXQtcVFjNXlhS2hVNGtMdkxXaUoyeUFfWTV6d1J0V0VjQ25WTnRoYVAyb0Z2WWFiVjB3NW1DdFMwQ0YwY0tnQmhQVkx5b1RNRW43UVVyV3FuLVZjZ3AwaU1wZUQ3SEFybkxteTVkUU5BNFYyLUxRTnhmOEtqbm55ODB2VVpYVDBnWmViLTl4WU5ZMnpDUTZMejhNRV9UYk8weE9XbkVyRXhxa2Yyal9WSGx6U2lDZmNISXZrYw?oc=5",
+      "published": "2026-06-16T07:00:00+00:00",
+      "publisher": "Business Wire",
+      "summary": "TSMC and Amkor Technology Announce Long Term Partnership to Accelerate Advanced Packaging in the United States &nbsp;&nbsp; Business Wire",
+      "query": "TSM acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "demand"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Taiwan Semiconductor Manufacturing Company and Amkor Technology Enter Long Term Partnership to Accelerate Advanced Packaging in the United States - marketscreener.com",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOaHRIbE5RRmNNLS1mMENlZ2ZoaGJnU2FmOEVYdVdNMDhjTjVDUF9MRDU1TzNwRzhQYk80Mi1UTGkwSW5sY0FES3ZIbkw2YzJwaWRDa1VfTkdOUDJ2MDhjV0MzeDRVcTJ5U0k3azg4M29uR1Q3SmR0NkttdVprX3d4WDE5YWJHR0FrVnBxT1FpdUh6NXZNRmpxRVRZTkJWQU82STlzcUc1bVlOUnRkNWctaFJ4eWxBUG1Ybm5GekFFVFFmanpHbjF3aG11MHF2WkdJSkdkQkZ1d1lLOHhRM2I5dGdXSEUzODNC?oc=5",
+      "published": "2026-06-16T07:00:00+00:00",
+      "publisher": "marketscreener.com",
+      "summary": "Taiwan Semiconductor Manufacturing Company and Amkor Technology Enter Long Term Partnership to Accelerate Advanced Packaging in the United States &nbsp;&nbsp; marketscreener.com",
+      "query": "\"Taiwan Semiconductor Manufacturing\" acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "demand"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Taiwan Semiconductor (TSM) Posts Strong May Sales, UBS Names Stock a Top Pick on Agentic AI Outlook - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaGhDcnVzUkxMbXE0ZTRpdlJuVVh5Sm9OOG93dWdvYkpaWXlHZ3FZdWFNbFc2cDZadWc5RkpsSlJtRzBpZmxWdVNkdHp1eHd6aUx4ZnpwNEJlVkNXd0tDVXRzRHdzV2NBWmdsZllMZzhrSklGY0lKcGtRdG9SVUJVakRzOVVMdzktb3J5aTM2ZzJTdWFMNHM1QkNYcmpPbkJFdzB1QQ?oc=5",
+      "published": "2026-06-13T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Taiwan Semiconductor (TSM) Posts Strong May Sales, UBS Names Stock a Top Pick on Agentic AI Outlook &nbsp;&nbsp; Yahoo Finance",
+      "query": "TSM revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "guidance",
+        "demand"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Minister defends TSMC amid US suit - Taipei Times",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBWMUxkTkxtSXRidFl2YUxNbmxSWGEweGh6Wjh2bDdnWDU5Z1JEQXpBYkdHcnZ4ZjgwYmxEc2ZPcjlKbzVUYmtYaDkxNEp3aVRIRWpaV04waTVzdzhUVEZGNjVkdHpYaEY1UjhSclpJSlB0SEgtOVE?oc=5",
+      "published": "2026-06-13T07:00:00+00:00",
+      "publisher": "Taipei Times",
+      "summary": "Minister defends TSMC amid US suit &nbsp;&nbsp; Taipei Times",
+      "query": "\"Taiwan Semiconductor Manufacturing\" lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "New Tenant Satisfaction Measure for electrical safety checks comes into effect from today (11 June 2026) - Devonshires Solicitors",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdlh6Q2tFTGYybjdNd0JsTU5uZHpJbXF2YUVITzFxQWdTYTF0a1Y4WGFHUzByU1VoR1B4bTVxMFJXSm9aN0ZULVNGMlR3eUNneTM3LU5rX0ZNZktLcWE4OTZsVEV0SU1NOEx3Z3dSSDhhNVZHWGwtcFJUM3dBdzlhaVhjTlczUEx0R0pLR2tpNWtOR2oxN1pfd0lueEI2cm0zX1ZQSUVwdmROZWVVVHZBT3RUeXlCQnhmY2s4Q0FlNF85OFNGOVE?oc=5",
+      "published": "2026-06-11T07:00:00+00:00",
+      "publisher": "Devonshires Solicitors",
+      "summary": "New Tenant Satisfaction Measure for electrical safety checks comes into effect from today (11 June 2026) &nbsp;&nbsp; Devonshires Solicitors",
+      "query": "TSM lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "management"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Taiwan Semiconductor Sales Rise 30% In May, Remain On Target - Investor's Business Daily",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9fMEJiMlVBQWE3aVlvTFpQc1RjQ3RWbW1hTWUwdWNtVTFBVWVqTGphWFY5RG1iS1Vsdk9SenFQenZ3STNrNWNWREt1UklQWXB4a05BVGdMd19PNmNQYnZNVXRaQ1ZRUXgtbmpHeHJGeW1KUUU1VEFCZDl6WUw?oc=5",
+      "published": "2026-06-10T07:00:00+00:00",
+      "publisher": "Investor's Business Daily",
+      "summary": "Taiwan Semiconductor Sales Rise 30% In May, Remain On Target &nbsp;&nbsp; Investor's Business Daily",
+      "query": "\"Taiwan Semiconductor Manufacturing\" revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [
+        "demand"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "US lawmakers urge tighter rules on contract chipmakers supplying Chinese firms' overseas units - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSFExREc4RU5wNEdRLTNYR0lKQlFUaXVKa3M1VUJMSVR6a0ZkeVJmUklKdEhLYWJRUGdabl9EeVRiUGN5eHF3SXVIeHdsZ3RzUHRuN09RX3owZkdZWnpwYWJXTUwzWGw4bUloaXczbFB2bms3dlduUFFYT3c2QTE2eGg1V2hLRWhaUjNlRmp4eFZkdWlNb0lHc3hSc05wVFR2OEkyNjQ1THYxZFB2d2tMMFFSTTZNcE13YWNjcTdLSE9NWGkycWJJ?oc=5",
+      "published": "2026-06-08T07:00:00+00:00",
+      "publisher": "Reuters",
+      "summary": "US lawmakers urge tighter rules on contract chipmakers supplying Chinese firms' overseas units &nbsp;&nbsp; Reuters",
+      "query": "\"Taiwan Semiconductor Manufacturing\" lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "demand"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Why TSMC (TSM) Outpaced the Stock Market Today - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTFRYZ0drYVZqeWNxc051RHp4MnduUG90elMxYWpkXzRCYnZ0bXdta3k4TElBLVByY1FjQkk0dWk3dkhpLWcwLWU3Z2tPb3pBU2Ywa3YyNnN1WWpHWnBvb09vanJqbFNuTjdKQl9EMFI4T0ozeFd2UEFZWWU3OG83UmJLaE84VEtoYWpzRnM5dXhqMHpTeDh3?oc=5",
+      "published": "2026-06-08T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Why TSMC (TSM) Outpaced the Stock Market Today &nbsp;&nbsp; Yahoo Finance",
+      "query": "TSM competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "TSMC Nvidia AI Partnership Puts Factory Efficiency And Valuation In Focus - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYXlzNmowRjM0aW1wOG13eWJfR3VUUVBfNUpTYzQ2MEM2Xy1qVXB2SGQwalA0UFZvd0NVUmZvdHJZVENYQTN0UDhLeHhRQk5GeEpVZlpiUW1aWndoak9yT1lubVVfOE1Gcmt4cmwtZTFtZm5BSDBReHplNHc0bVM0S1ljam9GZGdQdUZlbG5CNzRaV2hHMEViUnR0QVo?oc=5",
+      "published": "2026-06-07T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "TSMC Nvidia AI Partnership Puts Factory Efficiency And Valuation In Focus &nbsp;&nbsp; Yahoo Finance",
+      "query": "TSM acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity",
+        "demand"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Got $10,000? TSM vs Micron: The Better Buy in 2026 - 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQS2tSYVVlNnVrYmlRSnZnaV9CYXdBdlV5WWluOEYyRXlxMWtwMWNnMm5NNjFDWm5zTHd1T1VVOEpCOUZUSnd5dm1hNGVUMGRzWEhDa2p0NVJhaTJnU21qbE5Mc3FkOTFjWWlMWnByRXVUQnJadjlQWTFvQ0REZWtQQ1FhZnBLaHZHQ1BqSDAxeGc2N0xB?oc=5",
+      "published": "2026-06-04T07:00:00+00:00",
+      "publisher": "24/7 Wall St.",
+      "summary": "Got $10,000? TSM vs Micron: The Better Buy in 2026 &nbsp;&nbsp; 24/7 Wall St.",
+      "query": "TSM competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [
+        "speculation"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Taiwan Semiconductor Manufacturing (TSM) Sits at the Absolute Center of the AI Compute Supply Chain - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMS1vM0JMSHdlb1hjdXl2R0ZpUmY4eUlDVFpQY1NGWTRQUGQ0WlF0MGFOY2dWelRUQXhtVndmN19DM21UWS1SMDBXcm02WkJpVS1Pd2g5TklfVUwzVTJJdC1qUW5xY2Zoemk1alNqLXdMcGo1TDgzR0cwYjk2RzVNOUxkV0c5a2xnQ2VEdVh6UXdtZGEyY3l6RHZGV1FDcnlHOHFDY3M5dVhWN3dl?oc=5",
+      "published": "2026-06-03T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Taiwan Semiconductor Manufacturing (TSM) Sits at the Absolute Center of the AI Compute Supply Chain &nbsp;&nbsp; Yahoo Finance",
+      "query": "TSM capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity",
+        "demand"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "TSMC (TSM) Beats Stock Market Upswing: What Investors Need to Know - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVm9zZk84S2FXZFV5T21JTVdUYl9BX1BNamxKRnlSaG1FcjlQcmxRZE5nTXk1N3NscDhfTVV1cGVjb0kyY09LOUczVncwbE5nLS11dU9GYk53OVd1TTlMUEUtR2stU1hacTVWN2ZiR2g0QVh2a3lWbm52d0hlYjUwcnd5dkNfNnkzYUdYM09vckh6QzhMcU1r?oc=5",
+      "published": "2026-06-02T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "TSMC (TSM) Beats Stock Market Upswing: What Investors Need to Know &nbsp;&nbsp; Yahoo Finance",
+      "query": "TSM competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Assessing Taiwan Semiconductor Manufacturing’s Valuation After Strong Recent Share Price Momentum - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTjlYYmdSNDJnemdsd1cyM3NtZUlxa285bXF5OTJGZHRHaEZXdGtrc0Q4VFNoSm9qZ3JVcnZBcHE4ZXFwZk1wN2k3RmJ0OTFHemQ2cFlxQUdQaFU2dDR1Mm54UXBsblF3ajFGZl9Ja19Pa3Bhb3p5X2tpbFFXcThxSC1FTlptSUhuTHFkUWdBQ0t0TjJoVzZYZHZhYXRtaTVEaTNJY0wydHNLMU01YzJKUjh4X2t2aG1GTVNz?oc=5",
+      "published": "2026-05-30T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Assessing Taiwan Semiconductor Manufacturing’s Valuation After Strong Recent Share Price Momentum &nbsp;&nbsp; Yahoo Finance",
+      "query": "\"Taiwan Semiconductor Manufacturing\" analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Taiwan Semiconductor Stock Nearing 52-Week High: Buy, Sell or Hold? - 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbVVEN3VBTVhuaG5OSENMUmo2S20yY0syVDk2SG1OdC1jU2toUGdQUDBVMGVHVUVwbXA0QXg1dXhnRVVObUxseldyOVZXRk9kakZ1cUVBOWN6UEZPU3JJQ04zS2tOMm41Z0lXQUZpNVhJaFFFZzQzMnpobWtjZDFXbFJjeS01VWxyQXhZaTZPMzltOEFKMHU3OVZrVXdOdFlHYzNlb3VNR3NzUW9r?oc=5",
+      "published": "2026-05-28T07:00:00+00:00",
+      "publisher": "24/7 Wall St.",
+      "summary": "Taiwan Semiconductor Stock Nearing 52-Week High: Buy, Sell or Hold? &nbsp;&nbsp; 24/7 Wall St.",
+      "query": "TSM analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [
+        "price_move"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "AI Stocks Today: $ARM $META $CRWD May 27 - StartupHub.ai",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbGVaN3lDVzlka0NnU2pNQnVwSEVNa3UwX3RXWmZoZzNHa0VfZFZfb2c1ZXFxM0hGdFRTS09lWVYxaTBqa0ZRYm9IZHd4eWRjdktncERnUXZFdXRvOFRvc0VuZmY4SUdVUTBsTVd0UW5ndEoxbUhXVTkzcjFzZThoNg?oc=5",
+      "published": "2026-05-27T07:00:00+00:00",
+      "publisher": "StartupHub.ai",
+      "summary": "AI Stocks Today: $ARM $META $CRWD May 27 &nbsp;&nbsp; StartupHub.ai",
+      "query": "TSM lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Can TSM’s Stock Reach $600 By 2028? - 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUWtaSzNvMHBwQ0dFN18xY3VwZVJWR2xOUkJ5RXlzZEdOMENPNktpRnN5dFdfNHBtZUVfZlE5UC1FRjg2ZlBHQkE4Vk9HSWg5aGxZclBXZ0FNMEJZTkV5V3VDQk1TRVNkVHpjSHNfcVlLd3BnWjZPbkYzN1Q4N29ETnd3?oc=5",
+      "published": "2026-05-19T07:00:00+00:00",
+      "publisher": "24/7 Wall St.",
+      "summary": "Can TSM’s Stock Reach $600 By 2028? &nbsp;&nbsp; 24/7 Wall St.",
+      "query": "TSM analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Bernstein Says Investors Overlook TSMC Stock as AI Demand Ready to Fuel Massive Rally - TIKR.com",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOa25lSXB6c1pwejUwRzJKTjZhZEo2MkVwcV9heTRFbTVHaGRJQzNlTmZEc1FVRk01OUZoMGJlVWhpb1hOVXVCblpvQkpGUGVWMV9PcldkaGxRNndFdF9UaTB4aDZmZlczY3htRllGTlBkc3I5LUlIZHQ3QmFneml1eHNBSkpfUlVjRFhmd0o4eWEtbzJKakpmWmpQb0dnZ244bERPWUNObVFPanRENXY5SjFURnB6WFlmT3pGcF9qMThEamtVNnZfbFVtWkhYYUtoS19J?oc=5",
+      "published": "2026-05-19T07:00:00+00:00",
+      "publisher": "TIKR.com",
+      "summary": "Bernstein Says Investors Overlook TSMC Stock as AI Demand Ready to Fuel Massive Rally &nbsp;&nbsp; TIKR.com",
+      "query": "\"Taiwan Semiconductor Manufacturing\" analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [
+        "demand"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "​Taiwan Semiconductor Manufacturing (TSM) Among the Best Stocks to Invest in According to Billionaires - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQYTMydzladjRfeVgwT0FfcUo3Z3M5N0o2bzB3am1qVXJJSktNVkZ2dU9FUUxyZjZEb1BFcndGR3d2eXNCVnpuV1RwLUwyUkhxNFRwN0VRRTJRb1pvRWE2RDlpQW16dnF3WTZCcVZxWml2ZWJMN3pvaTRfdUZHbFQxTHZhMElzRmJINmY1Z0ZOT2NvSXVieFo0VlFRNnFxeGNFa05NcVdITENnd29rZGc?oc=5",
+      "published": "2026-05-18T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "​Taiwan Semiconductor Manufacturing (TSM) Among the Best Stocks to Invest in According to Billionaires &nbsp;&nbsp; Yahoo Finance",
+      "query": "\"Taiwan Semiconductor Manufacturing\" analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [
+        "speculation"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "TSMC’s US$1.5t Chip Outlook Reshapes AI Supply Chain Risks And Rewards - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQSllUUFVVMGQyTHpNS3NTLXlGUkdUSjg0NW5DT0JzOU9DUk1WVHcyVEtaMTNEM1VWSk5jZDZuMTg2TUg5RUNNSnp0NTVUdUxFMGk0TnNuSWk2NkpCU1QzOUZ0MTBYTllJVEVtSWdqX21NT0FIeDFQUFJXc1AteExJZlBOLXZaVWNFZ3c?oc=5",
+      "published": "2026-05-14T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "TSMC’s US$1.5t Chip Outlook Reshapes AI Supply Chain Risks And Rewards &nbsp;&nbsp; Yahoo Finance",
+      "query": "TSM capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "guidance",
+        "capacity",
+        "demand"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "TSM Stock Up 33% YTD Amid Valuation Risk: Buy, Hold or Sell? - Zacks Investment Research",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVGlIWFFKTXppMTk5NWJfakNiYVBSdmhNdlBQX05tN3ZYMVVCZjdoZHJ3MTZpQjNEVTRaS1F2dnJtU3MzSVRMTDZaY0NHb0FJR1lVQy1DQ1pLemhkdTNEV1BiMmRtZUdISk5pdjFwZS1RUXFYZk5Ma3Vyb3VjWDhwMWlyOTRWdXBXd1hIamJZMUpzVUJucElPWk1KN3gwUQ?oc=5",
+      "published": "2026-05-12T07:00:00+00:00",
+      "publisher": "Zacks Investment Research",
+      "summary": "TSM Stock Up 33% YTD Amid Valuation Risk: Buy, Hold or Sell? &nbsp;&nbsp; Zacks Investment Research",
+      "query": "TSM lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "SMIC founder warns against ‘blind pursuit’ of cutting-edge nodes - South China Morning Post",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNa1RmdHlPMU5tSlVXRGJQU2xGc252Q2k2bnRmTVdoa0hlOHVOWWltY1JfajhjV3VmWVN6bzF1eWJ0ZGx2RnAxM2s0NG9KN1VNZVFRNFZOVERJcTlnYlNQbFJ5SnNRbDJBNjladU1PUzRjaGVKMV9ydnRCTHl1T3lSM3MtTzB4VXlZYUVzYVFIMjJiSmdDVG5QQS05c2t5RTU4NXdyZ1V2TnBpdjVUQVh4Z3FnTUdfYWVUdDMyY0F0X0h0Q1NRUEpra9IByAFBVV95cUxOWExTb2VWVzNieF8tdnhqUVdfNVdxVXcyX0VGWWJpU05jNDQwX0gyM2s5dmtWVVhPcko4ZVFTWnRKUDRVdWlETnRPNE84blVfb2hIV042ZFUyZGp1V0FHZXdyaHJDZ2Y2eFV3Y2gyVWhaa3dWdlk0THJNbUh3eWR3R2JwZTFDZVdXYVVQVV9tNndrRTVPcXZhZlM4QmdFbEUwZHBGZG9KR09LWDZxQlJRcG9HLWR3UG50SGVTN1ZLMFhUU1Yxa1gyNg?oc=5",
+      "published": "2026-05-12T07:00:00+00:00",
+      "publisher": "South China Morning Post",
+      "summary": "SMIC founder warns against ‘blind pursuit’ of cutting-edge nodes &nbsp;&nbsp; South China Morning Post",
+      "query": "\"Taiwan Semiconductor Manufacturing\" lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory"
+      ],
+      "lean": "negative"
+    },
+    {
+      "title": "ASU a key partner in US-Taiwan technology relationship - ASU News",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVmFFTzJwQVhlWnI3TndvOHhZZU1pVllNZFNqbnRHcU5jdHNTRjl2cFNqUnRJVzRiWEVLNm50YVFxdnpXN0M0SHJtcHhvcHRqQW54N0ZHd041WkFEVWNuT2xqT1pUMDVIeEtEREpKdnAycXBnYXdTQ04yc2xTYTNFelk5Zl96NjVLcGs2Q3VwNGFLbTVnRzFTX0ZvOUVaLTRqSGtr?oc=5",
+      "published": "2026-05-12T07:00:00+00:00",
+      "publisher": "ASU News",
+      "summary": "ASU a key partner in US-Taiwan technology relationship &nbsp;&nbsp; ASU News",
+      "query": "\"Taiwan Semiconductor Manufacturing\" acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Sony Semiconductor Solutions And TSMC Sign Deal To Form JV For Next-Generation Image Sensors - Pulse 2.0",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNeEs5M0Ezdl8yMHZJakNzVkNwVFhrdk1HRTF6U3hzMTFaWm50QTEwcmpHWUw0YjVNUVpSVUFSS1NnNFhjc0hvSmVZeHRrUG1XV3c3M3czY3dNRFlaQXJuY2tvN2xrWGoxQ0wxR2o5algwSkZmZl9aUGNLUm1wdnVYeDVFOVFNcGM5ZzE1dHdjS3FTZ2JHT0ZNZnVzaGEzMWxTWk51NTdiTGtJV1draDF1UVpB0gG3AUFVX3lxTE84TThjZUFKcUJnQ0lEM3pDZlNFazJwV2E4Z1AxdGI5U04teWl6WlA5M0JtMlVGNE1Kajhjcm0zYVEyaUNrNHMwZXZPLW5nYU8zLVVXZDl2TjY1dWpOX0dOaVkyVG11UEpaaFJDWmhRV0FHNGRMZjVEWUFmb2FxbVVMYldZRWQtOWtZX2ZuQ3B1bGhUZl80dDB1OUZfUG9aT1ViMGlXcDU0YkZFYWNIMGUwdnlKOGx5Yw?oc=5",
+      "published": "2026-05-12T07:00:00+00:00",
+      "publisher": "Pulse 2.0",
+      "summary": "Sony Semiconductor Solutions And TSMC Sign Deal To Form JV For Next-Generation Image Sensors &nbsp;&nbsp; Pulse 2.0",
+      "query": "\"Taiwan Semiconductor Manufacturing\" acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "product",
+        "demand"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "TSMC inks Sony Semiconductor Solutions deal - Taipei Times",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9OMlZ6NmRFX21nVXdLeTI2bWJtaXducHc4dDY5WW1NUlYzQ083UXVFZnJDU2s5QXJMMmctR2RrdmloRTNSS0dOWVB5UFIyeDNrTTNwTmx4bFlob3I5dWNKQTg2NVlubUtRUmpBMDZsVk1SalNXR0E?oc=5",
+      "published": "2026-05-09T07:00:00+00:00",
+      "publisher": "Taipei Times",
+      "summary": "TSMC inks Sony Semiconductor Solutions deal &nbsp;&nbsp; Taipei Times",
+      "query": "\"Taiwan Semiconductor Manufacturing\" acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "demand"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Kane Brown’s Country Mount Rushmore Is Gonna Start Arguments - Taste of Country",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1Rdm56UmFmelhUUE1CSVNUNndteS1zT1FJX0Z3UEFaSmFocUlnS1ZuckV4TTl4R2UtWk90clpveG02M0QzREk5U1BTZWpVN3dMbUg2WExYVWJpaGg2bVUwRFN3cURWVDJuY3RSblV3?oc=5",
+      "published": "2026-05-08T07:00:00+00:00",
+      "publisher": "Taste of Country",
+      "summary": "Kane Brown’s Country Mount Rushmore Is Gonna Start Arguments &nbsp;&nbsp; Taste of Country",
+      "query": "TSM lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Sony Semiconductor Solutions and TSMC Enter Preliminary Agreement for Next-Generation Image Sensor Strategic Partnership|Taiwan Semiconductor Manufacturing Company Limited - pr.tsmc.com",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9NWGFtOGJuazg0TnNsVWtzUHNOQ2s5MnB6a1RVNDNaQVJzU085RWVlNzZNNUVGXzBvUUFjUDJXMzR2b0tHRTNjclpoUmJMQQ?oc=5",
+      "published": "2026-05-08T07:00:00+00:00",
+      "publisher": "pr.tsmc.com",
+      "summary": "Sony Semiconductor Solutions and TSMC Enter Preliminary Agreement for Next-Generation Image Sensor Strategic Partnership|Taiwan Semiconductor Manufacturing Company Limited &nbsp;&nbsp; pr.tsmc.com",
+      "query": "TSM acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "product",
+        "demand"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "“A Chip Odyssey” brings Taiwan’s semiconductor story to Purdue University - Purdue Research Foundation",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE05NnpRdEkwMWxzUkREWDhYOU5wODZYZzNxRS1BdUhaRExmVS04R1FnTUhJQVdlYXRLYzBXNTJUMVhxbTVFQkhjamdIQjRIRmRWZW0tSTRjTQ?oc=5",
+      "published": "2026-05-08T07:00:00+00:00",
+      "publisher": "Purdue Research Foundation",
+      "summary": "“A Chip Odyssey” brings Taiwan’s semiconductor story to Purdue University &nbsp;&nbsp; Purdue Research Foundation",
+      "query": "\"Taiwan Semiconductor Manufacturing\" acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Sony, TSMC plan new Japan joint venture for next-generation image sensors - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUjZaZ2JnZGh6RUYtNzBfQjFLV1ZfaWJ3M3RmOEI4dG12UlEzanVsRDZDcXhPOUhicldoSWctRDRxZzJxc1hDQmlNTEJwY0x5LWw2REpUU29RUFBnc0FVWDExLWI3WjJjWG4zZnZ6NW5DVGpTWFJxbE9uQWNZaVpsbkVpSTBKSngyNC11aGhTZmFHb1hOaVY0eE5ZSUZyRHlPeC1wTlI3ZmpTRDd0OEJuaWZyemp0ZldOZndHNVdoOUY?oc=5",
+      "published": "2026-05-08T07:00:00+00:00",
+      "publisher": "Reuters",
+      "summary": "Sony, TSMC plan new Japan joint venture for next-generation image sensors &nbsp;&nbsp; Reuters",
+      "query": "\"Taiwan Semiconductor Manufacturing\" acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "product",
+        "mna"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Sony, TSMC agree to cooperate on next-generation image sensor development - Japan Wire by Kyodo News",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE03RnBzWHlJZnducHhOR1ZQa0pMYzZoUkpLZDRpVXpxbjBnSHRKYmdoZ3hEeGlfS1Etd3VoTy1HMVdEbEp3eVIzMXlLVUFwYlZhMjhvaS1oaDVIQQ?oc=5",
+      "published": "2026-05-08T07:00:00+00:00",
+      "publisher": "Japan Wire by Kyodo News",
+      "summary": "Sony, TSMC agree to cooperate on next-generation image sensor development &nbsp;&nbsp; Japan Wire by Kyodo News",
+      "query": "\"Taiwan Semiconductor Manufacturing\" acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "product"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "TSMC: Early Signs Of Formidable Foundry Competition (NYSE:TSM) - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQblFaU2dRTHZMc1NmdVR4RHJIX0RYY0NtNTRxMnYtd09IbHhjTTJLSXRyUjVZTUNzUGN6ZFRweGtIYVpPVTdxRzlkMEVWcmFWOVNfTzJYQ2htZGhhMjVYT0d4UllhcHBCci1fZXpxZG91WTQ2elBnSzBKRkY5YVhhbXdxWEIwR19jNGRFNFJLNlZka0NDZmhOUVdCRTVKMWpEcmt6dEtXZ0R0Ml9ZQ3hwLUxn?oc=5",
+      "published": "2026-05-06T07:00:00+00:00",
+      "publisher": "Seeking Alpha",
+      "summary": "TSMC: Early Signs Of Formidable Foundry Competition (NYSE:TSM) &nbsp;&nbsp; Seeking Alpha",
+      "query": "TSM competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "TSMC Stock Holds Firm As $56 Billion AI Expansion Defies Apple Supply Chain Rumors - Benzinga",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQQzlZN01RajJFdTRZMTZ6WmJNTk1PaDBwazREZ0gyazdDUW9oVzBxblJZb3lUUzk4VjFSb19ja29xOUZIWXl2QlVVOVdSZFJpSXZmVmhfRnUtMHoyLW54NEM5UENsZ3IxVXNUV254bUFaMEdPWFJ2eVZCQm1KbmplX0l2VjdWOThyN0MtUUNHUzNCYzgtbDZPSDRtT182Z3dUSW5jMXBUeHE2RXZmN2N0R2diMWFXRDczUGdoamo0NldqaUtTd3ZGOGJKV2xhU3M?oc=5",
+      "published": "2026-05-05T07:00:00+00:00",
+      "publisher": "Benzinga",
+      "summary": "TSMC Stock Holds Firm As $56 Billion AI Expansion Defies Apple Supply Chain Rumors &nbsp;&nbsp; Benzinga",
+      "query": "TSM capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity",
+        "demand"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "TSM Stock Bolts Into A Buy Zone With AI Trade Back In Focus - Investor's Business Daily",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNM1NETlFObjhMSmhlTUl0aUl5Z1EtTlpQZjRURkw1Q0N3QW1SaFd5Y2Q3dTVuREJHenpHUzBzZDdZd1k0QjNPT0hZVlIxdVJMckx0YTJDblJYb0ZNMi1JWkF1VFgwcnFONkYyZklpWEV2bmk0OExzX2JOS3ppTVkwc2FRb3RqOFBpUC1OVlB0eXBSc2tPNGZCcUJjdGpBbjB6YlBFSGZWVmt0cVNGbXRreWlPRFVoY3M?oc=5",
+      "published": "2026-05-01T07:00:00+00:00",
+      "publisher": "Investor's Business Daily",
+      "summary": "TSM Stock Bolts Into A Buy Zone With AI Trade Back In Focus &nbsp;&nbsp; Investor's Business Daily",
+      "query": "TSM competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "AI Demand Is Surging — But Taiwan Semiconductor Is Controlling the Supply - 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbXl1ak5ZbC1GM1dLb2t0STVEVklSUEVpMTRpZC16b1FtaDZlSHF2TGk0VTFqQ0xucC1QcmE5Z0lXc3g2LVpOMFJLdjVQLTMwMFk0NVBtMzZiRVBURWkzcmczeGdYQ2NGSjZfQTRKV3JQR2RXVlZEcXo3OUdSYjFEM2xMYXN4VTM5OHdSWEhhdFZ3QlVaYnBoOUZHeEZPOGZud3pPUGtYV0JUU2xZaExGbmx4cUcxYmtVOVE?oc=5",
+      "published": "2026-04-29T07:00:00+00:00",
+      "publisher": "24/7 Wall St.",
+      "summary": "AI Demand Is Surging — But Taiwan Semiconductor Is Controlling the Supply &nbsp;&nbsp; 24/7 Wall St.",
+      "query": "TSM capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "demand"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "​Taiwan Semiconductor Manufacturing (TSM) Ranks Among Our Best Stocks to Buy and Hold for the Next 5 Years - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNS01KcVV0X0dMR0N3Mzd5cjFwN0Fla0o1Z2F6RjhnRG1FNTBKRGZhdDlFU09YanJQVzZSZXRnMnFLalFtTVRZM01raFNtUlFwS0Rlal8xVW1wNHVaRHV3RjhWbTlVekN6OUw0d3hhTzBOaWduUHNzTkNZZzV1cENtb21xOEd5U1lCbTBkdEU5Y25OMFJHbWFpZl9VMTR2Tno0WXV4OGxSU2tLZjNFdHc?oc=5",
+      "published": "2026-04-28T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "​Taiwan Semiconductor Manufacturing (TSM) Ranks Among Our Best Stocks to Buy and Hold for the Next 5 Years &nbsp;&nbsp; Yahoo Finance",
+      "query": "\"Taiwan Semiconductor Manufacturing\" analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [
+        "mna",
+        "speculation"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "TSMC Hits Record High as Taiwan Lifts Fund Investment Caps - The Tech Buzz",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZHdMM191TktBNE9nVEw1S2pfeVkyTnFIMVFKeThQVm9NYlJmZl8yZFowc3B3THhHc21PWjd1SzRKY0M2NWFhMmRxM0hGLXJzSjR1TUtITEE3ZWNLc0NpQXFkVTJUNV84UWo2TmVtT3o4Vk0xcjNPVzdHQURIWGdiTzlqalBPZS1lSmNMTVBMTElQanBPbGc?oc=5",
+      "published": "2026-04-24T07:00:00+00:00",
+      "publisher": "The Tech Buzz",
+      "summary": "TSMC Hits Record High as Taiwan Lifts Fund Investment Caps &nbsp;&nbsp; The Tech Buzz",
+      "query": "\"Taiwan Semiconductor Manufacturing\" lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "ASML Stock Drops After TSMC Says No To Latest Lithography Machines - Stocktwits",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPbjMxekZVeWRLWEpCcS1zSnAwVFBOeTREclEzVjNQaUFSamxwOUZYUmVuZV8xV09aZDd2a2RQZXk4bnV6N05FUG1jZlZqZ2EyMHRqS0d5azVPQXBSaXNBNUlVVm5JTVNDOUU3eGpEcnRFRGtXZUVKNm9HYkx1azMwY0o4c2dpRTN1cmFObzBsNzNRbjZaa0QxTFlpVDJ3VXBFT3hVMXNVbmdjbkpYanBzTjhqR2pVd3ZJbW1VdU5KSVJWV1E1bUtTZ1VR?oc=5",
+      "published": "2026-04-23T07:00:00+00:00",
+      "publisher": "Stocktwits",
+      "summary": "ASML Stock Drops After TSMC Says No To Latest Lithography Machines &nbsp;&nbsp; Stocktwits",
+      "query": "TSM lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "demand",
+        "price_move"
+      ],
+      "lean": "negative"
+    },
+    {
+      "title": "Siemens collaborates with TSMC to advance AI for semiconductor design - Siemens Newsroom",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1rdDRoQVFEc2FaazJ5a0F5MHBJbERMdHEwNzcyMFdaVjZ5Vk5JbjVGWjRwT1VqakJUdW1jX0cyTnBYdm42NHB4U3o3ZllQbEd4MTRvb203MzFZdE5iblhJVWlnSjhPX1BENm5MRERROGlFeEd4MVR6NElfQ1hYR0k?oc=5",
+      "published": "2026-04-22T07:00:00+00:00",
+      "publisher": "Siemens Newsroom",
+      "summary": "Siemens collaborates with TSMC to advance AI for semiconductor design &nbsp;&nbsp; Siemens Newsroom",
+      "query": "\"Taiwan Semiconductor Manufacturing\" acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Barclays raises Taiwan Semi stock price target on AI demand strength - Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxON2RKNmZaZDROSE9DQlM1U1hlYVRGOGxJWndkUGNSUG52aDNfdDdrRTlneUpDUVBYRXRSNl9aRlJrS3JRck96V1R1NkhlVkQ2aDJmMWdIZE5lWmdETDJNVGdDRzloWTk3NDJLZHdQcy1jeVN5Y180c1pxWkdYanlqbDdYdUJSbWlUbEo3WnBJYk9tazkyMVVpODFpZXBoWlNuNWt2dWt5S3VfX3NRdU5hcEVraWVmOFJwRlZXWVZ5NFVYbzhOdFBz?oc=5",
+      "published": "2026-04-21T07:00:00+00:00",
+      "publisher": "Investing.com",
+      "summary": "Barclays raises Taiwan Semi stock price target on AI demand strength &nbsp;&nbsp; Investing.com",
+      "query": "TSM analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [
+        "guidance",
+        "analyst",
+        "demand"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Analysts rerate Taiwan Semiconductor stock after earnings - thestreet.com",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQVZ4U2ZkbU5tMWtFZGtZMnlPbWlpTXZBcmE0Xzh4TFNLRUlaRmFDRjVSN0U1QVlJandlaHpzbmVoY0tGTXdiX1VUTExqRmI1ZVVaNUxpTXVkRDNNU1ZuMVZEZFFSVXpGS0JUdWRSNmV5bWY5NzF5ZWVBbEx2RXFWRnlPcG1FNkVQWV92Uk9ZVGo3R25QMlRDLXJXNlF2XzM4Ync?oc=5",
+      "published": "2026-04-18T07:00:00+00:00",
+      "publisher": "thestreet.com",
+      "summary": "Analysts rerate Taiwan Semiconductor stock after earnings &nbsp;&nbsp; thestreet.com",
+      "query": "TSM earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "analyst"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "BofA Raises TSMC Price Target on Strong Outlook, Keeps Buy Rating - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPU0l3N252YTdac3B3OFhyRi1fMjJMOTg0VGFKeUdWOE9JRERHdlhyRy1xRmtyWTdocVZSODZIcWRWRkdNMW85bEFNRTNBbV9tM2xFS2hyMzZCSVJXQjBlNU9WVHZmaFpPak1YTTlZV0VldDYtRFZrWWFsbjNBWW92ODJvb0pRbEtUbHVrdW0yMEFrM1lLOWpndTN3?oc=5",
+      "published": "2026-04-18T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "BofA Raises TSMC Price Target on Strong Outlook, Keeps Buy Rating &nbsp;&nbsp; Yahoo Finance",
+      "query": "TSM analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "guidance",
+        "analyst"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "TSMC posts Q1 revenue surge of 40.6% YoY - Manufacturing Dive",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdk1FcllnM0l5N1pwVVJGTGNVYi1qMVBBcnNRZ3VrQjJFYTRMc3ZkWWhhN0ZSQ0Z5N1RyUklUUUJjRXo2bm9pZ0VlVjRGZG1LTEp2RVJDaTZRS1BMUk9WSFd1ZHVmWkFSejhfRi16RDNac0oxeGpWb3dQVmRGLTdrazBMSFR1SjBlUHluNlJXZGZsVldJ?oc=5",
+      "published": "2026-04-17T07:00:00+00:00",
+      "publisher": "Manufacturing Dive",
+      "summary": "TSMC posts Q1 revenue surge of 40.6% YoY &nbsp;&nbsp; Manufacturing Dive",
+      "query": "\"Taiwan Semiconductor Manufacturing\" earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "TSMC faces class action alleging systemic gender discrimination across US - hcamag.com",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQbER0Y3dYXzJnUDJCdm1Edk56a2psUWwwV2VCRmtNV0g4MlFaLWFEOHVxOXZBamwtUWRvQWRjRC1nTlhBMV9uRjZpck1CMTd3S2ZTQTlqcElUTHhfaXlhRnVEYkU3YjVpX2xXb2VmT29lQ0pVOWx0alk0a1h1QU9uNkQyOXI3YVhRZnZ0V0psOGhmWjNSMnVkQmVnb1RwODBwWkFjRmNLaE1kWjVmMGZ0RFp5RkRFYTZ2bWlGRkhCTjBsSGxoZFU1Ymw2bUgwamFUcHc?oc=5",
+      "published": "2026-04-17T07:00:00+00:00",
+      "publisher": "hcamag.com",
+      "summary": "TSMC faces class action alleging systemic gender discrimination across US &nbsp;&nbsp; hcamag.com",
+      "query": "\"Taiwan Semiconductor Manufacturing\" lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "TSMC Earnings: Refining Guidance and Expansion Plans Amid Strong AI Demand - Morningstar",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNalhndEhIa2R5UXhFTFFMWGp2aV9KYW9SQWJPWDR3dVhvMXJZVmxXRDJycjVpU1dSaktUZnBDZHd1Rl9aUW55MlprM1Jpa2c4TWJ3UG14aVNYT0lWOWR5eGV1c2NjS0RUdTVNNTI4dk9sM0g5c3ZhR0t6N1o4WE9GNUExT1hkT0dDQXZkWEVsV1BKNWFRUFRQOE5VTGNKa0FlVHhNaHVaUQ?oc=5",
+      "published": "2026-04-16T07:00:00+00:00",
+      "publisher": "Morningstar",
+      "summary": "TSMC Earnings: Refining Guidance and Expansion Plans Amid Strong AI Demand &nbsp;&nbsp; Morningstar",
+      "query": "TSM earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "guidance",
+        "capacity",
+        "demand"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Chip Foundry TSMC Beats First-Quarter Targets, Guides Up - Investor's Business Daily",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE16UUc2aGU2VG0zak9QS3Z4VUdRXzBLU2VVVXhaRnVSLUJBQ3ZuaXR4VHZTUjktTHRRZmY4S0dURXdubk9GOEtSaXpfc2Uta25vWFRsSXptWXZxTjF6STlVVUZiS2pWdzNubTFMUklPUkR1RG9rcFh3QVk4ZS02OWs?oc=5",
+      "published": "2026-04-16T07:00:00+00:00",
+      "publisher": "Investor's Business Daily",
+      "summary": "Chip Foundry TSMC Beats First-Quarter Targets, Guides Up &nbsp;&nbsp; Investor's Business Daily",
+      "query": "TSM earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "guidance"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "TSMC Q1 earnings crush estimates, with chipmaker lifting full-year sales guidance thanks to “extremely robust” AI demand - Sherwood News",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOY0JIX1pEZVM2bHd3cERHTnkwcFF5SlA4SHF6NHo1dmtiQU0zWVdkbW91ZWowOXdGeVNSZmZCOVFDckdMTzBMSGotTmFSVHpReUZKSWZmN0FwTkZMZmJFTGxTWV9ZQ3JJQkFTYTllMEdVR2Flb0tyNjctNFcxbUU4ZkFWMzJybUNZ?oc=5",
+      "published": "2026-04-16T07:00:00+00:00",
+      "publisher": "Sherwood News",
+      "summary": "TSMC Q1 earnings crush estimates, with chipmaker lifting full-year sales guidance thanks to “extremely robust” AI demand &nbsp;&nbsp; Sherwood News",
+      "query": "TSM earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "guidance",
+        "demand"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "TSMC Raises 2026 Outlook in Sign of Confidence in AI Demand - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNLW1Vcjk3TkZFc0RSVXQzaXcyTkEyM0ZIc0kteUQ2TjBYT3EwUGRuWlJmUWJTYnBYSXpGaXNkZzZZRHhkQmNHZnFvOHhHTmtUTFBIZDhmYWowR1BnSUdPcWVjb3k3WlFRenRmTUV1WnNrZkRyWFAxbmhpR2RuUkpqVDhxcU5zanpkVFV0Y2ItWUhLX2lDMVkwQV8za1Q2N2l6ajVNSXZxLW5hTS1PcmZxMjJjYUhWdw?oc=5",
+      "published": "2026-04-16T07:00:00+00:00",
+      "publisher": "Bloomberg.com",
+      "summary": "TSMC Raises 2026 Outlook in Sign of Confidence in AI Demand &nbsp;&nbsp; Bloomberg.com",
+      "query": "\"Taiwan Semiconductor Manufacturing\" earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "guidance",
+        "demand"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Taiwan Semiconductor Manufacturing Q1 Earnings Call Highlights - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQemNMenFuSEZkclZaUExiVlY4WDRSWXE1cDRzcncyMmw2Zkx1d3FzcTV3N3c4NXhGN1QyNEdfRV9iVzdJTjR0djJsN1BCd1dWSGNmVEl0X0lHaGItUEtxMWc5UmprWlhnS3lGd2tkWnNFYW5XQ0ZpS2dKTWEyazFzcTBTNjdLZG5LVTZqM3B6VEw5V19CRlk5T1YyTVYyNGladGIycXVkZjBFR0xILTYtYg?oc=5",
+      "published": "2026-04-16T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Taiwan Semiconductor Manufacturing Q1 Earnings Call Highlights &nbsp;&nbsp; Yahoo Finance",
+      "query": "\"Taiwan Semiconductor Manufacturing\" earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "TSMC first-quarter profit rises 58%, beats estimates as AI demand fuels record run - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRWZwMDJTU0dzUHVkSDZWLXNRRnVSRXlkT2lHSDY3SWppdk44dWtuYVl0OTJFRGJSU2pFblNuNkVxei1fWWlZbkVJT21BRkNVVXhjdjg2MDJLVG9lc2RkR1o5Y080ZzdzWDV6TC0zV0dZdUk1SEx0SzBxWjQyb251UEVRZldfRV9DaXNOYdIBkgFBVV95cUxPSFNUTmRES3NvLWYyNTRJNzh2WDExblRPRVpwbzZiOHRIVzA5Mm1memlLOEFZS0FoelRWREdBUVpCVnEzS0dHWloteklmLUxuRXp5eHJZWl9RT3Z1U29TOGQ1ZUc0ajlVLS1qNHVDcFNnb1p2X2RieENtWkNvZXQ0d3FPVWEtZnotQXAwSUh5QWtSdw?oc=5",
+      "published": "2026-04-16T07:00:00+00:00",
+      "publisher": "CNBC",
+      "summary": "TSMC first-quarter profit rises 58%, beats estimates as AI demand fuels record run &nbsp;&nbsp; CNBC",
+      "query": "TSM revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "demand"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Taiwan’s chipmaker TSMC reports 58% jump in profit, warns about Iran war impacts - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQb1FnRTZQemhka01zdE5sRzg3dm1lamxaYnZyUmV5aExUSTJxUkxSc2RXdG5YMkJycTh2NVM3QV9obWZ3NWxpMTZiU29QWi0yQU44cDZvckQ5bUF4NWs4WTZVYW1DRWlnMjBQOHJ0UU5xQ0VBZy1DMjJPemRnZ2hHVnQyLW1OTm0wTEVNTzZ4OC1veFVuZURVVGc5bVYxVkxfRWFJ?oc=5",
+      "published": "2026-04-16T07:00:00+00:00",
+      "publisher": "AP News",
+      "summary": "Taiwan’s chipmaker TSMC reports 58% jump in profit, warns about Iran war impacts &nbsp;&nbsp; AP News",
+      "query": "\"Taiwan Semiconductor Manufacturing\" lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings"
+      ],
+      "lean": "negative"
+    },
+    {
+      "title": "TSMC and ASML post-earnings stock moves could be a sign of what's to come from chip companies - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQeV9WUFp1bHNtbFUtVk91YzhnTmlTc3RlVEl4VFBrYjdsbW9qREVaR25HbVR0R01ZN29SUVA2TW5DT2NhT1ZBNG9fR3RyeVdiY2lzYW1SMFdiS0VzVEh2WHJ2aDY5MWFIODZCR0VCV0QyNUpxekZBeGhFQkZ3Ukk4SGk1M1BHemlN0gGOAUFVX3lxTE9hVEliU1FCZy1EcGg1TktDbGtIQ3RnTDlOZXc3cjMtTDVuWURwM3JNaFlzVmpScXZXVG5fQUxNeWJVS2s2eTFOdE9MZ0hHdHhiRHEyVDIyWFVMNHhyU2hxVTRsN1BQTGJXazQ0aG1QMkV4bEZyaEp6a2Fmd3FVM29TTnBRemtCOWJMcHZNakE?oc=5",
+      "published": "2026-04-16T07:00:00+00:00",
+      "publisher": "CNBC",
+      "summary": "TSMC and ASML post-earnings stock moves could be a sign of what's to come from chip companies &nbsp;&nbsp; CNBC",
+      "query": "TSM capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "[TSMC Earnings Forecast] Q1 earnings announcement scheduled for the 16th! Revenue growth rate at an all-time high, will AI growth continue? — Two option strategies to prepare for an “expectation-driven” market - Moomoo",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNElzazZCNEV0WHJBZEdUX015RURhenlzUHd1QUhMTWNjYVZKa2hQN01yM1N0SjFnZnBBbGJjRWR4U3U2TzBpTE1NV0d2emFQTDZzR3dWa1J5Uk9Bck5CeFY4SUg1cTRfTloxZHNUVXRkZFNIdkstMDQ3djdmSkZKVEVubm1xTnlxTmFOUl9xWnJBRmxyZ1NWcVFGbWpVVUVSVXJncnZBRjJIMEszd3c?oc=5",
+      "published": "2026-04-15T07:00:00+00:00",
+      "publisher": "Moomoo",
+      "summary": "[TSMC Earnings Forecast] Q1 earnings announcement scheduled for the 16th! Revenue growth rate at an all-time high, will AI growth continue? — Two option strategies to prepare for an “expectation-driven” market &nbsp;&nbsp; Moomoo",
+      "query": "TSM revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "guidance"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "TSMC lifts revenue forecast, pledges more capital spending to meet AI chip demand - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOeldVa2pOQ3pfZ3oyZGRSMWZOWG5JZXA5MmZ6MENQdmJzbFNKUDI3em4xRmNVeG1Jb2hMUk5ITzFiX2lpUGgtMWdNUFUtN1U5c3V6Tzh6d3EwVVdVN3Q5dzVTazdORnBkam1xbW11ZnpkbXRXd0JaSnlHZkd5VG9mZk1CUktLUDZ1ekRveC1VMUFxM21ibHc?oc=5",
+      "published": "2026-04-15T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "TSMC lifts revenue forecast, pledges more capital spending to meet AI chip demand &nbsp;&nbsp; Yahoo Finance",
+      "query": "TSM revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [
+        "guidance",
+        "capacity",
+        "demand"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "TSM Likely to Beat Q1 Earnings Estimates: How to Play the Stock? - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVFhOU2ZTZ2JzODlDM1hwNXY1dGVUbTdUb1dQNHdaNEt6UmVGaUt4ck43dmlweFdyYnlpMGkyRDFURHI5TlhfVGVXRXYyY2JvWnByNVExLUZ5bWNHY1N6ckhCbkJUMFVmMkxaS2ZkNGpBX3pOY2tYYkd5ZHRpa3hQeVpoNjgzMlZycjl5S1VrT3RlSkl1VWZQSHU1SmtlMGdwdms5b2YwVExmdlZpQUotRGt3UUdSazlyWlE?oc=5",
+      "published": "2026-04-13T07:00:00+00:00",
+      "publisher": "TradingView",
+      "summary": "TSM Likely to Beat Q1 Earnings Estimates: How to Play the Stock? &nbsp;&nbsp; TradingView",
+      "query": "TSM competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "3 Quarterly Reports to Watch This Week: NFLX, PEP, TSM - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTTBmOXUwRmxlbXZ5eHBSTHNKb09CX1RjYnJ0VDhhek85YnlrT052SzVSdGhLUi01YUVnS3NvaVllTUFrR3EzcEFoa1psazM2ejFERkdpVWpyZ05xOEVJbWNTM0EzUGlMcDd1OVBHa1U0dHRSNVZodWZpclRPeXlERllGUkRIRUVrRGlVdTB2QjN3TkMzYnl1TFhuRzZsazFncXN3ZG9YTkdpZGc?oc=5",
+      "published": "2026-04-13T07:00:00+00:00",
+      "publisher": "TradingView",
+      "summary": "3 Quarterly Reports to Watch This Week: NFLX, PEP, TSM &nbsp;&nbsp; TradingView",
+      "query": "TSM acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "TSMC likely to book fourth straight quarter of record profit on insatiable AI demand - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPVDlubVppNDRWVEVzemdMd3oydHYwRHZUYWJGdEdWMy1vSkR5VTU5M2hUeVdYc0c2c2MyNUVwb2FVNDRxNVVMNDFxbWxEV1gxUXBxa29BZnpCaUVUMFVRbDNLLWhZVGFVZ0toQnpJTWpETmllWDZOSGFnOVpIb1dXV1ZELUtnME5hQ2J2MVdGMGlYNHNzeTY4VmI2Z2VTcll6R01XOFY0b3pnR1pNd2ctRFBtdWlhc2FxT1k0aGZvbXl4dElvOFVnMGdtd09uQQ?oc=5",
+      "published": "2026-04-12T07:00:00+00:00",
+      "publisher": "Reuters",
+      "summary": "TSMC likely to book fourth straight quarter of record profit on insatiable AI demand &nbsp;&nbsp; Reuters",
+      "query": "\"Taiwan Semiconductor Manufacturing\" lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "demand"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "TSMC's first-quarter revenue surges as AI interest propels sales beyond market forecasts - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSzk0RHdEN2J2UWc3VERKU2JXWnBVamg3UWtGclBxVWxoeFQ0dTExOVlRN1RNTlo4WmNPc0xBWlpxQUduVkQtTHZZYlRwNE43VzhMVjA4dUVRNlZ3a3dIa21rVFdjb3VIVlVIeXd1Z0NVQkxpVzdOM1JiYkN2Y0lNX3k1czBlTDZQZ2VfTU5DeVZkZUlPVTVSWndldkJjczVyWlhYTTI4Q3k?oc=5",
+      "published": "2026-04-10T07:00:00+00:00",
+      "publisher": "Reuters",
+      "summary": "TSMC's first-quarter revenue surges as AI interest propels sales beyond market forecasts &nbsp;&nbsp; Reuters",
+      "query": "\"Taiwan Semiconductor Manufacturing\" earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "guidance",
+        "demand"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Taiwan Semiconductor Manufacturing Stock Climbs On Record Q1 Revenue Jump Of 35% - TIKR.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTWo1SFltRWxPdzNyZnF6MVNWNmlpM293STA2REREN1N4TkRwZnFreDc1ZzVzUFhwaVVWbVk1cGFEQzVESVY2TEtSVGlQZzRsQnZ0dW5aT3FxaThFbk1PRjdLVVpLVmI5Ul94M0RsWm5NUDNjNUw1WWlyMFQ4YXk2OUF4Z3BORktPOHBEYnE3VVhaV1ZLRUdhdVAzNnEzX25UUG5JY2NDN3Y2dFVmbTRQbXlR?oc=5",
+      "published": "2026-04-10T07:00:00+00:00",
+      "publisher": "TIKR.com",
+      "summary": "Taiwan Semiconductor Manufacturing Stock Climbs On Record Q1 Revenue Jump Of 35% &nbsp;&nbsp; TIKR.com",
+      "query": "\"Taiwan Semiconductor Manufacturing\" earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "This Semiconductor Stock Is All You Need To Be Buying - 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTUFaSmlGSUxRWG5mSUx5bjhueFIwY1pUbkZSRmlBOUczX2NkWkxWNTZ1TDFWRVBiRlUyTG5tTEpsLVlLWWkzaWtyRzFjbzVhQ0o3QkJzS3RHVXZMRFRjWTFKemtlWUh6MGhzZENPa1pKaUw5QXFNdFlUNmpHT1o2SGQxSW80SEFsY2xxeHVXUXpGVUMyZTUxYU44ZzhBZw?oc=5",
+      "published": "2026-04-10T07:00:00+00:00",
+      "publisher": "24/7 Wall St.",
+      "summary": "This Semiconductor Stock Is All You Need To Be Buying &nbsp;&nbsp; 24/7 Wall St.",
+      "query": "TSM competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Can TSM Meet FY26 Margin Guidance Amid Fab Expansion Cost Pressures? - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQYnNVbzFtSGxNQklCUGx0WHd4XzNQUHREQ0c5bVJpSjdJWXByT3BRc0VPOGYwZG5aRHRmQ1VtTy1tV0ZmZkVBN0VpNk45akswLURpUXg4a29RUE1PTXF5bUNuc0RtdXZZT2lJT0xQcDBFQURTVWdZTDlRczk4eTgyeDh6QWlZMVNidjU2eG5saEZOVWllTm5XM0pwX3E5SWhEVndLekp4LWswVVJyaGg0WFJGczRxRkNTTy1BZzNQdEg?oc=5",
+      "published": "2026-04-02T07:00:00+00:00",
+      "publisher": "TradingView",
+      "summary": "Can TSM Meet FY26 Margin Guidance Amid Fab Expansion Cost Pressures? &nbsp;&nbsp; TradingView",
+      "query": "TSM capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "guidance",
+        "capacity"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "It's About What You Know | Insights - hklaw.com",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPekkwd3I4bXFhSXZiRVN0aFphdGVodWpDRDZYaUxCNlhZbS1idVFacUU4TEJsNUZ1VUtFQV9veHlXd2R5RGFHZ3hGOHFBUkZQYklpVnUxV01JY0c0dVpEdWgyZ2ZQWThSTXVETXlER01JUmE2d3c0aG5sbkdmaXV0R3Q0U2RWN0NWTWc?oc=5",
+      "published": "2026-03-31T07:00:00+00:00",
+      "publisher": "hklaw.com",
+      "summary": "It's About What You Know | Insights &nbsp;&nbsp; hklaw.com",
+      "query": "\"Taiwan Semiconductor Manufacturing\" lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "TSMC Stock (TSM) Opinions on Capacity Constraints - Quiver Quantitative",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPUk1RaEZ2SVNFLS1aVjdyZHJZMWFRY2pKYTQ2Qm55V1VuaWstZ1M4bG00WDAxNi1fb0tJWVdxeDVMeXpiU3ZNRm5pVzNjY2VxYmhEdWdPajRteGpwOFVYMVh5X1ZMY1I2MUlXTUdhMlUxZHZRZ0VLVzQ1b1M3SW9DSUlRSDdNSmdfRXZ1d3dsbw?oc=5",
+      "published": "2026-03-30T07:00:00+00:00",
+      "publisher": "Quiver Quantitative",
+      "summary": "TSMC Stock (TSM) Opinions on Capacity Constraints &nbsp;&nbsp; Quiver Quantitative",
+      "query": "TSM competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "GlobalFoundries files patent infringement lawsuits against Tower Semiconductor - ETLegalWorld.com",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQT2pUTWdGUV9zN2ItVE9hZEZTQU1LSWRhYzdmSzR3ZXFwSWlDOXJJSkoxS1NYckZsZTg1dVpKaWZLaDRlNHh6UUgxOG1tdXRQUEFZdDRFRGZ0aHdtV3BBam9LNWw2VGttUXV2bVhOTmZFRDFEZDJVV1d1V1NfTG5POHJyOXVvb0NEZmNDZU1TU2dpT2I3VVA5eXBQTS1FQ1BMQ1J6dWJnZnlCS2NSbmdSTTRKN21vVXpMRV9waExQVHk2bVFpNUlpcVZfZXZYTlRrU0lybGJUX0NHdVJRNGJVUl9paFduX3RNbThXVERxVznSAfYBQVVfeXFMT25qWVhiVTc3bzQ3blF1RWtyS0lKUk4tekVDd296YkJJT1hSVTFKQjdMRkpTZDV5MU5LVWI1X3BJaTdzaDhmckRQQ2VObFdhVFkxQkVQYWVQb1BwTnlZdjVnV1UyYW5pU1hhcGs2SEZHYWRmYUwwVGdzNFBWdmM1NEZhU2FLVnRLLU5Gc1RRWGZjYllicXBrUk84S0FBTVRQY1NGODdxcHVWUGJJQmZ0WFRUNXhtNkNlb1RCSEM3SDVuLWNGdFFsS0IzaElvRVJ0M2ZmZE9UMEpEVUQ3RU81WWdBTjAtTzlINU12V1hrMUE1XzVDUlJn?oc=5",
+      "published": "2026-03-27T07:00:00+00:00",
+      "publisher": "ETLegalWorld.com",
+      "summary": "GlobalFoundries files patent infringement lawsuits against Tower Semiconductor &nbsp;&nbsp; ETLegalWorld.com",
+      "query": "\"Taiwan Semiconductor Manufacturing\" lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory"
+      ],
+      "lean": "negative"
+    },
+    {
+      "title": "Will TSM's Aggressive Capex Plan Strengthen Its Foundry Dominance? - theglobeandmail.com",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNa1prcmt2ek1tb25faF9pTkhqZVZibGhTQ1JfSmwwVXAyYW55U09KTERNNTZfOXpod1BrZHFDNEhsVkp3YzJ5Ml9jZGhsZUxad2pXTDd5R0lWbWt3Z2h0bjJoYUpqSlR2X3lpSmhDT3gxckNQS0FjTUpMc2pQZGZCbnpicW43OVNTV1E1UEU5VnFIdURidnd0b09hdC03YzNHM3RINTVfTUtoX2dFVnEtbUdzTjM5cDdlYjlTVHpfT3hLTUJSZ0N6dlBodk1TeGN3Q25Xb0p0a3ptZG1vTXlyNFNR?oc=5",
+      "published": "2026-03-27T07:00:00+00:00",
+      "publisher": "theglobeandmail.com",
+      "summary": "Will TSM's Aggressive Capex Plan Strengthen Its Foundry Dominance? &nbsp;&nbsp; theglobeandmail.com",
+      "query": "TSM capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity"
+      ],
+      "lean": "neutral"
+    }
+  ]
+}

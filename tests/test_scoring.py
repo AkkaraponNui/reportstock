@@ -17,6 +17,7 @@ import pytest
 
 sys.path.insert(0, str(Path(__file__).resolve().parent.parent / "tools"))
 
+import score  # noqa: E402
 from score import (  # noqa: E402
     BANDS,
     PILLARS,
@@ -143,10 +144,13 @@ class TestPillars:
 # --------------------------------------------------------------------------
 
 class TestSalesMultiple:
-    def test_prefers_pe_times_margin(self):
-        mult, basis = _sales_multiple(base_metrics(trailing_pe=24.0, net_margin_latest=0.18))
-        assert mult == pytest.approx(24.0 * 0.18)
-        assert "trailing_pe" in basis
+    def test_prefers_the_reported_multiple_when_currencies_agree(self):
+        # This once preferred trailing_pe x net_margin everywhere, which pairs a
+        # trailing price multiple with an annual margin. The reported figure is
+        # the same vintage as the price, so it wins whenever it can be trusted.
+        mult, basis = _sales_multiple(base_metrics(price_to_sales=4.3, trailing_pe=24.0))
+        assert mult == pytest.approx(4.3)
+        assert "reported price_to_sales" in basis
 
     def test_falls_back_to_reported_ps_when_pe_missing(self):
         mult, basis = _sales_multiple(
@@ -270,7 +274,11 @@ class TestProjection:
     def test_high_margin_business_is_not_silently_capped(self):
         # The ceiling must sit above where the company already operates, or a
         # 56%-margin business is assumed to decline for no stated reason.
-        m = base_metrics(net_margin_latest=0.56, operating_margin_trend=0.0)
+        # price_to_sales, trailing_pe and the margin are one arithmetic identity
+        # (P/S divided by P/E is the margin), so a 56%-margin company has to be
+        # given a consistent multiple or the fixture describes no real company.
+        m = base_metrics(net_margin_latest=0.56, operating_margin_trend=0.0,
+                         trailing_pe=24.0, price_to_sales=24.0 * 0.56)
         p = project(m, scenario="base")
         assert p
         assert p["assumptions"]["end_net_margin"] >= 0.50
@@ -323,3 +331,132 @@ class TestProjection:
         large = project(base_metrics(market_cap=1.0e15))
         assert small and large
         assert small["annualized_return"] == pytest.approx(large["annualized_return"])
+
+
+class TestCurrencyContamination:
+    """An ADR trades in one currency and reports in another.
+
+    Any ratio dividing a market number by a statement number is then wrong by
+    the exchange rate while still looking like an ordinary number. TSM scored
+    99.9 on a price-to-sales of 0.51 and 100 on a 44% free cash flow yield;
+    ASML scored 0 on an EV/EBITDA of 2657. The projection already guarded
+    itself through `_sales_multiple`; the graded metrics did not.
+    """
+
+    def _adr(self, **over):
+        m = {
+            "currency_mismatch": True,
+            "trading_currency": "USD",
+            "financial_currency": "TWD",
+            "price_to_sales": 0.51,
+            "ev_to_ebitda": 4.93,
+            "fcf_yield": 0.44,
+            "forward_pe": 19.8,
+            "peg_est": 0.26,
+        }
+        m.update(over)
+        return m
+
+    def test_the_contaminated_metrics_are_dropped(self):
+        out, dropped = score.drop_currency_contaminated(self._adr())
+        assert set(dropped) == {"price_to_sales", "ev_to_ebitda", "fcf_yield"}
+        for k in dropped:
+            assert out[k] is None
+
+    def test_same_currency_metrics_survive(self):
+        out, _ = score.drop_currency_contaminated(self._adr())
+        assert out["forward_pe"] == 19.8
+        assert out["peg_est"] == 0.26
+
+    def test_a_domestic_company_is_untouched(self):
+        m = self._adr(currency_mismatch=False)
+        out, dropped = score.drop_currency_contaminated(m)
+        assert dropped == []
+        assert out["price_to_sales"] == 0.51
+
+    def test_a_fake_cheap_adr_no_longer_outscores_its_real_valuation(self):
+        cheap_looking = self._adr()
+        honest = dict(cheap_looking, currency_mismatch=False)
+        _, detail_guarded, _ = score.score_pillars(cheap_looking)
+        _, detail_raw, _ = score.score_pillars(honest)
+        assert (detail_guarded["valuation"]["score"]
+                < detail_raw["valuation"]["score"])
+
+    def test_the_pillar_renormalizes_rather_than_scoring_zero(self):
+        _, detail, _ = score.score_pillars(self._adr())
+        assert detail["valuation"]["score"] is not None
+        assert detail["valuation"]["coverage"] < 1.0
+
+    def test_the_exclusion_is_stated_in_the_flags(self):
+        out = score.flags(self._adr(), 70, {})
+        assert any("TWD" in f and "excluded" in f for f in out)
+
+
+class TestMultipleAndMarginVintage:
+    """The sales multiple and the margin must come from the same period.
+
+    `trailing_pe x net_margin_latest` pairs a trailing-twelve-month price
+    multiple with the last annual margin. For a company whose trailing year does
+    not resemble its last annual report the product is not a sales multiple at
+    all: Micron's TTM revenue grew 346%, and the route returned 5.24 against a
+    reported price-to-sales of 12.71, which flowed straight into the projected
+    return as a 2.4x understatement of the entry price.
+    """
+
+    MU = {
+        "price_to_sales": 12.71, "trailing_pe": 22.94,
+        "net_margin_latest": 0.228, "currency_mismatch": False,
+    }
+    ADR = {
+        "price_to_sales": 0.51, "trailing_pe": 32.4,
+        "net_margin_latest": 0.446, "currency_mismatch": True,
+    }
+
+    def test_a_clean_name_uses_the_reported_multiple(self):
+        ps, margin, basis = score.sales_multiple_and_margin(self.MU)
+        assert ps == 12.71
+        assert "reported price_to_sales" in basis
+
+    def test_the_margin_returned_matches_the_multiple(self):
+        ps, margin, _ = score.sales_multiple_and_margin(self.MU)
+        # price_to_sales / trailing_pe is the margin the market is implying now.
+        assert margin == pytest.approx(12.71 / 22.94, rel=1e-6)
+        # And it is nothing like the stale annual figure.
+        assert margin > self.MU["net_margin_latest"] * 2
+
+    def test_entry_multiple_is_self_consistent(self):
+        ps, margin, _ = score.sales_multiple_and_margin(self.MU)
+        assert ps / margin == pytest.approx(self.MU["trailing_pe"], rel=1e-6)
+
+    def test_an_adr_falls_back_to_the_currency_safe_route(self):
+        ps, margin, basis = score.sales_multiple_and_margin(self.ADR)
+        # Never the corrupted reported figure.
+        assert ps != 0.51
+        assert ps == pytest.approx(32.4 * 0.446)
+        assert margin == 0.446
+        assert "currency-safe" in basis
+
+    def test_an_absurd_implied_margin_is_refused(self):
+        # A near-zero P/E would imply a margin above 95%, which is a data error
+        # rather than a business.
+        m = dict(self.MU, trailing_pe=1.0)
+        _ps, margin, basis = score.sales_multiple_and_margin(m)
+        assert margin is None
+        assert basis == "reported price_to_sales"
+
+    def test_no_usable_input_is_reported_honestly(self):
+        ps, margin, basis = score.sales_multiple_and_margin({"currency_mismatch": False})
+        assert ps is None and margin is None
+        assert "unavailable" in basis
+
+    def test_the_projection_uses_the_matched_margin(self):
+        # The stale-margin route made MU look far cheaper than it is, so the
+        # projected return has to come down when the vintages are aligned.
+        base = base_metrics(price_to_sales=12.71, trailing_pe=22.94,
+                            net_margin_latest=0.228, revenue_cagr=0.30,
+                            revenue_growth_ttm=3.46, operating_margin_trend=0.0)
+        out = score.project(base)
+        assert out is not None
+        # The multiple is the reported one, not 22.94 x 0.228 = 5.23.
+        assert out["assumptions"]["current_sales_multiple"] == pytest.approx(12.71)
+        assert out["assumptions"]["current_sales_multiple"] > 22.94 * 0.228 * 2

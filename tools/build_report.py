@@ -20,6 +20,7 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 
+from score import drop_currency_contaminated  # noqa: E402
 from common import (  # noqa: E402
     FILINGS,
     NEWS,
@@ -31,6 +32,9 @@ from common import (  # noqa: E402
     resolve_tickers,
     today,
 )
+
+
+_CURRENCY_BLANK = "n/a - trades and reports in different currencies"
 
 
 def _money(v):
@@ -102,6 +106,13 @@ def ranking_table(bundles):
 
 
 def metrics_table(m):
+    # The data pack is the file that says it carries facts and no opinion, so a
+    # number that is wrong by an exchange rate has no business being in it. An
+    # ADR's price_to_sales, ev_to_ebitda and fcf_yield divide a market number by
+    # a statement number in another currency; TSM printed a 44% free cash flow
+    # yield here. They are blanked with a reason rather than dropped silently,
+    # so the row still shows that the metric exists and why it is unusable.
+    m, _dropped_for_currency = drop_currency_contaminated(m)
     rows = [
         ("Revenue CAGR ({}y)".format(m.get("revenue_cagr_years") or "?"), _pct(m.get("revenue_cagr"))),
         ("Revenue growth TTM", _pct(m.get("revenue_growth_ttm"))),
@@ -122,9 +133,9 @@ def metrics_table(m):
         ("Forward P/E", _num(m.get("forward_pe"))),
         ("Trailing P/E", _num(m.get("trailing_pe"))),
         ("PEG (est.)", _num(m.get("peg_est"), 2)),
-        ("EV / EBITDA", _num(m.get("ev_to_ebitda"), 1)),
-        ("Price / sales", _num(m.get("price_to_sales"), 1)),
-        ("FCF yield", _pct(m.get("fcf_yield"), 2)),
+        ("EV / EBITDA", _num(m.get("ev_to_ebitda"), 1) if not _dropped_for_currency else _CURRENCY_BLANK),
+        ("Price / sales", _num(m.get("price_to_sales"), 1) if not _dropped_for_currency else _CURRENCY_BLANK),
+        ("FCF yield", _pct(m.get("fcf_yield"), 2) if not _dropped_for_currency else _CURRENCY_BLANK),
         ("Beta", _num(m.get("beta"), 2)),
     ]
     out = ["| Metric | Value |", "|---|---:|"]

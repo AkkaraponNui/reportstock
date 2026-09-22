@@ -1,0 +1,216 @@
+{
+  "ticker": "VRT",
+  "as_of": "2026-09-20T09:05:32+00:00",
+  "source": "yfinance",
+  "profile": {
+    "name": "Vertiv Holdings Co",
+    "sector": "Industrials",
+    "industry": "Electrical Equipment & Parts",
+    "country": "United States",
+    "exchange": "NYQ",
+    "currency": "USD",
+    "financial_currency": "USD",
+    "employees": 34000,
+    "website": "https://www.vertiv.com",
+    "summary": "Vertiv Holdings Co designs, manufactures, and services critical digital infrastructure technologies and life cycle services for data centers, communication networks, and commercial and industrial environments in the Americas, the Asia Pacific, Europe, the Middle East, and Africa. The company offers AC and DC power management products, low/medium voltage switchgear, busbar, thermal management products, air cooled and liquid cooled thermal management products, integrated modular solutions, racks, single phase UPS, rack power distribution, rack thermal systems, configurable integrated solutions, energy storage solutions, hardware, and software infrastructure that are integral to the technologies used for various services, including artificial intelligence, e-commerce, online banking, file sharing, video on-demand, energy storage, wireless communications, Internet of Things, and online gaming. It also provides lifecycle management services, predictive analytics, and professional services for deploying, maintaining, and optimizing its products and their related systems; and preventative maintenance, acceptance testing, engineering and consulting, fluid management, performance assessments, remote monitoring, training, spare parts, and critical digital infrastructure software services. The company offers its products primarily under the Vertiv, Liebert, NetSure, Geist, Energy Labs, ERS, Albér, and Avocent brands. It serves through a network of direct sales professionals, independent"
+  },
+  "market": {
+    "price": 249.39,
+    "market_cap": 96012197888,
+    "week52_high": 379.935,
+    "week52_low": 133.85,
+    "off_52w_high": -0.343598,
+    "avg_volume": 5960528
+  },
+  "analyst": {
+    "target_mean": 338.15384,
+    "target_high": 427.0,
+    "target_low": 236.0,
+    "upside_to_target": 0.355924,
+    "recommendation": "strong_buy",
+    "n_analysts": 26
+  },
+  "annual": {
+    "periods": [
+      "2021-12-31",
+      "2022-12-31",
+      "2023-12-31",
+      "2024-12-31",
+      "2025-12-31"
+    ],
+    "revenue": [
+      null,
+      5691500000.0,
+      6863200000.0,
+      8011800000.0,
+      10229900000.0
+    ],
+    "gross_profit": [
+      null,
+      1616100000.0,
+      2400500000.0,
+      2934200000.0,
+      3715200000.0
+    ],
+    "operating_income": [
+      null,
+      227800000.0,
+      916800000.0,
+      1382000000.0,
+      1896200000.0
+    ],
+    "net_income": [
+      null,
+      76600000.0,
+      460200000.0,
+      495800000.0,
+      1332800000.0
+    ],
+    "ebitda": [
+      null,
+      616700000.0,
+      984800000.0,
+      1192800000.0,
+      2136600000.0
+    ],
+    "rnd": [
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "eps_diluted": [
+      null,
+      0.04,
+      1.19,
+      1.28,
+      3.41
+    ],
+    "shares_diluted": [
+      null,
+      378224051.0,
+      386226267.0,
+      386325058.0,
+      390652824.0
+    ],
+    "total_assets": [
+      null,
+      7095700000.0,
+      7998500000.0,
+      9132500000.0,
+      12212400000.0
+    ],
+    "equity": [
+      null,
+      1441900000.0,
+      2014900000.0,
+      2434300000.0,
+      3941300000.0
+    ],
+    "total_debt": [
+      null,
+      3368100000.0,
+      3126400000.0,
+      3145300000.0,
+      3227900000.0
+    ],
+    "cash": [
+      null,
+      260600000.0,
+      780400000.0,
+      1227600000.0,
+      1827900000.0
+    ],
+    "current_assets": [
+      null,
+      3158700000.0,
+      4001500000.0,
+      5101800000.0,
+      6819500000.0
+    ],
+    "current_liabilities": [
+      null,
+      1897900000.0,
+      2305400000.0,
+      3097000000.0,
+      4407000000.0
+    ],
+    "invested_capital": [
+      null,
+      4632800000.0,
+      4955800000.0,
+      5362500000.0,
+      6854300000.0
+    ],
+    "operating_cf": [
+      null,
+      -152800000.0,
+      900500000.0,
+      1319300000.0,
+      2113800000.0
+    ],
+    "capex": [
+      null,
+      -111000000.0,
+      -134600000.0,
+      -184100000.0,
+      -226400000.0
+    ],
+    "free_cash_flow": [
+      null,
+      -263800000.0,
+      765900000.0,
+      1135200000.0,
+      1887400000.0
+    ],
+    "buybacks": [
+      null,
+      0.0,
+      0.0,
+      -599900000.0,
+      0.0
+    ]
+  },
+  "metrics": {
+    "years_of_data": 5,
+    "currency_mismatch": false,
+    "trading_currency": "USD",
+    "financial_currency": "USD",
+    "revenue_cagr": 0.215854,
+    "revenue_cagr_years": 3,
+    "net_income_cagr": 1.591266,
+    "fcf_cagr": null,
+    "revenue_growth_ttm": 0.241,
+    "earnings_growth_ttm": 0.53,
+    "forward_eps_growth": 1.068562,
+    "gross_margin_latest": 0.363171,
+    "gross_margin_trend": 0.025413,
+    "operating_margin_latest": 0.185359,
+    "operating_margin_trend": 0.047492,
+    "net_margin_latest": 0.130285,
+    "fcf_margin_latest": 0.184498,
+    "fcf_margin_trend": 0.072264,
+    "rnd_intensity_latest": null,
+    "roe": 0.43943,
+    "roa": 0.10889,
+    "roic_est": 0.218549,
+    "current_ratio": 1.379,
+    "debt_to_equity": 70.166,
+    "net_debt": 1400000000.0,
+    "net_debt_to_ebitda": 0.655247,
+    "market_cap": 96012197888,
+    "enterprise_value": 96239804416,
+    "trailing_pe": 56.55102,
+    "forward_pe": 27.33832,
+    "peg_est": 0.515817,
+    "price_to_sales": 8.363723,
+    "ev_to_ebitda": 35.926,
+    "ev_to_revenue": 8.384,
+    "fcf_yield": 0.019658,
+    "dividend_yield": 0.001002,
+    "dividend_rate": 0.25,
+    "payout_ratio": 0.0509,
+    "beta": 2.075
+  }
+}

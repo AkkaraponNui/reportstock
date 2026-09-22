@@ -1,0 +1,216 @@
+{
+  "ticker": "LVMUY",
+  "as_of": "2026-09-20T09:05:34+00:00",
+  "source": "yfinance",
+  "profile": {
+    "name": "LVMH Moët Hennessy - Louis Vuitton, Société Européenne",
+    "sector": "Consumer Cyclical",
+    "industry": "Luxury Goods",
+    "country": "France",
+    "exchange": "PNK",
+    "currency": "USD",
+    "financial_currency": "EUR",
+    "employees": 196647,
+    "website": "https://www.lvmh.com",
+    "summary": "LVMH Moët Hennessy - Louis Vuitton, Société Européenne, together with its subsidiaries, operates as a luxury goods company worldwide. It offers wine and spirit products under the Ao Yun, Ardbeg, Armand de Brignac, Belvedere, Bodega Numanthia, Chandon, Cheval des Andes, Château Cheval Blanc, Château Galoupet, Château d'Yquem, Château d'Esclans, Cloudy Bay, Colgin Cellars, Dom Pérignon, Domaine des Lambrays, Eminente, Glenmorangie, Hennessy, Joseph Phelps, Krug, Mercier, Minuty, Moët & Chandon, Newton Vineyard, Ruinart, SirDavis, Terrazas de los Andes, Veuve Clicquot, Volcan de mi Tierra, and Woodinville brands; fashion and leather products under Barton Perreira,Berluti, Celine, Christian Dior, Fendi, Givenchy, Kenzo, Loewe, Loro Piana, Louis Vuitton, Marc Jacobs, Moynat, Patou, Pucci, Rimowa, and Vuarnet brands; and perfumes and cosmetics products under the Acqua di Parma, Benefit Cosmetics, Fenty Beauty by Rihanna, Fresh, Givenchy Parfums, Guerlain, Kenzo Parfums, Loewe Perfumes, Maison Francis Kurkdjian, Make Up For Ever, OLEHENRIKSEN, Officine Universelle Buly, and Parfums Christian Dior brands. The company also provides watches and jewelry under the Bvlgari, Chaumet, DANIEL ROTH, Fred, Gérald Genta, Hublot, L'Epée 1839, Repossi, TAG Heuer, Tiffany & Co., and Zenith brands; and selective retailing under the 24S, DFS, La Grande Épicerie de Paris, Le Bon Marché Rive Gauche, Samaritaine, and Sephora brands. In addition, it offers french business and cultural publications under"
+  },
+  "market": {
+    "price": 92.0,
+    "market_cap": 226763997184,
+    "week52_high": 152.95,
+    "week52_low": 91.71,
+    "off_52w_high": -0.398496,
+    "avg_volume": 439031
+  },
+  "analyst": {
+    "target_mean": 122.5,
+    "target_high": 150.0,
+    "target_low": 95.5,
+    "upside_to_target": 0.331522,
+    "recommendation": "buy",
+    "n_analysts": 3
+  },
+  "annual": {
+    "periods": [
+      "2021-12-31",
+      "2022-12-31",
+      "2023-12-31",
+      "2024-12-31",
+      "2025-12-31"
+    ],
+    "revenue": [
+      null,
+      79183000000.0,
+      86153000000.0,
+      84682000000.0,
+      80807000000.0
+    ],
+    "gross_profit": [
+      null,
+      54195000000.0,
+      59277000000.0,
+      56764000000.0,
+      53528000000.0
+    ],
+    "operating_income": [
+      null,
+      21014000000.0,
+      22781000000.0,
+      19577000000.0,
+      17668000000.0
+    ],
+    "net_income": [
+      null,
+      14084000000.0,
+      15174000000.0,
+      12550000000.0,
+      10878000000.0
+    ],
+    "ebitda": [
+      null,
+      26721000000.0,
+      29776000000.0,
+      27094000000.0,
+      25850000000.0
+    ],
+    "rnd": [
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "eps_diluted": [
+      null,
+      5.606,
+      6.066,
+      5.024,
+      4.37
+    ],
+    "shares_diluted": [
+      null,
+      2512400500.0,
+      2501521580.0,
+      2498405230.0,
+      2489880590.0
+    ],
+    "total_assets": [
+      null,
+      134646000000.0,
+      143694000000.0,
+      149190000000.0,
+      142037000000.0
+    ],
+    "equity": [
+      null,
+      55111000000.0,
+      61017000000.0,
+      67517000000.0,
+      67472000000.0
+    ],
+    "total_debt": [
+      null,
+      35147000000.0,
+      38876000000.0,
+      41203000000.0,
+      36731000000.0
+    ],
+    "cash": [
+      null,
+      7300000000.0,
+      11264000000.0,
+      13587000000.0,
+      13502000000.0
+    ],
+    "current_assets": [
+      null,
+      39740000000.0,
+      43710000000.0,
+      47471000000.0,
+      48179000000.0
+    ],
+    "current_liabilities": [
+      null,
+      31543000000.0,
+      33145000000.0,
+      33696000000.0,
+      30416000000.0
+    ],
+    "invested_capital": [
+      null,
+      74850000000.0,
+      82924000000.0,
+      90458000000.0,
+      87816000000.0
+    ],
+    "operating_cf": [
+      null,
+      17835000000.0,
+      18403000000.0,
+      18925000000.0,
+      18875000000.0
+    ],
+    "capex": [
+      null,
+      -5082000000.0,
+      -7807000000.0,
+      -5552000000.0,
+      -4670000000.0
+    ],
+    "free_cash_flow": [
+      null,
+      12753000000.0,
+      10596000000.0,
+      13373000000.0,
+      14205000000.0
+    ],
+    "buybacks": [
+      null,
+      -1616000000.0,
+      -1584000000.0,
+      -312000000.0,
+      -1640000000.0
+    ]
+  },
+  "metrics": {
+    "years_of_data": 5,
+    "currency_mismatch": true,
+    "trading_currency": "USD",
+    "financial_currency": "EUR",
+    "revenue_cagr": 0.00679,
+    "revenue_cagr_years": 3,
+    "net_income_cagr": -0.082497,
+    "fcf_cagr": 0.036596,
+    "revenue_growth_ttm": -0.029,
+    "earnings_growth_ttm": 0.008,
+    "forward_eps_growth": 0.127149,
+    "gross_margin_latest": 0.662418,
+    "gross_margin_trend": -0.008375,
+    "operating_margin_latest": 0.218644,
+    "operating_margin_trend": -0.017346,
+    "net_margin_latest": 0.134617,
+    "fcf_margin_latest": 0.175789,
+    "fcf_margin_trend": 0.007913,
+    "rnd_intensity_latest": null,
+    "roe": 0.16586,
+    "roa": 0.07667,
+    "roic_est": 0.158943,
+    "current_ratio": 1.631,
+    "debt_to_equity": 53.306,
+    "net_debt": 23229000000.0,
+    "net_debt_to_ebitda": 0.898607,
+    "market_cap": 226763997184,
+    "enterprise_value": 253115088896,
+    "trailing_pe": 18.25397,
+    "forward_pe": 16.194817,
+    "peg_est": 20.243521,
+    "price_to_sales": 2.847327,
+    "ev_to_ebitda": 12.622,
+    "ev_to_revenue": 3.178,
+    "fcf_yield": 0.062642,
+    "dividend_yield": 0.033043,
+    "dividend_rate": 3.04,
+    "payout_ratio": 0.594,
+    "beta": 0.837
+  }
+}

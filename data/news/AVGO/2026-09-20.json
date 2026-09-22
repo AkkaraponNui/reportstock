@@ -1,0 +1,2300 @@
+{
+  "ticker": "AVGO",
+  "company": "Broadcom",
+  "as_of": "2026-09-20T09:07:01+00:00",
+  "lookback_days": 180,
+  "summary": {
+    "total": 176,
+    "by_event_tag": {
+      "demand": 46,
+      "earnings": 36,
+      "guidance": 34,
+      "speculation": 21,
+      "regulatory": 15,
+      "analyst": 13,
+      "capacity": 10,
+      "price_move": 10,
+      "management": 3,
+      "product": 2,
+      "mna": 1,
+      "macro": 1,
+      "capital_return": 1
+    },
+    "headline_lean": {
+      "positive": 26,
+      "negative": 16,
+      "neutral": 134
+    },
+    "top_publishers": {
+      "Yahoo Finance": 53,
+      "Seeking Alpha": 14,
+      "Reuters": 8,
+      "StockStory": 6,
+      "Investopedia": 6,
+      "CNBC": 6,
+      "Moomoo": 5,
+      "Trefis": 5,
+      "Bloomberg.com": 4,
+      "thestreet.com": 4
+    }
+  },
+  "articles": [
+    {
+      "title": "Jim Cramer on Broadcom (AVGO): “The Stock May Be Too Cheap to Ignore” - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbHVRZElnc0syLV80UHFDNExJV2RXcEFBcHk3cDI2aDlwSVRFR3pjaEczNXpCeGlVMjZQS0k3YTFzSDVJWjk1M19ZMnZ5YmhObU9DQlhUU1ZnSlAwcEtlTzg1TDFIeXc1ckhHYkZRaEpzbTFydGZ6NF83dzItdnZHemFVMlJoNXFFZ091ZExDLTlYUWVfN2NhM1B6SQ?oc=5",
+      "published": "2026-09-17T21:42:37+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Jim Cramer on Broadcom (AVGO): “The Stock May Be Too Cheap to Ignore” &nbsp;&nbsp; Yahoo Finance",
+      "query": "AVGO stock",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "AMAT, AVGO Expand AI Supply Chain Push With New Packaging Technology Partnership - Stocktwits",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQLVB3NGdqMXpYcGNVUU1yOGRxczN5ZnBncXdwVGdDWkpaSjhhV2paTVVVb2k2LTZsNVczQjVDX1BBY2dCZmRvTU5VcXBMSmJMQXl5VVJvMWdLYTNhWld5aUdQLUM3R3YxZ3k5cWtlWE5oT1dXTE84Qks2MWZBWlpkRmpXZTBNeHBuU2YxLVpTVnZDY1QzcEx6ZUlWSUhXdzJrZ2xjaC1JNngwMDRja3ZLYTdjQ3VRbVhfRHpRMjNyTWFDN0ZqNFdXY2txa2FUd2lQek05RDRiMEwzUDFJQTc4a1VoVW5DRlh0TG84SE85MA?oc=5",
+      "published": "2026-09-16T14:38:35+00:00",
+      "publisher": "Stocktwits",
+      "summary": "AMAT, AVGO Expand AI Supply Chain Push With New Packaging Technology Partnership &nbsp;&nbsp; Stocktwits",
+      "query": "AVGO capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity",
+        "demand"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Broadcom’s VMware Licensing Changes Draw Deeper EU Antitrust Scrutiny - PYMNTS.com",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQd2ZwZHZIbW5XTFExWEVVZzlIWkhfeUY3VnZVMjVCdWp1U0xkM3VhU3V3SnZvNFdTLS1mazc0LWpqeDBYcFF2NFpyQm4xS2FvNHJfX1JlMWZMeUVZdlRSd0pGd3FMN1NlWXdObmFUcWh6ZzgtaC1BQUM1OUZxQWkzTnBsRDR6WVNNZXdhcFVHeDd0ZktCRnNzNS1pRmlqNmR3TDItMQ?oc=5",
+      "published": "2026-09-13T14:03:37+00:00",
+      "publisher": "PYMNTS.com",
+      "summary": "Broadcom’s VMware Licensing Changes Draw Deeper EU Antitrust Scrutiny &nbsp;&nbsp; PYMNTS.com",
+      "query": "\"Broadcom\" lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Broadcom’s VMware Curbs Face Fresh EU Antitrust Scrutiny - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUnliZWNOOXNjZGNHbFo3cE5JYm0ycmp0amtaeTdFbW14X0xZdnB4M0IzV1RCQ0tGRXVKdDZPV3pnZnFVYndEZTJhR3R0bjY3YmZLOUtRUzNYX09IejlqZXRJazF4VlhNT3ZaWkU5Z3pLSGFjODg0OEJobnFfMzBQb2tLVnREaHM1RlQ0M2FSZml4eS11TnA5enJ5a0JIQVJMU00wU1BwNEFzMzA?oc=5",
+      "published": "2026-09-11T16:20:32+00:00",
+      "publisher": "Bloomberg.com",
+      "summary": "Broadcom’s VMware Curbs Face Fresh EU Antitrust Scrutiny &nbsp;&nbsp; Bloomberg.com",
+      "query": "\"Broadcom\" lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "What's Going On With Broadcom Stock Friday? - Broadcom (NASDAQ:AVGO) - Benzinga",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOeUhBSTNkSUVvUDR5WFVINzV0NDVIMHVGU3VTRDd3cVRmMXN3MUtGNHlYaXpmeVB6dlRoZ2psTnBhVmhaR2lMdF81Z0JyM1BiaVdVZ3hKWUlHUUdkWWptaFdrZzN1c0dfQUcyZl9SZEtMSThTY09WSFd0bHNOUU1rUFFVQjgtZFFJVEstamQtZUNaQXB5QkZvaVZTRFJQOVU3WExn?oc=5",
+      "published": "2026-09-11T07:00:00+00:00",
+      "publisher": "Benzinga",
+      "summary": "What's Going On With Broadcom Stock Friday? - Broadcom (NASDAQ:AVGO) &nbsp;&nbsp; Benzinga",
+      "query": "AVGO lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Prediction: Broadcom Could Become One of the World’s Most Valuable Tech Companies - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUW5kTlo5RVotUkktSUFWdzNlWi1EU1pwaGdKcV9TM1AtQzNFdTJtbmRvWTNEMWVzODNiRnpTU3gwWWVFQXpWeFN5R0MyaXRYWWtKalJkMU51N01jY2ZDWUU5WjZud0U0Y0xfdWI1eXBETDJMQXRTLUtaM3d4UFVNZlBPQ2FPTzBwWC1uQ2l1YWxPcXh1NFQ3d25NVEJUU1p1SGpn?oc=5",
+      "published": "2026-09-10T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Prediction: Broadcom Could Become One of the World’s Most Valuable Tech Companies &nbsp;&nbsp; Yahoo Finance",
+      "query": "\"Broadcom\" analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [
+        "speculation"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Broadcom Forecasts $230 Billion in AI Semiconductor Revenue in 2028. The Stock Could Reach $900 Per Share as a Result. - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdE1OWmhLQVdJd2JjcVBaUHlqSVdMUEE4SVZlVGtCc0oyMTBPRkdFWTltbVBjWDk5cnVwRGJSQXozWEF1Qklaa3ZEZEhaMk9MZENLcmRBS3V2UGRtczdaNUpVcXlPeWZWOGtnN25fQk1jeFBWNmR4VkUwbUlmandWaDFvNm5HeDRvYVUxNGZiN3YxTmZLYV9ESA?oc=5",
+      "published": "2026-09-09T07:00:00+00:00",
+      "publisher": "The Motley Fool",
+      "summary": "Broadcom Forecasts $230 Billion in AI Semiconductor Revenue in 2028. The Stock Could Reach $900 Per Share as a Result. &nbsp;&nbsp; The Motley Fool",
+      "query": "\"Broadcom\" revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [
+        "guidance"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Top Analyst sets jaw-dropping Broadcom stock target after earnings - thestreet.com",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNVVPdnN2cXIybjg1NlNKS2JCeUdxUHN3RGZMNTlHcUR0V2FZczd6WnkxNmdOVTVaSlFRbGZRcFBRZnBtUGkydDZKdVpRVnd0TmFqSHNjSVhjZnhmOENjdkxELUlpRHYzV2pMZm1oVjFvUDhtZnR3NGtJRGpYSURwQ3NPR1JDTUJNZzZNYll5dXRNTDV3NFV0Q0R2cw?oc=5",
+      "published": "2026-09-08T07:00:00+00:00",
+      "publisher": "thestreet.com",
+      "summary": "Top Analyst sets jaw-dropping Broadcom stock target after earnings &nbsp;&nbsp; thestreet.com",
+      "query": "\"Broadcom\" analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "analyst"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Broadcom: Market Is In Disbelief. Don't Be Mistaken (NASDAQ:AVGO) - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOYlVDWlZPY0lqa0dNeXlNUlRMc2lnZEd5bjcydTJHNDVSSkZPMEFrSkhzVy1ha2hGZXNUdUktSWdpeFdDb0xDa3VNRk5RMWpqN1JUWlVGczVXWVNMcHFpczBzRWhwSzZiREZkekplS1dqeURWRDY4MzM3SDRoNkd2bkR6V0pDU19uRUx2YVBhaUVhdw?oc=5",
+      "published": "2026-09-07T07:00:00+00:00",
+      "publisher": "Seeking Alpha",
+      "summary": "Broadcom: Market Is In Disbelief. Don't Be Mistaken (NASDAQ:AVGO) &nbsp;&nbsp; Seeking Alpha",
+      "query": "\"Broadcom\" competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [
+        "mna"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "5-star analyst resets Broadcom stock price target - thestreet.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUVhYN2pIMkF1S1VwWkJsT0Q3SU5wZ2FPLWgtalBudG5zTktDTGk3TnFJSlgtNElzc0NlTFpPVTgwbnYxYVA0bG1vR05WTnA5dG9aRnZUaDFWOS1LWDlnOEM1dXNLOVdibTAxOW9XbmZWZlRZOU5KZm8xSTIxd0xfTEJqSmlvUE9pUFZGNVQ1ZGVCY3JH?oc=5",
+      "published": "2026-09-04T07:00:00+00:00",
+      "publisher": "thestreet.com",
+      "summary": "5-star analyst resets Broadcom stock price target &nbsp;&nbsp; thestreet.com",
+      "query": "AVGO analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [
+        "analyst"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "AVGO Q2 Deep Dive: AI Semiconductor Surge Faces Supply Headwinds and Guidance Caution - StockStory",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQOFhQZnhKLUVzRVh6SUNyUEEzZE5pdk9CZUJsUHQ5NzUzR1FOSWFlYm0zR25MeF9ORXR4TXlTeW1ZVF9jNzdldUJqcmVfSm5sLUUzLW9sY3kzcHlyckRNOUd4RGRUSjBsaGZWR2t2R3ZxS0JJTFNxS0tLSlBWU0NWamFXSUpPaFNxQXdjOTZ4Ti1OTktGRXVMSnJ6TVNDY1RKajB6WDV0MEdXN0RiaEpSOHJfd3VqWkZEekdkaWROSWdjVktWQUJ3V0p1eU5YR1p6YWpWbW03QWtQMmM5S2VhUGR3?oc=5",
+      "published": "2026-09-03T15:43:40+00:00",
+      "publisher": "StockStory",
+      "summary": "AVGO Q2 Deep Dive: AI Semiconductor Surge Faces Supply Headwinds and Guidance Caution &nbsp;&nbsp; StockStory",
+      "query": "AVGO capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "guidance",
+        "demand"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Broadcom Earnings: Bullish 2028 Outlook - Morningstar",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPS2NmTjdoUHdoVThzdWJtYUc0YktqM19EendMcFMyUHktWTVNUXdnX1d0aWF1blprWld0TVQ0LUxtUHhYRTRCR3hsLXpESG1mV2JTTXJMY2NFUERYR1NNYlByOFRNTjVKYnFRUzdTdlJaTkt0STlOVWlOay0yRExiLTVuU19LVkcxbHc?oc=5",
+      "published": "2026-09-03T09:08:24+00:00",
+      "publisher": "Morningstar",
+      "summary": "Broadcom Earnings: Bullish 2028 Outlook &nbsp;&nbsp; Morningstar",
+      "query": "\"Broadcom\" earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "guidance"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Broadcom stock falls as chipmaker's strong results 'not enough to keep investors happy' - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQSWlGTWUzNEtsNnJOcVdmNWFzMFRKTUNHR3laSnFfUlFMY1U5c0R0UUxlWGg0cjc4UnIycHZHY3FNSWRlY0xQNUNCTzBhaVdCbzBjcEVDT25Cb0I3Rm5ubFRyWVZlMDdJdmJEOFVvY3ZHUVlXYjZNTEozQklLc2dhTk01TWVlRE5ybThDM3NTNkRfZzg4bGMyY3BQY0pMdmpaVERZaDBOT1dnbTMxd3ZZalVabzVoNWdPY3hRczJLRjZxSkdBLUFsSUU0ZEhkVXgwQzBKZjBsYTdqVlMzZ3pIVXZR?oc=5",
+      "published": "2026-09-03T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Broadcom stock falls as chipmaker's strong results 'not enough to keep investors happy' &nbsp;&nbsp; Yahoo Finance",
+      "query": "AVGO stock",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "price_move"
+      ],
+      "lean": "negative"
+    },
+    {
+      "title": "Broadcom Shares Slip as Q4 Revenue Forecast Falls Below Estimates - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQc0FyNUNJUW9IcEFuS1J2V0hzY0hFQTgyN0gzcjBrcHA4ZmJCblR3WG4xdkpMUkRqZ0xqQ2dOempuMFRqUzZFYnQ0VHlvbmJqbWYyQ2tDUVlYWjllZlNMUzEwNlFkM3hEU0ZKSjhTY3ZNOU1rOVBObndfU1NzSjBJaDFucEx2TEE3TU1VYmNabWZ0cGlaY1dXT0ZrVHU?oc=5",
+      "published": "2026-09-03T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Broadcom Shares Slip as Q4 Revenue Forecast Falls Below Estimates &nbsp;&nbsp; Yahoo Finance",
+      "query": "AVGO revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "guidance"
+      ],
+      "lean": "negative"
+    },
+    {
+      "title": "Broadcom’s Latest Sales Outlook Is Dragging on the Stock - Investopedia",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcUFFSWE3ZFUtYXZVc2VuYkxYNnVQcDhpRlRPMnQ2S01NVFRQYnFMQ0s3RUtNencyN1VkRmxZUFZYa3ZvelE2LVlrQlZ4OEN0bnAwbnF6SVM1dXVlNGpFNFd2ZmIxTU0tUEdkS1oxTV96dl83WjdROFEyQllqOTE2WlV4N19vOUF2YkRpOEZVTHo4Y2MzTmtwSjNHODN5bWJSZGszWVVLeGVpRXl6cG9jaERR?oc=5",
+      "published": "2026-09-03T07:00:00+00:00",
+      "publisher": "Investopedia",
+      "summary": "Broadcom’s Latest Sales Outlook Is Dragging on the Stock &nbsp;&nbsp; Investopedia",
+      "query": "\"Broadcom\" revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [
+        "guidance",
+        "demand"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Watch Broadcom Forecasts Boom in AI Chip Sales as It Looks to Challenge Nvidia - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPeG5QNUhsbXAyRi1ZeC1hbFBBY0toS0FNaWlnTGtvZTRNMUFkT1NKUHpMWlhkZF96SkQ5ZXFmbEtjNGVBQ1pjZUFnUXhHU2E1RVdLM0d6UjF2UkV4RElZYVZfOHlOelBJUWpNOWtCSzg1bVZ1a3dnbWh1M2h1NTJ2TVljVjFrNUJlN2F4VmNaZndfV1VnQTNUbVNSQQ?oc=5",
+      "published": "2026-09-03T07:00:00+00:00",
+      "publisher": "Bloomberg.com",
+      "summary": "Watch Broadcom Forecasts Boom in AI Chip Sales as It Looks to Challenge Nvidia &nbsp;&nbsp; Bloomberg.com",
+      "query": "\"Broadcom\" revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [
+        "guidance",
+        "demand"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Morgan Stanley raises Broadcom stock price target on valuation - Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOLUNJZXhkV0RraUt1Y3RIYVFpNFRGcHE3VWl6engwSjE5UXZpaU41aXNEclRreGtLdXVCNkQ1dmFBVmN6T3J6TkR6MHF0M0d4by12RGZLWmRmY0VZTnVTVnpZMTZDZDFpV1ROSlFTUmJDQTQ2UmVxeGFBNFlCUjdaMFJZd0hMd01oTXpoR1htRTFIeEF0TkZmSlJqYkt2d0hmcmJuODdDVnZqVTNtbWJWeTRfQ0o5UmFFeWlUTlJxQQ?oc=5",
+      "published": "2026-09-03T07:00:00+00:00",
+      "publisher": "Investing.com",
+      "summary": "Morgan Stanley raises Broadcom stock price target on valuation &nbsp;&nbsp; Investing.com",
+      "query": "\"Broadcom\" analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [
+        "guidance",
+        "analyst"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "AVGO Q3 Earnings Call Puts AI Supply and Scale in Focus - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWVZINXBFY2RWZ3hqcUx6aVhYVFpNcjRoUFJYZVlsZlVDQW41QTJiTFVZcHlqNzN6UGhSTmRqVlJSZV9YNXVsTkxlcm5nN01fRGYyWHdWcnROVkNCSWd5RjlvQWxHZzVMTVM4YzBSZHpUODZHYmpfd1VkWjdVd1RxOC1fYkllWkdhMEUzUkJaUVltc0s1?oc=5",
+      "published": "2026-09-03T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "AVGO Q3 Earnings Call Puts AI Supply and Scale in Focus &nbsp;&nbsp; Yahoo Finance",
+      "query": "AVGO capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "demand"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Broadcom delivers strong earnings view as CEO touts growth with AI labs - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE02MnFmSEVidVJwbDBTVjFsaFdzYTFSUnlPVmdnSXVEZ0I2dkhjNnQ0MUZFb2xHU0RpaU1jNzRxNGxUS3U5NlJyVWxiQXRsV1RPdlZLR2tIakNDSEI2ZkZUeFIwekhIQ1RkQVNPeWlaekVKTzh3bm81cDVFWmlRbEXSAYQBQVVfeXFMTWRuaWdHVEM0cXZrNXYwRHVOVmNIVTBnQm5Cejk3ZENUUURlMVZRN3ZPTmtXaVFFbTI3OGR6LXZnWUdOWVhpNWpLNnAxTF93cmVzclJyLXJQTk1MalQ3c25rbkZvNnNMYThxcGoxQ1ozYnVTOVhkRXB0VjhxaGJxYkF0RjY2?oc=5",
+      "published": "2026-09-02T07:00:00+00:00",
+      "publisher": "CNBC",
+      "summary": "Broadcom delivers strong earnings view as CEO touts growth with AI labs &nbsp;&nbsp; CNBC",
+      "query": "\"Broadcom\" stock",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "management"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Here’s How Much Traders See Broadcom Stock Moving After Earnings - Investopedia",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRElVOEU4SXdzSnFBRjNfaGR0RnB0RlkzRDlBbklGZVFaSWE0aGFCQkZNd1QzUFBZS0tFNTNhV2xoM0JhdkVkQTFURXA1S1hSdXBRWFEyTmU3SjQzZm9uR2ZQTVd4V3ZQZUhtOHp6dnFIeFVGcHZNTnltcWZkZXpjeGhQeWZZT0pYMnE4aldMQ3czcXZodkNCM0N1S3Bvb0R1aUJ0R3BjTlotOTdwblhtTzhIZk05cE90YXRQeUVKd0h1X1U?oc=5",
+      "published": "2026-09-02T07:00:00+00:00",
+      "publisher": "Investopedia",
+      "summary": "Here’s How Much Traders See Broadcom Stock Moving After Earnings &nbsp;&nbsp; Investopedia",
+      "query": "\"Broadcom\" stock",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "speculation"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Broadcom slides as weak guidance overshadows Q3 results (AVGO:NASDAQ) - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORnl1ZHF1MVBjZXQ5REpINldZakJkTnBrZkp3Z0ZUbTc0WHNERjE5MnhJN0dCZWVGclVyYkplZXhVYlJ3MkRqS2dLd3VOUFVxRXVfM3pmQ0d0dUZUNG9PSW1jOUV2LVNhbWs5N09TdG9QZ2NIcFQ0R2pLYlJpaFp6SHJITHdYMEZqdXRWTUZXTGhTV1QxWjZ0bWZhbjB6Nk9ENGhUZmlSYWItUDd5?oc=5",
+      "published": "2026-09-02T07:00:00+00:00",
+      "publisher": "Seeking Alpha",
+      "summary": "Broadcom slides as weak guidance overshadows Q3 results (AVGO:NASDAQ) &nbsp;&nbsp; Seeking Alpha",
+      "query": "AVGO earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "guidance"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Broadcom raises AI chip forecast as Big Tech keeps writing bigger checks - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMHVNSmdqeHMyQ25WbzBIbEllY05mcWZaNG9DcGFPR216TGZlcURDU0k3U3VhRTJROS1VMnFEZVp0cG1vN1h2MkxJdDFCdlpfZ1pJcWs0QVhSNTUxMmxTR1FkZlJSNUduMTRqMV9faHJuemt3eWRUNW1oamNYWVRILVoyeGtPODg1VUNsSWk2aVlWNU4zQmpwRExHbUkxUQ?oc=5",
+      "published": "2026-09-02T07:00:00+00:00",
+      "publisher": "Reuters",
+      "summary": "Broadcom raises AI chip forecast as Big Tech keeps writing bigger checks &nbsp;&nbsp; Reuters",
+      "query": "\"Broadcom\" earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "guidance"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Broadcom Slides After AI Chip Forecast Underwhelms Investors - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYktLOGJKZW5pZDR4S3h6eUhHMnlBa29wOVdXblk5VWhUVDBNUWNFWUJRdklNTmhtNGxFVXdwdU93MW1MTDVtbkF0SS1xdFZNblZvTUUwaFpZQjJ2bVNWZ3lfN2xQTG5mRFh3RFBueGlwRGRJRGV2Q2YxczhQcjc2cl9nZzdOWUpFNFlTY3UwV3E5RUF4S0ZyZFhHbTFUMWxVaU9OcDA2aEk5SW1rc1E?oc=5",
+      "published": "2026-09-02T07:00:00+00:00",
+      "publisher": "Bloomberg.com",
+      "summary": "Broadcom Slides After AI Chip Forecast Underwhelms Investors &nbsp;&nbsp; Bloomberg.com",
+      "query": "\"Broadcom\" revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [
+        "guidance"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Broadcom earnings need to answer these questions for the stock to rally again - MarketWatch",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTUJvMDREckpHaXFiRFljYWIzMHc2bEJnbHBOZVA1aGlPa1gxTGdTZjlONHlfS1dRYTVhXzV1VU5RTFBnaGZydnJkUHVyY3RoQmhDQzl1TFFzNXc5bjJvUV9xS0pWbENDZzItcEY0V2J0Zy0ybWRRZWRlX2dEZjlfUHgxRUxWclJVVmZPTWhfeDJQbTN0N3JyVXJWVEU3N1dFMzVRS1poQUQ2S2Z0dW1FWXFlWl9NVFV5dUVyeg?oc=5",
+      "published": "2026-09-01T07:00:00+00:00",
+      "publisher": "MarketWatch",
+      "summary": "Broadcom earnings need to answer these questions for the stock to rally again &nbsp;&nbsp; MarketWatch",
+      "query": "AVGO earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "28 Analysts Share Their Broadcom Stock Forecast Before Q3 Earnings - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRnloSGcyaTJ0NkxjQ0pjWndrb1EtTkcwb1lzcG5fQ1U0VnJadGJDc3FqWVlQR3pBUTl1ZndhZm1zd3BScm95eV9VX2RkSWd5SVFseVhrYkNMNzZFVkRaTkhnY1lBMXIyWVdNblBlZ2pxZC1HZ2F0aVhUWFh4TFBWQ3RTZ0RseVIwWXVBT1V1WnFaMjczc3R6R0twVS16Zw?oc=5",
+      "published": "2026-09-01T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "28 Analysts Share Their Broadcom Stock Forecast Before Q3 Earnings &nbsp;&nbsp; Yahoo Finance",
+      "query": "\"Broadcom\" revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "guidance",
+        "speculation"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "BMW Sues Broadcom Over Patent Dispute - forbes.com",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSGZVQUVycEdYa2NXb1ppQzVvTUcxbTlYVWFacFAzcG5NVld6dndtQjRnSFVpQnl0WkJWY2lDYlFuV0tKTV9sdlNVdFlLM3BzbW1sUUFqdW1tTHR4Q0ZxckgtYllNOG5OejV6RDBSd1JUR0ZtU1lCZHUzeG8ydXE2MXhPUzFxaDJZdWx6dzBaNDZ1WmxTUTVxTXlrVQ?oc=5",
+      "published": "2026-09-01T07:00:00+00:00",
+      "publisher": "forbes.com",
+      "summary": "BMW Sues Broadcom Over Patent Dispute &nbsp;&nbsp; forbes.com",
+      "query": "AVGO lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Is Broadcom (AVGO) Stock a Buy Before Its Q3 Earnings? - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNeW5fTDdBaHlfczd1UTdpRkJZR29TOE40R2tPS3h4RkotRDl5aW1oX09jV1gwUXZhaXl6d3V3djVYbHRjdFdPV1l0M3ZwMVZTdndnNnlGMGJqV2RmRm9DZUV1VEpkMTVyMlp4NHRJOVItcU5uWjd4QmpYemdKRXVKTGYzWVZTMXdiQjhqOC15bkdKNURfN0E?oc=5",
+      "published": "2026-08-31T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Is Broadcom (AVGO) Stock a Buy Before Its Q3 Earnings? &nbsp;&nbsp; Yahoo Finance",
+      "query": "AVGO stock",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Weekly Signal Ahead | AVGO's AI Supply-Chain Signal and the Final Data Before the Fed's Decision - Moomoo",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbmFiMWN5QzZ6MmJiYW9XbTdGVVA3SmJWOUhJWmFCaTducnEyRXdYZVNrbE1QQWJiTUQxbmhOSHYyRGpXZXBLeU1OQjI0OF9nZGdGWGFqVk41OGEtak5zb294NDRsb21Cd3dkZ0h3d0s0MHU0Z0dfYkRBbnp6bVNWZm12Y2tkcGh2amtYaVZoREhxMVRDcmZUaFgtY29LUDllOEVVUkJfTmpKZ2F5?oc=5",
+      "published": "2026-08-31T07:00:00+00:00",
+      "publisher": "Moomoo",
+      "summary": "Weekly Signal Ahead | AVGO's AI Supply-Chain Signal and the Final Data Before the Fed's Decision &nbsp;&nbsp; Moomoo",
+      "query": "AVGO capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "demand",
+        "macro"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Prediction: Broadcom Stock Will Go Parabolic After Sept. 2 - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORXNUNHBDU2ZoLWU1VzBBWm9jSjh1UWlydzdQOVFXMWFLV1RRa2ZNd0g1Uno5LXp6bmRhTVVVNnRxa2xqTkw4cXU2SjhvQlcyWTBWRzVDUFF1T2IyaURnZ1IyUnRKanBNbmtSV1J3OVBXMFRacEVub1dXa2drRkxvTGJpNEVtNElnQ1NkTy1EcEVoSERHVjFlcmVRYVVLZU9RUlpVb1FxUTE?oc=5",
+      "published": "2026-08-30T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Prediction: Broadcom Stock Will Go Parabolic After Sept. 2 &nbsp;&nbsp; Yahoo Finance",
+      "query": "\"Broadcom\" stock",
+      "source_api": "google_news_rss",
+      "tags": [
+        "speculation"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Broadcom or AMD? Here's Why the Market Is Pricing the Same AI Boom So Differently Across 2 Chip Stocks. - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQU3p3MXZFM0pOQjNYbHdrNWxYejNCWVFrX011YmlENzdmRjl1ZDhnSlB1bV9YQThPMzc1OFkzdGRJcEpRc3otMGZ2ZjJwcUF0bXpMQmVvWXlGTktLZWRGa0tsaFRwNnZlT1JNbE1kRFZwVlJkbE5mVXRjV1NwTl9BRkxBUTc1UWFVSjRVNmNXVDZ2cm56?oc=5",
+      "published": "2026-08-30T07:00:00+00:00",
+      "publisher": "The Motley Fool",
+      "summary": "Broadcom or AMD? Here's Why the Market Is Pricing the Same AI Boom So Differently Across 2 Chip Stocks. &nbsp;&nbsp; The Motley Fool",
+      "query": "\"Broadcom\" competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [
+        "speculation"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Broadcom Stock: Is AVGO Underperforming the Technology Sector? - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZVh3Wm1oQmJ0Q0o2aDREY3ZXVFNWbXNRcVRpRWNsOXFWak5UMGlwaHV1SWpzZGRna3Y2Q3VZNWVzbjU5N3d3ZG95LVNaOTIxVU55OHZHYzI5Njd2djhwSDM3TkZrTDVWVFljX1NaUWl1UFhVVUhGbWFvbWxaMUJKOG9VRVdkLWtSVjZDUE5rNHFoRXNVZU9PWWVUUVp1bElQRm1KLUctTDJVTnVYMnMyOQ?oc=5",
+      "published": "2026-08-28T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Broadcom Stock: Is AVGO Underperforming the Technology Sector? &nbsp;&nbsp; Yahoo Finance",
+      "query": "AVGO stock",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Jobs report, Broadcom results pose next hurdles for stock market rally - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQeDA2cUZ0QzNPRTVuNzBlRVNTZFpJUTdTYldHb1BzYTJyd2k2T2dwVlZ5ZDJXTE9GX0dzMl8zTVhpYXljTXMwN1hlV2RlX05sUFA2YU42MWpEQkY5OElMdklmMUJBZ2tYbUR1OExkTXBpTzNvSFBqZGl5YkRabmJfUlNSeVVsVWN5R2hjaTlNM3pEaS0wRHlRVWIyR05UdXc?oc=5",
+      "published": "2026-08-28T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Jobs report, Broadcom results pose next hurdles for stock market rally &nbsp;&nbsp; Yahoo Finance",
+      "query": "\"Broadcom\" competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Broadcom (AVGO) Stock May Trade At A Discount After AI Debt Concerns - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQ3RKVDI1SHNnTkIwN2ZTYjQ0YTNMMWtOcEpfV0xUX3VBT0ZhcTRCaS1KOVhodzZmMWJMajh1dmtfR0Q2TmtHVVdfdkFMLVZPNWFmeGdVVm1aS0g4WHZ0c0VKa2VrR1l6NTVlUHpMWHhUWUZEUzliQVFQUVBiR1JPWkNpdTJROXFYNGFhaFFzdkhsd2NOVVppTUdB?oc=5",
+      "published": "2026-08-27T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Broadcom (AVGO) Stock May Trade At A Discount After AI Debt Concerns &nbsp;&nbsp; Yahoo Finance",
+      "query": "AVGO stock",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "AVGO Q3 Preview: A Revenue Beat May Not Be Enough - Moomoo",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWTFMdWtBU1M4Z3QxLVljNVlydUdfanM4aS1TVk9zUzQwWXE4TG5zdnJZa0hRNURoalRISHVxLTEwS21fQzBVUklnbzhjZWhLOGt0SnE1aHM0U0p3QnFieEUtbDN6UEVNYlVMT0pOSl9IQldBOXdpc0lwUHAyT29WQkpUX2VMamUyRHFfUFpWMFBKUWVhUTc3X1JpeUlsZmFGSUpSXw?oc=5",
+      "published": "2026-08-27T07:00:00+00:00",
+      "publisher": "Moomoo",
+      "summary": "AVGO Q3 Preview: A Revenue Beat May Not Be Enough &nbsp;&nbsp; Moomoo",
+      "query": "AVGO earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Impinj and Broadcom Shares Skyrocket, What You Need To Know - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbDdiSXFaY3pfczViWU9VYlhCZTdJSWU1bko5TmRPZEpvdzF4TE5ub1VQcWpMLW8wdDYyWktvTEh5ekpmYzI4dTlKQ2tDa0djUnp5S0dLRGdJa3JtUUNlSlgzdDczQ3hLZExLbFpZM3JmbjVPQjg3eTd1dkxReEdPY1dYZ0hZdk94bnpkTEFvaVFsUVcyRE8zZVJBTHViYnhyd0F0aQ?oc=5",
+      "published": "2026-08-27T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Impinj and Broadcom Shares Skyrocket, What You Need To Know &nbsp;&nbsp; Yahoo Finance",
+      "query": "\"Broadcom\" competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Kyndryl, Broadcom expand partnership to push private clouds for AI work - Network World",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMng1TzUtdHNBRUhqMmItdWt0dGRFalpwY3pkTXBlVTZCM2RTUDM5bTdYQ09lRHN3QW1TaW9YcVcxaHRST0N1WktrUU5HVVM2ZlJhdTRRaS03VlU4SGctZmhfcnFDWm14ZkN0cTd5RmY3a1NEMlNFeThES3NCLTh0ekkxZFBfbHJTQlcxZ3BQTlI2REx4WXNQTmJjcjZBMXNZbFFnMHNRcW9GZk9mMXlULXFuUVRZRzFNZFIxdw?oc=5",
+      "published": "2026-08-27T07:00:00+00:00",
+      "publisher": "Network World",
+      "summary": "Kyndryl, Broadcom expand partnership to push private clouds for AI work &nbsp;&nbsp; Network World",
+      "query": "\"Broadcom\" acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "demand"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Broadcom: Firing On All Fronts, But Is The Price Really Justified? - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVk1ackk3MUszNXpVaU9HcWp0TVptYkpmenNUbVlRaGxCTVExZk5GRm50WUotdDltdXVDUDVwQ1N6MWxqcW1UVXhRTGNqZ0p5SEhERE5HV0p6eHB1dnJ0QkFYcUxod08zWkxlMVc4NTljcW5qRFFrV3RHOWNCNl9RMUdZcVpsTkxNRTJVTHNZNGJfQzBrRDkydUs1M3UtWHV1My1kVHVhOA?oc=5",
+      "published": "2026-08-26T07:00:00+00:00",
+      "publisher": "Seeking Alpha",
+      "summary": "Broadcom: Firing On All Fronts, But Is The Price Really Justified? &nbsp;&nbsp; Seeking Alpha",
+      "query": "AVGO competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [
+        "speculation"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Broadcom Is The New Nvidia, And That's The Problem (NASDAQ:AVGO) - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQc0Z6QXRFWm02TGp1b2pkNkV4elRVQWg4T3h4RDB5THJGcTF2MVU1MURDemNZRlR4a1M4UnRkZUp0aEhLYm5pNW5sWWx0TWkyeUY5ZjVodFp2ZGZKRXdWXzZ2NldydndVRWp1VjFuZGphUzJUYXlJaFJ4WlQyN3Z5ak1TS3UxNFZiM0pLZFROcVhmcjg?oc=5",
+      "published": "2026-08-26T07:00:00+00:00",
+      "publisher": "Seeking Alpha",
+      "summary": "Broadcom Is The New Nvidia, And That's The Problem (NASDAQ:AVGO) &nbsp;&nbsp; Seeking Alpha",
+      "query": "AVGO competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Broadcom Q3 Earnings Preview: I See Continued Margin Contraction (NASDAQ:AVGO) - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMlRsSGMyaDEzOEhxOHljalpXU2JjNFpjUU1nSWRDRU5yRDNBNDlqU0xhalAxRFFvbldiLUkxaTRpM1hoQ0EyUkpFTWhVV051dWZNazVZd3FtbXpjYzBId1dtclZJZk1zaFMwNFdwVEt3S0Frb0FYOUdWVGphTmJhS3Z3eXA5X25HLVVxWjV1SW1jYXFTTmdjaFQ1SFdSSkJ0U1VuRWs1VQ?oc=5",
+      "published": "2026-08-25T07:00:00+00:00",
+      "publisher": "Seeking Alpha",
+      "summary": "Broadcom Q3 Earnings Preview: I See Continued Margin Contraction (NASDAQ:AVGO) &nbsp;&nbsp; Seeking Alpha",
+      "query": "AVGO revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "demand"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Broadcom Stock Just Scored a New Bullish Rating. Here's Why. - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQ1VmYzd6VHFjbjRVMVZaUGlZMldpMWxDbzVXUTlIR2NvR2JTbDM0WkZxSnV3cEpDYVUxc0o2aUVESHFfWkRkUkdKVVBKSUlxNzJQdHdSUlVIRFVrdEhCV2dPU1kzNXMwX0gtWlN1YkJ0LUplOERWLS1kNjVIU3RwNF9ZRzhvUjlhRXRqWTVjVDZfcWU5SXZfMnA5NkdISTA2?oc=5",
+      "published": "2026-08-21T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Broadcom Stock Just Scored a New Bullish Rating. Here's Why. &nbsp;&nbsp; Yahoo Finance",
+      "query": "AVGO stock",
+      "source_api": "google_news_rss",
+      "tags": [
+        "speculation"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Broadcom’s AI Boom: Is a 2x Stock Gain Still Within Reach? - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOMGdycEZjX25lTjBicU5KMElfTjk1eG42MXN5dzZKTTFaS0Q5bnE1cEljeFI1dXVNa2M0NXNLRzIzWF9CMm1oMXBVck51ZFA2RFRSWWNMd1NlVzFxWFB3Z1JZbGs0YzdSUXFWU1B6dzJHR3ZOeGdWeFlnQVRXN3I3T1lJMWlEeWVCUjhWNWFYMFpUOGxq?oc=5",
+      "published": "2026-08-21T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Broadcom’s AI Boom: Is a 2x Stock Gain Still Within Reach? &nbsp;&nbsp; Yahoo Finance",
+      "query": "AVGO analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Broadcom Inc. (AVGO) Laps the Stock Market: Here's Why - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNVpHU09MTWdnTzVlc2dkS1c2UG9tNG1Td3ZOR3Z3S1NScXE0cW15cVlvby1YblRjcW9IZkZ2Mmh0NzFEX1lGeXB4QkdMLTFmQWdTbUVnSmxfMnNGaWFFMWR5WUQwd18zakJHbkpjQlE5a05vaHl2Q2h1bjluYmhpUEV0M0NzQnNfUTVPdGVBS19lOEthaGZjcA?oc=5",
+      "published": "2026-08-21T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Broadcom Inc. (AVGO) Laps the Stock Market: Here's Why &nbsp;&nbsp; Yahoo Finance",
+      "query": "AVGO competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [
+        "speculation"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "The Line In The Sand For AVGO Stock - Trefis",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxONXAyWVFiS2RVdXRQTUlCNS0wWXdJUUpkdTUyZVVGMDFjdlFWZmxuS0haMkFaUW53dnFoa01Ual9SZllVZHlINnZYU0lIVXk1cVZEU0N1V0dwS25JeHRXZmZ4a2NXclpNUDZKOFAzcWwwNnhwcDJaSElDcmRPek5pSU5ZMUUxWFhOVWsyZnV0OWtWQVlPaVBVMlIyTHFlUk0?oc=5",
+      "published": "2026-08-20T07:00:00+00:00",
+      "publisher": "Trefis",
+      "summary": "The Line In The Sand For AVGO Stock &nbsp;&nbsp; Trefis",
+      "query": "AVGO stock",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Broadcom seeks more than $60 billion in latest AI debt deal, Bloomberg News reports - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWjl6el9aTXd3V2hKVng5WF9iUUJpOG9zdXBWZzJhQkt1aUtVWE5wWi1MRGVXX0hCU25sR0NXTE9ocGU5SVZqYUJlZmZFRF81MmdxLU1xcEtLaVZnMGg2ejluTjgyN0Fyb2I2bWxFZzlSM3N6N3VDbXpFR09FMGthQXFBSF9rNzRDTkxJbjk2aGsxQ3Nxb2JIcFhZTFozaExoVm50a1FBSnl2TEhoWXhreG1kWTFrRld1eEs2X0haTXA5aFU?oc=5",
+      "published": "2026-08-20T07:00:00+00:00",
+      "publisher": "Reuters",
+      "summary": "Broadcom seeks more than $60 billion in latest AI debt deal, Bloomberg News reports &nbsp;&nbsp; Reuters",
+      "query": "\"Broadcom\" acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "demand"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Why Broadcom (AVGO) Stock Is Trading Lower Today - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPXy1jd2dXYS1CbnVFMDNWcjRXekV6Q3Z6S044ZlhfS3B0emJDZXhWZHFFeVZmRlJ3QXJLT0s1WkpRX051aEJZRGtSNDg0X29Dem1acWMtd1dQVVFXOHFTU1JfZ2pUejhmdGdoTkhycDgzdWI3cDNDbXBmTVoxeFFzOWhLZXhjUHBrcXBDeXBnd2xvTnh2anIwWmZseVg?oc=5",
+      "published": "2026-08-19T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Why Broadcom (AVGO) Stock Is Trading Lower Today &nbsp;&nbsp; Yahoo Finance",
+      "query": "AVGO stock",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Why Broadcom Stock Crashed Today - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNb1BhN2plcEJ5MENBNUlJZk9Md1NyVzJSa0FHdHFETjdoelE2VFdBZ0EzVTlvNVNMZ3E5QnczTjNmSTVZQTZkeTRWOEhXb0dmR3k0Z3BiYmhURWpKblBLXzQwS1RLekU0QUtIMnZiT3dDa2t5S2hYb1hLVktRS09yYlJkbE1oNGlTRHAyeG5tSHduWkQyUmJwX3MyOUlIZw?oc=5",
+      "published": "2026-08-19T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Why Broadcom Stock Crashed Today &nbsp;&nbsp; Yahoo Finance",
+      "query": "\"Broadcom\" stock",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Broadcom Falls 5% as Marvell Lands Google Custom Chip Deal, VMware and Financing Concerns Persist - 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQbkxWS25IVXAtSWtxYTNFY3hiLVJhZ1Q3SnlFLXNqaGI1ZzR3d01mNXVlMFZNUGtfNkM0Y0IwY2ZsV0J5TVZ5bTRjQnNTempHUWRjTXFlUnMtN04wSThTX1I2Y1o1Q0tFVHFPemkwUDdXSWl3UEpOUmJCTWx0bkFoVmhfYTYyTm1FVnRUenY1eE8xNGpyQ3lTR2g4R3l3cUpCSGUtZGF6cFNBTms2R29Wa1ZHTFdMdS1nZDZSeEdlRmZkZXo4RGY1OFY2S0JnMW5LRU1nR2FR?oc=5",
+      "published": "2026-08-19T07:00:00+00:00",
+      "publisher": "24/7 Wall St.",
+      "summary": "Broadcom Falls 5% as Marvell Lands Google Custom Chip Deal, VMware and Financing Concerns Persist &nbsp;&nbsp; 24/7 Wall St.",
+      "query": "\"Broadcom\" competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [
+        "demand"
+      ],
+      "lean": "negative"
+    },
+    {
+      "title": "Why Broadcom Inc. (AVGO) Dipped More Than Broader Market Today - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSGllWGxUVGZfczJUV1p4NXBFcUZMREFIM2NFOFBrYWptU3VpOWNMM2NrX0xzN0FiTWtDZzVKVENFQXJuRlBnWjBjM3A0NTRnQVRVQmVIb1BYQlJCREpFVTBiSkIxOE5xYWpNR08tQk1aS0l5ZkJaa0Q0Y2JZZHg4X0NxODdqZVlzX2N3UGdhcVV0amVyZ2RwMg?oc=5",
+      "published": "2026-08-14T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Why Broadcom Inc. (AVGO) Dipped More Than Broader Market Today &nbsp;&nbsp; Yahoo Finance",
+      "query": "AVGO competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Are Wall Street Analysts Predicting Broadcom Stock Will Climb or Sink? - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaHJaRGpwandLdm9DZjBJeEJ5SEVHNE9NWDRwRFhnUThVRDN6VFhpMnR4UGxqcnZQc3RYTE85bmlEeHFBa1hJcVkya3VhNDNma0JrY3RJeUxPYjRIZTl0WFVzY0h0VEFsY1pSYWszbW9kUTYzQ2RUbTNWay0xMEM5bE15LUF3dFloNjNjeUNYckJPQkRvMFNLZW1KVHhwVERhOGdQTU1zWkQ?oc=5",
+      "published": "2026-08-11T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Are Wall Street Analysts Predicting Broadcom Stock Will Climb or Sink? &nbsp;&nbsp; Yahoo Finance",
+      "query": "\"Broadcom\" stock",
+      "source_api": "google_news_rss",
+      "tags": [
+        "analyst"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Broadcom: Big, Bad News When Compute Leaders Need Optical Advantage (Upgrade) (AVGO) - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNmZ5NEtZQWM1X0ZxZlA5VHpTeWw5ZExRektwdVZXVUVielNWaEU3YlZ1czlZM0ZJd3UxUHJFUy1KRVhsWHE4NERmcmFwd0NRZDFPOTRKSWMtZ0FHZTJEWUVZWTcyRTcwS1RfaEJsb1dndFVZX3Vrd2FwdjVYTDZURFlORkg0cDZHTmVsSzNBYTBfOUI3MzlwVHNNYTJkSGFuNVBPVmhUU3czalJ4dG5rRTF4VUE?oc=5",
+      "published": "2026-08-05T07:00:00+00:00",
+      "publisher": "Seeking Alpha",
+      "summary": "Broadcom: Big, Bad News When Compute Leaders Need Optical Advantage (Upgrade) (AVGO) &nbsp;&nbsp; Seeking Alpha",
+      "query": "AVGO capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "analyst"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Broadcom cannot use US legal privilege to block EU probes, court rules - SDxCentral",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSHZibnJ0aFBUbjkzdGREZU0yQjlHZ18wWTNXOGlONmlEZVd6eFZXVHR1cFFDRUdBeVRPa083WG15bjVuMHhnbHhsUEhBaThJbmhRYXFEYjktM0VodnlMYUQ4TUMxUDlBVGh5eXY3QzJSY3o1cmh2bURZMzJfWFlXUEJEaDVyV0piNFJyeUlvd3dmdTJQYXltb3VqRXdqRUVVeVFjdQ?oc=5",
+      "published": "2026-08-04T07:00:00+00:00",
+      "publisher": "SDxCentral",
+      "summary": "Broadcom cannot use US legal privilege to block EU probes, court rules &nbsp;&nbsp; SDxCentral",
+      "query": "\"Broadcom\" lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory"
+      ],
+      "lean": "negative"
+    },
+    {
+      "title": "Broadcom (AVGO) And Google’s $200 Billion AI Build Put Its Chip Role In Focus - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNblZGMGszZ0JkdGcxRTFEcVdLY3BPQ1BWeEoyVVNhb3dTeFRJc1l6b3FMcktWZEhTWDh3ZXphMDhGNk00YkROdFFkSlhBb2JxZGJrd1BlZ29mZ2UteW9zOWRwMWx1NFdjRWxOMEJzd0hheWxzRHdNd3J2WlJ3NDNXbzFWMDdHVy0tSk93WXd0dFJ6ckhzTkJaX21YZXc?oc=5",
+      "published": "2026-08-04T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Broadcom (AVGO) And Google’s $200 Billion AI Build Put Its Chip Role In Focus &nbsp;&nbsp; Yahoo Finance",
+      "query": "AVGO acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Broadcom loses court bid to suspend EU antitrust request for US legal papers - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQ29aaHJiZXgxck9tZnJCXzMxdTA4ZlIyb2NhSEtLVUNhQm9Idmh4Vm04SXk0S0xjMEFjTWstYmZDLW9MTm9Zb2NNVUhBQzlYNjMxeUIyV2JtRldialNrY2VtX2VBNU45cDlkelBMajgtUXROWXUzWllWT1cxVnZ5c0NyQldZS25icW9YX25kTGtKVUxpVXlFbkx6OFh6WmNoQ0w4cTNQd3JIQ3JHMy1xOW43OGhadDFwc05kUklGcw?oc=5",
+      "published": "2026-08-03T07:00:00+00:00",
+      "publisher": "Reuters",
+      "summary": "Broadcom loses court bid to suspend EU antitrust request for US legal papers &nbsp;&nbsp; Reuters",
+      "query": "AVGO lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Apple & Broadcom: A Strong US Supply Chain Agreement - Supply Chain Digital",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNamVBbXk3YUhSdFV4TXJ2TXZreUpZQmh2Wkx2am5VV29NVVBiSVUtQ281ZTVsVUZHemdGakxPNl9JMkVDbGRrQnpxYmlDdWprU0YwajllaFZLSlJHZ3FsWDY4Rm1CNEpMa2lGUFpwcFdQblBfcVpvTnFOOUdPM3ZVSkJhVDctU3hZY1cwbmxB?oc=5",
+      "published": "2026-08-03T07:00:00+00:00",
+      "publisher": "Supply Chain Digital",
+      "summary": "Apple & Broadcom: A Strong US Supply Chain Agreement &nbsp;&nbsp; Supply Chain Digital",
+      "query": "\"Broadcom\" capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity",
+        "demand"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Broadcom Inc. Stock (AVGO) Opinions on Apple Supply Agreement - Quiver Quantitative",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZUU5YjZ5QldiVDNUMldVeWZuMDZmaUREM3BwYmJET092OW1ZQ3hJeVZfZ2sydl93WjFMQldiY2U0cWhuV1N5MzJtZGFLQTdrZVZXd1Axakd3NDNIb3V1clJWcmtlUUEwZ1k0cGRPc0VNVVlmby1pNmdKajB4YkhOTmlFckpmS2NBbjlodTB6eVM1SmJIQXp1SHFXX09vdTg?oc=5",
+      "published": "2026-08-01T07:00:00+00:00",
+      "publisher": "Quiver Quantitative",
+      "summary": "Broadcom Inc. Stock (AVGO) Opinions on Apple Supply Agreement &nbsp;&nbsp; Quiver Quantitative",
+      "query": "AVGO capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "demand"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Insight CTO On VMware By Broadcom ‘Chaos,’ ‘Pain’ And ‘Confusion,’ Even As VMware Technology Has ‘Never Been Better’ - crn.com",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQbDY0WGt4OG1ubk93SHRmbmRFODRTMFZoODhSdXFxTHdvTUF5Q3dHYWYyRTJPUWtBUTFrTzVIN21wQlNyVXVvVUpXYS1Wd0p2QVdUZ21raFJ4b2dPOExWM1RvdENhbjdCVXZvcnVoU2lFemIzdnNtMTkyOEk3TXJfbTh1U3J3ejN1ZHBYb3MxaldjUEtyYy1IOW9GUmY1RGdvaXA4TWg0NWFEZjQyUzZWWi1Ya2l6VENOOU1MbUE4N0JNT3YtcFB4dUVSLWpfWUp5X0QzUXdEVTk3MVRGbjhkSXA2NDFFUQ?oc=5",
+      "published": "2026-07-31T07:00:00+00:00",
+      "publisher": "crn.com",
+      "summary": "Insight CTO On VMware By Broadcom ‘Chaos,’ ‘Pain’ And ‘Confusion,’ Even As VMware Technology Has ‘Never Been Better’ &nbsp;&nbsp; crn.com",
+      "query": "\"Broadcom\" acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Is It Worth Investing in Broadcom Inc. (AVGO) Based on Wall Street's Bullish Views? - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTmFlLXBZb1MzVXB6MjZhQ2JYUEhPZHlLUXFpNkd3dmtISXFxV1ZyNTVoenAwdTMwS2tuYmlURDNaZ0Q3b3drdWY2blFtTlUtZHRMSU1rUzM3ekx2RU5oYUsxVWtGLVhXcTJ5d0tlM2xBU1lYanF2VWdDSVV1dkI5cmRNZFIxbkVXcXpidEJtRjdXOU1BYzZsbDdfSFA5RHM?oc=5",
+      "published": "2026-07-30T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Is It Worth Investing in Broadcom Inc. (AVGO) Based on Wall Street's Bullish Views? &nbsp;&nbsp; Yahoo Finance",
+      "query": "AVGO analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [
+        "analyst"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Broadcom Just Signed a $200 Billion AI Agreement. It Solves the Company’s Biggest Problem. - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcTQyUnU0bWtzMHBfYzJDX2RMUFpCR1M2dklzaVNZUXFWT01Va2NDel9uaml6UElSd0xWN1hZcDd4Smp0Yl9jUm94VHdnbzBKN3B6aDRsamVtVFF3aHR3YXVmMzFYRVVVczNOeXhZNkFucWNyNGRZeGJFVElwRGxvUFVVR0x6b3ZBSWMxQWc0NWpSVnhHbU1HV1lUNzM?oc=5",
+      "published": "2026-07-29T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Broadcom Just Signed a $200 Billion AI Agreement. It Solves the Company’s Biggest Problem. &nbsp;&nbsp; Yahoo Finance",
+      "query": "\"Broadcom\" capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Should You Buy Broadcom Stock While It's Under $400? - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNb3pDNzdYNjk2SXhwZ0Z1QTJtZ3dyWml4alRUZFA3akNDNGtfME5WcWN0QmRCby1jSWVjeTU2ZTVhb2RRQW8wNHpEQWN1QTk5ZDQycEZhWnd0Z3hGVlpsNkhHSDBtWk5XbWZZQUxuSVBpdXdoMGM2SW5BVm5yMkZsRnBTSElpN1NsOVhZdnJuVDctUEs2ck9ES0tabw?oc=5",
+      "published": "2026-07-27T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Should You Buy Broadcom Stock While It's Under $400? &nbsp;&nbsp; Yahoo Finance",
+      "query": "\"Broadcom\" stock",
+      "source_api": "google_news_rss",
+      "tags": [
+        "speculation"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Broadcom Stock (AVGO) Opinions on AI Chip Supply Chain Deals - Quiver Quantitative",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcTlDOFNVdEp5TXZ4c01HY28tdWItQlBBY3M2TEk5d2V5R1RkUWdjRUE4blhHTnNubzRoY3lYRHBwR0pwcG9jNXpGcnhHbm5BdHRET285Y3YwQnU2Yl9uSHNFeGtZQTJ3LW5DeFBLT3lYTkRuLW12T1RZTDJFZjc2a0xfVGtnSXRYZzFGQ3lfUnpZYkdiWHNQNUhiZTZSdw?oc=5",
+      "published": "2026-07-26T07:00:00+00:00",
+      "publisher": "Quiver Quantitative",
+      "summary": "Broadcom Stock (AVGO) Opinions on AI Chip Supply Chain Deals &nbsp;&nbsp; Quiver Quantitative",
+      "query": "AVGO capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity",
+        "demand"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Samsung, SK cement Korea's AI supply-chain role - The Korea Herald",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0ta3ViaHhEa2xVQXV0VDIyZWF2ZWc1Y25RUmFRNGdfUzFHTWFvb3h6c2ZiZ3lPVkxvQ3BlNk1NUUlBb3pqQ09PdnQwdnpqYTZCRzhLVjFnMA?oc=5",
+      "published": "2026-07-26T07:00:00+00:00",
+      "publisher": "The Korea Herald",
+      "summary": "Samsung, SK cement Korea's AI supply-chain role &nbsp;&nbsp; The Korea Herald",
+      "query": "\"Broadcom\" capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "demand"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Samsung Electronics wins $200 billion Broadcom AI chip partnership, boosting foundry push - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQakVDSXc3Z2J1MkQxR1IxSkxYVC0yc3VWbWpfYmlxdzE0NTVMc2F6UlkyRXJhVUwwUGhERXFOM2NGSlhMSmZqYlprOURSVHZFMjFLbGpOZElaa1VQV0RIczgxWFBrc29lOEdXR1J5Y0NmaTZfak1idThfQmQtT0ppUF83TDFVc2wydW5vX3pWWlR6LVE2Nm4tdEFwRmszWm1mU0dYWNIBqgFBVV95cUxNeUVBTWVoaDg3OWlnSnpCZlV3c2JCX25UM01wMVk4RHhXRXhCNURqaFVhOVg0d0dhMHowaGl2VGxlakxSZUJzLUpsQjVlV2N5WXExUjQxNGhpdmNXb2NoU2FmX1lLU0dFZ1o0SnZnbTNHazFfaHRDWWpXWnVmR181WDQ5cnU1Nkd5MVo5UGJhS3VzTzlRUVRuOW55NHBJVERId2paa1U3Q0NZQQ?oc=5",
+      "published": "2026-07-25T07:00:00+00:00",
+      "publisher": "CNBC",
+      "summary": "Samsung Electronics wins $200 billion Broadcom AI chip partnership, boosting foundry push &nbsp;&nbsp; CNBC",
+      "query": "\"Broadcom\" acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "demand"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Samsung Electronics and Broadcom Expand Strategic Collaboration Across Memory and Foundry Technologies - Samsung Global Newsroom",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPbUdrUkV2cVNSVnV3Q0ZDTkhTMy1RYU1EWVhiZ29TR3BTcmkweWxvRXFReGtUUkx2c1l1aTBLeU5PZnplU1ZXY1hwV1pZTVhwbDVuRXhoM1pSdElaX2lFTi1rY1FiN1BwT0Z2dGtPV0g1Q1A2YjJ1S0g2Q0Z5U2ZYUlBVVUJVVDVscU5KRnhrWklPR182bjhnUUROd291bkxCaXowMjRVcXlaWndRRXVua3EzV1Z3WGlvTXdlSG5mUkFuMjJ1bnNPeVFqS1RCZTg?oc=5",
+      "published": "2026-07-25T07:00:00+00:00",
+      "publisher": "Samsung Global Newsroom",
+      "summary": "Samsung Electronics and Broadcom Expand Strategic Collaboration Across Memory and Foundry Technologies &nbsp;&nbsp; Samsung Global Newsroom",
+      "query": "\"Broadcom\" acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Samsung Elec wins $200 billion Broadcom AI chip partnership, boosting foundry push - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQVVhSemYyWk9XZmJzMXhYLXFvUm1rdElNNW0zYVktUlBGVFdtbHNJa1NBX2gwSGNVbEZpbnlYVi1CcnBvT1BiZEtNSHdDSDllMTNYQXVKMDN2UEdTS2ZOb1FPNzFBMEhpRERtOXVkODJ5ZEEycTVnRXpaTzlsX2Y5ZXdmUndUakpPUlAtaHY3NzIxczd5X3k4ODk0dW9Fenk0TzlCQ2dQaml2aURvTEgtNENFNTVodmcybEVlTGQ5Nmt4Nm9LUTJNOXV2U05jV3ByVzB5cU85OExDRWlKRjlJ?oc=5",
+      "published": "2026-07-25T07:00:00+00:00",
+      "publisher": "Reuters",
+      "summary": "Samsung Elec wins $200 billion Broadcom AI chip partnership, boosting foundry push &nbsp;&nbsp; Reuters",
+      "query": "\"Broadcom\" acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "demand"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "South Korea ties itself to the U.S. AI supply chain! Samsung and SK Hynix sign $950 billion chip deals with NVIDIA, Broadcom, and others - Moomoo",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdHVka0pHbi00MW5DZnFOZDBfNXB2YmRqb3F0cFh6c0kzWGlUUmRnOUpVcFc5TVFRY2lNcFJ5ZlpkREFrVlFfWnZVY3U5bUQ2a2JjSTI5QUFJOUtYZWdpNzBPNjBsZ2RBN3ZoVkl4QTV3UEgyM2RxTklhU2EyeWVHTU5tNVhwdXdyaWJaTkZac1dMSnZIenc?oc=5",
+      "published": "2026-07-24T07:00:00+00:00",
+      "publisher": "Moomoo",
+      "summary": "South Korea ties itself to the U.S. AI supply chain! Samsung and SK Hynix sign $950 billion chip deals with NVIDIA, Broadcom, and others &nbsp;&nbsp; Moomoo",
+      "query": "\"Broadcom\" capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity",
+        "demand"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "2 Semiconductor Stocks with Impressive Fundamentals and 1 Facing Challenges - StockStory",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOWHFrMUhFek9lelh6eFpINUhTZmdOcW5zNWtqZ1RNdGZnT09ob0ctR042Y2VnTDJxZ3FFVml6Z1Q0ZWxLeEpwZVlTVndxdVYyT1R4Y1o4YmIyODhMRTdlV21FSXFfeFotbXJoMUZxWVI2UXowaG9QX1NmM0M3MFNrTDJXc3cxQmN5RVB3UHp0bkw4TW5CQ2VjdGhWRVNwMUVxeVNBZ2ZPdkxZLVJBdFB4bkNMZjJEdFB0b3JWOHRoTjM1dGdhaXk1SmdqMUFEeDN2c2lF?oc=5",
+      "published": "2026-07-22T07:00:00+00:00",
+      "publisher": "StockStory",
+      "summary": "2 Semiconductor Stocks with Impressive Fundamentals and 1 Facing Challenges &nbsp;&nbsp; StockStory",
+      "query": "AVGO competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Broadcom: Why We Keep Loading Up At ATHs (NASDAQ:AVGO) - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNMUtvdFBOVFMxSGcyYmdRMWpGM3pFTjFEMUVta2JMcVFtNTlPTzhnTGZRVHZSNUdNWjFjWktSaWF3WnZOWnJwSE1OVkc2Y0lpRW1YVlpXaTBiTHQtRG5xeFNVbnlzTkNMVmVrcnZacjlFYzdfTEZaSHRpYVYySVpaYTkyMUcxWUk?oc=5",
+      "published": "2026-07-22T07:00:00+00:00",
+      "publisher": "Seeking Alpha",
+      "summary": "Broadcom: Why We Keep Loading Up At ATHs (NASDAQ:AVGO) &nbsp;&nbsp; Seeking Alpha",
+      "query": "AVGO capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "SFR extends partnership with Broadcom to accelerate infrastructure modernisation - Broadcom",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWURQVXZJRFhMdzhibzlXdmk2X0JwVmoxUXFpUDU5WXhtbEw5NlRJdE9xMFF0a0MtdmtMa29VTnhtLVJMcGNVWllqODNVYmFRSFd2a3F4YzFXbXc3VDI0OEg0SWZ4SVg2cG16bk1ZZ1pCcVBGQ2VxVjhIQXoxUmZZenYtSV9GYlpoU21WTUZ0SjFNN05SS1hfNENNQTJNTDA?oc=5",
+      "published": "2026-07-20T07:00:00+00:00",
+      "publisher": "Broadcom",
+      "summary": "SFR extends partnership with Broadcom to accelerate infrastructure modernisation &nbsp;&nbsp; Broadcom",
+      "query": "\"Broadcom\" acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "demand"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Broadcom (AVGO) Stock Looks Fairly Priced After Its 8x Five Year Run - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPc1lTSHZDQ0JZT0xVY280Q3hzVWJqcWtwZnN2MVEwNWtnaERTRzlNMWdyNU5UMVNkT3c0YjI4bkNKb0hXUk1CaG5kRXF2dmE2V2k3ZVdaUS05Y2k5VHNYUUxJUEl6RWx0T0lpSEYwLXNfeHhUeFA2ckx2NlY5cjJlMWhTVUtGYXhZX04tX2VSYk5EVENUSFktYU5qLTZRQQ?oc=5",
+      "published": "2026-07-15T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Broadcom (AVGO) Stock Looks Fairly Priced After Its 8x Five Year Run &nbsp;&nbsp; Yahoo Finance",
+      "query": "AVGO stock",
+      "source_api": "google_news_rss",
+      "tags": [
+        "speculation"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Price Prediction: Broadcom Stock Will End The Year at This Price - 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWDF4VkYyZ2dmSER5UklYaXlRMllzbVZlS0xRRXRfdG1mRW1OMDNpdUVDY3lHWkVKNDhqazZjbmFLS3lodWRSMjd6MFcyN3NnOVpaNVlJVkFHaERHWXNreWUwZUdmM2dLMENQU3JRY3czSWJqZWlQOXBRckZMbFpHMlNPalN2ZTg5bEFwal9zSG01X0JBMlM4dG9tQ2Z2V1I3d1lnbDNrdU9oUEU?oc=5",
+      "published": "2026-07-15T07:00:00+00:00",
+      "publisher": "24/7 Wall St.",
+      "summary": "Price Prediction: Broadcom Stock Will End The Year at This Price &nbsp;&nbsp; 24/7 Wall St.",
+      "query": "AVGO analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [
+        "speculation"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Broadcom (AVGO) Price Prediction: How Much a $5,000 Investment Could Be Worth by 2031 - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYmNnWWkxMHNTNzFNM05RdUFNYThJT09XeWtOeUE4OHhTck9YWVU4TllBc0tXRzcyZTh1dmh1M0V0SkNpbWdwTHpfWmNfMjJaNDlPZTd4N1BLU1kyTkNkZk9DdnU2NVltQ1UyRUZxSGg5c2M2d0lfaTluSkxjT2RKNFFGRm12Z2lhd0JfZ2Z0Z3VUSVVUQW1HbVctay1GR3Qza0E?oc=5",
+      "published": "2026-07-15T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Broadcom (AVGO) Price Prediction: How Much a $5,000 Investment Could Be Worth by 2031 &nbsp;&nbsp; Yahoo Finance",
+      "query": "AVGO analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity",
+        "speculation"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Broadcom (AVGO) Faces EU Antitrust Review Over VMware Licensing Changes - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNOTUzSDlLR1JTeVBnRlRmbndCcUpDQUZQRktMTWJyTl9Od2E5T3VXTzhZSzFJcDNhWEtNYTFSRXdnMGkxWHp3YWxYMlI2MkpsR05lNndTQ0dnMnYzZWFGNzVpdDNhUlZJNGJ6b25KYXNEVmFzMkNGMHBDbUpIVms1dWU1VkFpOF90emJtSXYxWTViNTVEel9CR2hyZWh0QQ?oc=5",
+      "published": "2026-07-15T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Broadcom (AVGO) Faces EU Antitrust Review Over VMware Licensing Changes &nbsp;&nbsp; Yahoo Finance",
+      "query": "AVGO lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Five cloud business groups urge EU interim measures against Broadcom - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTURWRG53cnI1MGZMZWVfZ2N2UE82SWpMcFpwTXd2Y0NRNU1lZV9uQ2VmSzZoQnpwQ1J6Q3Q4MlVTV1NFbTU4cjhDZTZDckVUczZodHdwbDRNYXRiRlpxTVBmQUlZZjBIS0dRLU9IVEk0YnJxUzhWQzdrVXJ1eHg2RzE3QnIzMEotX0VhY0dPWWxxSnprTzZnaTllMkFRY1BHLUZWTzh5Y2FqTnc1Y3ZsR2hvM3NvSnZIcWhlS0N3?oc=5",
+      "published": "2026-07-15T07:00:00+00:00",
+      "publisher": "Reuters",
+      "summary": "Five cloud business groups urge EU interim measures against Broadcom &nbsp;&nbsp; Reuters",
+      "query": "AVGO lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Why Broadcom (AVGO) Is Reinforcing Its Long-Term Growth With an Extended Apple Chip Partnership Through 2031 - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVlNocmZGbHd4ZGtxRFhacXNyTTBBY2NsMnVKQnNiUUtIUE1rWXFpY01fR3h0Z1lGaG42YThRTEdFeXktNXR0ZTk2TnVaS2VGWUdiYmszclR0ekUwNGZoV0U4bk9haGtwTmcweUxsOExlUmxMVmplMGxsZHZFeUQyMnp5Z2JVLVV1a3pBUlR1SGt4R0hCZDZPazZfYW0xMDA5?oc=5",
+      "published": "2026-07-15T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Why Broadcom (AVGO) Is Reinforcing Its Long-Term Growth With an Extended Apple Chip Partnership Through 2031 &nbsp;&nbsp; Yahoo Finance",
+      "query": "AVGO acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "demand"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Apple Heads Into Earnings This Month With This Analyst Seeing Margin Expansion, 16% Upside Ahead - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOdjFZRXRkNG5oa1VVVWV2eDc2MWp3TTBJdXl6RGtKU2JLVVlERW92MWJMcTQtRnRYVjJ4UmtwUHIzcjhfM0p6R3FOVUo2a3FqVUdETXlVMGtMVXNqdkJ5cDl6RFFSM1MzYjBGVXlvM1B6TFJHVzFVR2x2bjVYUU1MV1dvNDJYbUw4ZzJPNktveHBmSkJPQlVIdFotZjlLYld3Sks0WlRnQWhRcmFHbTRhakhuMDBrZ2Q2WE9fY2o0X2VSTXpoaURqbERaNUFpNWZPZU1oMlJIbnpYanFZcXg0MFoxN0tSN2hERmJR?oc=5",
+      "published": "2026-07-13T07:00:00+00:00",
+      "publisher": "TradingView",
+      "summary": "Apple Heads Into Earnings This Month With This Analyst Seeing Margin Expansion, 16% Upside Ahead &nbsp;&nbsp; TradingView",
+      "query": "AVGO lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "capacity",
+        "speculation"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "What Broadcom (AVGO)'s Extended Apple Custom Chip Deal Through 2031 Means For Shareholders - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNkR4anlvODlCdksxQ3UzaGgwTVctN2JIbDR3ZGlmM3VKaVF2ZGdnWjlua3NOMmJRVW1YQV9YUlpaOWVjNENwcWcwcXRqeHNibEZkNVpQcVFEcWxZUnJMT3plRHpRMEJFV1M5NUFTOWh4ZU5TOWFuOTVQTWtoZkNFY25oZkxtVU40c25lOVZDdTVQX3lmWDVGNnRsYl8?oc=5",
+      "published": "2026-07-13T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "What Broadcom (AVGO)'s Extended Apple Custom Chip Deal Through 2031 Means For Shareholders &nbsp;&nbsp; Yahoo Finance",
+      "query": "AVGO acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "demand"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "What Is The Market Really Expecting From AVGO Stock? - Trefis",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOb2dHczBSODB0RUx5NW5pS0FBakRlaVpwcWUxNDNtRlMzajhiMnIzTmRsbVVQVmFiLThCQWJCZm44NWhkS0tqZkpIVTJBY3NqX3g0NzF5eXJmZ3FOQ2djT1FkbS12d2JLYmlwd3BuT2xYQ2lDSC1Kdzhla1JLcldlbVIyUnUzT3ptS25LTmpORGJVNU96RHdkclhNY2lkQXNOTldaSlp3X0JobFlBNW9EMjZKQVE?oc=5",
+      "published": "2026-07-10T07:00:00+00:00",
+      "publisher": "Trefis",
+      "summary": "What Is The Market Really Expecting From AVGO Stock? &nbsp;&nbsp; Trefis",
+      "query": "AVGO stock",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Apple vs. Broadcom: Is Either Stock a Buy After Their $30 Billion Chip Partnership? - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMFY0dnlKcEVGUTE2RE8ydFQ0UUs1aERNWXlsMjZ0cTJLX0FRdGVpN1IwMUtvTXNncUZET1pkUE1PQ0lBbDN0ODBodUFwdWItN3MtTzlVeEppR1pGRVM3RUlTSHJUa3F6Y3p5RkdLeEtHQ3d5ZW9iU3JuVTVxS2Z1bml3T3ZNTDRsbmpNVlN1SDBpMFFQTHd2cGU0dw?oc=5",
+      "published": "2026-07-10T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Apple vs. Broadcom: Is Either Stock a Buy After Their $30 Billion Chip Partnership? &nbsp;&nbsp; Yahoo Finance",
+      "query": "\"Broadcom\" acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "demand"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Why Broadcom Stock Rallied Thursday Morning - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPM0NpTjhkZThjUXloeEV4ME05cUhLQmZJX08yMmxFSlNFNVl1d0NrZ0xhcGExdkJxNnFZOE1vQnFyQW5tN2Mya2xOWDhWVjZtMEJxZEpSNGF6N2VwWXJyLXpNVkI5Mlk0X0dJejRhNkltMEZ5VTQwdUprZDR5bkxFWGNIMVVtWVpkdUc4TzVMZ21Bcm5FVHgwWVZsc2plUWRZSEE?oc=5",
+      "published": "2026-07-09T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Why Broadcom Stock Rallied Thursday Morning &nbsp;&nbsp; Yahoo Finance",
+      "query": "\"Broadcom\" stock",
+      "source_api": "google_news_rss",
+      "tags": [
+        "price_move"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Allstate accuses Broadcom of auditing it because it quit VMware, CA - Ars Technica",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNRHhtb1dfVXFGT0hBZnMtbW1DZ09CWktSV1ZwaHg2QVdvYVptc04teG9SM3dseDhPTVlnUURQUDdJYXhxSnRwQi1DaUJMdWZ1cXhRZ0U0enA4UURQVjNWeUs4OUZhR3RDZzNBalFlVFBTVURldlpZQUx2RlNHN2JXdzdrVFY4WEI0UlpURUNPV3dpczM3d1RqN1hfTGkyWTJfejBNQWtoOHpaNWR2UVZzbElaWEpDdjFYLTFZNGpNVQ?oc=5",
+      "published": "2026-07-09T07:00:00+00:00",
+      "publisher": "Ars Technica",
+      "summary": "Allstate accuses Broadcom of auditing it because it quit VMware, CA &nbsp;&nbsp; Ars Technica",
+      "query": "\"Broadcom\" lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Broadcom Stock Jumps as Apple Expands Partnership With $30 Billion Chip Deal - TIKR.com",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE81Y2k0T0NCV19XTTFxRmJxUk84TVJkUGpxaEdZNUZIeWxjcll3MWFmbllWVG1vYl9VWDBsQnpDLWE5VnVlRnBVdm1fYjJ1SVVJT0ZhV0N4dDNWTG1oYXJzWkw3VmtVcFZKTTZXNEhsZGREbnVsTkNTOQ?oc=5",
+      "published": "2026-07-09T07:00:00+00:00",
+      "publisher": "TIKR.com",
+      "summary": "Broadcom Stock Jumps as Apple Expands Partnership With $30 Billion Chip Deal &nbsp;&nbsp; TIKR.com",
+      "query": "AVGO acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "demand",
+        "price_move"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Apple, Broadcom pledge at least $30B to produce more US chips - Manufacturing Dive",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOOVlPTTR3VXRpMDlKUWtub2FYeHBwb0kwUUNIelJEYjQ2MDMtM1puazJIemZhVS1qMDQ5V2pZTGl5dDBmdk9aaURzYXVQY0xrVmFPaldxVnlZOTFsREwwcFA1cUNFeUkzV3hucmJyMHVoWTlDc3NyUkp6c0lQYlpMLXJiRXhHdC1kbkhOcjZsQTA2eVItVWN2RnRMaFdNZ2UzSGc?oc=5",
+      "published": "2026-07-09T07:00:00+00:00",
+      "publisher": "Manufacturing Dive",
+      "summary": "Apple, Broadcom pledge at least $30B to produce more US chips &nbsp;&nbsp; Manufacturing Dive",
+      "query": "\"Broadcom\" capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Why Broadcom (AVGO) Stock Is Trading Up Today - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTzAxUGlCZHZiWGo1S3NlZWszdWE2cGJQU2hGLUYzQXhWRlJmWDlmLUlIaFdVOVlQanRrbl9Nd21WMktVd1huOWVVRkpiVzM3ejYtQ3BCelZsc3lTS0FLOV9QajRwcXdKajVCR2RudWZ6eUlZbk9mNVlSV2daY2taM3lKZmc5SDgzcGdUOGM1UmJUaG5FYms5QjI0djM?oc=5",
+      "published": "2026-07-08T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Why Broadcom (AVGO) Stock Is Trading Up Today &nbsp;&nbsp; Yahoo Finance",
+      "query": "AVGO stock",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Why Broadcom Stock Fell 15% in June - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOT1ZZZnhYOEswZGpRcDVGbGQ2NHFpVmZhWDVGcGdLNlRYOENodV9jTnlEWWFhUDZydklCb3J1NXFCU1dTdnd5Zkoxbk9PaVp4NWpzN29mTl9ndTdVZGhLeW9fU0pCaUhLTWxObDFVaDJDRmx6NVBxcWtrYjZoakdkOUpPSVJ2SXZQSHo3eEt0ak9oanJyOWc?oc=5",
+      "published": "2026-07-08T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Why Broadcom Stock Fell 15% in June &nbsp;&nbsp; Yahoo Finance",
+      "query": "\"Broadcom\" stock",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Apple and Broadcom Extend Deal: Should You Buy Broadcom Stock Now? - MarketWise",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE53SjJrYURINTBOb1FZeE5VVkFaaGdpeFVRZG5PRHpYQnREbU1ua3g0VWJDSmx5ODRORTJKUlhmb0ZTanh4MnRsZVZQZllKQlMxY0xHOXNPUy1JNHhlWVY2WV9mRy1ydF9MZE4xQlhxYmEwQUhwdEx1UTFn?oc=5",
+      "published": "2026-07-08T07:00:00+00:00",
+      "publisher": "MarketWise",
+      "summary": "Apple and Broadcom Extend Deal: Should You Buy Broadcom Stock Now? &nbsp;&nbsp; MarketWise",
+      "query": "\"Broadcom\" competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [
+        "demand",
+        "speculation"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Apple expands Broadcom partnership with more than $30 billion US chipmaking commitment - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZGJmSUtKUkJkWkx5T3NTMUYzMU1ZX3NJcU4wT2ZtMXoxWEhzUGs3Mk91Q0FtM0wwbWRrT3FQN0NZUGs5RlpvWmJrclh6S3lGMk1PWnlvLVc5WmFFY3Z0alpzc0hMV1B4WDhDUEFJZWliS0hOTE5pUHVRTHltUnlpT2dMVTBVU3R6Ukl3eG9fTnBOc3B0blFQVW90QkdiSi1ERFE?oc=5",
+      "published": "2026-07-08T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Apple expands Broadcom partnership with more than $30 billion US chipmaking commitment &nbsp;&nbsp; Yahoo Finance",
+      "query": "\"Broadcom\" acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "demand"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Apple commits $30 billion to Broadcom for U.S. chipmaking push - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbWhWTlRTbkhHM3Y3ck54dVhEYUY2UnZIem5XNlVRZG1mRG8wMXlkRXZmN0NzT1NFbG1MVTJpTDZudVFEZFM4cTV3NG40WHZiU3N6a2pwYkNWTDd3T2JGUEp2Q3YzSmM0T0pCRWxlVWpyNUtPc2pMN0txZXRveHBiaENrYlRiUVdJd0dBNjBvREUyNXNCRm1xOTViNWzSAaIBQVVfeXFMT0RYV0RWVU0tdTgyN21OaDNPelNTS08xZ0tWOWo4a0doSXhDQzBiOF9SU05YR3EyeGk1ODVOQTAycEpQTHR6VEhMb3A4SDNMNmdlTXlqajFlLW9meGpIY0ZwVUF4QnNJSjNzNUpHSl9ydHVBazRGMHVoeU9xZWlxQ204VUI0VW0wd2RYTEx6U3Fsc3B1dDNROFhuM25BX0FnVWJ3?oc=5",
+      "published": "2026-07-08T07:00:00+00:00",
+      "publisher": "CNBC",
+      "summary": "Apple commits $30 billion to Broadcom for U.S. chipmaking push &nbsp;&nbsp; CNBC",
+      "query": "\"Broadcom\" acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Broadcom Stock Jumps on New $30 Billion Deal to Supply Chips to Apple - Investopedia",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZnViWUlEOGI4b2ZXTEp2X2wtVWkyLUFqekJLRjlJQ2xlOVdmMDIyTmpPLXp3dURtRjFRRWpRYWZFYW9sQnI5WUM3NjBYUlQ2VTM4MjB0T1FkdVZGVTFac2RVUm5QeFhCSlJTdWVhT3Z4ZU5uQmNiYVE5d1VOQWtiNUhpR05OZllqN3p2TENLa0Q1c09JMDYya1RjdGZxVXlhenROaHdjaVdqRGVWbWxVMEdhUjZtTDdUYzFz?oc=5",
+      "published": "2026-07-08T07:00:00+00:00",
+      "publisher": "Investopedia",
+      "summary": "Broadcom Stock Jumps on New $30 Billion Deal to Supply Chips to Apple &nbsp;&nbsp; Investopedia",
+      "query": "AVGO capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "demand",
+        "price_move"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Tim Cook's Final Move as Apple CEO: The Biggest American Manufacturing Deal in Company History - 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQeDhUVFF6WTJmdzVGbmhsd2FvTFFOUGo2Z2pGckV6YnhLWDRuX0VHdXY1RkREamxJSFpFM1RLY0xkUzE3MnFNTnpHcU1YeFNrLWswbU1sRUtLS0FEWGFzTm1fei1ETmtsUHJuR1JkR1ZvU25GWFRMWjZsdF8tUzlqZVkwQzF1ZkhJTVkyWkM0aWMxUWFVRXpEUUdkNHMyNTR1WFF4RE8yMTdKVmNFZHdYSGFLTmliWlAxX0liYTd0QXZ6M1hKSmp3Zmx3cWhmSFo5VlE?oc=5",
+      "published": "2026-07-08T07:00:00+00:00",
+      "publisher": "24/7 Wall St.",
+      "summary": "Tim Cook's Final Move as Apple CEO: The Biggest American Manufacturing Deal in Company History &nbsp;&nbsp; 24/7 Wall St.",
+      "query": "AVGO capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "management",
+        "demand"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Apple turns to Broadcom for custom chips - Supply Chain Dive",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQc053TnRBcndLdDllems2VFp4U2pscWM0YVpHS0pNRGd5czFoWWdnemNQUTdWczRHOTdseUVNUUpuM0Y3TkxtWVNPZVkzNmhsRXRsT2VRNXdpWk1tZWMzaGZueVdoWE5OVFVuLVZzUnhzYW5LaWozTW8zSDhXT2J2eTFvUTlTUXRLeW5vbUtR?oc=5",
+      "published": "2026-07-08T07:00:00+00:00",
+      "publisher": "Supply Chain Dive",
+      "summary": "Apple turns to Broadcom for custom chips &nbsp;&nbsp; Supply Chain Dive",
+      "query": "\"Broadcom\" capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity",
+        "demand"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Apple & Broadcom: US$30bn Deal for Billions of US Chips - Technology Magazine",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNWxGeVp2eGRNdVBsTE1LX1g1VTQ1YkJQaHZmNDg4UnZsaU5NSzJ4X2J6QU5Ic21WYU1MMEhIamhoMWgwaEVCQ3FBeS1PQW43dXdsTGttaEc5a05ITjNya0RPY0tjR1EtYXUtSTh6d2RuNmtVSU1NY1ZlSzFvUlFxVldzX1B0OEE5OTk3bFlWN05WUFdtTENLQmE4OWFTbTUt?oc=5",
+      "published": "2026-07-08T07:00:00+00:00",
+      "publisher": "Technology Magazine",
+      "summary": "Apple & Broadcom: US$30bn Deal for Billions of US Chips &nbsp;&nbsp; Technology Magazine",
+      "query": "\"Broadcom\" capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "demand"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Broadcom (AVGO) Extends Strategic Partnership With Nationwide Building Society - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRjNndExMRVdEWldNM3JBc0poTXBjMEpxazZKRVN4anBCSHAwVEdoTXM0c0xoWWxSZ1laWUh6eHZGc3NkUkFZdEozTUJxY1pnczVvXzNPc0hNclNLQ3c5cnFEeHpiblppY3k2Z0dZZF90Y0NKYXlJZHRkYXZOVms3Q3p4cDBVZ3RmY05XQ1hyVjNtczJGMFBvZFRkcU80M3c2TGRncDVHaw?oc=5",
+      "published": "2026-07-07T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Broadcom (AVGO) Extends Strategic Partnership With Nationwide Building Society &nbsp;&nbsp; Yahoo Finance",
+      "query": "AVGO acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity",
+        "demand"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Apple Spent Years Insourcing Chips. It Just Locked Broadcom In Through 2031. - MarketScale",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVU9odngwR2NKVFR0U2hpNldOdS1BSERQcXd6SjFXbWxTRm1NNFNaZGk1MlBjZWl6c0IwdXFTbjJzMlpyZ1FLc081SlRQcWNod2Y5WkR6WFh6Y2c5RmlsSlpsdHY4OHB0emttV1lhWExyMzNyTk1uYlk2RXJKa3NUQUNGc0trWm54a0lqQ0hEVEZsR3pxN3E1eVF1S3Jxdm9heUNpbVNJY24?oc=5",
+      "published": "2026-07-07T07:00:00+00:00",
+      "publisher": "MarketScale",
+      "summary": "Apple Spent Years Insourcing Chips. It Just Locked Broadcom In Through 2031. &nbsp;&nbsp; MarketScale",
+      "query": "\"Broadcom\" capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Broadcom Drops 9% in a Month: Buy, Sell or Hold the AVGO Stock? - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZUZyZnkxR1Y3VmR0TDN0VVNjZTY0U3YtYzRKMEo5WV9SdkdPSUsyOG5IS3hXdldpblR2MHFwV3phcTRZS0V6YWhTa3plU2xvLUY3M0lVYmtZSndNbGx0ZEZXaHo0c21WNkNnbjA2dHpXSXhlUnZpUDYtdG9FdHNFR2hMazhIaEk3a0s5WUd2WWNGNVZmRHdBbTV5Q2ZBdEFlVmFIZ3FFNERBWWpZcGJUOGJCclEwUQ?oc=5",
+      "published": "2026-07-06T07:00:00+00:00",
+      "publisher": "TradingView",
+      "summary": "Broadcom Drops 9% in a Month: Buy, Sell or Hold the AVGO Stock? &nbsp;&nbsp; TradingView",
+      "query": "AVGO capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "negative"
+    },
+    {
+      "title": "Broadcom secures role as key Apple supplier with chip deal through 2031 - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRDdILXhtQlA4NDBFbEd3NnhQS2c2ZjNQZnFqUEVncDVWc3FWaXNJTEFoV1BualZlbW53MjlrMDdxb01TVXFjZTMwVHZpREtXemwwX21DNGlmdDd5NlJVeU83QmIxMVBXSXFtS0N3Q3YyRGdBd2RsenpzSWtUR25DZVJqbXRXVkNrcjZWcE93QmRkOERWN09ESzZtNW8xN0E?oc=5",
+      "published": "2026-07-06T07:00:00+00:00",
+      "publisher": "Reuters",
+      "summary": "Broadcom secures role as key Apple supplier with chip deal through 2031 &nbsp;&nbsp; Reuters",
+      "query": "\"Broadcom\" capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "demand"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "CPI | Japan Closes Broadcom VMware Antitrust Probe - PYMNTS.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOeUdjcGFQaTExemo1bXRieHdrYkYxSGcyYndQanBFaTNmSUUtQ0Nockx0ek9PV21SZThwaWZKaTFNTUJOaWxJVUlmbURpemQxN2lTcEh2aFJJYnYzN0RoZ29LSGtLak01elI4N1lZcHZic1VETVl2bGlSVXdXNnplX19BaUE?oc=5",
+      "published": "2026-07-04T07:00:00+00:00",
+      "publisher": "PYMNTS.com",
+      "summary": "CPI | Japan Closes Broadcom VMware Antitrust Probe &nbsp;&nbsp; PYMNTS.com",
+      "query": "\"Broadcom\" lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory"
+      ],
+      "lean": "negative"
+    },
+    {
+      "title": "Broadcom (AVGO) Stock Gets Fair Value Boost As Analysts Split On AI Outlook - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVDJSbkVOWTFTOFQyWkNsYkNITFMxRWY4U21PUlQxb2hsVUVpRmsyVlplZDlVMTJyMjE2bHJ1Z01IYTRsX3BpLWJHdksxSVI0QUd4VEJVanQySGtUZk9qeDc3VFY1S2FwaGN4X1ZrbkFZWXpuajkyNjdDMEd4aTZPMlZ0SEFVa2ZWYmtYeFV6dnF0WFluWmI2TVVB?oc=5",
+      "published": "2026-07-02T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Broadcom (AVGO) Stock Gets Fair Value Boost As Analysts Split On AI Outlook &nbsp;&nbsp; Yahoo Finance",
+      "query": "AVGO stock",
+      "source_api": "google_news_rss",
+      "tags": [
+        "guidance",
+        "capital_return"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Broadcom (AVGO) Stock Could Be A Bargain On Cash Flow Yet Rich On Earnings - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNc28wOUNxbzRuTE9rS3pCT29PU051dW9laEV0aGRjT2xqWWx3dFNLb2x2b1RiMEI0ZFl3RHVmM19MWVFuX0NDUUwyMzB5NVoyOFJSQ0k3M3NBWVJTYXptWU92QXE4MGFuNUpDdHJ4Mi13RFJUZ09waDhSc01tT0ZwbUpZVnNnZHliWU03TEI4UThVM1J2LWJOWGVmeDltTzA?oc=5",
+      "published": "2026-07-01T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Broadcom (AVGO) Stock Could Be A Bargain On Cash Flow Yet Rich On Earnings &nbsp;&nbsp; Yahoo Finance",
+      "query": "AVGO stock",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "T-Mobile moving tens of thousands of virtual machines off VMware amid lawsuit - Ars Technica",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNU3BXVVJVWk1wUFpTNWNZbmhrRTZHbno2eTdkZ01rNDBqZ3Y3NlVOTXcwY2hGdDdwa09CVG5jYndWb2hNbDA2OEZYemJaRWFOdmJHeDVlbDFVUF9hckQ1OVhGS3Ziend1RGZybWN0c2dUcUpZTm9sQktGMUpJWThlLVA2NUZ2d0lIcDBXQ0JUZHVtNXdJU09vbnc4bjZwLUtVaFdBeGtlbEljNGZNZmlWNXRpSDZjUE5RQ2FEYU1UOF84MWJhTnRZc2RoMG9CZw?oc=5",
+      "published": "2026-07-01T07:00:00+00:00",
+      "publisher": "Ars Technica",
+      "summary": "T-Mobile moving tens of thousands of virtual machines off VMware amid lawsuit &nbsp;&nbsp; Ars Technica",
+      "query": "\"Broadcom\" lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory"
+      ],
+      "lean": "negative"
+    },
+    {
+      "title": "Analyst updates Broadcom (AVGO) stock price target - Finbold",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBtQkJPMVROQU5yY0xGVFBUbGFHVkU2em9wZktFR0JhOUlVUUxYNHhxWUVkcnUtM0p5ck5kZEU2N0xZaWhrcE82OHZPWFMyYkpacnlTUEtQZjNrZl9oZUdsaWs2U25oUklnYkpfNV8zNm5VbTVBeFJfZw?oc=5",
+      "published": "2026-06-30T07:00:00+00:00",
+      "publisher": "Finbold",
+      "summary": "Analyst updates Broadcom (AVGO) stock price target &nbsp;&nbsp; Finbold",
+      "query": "AVGO analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [
+        "analyst"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Broadcom’s Stock Has Slumped Over 20% From Its Highs. These Experts Say They Would Buy the Dip - Investopedia",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQcXhxcmJrUjQ3NFBGREp1MEhNcGstZ2pCNHJlVThPRUxrUkNjVDlrdi0zNnc5T040VVBXWGNXLUROT3BudWF5NVBKaVEtdWtBaVY1ZTl0emk4Ym5GMEhrZTBMR3Z4YWFwRkk5TWtEZHRmNndpQWJoX09SZkhjdlV4UHFHUHRJV0s1TkpzTG9ZdnpIcmp6OUpMdDMteks1MGNTZkZrcVRWUllHS21pMkRENHRNbzB1bktCS3VFV3ItWFNJMkxoZVpJTGxmSlQ0S0V1NTRSa2dmOWg?oc=5",
+      "published": "2026-06-30T07:00:00+00:00",
+      "publisher": "Investopedia",
+      "summary": "Broadcom’s Stock Has Slumped Over 20% From Its Highs. These Experts Say They Would Buy the Dip &nbsp;&nbsp; Investopedia",
+      "query": "\"Broadcom\" competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "negative"
+    },
+    {
+      "title": "Better Custom ASIC Stock: Marvell vs. Broadcom - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNb2E4dU9UcnlhM3B1X29nRVl1eTZaalhkcFVEYUl1eW5RY0MtQVdYQ3J2dHB1SlRJRERlU1J3NVM5OEp3Uno5eVAtWEdMY3V5VWc2NGhFclJZNjhSVllvRmN4SlBBWTV2SlFMTmItZ0VZdEd3OTRoUjN0cXBCb095VGNwSmxxOS1nNlowRXhQX0M?oc=5",
+      "published": "2026-06-30T07:00:00+00:00",
+      "publisher": "The Motley Fool",
+      "summary": "Better Custom ASIC Stock: Marvell vs. Broadcom &nbsp;&nbsp; The Motley Fool",
+      "query": "\"Broadcom\" competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "What Broadcom (AVGO)'s Jalapeño AI Accelerator Partnership With OpenAI Means For Shareholders - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUDRYZHEzcnVVZ0cwZUVXdkZOTWZqQUJOc0s2cGpLUTZlTmJ3ZnRsaGNfQlFkMWo5YlNnTG5YbDY2WVdqUVQzc1FoWmtMMEk3MHhDSS1OUUFRbjhGaXVYSjN3bEVpTEstakxrTTVQNDRKSjNTelZKZWo1ZS1JLVBySjJBN2ZsdF9DYkFoanZxQ1ZHYzQ?oc=5",
+      "published": "2026-06-29T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "What Broadcom (AVGO)'s Jalapeño AI Accelerator Partnership With OpenAI Means For Shareholders &nbsp;&nbsp; Yahoo Finance",
+      "query": "AVGO acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "demand"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Broadcom: Jalapeno Adds Bullish Spice to Our Conviction in This Top Pick - Morningstar",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNODdxaF9sVjIzbnpnbmtheG5LTkNiNUN0enFwMldVZS1xREtNNUFWUmowNHpCWWtXY1g2UjdtMWZSTUNMMGg3Mzhacnd5bHJzb2xENUM5N1lkS3NZZUdRRVFiY2pXUnhQR3p4elAtc25lQWJWVEEwWmhfQmtyZ2pQbi1zYk1jdUg1MXJJZjctcHdpbWl1SXVZUXNRVkZOWnM3cnc?oc=5",
+      "published": "2026-06-25T07:00:00+00:00",
+      "publisher": "Morningstar",
+      "summary": "Broadcom: Jalapeno Adds Bullish Spice to Our Conviction in This Top Pick &nbsp;&nbsp; Morningstar",
+      "query": "\"Broadcom\" competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Broadcom: The Market Is Wrong (NASDAQ:AVGO) - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE00Y1NJTVE2Vm5rRFRPXzJyR1VISFY1WTN2OURBSzR2ajNJM1gwV3NYWHZHUFA2QTZQYzg3WGRMcEUxaFRJZ1FNQThQRW85YlJSNXAtZVNvZzR0MU5qMzFQMUhaVVU4WjJ2VTYxWHJZM3FHdENsU0drZw?oc=5",
+      "published": "2026-06-24T07:00:00+00:00",
+      "publisher": "Seeking Alpha",
+      "summary": "Broadcom: The Market Is Wrong (NASDAQ:AVGO) &nbsp;&nbsp; Seeking Alpha",
+      "query": "AVGO competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Broadcom and Nationwide Deepen Strategic Partnership to Power Group-Wide Private Cloud Transformation - Broadcom",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNzdSSXhzT0ZoR2xFMEtCWVk0U2prWG5mWE1NeXpQamlIYjB5Qkg3Q05zLU00TmVlOVNsYjFKdEkyUkFmWlNWbldnUUJFOVVOU2lyMTFMWU1wRERoYnV4NWZ5QVVzS2h1bVE5RlI0dGktdVY4NlBDRkxlbXNKTnlfYVhKVEk5NVJLUW04U1V2T1hqalNQVVNFa1dlMmFDUGhLWFJXeW5hUXQ?oc=5",
+      "published": "2026-06-24T07:00:00+00:00",
+      "publisher": "Broadcom",
+      "summary": "Broadcom and Nationwide Deepen Strategic Partnership to Power Group-Wide Private Cloud Transformation &nbsp;&nbsp; Broadcom",
+      "query": "\"Broadcom\" acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "demand"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "OpenAI unveils first chip as part of Broadcom deal in effort to 'build the full stack' - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNGptUXJWcHBjQnZBWDcyOC0tUHJ1WmtZcldTODgxelBmencyVU11SE15dUZGSVFLTW84eFNNa0JReFpBZ19xOE9BV2ZUSFp0b1hNa2JCRlJpV0VBRm1SMzd1WjlhdnRoMkxWcWtoQUVpUks1cGNwUmYxN1F1REROeFRrVXdJMlVVM2tBa0NmMndvZmJUT0h1VEVSMTl0LWlFN0Qw0gGoAUFVX3lxTE02Y0xJN1hadWJmbzdjcEpjNElldENrREJGa3UtQ2lLNTRsVDFTYmhfTkRGZTFqT21HLWdFXzBzYVpjVjc1X0NiVTF5SDFoa3BVbUxEZVZoZnZDZDFlU1Vpc0dCWDZFbjZiVFJVMHR0c0Q0U2JSYXZrb1FqQnJlMVFFNTctUm81QTc4aDN5NHpQQVZ3c180TGZOTGppdlZyZWNwUzExSXBVVw?oc=5",
+      "published": "2026-06-24T07:00:00+00:00",
+      "publisher": "CNBC",
+      "summary": "OpenAI unveils first chip as part of Broadcom deal in effort to 'build the full stack' &nbsp;&nbsp; CNBC",
+      "query": "\"Broadcom\" acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "product",
+        "capacity",
+        "demand"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Broadcom (AVGO) Stock Trades Down, Here Is Why - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObDFMR3hSS1M0UkN3amNXeFQ5dWhETTRVZDl3YkRVUmZsUVhzWnV6WWVVNHFPLUh2OFNSaG9NbWZpM0FIMU40bU9NNXdISFRScHFIOHRFVEVMUmZ0MGZIaHFnUlBtN1pKZXRsQi1pVzQyOGFjWTctZ2EwMEwzWFVGQ21KNUxra21HVUdldUs1QWs2bUtMb0d6M2ZqNkQ?oc=5",
+      "published": "2026-06-23T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Broadcom (AVGO) Stock Trades Down, Here Is Why &nbsp;&nbsp; Yahoo Finance",
+      "query": "AVGO stock",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Tesco offloads VMware and CA software as Broadcom case rolls on - Computer Weekly",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVGU2aDRhRU1QWTlsVWRpb1pDNGZlcExUVWZvbDc4U284T3hmekRpaGItUF9GWHFibG5oZ3B4VnV6NTFmS3BkeFN4STdwWDRsWk1ma1JNX3FQeGRWemFka1N5dndUZWc2Mk15bjF2MTRDUDhabXBnV0tRaXJOMmtjemlZcmozRTNBVUxYazd3emhrQURxUFFiaEJ0YndtOGlLdUxnTjIyUHIxd3N3VEE?oc=5",
+      "published": "2026-06-19T07:00:00+00:00",
+      "publisher": "Computer Weekly",
+      "summary": "Tesco offloads VMware and CA software as Broadcom case rolls on &nbsp;&nbsp; Computer Weekly",
+      "query": "\"Broadcom\" lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Tesco UK supermarket chain removes 40,000 servers from VMware infrastructure — mass exodus continues due to Broadcom's aggressive subscription model - Tom's Hardware",
+      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxOdEdFb1hlTllyT1Q5S3oxSW1lc1dOX3I3ME9mcURDeEpXSnpEMGpESTE3TjIxWXlqckU4d1d0NFRuRVRrR0lmSGxXTnlzdkdNcjMxQVRsUjhsZGM4cVF3SUJDeVNZY0NPV1pMeGpQOUhnYXJtb09SdmJ6TjRWaGNEdlZQQXB6Y0tNUy05TXQ0ZGQ2dGdOQ3JVMGdBTXhBUkVrZi11ODlLVTIzY3Fka0xKTFNiaFYwcUNJcjNxM28teXUyU3NYNVJuRlNWWjdubWhrNEJWWGpJcmFSelVVRi1SNVduRGRGMlZ5Wl9GSmhQY3huM0hGbXNxNFpOMlgzM0dkZE1vRnZrT290cC1uYzVUMlZfT1k0OFNGVnB3?oc=5",
+      "published": "2026-06-19T07:00:00+00:00",
+      "publisher": "Tom's Hardware",
+      "summary": "Tesco UK supermarket chain removes 40,000 servers from VMware infrastructure — mass exodus continues due to Broadcom's aggressive subscription model &nbsp;&nbsp; Tom's Hardware",
+      "query": "\"Broadcom\" lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Netlist sues Samsung, targets Google and Nvidia in new AI memory patent fight - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMGw3b2xzcWt1X05iVWh3VExWd0ZCOGcyVWFWUlAwTHozXzFXZm1TOHhsUktaY2RVcHBLaV9FekN0Y3FvTlVNRU5jLU1NY0dhWDZacVhQaUVlaGU5T0VlVlU5RUkxSlVOOUFVU3dIcl9qbXJrRkI2Q28yOTJQUkE3SFpkV0M2eUlZWXYzbVZselI3NFZXSURiVGNCSi1aRTU2S3EtOHlJTFQzZlNDZHNxWVVOUDc?oc=5",
+      "published": "2026-06-18T07:00:00+00:00",
+      "publisher": "Seeking Alpha",
+      "summary": "Netlist sues Samsung, targets Google and Nvidia in new AI memory patent fight &nbsp;&nbsp; Seeking Alpha",
+      "query": "AVGO lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Why Tesco is Taking Broadcom to Court over VMware Deals - Cyber Magazine",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQOWRFc0NDOWdXOThIbnFuRnJGMnZUNllpSGRUQllib3VJNkVPUWE2VWFPQjJjRkd2NGU0MklNN240eG5tNUpNLWZIS09Wb0VrN0Flam44bkI2Vi03Mkd0STFFWUc0SnR4OXdpWWFOMVRWdnlRM09mb0FkbWY4SDRSQU9kUEgtd29UYlNCWA?oc=5",
+      "published": "2026-06-18T07:00:00+00:00",
+      "publisher": "Cyber Magazine",
+      "summary": "Why Tesco is Taking Broadcom to Court over VMware Deals &nbsp;&nbsp; Cyber Magazine",
+      "query": "\"Broadcom\" lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory",
+        "demand"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Today's Analyst Rating | Broadcom Price Target Raised to $580 by J.P. Morgan, Micron Technology Price Target Raised to $1200 by Citi - Moomoo",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSHotMlltMldOMzdYYUJKYnlEaE5WLXM0NXRKVG1UenB6S3R5VDFaaWxQVFhYaHN0MG5mMXdrV0xQMmlsR01hSHNWd1hqYXBYalFhRUFCdi03WkdubmQ3Y3pRUHVJZXZ2aTd6THhEUTlMOVEwYzQ1OUhkd2xfbUMtU1dvR2JzbGRaWkY4QUM2U1ZKeTlmYW5LWDhLOHoya0F3Y1E?oc=5",
+      "published": "2026-06-17T07:00:00+00:00",
+      "publisher": "Moomoo",
+      "summary": "Today's Analyst Rating | Broadcom Price Target Raised to $580 by J.P. Morgan, Micron Technology Price Target Raised to $1200 by Citi &nbsp;&nbsp; Moomoo",
+      "query": "\"Broadcom\" analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [
+        "analyst"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Prediction: Can Broadcom Shares Hit $550 in 2027? - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZGtOUU83cWM2UTN3MzZjU2RzNWdUbVAtdk9iRUVNT1gtZ1ZRVi1QZ3BTUklwb1REOE1tR3pZS19wNDBaWjlRRWg0dDhqSGJ1UlFLYWlmdzUtczM5Skt6b21RaTc1VEwyN3ZWd0h1T1hFTnY2SXJGRE1WZHFkTHJLcjNZNFZvSFVndldLQ3JpMFhfcE9aM250dFM4dUQwMU1U?oc=5",
+      "published": "2026-06-15T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Prediction: Can Broadcom Shares Hit $550 in 2027? &nbsp;&nbsp; Yahoo Finance",
+      "query": "\"Broadcom\" analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [
+        "speculation"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Results: Broadcom Inc. Beat Earnings Expectations And Analysts Now Have New Forecasts - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMmFiaEl3N3M2MVF5dk1aNGlFZXVfeDJOMlBvU0xnbEw0SzY4OTJHSUFXTV9sVWFzZzdCY24yQTFYS29VREdXNmJPMUJmaFZQTzFZUzNGUElJRE5SVEp4UFVXOWZibnRGOC1aS1dCN2ZSU0hLamtHV3N2NHg4Qm5yN2xYcmQ1VFQ1UzRuYWlhbUFDMDBYM1FkaDFXS3pIMjBk?oc=5",
+      "published": "2026-06-12T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Results: Broadcom Inc. Beat Earnings Expectations And Analysts Now Have New Forecasts &nbsp;&nbsp; Yahoo Finance",
+      "query": "AVGO revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "guidance"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "After Earnings, Is Broadcom Stock a Buy, a Sell, or Fairly Valued? - Morningstar",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMEx5bHN1YUhaNDNSNFpUX2JENVJIeFJoRnNvQUx0ODd4UmVKclh0aDBMMkx6YlM5ZEpZUlU1ZENpQXdaM25MNk5TcUM2VURYY3dtWFJJR2V4aWtEYzB6SlJ1c1d1WHhCeWt6VTJXeHNic1h0ZkJOS1pIaWdFcTg1NGx2WXZJNEs3bHdTVzM4OTVvMlJjemYxS3drNA?oc=5",
+      "published": "2026-06-11T07:00:00+00:00",
+      "publisher": "Morningstar",
+      "summary": "After Earnings, Is Broadcom Stock a Buy, a Sell, or Fairly Valued? &nbsp;&nbsp; Morningstar",
+      "query": "\"Broadcom\" revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Why Broadcom (AVGO) Shares Are Plunging Today - StockStory",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOeEFhRnlSWnlVQnM0VF81UXZpdjFCU2J4MFFLeU9kWTM2THduR0wyQk4zdFM3QXRqR1Z2Qm5GMnM0YlNBMzlQM3VyU2t1Z0c1dkw3YXBwR2gySk5Vdnh2azBpTDVsVHY2Q3NDMHR6MW1SUVliZ2hzUHJDX19Wc2s5Qm92bWhSNGZCbGw0SkRvMWRFQ3dIRmtoQmtBTDNPWnRaWGdPbF9PeGk0WlU?oc=5",
+      "published": "2026-06-10T07:00:00+00:00",
+      "publisher": "StockStory",
+      "summary": "Why Broadcom (AVGO) Shares Are Plunging Today &nbsp;&nbsp; StockStory",
+      "query": "AVGO competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Price Prediction: Will Broadcom Stock Hit $500 This Year? - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTEJNSFUxTEs3aEFSNURiUEhOQVlsX1hsY3RHWkJaUjEzOVRYdnR3eFhRMlpHWldzRUl5ZV9qMHVlSFpIUm52RHpvVVl4VEZsbjJFZjBTQWg2SEhxZXlVbnAzN0hzNDMtck9Eb00zRzhlOGNOd0FtMVktb0ZLblR6eHktOXV6R2d0dVhWWTBkWkg5dElpM3d2SURRUmdBcjVTZFE?oc=5",
+      "published": "2026-06-09T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Price Prediction: Will Broadcom Stock Hit $500 This Year? &nbsp;&nbsp; Yahoo Finance",
+      "query": "AVGO analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [
+        "speculation"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "JPMorgan resets Broadcom stock price target | AVGO - thestreet.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNLWlPZjktRjZUczc4OVhSMl9GaHhEeTdKb3RfZmVpWC0wU2gwX1BoTGpiX21EM25FbnZiRE1sTXNYeUltZE9nYzhqYmZKYjI4ai1WUVhPUnlOUU5KNDFpVkVaY0x6c0dvUzdPc01LTzk3Yl9BVzVVMDg0WFNDRGl0ZWhpNXBKdkxBSUZCTUVXZlNqU2FoS0E?oc=5",
+      "published": "2026-06-09T07:00:00+00:00",
+      "publisher": "thestreet.com",
+      "summary": "JPMorgan resets Broadcom stock price target | AVGO &nbsp;&nbsp; thestreet.com",
+      "query": "AVGO analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [
+        "analyst"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Broadcom: One Of The Most Interesting AI Opportunities On The Market Today (NASDAQ:AVGO) - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOa3c3X2tBaDNRczZVcnFZZEszT19CZ0lvTXlucVJjUFFVV1ROQzRUOFJfRFowS0xTdXlQQjVjdlp5MWcycWQ3SUwxVXk1Mk51YXpDdFRJX1oxMkJVS3lRNURIMDdNT2pCWC12T1NPWlppcmJIc1A3REV5ZEdKUXF3VnA0Ti1UWG12YVd0ZENTWWZzOEJrekNiVUNyOEZNNWtMN3paMC1WWWhlaE9IckpVUjVZNXU?oc=5",
+      "published": "2026-06-09T07:00:00+00:00",
+      "publisher": "Seeking Alpha",
+      "summary": "Broadcom: One Of The Most Interesting AI Opportunities On The Market Today (NASDAQ:AVGO) &nbsp;&nbsp; Seeking Alpha",
+      "query": "\"Broadcom\" competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Broadcom Stock (AVGO) Opinions on Q2 Earnings and AI Guidance - Quiver Quantitative",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZHhxY2NZVndNbXZHWEhsTVNOR1JhSWpyVGF1aXZtOEV3bGpZTTRQTXZnRnZnUXh0OGdoNGtKVjJoTnJLemF1N210UXFwWjBzZlBpVGtMN3BwTkJJMWJkUHZlaElWSUthdk44V3VCelY5ckNSM1dzb0doNlE3dC0zemNEamJxOVFDX1V4dkRaLS1DV1NNS2hFRlVB?oc=5",
+      "published": "2026-06-08T07:00:00+00:00",
+      "publisher": "Quiver Quantitative",
+      "summary": "Broadcom Stock (AVGO) Opinions on Q2 Earnings and AI Guidance &nbsp;&nbsp; Quiver Quantitative",
+      "query": "AVGO earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "guidance"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Broadcom: The Market Overreacted To The AI Guidance Optics (NASDAQ:AVGO) - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNaUlRM0txdnM4d1laanlEZ1NUbTU1TlFXZFpRaGxnMmlXZ0dmOGl6Y3RXQnpPUU5FVHV2RnFubk9Uc3JFNnBGek0xQjZGaHV3WldZTndUMURGR193NFhESV8zV3Z2aDZlS1hLZlZtcEd4WE5FazFac2FVMjNSS19PRXJZemZoanBZeXpaRDhLQWNCeDV4WU9rY2NtWU9jdw?oc=5",
+      "published": "2026-06-08T07:00:00+00:00",
+      "publisher": "Seeking Alpha",
+      "summary": "Broadcom: The Market Overreacted To The AI Guidance Optics (NASDAQ:AVGO) &nbsp;&nbsp; Seeking Alpha",
+      "query": "\"Broadcom\" earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "guidance"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "HSBC Raises Broadcom (AVGO) Price Target on AI ASIC Growth Outlook - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZnRwSWVrdUFZNHd6THVpRVRYaG44WGd5aXhqWHdKd1JmZHZyMVBudkxWc0ZqRUhISlZaaHRQcngzMTVPMS03SVk4VU0teUlaYnNYUFVyN1hJSGhBTFhKNDV2ZG1MSC1CZ00zQS1IUjN2MFMyMzg0cTItUUJqVmprSXhBZFUyMTZOemtIN25ra3BfRlBTMXVwWk5GSTk?oc=5",
+      "published": "2026-06-08T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "HSBC Raises Broadcom (AVGO) Price Target on AI ASIC Growth Outlook &nbsp;&nbsp; Yahoo Finance",
+      "query": "AVGO analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [
+        "guidance",
+        "analyst"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Broadcom’s Post-Earnings Slide Highlights These ETFs - etftrends.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMnBha1pZZmhndmJ2X3I4SE1iYVd5MjRkem1wYU5kNUNkRGd6c2EtOHhhNWowMVBubk4tb0VvT0dGdnRHRWUwSW8zS3VoaENTMnduUlRUVlozX2g5TWl2Q2phVldfX2dWV29UYWFvR1F6NW44Rm9TSG84N0tEZVQ1cV84N01QZ2VCZmNEVjZTaVFEUDAzZEJGZlJ0dlR1NV9ROUNN0gGoAUFVX3lxTE9zVWY0UlJpMFFGaWp4ck5ZejMwbW5mOHRidnc5TDVlSjFoSHNXVEM0X1I0Z2lHNjJNTF9RMXhON1RHMUIybGExbVUxUnlIZjVYZ1V0MlRoNXp2UDFiR0pTazJTQ2E0LXJ2dFlQanR0ZnJwU19OTGNZd3c5d0JiSl9oVlRjZUdpRFRGaUU5UDBlVHFYNEEtNmEzNWxwVzRkdlNNejk1MVhrVw?oc=5",
+      "published": "2026-06-08T07:00:00+00:00",
+      "publisher": "etftrends.com",
+      "summary": "Broadcom’s Post-Earnings Slide Highlights These ETFs &nbsp;&nbsp; etftrends.com",
+      "query": "\"Broadcom\" competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Broadcom Sparks AI Stock Sell-Off Despite Strong Jobs Data - forbes.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNOU1VVUlKQTZrYWVuSk1lOENNMXN3T0dRN3JQdW9VaEpDa3N2S1pkUENGUkpBVzltc3FXajJNVXNfLTYtZ3lJaTh1cVlMWV9BaDdLeG5abVMySUFzdXl6Tk5wcE9lWHlTUTRrWG96a3doS29WTjBaQjY5RFd2RkFnR3otbFp0Z1Nucy1WV2RyZnJPaWF1c2N0SV85RTFVUm5FRTRfM0dfLURBLXozOW13?oc=5",
+      "published": "2026-06-07T07:00:00+00:00",
+      "publisher": "forbes.com",
+      "summary": "Broadcom Sparks AI Stock Sell-Off Despite Strong Jobs Data &nbsp;&nbsp; forbes.com",
+      "query": "\"Broadcom\" earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "What Are Analyst Thoughts on Broadcom’s AI Revenue Guidance? - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUXJaZDlBc2NxYl92WXJ2cVUtdTR0R2pGeXpybmpvcjFXMkM0N0xyV1RwWGVfZnF6dlZaM19CLVNpZ2lfLVdsYWFDZEZTb3RBQW9sdFRHN0JhOFBLbHdGYXFoaU1TUDNXUkhiVVdUZzNnYkN3NkFqN0lLSFR5c0lqcjBFS1gxOFBwQ2I5M0RrbUNEOW1UUzRLNDFISTZWOWt4aHc0?oc=5",
+      "published": "2026-06-05T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "What Are Analyst Thoughts on Broadcom’s AI Revenue Guidance? &nbsp;&nbsp; Yahoo Finance",
+      "query": "AVGO earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "guidance"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "A bull market grows up: Investors are finally separating AI winners from losers - businessinsider.com",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeW1JM1RYaGI1RVcyNTFCOXdjWmtaOFZZd0lxemZPQU56a2RLUng3alJ3Y3hVbFpYaTZ3c0kzYUZnNl9VMlQ1VnN3aE9ucWVFc2tBa0R5VXhQeHN4Y3FPdnZyMGpzMEZNZnNKU0xEMjJaVnN6amxfS21vYmUtekZzSGdtdmtMQndDemtQYTA1d1BsMTBZOXk5YVNDVDhlRTBuWEJpSVV2Qmp6NFd4?oc=5",
+      "published": "2026-06-05T07:00:00+00:00",
+      "publisher": "businessinsider.com",
+      "summary": "A bull market grows up: Investors are finally separating AI winners from losers &nbsp;&nbsp; businessinsider.com",
+      "query": "AVGO competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "AVGO Shares Drop 13% Post Q2 Results: Buy, Sell or Hold on the Dip? - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdndBbEo0akIzb3lLckJGaEVQdTg5c3RJX3ZJUjN5aF9PZ2lKOUVqdEJ4MTR4WnF5U1lnQ2RMTjY3b01SalRNTXl4UWpNU3J4dUFiWWlkbWFBLV9jcDdRSVBQOTJyT0VuQlZhQVlDSnNfTWwyOGdJU20tbUZNWU1aWjJRckc0T19Oem4xOGowZnBXd0I4cUo4aTJRX25PdXMtYm9zYzBDb21RVTNqOVNHRHROcm9FZXN5SFdB?oc=5",
+      "published": "2026-06-05T07:00:00+00:00",
+      "publisher": "TradingView",
+      "summary": "AVGO Shares Drop 13% Post Q2 Results: Buy, Sell or Hold on the Dip? &nbsp;&nbsp; TradingView",
+      "query": "AVGO competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "price_move"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Broadcom’s AI Chip Guidance Raises APAC Supply-Chain Questions - TechRepublic",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQM2xoT3RFMGVCNnBUMWpjNldZYmhpNDVqbEo5TEtocF9LaVJ4Y3doeXNGMlkwOUphN2pRYWZtRkhrMnd0c3JpOTFMcm9leHFDSDIwUWVHY09JekFUNFFyUlRZaDNkRF9EWnAwc2tHRnU1S2xaRXI1UExscWNHOGVra3U4R3ptMURTaUNaOTR3?oc=5",
+      "published": "2026-06-05T07:00:00+00:00",
+      "publisher": "TechRepublic",
+      "summary": "Broadcom’s AI Chip Guidance Raises APAC Supply-Chain Questions &nbsp;&nbsp; TechRepublic",
+      "query": "\"Broadcom\" capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "guidance",
+        "demand"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Broadcom stock sinks 12% as AI chip forecast disappoints - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQaFlCTkhSWFdHak44RGV3cElzbkE0UmpkVUc2cUlPWW1QOGJsdXZ4aVctd292cm9YWTVsbWEzOGJMUTdtQWtid0tUVjIwbVM4WWd1ZWZjVmVCaGI0SlpPQTM2ZXRRUjh5SURjaUlldExGOXJIeXNoRHFYd2M0WTVRSm9hNE5TUFNoZ3RJUDlBa01LZGtlbWNiT1RuUk5DNEh4N2J2VVpCczU1TnFzYnZHRnF3?oc=5",
+      "published": "2026-06-04T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Broadcom stock sinks 12% as AI chip forecast disappoints &nbsp;&nbsp; Yahoo Finance",
+      "query": "\"Broadcom\" stock",
+      "source_api": "google_news_rss",
+      "tags": [
+        "guidance",
+        "management",
+        "price_move"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Broadcom Earnings: Stock Decline Is an Overreaction to Conservative Guidance - Morningstar",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVkdNcEFBdk9ONmVxQ042UmUzdG0zVWlud3dJa1F3MzZVYmZrSnN0UEVYTkNRdUFOWGZVOFRXOXF5aE9zbGlPUkJBNzdHa1g0anZxVUZnaFRod2tfUVhyMjc2UGtXVU8zNVM3bnZlR0pQcXpXbHNZUFRPNDI0TVZiOXJ3Z0hWYlNrLUJHVVNqc0c1WGQ4bm42VHd0Z0xCaEYxWFgwN2lFZkFpelE?oc=5",
+      "published": "2026-06-04T07:00:00+00:00",
+      "publisher": "Morningstar",
+      "summary": "Broadcom Earnings: Stock Decline Is an Overreaction to Conservative Guidance &nbsp;&nbsp; Morningstar",
+      "query": "AVGO earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "guidance"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Broadcom Stock Plunges 14% On Weaker Revenue and Unchanged Forecast - TIKR.com",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOa2IyRUp5Vy04VExFcU9mbXhGTTZuSGJPWEpoX0JtbElFdS1GVVFxZ1NWeWRJX1AxczN0M3F0WDhiSXoxWHB6alE0QnNtWGJteGo0ZnhreU1leWJqYzJadThCanBWY2pnMFkxU0ZaVG83TGxZNWdZWi1oY0pKN1VlZ0tGeGFUcnp3V0VkZUM0QXpQbUFNMGJjZEtmbVlZbk1D?oc=5",
+      "published": "2026-06-04T07:00:00+00:00",
+      "publisher": "TIKR.com",
+      "summary": "Broadcom Stock Plunges 14% On Weaker Revenue and Unchanged Forecast &nbsp;&nbsp; TIKR.com",
+      "query": "AVGO earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "guidance"
+      ],
+      "lean": "negative"
+    },
+    {
+      "title": "Will Broadcom Stock Recover After Its Guidance Disappointment, Or Should You Cut Your Losses? - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdkc1NHpJRU5qQk5LMzc5dGJVc1pIMzR4TmwzNzZLRUNYSk9kRWJuN0JZbk1mbFZrTzNWRnRKUzRkMENmOVI3VEtySjFLTlFUSW5jdHdyTkxfeGhjOF9qYUtFSm9reVY1d0Q1S2FOT3h6VUFQQ1JiMV9kREtuRUtJRmg1RVhET295NzZzdm5LeVUxT2NfTHRzV2hzNTRWdXFqVHlXN3ZheWJLcndBeTNWdg?oc=5",
+      "published": "2026-06-04T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Will Broadcom Stock Recover After Its Guidance Disappointment, Or Should You Cut Your Losses? &nbsp;&nbsp; Yahoo Finance",
+      "query": "AVGO earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "guidance"
+      ],
+      "lean": "negative"
+    },
+    {
+      "title": "Broadcom Shares Slide as Revenue Miss and AI Outlook Disappoint Investors (AVGO) - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPV2ctS0tTS2I4NklDY2p2MUE3cjgzNlBuTVBZZGpvYk56eUEzYlI1eV81VU9jVHVhVHhXVFg3MldZS0czMGZxZVljMU5TM1Vud01HQV9oc19aNXJpUDYwSU43WlNwNVlyYWRjSXNQOV82MEl1QWc3Z0xPT0FGODlOWUEwdE5lMkxIazZGbkRhVHdDQXcwMHhUdV9ieWRjUERB?oc=5",
+      "published": "2026-06-04T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Broadcom Shares Slide as Revenue Miss and AI Outlook Disappoint Investors (AVGO) &nbsp;&nbsp; Yahoo Finance",
+      "query": "AVGO revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [
+        "guidance"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "AVGO Stock Extends Post-Earnings Selloff: Analysts, Retail Expect Strong Rebound - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRGpjeGd1QlRCNG9HS2pTam1wckxfMXI5ZWdzSGNXUVQzYlB1dlBCNXBYRU9iMkNqWlJlcVBGQTdFUnp2eHlLenREaERBc2pQMlFaakExU3gtLUZLdkpzdnVlR25lX1hBYkNHVHNoZ0hYalhXM2ZGdkN6akdsNUlUd3YwQUhLYVpzOGRzckk1UUg3Y090cUg3clNhZTdFZw?oc=5",
+      "published": "2026-06-04T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "AVGO Stock Extends Post-Earnings Selloff: Analysts, Retail Expect Strong Rebound &nbsp;&nbsp; Yahoo Finance",
+      "query": "AVGO revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Broadcom's Stock Sinks Despite Solid Earnings. Other Chip Stocks Are Sliding Too. - Investopedia",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOaEphSDRQOFVSdktVSjVmS1doUWt0TjRnVUg1WXBoR2l2ZUgwTXlVZGw5dzRVU2FXQm82VnY1ZHVCU09Da24xSDlvR3NTcF90cmtDZ1hrLVJGOXZCcWdsak1VV3Rwc2pBOGZKSGQyRXJ1a2kzYmZDbENDWFVYMUE1QWRqeFRjY0JQbm5LVlVDUkdDUnZpWGNxTGxKUEliT2tBRHdYLXpSVXI2UEVoNG5CcHdR?oc=5",
+      "published": "2026-06-04T07:00:00+00:00",
+      "publisher": "Investopedia",
+      "summary": "Broadcom's Stock Sinks Despite Solid Earnings. Other Chip Stocks Are Sliding Too. &nbsp;&nbsp; Investopedia",
+      "query": "\"Broadcom\" revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "price_move"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "5-star analyst revamps Broadcom stock price target after earnings - thestreet.com",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUDZzX1JtbDVCNGpCdlFMR3lGaUFPX1RBRy1BY1ozcGxBc09HNnQ4WjZaNHhmRV9Wa2JmOG5GY09qLTNQS24wT1ZlelEtV2Q2cTJKS1AteDNLTFJlckZwaEJ0ck5nX05MLVc2SW5Hb1l4RERISWdhc2NoRWFsVnhqZjRwT3NrWkotdmVsUVljMFV1dFVQb3lBR2I2b2tSb0dCMUxoV3FlNm5xMGF1?oc=5",
+      "published": "2026-06-04T07:00:00+00:00",
+      "publisher": "thestreet.com",
+      "summary": "5-star analyst revamps Broadcom stock price target after earnings &nbsp;&nbsp; thestreet.com",
+      "query": "AVGO analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "analyst"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "New Analyst Forecast: $AVGO Given $515 Price Target - Quiver Quantitative",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQendfYWE4aDY0QWNWTU54XzVJMGQyQ29YYVRjMDBsNDQ1SFNKenpNaXl6bVB2LTBSWERqMkRydnhsWDJ1djMxZGdYYVNCN3lRTU1fQ0F6cjIzd052X2FQYXFhYzJHcGEtQi1oZ0o0NXVuTXI3ejk1VG1McnhEc2swcWxCQkJ3aGdjYkl5NmsxWmd0M2tN?oc=5",
+      "published": "2026-06-04T07:00:00+00:00",
+      "publisher": "Quiver Quantitative",
+      "summary": "New Analyst Forecast: $AVGO Given $515 Price Target &nbsp;&nbsp; Quiver Quantitative",
+      "query": "AVGO analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [
+        "guidance",
+        "analyst"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "AVGO Stock Headed For $319B Market Cap Wipeout, But Analysts Eye Buying Opportunity - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPeW1GUUNBdWxjT1RqWmpQOEhiN29fMm9hNmUzUnVsdUE3OUI0MHZwOFRmVnVJMWRVMUI2LTlxSE9GemtWTi1pSVRDQ3RvTzFOdnVpN3JkVFJWbW9PY1B5azBfbVNrTzhYNXV3emZNRHFHNjJUb3ctZnpCVjdoNEZYNkpnYkQyRkU4M1ZpZmJ0OWF3ZmJFNnZ3b1dR?oc=5",
+      "published": "2026-06-04T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "AVGO Stock Headed For $319B Market Cap Wipeout, But Analysts Eye Buying Opportunity &nbsp;&nbsp; Yahoo Finance",
+      "query": "AVGO analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [
+        "speculation"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Why Broadcom (AVGO) Shares Are Trading Lower Today - StockStory",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPb1gxYXJIU0o2cm9ocDIzMm1hSW9iNWM0ZXM3ZGVPU00yZVJMRE9pQWx0a19HNFAtMHVNV3Zxb2d1OXBtVlJOc3FDQjIxX25xT2RIMXFKeFVtdE90OGRzMnlZeFRCU1Q0QVVLVW5pb0YyaHBlcGZqRHdFem81Y2hXQlYxV2p1Q2JzS19qWlRjSHMtUGV2LUtLc2hnUUhiN0lUaDJmNjlxU2MtWUtaUlVpMHhn?oc=5",
+      "published": "2026-06-04T07:00:00+00:00",
+      "publisher": "StockStory",
+      "summary": "Why Broadcom (AVGO) Shares Are Trading Lower Today &nbsp;&nbsp; StockStory",
+      "query": "AVGO competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Why AVGO's 12.6% Crash Hit Stocks You Didn't Expect - Moomoo",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQS2lub0tnZjJkUjFzbGlSQktnUXptSFlTcTM2U0pOU3JoUGFzdmFBNnZIc2puWFB4MHRkaVdTeVNPMjZlbmRhZVNqbFFEVTFQSzVFU2xpUjNDeXMtVzY4NlJtSm1PYzlENTdQWDZpbV9zSmhfRFVySmI1V0tXT2hzTWlGLUpyOHFYYzFSRnUxbTlCMDF6aDd2cmV3?oc=5",
+      "published": "2026-06-04T07:00:00+00:00",
+      "publisher": "Moomoo",
+      "summary": "Why AVGO's 12.6% Crash Hit Stocks You Didn't Expect &nbsp;&nbsp; Moomoo",
+      "query": "AVGO capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Broadcom stock plunges on weak software sales, unchanged AI chip forecast for the year - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9MUWNtalczVVl2UEVtVFhSUF9QVnZVd2ZuU01aaFZaTGZuOWpNWW1Wc1Y3Q050V1ZiRWs3MVE0R3ZUd196Sno4LUZkWUJadnRHaWI5VHpLVGRwQTBTZkJuY2JZelp1VWQyUTlpYVJrVTd2YkdSblQwNzV6dmk0aknSAYQBQVVfeXFMTTBfUHNDN2g0eG9Gc3VON0cwRFlFRUhLcDBMbmNZUXVPcTFVWFNwWTZibW51MkFuS1BON0xTTXVHbFd6N21LekpLZVF5NFBobnJTTnJxa0VhdGxzV3hDS3RYc2RIWHJlMG1LR2xXUlYtSGhsbGx1Y3JsTm8wbk5UUXhOZGJU?oc=5",
+      "published": "2026-06-03T07:00:00+00:00",
+      "publisher": "CNBC",
+      "summary": "Broadcom stock plunges on weak software sales, unchanged AI chip forecast for the year &nbsp;&nbsp; CNBC",
+      "query": "\"Broadcom\" stock",
+      "source_api": "google_news_rss",
+      "tags": [
+        "guidance",
+        "demand"
+      ],
+      "lean": "negative"
+    },
+    {
+      "title": "Broadcom stock falls despite Q2 earnings, guidance beat - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONHRJMG1JUDh2a0pYRFlIdEFhRlllQm1KdGR2a3M4YXZsdnJkcDlYdGdFZkJmX2l5enVUQnJIZHJqd2l4ckNwRFhSWWxmU05BaFg2UHZZcWxvZkNjQjVUTlhuQUJaWVI3Z3FxRmp0cnByaFhENC1xX3Y3LXpsTjg1NTFrZG8?oc=5",
+      "published": "2026-06-03T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Broadcom stock falls despite Q2 earnings, guidance beat &nbsp;&nbsp; Yahoo Finance",
+      "query": "AVGO earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "guidance",
+        "price_move"
+      ],
+      "lean": "negative"
+    },
+    {
+      "title": "Broadcom earnings, guidance top analysts’ expectations - Sherwood News",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONlBCTkxEX01VUWFtUmVhMVRicXF0Nk5xNnBXUWRvYmtrX3ZjLXpOQU5kazdibUtGaXVBQjZJa2otVWswX3hUMklKNFVQOWh1LXRPNm10ODlVVEdGRWwtc2ljOGZnMmRsV0lOdU53OGdsdmdLY0VLVjR5VEpObmRBOGYyQ0ZjVGs?oc=5",
+      "published": "2026-06-03T07:00:00+00:00",
+      "publisher": "Sherwood News",
+      "summary": "Broadcom earnings, guidance top analysts’ expectations &nbsp;&nbsp; Sherwood News",
+      "query": "AVGO earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "guidance"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Broadcom Reports Earnings Today. Here's How Much Traders Expect the Stock to Move - Investopedia",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxORE5hcnlFSEJSbzB4SkFyc3NCRzlkcTdSZjBreDdOZ2JTU1U0T2lPc0JZaVF6UlluM04yazk1SXNXYXFOdlJqZUJjUjFHUmhrVk5uLWlqTDg5RlZTN3BBWU9PVzAtQ090ZFBvVVgtTkZYU2gwXzhjU1NBRURkUVJEaGsxUGJQX09oNE1DXzhXT3V6aWNwSlFnSGtvZHRNYnB5NlFLU2hDN0l4bUIwUjdYZWwtT3RtZDI0S0V5TXQzZFFQUndTR09BQ2tQTnBSQmYxdHQzUm5Xc0ZnZGlsY3c?oc=5",
+      "published": "2026-06-03T07:00:00+00:00",
+      "publisher": "Investopedia",
+      "summary": "Broadcom Reports Earnings Today. Here's How Much Traders Expect the Stock to Move &nbsp;&nbsp; Investopedia",
+      "query": "AVGO earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "speculation"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Broadcom plunges even as Q2 results, guidance top Wall Street's forecast (AVGO:NASDAQ) - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTVNEY3lGSFpmN3pGYnNabjUwR3A5dmxNQUY2Rk1mbGhqZWgtZGZiN29uM1BBeUc3YUwtNEg4R3ZycXdMMnoza2t5RWZVS01UMjVCYzN1UFozTnEzTnVVV3VsNnU1X1V5Vm9Hcm9aVFJyZ1dhQ3QxNnN4YTlZTm9RQ1d6WW9ia3ZzV0xCU1V6dUtyUGk4ZkktNUx1ZHUxMXIyMGRqX3p1OG5QRkE?oc=5",
+      "published": "2026-06-03T07:00:00+00:00",
+      "publisher": "Seeking Alpha",
+      "summary": "Broadcom plunges even as Q2 results, guidance top Wall Street's forecast (AVGO:NASDAQ) &nbsp;&nbsp; Seeking Alpha",
+      "query": "AVGO earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "guidance",
+        "analyst"
+      ],
+      "lean": "negative"
+    },
+    {
+      "title": "Bernstein's Stacy Rasgon: AI guidance dragging down Broadcom stock despite beat - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRXNoSmJIY1NWRGZmeTY1NFdJUFJubS0xUWJudWFjQWhzNFNJYW5kWVM3NlpHYWRnc3Nodk80WjNRekZhdWJWeDh2VW5pNW8xc1NzYktDMTJuRjd1ajVUU1RoUjY5ZEU2OFBxR1BvU2p0Y0V0SFNCTE1uOTFyeVN0eG9qR2cyZWhMYXVTLVd4X3EzZE1TOFFCVE45dzBZME9PbmJkb0V1elB0LWZGTUtESkdmeG5RX3gya0poVQ?oc=5",
+      "published": "2026-06-03T07:00:00+00:00",
+      "publisher": "CNBC",
+      "summary": "Bernstein's Stacy Rasgon: AI guidance dragging down Broadcom stock despite beat &nbsp;&nbsp; CNBC",
+      "query": "\"Broadcom\" earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "guidance"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Broadcom (NASDAQ:AVGO) Stock Drops on Q2 Earnings After Disappointing Revenue Miss and Outlook - ChartMill",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNSnAzSHZXemNaM184UE82TnVVQUNZcWNqTWdPckdRSlh2TmptSU8wWVVLQnNUWEdqb25OcHdmblpWRkRNS2QySHFzZ1pVcmt5azlIbEU5NXZCUW5mamJ4cnFaNDRoM2F1akF4ZGpjdHlUWmYtdGRqcjhGQlZJTmU0QlU5RkVseGdWRWoyT1EyQVpYcDRBdHhqcTBtSy1ZdEN6QVZyWWpUQklnbFRkMlBsa3RHeFFkZjk0OFZkRloxZHR2VDNNZjdRQzRZOURwMmNueHVLRG1uU0J0MjQ?oc=5",
+      "published": "2026-06-03T07:00:00+00:00",
+      "publisher": "ChartMill",
+      "summary": "Broadcom (NASDAQ:AVGO) Stock Drops on Q2 Earnings After Disappointing Revenue Miss and Outlook &nbsp;&nbsp; ChartMill",
+      "query": "AVGO revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "guidance",
+        "price_move"
+      ],
+      "lean": "negative"
+    },
+    {
+      "title": "Broadcom's sales and AI chip forecast comes in below expectations, shares tumble - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNYXBDblFJaXMzZ1VkMDNRbS1fQTVzNjhiN3FnNDJ6MWMybFR2dnM3WDVtWGZWekhMT01oV3BPcTRKaGI0MWhnN0YyZHhpMG8yemNuLW1jU3lBaGVGWVBnWDRwVi1HWUt4aFhPWFRDaUxpa3lsbEw2d3AzNldTSHM0Zzl0dEtPeU5mUHNJdnVmckYtS2tKYnBiLXNjQzdtTEVSQmc?oc=5",
+      "published": "2026-06-03T07:00:00+00:00",
+      "publisher": "Reuters",
+      "summary": "Broadcom's sales and AI chip forecast comes in below expectations, shares tumble &nbsp;&nbsp; Reuters",
+      "query": "AVGO revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [
+        "guidance",
+        "demand"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "AVGO Q1 Deep Dive: AI Semiconductor Demand Drives Revenue Surge, Market Reacts to Profitability Shifts - StockStory",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOTkRSbUtza203a3hQUXRWbm1BTHZFYndkTHEyZUhMcjJ1cnBuV0syTW85Tm4xT0Q0QzdzUFdWajFWX2dOT0dfUk9HMkdURVRBM3ZLYTZzODhiZGJpZmR2VHBwZnA4bm5pV2syS09vY2VBZ1oxb2RZcFYtUTc3WlVaaGRJZlMwWVZFN0RRalBocmdJRG1KYjg2OGpnQ2RwVUpzRkZIWHBvMXR2bzRkOHB1SE5jYnBfQWpTTHFmUW4zWFV2SFBWdTJoQmVCRG9FYnRzcGRINFI2LWZJMUdOal9oT24zaUJFNGFGam1xRHFQWVppUzZtQkRV?oc=5",
+      "published": "2026-06-03T07:00:00+00:00",
+      "publisher": "StockStory",
+      "summary": "AVGO Q1 Deep Dive: AI Semiconductor Demand Drives Revenue Surge, Market Reacts to Profitability Shifts &nbsp;&nbsp; StockStory",
+      "query": "AVGO competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "demand"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Broadcom Q2: The Market Has Lost Its Mind (NASDAQ:AVGO) - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUFlQRmR3NTRwLXN5M0xPeGZJN0N5VDluekpqSmhVTHFKYU1hS1BiSHN2WjY0MkMzSXhPUVpQdVN4Y09vei1OaURZSnNfTjBfcDdwNWM1UjJrN0EwVWNXaFNsUjlTejVZX0JIT01ZRGJVYUdyMkRIQ2E3dXFnM0hnVjlqeFFXc2Rt?oc=5",
+      "published": "2026-06-03T07:00:00+00:00",
+      "publisher": "Seeking Alpha",
+      "summary": "Broadcom Q2: The Market Has Lost Its Mind (NASDAQ:AVGO) &nbsp;&nbsp; Seeking Alpha",
+      "query": "AVGO competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Broadcom Earnings Preview: AI Demand, Guidance, and an 8.6% Expected Move - tastylive",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcTRaeWU5R1k1VmJZdVo3ZFdLenBKZTd0cFVrMDhUWnphS0Z5SHNvM056OFlWZFdMY1k3Yk1xMUpMWXdxSExoa2dSemh1WnJaSThKNEU4MmFkMUF4ckVkX2Qxd2RVeFNDWExaeFpSdDlCWmxHS3FSbE42X3d5NmFuRzFONjlwWlJMZkV4emZtalBadWdERzQ0Zml2T1pqS3ExbmRQaXhCdzZSdEdJbVE?oc=5",
+      "published": "2026-06-02T07:00:00+00:00",
+      "publisher": "tastylive",
+      "summary": "Broadcom Earnings Preview: AI Demand, Guidance, and an 8.6% Expected Move &nbsp;&nbsp; tastylive",
+      "query": "AVGO earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "guidance",
+        "demand"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Broadcom heads into earnings with AI backlog, guidance in focus (AVGO:NASDAQ) - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5icDN3Z2drWmhPdmFDN1EyYnA3T0NDTExyWGJ2aEFySEk1OC1wdy1FRXVWNnVsalVhczBELThYekZfckpYTjEyWXdTUWxkcDRaY0piRXhMMHJZOFE5eVlzTG1LbExGbDhLNUpFT3lKRnJxUUpaNkl5SjhQbw?oc=5",
+      "published": "2026-06-02T07:00:00+00:00",
+      "publisher": "Seeking Alpha",
+      "summary": "Broadcom heads into earnings with AI backlog, guidance in focus (AVGO:NASDAQ) &nbsp;&nbsp; Seeking Alpha",
+      "query": "AVGO earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "guidance",
+        "demand"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Inside Broadcom’s bet on a 2nm chip for future AI agents - Stock Titan",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNbUJaTFVXZmc3ZjBid3htdkZpUVo5Q0dIdm8zMWp2aDJGaXdEbmxRUzNCcUdMNjRCZk9XYzZTVXRZT3hmSXJpOFVxQW5LSU9aMlFjQWFCMTdWcVFSUUt6U2FHUlJlbUlUdm90bWFDdU1yc05nQi15bXVDT29XSWtDVVdhSEtQb19OV1I1bXRQajhOUGpNbk1kQUlYNGszV0ZqelpNVFZUNmktVV8yR25LekpsUHF2ZFM1d2JibU1GWk4?oc=5",
+      "published": "2026-05-27T07:00:00+00:00",
+      "publisher": "Stock Titan",
+      "summary": "Inside Broadcom’s bet on a 2nm chip for future AI agents &nbsp;&nbsp; Stock Titan",
+      "query": "AVGO acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Broadcom’s Hidden Risk: VMware Under Pressure? - Trefis",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcERuekdXdWhPeFZaVWE2OUNGeDE1OG1fRGJ2WTlhY0lxWjYybXFIc0ppWEFSRWdyMzhxMWUwYk5kV25vTG01enhXS2RkRW5DdUV6UDF5R2NIdmQyNjJMNkcxcFNXUVpnUGYxTlNkZTBjZVRPV1RoYjU0dEYyQm9kel9QQ05xdVpDUUdJZlIwNGlqS3A1WkhnT2FJWkZrNzZEUzJiWmFxMA?oc=5",
+      "published": "2026-05-26T07:00:00+00:00",
+      "publisher": "Trefis",
+      "summary": "Broadcom’s Hidden Risk: VMware Under Pressure? &nbsp;&nbsp; Trefis",
+      "query": "AVGO lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "‘Difficult’ woman sues after Broadcom fires her - Palo Alto Daily Post",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMUhMRGhCM1ZTbndFUjBzRVpYdnZhRTRVanFtZmRzUldNdWxMSWNnXzB5UkZDOTIwUlB6OS1rSlFBd0tCYVZOeFpnZi1WSzJSWTFXeEQwZDZhU1RFdC1aUFJOMmdJdDhLUFVUT0pTMmZIX0pDRExwbXA3cVdvd1NyazJxY1NlaWQz?oc=5",
+      "published": "2026-05-24T07:00:00+00:00",
+      "publisher": "Palo Alto Daily Post",
+      "summary": "‘Difficult’ woman sues after Broadcom fires her &nbsp;&nbsp; Palo Alto Daily Post",
+      "query": "\"Broadcom\" lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Broadcom Inc. (AVGO) Challenges EU Regulators While Barclays Sees AI Upside - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOQlNwaFFBWDlzMFIzVUFINDAxSU9iaXFabm5qZGg3RWVWRmJ0dXBOYURKc25aX3RRb2ZRUXctWV9wM2k2Z24ySmJpYVpIREl2S2ZrMTFfcVBOT1pnMHlYaHlSS0J1dG9MNnc1UERPRS1PVmZIbkdialVieUtTLXZ6RGNCcVh4Mk1sM0cwalJtcTgxZm4xM2ZQOGdLS1FQNjkzWWc?oc=5",
+      "published": "2026-05-21T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Broadcom Inc. (AVGO) Challenges EU Regulators While Barclays Sees AI Upside &nbsp;&nbsp; Yahoo Finance",
+      "query": "AVGO lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory",
+        "speculation"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Broadcom Inc Stock (AVGO) Moved Down by 3.55% on May 15: What Signal Does It Send? - TradingKey",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQcnowNy1Mc3hCd2lmUlR5am1kZGlIcWdwTy1oS0o4V1RGRXY0Y2pWZ0hNNThfSlJQVHZTX0VuVUhEMkhSVjRyZ0phM1BEcEUwTGpKNE80aW9CWkc2TzIya2dORFRQS3RXVUs5MzRhNVhVRHNiTS0tQk9EOVNYLVR6TjZfRnRKd211aC1n?oc=5",
+      "published": "2026-05-15T07:00:00+00:00",
+      "publisher": "TradingKey",
+      "summary": "Broadcom Inc Stock (AVGO) Moved Down by 3.55% on May 15: What Signal Does It Send? &nbsp;&nbsp; TradingKey",
+      "query": "AVGO lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Why Broadcom (AVGO) Stock Is Up Today - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPOTl3U2FaOHFQRHVMaVFNdENEWi1rM18tMXhNaGRQaktKdlJDMS1BbmFoNjBMcWZub3JISWVmVHBQTnlEQ29BT0ZzQTJuTXJIcXg4b1hyZFozMjRJcEtyRXpWcVZWMWhZWlFNRDJPVjcwcDVrVGxqdkdqekdWVGdFdzdobUFsMTNBZnM3UUNxbTItZXJYSllVcElTYS0?oc=5",
+      "published": "2026-05-14T07:00:00+00:00",
+      "publisher": "TradingView",
+      "summary": "Why Broadcom (AVGO) Stock Is Up Today &nbsp;&nbsp; TradingView",
+      "query": "AVGO acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Broadcom sues EU antitrust regulators over request for US legal documents - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQUlzWkZNTnJyaWcxcDJla3hSc0l3UExxaEVDQ1JZOVR3OGRUTXp3LW9UN1VCRmU2OGpyclhBandOb0QyUjZKYW1BUzBnVEFtcXRZaEp6T3Q2VGdBeE9LbUdQMFZfYUZJOTllb0oxSkJGOFRXb2paSklwWDM0TjB3bXdHLThVc045X1ZhZWdDdEV3V2ZVXy02eEgzeVBPR0kzMVBWT1FmSzRzSl9EN1E2OS15VUhhbDBBa1dwSDdWSQ?oc=5",
+      "published": "2026-05-13T07:00:00+00:00",
+      "publisher": "Reuters",
+      "summary": "Broadcom sues EU antitrust regulators over request for US legal documents &nbsp;&nbsp; Reuters",
+      "query": "AVGO lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Arista warns of long-term chip challenge, Broadcom linked by analysts - SDxCentral",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObXpaMmtCZzUybjh4Z3RMYnRYanlWR19JS0h0NUtpeXNjVXFzYnRDblp2OTFwQm9ySWJ6WjZQY1RJb2Y2bWxpNXRzV2xORGdJUG9LMDd6T1U2cjJWWlM0SXJVbmU0SEhZY1o3ajVHV1NQZXZMRGM2VnRJeHNuS2tLVlZkaXJQRlAxQzN2ZEgzQXV3eUlNa0FQYjc4V20yWWpWX0tN?oc=5",
+      "published": "2026-05-07T07:00:00+00:00",
+      "publisher": "SDxCentral",
+      "summary": "Arista warns of long-term chip challenge, Broadcom linked by analysts &nbsp;&nbsp; SDxCentral",
+      "query": "\"Broadcom\" capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "negative"
+    },
+    {
+      "title": "As Broadcom Deepens Its Google Cloud Ties, Should You Buy AVGO Stock? - barchart.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdFM3X2c4S0FUc25lSnpnRHhMT3FIYjZnbHpZNGJnSXVUeDlHYnhTZUNNN09oN1JqMl9BOWN5RWcwd3ctV1IxekprRkpBUTN4VXVoQ3N1U0RqeUpDVzdYZjZsZ2h6ZUI5ZXJrSlhfeGYzUVo0VlpSTHNIRFpTSmx4RFppYUctUldtX3JTeUtfVHBxd1NBZ2FmcEZ6TUR1N3o3VncwbmtyLUxWZHpCak1HTg?oc=5",
+      "published": "2026-04-28T07:00:00+00:00",
+      "publisher": "barchart.com",
+      "summary": "As Broadcom Deepens Its Google Cloud Ties, Should You Buy AVGO Stock? &nbsp;&nbsp; barchart.com",
+      "query": "AVGO lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "speculation"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Broadcom (AVGO) and Meta Announce Multi-Year AI Infrastructure Partnership - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWUZ4X2RUaERKWGVnUHdpMzNpMEZ6MWVJcUNTcVB3a0hPRHh4ZkNsVHptSE96ckpDb2Zrdmk0R0FtcGFZdlpyLVdwYmxZS0Z2eHdXMVF3VVByXzJJQWpNSUs1c2NOMjJjc1d3NVZpMlhlUk1LTlVYMjFPZ2N6RVZEdUV1Tno1RmlWNzZnS1JNdUY5anJxNVRXVWkwa1Nhc01ocmx1cA?oc=5",
+      "published": "2026-04-23T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Broadcom (AVGO) and Meta Announce Multi-Year AI Infrastructure Partnership &nbsp;&nbsp; Yahoo Finance",
+      "query": "AVGO acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "demand"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Broadcom Breakup: AVGO Stock Slumps as Google Considers Its Rival for a Deal. Should You Buy the Dip? - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWjBfR0x6OE1kcTFFMS15Z3FGYzZuLWVCMnppSHdNcDAzMlRiZkJTOXJLaGlwSUNzdVI4bHFTRFFJMVpxU1RlZy1SUWZ2M0dQNmdJaUtVYTB4bjdJLW90cU1SWVNDMC0wa1RxVUhpVUxOcElJbGxoTmdVZXNtSm81cW0xbkI3ZU0zUS1iWG1iaGh0ellhRkcxcnBZUDEycm9y?oc=5",
+      "published": "2026-04-22T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Broadcom Breakup: AVGO Stock Slumps as Google Considers Its Rival for a Deal. Should You Buy the Dip? &nbsp;&nbsp; Yahoo Finance",
+      "query": "AVGO acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "demand",
+        "speculation"
+      ],
+      "lean": "negative"
+    },
+    {
+      "title": "Broadcom (AVGO) Is Up 13.1% After Expanded Meta AI Chip Partnership - What's Changed - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcERlZDhaVTI5czB2ckYxNGlsTUh1VlNEVDJOWklVV19LTkZkUF92T3J3b3BBZWtwZTBOWmh3ZG1qVjJJRnFVdk1RRHBTYjNqcjI3SzQxcUZDdGF4WEtMeUctd2t4TU9MZ1FidlBpWjYxRjFaUk5TYjlqd2lGQmRsZF9ZZ2VLYlBENVhlbzNDN0VBRzhxRFZ3?oc=5",
+      "published": "2026-04-16T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Broadcom (AVGO) Is Up 13.1% After Expanded Meta AI Chip Partnership - What's Changed &nbsp;&nbsp; Yahoo Finance",
+      "query": "AVGO acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "demand"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Broadcom (AVGO) Stock Trades Up, Here Is Why - StockStory",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYjRPZEx5VlQ0X25GYjMtUXB6Vk15Q2ZsbnN4Yk1lTV85SmNYVy01YWxHLW5ER2J6NjI2Ym0wcXBVTnNnVWdpa09MaV9TSEdRUHI3WU1ZM183d0FPOGZ5VElYaV9fMnR3UlFISzc4Y0NXOXhMOVpJQmo0ZkNyNHFER2dveDR2R3RSYmVkdTRtXzZJN0RRWmxacHBPNExvWFZEOFZhUkczTmg?oc=5",
+      "published": "2026-04-15T07:00:00+00:00",
+      "publisher": "StockStory",
+      "summary": "Broadcom (AVGO) Stock Trades Up, Here Is Why &nbsp;&nbsp; StockStory",
+      "query": "AVGO acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Broadcom Stock Rises On Meta AI Chip Partnership - Investor's Business Daily",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNY0RfdXloQWhEVDB5VDZlandrSERlb2w3YjJITHQ3WTJnX09yNFJlSUo3aktjYUhuZGcyLUhoRzZZQ0pOeEF4dEhMbFk4R3pWRk1DUHd2Q2hjRkdtbm5BYnptQS1Wb1ZXaWFacWNqcUszamlLaEZtaW1Fck9GQ0ZpbjhyT2dMN0J1aXB2bldBOFk?oc=5",
+      "published": "2026-04-15T07:00:00+00:00",
+      "publisher": "Investor's Business Daily",
+      "summary": "Broadcom Stock Rises On Meta AI Chip Partnership &nbsp;&nbsp; Investor's Business Daily",
+      "query": "AVGO acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "demand",
+        "price_move"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Meta Partners With Broadcom to Co-Develop Custom AI Silicon - meta.com",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbkJRVzdfRWNmZ3NIYXd4anc0NkxadlVhb09qVEtYVFNsS09TMnpZWEpycmJIQUgzVFcybUpTWmwyUjlMTzljcU9UY3RRZmlLMDBnN1hYeXdiaklRMkVSeHVmY3REbHlmdm4xb0JGYWVrT2FKQ01pSV9jLWdwamc5NU51SlFvWEJiTTk0ZDl3U1JMYUhHNEV1aEln0gGfAUFVX3lxTE9OVXhrbzBtRUFnYXZlamJLeE00VFVUdVpRVGcwQVgwNlFCQWpJTldqQVJLWXduWGFDTXgzUDhZVWlVZ3RlOEdNdVhGRkktYzMxdXRnc2k4T2JWeXFmNThqQ0Q4WTVaNXZEQXF1ZWhmbUNxVlc4WkZSU01COFF6WndQVEFZTzFUaXlKaXZDTnBfN1lRdWxTSWFzbVVBeUpVSQ?oc=5",
+      "published": "2026-04-14T07:00:00+00:00",
+      "publisher": "meta.com",
+      "summary": "Meta Partners With Broadcom to Co-Develop Custom AI Silicon &nbsp;&nbsp; meta.com",
+      "query": "\"Broadcom\" acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Broadcom Announces Extended Partnership with Meta to Deploy - GlobeNewswire",
+      "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxQTTZBZFpQVnZCTWl4Z2VvdFlmWTFvVHlVcmZCTW9Qb0gtQVpEWm1LMUE2cVFGMWg3b1JyMThOZG1ZSFZ0blQyZmEtQ1dWaVVMS2FjbXVlWC1VWDEyV0MxMHJTTkFhd0hxQ082bzNMSHlWYkl6RnVCWjgzSmUwcW9HNHFzampRQzJ1OUhqR1VyeHNVUGFBSkx5aHcwS0NBLWJHOEdzQUI4a0ZVUVQzOGI0WGpjOFN5bTI2djQ1RnJCdHR4TnpjZ2t2S3cxeXMzbE5YTFM1T2c1MzdiTVBrck1CVzFQaEs2al9zZDNpdVF4WHk2WFBkWGVFc09STmFGNlQ1ZXBLWXpPa3BZM3djbERVb0Rlb2toOVVXS2hWSzZWc1NPYzVkOUJzQUxPaw?oc=5",
+      "published": "2026-04-14T07:00:00+00:00",
+      "publisher": "GlobeNewswire",
+      "summary": "Broadcom Announces Extended Partnership with Meta to Deploy &nbsp;&nbsp; GlobeNewswire",
+      "query": "\"Broadcom\" acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "product",
+        "demand"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "3 Forces That Could Shake Broadcom Stock - Trefis",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPcl93OHdwN25rbEVySy1pWGNMWVJWemFxb2ZPMlNwdHZnZmo3RjhNRC1seE5wdGVMaXhmMkViWE5iZk1JZVFVV3pRYUxDZTBIUElUODFkX2lfbkVPTjhNSWlTcFRtWm9QUHpKdnNmMzd5M3otU3g1YnIzbUJEbTAtYTFXZFBxaGhlc3BnX1RMYXFTWHBvbmlxUUl3ZGRKNDBFQjVaOURB?oc=5",
+      "published": "2026-04-11T07:00:00+00:00",
+      "publisher": "Trefis",
+      "summary": "3 Forces That Could Shake Broadcom Stock &nbsp;&nbsp; Trefis",
+      "query": "AVGO capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "DOJ Again Pushes Back Against Antitrust Claims Filed Over Allegations of SEP Abuse, False RAND Promises - IPWatchdog.com",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWWtsMGZFSTdKUDdVMEQ3bGNMQU5BNDAxZGVHTkVvRVN0M204RFk0WWFRWkdlUnFSR0xWaTV2Yjcwa09nQS0wM0JrSFZSQ1dkQ25tVGdrVFBFb2FjRkM5QllJVENvRkFIRjh2R1lmaXgyaC1WV0FoUE4zcFFnUlBZSzhlUGRNWFYxWm1sR0s0Yl9pNWhhUTlPYmx2eWhkeXM2bzg0MEhnNzQyWjBIbGZUQmJhWTFuQjhKT2d5V3ZJYW4?oc=5",
+      "published": "2026-04-08T07:00:00+00:00",
+      "publisher": "IPWatchdog.com",
+      "summary": "DOJ Again Pushes Back Against Antitrust Claims Filed Over Allegations of SEP Abuse, False RAND Promises &nbsp;&nbsp; IPWatchdog.com",
+      "query": "\"Broadcom\" lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Anthropic expands Google and Broadcom compute deal - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB0dUE0NnFtSW9iTTQyZTFsa1FvWkZXaXoxdE5YY3RleHNUSXdwRlgzODd5S0lXOVBVTFRPSGdXX1I2cW16YUxwQV81NjRjNFB4ZDh5QVdIZy1BcVNKNzl2YWlUZkRjWHNzay1nVEhjaW5QQndL?oc=5",
+      "published": "2026-04-06T07:00:00+00:00",
+      "publisher": "Anthropic",
+      "summary": "Anthropic expands Google and Broadcom compute deal &nbsp;&nbsp; Anthropic",
+      "query": "AVGO acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "demand"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Broadcom Taps Google Executive Thuener as Its Next Finance Chief - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQYXhqNzBaZUxvNm1XNTJSdHdJSG5HenlPSXhiZVdpRXpOM0RWd2w5cXZtZk8tRy1tRlhWVzhoSGdXR05RNlVZZDJIelBEMUZVcVJUd1ItT1FqSVR2cVE3SS1tYWxtVTdlSUNaWE5KYzNDOURwMFZndWdWR29jcG1VdXN4YzhHenlZZWVZdFlWNmxCaGFXWkpMckpsQVIyUEFUTGFYYzdSOEpnLV9Sd1Bua3pES3lFZw?oc=5",
+      "published": "2026-04-02T07:00:00+00:00",
+      "publisher": "Bloomberg.com",
+      "summary": "Broadcom Taps Google Executive Thuener as Its Next Finance Chief &nbsp;&nbsp; Bloomberg.com",
+      "query": "AVGO lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Broadcom Inc Stock (AVGO) Moved Down by 5.65% on Mar 30: A Full Analysis - TradingKey",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQcVRCdTdhSDRXSW1GMTZnRUZkd0N3VU52ZVN2aGMzN3FndklkdlNVSkk3RC1mSWNmRnEzQjBkNjEyd2RUOGtTYWs4bllfczczRVJvdm0wSFI1MGhxSHZ4YURUYnFWd0QyZ3NGbG05WThlRlRvOUNzOHd1elJQN3IyQVNMTW5reV9hOWFN?oc=5",
+      "published": "2026-03-30T07:00:00+00:00",
+      "publisher": "TradingKey",
+      "summary": "Broadcom Inc Stock (AVGO) Moved Down by 5.65% on Mar 30: A Full Analysis &nbsp;&nbsp; TradingKey",
+      "query": "AVGO lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Why Broadcom's $100B AI Revenue Forecast May Be Conservative - MarketBeat",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOcW1ick9pV0RPZ3pwaXAyeW94dll4V09ENTFIQVNwS2xEek1NVWNKa0Vsc2NJMVl0ZzVIZm1xMDFCb2RSMXBDXy1aZXJNY3NJYlg1NzA1UkhBWGpvcmhCSXFfUlRHMmZpYzFGSlFaMm5sYXR6dGg5WDdDazVwOGNqNUZUalpYdTF5Tm9xQ3VYQkxHWU9WWFF1SmhXTQ?oc=5",
+      "published": "2026-03-25T07:00:00+00:00",
+      "publisher": "MarketBeat",
+      "summary": "Why Broadcom's $100B AI Revenue Forecast May Be Conservative &nbsp;&nbsp; MarketBeat",
+      "query": "AVGO revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [
+        "guidance"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Triggers That Could Ignite the Next Rally In Broadcom Stock - Trefis",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbV9YQnZFNWhybWhoU2JOZjZQQ0xRLXp3dHcyRzN2Z0ROVXR6c2NsWjZGZUVIamk1Wk1iRkJvTzZkTGtndjlXcEhyX3M2NTV3U3ZsdXRnb3UzWmhQTGVtaFF4Mm5MTmhOX3lOUnJDTFdRU0hlcEhwRjNJTjBuUU81UVhOVmpIY2djeDRIRnFodmV4Zm12NXlrblhHSHZvUmJoWjZSRFIwRUJ4WnVtc2d2cnNTdG44Q1R0YkJFbQ?oc=5",
+      "published": "2026-03-25T07:00:00+00:00",
+      "publisher": "Trefis",
+      "summary": "Triggers That Could Ignite the Next Rally In Broadcom Stock &nbsp;&nbsp; Trefis",
+      "query": "AVGO lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    }
+  ]
+}

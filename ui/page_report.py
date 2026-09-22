@@ -261,6 +261,15 @@ def scenarios(s):
 
 
 def metrics_grid(m, prof):
+    # An ADR trades in one currency and reports in another, so these three
+    # divide a market number by a statement number in different units. Showing
+    # TSM a 44% free cash flow yield is worse than showing nothing.
+    import sys as _sys
+    from pathlib import Path as _P
+    _sys.path.insert(0, str(_P(__file__).resolve().parent.parent / "tools"))
+    from score import drop_currency_contaminated  # noqa: E402
+
+    m, _dropped = drop_currency_contaminated(m)
     st.subheader("ตัวเลขสำคัญ")
     cur = prof.get("financial_currency") or prof.get("currency") or ""
 
@@ -287,6 +296,14 @@ def metrics_grid(m, prof):
         st.write("PEG ประมาณการ", fmt_num(m.get("peg_est"), 2))
         st.write("EV / EBITDA", fmt_num(m.get("ev_to_ebitda")))
         st.write("FCF yield", fmt_pct(m.get("fcf_yield"), 2))
+        if _dropped:
+            st.caption(
+                "ซื้อขายเป็น {} แต่รายงานงบเป็น {} ตัวเลข EV/EBITDA, P/S และ FCF yield "
+                "จึงเอาค่าตลาดหารด้วยค่างบคนละสกุล ระบบตัดออกแทนที่จะแสดงค่าที่ผิด"
+                "ตามอัตราแลกเปลี่ยน".format(
+                    m.get("trading_currency") or "สกุลหนึ่ง",
+                    m.get("financial_currency") or "อีกสกุลหนึ่ง")
+            )
 
 
 def peer_block(ticker):

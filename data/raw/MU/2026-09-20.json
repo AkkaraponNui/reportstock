@@ -1,0 +1,196 @@
+{
+  "ticker": "MU",
+  "as_of": "2026-09-20T09:05:26+00:00",
+  "source": "yfinance",
+  "profile": {
+    "name": "Micron Technology, Inc.",
+    "sector": "Technology",
+    "industry": "Semiconductors",
+    "country": "United States",
+    "exchange": "NMS",
+    "currency": "USD",
+    "financial_currency": "USD",
+    "employees": 53000,
+    "website": "https://www.micron.com",
+    "summary": "Micron Technology, Inc. designs, develops, manufactures, and sells memory and storage products in the United States, Taiwan, Japan, Mainland China, Hong Kong, Europe, and internationally. It operates through the Cloud Memory Business Unit; Core Data Center Business Unit; Mobile and Client Business Unit; and Automotive and Embedded Business Unit segments. The company provides memory products, including dynamic random access memory components and modules, CXL-based memory, LPDDR components and modules, graphics memory, high-bandwidth memory, and data center memory products; multichip packages (MCP) comprising embedded multimedia card-based, universal flash storage-based, and NAND-based MCPs; and technology leadership products that include 1y DRAM and G9 NAND technologies. It also offers storage products, such as data center solid-state drives (SSD), client SSD storage, and auto and industrial SSD storage; managed NAND; NAND flash; NOR flash; and memory cards. In addition, the company provides design tools, including FBGA and part decoders; DRAM power calculators; NAND power calculators; simulation models; chipset compatibility guides; serial presence-detection tools; cross-reference tools; UFSparm; SSD firmware; software and drivers; storage executive software; and obsolete part catalogs. It markets its semiconductor memory and storage products under the Micron and Crucial brands. The company serves the data center, PC, graphics, networking, automotive, industrial, and consumer"
+  },
+  "market": {
+    "price": 1015.8,
+    "market_cap": 1147237564416,
+    "week52_high": 1255.0,
+    "week52_low": 154.65,
+    "off_52w_high": -0.190598,
+    "avg_volume": 39077752
+  },
+  "analyst": {
+    "target_mean": 1513.1111,
+    "target_high": 2200.0,
+    "target_low": 361.0,
+    "upside_to_target": 0.489576,
+    "recommendation": "strong_buy",
+    "n_analysts": 45
+  },
+  "annual": {
+    "periods": [
+      "2022-08-31",
+      "2023-08-31",
+      "2024-08-31",
+      "2025-08-31"
+    ],
+    "revenue": [
+      30758000000.0,
+      15540000000.0,
+      25111000000.0,
+      37378000000.0
+    ],
+    "gross_profit": [
+      13898000000.0,
+      -1416000000.0,
+      5613000000.0,
+      14873000000.0
+    ],
+    "operating_income": [
+      9709000000.0,
+      -5405000000.0,
+      1305000000.0,
+      9809000000.0
+    ],
+    "net_income": [
+      8687000000.0,
+      -5833000000.0,
+      778000000.0,
+      8539000000.0
+    ],
+    "ebitda": [
+      16876000000.0,
+      2486000000.0,
+      9582000000.0,
+      18483000000.0
+    ],
+    "rnd": [
+      3116000000.0,
+      3114000000.0,
+      3430000000.0,
+      3798000000.0
+    ],
+    "eps_diluted": [
+      7.75,
+      -5.34,
+      0.7,
+      7.59
+    ],
+    "shares_diluted": [
+      1122000000.0,
+      1093000000.0,
+      1118000000.0,
+      1125000000.0
+    ],
+    "total_assets": [
+      66283000000.0,
+      64254000000.0,
+      69416000000.0,
+      82798000000.0
+    ],
+    "equity": [
+      49907000000.0,
+      44120000000.0,
+      45131000000.0,
+      54165000000.0
+    ],
+    "total_debt": [
+      7516000000.0,
+      13933000000.0,
+      14007000000.0,
+      15278000000.0
+    ],
+    "cash": [
+      9331000000.0,
+      9594000000.0,
+      8106000000.0,
+      10307000000.0
+    ],
+    "current_assets": [
+      21781000000.0,
+      21244000000.0,
+      24372000000.0,
+      28841000000.0
+    ],
+    "current_liabilities": [
+      7539000000.0,
+      4765000000.0,
+      9248000000.0,
+      11454000000.0
+    ],
+    "invested_capital": [
+      55927000000.0,
+      56169000000.0,
+      56474000000.0,
+      65698000000.0
+    ],
+    "operating_cf": [
+      15181000000.0,
+      1559000000.0,
+      8507000000.0,
+      17525000000.0
+    ],
+    "capex": [
+      -12067000000.0,
+      -7676000000.0,
+      -8386000000.0,
+      -15857000000.0
+    ],
+    "free_cash_flow": [
+      3114000000.0,
+      -6117000000.0,
+      121000000.0,
+      1668000000.0
+    ],
+    "buybacks": [
+      -2432000000.0,
+      -425000000.0,
+      -300000000.0,
+      0.0
+    ]
+  },
+  "metrics": {
+    "years_of_data": 4,
+    "currency_mismatch": false,
+    "trading_currency": "USD",
+    "financial_currency": "USD",
+    "revenue_cagr": 0.067135,
+    "revenue_cagr_years": 3,
+    "net_income_cagr": -0.005712,
+    "fcf_cagr": -0.18787,
+    "revenue_growth_ttm": 3.457,
+    "earnings_growth_ttm": 13.685,
+    "forward_eps_growth": 2.534201,
+    "gross_margin_latest": 0.397908,
+    "gross_margin_trend": 0.015282,
+    "operating_margin_latest": 0.262427,
+    "operating_margin_trend": 0.024009,
+    "net_margin_latest": 0.22845,
+    "fcf_margin_latest": 0.044625,
+    "fcf_margin_trend": 0.02286,
+    "rnd_intensity_latest": 0.101611,
+    "roe": 0.66638,
+    "roa": 0.3487,
+    "roic_est": 0.11795,
+    "current_ratio": 3.425,
+    "debt_to_equity": 6.33,
+    "net_debt": 4971000000.0,
+    "net_debt_to_ebitda": 0.26895,
+    "market_cap": 1147237564416,
+    "enterprise_value": 1127591575552,
+    "trailing_pe": 22.9352,
+    "forward_pe": 6.489501,
+    "peg_est": 0.004742,
+    "price_to_sales": 12.708394,
+    "ev_to_ebitda": 16.528,
+    "ev_to_revenue": 12.491,
+    "fcf_yield": 0.001454,
+    "dividend_yield": 0.000522,
+    "dividend_rate": 0.53,
+    "payout_ratio": 0.0112,
+    "beta": 2.222
+  }
+}

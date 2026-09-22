@@ -1,0 +1,303 @@
+{
+  "ticker": "LVMUY",
+  "company": "LVMH Moët Hennessy - Louis Vuitton, Société Européenne",
+  "sector": "Consumer Cyclical",
+  "as_of": "2026-09-20T09:05:43+00:00",
+  "source_snapshot": "data\\raw\\LVMUY\\2026-09-20.json",
+  "composite_score": 47.5,
+  "grade": "D  weak on the numbers",
+  "pillar_weight_coverage": 1.0,
+  "pillars": {
+    "growth": {
+      "score": 23.2,
+      "coverage": 1.0,
+      "weight": 0.3,
+      "metrics": {
+        "revenue_cagr": {
+          "value": 0.00679,
+          "score": 22.7,
+          "weight": 0.35
+        },
+        "revenue_growth_ttm": {
+          "value": -0.029,
+          "score": 14.2,
+          "weight": 0.3
+        },
+        "net_income_cagr": {
+          "value": -0.082497,
+          "score": 11.3,
+          "weight": 0.2
+        },
+        "forward_eps_growth": {
+          "value": 0.127149,
+          "score": 58.5,
+          "weight": 0.15
+        }
+      }
+    },
+    "quality": {
+      "score": 62.8,
+      "coverage": 1.0,
+      "weight": 0.25,
+      "metrics": {
+        "roic_est": {
+          "value": 0.158943,
+          "score": 63.8,
+          "weight": 0.3
+        },
+        "operating_margin_latest": {
+          "value": 0.218644,
+          "score": 68.1,
+          "weight": 0.25
+        },
+        "gross_margin_latest": {
+          "value": 0.662418,
+          "score": 87.7,
+          "weight": 0.2
+        },
+        "operating_margin_trend": {
+          "value": -0.017346,
+          "score": 22.7,
+          "weight": 0.15
+        },
+        "roe": {
+          "value": 0.16586,
+          "score": 56.5,
+          "weight": 0.1
+        }
+      }
+    },
+    "cash": {
+      "score": 55.7,
+      "coverage": 0.8,
+      "weight": 0.15,
+      "metrics": {
+        "fcf_margin_latest": {
+          "value": 0.175789,
+          "score": 70.2,
+          "weight": 0.45
+        },
+        "fcf_cagr": {
+          "value": 0.036596,
+          "score": 37.1,
+          "weight": 0.35
+        },
+        "fcf_yield": {
+          "value": null,
+          "score": null,
+          "weight": 0.2
+        }
+      }
+    },
+    "balance_sheet": {
+      "score": 73.7,
+      "coverage": 1.0,
+      "weight": 0.15,
+      "metrics": {
+        "net_debt_to_ebitda": {
+          "value": 0.898607,
+          "score": 79.4,
+          "weight": 0.45
+        },
+        "debt_to_equity": {
+          "value": 53.306,
+          "score": 69.6,
+          "weight": 0.3
+        },
+        "current_ratio": {
+          "value": 1.631,
+          "score": 68.2,
+          "weight": 0.25
+        }
+      }
+    },
+    "valuation": {
+      "score": 36.4,
+      "coverage": 0.6,
+      "weight": 0.15,
+      "metrics": {
+        "forward_pe": {
+          "value": 16.194817,
+          "score": 72.8,
+          "weight": 0.3
+        },
+        "peg_est": {
+          "value": 20.243521,
+          "score": 0.0,
+          "weight": 0.3
+        },
+        "ev_to_ebitda": {
+          "value": null,
+          "score": null,
+          "weight": 0.2
+        },
+        "price_to_sales": {
+          "value": null,
+          "score": null,
+          "weight": 0.2
+        }
+      }
+    }
+  },
+  "projection_5y": {
+    "bear": {
+      "scenario": "bear",
+      "assumptions": {
+        "start_growth": -0.0037,
+        "terminal_growth": 0.04,
+        "start_net_margin": 0.1346,
+        "reported_annual_net_margin": 0.1346,
+        "margin_basis": "trailing_pe x net_margin (currency-safe route; mixes a trailing price multiple with an annual margin)",
+        "end_net_margin": 0.0684,
+        "exit_pe": 10.6,
+        "current_sales_multiple": 2.457,
+        "sales_multiple_basis": "trailing_pe x net_margin (currency-safe route; mixes a trailing price multiple with an annual margin)",
+        "dividend_yield": 0.0165,
+        "years": 5
+      },
+      "revenue_path": [
+        {
+          "year": 1,
+          "growth": 0.0051,
+          "revenue_index": 1.005
+        },
+        {
+          "year": 2,
+          "growth": 0.0138,
+          "revenue_index": 1.019
+        },
+        {
+          "year": 3,
+          "growth": 0.0225,
+          "revenue_index": 1.042
+        },
+        {
+          "year": 4,
+          "growth": 0.0313,
+          "revenue_index": 1.074
+        },
+        {
+          "year": 5,
+          "growth": 0.04,
+          "revenue_index": 1.117
+        }
+      ],
+      "revenue_index_end": 1.117,
+      "exit_sales_multiple": 0.728,
+      "implied_market_cap": 75099271901.0,
+      "current_market_cap": 226763997184,
+      "price_return_annualized": -0.1983,
+      "dividend_contribution": 0.0165,
+      "total_return": -0.6405,
+      "annualized_return": -0.1851
+    },
+    "base": {
+      "scenario": "base",
+      "assumptions": {
+        "start_growth": -0.0067,
+        "terminal_growth": 0.04,
+        "start_net_margin": 0.1346,
+        "reported_annual_net_margin": 0.1346,
+        "margin_basis": "trailing_pe x net_margin (currency-safe route; mixes a trailing price multiple with an annual margin)",
+        "end_net_margin": 0.0913,
+        "exit_pe": 15.2,
+        "current_sales_multiple": 2.457,
+        "sales_multiple_basis": "trailing_pe x net_margin (currency-safe route; mixes a trailing price multiple with an annual margin)",
+        "dividend_yield": 0.033,
+        "years": 5
+      },
+      "revenue_path": [
+        {
+          "year": 1,
+          "growth": 0.0027,
+          "revenue_index": 1.003
+        },
+        {
+          "year": 2,
+          "growth": 0.012,
+          "revenue_index": 1.015
+        },
+        {
+          "year": 3,
+          "growth": 0.0213,
+          "revenue_index": 1.036
+        },
+        {
+          "year": 4,
+          "growth": 0.0307,
+          "revenue_index": 1.068
+        },
+        {
+          "year": 5,
+          "growth": 0.04,
+          "revenue_index": 1.111
+        }
+      ],
+      "revenue_index_end": 1.111,
+      "exit_sales_multiple": 1.385,
+      "implied_market_cap": 142006745434.0,
+      "current_market_cap": 226763997184,
+      "price_return_annualized": -0.0894,
+      "dividend_contribution": 0.033,
+      "total_return": -0.2632,
+      "annualized_return": -0.0593
+    },
+    "bull": {
+      "scenario": "bull",
+      "assumptions": {
+        "start_growth": -0.0087,
+        "terminal_growth": 0.04,
+        "start_net_margin": 0.1346,
+        "reported_annual_net_margin": 0.1346,
+        "margin_basis": "trailing_pe x net_margin (currency-safe route; mixes a trailing price multiple with an annual margin)",
+        "end_net_margin": 0.1049,
+        "exit_pe": 19.0,
+        "current_sales_multiple": 2.457,
+        "sales_multiple_basis": "trailing_pe x net_margin (currency-safe route; mixes a trailing price multiple with an annual margin)",
+        "dividend_yield": 0.033,
+        "years": 5
+      },
+      "revenue_path": [
+        {
+          "year": 1,
+          "growth": 0.0011,
+          "revenue_index": 1.001
+        },
+        {
+          "year": 2,
+          "growth": 0.0108,
+          "revenue_index": 1.012
+        },
+        {
+          "year": 3,
+          "growth": 0.0205,
+          "revenue_index": 1.033
+        },
+        {
+          "year": 4,
+          "growth": 0.0303,
+          "revenue_index": 1.064
+        },
+        {
+          "year": 5,
+          "growth": 0.04,
+          "revenue_index": 1.106
+        }
+      ],
+      "revenue_index_end": 1.106,
+      "exit_sales_multiple": 1.99,
+      "implied_market_cap": 203143149236.0,
+      "current_market_cap": 226763997184,
+      "price_return_annualized": -0.0218,
+      "dividend_contribution": 0.033,
+      "total_return": 0.054,
+      "annualized_return": 0.0106
+    }
+  },
+  "flags": [
+    "Trades in USD but reports in EUR, so price_to_sales, ev_to_ebitda, fcf_yield were excluded from the score: each divides a market number by a statement number in a different currency. The affected pillars renormalize over the metrics that remain, so read the coverage figure alongside the score.",
+    "The PEG of 20.2 says you are paying well above the growth you are buying.",
+    "Operating margin is trending down, which usually means pricing pressure or cost inflation."
+  ],
+  "disclaimer": "Rules-based scorecard over public financial data. Not investment advice and not a price forecast. Assumptions are listed with every projection."
+}

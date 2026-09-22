@@ -1,0 +1,1492 @@
+{
+  "ticker": "ARM",
+  "company": "Arm",
+  "as_of": "2026-09-20T09:08:38+00:00",
+  "lookback_days": 180,
+  "summary": {
+    "total": 109,
+    "by_event_tag": {
+      "demand": 30,
+      "earnings": 19,
+      "capacity": 18,
+      "guidance": 16,
+      "regulatory": 15,
+      "mna": 13,
+      "analyst": 12,
+      "speculation": 12,
+      "price_move": 10,
+      "product": 10,
+      "macro": 5,
+      "management": 2
+    },
+    "headline_lean": {
+      "positive": 19,
+      "negative": 14,
+      "neutral": 76
+    },
+    "top_publishers": {
+      "Yahoo Finance": 22,
+      "TIKR.com": 8,
+      "TradingView": 4,
+      "Investing.com": 4,
+      "army.mil": 3,
+      "Reuters": 3,
+      "Nature": 2,
+      "24/7 Wall St.": 2,
+      "ChartMill": 2,
+      "The Motley Fool": 2
+    }
+  },
+  "articles": [
+    {
+      "title": "Immune regulation includes an effector arm: therapeutic implications of phase III IDO/PD-L1 vaccination in melanoma - Nature",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9UbnJob2FiVVhaSXdhX2tYQmZ1NktyZTdyUXZaRkJYNWMtNDZISkdhV1h3b29yTktGbkVfSTFYLXZFN2NfN05lTmRZd2lydHJhd3FUOC1JeDBMLUQxRnlF?oc=5",
+      "published": "2026-09-18T15:46:50+00:00",
+      "publisher": "Nature",
+      "summary": "Immune regulation includes an effector arm: therapeutic implications of phase III IDO/PD-L1 vaccination in melanoma &nbsp;&nbsp; Nature",
+      "query": "ARM lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Consumers allege P&G, Arm & Hammer ‘unscented’ deodorants contain fragrance - topclassactions.com",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZ1hZcW9jM2NqcmtlbjFpOXNtVWtBUU5nMlh4eUNUbTFkSzRtSzQ5SzVad1JWaFZUZmJmSThkd1RFUTcyN0lvTVlFQVMxM1FGbG02V005RmhNdjNOVWxvUUxDaUw5U2ZIMTFnc3ptRURWRUw0N2pzSlltVGxzckx3Sml0N1ZTSk1jbUNhUE1ITmdzaTJuZS0wOWNleGd0YWVfOE1TQ1FGX0M3VkZsYTNnZXdzbDhrNXAyTWlaSGV1eG55RjFWZkt0bnEtVQ?oc=5",
+      "published": "2026-09-05T07:00:00+00:00",
+      "publisher": "topclassactions.com",
+      "summary": "Consumers allege P&amp;G, Arm & Hammer ‘unscented’ deodorants contain fragrance &nbsp;&nbsp; topclassactions.com",
+      "query": "ARM lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Milwaukee woman says in lawsuit her arm no longer works after procedure - Milwaukee Journal Sentinel",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQaV92bFpIZzB2emJRVUNjSTRzTDNKZzB0ZDl6SkN2aUF3RnFBUzFsQzJKbklDazdHcTROUHl1R1FRT21icUJnYndpYWVKMDhULTJqSjNwZnNzNVFZSW50Vm81dEliQzlaQVpOa0lYemZsQ01GWmZ0NUlITjRlYlhrMkdOclpSUXZVSUROaDg2LUI4SmZiT1pqTkhTLUJ2M200U05aWUtoWEZSZjBMdGxnem5mX1RIZndLYTBsOTJqWGVHQ1hjNzJ5V1h4YzVXUUFLTFE?oc=5",
+      "published": "2026-09-04T07:00:00+00:00",
+      "publisher": "Milwaukee Journal Sentinel",
+      "summary": "Milwaukee woman says in lawsuit her arm no longer works after procedure &nbsp;&nbsp; Milwaukee Journal Sentinel",
+      "query": "ARM lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory"
+      ],
+      "lean": "negative"
+    },
+    {
+      "title": "List of 26 Acquisitions by Arm (Sep 2026) - Tracxn",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMkxGbEduRGplLXhVeGhNdFN0RG83WGpHVFJ1UlRfVE8zendMS1dGSXhxNWV4ZW9IeW9sT1VhOVhPaWpURUY2aUhaOXVnSWJEOHBKZV83dFBhS1Mwc3JOTE1Bczg2N3R3Um9HZ0pnZWFfWWVaS0FJc1Y0MV9xU0trQ0NZX3JZcUFMNDJoczUtaDBXVVBBM0dGUmdKTl9WT1ZX?oc=5",
+      "published": "2026-09-01T07:00:00+00:00",
+      "publisher": "Tracxn",
+      "summary": "List of 26 Acquisitions by Arm (Sep 2026) &nbsp;&nbsp; Tracxn",
+      "query": "ARM acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "mna"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Lawsuit alleges dog attack during Hamilton County shelter adoption meeting - Chattanooga Times Free Press",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQzFFN00ySDhKZVlHdlJpbTYwTHRlbkRNRGRNZnVjMW1xZUZkSHZkYmhTSHl1c0ZmU2s2ZUp0cGpRT0c2VnMyREVIMXdPak5idzVfVURoMXRmWWdsQ0ViTU0wQVgtWEVMUkpuWjZaclBuRTQ0ZDB2TU5sNDJfMXZDRFlYRU8xZXFvUENhN2J4ZzZNVjVCdTk1ZmtVSGlBUVE?oc=5",
+      "published": "2026-08-27T07:00:00+00:00",
+      "publisher": "Chattanooga Times Free Press",
+      "summary": "Lawsuit alleges dog attack during Hamilton County shelter adoption meeting &nbsp;&nbsp; Chattanooga Times Free Press",
+      "query": "ARM lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory",
+        "demand"
+      ],
+      "lean": "negative"
+    },
+    {
+      "title": "Woman who lost arm in workplace accident sues Hankook Tire in Clarksville - clarksvillenow.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdk1VekxRZlR0bno2dnZZUTE1VVJWY3BELU1UVGtBSzJLM3J1bjNzb0VtazFrQzBrQkdUY0dtVEZlRkdCTnU0VEhMMm1GNmNMcF9sdjZ2YXljaFFMZ0JvRGI5T2NPaERjYnRGbFZmYmpCSlBpTnNHSXU0Ql9KOHh5d2pnanN6cHpwV3dvaTlFOVE0MEtpMDNLLVZxQ0dCWkpRUFVxTWNnTTZiODQ?oc=5",
+      "published": "2026-08-24T07:00:00+00:00",
+      "publisher": "clarksvillenow.com",
+      "summary": "Woman who lost arm in workplace accident sues Hankook Tire in Clarksville &nbsp;&nbsp; clarksvillenow.com",
+      "query": "ARM lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Arm (ARM) Stock Looks Above Fair Value Even After AI Progress - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPOUtQNmZkZFg1dkpfSU1fdFl5US0zbTY0REd1Yk9aZk50UzhDUkJ2OVpPNklLc1E3NFBCQWhZUW9MUTY5a3c3blliUFF2RHlKZWlzT0JZQnZtZnVnVUNHYkgxWmFwWWxVSnJnXy1GZlNiUzFjb01UUUp1SkszaXZUUlRodk0wRXFBS2RvS25EU2lMY3VL?oc=5",
+      "published": "2026-08-21T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Arm (ARM) Stock Looks Above Fair Value Even After AI Progress &nbsp;&nbsp; Yahoo Finance",
+      "query": "ARM stock",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "ARM Stock: The $2 Billion AI Signal Investors Shouldn’t Ignore - 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPaHJOR1V1UXhBczlWc05HaWNiOVJTLWtRZW8xaWpyZzJMa3JBTWtBR0NDRGRCQmRsN2gxX25zSVpfVTFCUlVwY21xRm9HLTFlZTVxYmVVeDh5cm1fcmRaUFY5cF9Cb180NW43TGFIdWZxRllKVlNMODZVanVFa1AtTm84c0hPVUZDRFdOZXNrM213TVZjTVRxYVFYXzV0NHZUaG1fdER3?oc=5",
+      "published": "2026-08-18T07:00:00+00:00",
+      "publisher": "24/7 Wall St.",
+      "summary": "ARM Stock: The $2 Billion AI Signal Investors Shouldn’t Ignore &nbsp;&nbsp; 24/7 Wall St.",
+      "query": "ARM stock",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Why Arm Holdings Stock Popped Today - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQR0N0M1VXRlZDenA1MDcwTTNEQ09NTktFX1BJbG9EclBXNGZDRDE2UDNieUlPa2hjTkZvNFB1T2J3M3ZXa1UzXzhtRnBmWldCVnJ6RkpQaENjRkFzSk0ya1ZwQ0VCRDNLNmJWeDZIZDhkdUN0QlNSNkV3dXVZYzVqbV8yZkZka3VmMW9oOUVVcHBTNHY3YVo2ZVdB?oc=5",
+      "published": "2026-08-13T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Why Arm Holdings Stock Popped Today &nbsp;&nbsp; Yahoo Finance",
+      "query": "ARM stock",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Lawsuit over Army’s use of AI in contract award could increase transparency around proposal evaluations - Federal News Network",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxObGdoSFd5UGhFYVZmRVIxdUlkbHl1eWhlZlBFRXBTNk1kQTBCX2hjZVptdkZ2NnFQRm1ReVg4VXlpc2trS2VndVg1SXlHRC13LUVJQ002QzJXa1FfOEd6SU44THg5Zy1RSW93TjNGNEpTN3M3VG1aOGJySF9HWDhYZ0hVRzNremVGeXg3WHJEQUtkc0ZyQlRRRTZPVnB1VUFYUnlqTldqbV9GWWdFSXZ2MVN4VklySTU1UTBKYVlFbTFoOUNzX0dLWjRaM1V6OXQ1OVphVUFmNnhpYkpUeGpmZWpXeVdNcGpVNkE?oc=5",
+      "published": "2026-08-11T07:00:00+00:00",
+      "publisher": "Federal News Network",
+      "summary": "Lawsuit over Army’s use of AI in contract award could increase transparency around proposal evaluations &nbsp;&nbsp; Federal News Network",
+      "query": "ARM lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory",
+        "demand",
+        "macro"
+      ],
+      "lean": "negative"
+    },
+    {
+      "title": "This Analyst On Wall Street Thinks The CPU Trade Is Overdone, Should You Sell ARM (ARM) Stock? - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOeWo2Rk1uOFR0dzlvR1k2Z2s1ZmszQXN1U194bjktbmU3NnhXbHlVSkJFbUVCbXhHU0lGcGp6ejlCMU5XNnlQXzBlelEzSnRLQkRLN05mTWYtTWlKTnVDV0c2Z3VrUkp2VkRNTXVpU1ZuQ0dzTlIwM3V3TndBUUFFVWVPbXZYa3dtVHhsUFpxNDVCeThMT0FmNEJuTQ?oc=5",
+      "published": "2026-08-08T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "This Analyst On Wall Street Thinks The CPU Trade Is Overdone, Should You Sell ARM (ARM) Stock? &nbsp;&nbsp; Yahoo Finance",
+      "query": "ARM stock",
+      "source_api": "google_news_rss",
+      "tags": [
+        "analyst",
+        "speculation"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Arm Holdings PLC Stock (ARM) Moved Up by 14.76% on Aug 4: Drivers Behind the Movement - TradingKey",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPNGpDNFNCazZRRGVkTHRKdUtyNWNmSy1DTE0wWUpNQUpVckNBckV1X0JwblZUUVAzXzBoM3RkRVhGUWsyZ0VUUUItZUlIdFRGU0N4X29Wa1k5QmZtRmwzWk54anlqdzVRR1lmOEtoaHJQV0xCXzZUNm1abFhVVlBORmZmWnhENlFaQnc?oc=5",
+      "published": "2026-08-04T07:00:00+00:00",
+      "publisher": "TradingKey",
+      "summary": "Arm Holdings PLC Stock (ARM) Moved Up by 14.76% on Aug 4: Drivers Behind the Movement &nbsp;&nbsp; TradingKey",
+      "query": "ARM earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Is Arm Holdings Stock a Buy on the Bullish CPU Outlook? - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOX1BkQ04zNzZEMWlpQzVISVhnb3h3NFFYOXpMUUJpVTRzMDczbGwwcU9WT3dSbEZoVDhzSXNBcEpZUWlfNE1nTVljdlFLbHd6UzZCV3Vub1RTQ25Ya3ptTnR5cG1rZ0xxeVQ3eG5URFNJeUdTZmNqTEdlbk1uQU0ybzJZcjkydENPeVRaSXJzTGk3Nkk5QlRxb0piOA?oc=5",
+      "published": "2026-08-02T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Is Arm Holdings Stock a Buy on the Bullish CPU Outlook? &nbsp;&nbsp; Yahoo Finance",
+      "query": "ARM stock",
+      "source_api": "google_news_rss",
+      "tags": [
+        "guidance"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "1 Key Metric To Watch That Could Send Arm Stock Soaring - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPWTY1RXpzbEtTdjV1OWpHZG5DZVVtNXk3MlFBMVdiM19Sd0tFaGpzUlRub3lia2xURGpTYTVrcjZ2QkJBbmtsYjdoY3I1ZUp5eWtnWDgwMU94V0JwU3VXdXlSR1dwQnZJWVUzMk52bldxWndudFlya1V4VE54V1psMGNJVWFMdHRYaUs4cXhKVFRFaW8?oc=5",
+      "published": "2026-07-31T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "1 Key Metric To Watch That Could Send Arm Stock Soaring &nbsp;&nbsp; Yahoo Finance",
+      "query": "ARM stock",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "InP Capacity Arms Race: How AI-Driven Optical Interconnects Are Reshaping the Semiconductor Value Chain - Data Center Frontier",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOTW5BbksxVDVKTGNZVlV1OGdOSWtUXzVXbERIeHRWbHJiRWdMVnNWaFpQOVpUWDJoS0pXemNkRUJOOUR5MGlsNlh0S1Bueld5WS1zV09Bdlh3YWpsSlVXQTNiNmNtV3VjOGVwVlI1VDZDa2xLNm5hWWtmTmsyUEtMRG05dWg1Rk9uaV9xVng3M1hYNGQ5ZHdfbHpJX3FPVndUSUx3VzJtRnJLbi1IbV9OQ3h4WVN3Qkxhb3RqZDQ1bk9vVmdGcnBIUWpRYzVHRV9MWk1xRXlrMWZ2Q3RudEpQV0V5WTVLWWpLME9fcWM5Mk9DN25iel9j?oc=5",
+      "published": "2026-07-31T07:00:00+00:00",
+      "publisher": "Data Center Frontier",
+      "summary": "InP Capacity Arms Race: How AI-Driven Optical Interconnects Are Reshaping the Semiconductor Value Chain &nbsp;&nbsp; Data Center Frontier",
+      "query": "ARM capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Arm Stock Fell 8% After Reporting Record Q1 Earnings Revenue of $1.29 Billion. Here’s the Bigger Picture. - TIKR.com",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOVHFlX3BDa1lfTDVPdlhRcm91ekJpTmRrNzB2VDh0Q2N2VENUMDA1clJ6cWM2UlZVMGdWcUwtNll2N0gwcDd6akZ3V013MksyaGxsNXdmRXhVcS13ZXJXek91VllWLUNFdVpSVlc0M0tXRDFPNXQtTE0yYWphbGprRkp1a1plaFE4YWlINDBRMXlQVllualR5TlI3U29ocDlWblc0M20tX0xvZmRnX2Zjc3Q5X2RHckdzZXdLVXZKTUFNZW1C?oc=5",
+      "published": "2026-07-30T07:00:00+00:00",
+      "publisher": "TIKR.com",
+      "summary": "Arm Stock Fell 8% After Reporting Record Q1 Earnings Revenue of $1.29 Billion. Here’s the Bigger Picture. &nbsp;&nbsp; TIKR.com",
+      "query": "ARM earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Arm Stock Rises 4% After Revenue and Profit Forecast Beats - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTlBCWDlKMTVYeFZXXzRuUHdXWkRfaGdJY3J2MUxBWnp1ZHBrVXdZQWZNVWExMjhFYTBYTU1rUnBZRXVkc2dNMnVuVzFGZjc4WFQzMXBJRDJPTGpuLXhmNVhUNTNDODRKRHBFTHc1elZqTXNyMm1ib19qcUtfWEppSjdUV0YxZC1kcG5famRaWnlOT2RuaFZlVFBuUXFJZXNpNXFWZGF0SHlBX3JXa3NfYXpOVTI1RlZ4?oc=5",
+      "published": "2026-07-30T07:00:00+00:00",
+      "publisher": "TradingView",
+      "summary": "Arm Stock Rises 4% After Revenue and Profit Forecast Beats &nbsp;&nbsp; TradingView",
+      "query": "ARM revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "guidance",
+        "price_move"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Arm shares dive after hours despite forecasts above estimates - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQVdVN1lfN0s1bENWQ1FVX2tWSkZjeEFxUWFfcTk5Q1J2UV84bkhLRGhKbGtsQTMxdDduZEhkUng0a21obzVZU0hYSlBPOFJRWmwtd2QxTkw3Z0JOcDgwTEthQ0RwUWJMa1NpVy1Cb1hPZ1E2c0FpTkhXcWpKYWRPWFZqMnNJbFZCMktHdU9KY0p6cEtsZzc1QnlLT2JqRmY1N1hR?oc=5",
+      "published": "2026-07-29T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Arm shares dive after hours despite forecasts above estimates &nbsp;&nbsp; Yahoo Finance",
+      "query": "ARM earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "guidance"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "ARM Holdings (NASDAQ:ARM) Fiscal Q1 Results Beat Estimates but Guidance Disappoints, Shares Drop 6% - ChartMill",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNZTdQaXA0MEdGX3lMSTFObTRKNjJLdXJmTUZSNXlCQkd3bWlCNWxTb2hxWDVLQThQRHJ5ejBrOVlzRzQyZ1EzMjJUdkZ3RjhTdVJxNkhGdW5IRVNBbVo2N0Jham1RVmJnNDROTEtsaHdOdVFYYm95WjVDMUREdzBJcWJOcnlZS2Y1NDB3SUtZME4yTVQzOTZzTzh5Rko3LS1KU1NIamZ3T28xSzExSFA0NzdhRGVjWXdKN0lPODJjZHJHSmlNQlBrZFBncmpkdTUxVC13MjdaU3RpRkh3V3c?oc=5",
+      "published": "2026-07-29T07:00:00+00:00",
+      "publisher": "ChartMill",
+      "summary": "ARM Holdings (NASDAQ:ARM) Fiscal Q1 Results Beat Estimates but Guidance Disappoints, Shares Drop 6% &nbsp;&nbsp; ChartMill",
+      "query": "ARM earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "guidance",
+        "management",
+        "price_move"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Earnings call transcript: Arm posts record Q1 2026 revenue as AI demand surges - Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOcndWRDZYNEM3eEJhdnA2TkpuTGg1TmpTTk9BTlRIMHVlXzNybkVQMzF0TmEwMThJVVFxN2llTkptUkVFc25QX3dTZDZSb0NoV1ZjeTYtSlNBeFpFMHIycnRkU1d0REFLZEtMeWk1U3ZobzVzZUlqNEJSV3BUaW1aM3BlY1BNTjRZZDd4WmpaLTNjT0ZNVVczcTl6alpyemFDOVIwMmw4dmZTUDV2Mk14SHR3bG5fMEh0cVlHLWpSSUZ0dVBCblYxSXE4ay1zQQ?oc=5",
+      "published": "2026-07-29T07:00:00+00:00",
+      "publisher": "Investing.com",
+      "summary": "Earnings call transcript: Arm posts record Q1 2026 revenue as AI demand surges &nbsp;&nbsp; Investing.com",
+      "query": "ARM earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "demand"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "FARM Rio Selects Inspectorio’s Supply Chain Platform to Aid International Growth - Business Wire",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNbUtDSkJGX1lnaUJxdHpZVk16V0doSUVFbENibE1BUi1Ra193bTV3bXAtTVBENGhfdFQ4T1JWd3FhdDY2MUtjMkhrT2x3WEF4UktmaGNlVU5Qc2hWSUxFSW9XUDJOVkV0X2ViVFdxTWFBMWFKeVBldkJIZ3kxR01PR2tWb1JGelJhSnl4RTV2V3BQdGptWjdFaF8tc05IZFpJdEhyYW1sdVVBUkUtQ1ZDTThsYzhqZnNQaEJuTGNKbUpsV3JLSFg3Qk1rcm9fT2ZVYWc?oc=5",
+      "published": "2026-07-28T07:00:00+00:00",
+      "publisher": "Business Wire",
+      "summary": "FARM Rio Selects Inspectorio’s Supply Chain Platform to Aid International Growth &nbsp;&nbsp; Business Wire",
+      "query": "ARM capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity",
+        "demand"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "No Matter Who Wins the Smartphone and AI Chip Races, ARM Stock Still Benefits - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUWo4elJhb0RJMTNSOVBLLVExRjZtNXB6SmxfcFIzWlNEQVlEcElDQjdyZEgxamJSMXpqWEpDc0xWUGxTM2RRSHdtOTk0d0hQbW0wNjFoai02ZHh1ZXlxem83TS15WmJUZDBMRklnWUVkanlRallYXzhxWmdLMzlTdnlXQ3B4bFp2VFQ2c3VNb0N4VnF2QjVR?oc=5",
+      "published": "2026-07-25T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "No Matter Who Wins the Smartphone and AI Chip Races, ARM Stock Still Benefits &nbsp;&nbsp; Yahoo Finance",
+      "query": "ARM stock",
+      "source_api": "google_news_rss",
+      "tags": [
+        "demand"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "China’s playbook: Arm Iran, then capture America’s supply chain - Washington Examiner",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMEJTdmJEZ3VseHVoLWxvTVdOdWNieUxrMzk0RmpYVXMwLUdmQzJrUHhtdjFwNEJFMWlza2pqbWhob29OS0F6ZVdBSVVYNFJyVW9YNDhxYWN3dHU0NUtNTE04a1BtakRQQlFoOVprdWdtSWJXNDNueUpUUHE5emRUUWlKV0l5eC1vMmJUd0ZDZHBNYjFsZEl6Tk5n?oc=5",
+      "published": "2026-07-23T07:00:00+00:00",
+      "publisher": "Washington Examiner",
+      "summary": "China’s playbook: Arm Iran, then capture America’s supply chain &nbsp;&nbsp; Washington Examiner",
+      "query": "ARM capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity",
+        "demand"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "ARM Stock Takes A Breather After Three Days Of Gains — Wells Fargo Cuts Price Target, Warning Of A 'Tough Setup' Ahead - Stocktwits",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOYmQ4bGE4Zl9rZS1VbjVGOEFaZjFsQTMtcXdRRW9veTBBU0JYcE5Tb3ZFWjBsMmZBOGtOTWFPcVRUeTR0dzdJWjRyUU9Za1FYQ2NlbzNUZkFybUp3LUYzWVAzSnNrbTRoU0Nfd0U4dmVuR1RMRjgwaTZpOUpNNndRMGhRaF8xU20tMG1TUHVMV2ZZTDRPSGhib1QtRjFPd0Y0cktETHBueTdTa21BTlpVcFU2RS1HV2thZExiTWRaZFgtdk9DWGFoelpaVW04bXpZSDdV?oc=5",
+      "published": "2026-07-22T07:00:00+00:00",
+      "publisher": "Stocktwits",
+      "summary": "ARM Stock Takes A Breather After Three Days Of Gains — Wells Fargo Cuts Price Target, Warning Of A 'Tough Setup' Ahead &nbsp;&nbsp; Stocktwits",
+      "query": "ARM stock",
+      "source_api": "google_news_rss",
+      "tags": [
+        "analyst"
+      ],
+      "lean": "negative"
+    },
+    {
+      "title": "Settlement reached in lawsuit over child’s arm stuck in Horry County school bus door - WMBF",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWEZKZFI1aExyNDJfdmJTeGVoQ2wwbUxTVVZOOC1nLWhyaDZjenRyQ3ZKR2dSX05IZ1p2enFxMjVESGJWcVNzN2pfUnNmWmRPUE92bW9ORkw1cHU1dllPTUpPWFpfYkhCdzhjaHE2QUYtSFRnRmNabTk4LWhYUTQyT0gxdlRvNzlZSjVCeTFIaWZjZVZHeHNCVUY1cV9oTHFJdmFxOGI1OThVOU5VVGRoWlFNci3SAcgBQVVfeXFMTl9rN2JrV0VyTlI5b044TG83QUFsNUpMaEtiMzVYXzZ3QXMtYlZBZ2psOHk0alo5X3Nibm44cm5Ca0hWdVEtY3ZicWRyNlFYdFFFTExEM3hpODRfWk5iLU80QkQ1RUZiY2dYdjQ5WmRpbFNtcmIxcTFENWNrZ1FIVDhNLU1ucGhaSWdfd19ld1BWWVZ0SnNIc1gySnlVNzhMMHpfdkl4S2tGeUVWLUZqa0oyX1NBNnpTQTNHRzlKbkxNRkJ2UlpXa18?oc=5",
+      "published": "2026-07-21T07:00:00+00:00",
+      "publisher": "WMBF",
+      "summary": "Settlement reached in lawsuit over child’s arm stuck in Horry County school bus door &nbsp;&nbsp; WMBF",
+      "query": "ARM lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory"
+      ],
+      "lean": "negative"
+    },
+    {
+      "title": "AI Infrastructure Spending Hits $89.7B as ARM Passes x86 - idc.com",
+      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPZzNPdlZFMGNNQ211Qk1sZkpLckM4ajliTUtYXy1xcktzenlKdkhEVnRhQU9IRi0xM0M3elMyMGVaOTZFUnNtazFvSU53S0t5aFdkUW10cXJRVGYyT0MwaWdQVUpwZm5uQ2piR2RpYldNdUxVbnp5cDJRbkFmX2RDTTFqYl9UaHhwSUJ6Z0gwaGdWSTlraWdlZlM0RnQ0TFp4VF9UeVdURkVCQ3ZrbGhUME9DY0U4R1poNDVLZzdQcGZrVVY4NnBkRF9wZHlUZjFiamtaT1dLdVpXS0FQcmg0MjFKenJRZzQ1b1gwejJ2S0dpeXM5RmhIRnRKdG9Ra043a1VjMDZiUXlYdDAxLVE?oc=5",
+      "published": "2026-07-21T07:00:00+00:00",
+      "publisher": "idc.com",
+      "summary": "AI Infrastructure Spending Hits $89.7B as ARM Passes x86 &nbsp;&nbsp; idc.com",
+      "query": "ARM competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Arm (ARM) Stock May Be Priced For Perfection With P B At 35.7x - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUVJlTUJEeFBDZ21HWGVTbFl2dW9hX3BhUVNxbU5sWThLcHEzVHJ5UVhlcUVvb1AxMjlod2N5SS03bGtBOEhMbmhwdnVvTmowR1lpSmNfU0RIVmNyX0Z2S3dHT293dHIwdjR1TnhNUmRXTmF5cHdURzMxTjAzTE5OMHVrSmF0aVVTQXZyVlV0UkpVQTg?oc=5",
+      "published": "2026-07-16T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Arm (ARM) Stock May Be Priced For Perfection With P B At 35.7x &nbsp;&nbsp; Yahoo Finance",
+      "query": "ARM stock",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Arteris Expands Arm Partnership to Strengthen Semiconductor Cybersecurity Assurance - The Fast Mode",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQTzBLNFZLaktYcnAwUS1TY09VM0ZqZVViWG9VZEN6TVd5Z3o2ZVI0ZHVxbS05QU1lallrcVVod3FEcUZfYkpJN3YyYzNIRWo5SXRLaTdadEFmZTZXd0UtRTVrWVlVcnNWMVpVRGNyMVFPbXdmQUY0emdiME5mbmJ6LWU4NEplSkM1Vl90U3RyQm1vVjN2djBQa2t1Q2RLaTMxVGtXU1JjWm45TEljaWFqRW94MUF0bmE3aHFRMk1QZjhWUEhzVGZiNk5MQnc0eXBHdWxMTA?oc=5",
+      "published": "2026-07-16T00:08:33+00:00",
+      "publisher": "The Fast Mode",
+      "summary": "Arteris Expands Arm Partnership to Strengthen Semiconductor Cybersecurity Assurance &nbsp;&nbsp; The Fast Mode",
+      "query": "ARM acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "demand"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Arm Holdings Reports Earnings July 29. Here’s What Investors Should Watch. - TIKR.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNzNDcWlxRjFrNWV0ZDREa1paSFRxVDdIQndYWGIzVXRxUFNMNEFfT0xSRFdKb2tDTnl1R3hJVlRWZXFNdlFkQ2N1Zi0xQWR5bnR3TDBvaFMxSDB0SFBNLUZ2ekNkSVRYaEZjZGdaY2c0czB1X09NYmZnQzVKS3p0SC1LT3UtV1Ftam9zaUZBQ0NNcUVtYXh4WERzMGkyZw?oc=5",
+      "published": "2026-07-14T07:00:00+00:00",
+      "publisher": "TIKR.com",
+      "summary": "Arm Holdings Reports Earnings July 29. Here’s What Investors Should Watch. &nbsp;&nbsp; TIKR.com",
+      "query": "ARM analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Army Signs Streamlined MRP Aligning Authority with PAEs to Accelerate Capability Delivery - army.mil",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQc1BrQ3UwSFhEeFVJRGNkMFRvM3MxWk4tNjE3LVVzUnMxbnhnLUYzejZxanJMc0RTM3E4dGtyVkYwYTVaczUteHh4S3BCbnN6ZzA5OU1JZGdCSENOdHZhcE5iSGFONF9WeERPbUhlUnZEVk8xVDJWZ1ZIbERCR0RMd2R6NHZyM1ZwNHU2SEVmYklwbEpHQVBWalM1M3dmeXd0SjVtN2lSMUllWjFqWHZoRFZ4eXB4ZkJwbDZTRENfWnMyZkXSAcgBQVVfeXFMTW9uMjRsMF9oRDZjSHBTcjdvanY4Y1prLVhqUGZPOWp6SDVVSjgyU0cwMnNfYzVKdDlxekZPMmlyZkd0N291ZDc4eXhzLTZrU0hVbW9pYnEtNTg5bU1yTUZ3dy1oTW9CTVJFLTdBS3NYYURNNm9uRTFSRXdpVDRNRWo4WXRmRHFYaXg4aUQ5dEpPdng5UHFxckk5ZTloYVJDUDk4eUp1a0piTnVpUGFNcFVRWW4wOWZFWE5fRTIwR2VvQzltVExLLTM?oc=5",
+      "published": "2026-07-13T07:00:00+00:00",
+      "publisher": "army.mil",
+      "summary": "Army Signs Streamlined MRP Aligning Authority with PAEs to Accelerate Capability Delivery &nbsp;&nbsp; army.mil",
+      "query": "ARM lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Exclusive: OpenAI deployment arm to acquire Northslope - Axios",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUWVncFk3aF81WnNxd2liXzhuNGYzWDJ5RWlvSWxJdXMxUTJwaEs1dlp5bTBQNW1VZHkzcVBieURJcjVvRHJ4dnVZUlRrcmhsaHFHdEpFbUNubzl1cDRqdXVBUjBXbkE0M2lETk02eG9BRDFoY21TSEF5b05UWmV5akJ4dl9NMmdP?oc=5",
+      "published": "2026-07-08T07:00:00+00:00",
+      "publisher": "Axios",
+      "summary": "Exclusive: OpenAI deployment arm to acquire Northslope &nbsp;&nbsp; Axios",
+      "query": "ARM acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "mna"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Symbotic Acquires ARMS Innovations - Supply & Demand Chain Executive",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQLVVaS3RQd2gtenBNZ3BoWjYtVnZmR19HUUNnU1FuWHlfMDkzNlZoNTUxeTA0b3dYN3RhUzVEaEx0LVduLWhZZ0o3U1pmY0dyTFRIc3pGZ3VWR3o2MXhvLTRHSzZSUUI2VkQ0Y3lVLVRHcEN3aWJ3NlF6dm5kWTlTMVBXb0tUSG5TZ21TYWJaVDlNT1otWUZsREx5RVpPdGFfbWJwLWIyUQ?oc=5",
+      "published": "2026-07-06T07:00:00+00:00",
+      "publisher": "Supply & Demand Chain Executive",
+      "summary": "Symbotic Acquires ARMS Innovations &nbsp;&nbsp; Supply & Demand Chain Executive",
+      "query": "ARM capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "mna",
+        "demand"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "CMA CGM acquires FedEx Supply Chain for $1.4 billion, adding 150 warehouses across North America - MarketScale",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNTXg5NVRVcm1kYnJENWpoWFJrUHRyRGlvbnVnaHhjeUxjYkt0cGpOakZmeWw5TmFGSU9XeXFkX2ViMjd2dmZ4eGdzQ09lM05ZZGYtemw1WGZjX3QyRmQ4Mk90Sm9TN09BV3IwTDVZQTNfZzl3VFJ2S01ibDBmUjNCUGJRVkFpd2RvMDh0bXl3TnhYaWQzS21fdXRiRGtFNENzb0l1ekxuU2pFb3BGc2plUVNqQXdIS3FBTE1nYkJwaEdYZFlYekVlUDZDTjdwZmlHbVJocjVydTIzbXNvVHdmVQ?oc=5",
+      "published": "2026-07-05T07:00:00+00:00",
+      "publisher": "MarketScale",
+      "summary": "CMA CGM acquires FedEx Supply Chain for $1.4 billion, adding 150 warehouses across North America &nbsp;&nbsp; MarketScale",
+      "query": "ARM capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "mna",
+        "capacity",
+        "demand",
+        "macro"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "ARM Stock Soars 118% in a Year: Is the Buying Opportunity Gone? - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQ1NhSWJBdTVMM1JTZmdEbVdtUTVGWUJIQ1ZmVFNZZzdacUJ0alBCQnFDVzYyRWZacWsyaHN6cGVDdEV5eTNLQ1JmSEdYSGdSR1pJTkFILXlrSUE0UE53NlIzMWZUVmFIYU5OcVVndzZjQmJCRV9CM0hrd3RELTFESlhsU2tZaFFmVl8wMEg4UjFfS2JPWUE?oc=5",
+      "published": "2026-07-02T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "ARM Stock Soars 118% in a Year: Is the Buying Opportunity Gone? &nbsp;&nbsp; Yahoo Finance",
+      "query": "ARM stock",
+      "source_api": "google_news_rss",
+      "tags": [
+        "speculation",
+        "price_move"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Symbotic announces acquisition of ARMS Innovations - Modern Materials Handling",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbHo1eWhmbVoyMUZQZWZwa0lHNVRrOWhLVUdhNjhoeDVNOXpQSHpBRWlrRmFrOFRRTV9FeVNVZi1qRUhrTmdNWmJ4ZXp1U25xWmRHZDh0TGRIU2w5QS1oRzdrSlByd1RQa25WX212ZzhNZjM1SmhDZl82bjhJVnJoNzR3QkY?oc=5",
+      "published": "2026-07-02T07:00:00+00:00",
+      "publisher": "Modern Materials Handling",
+      "summary": "Symbotic announces acquisition of ARMS Innovations &nbsp;&nbsp; Modern Materials Handling",
+      "query": "ARM acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "product",
+        "mna"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Arm (ARM) Stock Looks Expensive Despite Fresh Agentic AI Demand News - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZk5NaXBnSVdndndmTkoxTnJpcFViZEVsTjhLamxLaGdtTFBHclNGa3pvMnlaeGpEaUo3Q3hQSklJbHBqVnNEMTQ3b2xHamo1TjNfTWNrYU5CMng5RXdaeEEyVzlhMG9UZVcxZU5ZcEYwdEZCR0NDU2VDMTJqMkVYS2ZHZ1NOREZ2eFBRNXZhaFZLSkltbGZRcXV3?oc=5",
+      "published": "2026-07-01T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Arm (ARM) Stock Looks Expensive Despite Fresh Agentic AI Demand News &nbsp;&nbsp; Yahoo Finance",
+      "query": "ARM stock",
+      "source_api": "google_news_rss",
+      "tags": [
+        "demand"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "French shipping company CMA CGM Group to buy FedEx’ logistics arm for $1.4B - AP News",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSFcyV1RpaU9LeGgyenN0Y3JZUE40SlJHejVXWFpLZDc3c1hrUnVJUXp6VDFzUGFrektpZU14NXpMcWh6eUVJaS1QY3lRU3dFTGRBbHFubGppNHpaeHQ4bkxucHRVTXh2dUJFWFc2SDBxeXRWaEdtVTJQLTI3TXhVUnoxNXF4U3VUMWx4TmFRb1Q0V3R1RXpDaDhR?oc=5",
+      "published": "2026-07-01T07:00:00+00:00",
+      "publisher": "AP News",
+      "summary": "French shipping company CMA CGM Group to buy FedEx’ logistics arm for $1.4B &nbsp;&nbsp; AP News",
+      "query": "ARM capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "mna",
+        "macro"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "CMA CGM Group to buy FedEx Supply Chain for $1.4 billion - DC Velocity",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdlNrRUVlX1lOUFVvTkRLVi13WldSNFU4dE5LQU84a2NlT0NEZlRqZndhSmJuNDYxZ2twYVZqMHZLakZJRGxiRTZqWklyZTd6UC1PQ1M1UnJ4TnZOb053d250WFVKSktKRUxGbnJCY2wwNENTZEpMT2hFUWpuY2t0ZjlGLXB1X3cyTi1nUW0wSm5GZUttVWpHUXFOZFpNZnBsV21aVkQ0WXNEMzB2NFNfOVpNUG0?oc=5",
+      "published": "2026-07-01T07:00:00+00:00",
+      "publisher": "DC Velocity",
+      "summary": "CMA CGM Group to buy FedEx Supply Chain for $1.4 billion &nbsp;&nbsp; DC Velocity",
+      "query": "ARM capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "mna",
+        "capacity",
+        "demand",
+        "macro"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Salvation Army seeks to dismiss Portland shelter lawsuit, citing religious ministry - KPTV",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaEpobWg3SEx4OF9kX3JSZEZ4WVFvTXVFS2hCb0ZIR19rZGNOSmp0YmhiVWROZ29YU043MWRvOWk3TEZhSkpnVXhVcnEtOFdNYlR0ZDB6MmM1OHN1VUxTV1VrSTRVdXY1N3FqakFGVkUtSXVsUE04ZlYxb2NKVWNCdkpnYTFFcU1Ydk5LNkdISkVFRzVrN1J1TDJBNnlpVTRCYW9CaVlGU0lLNnZzUkdyVnhn0gHGAUFVX3lxTE14WnJKVVlnQjhzWmMxa1Y0ZWhfSkFzZWRybTNuNXNib1B4aHFSQnZZdC1OMERFNFF3M3Fya2MwcE1Jck5uYngtNXRZb1VTbzRJWW5KU21VME9HdU81QmxzOEtUZVBDLWtGMHpKdG4xTk1BRkNJVkUtUHJEMUZWOFVWazIyclMtTVV3SDd2QmpOdjhCc1ptWTBYLWxvSmZfZl9NNVVVMEdKYnJBWmMwNHd3NEdfS2h5QnZwZTJjMmZIZ3NjVXg0dw?oc=5",
+      "published": "2026-06-30T07:00:00+00:00",
+      "publisher": "KPTV",
+      "summary": "Salvation Army seeks to dismiss Portland shelter lawsuit, citing religious ministry &nbsp;&nbsp; KPTV",
+      "query": "ARM lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory"
+      ],
+      "lean": "negative"
+    },
+    {
+      "title": "Miroma Group Acquires Ad Results Media For Big U.S. Push - ADWEEK",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQdWZ1T09ESE5Cb2JkMnBpRnNuVXlxMDVBb2Y0TlN1bHdtRnppa3NvMk1aSHREcUxYcFE3Tkp0ZF9lUUsxRFVPLXRuRjBBQmNteW1taWJfX0dTMlJiLW84czBTM0tVOFhJb3dRakgwS0w0LWF1dHRZZDdsV0lQdFR1Vjc4WmR2OFJZUnpWQURUc0o?oc=5",
+      "published": "2026-06-29T07:00:00+00:00",
+      "publisher": "ADWEEK",
+      "summary": "Miroma Group Acquires Ad Results Media For Big U.S. Push &nbsp;&nbsp; ADWEEK",
+      "query": "ARM acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "mna"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "TD Cowen Raises its Price Target on Arm Holdings (ARM) - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVzkxTDBkRWkwNHlDWnAxMWJsSDlBSmR4UFRpeXR4T1VWOWZoNkFHODFqQlpaamxFU29hWnZQYy1MUGxPdmxVMTU0eEp6VjM1MlFMMFgwT2c3MmRJZ21MVkI2VTVVYk1aWnloTmN3a2JENTViY0o1ZnJZSTkwZkdFSHgyR0ZzZWZocG0tb3hxb3dGVmlwbEszeA?oc=5",
+      "published": "2026-06-27T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "TD Cowen Raises its Price Target on Arm Holdings (ARM) &nbsp;&nbsp; Yahoo Finance",
+      "query": "ARM analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [
+        "guidance",
+        "analyst"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Bernstein Raises its Price Target on Arm Holdings (ARM) - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVDQ2VXdyR3pYcHNqOUVOc1UtWFJkTDNmNnFyU3NJUGtrdVFrQ09uZ0tpRGNqeGZjUXRFVHhpV055VzNFVlF6VkFxRjAwS0ViWTZZZTdmNVlMbzgwY205Vk1XWmZHUE5FRndOZnVocS0zY3JIU05HbHZWNEowVEo5YUVYdjNyY0lscmtaWlZab2FFdVFHaU5KSkRpZU5nVzQ?oc=5",
+      "published": "2026-06-24T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Bernstein Raises its Price Target on Arm Holdings (ARM) &nbsp;&nbsp; Yahoo Finance",
+      "query": "ARM analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [
+        "guidance",
+        "analyst"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Arm Stock Isn’t Immune to the Tech Selloff. Wall Street Still Sees Big Upside. - Barron's",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5HZzBJX1E1OUtzZVlMVE54MUxWZDhKRHk5b0YtY0s4RUtPSnZ1ZzhVSTh5dmhwYXF2eTRHbXJXWm5CeXA0VTZIYjZSekp5Y3ZoRjhOM1k1NkJoWG9JOGlvZ2JjbEl6ZEJfOVdjektBOWZIYTA?oc=5",
+      "published": "2026-06-24T07:00:00+00:00",
+      "publisher": "Barron's",
+      "summary": "Arm Stock Isn’t Immune to the Tech Selloff. Wall Street Still Sees Big Upside. &nbsp;&nbsp; Barron's",
+      "query": "ARM analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [
+        "analyst",
+        "speculation"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Asia’s defense boom is rewiring the global arms supply chain - fortune.com",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQOEMzTnB4dWJfcXRseGE1MXRheThOdDVLaGV6X3hNeVJaaUdrbnhCYXE1bzJmY3lLbUtRWDR0UXAxbDNtc1l5N1I0ZEIxcThaUnk2WG0zc2lKZG12QVd0M3lGWHZhTUFKS2VSbndvNFZpVTNHSXUzYnpFX3UxYVFQUVg2Tm03amVEUE9v?oc=5",
+      "published": "2026-06-24T07:00:00+00:00",
+      "publisher": "fortune.com",
+      "summary": "Asia’s defense boom is rewiring the global arms supply chain &nbsp;&nbsp; fortune.com",
+      "query": "ARM capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity",
+        "demand"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Arm Stock Is Up 235% in 2026: Is Today’s 10% Drawdown a Take-Profits Signal? - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQSUtKMnNwRVlCTV9OSUI1dFltNVlZZGZ6cC1TNEFMeVpBcVUwQkViWmNCenlRTWQzdG5Ha3g5WGVXdHhMcnhtUEwzWXppcWU0NzhZVzlXU3pVcXJkVUpnanoxQTVBV3pEQ3NUdXdOVWlNOGMwMmtKUTFQRERINzhKMVdKVW02elJ5djJRVVBBZHBxdzg?oc=5",
+      "published": "2026-06-23T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Arm Stock Is Up 235% in 2026: Is Today’s 10% Drawdown a Take-Profits Signal? &nbsp;&nbsp; Yahoo Finance",
+      "query": "ARM stock",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Why Bernstein Just Raised Its Price Target on Arm Stock by Nearly 70% - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUnkxZWlDQ3J5blZHelBNbm5VUUJkcUNZdjlhRzVLczA2TDg3NHdPcXFzcnZJM3NlRV9EQlZjOTdJa1o2S3ZCYXA2QmZpMWpZcGN0ME5Uc2Z4NFgxMjhPdktFbkliQXRhczJBczNBSWxzMHVrdXlJWlBrWkVwc2JILXhSMVNUVmVkSVdOTWpicnVoUnBYRk1FTkVrYTc?oc=5",
+      "published": "2026-06-20T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Why Bernstein Just Raised Its Price Target on Arm Stock by Nearly 70% &nbsp;&nbsp; Yahoo Finance",
+      "query": "ARM stock",
+      "source_api": "google_news_rss",
+      "tags": [
+        "analyst"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Arm Holdings Rose 11% Today. Here’s Where the Stock Is Headed in 2026 - TIKR.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOV2h5N2lfRzl1VGxOWEFhSjN4ejRJUHVBcVFlUy1veUl2RG9ISldLRzBvME5jdWs4YU1TZEphWTluQVgzdmhHWWZMMEdFVmFHcVd0MHoyTm93OW5mSWZfTjNaZGowaVJ0LTY2b0JRbk5IczBfMGFxSmlzd0FVSUNsYzdCeDlzRGV2b1dIQW1GQUZLN0hiQnJj?oc=5",
+      "published": "2026-06-14T07:00:00+00:00",
+      "publisher": "TIKR.com",
+      "summary": "Arm Holdings Rose 11% Today. Here’s Where the Stock Is Headed in 2026 &nbsp;&nbsp; TIKR.com",
+      "query": "ARM analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Is Arm Holdings plc (ARM) A Good Stock To Buy Now? - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPeEtvc2F1UTU0Q3BBaXI1SmI3NkpvVTFJbGFQenlnNFdHMGxNTDRXeGQwc01IRGtYWXB0VXVlRTR3YnY1S1h6dnlQdjhBVVN5bFVwRDMxNDVBRk1JbmhuZndtWHZGN3RSMzdqRUp6VzNjZEpacERrUlU2M2RFb1FIS2pEV3hFNmoydmlzY1BlVDQtNHls?oc=5",
+      "published": "2026-06-12T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Is Arm Holdings plc (ARM) A Good Stock To Buy Now? &nbsp;&nbsp; Yahoo Finance",
+      "query": "ARM stock",
+      "source_api": "google_news_rss",
+      "tags": [
+        "mna"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Dynasty Formalizes New Consulting Arm As Optima Group Acquisition Proceeds - Family Wealth Report",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcVJvRGViR0F1ckx5WkROaWdNeDFWT2xKUUtqdHFiWUFnYUV6cm1UVWJZZ1ZVWlBzQTk5Qld2d3BrMmxvS0hPOFpmMkQ5YmVnMURPZ2N0RUpSLWpfSWNvbEN6MVdjZ1lCNHZRUWJqdlZ0cUxSSTNQSC1uUGRfUndKaDhtd0NPbkdBM0ZtOFNTbUlQdFplUEF1MmUxV3YwUENWNmx5UFBZQ0xHQk92OGxiaFh0TGQ2SW9NM05LNHN3?oc=5",
+      "published": "2026-06-12T07:00:00+00:00",
+      "publisher": "Family Wealth Report",
+      "summary": "Dynasty Formalizes New Consulting Arm As Optima Group Acquisition Proceeds &nbsp;&nbsp; Family Wealth Report",
+      "query": "ARM acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "mna"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "NIH contracting arm announces sunset of all governmentwide vehicles - FedScoop",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVDVva282M2FOZ1AzNFBEckpkQ0ZROHF4YWxJaS1lU1lGRUtRWHRpdnVXTHdIX3FlSzhkLUhMdzhWUEFrVlZoUktFd2I5bW5rSEF3M2RxeTZTM2hrbFY4alZvbzcyQmJyX1ZXVkJ0ZWRLaGVFc0Y3a2hyX3NLZDZOX1M2X2t2X241R2pmUW93?oc=5",
+      "published": "2026-06-11T07:00:00+00:00",
+      "publisher": "FedScoop",
+      "summary": "NIH contracting arm announces sunset of all governmentwide vehicles &nbsp;&nbsp; FedScoop",
+      "query": "ARM acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "product",
+        "demand",
+        "macro"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Dynasty launches RIA consulting arm with Optima Group acquisition - InvestmentNews",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVDdVekNGdWVaMEFIV1ZNTWpMbzlDcnZoZFcxOFVVbVgyWURJSGlxVV9Xa2tfLUJyWTJ4dHRQU3RCRlFmS1pQVURuY1VmV2NseGxkUi1XUDZ4U1QzbkgwQkxZT21RM0RsaUx1cFZjaHJ5N0g3WGROX01Rbndsbk5TZ28wT0FhU05STXJXdXRwb013aWhyei13dGNFS2tMb1FjXzZXTG9zbmIzLTgwc2VmU3Jn?oc=5",
+      "published": "2026-06-11T07:00:00+00:00",
+      "publisher": "InvestmentNews",
+      "summary": "Dynasty launches RIA consulting arm with Optima Group acquisition &nbsp;&nbsp; InvestmentNews",
+      "query": "ARM acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "product",
+        "mna",
+        "capacity"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "ARM Stock Is Up 240% in 2026 but the Street Mean Target Sits 38% Below Today - TIKR.com",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOQUZaMWYwRXctVjNacGh0eUxNZDRnNzBmLWdYQVRqR2t1SVN0SWEyZGNlUDgzUWhLdkk3T3lLdlFIa3hwU1dCZG4tN1hzWm9lcVRJV2Y4UjNpRDJJUlgwLWRRdlBsbHExLUxKYUlsUjdhUE1lcEZnMTRqa2J3ekNPVDN4VXJ4V0NJZXQzeklIbTBRaWdVZHNOUlNlRDVqLUZjaFE?oc=5",
+      "published": "2026-06-05T07:00:00+00:00",
+      "publisher": "TIKR.com",
+      "summary": "ARM Stock Is Up 240% in 2026 but the Street Mean Target Sits 38% Below Today &nbsp;&nbsp; TIKR.com",
+      "query": "ARM analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [
+        "analyst"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "AMD, Nvidia, Arm, Intel: Inside the $120 Billion CPU Gold Rush - I/O Fund",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBZa19ENndDakRzU2E3X3F3cFFsRDYzSEN4X3lGYTNzNW55YXNtWjZUaTFFSUZvbTU1Qms4ZEVFRjRRc1FWRF8zNi01QmxXMmNGYzZpem9NSFctcWx3WlFFNDhVekRYV1RxV1ZTM2x6bGhqeHdkR3c?oc=5",
+      "published": "2026-06-05T07:00:00+00:00",
+      "publisher": "I/O Fund",
+      "summary": "AMD, Nvidia, Arm, Intel: Inside the $120 Billion CPU Gold Rush &nbsp;&nbsp; I/O Fund",
+      "query": "ARM competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Mizuho raises Arm Holdings stock price target to $500 on AI growth - Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOM0YwYk5BT3hCdWZiSU5jdkhHbEtHZVRnQkdqOThSdmowWUhRNlQ2RHQwWTVHSDF2MThBN0w3dXJuQndEVUtOQVJ0c3NIWXMtM3RVc2d6QnZ5NUFuZ1JGLWVrbFVnaUlDbjFudWdHSXY1NklYbGtlRTRGazdobTFoa1lpLWxJZFNQanU1aGZIcUM5R3F2azVOSDlSSFdHVUt5dUNHNHFLU3hlUmFBblpkajBfWWwtdXJLLV82Vmk4SktqQjA?oc=5",
+      "published": "2026-06-04T07:00:00+00:00",
+      "publisher": "Investing.com",
+      "summary": "Mizuho raises Arm Holdings stock price target to $500 on AI growth &nbsp;&nbsp; Investing.com",
+      "query": "ARM analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [
+        "guidance",
+        "analyst"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Can Arm Holdings Triple Your Money by the End of the Year? - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORFJhN1hZTi1tVXdvUDRLb1JsTjhNQ1ZmeEtiaGFab1NpbHRRbEZjLWhfWkMzX3NncDNJd1F6VXFjQjI0SXE2cUZBSHpmNnFNQVF6eThhbDk2VUUzdWF6NHhoS3dMaDE4ZERfcEgtOHEtVkVGX1VBVllTcHh5a29EQlViNEk4OWZmTlM2ZkFOTGx3YXpjU0NUWQ?oc=5",
+      "published": "2026-05-31T07:00:00+00:00",
+      "publisher": "The Motley Fool",
+      "summary": "Can Arm Holdings Triple Your Money by the End of the Year? &nbsp;&nbsp; The Motley Fool",
+      "query": "ARM competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Stock Price Prediction: Arm Holdings Has Limited Upside Despite 177% Rally - 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVDRaMTdoMm5GVXliZG43V3FsSmlxYkdVS0U3YWYxd01LZGJmQU9qYjgxY01rUnVtR3l0ZjFxVHdCN3U2NkMyWVRCOWJCS3NLTldWRUNaNVplM0c3aUpDZXZPUjZTNmZNaTRJYlR1anFaM1ZFcDBKQk9ZTGpCYzA1akdHU1V4d2pLZ0c3b3djVEN4TXVOX3AxczBDd09tX0JhVUtweEZRV0ZzNlpfdjNYQUJvRHFMZW8?oc=5",
+      "published": "2026-05-29T07:00:00+00:00",
+      "publisher": "24/7 Wall St.",
+      "summary": "Stock Price Prediction: Arm Holdings Has Limited Upside Despite 177% Rally &nbsp;&nbsp; 24/7 Wall St.",
+      "query": "ARM analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [
+        "speculation"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Stock Price Prediction: Arm Holdings Has Limited Upside Despite 177% Rally - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYy1QSUxHcTJhRkFhNlhxRjEwWDNPMTNTLXRVYnRtUE5CU1NWbkZXNHJISllZUnIwRjN5OVQtSmFIM0psV3ctQmtVZEpJVnpPTHRyamc4eVpqbG1vbF85R1lqNWFkcjRLWGNrTHRwZ28yRDNJY3NfWU93eVNac0JJSl9fRWgyYkllYm15TkwxRlJaTjdqcDJzaTJ0a2d1YVZRYVE?oc=5",
+      "published": "2026-05-29T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Stock Price Prediction: Arm Holdings Has Limited Upside Despite 177% Rally &nbsp;&nbsp; Yahoo Finance",
+      "query": "ARM analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [
+        "speculation"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "S&P: Progressive passes State Farm in annual market share - repairerdrivennews.com",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOaXpKM0RTOXI3MGVweGtydWkycmZNcmZGU09RcllGeEJKMHFmU3poenJ5eWV6MkV0MkR0SnNnejRTY1FtLTFkdDhGcDJfWC1vX2plZF92LVZYT0ptbnBFalNXc211RThxd01QMHdBaFQzdjlzYU43aDdmQUgzczB6N2dNbU1YMlpNMkotTkp3ZWI5RzRXLUVjZk1WY0p5M25ZenRacA?oc=5",
+      "published": "2026-05-28T07:00:00+00:00",
+      "publisher": "repairerdrivennews.com",
+      "summary": "S&amp;P: Progressive passes State Farm in annual market share &nbsp;&nbsp; repairerdrivennews.com",
+      "query": "ARM competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Army Expands IP Access, Digital Manufacturing to Bolster Supply Chain Resilience - ExecutiveGov",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVFpsMTdhSm9qNWVWOVBvU3FrVklTb2g2OTJqY0pZaGVEYWg2UUpmb1BsZVZmT1Fzc2hEbVB5QnhYdHloVnh2WWxEOXp2cFB5TWpKeXZTLUJVaHRoVW1PVmszZThBYlRjSVU0NlNPY2dqQ1JGNFBteU9ieEFWMC1zNmNEc1dGdFVQTTJNeFVn?oc=5",
+      "published": "2026-05-27T07:00:00+00:00",
+      "publisher": "ExecutiveGov",
+      "summary": "Army Expands IP Access, Digital Manufacturing to Bolster Supply Chain Resilience &nbsp;&nbsp; ExecutiveGov",
+      "query": "ARM capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity",
+        "demand"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Army and industry make significant strides on building supply chain resiliency - army.mil",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWkp4VEZsMDhVXzdRb0RzYXJZMDlOWjhEUHdYYVRUTnFLR2JHSGtYbFhoS1E3OTV5VEdMZVpKbFdHMVZhTDJ2cU5aaVBudmNXZHVTMEY1bGV4WlZtdGRkMFNuRmNYUURIQlZtUlhIOWJRV1YtMV82UTB6LVl2YjNwR1l6T0xwMUpSeXZ1bDF3NDIxUHpLMTRYU2JWOGVJT0NvMXB5eTE2cnVmTTN1VUpBcHJ2c2rSAboBQVVfeXFMTWFzWXJfd3pKVW9pYXluMnY5cllsZzZFU2NVT1kzNndkeTdVSnl6UkdZNUdDNDVBWmRuTHdtcDl4dGRsVmdGUFhYVGpfYkZnRTg2b0hWRkFhNFVsRF9fS21BbG10aTItcnNxTEI5Wlo5dzE1cFFiMUVSTGN6U05IaFBpMW5kWnBKZ3hJLTBVcFRBR19CdGJ2TG0yRGZ6d3J6T1BiMWZKaGlUallsNWI1ZFlwOV9wcUZlQnF3?oc=5",
+      "published": "2026-05-26T07:00:00+00:00",
+      "publisher": "army.mil",
+      "summary": "Army and industry make significant strides on building supply chain resiliency &nbsp;&nbsp; army.mil",
+      "query": "ARM capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity",
+        "demand"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Arm Holdings Stock Gains Upside Potential From Massive Nvidia Market Expansion - TIKR.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQX0FUeEY3ZHUtbzV4RWczUS1qU2JsbS1ZdGFuVDB0NFg0cWF3R05mSW9HVzJTbUpNeXh1NWhQdnBzUnBEVGZkamFsXy02M2NuaFB2cUhFY3JoMjNLb0dSUVBwYzNrU3pMb2ROQ0RHRmZQUmdBMC1wOXlJMURTQVN3MWF0X3pDOXAyaGxMcnN2aHRjVW1aTWk1aDJIMmlLX2w5eGZDdTJsdjh6MjEwZ0g2cC1CbzdYZw?oc=5",
+      "published": "2026-05-25T07:00:00+00:00",
+      "publisher": "TIKR.com",
+      "summary": "Arm Holdings Stock Gains Upside Potential From Massive Nvidia Market Expansion &nbsp;&nbsp; TIKR.com",
+      "query": "ARM analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity",
+        "speculation"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Arm Holdings plc (ARM) to Face US Antitrust Probe over Chip Tech, Bloomberg News Reports - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNeWdmWTNST2prajRtd1JhNENOLXk0N1luS0I2U3M0UGo1RTJPa0Y4Y2xBb0FTOXQ3QVU0UHVyc2hhSUtXWWg2dkQ1UXJ0ZDZOSFhlSnd2dXVhT2pGc0lMbWVBRlBBc3I1ektQNV91Qk1xMmJibjY0VTE1N3AzUHVhSG1ycm9MTFdoV0VGV3d0VWZ2V1hhRklwRFNB?oc=5",
+      "published": "2026-05-25T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Arm Holdings plc (ARM) to Face US Antitrust Probe over Chip Tech, Bloomberg News Reports &nbsp;&nbsp; Yahoo Finance",
+      "query": "ARM lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory"
+      ],
+      "lean": "negative"
+    },
+    {
+      "title": "[Insights] As COMPUTEX Nears, Has x86 Already Won the PC Battle Against Arm? - trendforce.com",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMmhpOUNDbElzTHZSLVMwOXMwZVk2d0NEVzJsbldJU2FXc3FJWDhrRWtONVJwcUR3VnpiVmplN1VGTHRjSnNBSWFNZjhVRDlYMm5ZZnRieTZTYVMzOWl5V29BVV9CNUhZdENrOHNiVzBQaGhlSFJ1QllxQUd0X0F2NDZDcW5QaTI3cEFsdGRFbWVEb0NsQW50S0NKSFZJaldrYUZsa1E5UXpIQTZMeDlWTUZmX3dHU2s?oc=5",
+      "published": "2026-05-25T07:00:00+00:00",
+      "publisher": "trendforce.com",
+      "summary": "[Insights] As COMPUTEX Nears, Has x86 Already Won the PC Battle Against Arm? &nbsp;&nbsp; trendforce.com",
+      "query": "ARM competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "ARM stock surpasses $300B market cap as analyst upgrades fuel AI momentum - eciks.org",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMzB2MmpyZFF1U2ZuX2hPeFBNOXlzNmJIU2lpV01JZzNSQ3pfeUZuY1hkNE5oeWQwUG5RTm1tLTZBckw1N1F6c1VPQ1o2c19hdE1LenQ4S1lGb0JUQVlyT3ZQckxPSjk0NEpuX09YVmZidGFJbl9lNDZNR1pocWxSaWlNcWI5RTZkbzkxdU9TQzFRRU12NzJwZzREUDlxcVBmV2RV?oc=5",
+      "published": "2026-05-22T07:00:00+00:00",
+      "publisher": "eciks.org",
+      "summary": "ARM stock surpasses $300B market cap as analyst upgrades fuel AI momentum &nbsp;&nbsp; eciks.org",
+      "query": "ARM competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [
+        "analyst"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "SoftBank Group adds over $61 billion to market cap in two days as shares surge on AI led optimism - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbjFieGE0eUQ3TVJtczZ4b1RVaGZlOG9rUWdXdFFfX2pjZDI5M3BZTVNmYzVkSS14SkJkU3ZmazMyNjFfanVuSjdJZ2NManUxdXVYa1pZbVMxQ0lOS2FId2tLQWVRS3NzTEdOMVhLNzdxSmdyTWVtUnN3Vm5SZXg5VmRseDhSUVZzY0dUSU1MeklwSEt1OEh0bUdCRFVSeHV6M0wwbDhTZXkzY0owN0tCLWNBVHVqZzRQUTI5NWlPSnFkMG_SAcgBQVVfeXFMUGp2VWgyWG5tS2JyTXBYU2VNc0RsOHZ6RG1tYV9mVUJsS0FBcURGMWtrWTRYRDRrMkk2RUlqTHVJRnFZb2dyVW55T3NfV1ZHYTdfR28yQllPTWFWM3VYZ0RwRksxLXVDVWxZYldJMnZNSW9WQy1CN1N2WG1FanJXZkZSV2FZeEs0WWppYkFNRGhCYXA0Mm96YUc4S1NQSzFjWTktenpwQnpRVmJqbFdYNnJldmpXbWhnYi1VVUtRWTA1RGNoWnRfM2Q?oc=5",
+      "published": "2026-05-21T07:00:00+00:00",
+      "publisher": "CNBC",
+      "summary": "SoftBank Group adds over $61 billion to market cap in two days as shares surge on AI led optimism &nbsp;&nbsp; CNBC",
+      "query": "ARM competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Bernstein explains why it isn't too late to invest in Arm stock - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQkhYOGEwS29NdHlSbmg1WTJUWjdDMjN3TUc2STJWRUduSFhhdE16SzVON3ZoMjUzQWFLY1BWV25RQUtjLTdyWFFxMmRQOTlvdEVpejNDLWxTOVlKNk9wNWdHTmhSQlZkZlU1TnZUQkltRGRUa1pvblpGU1N5MWtxcGtDRWtYaDl1OEFhSkFoblhHRThqaWJ5dDNIcUpvWEsyRDBvaVFsTVU4YmN0ZmRtb05XYXdQVzlNdzlYZw?oc=5",
+      "published": "2026-05-20T07:00:00+00:00",
+      "publisher": "TradingView",
+      "summary": "Bernstein explains why it isn't too late to invest in Arm stock &nbsp;&nbsp; TradingView",
+      "query": "ARM analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Arm Holdings to face US antitrust probe over chip tech, Bloomberg News reports - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSHlkeEpxbnJZNS10MUJ0MWpQbmw2Q2FHNU1WNTF5OGQyYVo0bVVZaE93ZnRDVGEwSUxXZ24zU2N2ZXdGNERSODI1R0gtRHl1bC1KVi1admlrNlBGY3JxenFGTlRfYUJrbG56RXJXcWpwV2U4X21ZVGlXUWdPMHA2eXU2WFQ5U0ZrMm9XNGFNMjd6MVIyOEltLUFsUmhCVDh1RXduM0s2Q0xWSWxsbjh3cWRlQ3BGSHBPWUxMZjlrMnhGWTFpRHc?oc=5",
+      "published": "2026-05-17T07:00:00+00:00",
+      "publisher": "Reuters",
+      "summary": "Arm Holdings to face US antitrust probe over chip tech, Bloomberg News reports &nbsp;&nbsp; Reuters",
+      "query": "ARM lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory"
+      ],
+      "lean": "negative"
+    },
+    {
+      "title": "Arm Holdings Faces U.S. FTC Antitrust Probe Over Chip Licensing Practices - PYMNTS.com",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTXowdnFTV2xWS0VHV3BXYXQ4OUs0dW9HcGx0SFlZODN4UDI2LTdFUzA1T2ZKUGdPNHViMmJnRXVySko0NlZoVmZsZTNEMkNfVFprSDQ2OWVXVE1CUldYYk4ycHFndXJsSXFCajNJNUo4c2J0Qkw2UElDTE15ZXZEdDdMWkZGak50X044Zk1TR0FISHRWOEdTbEdXNi1XWDdFWDZ4NUY5WVpkUQ?oc=5",
+      "published": "2026-05-17T07:00:00+00:00",
+      "publisher": "PYMNTS.com",
+      "summary": "Arm Holdings Faces U.S. FTC Antitrust Probe Over Chip Licensing Practices &nbsp;&nbsp; PYMNTS.com",
+      "query": "ARM lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory"
+      ],
+      "lean": "negative"
+    },
+    {
+      "title": "Intel Is Supposed to Be in a New CPU Era But Its Losing Market Share to AMD and Arm - barchart.com",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNYlVycmozR084UnhvTFNyMGJQSDNCR0c5aWlNRl9GVkZuU3Y3SVlsNGlmak1nT2ZneVhDU2tEVVVLMnRuSVVkaUZySXVlS3JxcHFuYkU2SnBtWnJZelZob284a0Y4OG1yQ3NXRkx5Mmo0TXkzVGJtTjhtRG9PSWIwUWlOVUFZRnkxcFlZTHNxb0drSlBTbDBvWE5Nd1RvMko0d2NISTZiNTJTd3o5UjNjeDZON1B1Q2MtR0lCQmJyM0l4azcyLXc?oc=5",
+      "published": "2026-05-16T07:00:00+00:00",
+      "publisher": "barchart.com",
+      "summary": "Intel Is Supposed to Be in a New CPU Era But Its Losing Market Share to AMD and Arm &nbsp;&nbsp; barchart.com",
+      "query": "ARM competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Arm Holdings to Face US Antitrust Probe Over Chip Tech - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTDl0SGR6cXR2TFozU2RpYUFxN3dkU1lxcE5MMUhTUkM2aHBBa2loQUFNTmlsNXF4d2Y3SjhmNW0zTmg5Ymt2WU55Q0p6dy05UEJsSTdLUTNaN3VOSHdTcFNkdmV2Tzdhc1VYaGJlOEQ2ZHFlSGxSQWRPT1k5ME96VFV1Q2RlM1J5UVoxd3ItdWx1WEJDU1MtNGROLWZ6MWNpZXg5c1c4eTY1NjZDWXAw?oc=5",
+      "published": "2026-05-15T07:00:00+00:00",
+      "publisher": "Bloomberg.com",
+      "summary": "Arm Holdings to Face US Antitrust Probe Over Chip Tech &nbsp;&nbsp; Bloomberg.com",
+      "query": "ARM lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory"
+      ],
+      "lean": "negative"
+    },
+    {
+      "title": "AMD and ARM Extend Server Market Gains While Intel Loses Share (AMD) - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVzBXdTM2ZDNDbzJRbWxRRGZFTHJkSW44eTNKTnY0LWZHcWV1dnA2TTFYVVRmV0sxbjJXSFpaVVFGcER3c1dlWUFfejkyMzRBUWwzdm5WaHFacWc1VWdHOVhqbFBTS053WnRrRlFFNjl0dFEyeHdBdWdvYVBSNEFaN251LWE0V2RzMXhCOW9tbWUxRm9VaVZhQw?oc=5",
+      "published": "2026-05-14T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "AMD and ARM Extend Server Market Gains While Intel Loses Share (AMD) &nbsp;&nbsp; Yahoo Finance",
+      "query": "ARM competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [
+        "price_move"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "$100M lawsuit: Doctor failed to clean arm wound; 18-year-old dies from infection 5 days later - OregonLive.com",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPUXV1eFUxYzFPWUp2eXU5aC0xWFc1ZUgyclh0Wl9MTUw1cHFBVGllbmQ4TlpGTmc3Qlg2bl9fVlg2RGdjbGxNR1lMQjB2X2wzblpJaG5RdGo5SXN0SEEzbXR1NEt1R3RyMXBySEprdkFlMmt2cUtvTG9mMW5EWE9PUkZQSEFvVnlfa2Q1RVBFZnB0VzdLTWgweEk3TDdUN28tdWdzbE96U21lbGgzRXM0VkRLcnpRbmsyTFFwYWFsUUdBWFNoRHFmeWZkaEo3YnJqYlBEd01lVl9UQnF0Y09qcVVoUdIB9wFBVV95cUxPaVB5N3FRbU5QOEE3M29US016dUkzWGwwYTBVLTVfblota05jbEIxOUlLNXNsdVdqRmxWVkNkQVZjTC1oTVp3RjZXcXRrb3V5dXgybl9HUjBuc1NTb09IZjRqamFzSE5lcndQOW95TlR4cGZLSGtqVk5yTTdGSWtSZV94SEo2bndiSTFZZm9DM2tfR2cwN0VTMS16X1FWY1poZFRXLTVtVW04VG50X1c3ZjJvYUhnYmR5WGhQV29KbUh2WERRWUNaeGI5b3g3dXBTWFA5X0NPZHFTMk9JRnFrXy1TTkJudXhLb3lVOGoyX0dka2pQQjg0?oc=5",
+      "published": "2026-05-12T07:00:00+00:00",
+      "publisher": "OregonLive.com",
+      "summary": "$100M lawsuit: Doctor failed to clean arm wound; 18-year-old dies from infection 5 days later &nbsp;&nbsp; OregonLive.com",
+      "query": "ARM lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory"
+      ],
+      "lean": "negative"
+    },
+    {
+      "title": "Oregon teen dies of sepsis after doctors fail to clean wound before stitching, lawsuit says - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOR1h4Qzk2SGhUdEpaQnFOcERfakJxUTlhRDhWdXFPbDlPWmVSZ0xVRno4d1I4RVh6eFhMa0VycHdScE14QWNiU2hSQ09fMnV0QU5ENllYWUZzNl9TSTNSYnM5emtsMnhaeVFsajZrcDFiTnNRTkZWRjhNZU02NUlrWkg2ZWZNNUdlYk1KUnYtRW1GY0Riem9xVy0zbG8zMVpRbld1TjRPbmR0ZVJsdmRLNHNMbEo5X2NHM3c?oc=5",
+      "published": "2026-05-12T07:00:00+00:00",
+      "publisher": "NBC News",
+      "summary": "Oregon teen dies of sepsis after doctors fail to clean wound before stitching, lawsuit says &nbsp;&nbsp; NBC News",
+      "query": "ARM lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "regulatory"
+      ],
+      "lean": "negative"
+    },
+    {
+      "title": "Arm Holdings (ARM) Price Target Raised to $300 on AI and Data Center Momentum - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPN3ltVllWOUQ4R0pOWjBuTm5Cd2dldk5zelVodGFNem1OSENvYWxEbXhOT2haTEFuRWc2N0E3RzVUNzJUbk84Q21XM2dYMlZkZnVaeG4tRUh3ZUhKYWVvUUlCT2YwaGFRUUp1UFVwT3pKYUxmaTAyRlBLSVJhZldwa2JRWE5CWU1ZWWpzdmNRWXJfVHFCM0w2amJR?oc=5",
+      "published": "2026-05-11T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Arm Holdings (ARM) Price Target Raised to $300 on AI and Data Center Momentum &nbsp;&nbsp; Yahoo Finance",
+      "query": "ARM analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [
+        "analyst",
+        "capacity"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Bank of America resets Arm stock forecast after earnings - thestreet.com",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNaE1wb0I5M3hjLTZ6SUJ0bEstc0xZLVUzM04yLTFRaVI3dmlpU29ZSGsxdW1OTDBCY0FheWV1V0VvTW9ySDhJeUE0b3ZQV2R2aDlVRmZMdWliaVQ4V1RmNjNXaTM2d0FUTG5UZ293SThUWEtZRjRvN1ZKc2NkNklGRjRzZ2loUmJ1R2hnQURJVjdPNk9QWVpLbmh3ZS1fVzMt?oc=5",
+      "published": "2026-05-08T07:00:00+00:00",
+      "publisher": "thestreet.com",
+      "summary": "Bank of America resets Arm stock forecast after earnings &nbsp;&nbsp; thestreet.com",
+      "query": "ARM revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "guidance",
+        "analyst",
+        "regulatory",
+        "speculation"
+      ],
+      "lean": "negative"
+    },
+    {
+      "title": "Arm Stock Reverses 15% Earnings Jump into Deep-in-Red Guidance Dump - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTGdWR3o1a2hFbjd1ZVY2RnJkQjFhdkd6MlBSTWpFTnEySllzRmc4MUFFVjVFak9CU2dqMV9vYkFiVmItNVBsY0NKdjJsejZYanZPaU5LeTRIZ09Kd1otdEt1aFVJblBXWlViX0xkeDVRN0lNZFQyaGoybmVNU18xTXcwYU5FTGFuNUJXaE5zdF9VanNvekpJMVFMTGlONVRtZm56MHljekNEcUpFc2FRdnRFVXJTTzdaNWpWeER2aEM0My1GRERn?oc=5",
+      "published": "2026-05-07T07:00:00+00:00",
+      "publisher": "TradingView",
+      "summary": "Arm Stock Reverses 15% Earnings Jump into Deep-in-Red Guidance Dump &nbsp;&nbsp; TradingView",
+      "query": "ARM earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "guidance"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Arm stock slides as chip supply worries overshadow upbeat AI-fueled revenue forecast - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOaHI5MXRMQV9raHZLeFdjUFVXSU1VYldYVkJrdFNaVThOUFpxMUs5VDBsNGZaS0dSaHVlUjFXNTVVSXU4RTk3RjFaQmJNWUw4OEpscUdLWW9RMklkVlNWYktoTXVLamRSb21ubTVBRzZmenpreWxYSnVNWGdxX2MzYUQtTGh6eEtqREI0dWFOUXNEb01ZLW1MQ3ZmTnUtbDJRM0JCUDRpOWNtcXdIYnZoSlQxdVNYaFBhYkhUVHo1eFZmOEE2NURsaTVJMFVkQUpqbXZ1VlNfY0l0TXhUaVRkOTBfWTh2dE40?oc=5",
+      "published": "2026-05-07T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Arm stock slides as chip supply worries overshadow upbeat AI-fueled revenue forecast &nbsp;&nbsp; Yahoo Finance",
+      "query": "ARM earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "guidance",
+        "demand",
+        "price_move"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Arm beats expectations but shares fall on supply concerns for AI chip - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQzcwemk3WGZpblVFSTFXRU9yU09BVFJiaWgtTzBsRF9yLTBiRk9MSnhIbWVucFlrUTF2SlNsOWdKLWx4OXNBbVluZ2UyT3BBdUtaanRsVFh3RmhqcjBJdzR2eTFMWThHRllLRV9yMnFzekF4ZHV1OHNfNFF5by1vTk0xeEt6QVNqLXI3V3JHcGlIN1BFMUJtWEYya0NGbUFQ?oc=5",
+      "published": "2026-05-07T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Arm beats expectations but shares fall on supply concerns for AI chip &nbsp;&nbsp; Yahoo Finance",
+      "query": "ARM revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "demand",
+        "price_move"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Guggenheim raises Arm stock price target on strong datacenter growth - Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdXlqLTVZTmFsT3V2T2ROWEEzZFl5TUM5WlBXSXBRRlBEWHRNTGgwNVltS0lsbUpCaDJTUllsa0FPYk1xczdCRl94SDRrajFCcVZhcFlKd0ZtTWVWcTBhdkluUUM2VVZQWld3TnNxUWRfMG45Tjk4Rm5veU8yQ253TGF5UEZOMFp0dndzOWk4VWoxYjE4dFV5akZ6NGgzZWp6amVjdXhvVjhwNjFJQ0RWajFfclU3REpabmkyQzlsVmd5WUlTOHZz?oc=5",
+      "published": "2026-05-07T07:00:00+00:00",
+      "publisher": "Investing.com",
+      "summary": "Guggenheim raises Arm stock price target on strong datacenter growth &nbsp;&nbsp; Investing.com",
+      "query": "ARM analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [
+        "guidance",
+        "analyst",
+        "capacity"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Arm shares slide on smartphone market weakness, AI chip supply concerns - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQLVN5WF9RU003bTQ1dTIydWxJNS1HSXJoT2x5T1FicExfMGVXbzF6YU15Y0VUNDFTVl9OOHN3akk4bHp2OU81aU12Ymx4OWRsZWE1eDhDYy1QQTgtRURVQXUtV0tpTWtZX1JONlAwd253SXV6ZW9yNXFPaUowSWx5WlJrSV9kRERpdXdWOU1BaGtpUXdGTnRUbm9rVUJQMDhzclAyZ1V6dW1ucWJ5RXJFNnMxeG5iX3oxWVE?oc=5",
+      "published": "2026-05-07T07:00:00+00:00",
+      "publisher": "Reuters",
+      "summary": "Arm shares slide on smartphone market weakness, AI chip supply concerns &nbsp;&nbsp; Reuters",
+      "query": "ARM competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [
+        "demand"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Arm Shares Fall as AI Chip Supply Concerns Eclipse Strong Forecast - Global Banking & Finance Review",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWDY3dUQxYVB2LW8xSURRVkRkQ05xb3B5Q1RfRDEyUjRIeGxiS21yV25DVlB0UUlyWEc4amNFNERKd2dGUWR3V2FKVWZvRnpFZEkwSTVSelNhRjZJc3pSbmN1UDA1b3VVUFE1LXZPcDVibFlYLW0wRVBkMXBXejJWV1J5ZWV4b3FfeEVCODFXem5GazZtT0hRSnVWQnV6S2s?oc=5",
+      "published": "2026-05-07T07:00:00+00:00",
+      "publisher": "Global Banking & Finance Review",
+      "summary": "Arm Shares Fall as AI Chip Supply Concerns Eclipse Strong Forecast &nbsp;&nbsp; Global Banking & Finance Review",
+      "query": "ARM capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "guidance",
+        "regulatory",
+        "demand",
+        "price_move"
+      ],
+      "lean": "negative"
+    },
+    {
+      "title": "Arm Holdings Lacks Supply to Meet Roaring Demand for New Chips - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdFFTc3NVQnVHa19sYlFZY2FRUi1XalI1LXFhTkVsNF9pMVVxMUpVXy1fYk1SQzNiZjNPRmxBMExSa1IzOUNjR1Q0NzMyb0liTEdwMjNFQ21vYzF6bmFwMVFBUzRTRnNMRnlqU0U2Rkl1cy1qWFBMWlVGSlJTXzBTVmt2Skk4ZHhGajRuVVlveUhzZEkwSW5jUnBpZkY0eHdpbVZjeGdOU2Izallm?oc=5",
+      "published": "2026-05-06T07:00:00+00:00",
+      "publisher": "WSJ",
+      "summary": "Arm Holdings Lacks Supply to Meet Roaring Demand for New Chips &nbsp;&nbsp; WSJ",
+      "query": "ARM earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "product",
+        "demand"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Arm posts strong earnings beat; shares drop 6% on supply fears for new chip - Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZFllcDdSNjlKUzFieVRwZ2FYZWZVZF9CdS1OZC13QVBielpIMkdtU1VtMm1oam9pWWx5bllxRWh4TEJjLUFQTy1Mek9LSXJNVVRXV0xEeGVRSV8zQ3pOTVp4M3J5OTg4ZlBnU2NyMmpONUJJUGtESHNMS1dMSnpHalJZVkpnMnFONHF3Tm5kcGVObGRwdFA2YnVRUjUzWEpIX1BDS2w0ZGY0T0FYOGlr?oc=5",
+      "published": "2026-05-06T07:00:00+00:00",
+      "publisher": "Investing.com",
+      "summary": "Arm posts strong earnings beat; shares drop 6% on supply fears for new chip &nbsp;&nbsp; Investing.com",
+      "query": "ARM earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "product",
+        "demand",
+        "price_move"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Arm’s stock sinks even as it reveals strong interest in its CPUs for AI servers - SiliconANGLE",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbGp4anFDZXU3VC1Ra0hnUy1PSDA5bFZIQWttX2Q5dk1Uc1dEUE1MT0hzVld2UFgxT3pldkJ5S0Q1YldWVnQzR0w0Tm0yWGg1cnA1TTl3RmxyOUhfbVVJWjliSXBtNkdZZ2txU001anVZcGVMVVU4RENDZHU0b01EZjZ6cE9JSkN1YWNmelJHb3J6dzQzQmtQcA?oc=5",
+      "published": "2026-05-06T07:00:00+00:00",
+      "publisher": "SiliconANGLE",
+      "summary": "Arm’s stock sinks even as it reveals strong interest in its CPUs for AI servers &nbsp;&nbsp; SiliconANGLE",
+      "query": "ARM earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "demand",
+        "price_move"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "ARM Q4 Earnings Call Highlights - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPaVhJUF9OS1pMY05fN2p2T2lMLTJDSjFXZTZlN3ZRcUZmRXhWNk1wbWwyNWVYQmx6TVptYnNjSWJSRm5yN1djVmxweUhzTzRDOV9aU0ZKUjFZelhna1ZSOTZVaVNYMzFpSWZ6UEZsNEJmMS0yRUxFWkhvX1JkUWk3Qjl1T0sxbWJRc2Y1ZWxGUGtFbjdsWmxBZmstVUs?oc=5",
+      "published": "2026-05-06T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "ARM Q4 Earnings Call Highlights &nbsp;&nbsp; Yahoo Finance",
+      "query": "ARM earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "ARM Holdings (NASDAQ:ARM) Reports Blowout Q4 as AI Demand Accelerates - ChartMill",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNkdYMThRc3NsMVp6bk9NTnlKWFlsWm5xYjJnRkE2V1huWko0WHp3MXVUTHFCS090cEN5SHlZSmkwSkJ0ZmVHZDA5Vl9oM1pOaWVQUWZVZnBKTjl6U055dnJieDdiVHdjdkNNdVgxSE8ydDdEMlIzdkpOd3NmZFdTZ1hKeDFEellydHFGbHVzQVd1MGpQRkx2TVNlTy1WY3RiTGYxMHQ3aUJka19tOGpMa1gyODl2VllO?oc=5",
+      "published": "2026-05-06T07:00:00+00:00",
+      "publisher": "ChartMill",
+      "summary": "ARM Holdings (NASDAQ:ARM) Reports Blowout Q4 as AI Demand Accelerates &nbsp;&nbsp; ChartMill",
+      "query": "ARM earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "demand"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "ARM Earnings Call: 'By 2030, the largest share of the CPU market will belong to Arm.' The number of CPUs may not surpass that of GPUs, but the core count will. - Moomoo",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQlBxOHN0dHViWDU0b2pjNkRVM24tMVVjdTQ3ZDU3bnptM09yWU1wb0QwNlF2TXZtQU5fM2pPZHc3MnB2S0N6U3JqUGYyU20tQ3dNNjJ3Wk9JR1NRaDZtSW5WN3JOZnVzRzV5MjJzMF9QNUtaZnBTYl9Fem84Sm5MZm10c0Rud25BVHk3RkNJbTF4U0FBcnhJ?oc=5",
+      "published": "2026-05-06T07:00:00+00:00",
+      "publisher": "Moomoo",
+      "summary": "ARM Earnings Call: 'By 2030, the largest share of the CPU market will belong to Arm.' The number of CPUs may not surpass that of GPUs, but the core count will. &nbsp;&nbsp; Moomoo",
+      "query": "ARM competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "speculation"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Arm Gains After Push Into AI Data Centers Bolsters Forecast - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSUxVQjkzNmFDQlJ1a1BkX3VvZ0I2Z3FYb0U4QVM2WUVMVlJTd3lfbXp2aVd2LVoySWVPSkVHa0w5MmNSa1V2Mk93U2dNbzRsWkpaR1dheXJKVERvSFM5R0FxRFJLSXdwMld4dU1DMjFTc1NtbDA0bmpZdVNUdFZuRXQ0VHVReFVSZDNvdTJiOEZuckg2YlU1Y1VQWUZmazlRbGxEUDhydHE2TndHWjZtVmRCMWw?oc=5",
+      "published": "2026-05-06T07:00:00+00:00",
+      "publisher": "Bloomberg.com",
+      "summary": "Arm Gains After Push Into AI Data Centers Bolsters Forecast &nbsp;&nbsp; Bloomberg.com",
+      "query": "ARM competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [
+        "guidance",
+        "capacity"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Anthropic and SpaceX announce major partnership as AI arms race continues - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNS21MU0VuamZpbnlHQTRGRDVWc29RNV8xOVloSlJsMF9tTFF4WUppcEhtSVlaODdOOVJNNjBJeXpRMVB0bzhMUTRSYVdaeXZBanVkeWR1NXJYd3A0T2FmNzVQRm0zRnFub0g2VHRkS05qby0zLVcxOW4xdmNDR2ZWU2tnVVhaRDkwbFJPSnBOWXlLWjhMZFNr?oc=5",
+      "published": "2026-05-06T07:00:00+00:00",
+      "publisher": "NBC News",
+      "summary": "Anthropic and SpaceX announce major partnership as AI arms race continues &nbsp;&nbsp; NBC News",
+      "query": "ARM acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "demand"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "How Much Is Arm Holdings Stock Expected to Move After Earnings? - Investopedia",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPc2NuY1lYSzc1TDZaRlpfNzE0dzVHMzJjUjVtLWFxYUNCWlphWllaM2RlU2hiRVRoRFYybk1XbFhzQzRZeVlrdTIxcGtpZzIwRUhUNllBaGR0Z3hEN0VXbEpVY1RRNDAxdUhCUzItRkY5Sno5RUM5SXZUUmtKa0dydnRRdTNzWVR1RjBLYUJiTXFOaFB1Sng4ZEs3SHBobGZoS2c?oc=5",
+      "published": "2026-05-05T07:00:00+00:00",
+      "publisher": "Investopedia",
+      "summary": "How Much Is Arm Holdings Stock Expected to Move After Earnings? &nbsp;&nbsp; Investopedia",
+      "query": "ARM revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "speculation"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Arm Holdings Stock Forecast | Q4 Earnings in Focus - Capital.com",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQMHJPSU5nQkxJLWRoaXpOSnFrblg5dGRMQmxHbWF6eks5dUFxaHVpaFlOOVZuN0tnckRDT0dzWjJQOFRsLVFTVHBINnp2U1ByZmc5Yk94UVFiLVRZekZlTGtUdTBtMTlmNGh1QXp3NTZSeXFKSlQzQlh4Q3RWcDRLaF9HSzZXVjQ?oc=5",
+      "published": "2026-05-04T07:00:00+00:00",
+      "publisher": "Capital.com",
+      "summary": "Arm Holdings Stock Forecast | Q4 Earnings in Focus &nbsp;&nbsp; Capital.com",
+      "query": "ARM earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "guidance",
+        "speculation"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Amazon rebrands third-party logistics arms as unified supply chain service - FreightWaves",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdG95YzBfbGc0MkVfQzNPNDZKamJpUjJKd1FCMkR6ZDdkQWRMeWtxWEhla3ZQSVFPb3pjV0Q2TkpsY1ZaU21BeXFUTmxoSHRDTTFxbU8xMWxfZ19UZk16R2U3cGdmZmhWUzBkUGwwYWFnVE5tc2hRc0poN2RzLTFNYlFZYmtsaG9Dalp2YWY0UUUxTDllejJkbG4zTllZVHptMl82bDNXdjc3cERa?oc=5",
+      "published": "2026-05-04T07:00:00+00:00",
+      "publisher": "FreightWaves",
+      "summary": "Amazon rebrands third-party logistics arms as unified supply chain service &nbsp;&nbsp; FreightWaves",
+      "query": "ARM capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity",
+        "demand"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Standard Chartered, IFC launch $300 million Africa supply chain finance facility - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNbVdsS1J1ZnNzTURxS2JxVmlSdWhOdjVSMDJLS3h5SVYzWkhEVUIzeHVib2RJSTFacTItZDZ2ZWFheWsxUUFSRzAzX0tqSDQ3WEVDMWhsbDlXcVh3RDdkZ0VxLVdyVUJQbkdHZi1LZXFBVVhNc3pSbnlEc1ROcTd2dUZ4VGd2Q3N3RFhHYURXTUlORnJzQzJvU2dCVUpxQzlUbGNiS3hVVDVUVXJiSkxJekxCcTRqLXhWcFVqUmlhUzBnWmdvTmdVbGFZcw?oc=5",
+      "published": "2026-04-29T07:00:00+00:00",
+      "publisher": "Reuters",
+      "summary": "Standard Chartered, IFC launch $300 million Africa supply chain finance facility &nbsp;&nbsp; Reuters",
+      "query": "ARM capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "product",
+        "capacity",
+        "demand"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Robotic Arm Market Enters Hyper-Growth Era, Powering the Future of Intelligent Automation by 2035 - GlobeNewswire",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOaUdXQzZOaXlmVGw0UkwwQWJtb3M1Wk1Ba1FITEgyUTJUYm13bW9KVFg4cm5WcjZyNGctZ0FKNVQtM3c5TWozNGpiZWIwM09nNTJyNkRkbEtGRjBzaFd3SWZhSzlTalJubVdNUXJLM2pueEpPNjRrOWpGanFVckpFRDFiQWNoVDFGT3F2V3l6UVU5ZTlTM0VYZ0pFZjNITURZR0lqQWFPNW93RzhicHBNWDZ3Q0lKUkYyWTdBRW5PUUhhb2ZEY2F1c1hRbERoeGM0RGgzNkxTZS1vRGxCdFZ6WW82Z2hkR1pOZTI4TFROQkdza1Eyb2d0dmZUNF8?oc=5",
+      "published": "2026-04-28T07:00:00+00:00",
+      "publisher": "GlobeNewswire",
+      "summary": "Robotic Arm Market Enters Hyper-Growth Era, Powering the Future of Intelligent Automation by 2035 &nbsp;&nbsp; GlobeNewswire",
+      "query": "ARM competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "positive"
+    },
+    {
+      "title": "ARM Holdings Stock Rose 71% Since Its AGI CPU Launch. What to Know Before May 6 Earnings - TIKR.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQaFlzTHJGcHhvLVNGWWF3cTZNS3AzQmlyZ1pIeTFFTDZRYWozYnk1aDBoeE5aOW5JYTF3NjFMRUpSNDVLRURZR2lpNVdXbWVxM2Nhemp6ZUhEYktTYUtJZTZsRDJzYTU5ZjdKQkxJZVJFTFhYYXFheUFuV1FaRk4wMnYwclhpeDZLZS1NajFRN3JEbEhBZ1o2YUJYYWQxcmtOTHN2SS1KaGUxSHNQSENIek9B?oc=5",
+      "published": "2026-04-27T07:00:00+00:00",
+      "publisher": "TIKR.com",
+      "summary": "ARM Holdings Stock Rose 71% Since Its AGI CPU Launch. What to Know Before May 6 Earnings &nbsp;&nbsp; TIKR.com",
+      "query": "ARM earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "product"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Is It Too Late to Buy Arm Stock? - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5nWkI0S1JHUmt6b19paVpkMDJpMk5FemdndnRILVlPM0Zfd1hHTTBxSVNfbVk0U0Uxc0VPUHRkN3dxTkRqNWhrVDUyaDI1anpJQmp1aGFrbWE2R01KdlM4R0RIVFhpT243VHdlb1dsVDR0UDY0TU50ZkNWSVdZMmc?oc=5",
+      "published": "2026-04-26T07:00:00+00:00",
+      "publisher": "The Motley Fool",
+      "summary": "Is It Too Late to Buy Arm Stock? &nbsp;&nbsp; The Motley Fool",
+      "query": "ARM acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "mna",
+        "speculation"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Why Arm Holdings Stock Has a Case for 190% Upside - TIKR.com",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9WVlJBdDdIX3NxVlpEOGxfcFljM3hXV29aTGNOWURic1RSNUd6WnQ0Zm9odGNvb0JmY0ZabTFZMU9fY3dCc2tTUDE1aDRENUpfLWZEU3k3ODFhcDRQVlBzMGlVM3VyZ3hzY1NpSmFzVDVhaGh1ZHhPQ3hMV3JhOHM?oc=5",
+      "published": "2026-04-23T07:00:00+00:00",
+      "publisher": "TIKR.com",
+      "summary": "Why Arm Holdings Stock Has a Case for 190% Upside &nbsp;&nbsp; TIKR.com",
+      "query": "ARM revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [
+        "speculation"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Task-relevant haptic feedback improves asymptotic performance in de novo arm control acquisition - Nature",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9zUGJLaGE0VHZWclAxVjZrZFBMc1YtbzZzRll1cDVCV1lQc2E2WDgta0dLeVZoUEFfa3cwNFRwYVIxTE4yRWk4WmtaYkZVbW03b3hLZldSUEFnOHFlOGdj?oc=5",
+      "published": "2026-04-22T07:00:00+00:00",
+      "publisher": "Nature",
+      "summary": "Task-relevant haptic feedback improves asymptotic performance in de novo arm control acquisition &nbsp;&nbsp; Nature",
+      "query": "ARM acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "mna"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Arm Steps Deeper into Silicon: Implications for the Semiconductor Value Chain - Omdia",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWkdRTTdUdHN1RUlzb1p6Wl9haS1yZnF5MXlSZzJmZjU1Vm1VN3hLZ3ZqRlQwbWVmSHByemNCUnp3Q3hKUEZPOE9vdFVmOEZncXFFdG5CZ2ZHejV0WXZkSHpqUDdfRzlqc1B6ZDd4UmNzcDNZU3o5Q1FaZDNhdzd4aTdKRFFGSlowNVdfejVjS2JpcXNPNWNya2liVzhpdW9NdWNCY0lnVjlPQ3BwRGtmR1AwZGtsYUl6YkZlSV91bw?oc=5",
+      "published": "2026-04-08T07:00:00+00:00",
+      "publisher": "Omdia",
+      "summary": "Arm Steps Deeper into Silicon: Implications for the Semiconductor Value Chain &nbsp;&nbsp; Omdia",
+      "query": "ARM competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Data-Driven Sustainment: Leveraging Big Data and Predictive Analytics for Army Supply Chain Resilience - DVIDS",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOT1VDWmNxYlRmcWl0SlR2d3pJWVBOemIwOXljclpmZlFibTNGZUVnTXVDZHdkZktWVmgyVFk0a1hoZVk0YVMzdUJtTV9PZkVHMmM5amg2aDJVNGtTNEFyblg3c25xV0xDT0FSaHZKbWVqSGoyQTZVdlZpRDdDd2NXYWg0UEgwcTN6ZHY4c2NDNkVxWnYyUXZ1blE1MW5waV9HVWZ1SUtyUjRnU1pUV1RsWFRvM1N3UnpWSTFkUVM4QU1NUkZ6Sm1vaWV0UkVTVzA?oc=5",
+      "published": "2026-04-05T07:00:00+00:00",
+      "publisher": "DVIDS",
+      "summary": "Data-Driven Sustainment: Leveraging Big Data and Predictive Analytics for Army Supply Chain Resilience &nbsp;&nbsp; DVIDS",
+      "query": "ARM capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity",
+        "demand"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "IBM Shares Rise 2% After Announcing Strategic Partnership With Arm - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQOEQyLTVZOE5VMm9jMWlyVHNUenpVQnpJeFRvNG1ETk1tWG9rVG13VGFJVUNuV1lhU1hHMDNmT2lTcmRZQllOVmtmX0pqNm1UWGctU2tCTmpNNDJib2RBdm00RlFYZUhvWjdnQVdhTldBSWlLN3NxVHREUEpPMDF0TFg3bEM2LXNTak13N1dJSE8xWjl1TWN4blNUdFpNZ2FaVHlOZUlrZDE1cnJ3di1nTHJ5QnJWMFE0Tk54Q1ZFemp6clE?oc=5",
+      "published": "2026-04-03T07:00:00+00:00",
+      "publisher": "TradingView",
+      "summary": "IBM Shares Rise 2% After Announcing Strategic Partnership With Arm &nbsp;&nbsp; TradingView",
+      "query": "ARM acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "demand",
+        "price_move"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "IBM Announces Strategic Collaboration with Arm to Shape the Future of Enterprise Computing - IBM Newsroom",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOY05SeUVGU0xPZTF2dDlNelF1NjlzUkZsWWxOVXIxVXV4ZXRrYjJzMXlNWXJYcF83NUxhLThOSWpoUnVfMTVud09OZUJSdmNITDVHcl9SdF9iS0JjU3pwekRGN1pjV2Fuc2l0a3Y1OGtoaXN1a2hEN042OXpnc1RwS3d5ZTdkclZGTTBoYWtZdTR3Q1dfZUt0Y0RKM2ozVGZieVVlaVZNc1MyWHU5RlRJNU1fMUtFSWZKWEhGZFVVeFVnT1U0?oc=5",
+      "published": "2026-04-02T07:00:00+00:00",
+      "publisher": "IBM Newsroom",
+      "summary": "IBM Announces Strategic Collaboration with Arm to Shape the Future of Enterprise Computing &nbsp;&nbsp; IBM Newsroom",
+      "query": "ARM acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "product"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "IBM wants Arm software on its mainframes to better support AI - The Register",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQWo4c2F4LTBvM0JCMWlBWU5Jb3V3bXNDNXlNVDItTFBHZmNNZDlrU3hxb0xyeWdhdm41NG82MzgtbWg3UWt3MHZjdUFZRUhqaWhTd05MeUtzaEpGZHJJcWV4SUtxNVF0blF5STc0aDllNXlzaklmM19kQTllQTRsYnNLZ1g1ejZqMEZpT2Zfd25PSHNsV1NaX2VQbGR1Z19QV3lKcUZSMm9UNEhKZHJr?oc=5",
+      "published": "2026-04-02T07:00:00+00:00",
+      "publisher": "The Register",
+      "summary": "IBM wants Arm software on its mainframes to better support AI &nbsp;&nbsp; The Register",
+      "query": "ARM acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Arm Stock Is Up 32% in 2026. Can a $251 Valuation Keep the Rally Going? - TIKR.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOOFQweWo1REZhbklaOE5lT0o3YllhOVMyVjlOUmFrTUFNNkJrU2JBdFNzMk5vMlN6VUFTX1lxMXZiM2VweE9QOFNDWnR6T2M4Wm1qUFlpTU5zYklOdm9IU1dMejFyeWdQa0hSWDFTaG5GOUQyUkpISVVMUHViWUlMNWZlNjZrUGFXU0JES1FCREQtNDg3N2hQaA?oc=5",
+      "published": "2026-04-01T07:00:00+00:00",
+      "publisher": "TIKR.com",
+      "summary": "Arm Stock Is Up 32% in 2026. Can a $251 Valuation Keep the Rally Going? &nbsp;&nbsp; TIKR.com",
+      "query": "ARM revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Army previews apps that put supply chain power into Soldier’s hands - army.mil",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUUx1X09ORXhub0VLV1pkZUtYS21aTmJMdExSVlVmOWM0ZGFBdVlCdXpCeVBmMjhTTmM2RDhNOWlrSENYVGU2YVlncHpBdm1PdHllUzgyWGE1NHk5OVFpLS1RVFNPZjh2ZmdvVFNkdEFkUXpYbjBkdVBDdEQ3VzNVMTB2LXhGdmowbThHSkVVZHNyOVZzTFJzVmVRZ1AxaFRieGlVQtIBqgFBVV95cUxPSG9TcndyOWlzMjdRUHdtT1dIZDVCaUlUY0s4VGRjVWphUk9fSzJuQUUtdW9GU3F0T2VaRExhY0h5aXljVlBSVXhTNUpDSk5sVUhrUmVrUUI1aElVbnJjZjMwaG4zZDg3dlBnaFhrYVUtdWNqT3lUTUZwcnA0MFJGeHpTTzdySnQ0Rm5fRVdqcFZYS3N5VE1LVlcySHZOeTdadWVBUkxvUjJqdw?oc=5",
+      "published": "2026-03-31T07:00:00+00:00",
+      "publisher": "army.mil",
+      "summary": "Army previews apps that put supply chain power into Soldier’s hands &nbsp;&nbsp; army.mil",
+      "query": "ARM capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity",
+        "demand"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Arm jumps 16% as company expects revenue windfall from new chip, a 'significant shift' - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9CMUV1U1l5ZEF5dEpNRTM1Wjd1akc0YU9ZUDhLVWNJWWdqdlhUSWdHM1JsYWU0NW1ISnpXdHh4M3kxVlE4bU5kR180UEdBaG90THdRSUhrMGpHeERQcjRsVTZlYU9qQWp1U21hc29DazJneDFhNGfSAXtBVV95cUxObnJPNUZ6dUdoNi10UjFnRHdFa1IzN3hVYzJ1S0JqOGJ1RjZPYnFlYUE4Ny03ajU2NGpIUFVVdVpQbWhUYnEtRGJUdDZGY1dDc1FSSS16SWZVNmZYU1E0Y3o4UXlYZWtOZEltWUQxb0pzd3lrYkNzdlppRnc?oc=5",
+      "published": "2026-03-25T07:00:00+00:00",
+      "publisher": "CNBC",
+      "summary": "Arm jumps 16% as company expects revenue windfall from new chip, a 'significant shift' &nbsp;&nbsp; CNBC",
+      "query": "ARM stock",
+      "source_api": "google_news_rss",
+      "tags": [
+        "product"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Arm Soars 18% On AI Chip Sales Forecast - forbes.com",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeG8wM0tMUTc0bmc3WkNZUXE1NEFrZ3MwZ0t3RzF3aVpJTEdmbU1tQUxVaE5vTUxYdkZBM1RXeG12Q1ZhNVlQN1JzdmFoMzlFV2NIY2NVRVVMd3NMMzZlU0JzVUhneHBNUEdaUHlUVGxsbnZnY3hqTUhxX2tHZGNQdVcwcjVuelNrTWJGaGpBSzVlVnZ5Z1o0X3RfakpIcmkxRmd6dGZad2VObmJQ?oc=5",
+      "published": "2026-03-25T07:00:00+00:00",
+      "publisher": "forbes.com",
+      "summary": "Arm Soars 18% On AI Chip Sales Forecast &nbsp;&nbsp; forbes.com",
+      "query": "ARM revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [
+        "guidance",
+        "demand"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "ARM Holdings CEO on historic AI chip launch, $15B revenue forecast - Fox Business",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBGQlVHaEdwdnFNa3ExLTZGWVFWSkdNSG5CRVA2WHBEaXhSdm9FUHltS0tQN1Zkcl9oY3gzUXJKNUJNdnoyUE9UczRFcFlwOWF5TW5hY1VVYUQ0NWc?oc=5",
+      "published": "2026-03-25T07:00:00+00:00",
+      "publisher": "Fox Business",
+      "summary": "ARM Holdings CEO on historic AI chip launch, $15B revenue forecast &nbsp;&nbsp; Fox Business",
+      "query": "ARM revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [
+        "guidance",
+        "product",
+        "management"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Arm & Synopsys: Data Centre Silicon for Complex AI Workloads - AI Magazine",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE52cmxtYzdrcXhHNHVPX01aVklCOWk1VDQ4M1FxX25jVVhxNlppTHpQRlFkTTFXX0FHZ1pWZGpMeXdsUVJzMjVRd0hmdWEzSlpQcnRRbzhVcktUOFJkZGRucWMwVHFDVGxZTmRqVQ?oc=5",
+      "published": "2026-03-25T07:00:00+00:00",
+      "publisher": "AI Magazine",
+      "summary": "Arm & Synopsys: Data Centre Silicon for Complex AI Workloads &nbsp;&nbsp; AI Magazine",
+      "query": "ARM acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    }
+  ]
+}

@@ -1,0 +1,2440 @@
+{
+  "ticker": "GOOGL",
+  "company": "Alphabet",
+  "as_of": "2026-09-20T09:09:22+00:00",
+  "lookback_days": 180,
+  "summary": {
+    "total": 187,
+    "by_event_tag": {
+      "capacity": 34,
+      "demand": 33,
+      "earnings": 33,
+      "regulatory": 31,
+      "analyst": 20,
+      "guidance": 19,
+      "speculation": 16,
+      "price_move": 7,
+      "mna": 4,
+      "product": 3,
+      "management": 2,
+      "macro": 1
+    },
+    "headline_lean": {
+      "positive": 45,
+      "negative": 12,
+      "neutral": 130
+    },
+    "top_publishers": {
+      "Yahoo Finance": 42,
+      "CNBC": 11,
+      "Reuters": 9,
+      "24/7 Wall St.": 9,
+      "Seeking Alpha": 6,
+      "Morningstar": 4,
+      "blog.google": 4,
+      "Moomoo": 4,
+      "TIKR.com": 4,
+      "The Motley Fool": 3
+    }
+  },
+  "articles": [
+    {
+      "title": "Analyst Sets Jaw-Dropping Price Target on Alphabet Stock - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTC04MkwxU3hMaVRTRmx3T2I5UXk2bVktQUJIRzJtZHRUNGpvMFVMSE9SME5MNDBUR0k5QkNQem50TTI1cVBySlJzaEpWdHNibWszWTdrNVhGT2Nhb01veWt5Y0g5MEpMYWU1TkdtS2FtNWZjVFlhaG9EdDVOZHhQcTBFNDRyMXNzT1RWemhybkRER0pWM2xQUE1TSHU?oc=5",
+      "published": "2026-09-18T18:43:26+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Analyst Sets Jaw-Dropping Price Target on Alphabet Stock &nbsp;&nbsp; Yahoo Finance",
+      "query": "\"Alphabet\" stock",
+      "source_api": "google_news_rss",
+      "tags": [
+        "analyst"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "TTD Stock In Focus: Morningstar Sees Market Share Shrinking As Amazon, Google And Meta Ramp Up Ad Competition - Stocktwits",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNVC1FU2Nwc25TV0JEbG1HSjRZZHBmNURfQXZTZDVzVjIyQ010YW1VSHNzX2NXSE8yUVFXakFQZU9zVmlSaDhzYlh4OXhGNkRoY1BTN3RmTS1sSUdudFdZQVpDbjJvSDlnNDNCUUZZQ1lWOG84TVRRNUJ2eWdwWHJvdGpFQ3RiV1dsNUg1QWdwc0pVOW1xdkVYN3NLdklOS01iZ3NjMjJUblBmQmwzLWNKX1pXMUYyZFNpcXZJejlWcDE2Y0tCT3BaQXdTNjVLX3dobEItZ1JtRVl2M0dxUjJjTFJua2dOQUlSZDNtVHNLSzFmUVJfYWdIWFMzWGpRWFJl?oc=5",
+      "published": "2026-09-17T02:31:06+00:00",
+      "publisher": "Stocktwits",
+      "summary": "TTD Stock In Focus: Morningstar Sees Market Share Shrinking As Amazon, Google And Meta Ramp Up Ad Competition &nbsp;&nbsp; Stocktwits",
+      "query": "GOOGL competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "The Court Just Unsealed Judge Brinkema’s Remedies Decision In The Google Ad Tech Antitrust Case. Here’s Your TL;DR - adexchanger.com",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPb2E5VlN3cm5sVG9pX1JfWmFfUmVpbE80ejZQVmEyMkllZXZvakRvRHd1MVZ6MnhUd2pSMGlHdVF1NXdkR2RGTVdmc2lrZWUycERyUERwTWNKNC1hbllFV1I1TEdDXzA2Q3BNd3IzNFoyM2EwbE5rRENkNkR2WWZsVmxLVldHcFdLTlMyaFpWWi1QSjlyNGhaVV9WaGt4RkwxUnVtTC16eTdHaTJIdGlBeHhydTNZMXhEOUpzclhkQnMycnAxYUpSX0tSX0pCSHFYSzA3b0dQZTdkMTFhRUxUcjBCNA?oc=5",
+      "published": "2026-09-16T23:24:13+00:00",
+      "publisher": "adexchanger.com",
+      "summary": "The Court Just Unsealed Judge Brinkema’s Remedies Decision In The Google Ad Tech Antitrust Case. Here’s Your TL;DR &nbsp;&nbsp; adexchanger.com",
+      "query": "GOOGL lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Google should relax ad tech rules, appoint antitrust monitor, US judge finds - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcDYwSmJ0Yk5URGpmY3J6S3BnVnlFV1lzMkViQ2YxVGNxbmlQbkk1X1NkZS1lYnRoTzUtT2xkQmpvOW9LTmlQYnZ6ZThMTmt3Qk5hNkMwU3NUTVNORDByRnVGbXlVMndiaTZZWFhHdnk1MzJTYVg1QlpCSzVkNlN4RWVGODhTSUJxQXBwbzh3Ry1wRVhzUWNldU5fcWw1bWhwTHpmNG9NX0xfQXN1MjJPNU93VXdnSnEzNTV3?oc=5",
+      "published": "2026-09-16T21:56:00+00:00",
+      "publisher": "Reuters",
+      "summary": "Google should relax ad tech rules, appoint antitrust monitor, US judge finds &nbsp;&nbsp; Reuters",
+      "query": "GOOGL lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Prediction: Alphabet Stock at $400 May Be Just the Beginning - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUVN6TE8tZ2kwdGFTUXVnWHN3UUFmSDV3QjFzQlQ0T2gyaUJDdEJ5MWNidmJYaEc1V21ZSTAxaFpHdTlnSG9LcUU1RUF3WG9Nc1UwdU9iYXVLZ3A5aGJRODBoT3pMaHpuaXFYeXdsbmE1WHBjWFg3OGZXeVdnN3g5c0ZwOHl6cmRTcnJSRW5MWS1wUnNzbFEybFF5bEJJNmM?oc=5",
+      "published": "2026-09-16T14:00:45+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Prediction: Alphabet Stock at $400 May Be Just the Beginning &nbsp;&nbsp; Yahoo Finance",
+      "query": "\"Alphabet\" stock",
+      "source_api": "google_news_rss",
+      "tags": [
+        "speculation"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Alphabet: An Undervalued Stock to Buy That Even Warren Buffett Likes - Morningstar",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSUpXOUVvOGszZm53SS04dXQyVXc2czlDdmlkMFFoR05wTTMyc1FVTThRQnJGSkp2bHRpTERiRnRCaGdQelBIcVNZVm1ScXVJc3VkYVBkS3VnRjdKZFQxQnVIM1BORzRlWUdxTHRHaDllX0xnNVFhR044NnMzRTRERWVSYnFGVmhPbnNiYWpFTHVQX3BR?oc=5",
+      "published": "2026-09-14T07:00:00+00:00",
+      "publisher": "Morningstar",
+      "summary": "Alphabet: An Undervalued Stock to Buy That Even Warren Buffett Likes &nbsp;&nbsp; Morningstar",
+      "query": "\"Alphabet\" stock",
+      "source_api": "google_news_rss",
+      "tags": [
+        "mna"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Alphabet Stock (GOOG) Opinions on Antitrust Ruling - Quiver Quantitative",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSXVBQ3dYTGlrRW81TUVHclVnMGVZaUdRSFduVjkxX3RoOUF6cVdYUnVya29PdTNEelZiVVF1Q1p6TXZPdHlocXRzZ2N1Wno5bUZJOVhTbzVCd213cVdfV3pVaUxNYlFsamRTZVUwbFFMUUdoSzdPQ0VpZzZMS2JtWmVLYjlzYkhxMXpF?oc=5",
+      "published": "2026-09-12T14:04:00+00:00",
+      "publisher": "Quiver Quantitative",
+      "summary": "Alphabet Stock (GOOG) Opinions on Antitrust Ruling &nbsp;&nbsp; Quiver Quantitative",
+      "query": "\"Alphabet\" lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Why Alphabet Stock Just Popped - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQOWxlb1h2VnpsZzFOLVd5WmVCbkgtNnFIcUt6Y01TZEkxaGJQaG9uM2t1d0I3dl94b1p6MDczVFNIQWxGR0ZoOUhPNVExTmx5b2VScVFQeTQ5Qk1pUEJyR3ZQWWNieDhxY2Q1TTFvY2dOTWtfOWxlYVVnanR3VDMweV9QOVQ5UWg2dGVRSDlKX291cThIeE1KdVlsNA?oc=5",
+      "published": "2026-09-11T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Why Alphabet Stock Just Popped &nbsp;&nbsp; Yahoo Finance",
+      "query": "\"Alphabet\" stock",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "The Ohio State, Google launch 'largest foundational partnership,' says President Ravi Bellamkonda - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQTV9DOWFMb1FheExSUDdWMDJVMTdtYVlnMHRnZXNCYUgyenRKeWNLdzFrUDFQM1lrd1N6ekVCbF84YnRrT2lXbmlFbnlSQ1Y0QUd1cDYyNE03RWdPb0lCSmhDN0Jvb0cyTmNuM0ZBSUxodGpmVGhGU2JLdTRsMUdWc1ROeDBWVXFvM3Zqdmd5eUtsVWpNSER1Mmwta20tbzF4THRqX0J0cmdLcXo2eWxIRmNqSHNnOXhEX2VrNG9IRlBub1RoalhpUEZaUFdLWnhDdGc?oc=5",
+      "published": "2026-09-09T07:00:00+00:00",
+      "publisher": "CNBC",
+      "summary": "The Ohio State, Google launch 'largest foundational partnership,' says President Ravi Bellamkonda &nbsp;&nbsp; CNBC",
+      "query": "GOOGL acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "product",
+        "demand"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Cloud Capex to Cash: AWS Wins This Way, Alphabet Wins Another Way - 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcmVtZmhZZGNydVdNWE9pNHMtYTBBQmgwUHhYMnZPWS1fNmc0T2ViRlVFd0UxcDBuaEFSS0JVbUlHUWFBckZFYXRYNG85dUYtNEc2VVk2eFIwMzhJZmxFTFppUGpmRnZTdXo2d2wycnlxMlR0RXUtYi03MXo5QzZuUkpQNVhQODBMUnhpUkd5akJGaVlxSHBaNnVlTndxNmpVNmtOM3FNQ3dieFE?oc=5",
+      "published": "2026-09-08T07:00:00+00:00",
+      "publisher": "24/7 Wall St.",
+      "summary": "Cloud Capex to Cash: AWS Wins This Way, Alphabet Wins Another Way &nbsp;&nbsp; 24/7 Wall St.",
+      "query": "\"Alphabet\" capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity",
+        "demand"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Nvidia (NVDA)’s First-Ever Year-Ahead Forecast Puts It on a Path to Pass Apple and Alphabet - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQa2NVbTgxd01uU3JxNVRGQUV0bl9wbVY1UHhlVllsMUViT0VJRzZUa3ozQ3NLOC1rMEhCXzhOUU5nUUxsaE12SjBPTXk0aHdycEx2bHFlSzBaMHJrU0pFVlJZcmtJV2FBeGVDYmlxanZqN0E3UjRMZGg5VkJjcE5uUVlLelA5MnQzYVNMSnFXUnJlZDFSdl9sMg?oc=5",
+      "published": "2026-09-06T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Nvidia (NVDA)’s First-Ever Year-Ahead Forecast Puts It on a Path to Pass Apple and Alphabet &nbsp;&nbsp; Yahoo Finance",
+      "query": "\"Alphabet\" revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [
+        "guidance"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Something Is Happening With Alphabet Stock That Wall Street Isn’t Talking About - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUjNWUGZGVEdob2ZCRWhadC1pdElsV1Zib2JYSWZ1MzJZd1k5MVA5STdoQWFUMFNjUTRYZmkwQ29ha003VElSZTFzdVdLb0FXT0w0eW5OaFJQaG1XLTdMWWE2MU15MmhfRmthVjNoLU9FZ0VkdjQ4dmY4bVgzeHo5cTUySGlaTmM1SWdZQWlObVM4TVQ5amxPX21ValFYUy1RMlR3Mkgzbw?oc=5",
+      "published": "2026-09-03T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Something Is Happening With Alphabet Stock That Wall Street Isn’t Talking About &nbsp;&nbsp; Yahoo Finance",
+      "query": "GOOGL stock",
+      "source_api": "google_news_rss",
+      "tags": [
+        "analyst"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Opinion: Google's Latest Antitrust Ruling Is a Big Win for Alphabet Investors - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNOWljS1dvRkswMXB5NWhCYVhkT3k1UEpJS3RPZHFDcHFWSlc4Rk5TdFVBcG5scTE2ME5pcnFnZlNSQzVrRS1ZdFZrTkpFYzZCUHRuQTNaSkhSN3JadlM1OTBfQnZQMzBNQnU2aENKZWZTQnp1TnZnQnVuSkF0ZnIwU2lYWVR6UDI0OE1KVlh1SGswQmh4SEpBUzZtc1BZYldacDgzVFY2SHU1ajhLME0tdVhIUUVqXzYybkE?oc=5",
+      "published": "2026-09-03T07:00:00+00:00",
+      "publisher": "The Motley Fool",
+      "summary": "Opinion: Google's Latest Antitrust Ruling Is a Big Win for Alphabet Investors &nbsp;&nbsp; The Motley Fool",
+      "query": "\"Alphabet\" lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "The $277 Billion That GOOGL Stock Quietly Paid Its Owners - Trefis",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOd2ktNW5MWFNOS1FFN294Zl82ZlJ1eVJLTUxpY3FtandpbnJMdV9kYU1lclA0TFJtVGszMWxRRmdfTTNfdFdjN2JqM1JTeXE5NDRIMTZiSUxnUmpSemF1SXUxS21FT1RoSW9ydHk5aERlX2ZqbnI1ekNWY3NOVllnaXVHd3pid1hFTzFjRGtvbkRBeldLdnltcGw1VXI2Q1NtRW51bENibGoyOURfUnVKSHdpTV9tNUxCY0E?oc=5",
+      "published": "2026-09-02T07:00:00+00:00",
+      "publisher": "Trefis",
+      "summary": "The $277 Billion That GOOGL Stock Quietly Paid Its Owners &nbsp;&nbsp; Trefis",
+      "query": "GOOGL stock",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "In a Big Win, Google Avoids a Breakup of Its Ad Tech Business - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE54SXBLXzJKcERSbmdjRXIwRmF6ZTgyUkl6VmpWbjFTSGNzZlFwRW5VRE9STVJSVnFsVG5zT2JCREZRMnZUXzU5MkZvOTJudDUtRUkyOUFaY2xiVnR6SU9Sa05jN3RBQ1lhLTl4ZzFjN1Y0d3Zfd19oLXQ2R1BvSzg?oc=5",
+      "published": "2026-09-02T07:00:00+00:00",
+      "publisher": "The New York Times",
+      "summary": "In a Big Win, Google Avoids a Breakup of Its Ad Tech Business &nbsp;&nbsp; The New York Times",
+      "query": "GOOGL lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Google dodges another court-ordered breakup - Politico",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPYmZDY3ByS3lQRE0xLS1QM2owSDRkWDF2TUt6Qm8tRDY2ZEdPb0JaWXVPQ0ZCck5MWFE4eVhLOEVMZTdQOUxhTVQ4N0lmLVBmVTdBdnZQZ2hLcVdaX1B3MDlGazlYd01iUFlYUk5uTkpmd0pLZnhHUTkyaTZkRVhBbGlUc2ZJQi1XRTdhQQ?oc=5",
+      "published": "2026-09-02T07:00:00+00:00",
+      "publisher": "Politico",
+      "summary": "Google dodges another court-ordered breakup &nbsp;&nbsp; Politico",
+      "query": "GOOGL lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Our new partnership brings long-duration energy storage to West Virginia. - blog.google",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOWUFneW54bm5fMGZJamNwQjNpa0pDNzZCUFdycUNCNnE2RS16cmNYakF3dkRZQ05Lb1NzUU1zcXA0bWo5RHJfcDJmYjFqQlVFcHRnMldONTdTLWNfdmdFQ0o3c3RCM3FsSzczRE1tWnluV1RrUHlmV0dtcGE1THREOEdFMF85cUN3SVc0S2xfdDRLYXU3SFBoSkg5NzM3YUFZMUptX0RoTjBST2RvRHFHQUk2emJROWFqTmpoaE9n?oc=5",
+      "published": "2026-09-02T07:00:00+00:00",
+      "publisher": "blog.google",
+      "summary": "Our new partnership brings long-duration energy storage to West Virginia. &nbsp;&nbsp; blog.google",
+      "query": "GOOGL acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "demand"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Alphabet stock has tanked recently because of a 'brain drain' - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVWxjT0hZSldUem1wd1VNSTgtVF92cTZ1a19YU053UVBHaHpUZGxCUE8tMF8xaE85TUVZeUhvODM3cTF5bWc0MmNRaGZlcG1tcXFsbFdpLWJlOEk1cWJNR003OFJTeXJ0Y29EZFZOdGl4N29kbDdiaGVhdWNqN1hnRFNUWFZwSGN6RkE3QnFqUFpzTTdfNGs5VGxac0ljTk5yT2lMUnJpSkUtamZoUzZqYldDc0NIUGtqbVBYMnFpRjE?oc=5",
+      "published": "2026-09-01T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Alphabet stock has tanked recently because of a 'brain drain' &nbsp;&nbsp; Yahoo Finance",
+      "query": "\"Alphabet\" stock",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "The Market May Be Underestimating This Stock - 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNFo5UlFLd0REVTVWS2c5ZWtmbzZLZmxKUmZZdUtBNjFxUGxlSjY4bnBTMi1yMnM2cmw1MFVxYWhPbEZoa1VGZGNqUTR1R0U2WE5hNENZa1ptamxfNWFXT3hPd3RmWkh6amVIWUN3V3R4NlpQMEJXNlpiQXJJbjFwYXJ2bk9ubkJDSDk2WXZUOWxkZw?oc=5",
+      "published": "2026-09-01T07:00:00+00:00",
+      "publisher": "24/7 Wall St.",
+      "summary": "The Market May Be Underestimating This Stock &nbsp;&nbsp; 24/7 Wall St.",
+      "query": "\"Alphabet\" analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "One Mag 7 Stock to Watch in the Second Half of 2026 For Solid Gains - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVjFBSThuQUkza0xRNnhzU3dVWjg1LU50MHMtVlFSQldRbWFwdURuTndzd1dwRzZGaW4zY2s0TDVQSVNnNjRYTkFlSmJNUUtXRjBwLXBNNlBmOG9VQjdLRERUTFZuZnJvemVUVTFfSHhUdzVTUEhUd2Q4S0d2R19BajZMa05KYkpQVjJXTWV5bw?oc=5",
+      "published": "2026-08-31T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "One Mag 7 Stock to Watch in the Second Half of 2026 For Solid Gains &nbsp;&nbsp; Yahoo Finance",
+      "query": "GOOGL stock",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Congressman Sold Alphabet Stock Three Months After Buying It, and He Might Have Lost Money - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxON2FyM1psa3Z2c1plMU9xNTBnVU1UbFRFTkxsay1Qbk9mczRVajRpWm50d0NMTDE2MndhNVV3U1JqcVpuU0ZDbFM5aUYwbUp1cVdaYy10WjBhU09tUklReThqdWxVa2JtTTliOWtVOGFYcDdFcTFNNFNtZ2RVQXlRQU1lV3BFRG1TNV91THNaQW5ZRlNmYzlHcTFBWkYzSDB4S2Zuag?oc=5",
+      "published": "2026-08-30T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Congressman Sold Alphabet Stock Three Months After Buying It, and He Might Have Lost Money &nbsp;&nbsp; Yahoo Finance",
+      "query": "\"Alphabet\" stock",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Alphabet Stock (GOOGL) Opinions on AI Growth Prospects - Quiver Quantitative",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOaGxhX1d2dWpiMXFIWDRnVW5USTJJSWJJNlAxUW43V0lJakJneGJYa3pKbmxKa2ZUWERqRFFENWhfX3dCSERGVVk3QTlKOTg0bWVtNXo0MnlMZHVWMVRlRWpzVEFxRWxfVklsbGlLaEFIcUg5ZmYtQTJIS2Q2dFBIcFY4SkNQZC1INk1odUozQnQ3QnF3OEE?oc=5",
+      "published": "2026-08-30T07:00:00+00:00",
+      "publisher": "Quiver Quantitative",
+      "summary": "Alphabet Stock (GOOGL) Opinions on AI Growth Prospects &nbsp;&nbsp; Quiver Quantitative",
+      "query": "GOOGL analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "positive"
+    },
+    {
+      "title": "Alphabet Stock: Is GOOGL Underperforming the Technology Sector? - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWHA4N01PQzc4dW9zdmZ1ZjB4VGhpcHdCT050aVFycEViNHE3YVJGbG9nT2xXV0Vjb0xnZTdtekhBeXdVOFVwNWZ6dXRjXzJ0UkJLTEhfWlpMZ0dxWGFCNDJrRzFiTGRLQlA1YlJQZ3RGOEJxb0FoSjZqYTFVSlpnaktOR05IakttV0c3cEVBcU9ZTWROSW5sSFVfTDlJcF9rb21MT0NNcFI1MFlPSkFZTXh3?oc=5",
+      "published": "2026-08-28T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Alphabet Stock: Is GOOGL Underperforming the Technology Sector? &nbsp;&nbsp; Yahoo Finance",
+      "query": "GOOGL stock",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Wipro and Google Cloud Expand Partnership to Scale AI into Core Enterprise Operations - Wipro",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOdTJlbEpENXBnOExMOFQwdklxbG03dkZBT2ItdDgtNmtQLWw1bk1HLTIwVTRVNEhTZmcwVHAyM2RQTUpXbDdielJXOU0zRzRfWWIwM1NrWGF1bC1YbG8zVDljZm1raVh5MW5NUjFPZldwQ1VlcjRZTzdkcWZVUE9HYThka1M1SXNlZnhBZzZ0aERuamVqVFdJZEZhLThHa1FtMHNlYmxVUWVWanA4NkhZVlpUX3RwMGpIV3B1dzdxdnFwazVVM0tDaFJid1dPdmdUamFJ?oc=5",
+      "published": "2026-08-27T15:45:16+00:00",
+      "publisher": "Wipro",
+      "summary": "Wipro and Google Cloud Expand Partnership to Scale AI into Core Enterprise Operations &nbsp;&nbsp; Wipro",
+      "query": "GOOGL acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "demand"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Magnificent no more: As Nvidia stock soars, here's why investors have been fleeing Alphabet and Meta - businessinsider.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTldsUmYwRGxUSUxfZVYtVFZfQUlNOXREOG8yM0Z5azBzNm5JRV9VYi15Tms5R3JmQlNGSGQyZlBPWnNZcGJKZXd5V2ZJcVdLNHg0VEY3eFZMUEVLOEJMTmxDYmFHTkxkYldRTUtDZ1VOeEVfcV9FeHFOMS1ORElCRWlTYnp2QkpZR1hsMkdsT2tvQnhJbGt3OXdHZ08zLTc5aWJWbFZ4MA?oc=5",
+      "published": "2026-08-27T07:00:00+00:00",
+      "publisher": "businessinsider.com",
+      "summary": "Magnificent no more: As Nvidia stock soars, here's why investors have been fleeing Alphabet and Meta &nbsp;&nbsp; businessinsider.com",
+      "query": "\"Alphabet\" stock",
+      "source_api": "google_news_rss",
+      "tags": [
+        "speculation",
+        "price_move"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "This Analyst Just Called Alphabet 2027’s Best Stock. She Might Be Right - 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSTBfamFuTzJQSXIyd2JxSUFGa1htY0t6TXlycG1CT2JSR2FPWkpGNzh6RkwyX3lyOFk2Y25sZ1lYNVhLOXU2WFlsMjJURDU5NWpWaHgtdThGamFrazA3LTNTMXNFdzUya2Z3d3NoOUtDMURCckx6SlVfY0RFWjllOHEwU185dmdoZzR1NWRvYWw2ZHd2OWhIa0JXXzloNmxUN2xqRzVRbU1SNzVZMGZOSHJTVQ?oc=5",
+      "published": "2026-08-27T07:00:00+00:00",
+      "publisher": "24/7 Wall St.",
+      "summary": "This Analyst Just Called Alphabet 2027’s Best Stock. She Might Be Right &nbsp;&nbsp; 24/7 Wall St.",
+      "query": "GOOGL revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Marvell raises annual forecasts, but shares fall as Google deal questions linger - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUlF3Z2g0RTZaeDNWUEhvbFFuVm1BSUNST2JfRXpoQTdSRHdHRldQeVJWblJxVTRtc2ZEUGtDNHNGU3Z4dmI3blYtZmlCbHpNcG40S1JVd0pUREEyTHdoaWN5QjZ4dVg0czFLQVkxUVRGNFZNbUhsbHRLVjJYdHVIZ2lYcFh3MkNCWnoxQzRaSkphQVVhNFhSRjJwV3dZX2dfVjNVNmVIWllpX3BJTUE?oc=5",
+      "published": "2026-08-27T07:00:00+00:00",
+      "publisher": "Reuters",
+      "summary": "Marvell raises annual forecasts, but shares fall as Google deal questions linger &nbsp;&nbsp; Reuters",
+      "query": "GOOGL revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [
+        "guidance",
+        "demand",
+        "price_move"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Researchers say Alexa, Siri and Google Assistant can be hacked with lasers - LiveNOW from FOX",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQWMzRVl0eVN4c21Ga3BMbUJtU2huWHFaVjZpVDFHS0NCelpSMjRtRDg1dEZJRmdDMWFLQXQ1UGk1YVdBcVZDdWwzcXFVOHpacEdDTmg1S1ZYbDNfaGRZYUViVV8tTEthSGRTOVVRdElHTnhnY3R3cXd0Q1ZhZ1R3Um1Vb27SAYoBQVVfeXFMUHA0RHROVFhvb3FJYzRkdV9la0hyV3czRWFKSVVBQzdNcmd6c1pqby1CWGxSU2h1NVVGWFhxUVB1dWZhQ1pKQjRRZHk0aUJqMXI4UDFpYktGa1k5RlBjTDNFNGJfOHhkRmNYU1lfSmh0ZGV4ZUl5dEJVa1JUX1FOOXVyUThwWmMwMnpn?oc=5",
+      "published": "2026-08-27T07:00:00+00:00",
+      "publisher": "LiveNOW from FOX",
+      "summary": "Researchers say Alexa, Siri and Google Assistant can be hacked with lasers &nbsp;&nbsp; LiveNOW from FOX",
+      "query": "GOOGL lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Alphabet agrees to pay £260mn to settle UK class action lawsuit - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUGh2dFZENWVpZ185LTRhbjdnR0lSYUJRdVFqb3RHNFc5WjU4VndWcy1MZ3JWQ1Jlb2tfSzNGLW9HaVRvUk9Ydlk0WUJRNzgtSVFja09uRFp1RlR0bThJTVNXWTNRNV84eFV0MThPUHVvLW54MWRsTFc2MFlISWY3clZkNWs?oc=5",
+      "published": "2026-08-27T07:00:00+00:00",
+      "publisher": "Financial Times",
+      "summary": "Alphabet agrees to pay £260mn to settle UK class action lawsuit &nbsp;&nbsp; Financial Times",
+      "query": "\"Alphabet\" lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory"
+      ],
+      "lean": "negative"
+    },
+    {
+      "title": "Alphabet Loses $692 Billion in Market Value as AI Questions Rise - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOYWp4UkE3S01sS3hQRnBVYkJ1a1MtY21jZkxQYnpuREZpUmpvb2dyUnNPdkQ2bXZXTVYwRmV6amhzU0RORUxrRzh3QTBGVTR0djN4al9rTU9qazBJTDlLeDB1STFuM2pGMVgtN1d0MHdUcVMyV0VNaVBPa3hOS1hLTzhwZ2R6bXJuZkg5VDBYeXBsb3JJOGQ4NWVGcW1Odw?oc=5",
+      "published": "2026-08-27T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Alphabet Loses $692 Billion in Market Value as AI Questions Rise &nbsp;&nbsp; Yahoo Finance",
+      "query": "\"Alphabet\" competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Alphabet Loses $700 Billion in Market Value as AI Questions Rise - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQOXhTakFxbzk2YlExcmRYVWU3R1VMT0pWM09OU1otT3U1WDJETnlqQ2l0czRwVjFWQUpJOU5WSFJfSlQzNi1pdlI4NXlaMzcyLUpfWk9FeGpHY1REMXQyUHJKOXNtMGpOWlFVRnduYTJ5OXdTX1c2UXBXMTY2Vk5pNklUUHFRNjlOZVVhSVlCMHZGMGthWEhuWWx1N3VJbTgteE45bk0wZHdaVmZjdVBFaGRVUlg?oc=5",
+      "published": "2026-08-27T07:00:00+00:00",
+      "publisher": "Bloomberg.com",
+      "summary": "Alphabet Loses $700 Billion in Market Value as AI Questions Rise &nbsp;&nbsp; Bloomberg.com",
+      "query": "\"Alphabet\" competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Clearlake Capital and Google Cloud Form Strategic Partnership to Deliver Full-Stack Enterprise AI Across Portfolio Companies - Clearlake Capital",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPV1BxS3RMSklTQVVRVXpaVFN4NFZTRFlqOWRJaXZLaGZQNmlZaWxHS3AxMXNlTGZrY19meE5OZVZqVm9mM19wZGxHbkpia05ONVdqU1VTVWxXNlU5cG9Ya2JLelhMTndBZ1lSYWdKSzdkbEhlbGVOV2JhcE9FSDlRV0xLMHpROWVOeGw3VkdxTU1hSzQ3VHZqRTBZdDlDcVlTbmpjYkhLWWxTV3o4M1lrdjMtTTQ0djd6b2QwbzhwMkdsZFJTRExKaUl0NzJlNzYwNU1nUmRvQjQ3Y2poXzJsRWRIaVVvdUU?oc=5",
+      "published": "2026-08-27T07:00:00+00:00",
+      "publisher": "Clearlake Capital",
+      "summary": "Clearlake Capital and Google Cloud Form Strategic Partnership to Deliver Full-Stack Enterprise AI Across Portfolio Companies &nbsp;&nbsp; Clearlake Capital",
+      "query": "GOOGL acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "demand"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Alphabet (GOOGL) Stock Looks Below Fair Value Despite Strong Earnings Gains - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQajlBejRUQTZETHJuVVViaG1PN25ZUHlBcndtXzhranc1TXAzX1hFLThlTkI0UHZRQThhRUlzOG94RzJlREJPeHFrTmdQaU5uQ2pUMWdEN0dncWpuLTBRZlRaSkhjbU5jVGZxekRVZDlRRUxFY3JHQ0VqRDktc3htUnZFanduRWV6TFV0QnJSMXVIb21UM0xJbVpmZDQxZw?oc=5",
+      "published": "2026-08-25T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Alphabet (GOOGL) Stock Looks Below Fair Value Despite Strong Earnings Gains &nbsp;&nbsp; Yahoo Finance",
+      "query": "GOOGL stock",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Google Cloud Announces Strategic Partnership with Verizon to Scale Enterprise AI - googlecloudpresscorner.com",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOWnlZcHctY2lOakN4YXVGM3dHb2VqY1hzenZMbUREZ2tBNmZ0OHZwRV9HZ1FzcFVMZGZYLWwzZEJSdjJ2NU1MQXR2Zi16WDk0Tm1WZEdmZkM1YXJWc1VvbmdzZGVmV1YwTHpXLUpvalJuQW5pUGZtZ3dNQXZvNUJXbENQLVFEZnlKbE4tdEVFUkVUSDB5TktkTmh4aEhZNW1QLUhXTm9IbmI0aFpHejBVMzdnMm1sWFNGUDlUZlhBYVdyMGZQdUxQZ2x3?oc=5",
+      "published": "2026-08-24T07:00:00+00:00",
+      "publisher": "googlecloudpresscorner.com",
+      "summary": "Google Cloud Announces Strategic Partnership with Verizon to Scale Enterprise AI &nbsp;&nbsp; googlecloudpresscorner.com",
+      "query": "GOOGL acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "product",
+        "demand"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Some North Carolinians to Receive Payments as Part of $700 Million Settlement in Google Play Store Antitrust Lawsuit - NCDOJ (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOY0NJbzJELWRIZ2Q5czh5WUpINGxYRElfbjdrWW00UmdtTlI3Q3JHTnB5NTBIZkVIUjRJUDZIempKRUFud2FvQ1BfUkNvblBZc2ZCS1lsTlVsanAtYU1BVE5qSDRQaURXTHZSUFFEQVF5cmZ3NmNxSGhITGwwT0UzQnZXcGRVcXJUSWtfRXdlc3lzRWZRcWg3OUNkTGZUMnpCemlvTWs3VDNSbG51RW5VeWh5VlBPZmVXWkFtM0p6V21ySEE2dUNVc1JaZkI1Y00?oc=5",
+      "published": "2026-08-20T07:00:00+00:00",
+      "publisher": "NCDOJ (.gov)",
+      "summary": "Some North Carolinians to Receive Payments as Part of $700 Million Settlement in Google Play Store Antitrust Lawsuit &nbsp;&nbsp; NCDOJ (.gov)",
+      "query": "GOOGL lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory"
+      ],
+      "lean": "negative"
+    },
+    {
+      "title": "Marvell's stock pops 10% on AI chip deal that lets Google buy up to $12.2 billion in shares - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE01ZjN6RG5qZ2hsZU5Db1FlOVdDNWJsX2dpVHVlMnAwdEpIa1BaV21fZ290eTNhVUdqOEVqSkdlRGZCclRtellnd05GQm9JWlpKRC11X1p6Y21CLUdyUWUwaThFUDFwQ01TWmNDUdIBckFVX3lxTE1mNEJ4WHBveW1zdm5DeGU2X3RTcndUbDdfNW5ZcjVlX1g0dGZERE5YdVJjbG9ZVHZnaDhzSklJcnRkb08wd1Bsd1pLeHZCd0xfbkx2dHJkaXJNVHZyaUZhMWw2V1hZVThYclhzdHJVVVh6Zw?oc=5",
+      "published": "2026-08-19T07:00:00+00:00",
+      "publisher": "CNBC",
+      "summary": "Marvell's stock pops 10% on AI chip deal that lets Google buy up to $12.2 billion in shares &nbsp;&nbsp; CNBC",
+      "query": "GOOGL acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "demand"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Google’s $12.2 Billion Marvell Deal Deepens Ties Across AI Supply Chain - PYMNTS.com",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbWlSMHROc0lmekNyeWRlamw0SzlCZ09pWFN0SzBFRlFCTnZCMzcxSmNfWng3LXlsWUZjUWN6cXk3N3VEYy12ajltaWF6dXBKLXdRWVhBckJDRWU4N0d1WUUyU0ZrOWZfN2Noc0J3NUdNRUNUbHdydzJwRDBPRXlaZDFZcGJSVkEzbDNQWm13YlZnYmM5bFhtbS1SSjNOcU1RQkplQWNB?oc=5",
+      "published": "2026-08-19T07:00:00+00:00",
+      "publisher": "PYMNTS.com",
+      "summary": "Google’s $12.2 Billion Marvell Deal Deepens Ties Across AI Supply Chain &nbsp;&nbsp; PYMNTS.com",
+      "query": "GOOGL capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity",
+        "demand"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Google Plans to Move All Pixel Production Out of China in 2027 - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPOE9vcVhhQnZ4MFE3R09FcF9TeElFX3V1UzF1OWE3b2J3WTBSb2JLYllJSU5XdzAweUVDTkNEaFZZNk9ZRVkxUkI4dzktRlR6ak9FclEzVFYwVE5hSndUVG5laTNOb3dFZ203OC12dUl6QzVqVmdvWWxaTEpyMVVYSFZtcXl1dVFUWjlzS2VUNUgxN0FETkFxRUZWNA?oc=5",
+      "published": "2026-08-18T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Google Plans to Move All Pixel Production Out of China in 2027 &nbsp;&nbsp; Yahoo Finance",
+      "query": "GOOGL capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Alphabet Is Facing Thousands of Lawsuits. History Says This Is What May Happen - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWEhwRmdKaG1jN1dlRTdOWGJQTWFhajBmbFJ5SWdYZlY3LWFLNzBqRmtBVlJWYTZldE9jbkxGNVFNTFBfZkdRcUZiRmNjUHR1X01vN21pb2Z5ZGd1SWV4VnlTeElqRm9xdU9lMFFNMFo2VHhtLVluRFppZUw0cHZ3Ym9kVV9TVGRKWjA4ZzViU3h5UVJPWTRqUA?oc=5",
+      "published": "2026-08-15T07:00:00+00:00",
+      "publisher": "The Motley Fool",
+      "summary": "Alphabet Is Facing Thousands of Lawsuits. History Says This Is What May Happen &nbsp;&nbsp; The Motley Fool",
+      "query": "\"Alphabet\" lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory"
+      ],
+      "lean": "negative"
+    },
+    {
+      "title": "🔮 The market misread Google’s AI exodus - exponentialview.co",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBYZWdsVkNBM2FENWdUcndFWFBrS24yOEY0QlBBcWV4ZFZVVTVjQWpxTjFpcHFJSVFodDZPcWFZT2dVS1VrMXRaS1JLQWRGempWelZsazBRS2RWamQtQ3FIanVVS09XX3ltQXAxZmtydk1HQQ?oc=5",
+      "published": "2026-08-15T07:00:00+00:00",
+      "publisher": "exponentialview.co",
+      "summary": "🔮 The market misread Google’s AI exodus &nbsp;&nbsp; exponentialview.co",
+      "query": "GOOGL competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "GOOGL Stock Alert: Google Unleashes Its Biggest Weapon Against Apple - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUktuQkZSYnV1Q0FNbktNR01oQ1liaEdEbUxHTVlmVWtuQzlDZ184SFF1Slczbmg4UXA3bVRaVEFKOHFPSjRORExlZjk3OHVhZ3gtZzQ4eFRZM3JObmJTOXFxSFVYcllwRHYzdVJWVnZaVldvcHFSNzhKTXlodUstd2FNWUtURGVzdXNGRmpQMmsxSzBBcXU3aU1PMmJhaTh6?oc=5",
+      "published": "2026-08-14T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "GOOGL Stock Alert: Google Unleashes Its Biggest Weapon Against Apple &nbsp;&nbsp; Yahoo Finance",
+      "query": "GOOGL stock",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "GOOGL Down 19% From 52-Week High: Buy, Sell or Hold the Stock? - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSG1YYUZuMVc5TkJQeW1EV1dvaTVfWVdVWGF6bG5YUDh6Q0JUb19ZM25RLWtZRVB6ekVHRzdEUXlTQnBtN2c2UUFFNENoWVhTaHVlY0J2a3ctOUZJNTBxaUZDeVpiQS02eUoxT0I2RjB5ekJZbWJRU2luaEItdi1LWUxia0ZlYkhrS0lyZ3JTaw?oc=5",
+      "published": "2026-08-13T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "GOOGL Down 19% From 52-Week High: Buy, Sell or Hold the Stock? &nbsp;&nbsp; Yahoo Finance",
+      "query": "GOOGL stock",
+      "source_api": "google_news_rss",
+      "tags": [
+        "price_move"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Alphabet Stock Climbs as Norway Fund Ranks It Third - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZzNyNTlkYllYcGxnRm5RRDJCUVYwczg2aC05aFRqNWlWbTZQR0lPRXJmOGp5clRGdVZVazFYa1RXZHNjU2NydnRyQUxPRkFwNllTRFhnN1VBVHZoQ3p1cnd1SFdSa1lVZzY3SjVEUE0zdWc5eEhrSEJtcEwzMHpPeVpHZHZKZjNrNUVuUTQyNTJ2Y3g4MGlpRUtjclhyd0k?oc=5",
+      "published": "2026-08-13T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Alphabet Stock Climbs as Norway Fund Ranks It Third &nbsp;&nbsp; Yahoo Finance",
+      "query": "\"Alphabet\" stock",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Alphabet (GOOGL) Stock May Be 20% Undervalued Following AI Bond Sale - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPLUl1enV6Q0N3T1pKcG5FLVQ4SExSVlVDTkZ1VWZUc1VydTdEWGxDYlhlMTI5bGhMSXhRVUJKdFZYel96dnVobUJiLTBlZG5fZ1BwTERIa2kyYTltZDNuYlA2dGFGdzlFZk14eDVGSkFpX0lWclNVN0k1R3JWRWRsUUJRZkxVQjRsbjB5eTBLSHBEVkxHaU0w?oc=5",
+      "published": "2026-08-11T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Alphabet (GOOGL) Stock May Be 20% Undervalued Following AI Bond Sale &nbsp;&nbsp; Yahoo Finance",
+      "query": "GOOGL stock",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Google Health announces a strategic partnership with Abbott, a leader in health and wellness. - blog.google",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWms5a2ZKRjdsVjk3UjhRLUJHSnBBRlRaa2FSWTZVM1dRamlrN3FFamVxWDV2ajcxQV9pcW5LQy0xcnVqWjZFdHZTMFV2NXVpUHNuWnNSRWNUZGxNUGFzdXBYVWxWN1JoV3llbjRjck5qd0dScVZBNVdwcERWTFFsbFVvaGtGWjVfbERhYVU3SWZmcUxESy1fREJISWZaNkYw?oc=5",
+      "published": "2026-08-11T07:00:00+00:00",
+      "publisher": "blog.google",
+      "summary": "Google Health announces a strategic partnership with Abbott, a leader in health and wellness. &nbsp;&nbsp; blog.google",
+      "query": "GOOGL acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "product",
+        "demand"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Price Prediction: Google Will Hit $400 on This Date - 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTkN0TjZRZkZuNkd6d2F6MFFfVkZiaDNkNEZ1dnZZUWZzV0pQaXVpVGlSYzRBTVdpbDdXcDB2M1NqazI5RlB6Q19nQWJyYWFjRnh4d3U5dVFUWUM0SnNDclpodEg5VlRNOUNORUgyWjF5dlRMdFNUeGxpZGZYWjlhbTJoZGxQTHlTZF93MnNoSkZ0NDJMTkJCWA?oc=5",
+      "published": "2026-08-07T07:00:00+00:00",
+      "publisher": "24/7 Wall St.",
+      "summary": "Price Prediction: Google Will Hit $400 on This Date &nbsp;&nbsp; 24/7 Wall St.",
+      "query": "GOOGL analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [
+        "speculation"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Alphabet Is Still Up 16% in 2026. What Will It Take to Get GOOGL Stock Above $400? - 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNM2FzTG1RSkk4WUhyWVdwWmhVNUdOUEk2djI5bzZ0aEFtTVZHWERxSjVucXdsOWhNMThnaTJZUkt1Qmk4eWVPSHVKeFNjX21CWjZLMUlBREFZLUZObFNkczQ3bmpwQW8xNkRPNHJyUjRHNU5faGowVFNzTUhKcGpBQm9OZ09iSDh5dWhiZWpjc241WDJ6ZC1TdHBqbms5cHpkU1ZyYjN6MklzRl9XdjdENWRNcFFTT0wwa1JNOGVyTQ?oc=5",
+      "published": "2026-08-05T07:00:00+00:00",
+      "publisher": "24/7 Wall St.",
+      "summary": "Alphabet Is Still Up 16% in 2026. What Will It Take to Get GOOGL Stock Above $400? &nbsp;&nbsp; 24/7 Wall St.",
+      "query": "GOOGL analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [
+        "speculation"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "After Earnings, Is Alphabet Stock a Buy, a Sell, or Fairly Valued? - Morningstar",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdnk0aGNmY2tDVTdhRVZWTzRaYWJaZk1OaTB6Znd1eGtSNHNRMndMU1ZENXlpSEFBY1JrOTlkbkxWT2VtSFVOSFc4VDdUcEJkYjkxeXBqX3E1bTVXMnRRdVdzbW5KREtiM3hoMWc4YVVVUng0RW1oNjF0cnVHdFN3U0RsZF9xalI4NEt5WDZHZU9fTmVXUW1CQ0wtN0F3OG80cVJuUmU2Yw?oc=5",
+      "published": "2026-08-04T07:00:00+00:00",
+      "publisher": "Morningstar",
+      "summary": "After Earnings, Is Alphabet Stock a Buy, a Sell, or Fairly Valued? &nbsp;&nbsp; Morningstar",
+      "query": "\"Alphabet\" stock",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Open Markets Urges Appeals Court to Restore Competition in Search as Google Extends Its Gatekeeper Power into AI - Open Markets Institute",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOY1Y5Y1c0M0dtNXlvd0hBSHA0OVBLTV9ZQlVjMVdlSVlqV21feWd1NEhOOWU0ZEoxSDNWVmJyTnF3cEtGUERLRkVjcU9rYS0wR0FERjVCYVZ3Yk4yQ3A4ckkycFppakFzUlRXc09Rdy1iemJrNVZiNFc1bE9vRXVzNjZnT1ctUzhjNktkOGxvMnIxUkwxYXQzRndNM1VqNHYwUGZ3RzFPaHBjNndrZGw4Nmx0VHFBZw?oc=5",
+      "published": "2026-08-04T07:00:00+00:00",
+      "publisher": "Open Markets Institute",
+      "summary": "Open Markets Urges Appeals Court to Restore Competition in Search as Google Extends Its Gatekeeper Power into AI &nbsp;&nbsp; Open Markets Institute",
+      "query": "GOOGL lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Alphabet (GOOGL) Price Forecast: Up 14% From Post-Earnings Low, Eyes $364 Resistance at 17x P/E - TradingKey",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPUk9feGtueVM1eDZ4VDFaUDdPaTcxUXBPUERaRHZCSVJKSDJtdDlZbVRiU3lCM2szN3FFMjRXQmpVOUVfZzJOM2UzV2taMi1ncGlhREJ3YnpiY3kzcVgzMVpYajlCYjU4eDk2bDUwYjVPQVNMX3RUTThsY0JtRFRZUFRlS0otX3Z0ZU9haU5CYXVmTnM3MnFkSXV0VG9SM202bFc4VFhmQkJacTROUlZscjhuUGFQTkw3OERZMnhUeEdPUl9fQnJ1WVJRX1g4SGFTVTJnb3pTNWg?oc=5",
+      "published": "2026-08-03T07:00:00+00:00",
+      "publisher": "TradingKey",
+      "summary": "Alphabet (GOOGL) Price Forecast: Up 14% From Post-Earnings Low, Eyes $364 Resistance at 17x P/E &nbsp;&nbsp; TradingKey",
+      "query": "GOOGL analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "guidance"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Alphabet: The Market Isn't Ready For This (NASDAQ:GOOG) - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZjAyaFA5M0VDWXlLV0paZjdRcEE1Y1VmLTRBVWFQcFpmLWYzYndNN2FIMXJXZU1DR0l5UG5ueDRwRnctZkxMYXA0d0NYTnBaNWl5M05keUtzQTkxSzBpWjhFbXZXMWhjdldONG45TkRFby1iOGUtY2VEMm4yRDluTFllaDR2YlU?oc=5",
+      "published": "2026-08-03T07:00:00+00:00",
+      "publisher": "Seeking Alpha",
+      "summary": "Alphabet: The Market Isn't Ready For This (NASDAQ:GOOG) &nbsp;&nbsp; Seeking Alpha",
+      "query": "\"Alphabet\" competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "3 Wall Street Analysts Have Oracle Going to $400: An Alphabet Partnership Just Jump Started That 200% Upside - 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPTXlBd0JZeTcwLWhZU0t3Tk9vRklxVmdwTFBDLUkzdElOQ05ENnUxc3dIZ1I3TTNIYkhSSWUwRHZzdXExZm1mNHp2OWwySjRuV1VkOFlUNzdxVlBjNUFLVGk3Q0VfOXFhRW1pbWRkTU9tUnpwaDkxdFlPZ3hJZ09FSHU5NWpGTUk5WjduUVVObjlrN0JZdWJUaU5lemVTeWJWamhVaDduQktDZTRkMWstejZ6NTdiU1pqZWIyLXpjZGJHQVRKXzFLVjVkME1JRUxqUGtoeTJPM0pmbkFCT1F4djVhdw?oc=5",
+      "published": "2026-07-31T07:00:00+00:00",
+      "publisher": "24/7 Wall St.",
+      "summary": "3 Wall Street Analysts Have Oracle Going to $400: An Alphabet Partnership Just Jump Started That 200% Upside &nbsp;&nbsp; 24/7 Wall St.",
+      "query": "\"Alphabet\" acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "analyst",
+        "demand",
+        "speculation"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "3 Wall Street Analysts Have Oracle Going to $400: An Alphabet Partnership Just Jump Started That 200% Upside - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTThGZkZDcEVCSVdfWHo5eGxfZWZka3JjWTlVeVk3QWdCRUVaU1RPMHFiRmRQZ251al9GX0ZMeUJVVnpqQkZURzJCUEgxc3ZSOV9fOWpsQzJZd3lqT1c2V0dBemJoQVBROUwwcm9PX01hWFBrdy1EcjVSRWdnS2JKVFFUQWJJSFBROV9lRjlidWpCQjQ2eGhIRU9B?oc=5",
+      "published": "2026-07-31T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "3 Wall Street Analysts Have Oracle Going to $400: An Alphabet Partnership Just Jump Started That 200% Upside &nbsp;&nbsp; Yahoo Finance",
+      "query": "\"Alphabet\" acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "analyst",
+        "demand",
+        "speculation"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Oracle to Make Gemini Models Available to Thousands of Enterprise Applications Customers - Oracle",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOemdqRGdjbU5YYTJJZ1YzNmdCVjh3TnZMc2FqS2xnM2h6UzNBcWFMRTY2Y01EVE01RHlwdlR6dUdyaWRzUklmQi05MWw1d0FWUzRCdjEzUFdkOXFZdENoUWw1NHE1eFJ4eDA0OFp0MlRZUXgtT3JvY3loc1NoNFdiaFJ2MmMzQXlqTFl5TjhMY09FcGdERmc?oc=5",
+      "published": "2026-07-30T07:00:00+00:00",
+      "publisher": "Oracle",
+      "summary": "Oracle to Make Gemini Models Available to Thousands of Enterprise Applications Customers &nbsp;&nbsp; Oracle",
+      "query": "GOOGL acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "demand"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Chip stock rout sends investors rushing back to bruised Alphabet stock - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOSF81bjQxbzBfWDdhemduNTFZaUJuUXJUV2VINHNHbXJhYnlsdlJGSjB0R09CYWpNSkxVZ0lsSVNtNXlMSEk4M2FieGZDOHF3Y3F6MFVXc1lZOEYwUTRhY0xTbnJReldJdHpsbnFEQkdpRU5zcjNZcW5QeWxrTEdIdnZFT2IzWHdKQ1l0ZXFPbW5ZR2I5dllCb3o3QVFnUWptVldCdmpqeUF1WFRRWUFpWUtZRUQ1dG9Rd3R6dzlhOTVtSTNkQVZNUDRPRG1peE0?oc=5",
+      "published": "2026-07-28T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Chip stock rout sends investors rushing back to bruised Alphabet stock &nbsp;&nbsp; Yahoo Finance",
+      "query": "\"Alphabet\" stock",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Top analyst revamps Google stock price target on key move - thestreet.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOWVpwNVpCZkVLSmdabC1uQjdkOGh3OGZqMjktWG1IOVpuT2FWUGp6bGVoNmoyODBBbEVFSHlkRHpDQUtPMlZUYkxlYXltYk5kdnNhMTdnWUZWdnF4SFNGaElFV2U5cFJVdm41a2ZzbkcxaFY5emtCVnc0VXhiXzVMam80bWtvel9NZnN4N0Z4TEFKdzZIcDZYZndoT1FGbWdEcF9n?oc=5",
+      "published": "2026-07-28T07:00:00+00:00",
+      "publisher": "thestreet.com",
+      "summary": "Top analyst revamps Google stock price target on key move &nbsp;&nbsp; thestreet.com",
+      "query": "GOOGL analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [
+        "analyst"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Alphabet Continues to Expand Its Data Center Footprint Over the Next Few Years, Further Consolidating Nvidia’s Position in the Supply Chain - nai500.com",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPSnhmd2V5WVp6T2JKM0t2aHphSzhVRWdSTUxycTlMRDhWNHg0Qm04VmNTSlVlU09KcXpadmJyQ2t4OFRjN0J1V2k0d3U5RGo5NTJXLXdWR1VFMlVGdkRBSXpTNmJhU2JmQjc4WWJFUUR1LWExcG1fSjBkeGhvVENLZmduX3FEMXVSZ3QyWlNvV1pNclpmMWRpZHk1eWxOTXY3cFNWY0plWDhDQk8zM0NyeVVBZlJ4VFF3ZjkyWUY4LTdfUU5xY1RTbUpMUGNHTU8xMzI3WDJXUUN4WmpMdy1DY0stNUdHRmpOeDBiQ09xY29UQVJWcTZNQ21nSVVNTGs?oc=5",
+      "published": "2026-07-27T07:00:00+00:00",
+      "publisher": "nai500.com",
+      "summary": "Alphabet Continues to Expand Its Data Center Footprint Over the Next Few Years, Further Consolidating Nvidia’s Position in the Supply Chain &nbsp;&nbsp; nai500.com",
+      "query": "\"Alphabet\" capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity",
+        "demand"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Alphabet Inc. – Record cloud growth, elevated CAPEX weighs on FCF. - stocksbnb.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNSzRpdUs2d200Z0NiRS0zS1FQUXN6aVF4Mzk2S1g5Yk9BR0VfNnlfOHYwbDdlYmhLb1FDX3BPMG56UmJ0bkM0OFlVTGVJc0FqMGRUeW4wVkpvVXZ5NExKbE94TUNxWEREWXlCQVA2NEh2eXdpdGIyXzRjOEllMk9PbUd5MmFtVEQydDBDQUQ5VDEwcHlURzMxbl9yd2E?oc=5",
+      "published": "2026-07-27T07:00:00+00:00",
+      "publisher": "stocksbnb.com",
+      "summary": "Alphabet Inc. – Record cloud growth, elevated CAPEX weighs on FCF. &nbsp;&nbsp; stocksbnb.com",
+      "query": "\"Alphabet\" capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Google (GOOGL) Faces $1 Billion EU Antitrust Fine And New Trade Friction - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNekVWVzVzaWEtSmhid2U5WDBZSDdOZm4tZXVXZ25aaEd6RnVWMjIxUUc0aGNTemdfRUpCWWZ6bVFDUnpCVzM1ZWhxX1NmRVNLSHU0MGtTWmdGb2xvay1zQ0hheUd1SzlnSkZhWS0zSm5hazkwampZWnlnTUhzdVlLNm9mY185Slh5bjRyZUVTX2ZfcVU?oc=5",
+      "published": "2026-07-25T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Google (GOOGL) Faces $1 Billion EU Antitrust Fine And New Trade Friction &nbsp;&nbsp; Yahoo Finance",
+      "query": "GOOGL lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "The Discount On GOOGL Stock Looks Overdone - Trefis",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQY2gyTEhhUE5hY3FDTTRXVHd5M3lPN3BUMHFHOUNvcjBGci1OejF1UW12MUJaR1pTT3lXdVd1Tmh4emtVZEZrY0h5a1dNNHNheDNwVFhvbnA1MFRSRDQxS2ZjanhmVDFCSlE5SHV1ZHVzaXlBU09ycVFSZjBxWGJGdUR3RE04d3B6ekE1WV92bkVPQXUtcG4zQlZsTklKMjNiUHo2Mi1HTQ?oc=5",
+      "published": "2026-07-24T07:00:00+00:00",
+      "publisher": "Trefis",
+      "summary": "The Discount On GOOGL Stock Looks Overdone &nbsp;&nbsp; Trefis",
+      "query": "GOOGL stock",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Alphabet: Is the Stock a Buy on the Dip as Cloud Revenue Surges? - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMzc4MWNhcDRkeHNGcXNaempvOV9XRW1ONks1bGxobzFmT3BCanE5RHhjTmJieDdTUk12UUZUeU9xVTNTRGdTUm9GSGtnb2FfY3B0VXBEaUtHVHBNRzZqdGpNVUs4X3pDWkxMSTJScTgwRExWWjB0cWtiVUJVRWdwWThpcnZEbTJYTG5TOUstTjNQY1phYlVoUg?oc=5",
+      "published": "2026-07-24T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Alphabet: Is the Stock a Buy on the Dip as Cloud Revenue Surges? &nbsp;&nbsp; Yahoo Finance",
+      "query": "\"Alphabet\" stock",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "positive"
+    },
+    {
+      "title": "Google Hit With $1 Billion EU Fine as US Antitrust Cases Mount - KQED",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQzRocTQzSUtoUzlHU1ZKZG1SWFpFU25IZW82VWFlY05Rdl96TWhtMTNybFhuS1l1aFdYMjV3U1pJeVRaZF9iSV9PeXVQd1NsWVJIRTdLOGwzUUlFTzJkNTNlOUxpUjJQZ0F0T2dOdGdBRVJKdmF0d1c1QjZDV2swbkNMUnlKWEJTWnBrTm5kM1JMdkxtdjlDS3hQQVQ?oc=5",
+      "published": "2026-07-24T07:00:00+00:00",
+      "publisher": "KQED",
+      "summary": "Google Hit With $1 Billion EU Fine as US Antitrust Cases Mount &nbsp;&nbsp; KQED",
+      "query": "GOOGL lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Google Cloud Revenue Surges 82%; Capex Hiked to $205 Billion Triggers Stock Sell-Off - finance.biggo.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBOTlpwY09oZTZnMTgtUHlFMG9pMHI5M0huNUFweWw4cnpsRU5CYTF2S1hrVld2Z2tLdXFsdVdPWE9nQk1xM2FoU0l5MDc4TW40OHloaENGNDRWSnV1RHhac0gyMVg0SEg4My1JMzU2QjFnVmdRTEE?oc=5",
+      "published": "2026-07-24T07:00:00+00:00",
+      "publisher": "finance.biggo.com",
+      "summary": "Google Cloud Revenue Surges 82%; Capex Hiked to $205 Billion Triggers Stock Sell-Off &nbsp;&nbsp; finance.biggo.com",
+      "query": "GOOGL capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "GOOGL Stock Sinks 8% A Day After Strong Q2 Earnings — But Wall Street Isn’t Backing Away Despite Price Target Cuts - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPYXd0Ym5IeDhCR1lrTTluRkhoZllEb3BzLXFHbFgtT0tDUzdad3RRREhfOXh5RUZKc3FYeWxwTHNwLVdKRzE0bnZCbDBZSHFWOUx1bGI2N29UVDhCTzUweHRwajJpYlhoX1k4cFRsT0p2OEREbEhSeC15YzVoejBqdm5Dd2x3R1lQZ2plaEJWc25VUQ?oc=5",
+      "published": "2026-07-23T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "GOOGL Stock Sinks 8% A Day After Strong Q2 Earnings — But Wall Street Isn’t Backing Away Despite Price Target Cuts &nbsp;&nbsp; Yahoo Finance",
+      "query": "GOOGL stock",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "analyst",
+        "price_move"
+      ],
+      "lean": "negative"
+    },
+    {
+      "title": "Why Alphabet (GOOGL) Shares Are Getting Obliterated Today - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSUhzN2o0RGRlR29wcGI5OW5ndHBKSGsyZ2o2MldISTczMzJFUUJKaHlnTFVBSHEwRF9VazY3cDIzMU1HZk1nbHZWSDk1a1oxLVFKd0VMUzNxejRsUlFoZUVsc29yRl9KS1lGSkl0TDYwYTZXRk1DQ1ZOWE5tWTVqRlcyYWFrRWp6NW5vN3h3QURRZFpGQ2s1cFREWjVScFk?oc=5",
+      "published": "2026-07-23T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Why Alphabet (GOOGL) Shares Are Getting Obliterated Today &nbsp;&nbsp; Yahoo Finance",
+      "query": "GOOGL stock",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Google falls more than 6% on capex growth expectations despite earnings beat - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNWEt0UXR4Vjl6UDN6YThSVC1nbE5KOFBHcUdjLW1mRVdmSEFOdi04WV9oSF9iVTJ3Y2F5YWNDM1FVWTM3eW5pX1Fjdi1mQXZ1b3hPQ0RnTnBkTUFkR1NsNUdMLWxqeENHYlFoTVJpemhIVVVLeVlPZDBIanFxdlc5RWdHZ00zd3Ytd2EzQmozczQ3eUFCbHc0TlBzZ05JM2JpNkV1RUtuRU9hVG8wZjNLN2RwTjJ6Y2stNlVJcmN1cmxnSmg2aVlISW1iVUZ2ZUd4?oc=5",
+      "published": "2026-07-23T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Google falls more than 6% on capex growth expectations despite earnings beat &nbsp;&nbsp; Yahoo Finance",
+      "query": "GOOGL earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "capacity"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Alphabet Stock: Is Google’s Huge AI Bet Building a Moat or Sinking Margins? - Barron's",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOSjI0MGhTM2Yyb1hsTVJRT083ZWVMbDlIWjE0QU5wNTFCWjg3SFFUbmo0NTlPSVd6TWY0eW1WbEp4MUpNWTR5cWRLYnBIWnRhT2pwMEpTUUl1ZF9Sb2NLQ0UxSWYxM3VnUGtuTDhxM2s3SWhsOG5TS0JZcHFaUXBEOXRKYw?oc=5",
+      "published": "2026-07-23T07:00:00+00:00",
+      "publisher": "Barron's",
+      "summary": "Alphabet Stock: Is Google’s Huge AI Bet Building a Moat or Sinking Margins? &nbsp;&nbsp; Barron's",
+      "query": "GOOGL earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "What worried investors about Alphabet - Axios",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9tTXVIYll2bFpjV2NzR0tITE5WNkdEcGV1c3pfTVVfcEkzemg5WTZqdml3eDYtOVUxME1FTk1EZU5sZ0pVdHVmQVV2TE9Ca2RrY3VYU1BnSU1JMURuUTZrMEhQSGc4ZHB4X3ZvcA?oc=5",
+      "published": "2026-07-23T07:00:00+00:00",
+      "publisher": "Axios",
+      "summary": "What worried investors about Alphabet &nbsp;&nbsp; Axios",
+      "query": "GOOGL earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Alphabet Falls as $205 Billion Spending Plan Fuels AI Cost Fear - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNT2lOdjRFU1FYcnl3Q0YwS2xfeDdmV0d4ZW9YbWFJbEN0aUlEQ1E4S3VCNmk5dHlIQXdjVmduZDRpRF8xSldkZnFmWDdfU3E1bDNFNDVtT2pLQjAtS3RkR0dodk5DTGRmdXhuWWtJNFV6a1R3NWt1MUVrbEpSLURPWFdCWXFCU2Y3Sl9lMkFvT2JYSEhWR1hsMjZ1RnFvcWNNRUMtN0xaQWZqc3RHZVRaSDhR?oc=5",
+      "published": "2026-07-23T07:00:00+00:00",
+      "publisher": "Bloomberg.com",
+      "summary": "Alphabet Falls as $205 Billion Spending Plan Fuels AI Cost Fear &nbsp;&nbsp; Bloomberg.com",
+      "query": "GOOGL revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity"
+      ],
+      "lean": "negative"
+    },
+    {
+      "title": "Tesla, Alphabet lose hundreds of billions in value in post-earnings stock plunge - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9OYTJ6UVVqeUZ4Y041NlUtOUdGbkVlRkdCZVlVQWI5WXBqaWpITFpYcUxFNjdaWHFwbG5MU25seGtDS0M5YW42aHBUXzJhSGI2Z0UybWt4Z2o1U1JSNHpnY3BDcnNyeTVDOWNmMFRYZFdKekQyVVBVNUo3eW8wN2vSAYQBQVVfeXFMUDRiSjU2XzJhdG91Q1RDOEppaldaeXFvbGxLZkN6cEZfdFRnYW5hdEY3akpzUXg1aXNHN3F0ZFpDb21CZ0VSa21ZUjhNTGczRU02a0VWX240YU80SXhaeVZHRDJzejZKeVZ6dDJsbGtfWkowMGF1Z3VnYTFqb2dPamcyMGpp?oc=5",
+      "published": "2026-07-23T07:00:00+00:00",
+      "publisher": "CNBC",
+      "summary": "Tesla, Alphabet lose hundreds of billions in value in post-earnings stock plunge &nbsp;&nbsp; CNBC",
+      "query": "\"Alphabet\" revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings"
+      ],
+      "lean": "negative"
+    },
+    {
+      "title": "Analysts revise Google stock price target - Finbold",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9kcDlJc3pBRGo3emRtLWFReVVDU3hzRWNGLXUzVVYxV1lmcDIwOExnTXR2endzbXdFeUhtZXRFeFgyclZfUlF3VGFyY0t6Mk1NTXpLMDJmbktqc192bnNvazJ6YlBES25pN21LSGlFMGQyUQ?oc=5",
+      "published": "2026-07-23T07:00:00+00:00",
+      "publisher": "Finbold",
+      "summary": "Analysts revise Google stock price target &nbsp;&nbsp; Finbold",
+      "query": "GOOGL analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [
+        "analyst"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Alphabet To Rally Around 39%? Here Are 10 Top Analyst Forecasts For Thursday - (GOOGL), (ZION) - Benzinga",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOMUhCOVFXUTBnZTlrWFZlYjcyMFMxcTZhaGp4SHpqN19wdEVuR3hrZjl3dEUxMm1mcEQxckp4N3F4NTdzbXpUV1B5SjJCS3JpWUtKYURsWGtXcm5SVFljVjM1czlkc1VXNlFNY0hLcHdRZ215NHJNY1RLRTVnZWdYUExWbTlBR2YyV1dpZG9Gdnl2YWQyOUJOallWaXVxUmNtcjFyVVF0VDFCZndSd2VRMzktYWpma1g3dlItTVFFS2tFbWVyeW1tcktkc3JXTnVYZ180T3dVSVBWZ2ZSUjRyXzYtYw?oc=5",
+      "published": "2026-07-23T07:00:00+00:00",
+      "publisher": "Benzinga",
+      "summary": "Alphabet To Rally Around 39%? Here Are 10 Top Analyst Forecasts For Thursday - (GOOGL), (ZION) &nbsp;&nbsp; Benzinga",
+      "query": "GOOGL analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [
+        "guidance"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Two Blowout Quarters, Two Selloffs: What Tesla and Alphabet Reveal About our Price Target - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPajNFTDN3Um56QVpqenhRaC1YOHZhcVIxdUFNWXBxbmhIcWZsc29NckhGenUyem9FQndMYWtXVVk0a2g4QWNxWmVhbDJuRzRGaXNyZ3JxUkc2dzctNnBNUmRhald2cmppcU15MzdNWGVWdWZiQmwxOUdqaU1oMndDWmlyVW5ELUw3MXNwMVZBV0l5UEo2dk1UcTVOeVE3blU?oc=5",
+      "published": "2026-07-23T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Two Blowout Quarters, Two Selloffs: What Tesla and Alphabet Reveal About our Price Target &nbsp;&nbsp; Yahoo Finance",
+      "query": "\"Alphabet\" analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [
+        "analyst"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "EU hits Google with new $1bn fine, saying it broke digital antitrust rules - Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQaERiWUpWT2xhRldSY3M0U1RGbFQ1M3Q2Z05KT1pNVXY4em5EWkRPUDBtVy1FR3Z6Ry1ldnBwTlRPdnd6T0RSYkRDNy1NaHI5aFQ5RkRqMVV6bFRhYXYxV0ZkVDdJVk5WdEpadjY3RDVYYzlnUUdIeUJhZnVxRFlGWW9ZbUVXUGIzQ3BzSU9xcVpZSkRmRjllV3NlTFc0Z2Y1VVlFeFlQZ0FlR3hrelZqV3dnb9IBuAFBVV95cUxOTWtEbUZ0SW1idWhvU2RYck5Ea2tkZzlWd3dSbWZyUmxfeEFFaERldDlhQ2R0TlEzVVg5dTgzZkRqc2hJRzc4QU1lMXZHZzhCbU04anVfOWVrRkxOTFF6X09SbWQ0dHoxV3VLTGdjRzFscGJELXBBV3lvOUVNSGkwMC1ubUlvckFQdnNlQlJRN2FQd3dmU1BiWjdaZm14TzhZV0Z2d2RPVFB0WGczeW82Q1dWTkxxc0hM?oc=5",
+      "published": "2026-07-23T07:00:00+00:00",
+      "publisher": "Al Jazeera",
+      "summary": "EU hits Google with new $1bn fine, saying it broke digital antitrust rules &nbsp;&nbsp; Al Jazeera",
+      "query": "GOOGL lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Alphabet says Wiz is beating expectations as AI spending heads even higher - calcalistech.com",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0yRTZ1WmNGejRWbFJPMjkzbEtRTEpuQjJ5WHJlbXJyemROVWFxSV81UE41WDh1MTFTV2NNbEZKX2dwbGJVVWtDckU1Ykh2N0hfbjFjWkp6MW1oeUhYSEcyclU1NTRtYktC?oc=5",
+      "published": "2026-07-23T07:00:00+00:00",
+      "publisher": "calcalistech.com",
+      "summary": "Alphabet says Wiz is beating expectations as AI spending heads even higher &nbsp;&nbsp; calcalistech.com",
+      "query": "\"Alphabet\" acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Google hikes capital expenditures to $205B, citing demand growth - ciodive.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQenl5TEhmVENoSzhKQjBPQmNaQ1plU052X2x0WUlHYW9IYTUtZzhUYmlMc1FJckk3SEtqVXZ0bTRGMktMRUZTWW5lQk5ZQkZNQVhRYVA3MnhaQzUyOWtpd1hMN0l6N2FYMk5mYWVDZndFczFieF81ZjBSdllTV0hsMGJSa3IwRTVWQ0haT2pQR0xZLW5GNGc?oc=5",
+      "published": "2026-07-23T07:00:00+00:00",
+      "publisher": "ciodive.com",
+      "summary": "Google hikes capital expenditures to $205B, citing demand growth &nbsp;&nbsp; ciodive.com",
+      "query": "GOOGL capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "demand"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Google Raises Capex, Wall Street Sells - Futuriom",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNDRvd3BrTjZoZzRxelFPaUJrU1BaQURvRVVyeDdvUnpqQmxPdk50Q0JSelFzdktxVjdCRDJ4dUpCcTJtVjk4Zjg1SXVRdXMzZi1kclpEdmkybGQ4WWNNZWFGNnlSMlVscFFybHRWUEthUzdjb2pqVTRmTzF5cGllWlM2ZGJfTUdqUWZUQw?oc=5",
+      "published": "2026-07-23T07:00:00+00:00",
+      "publisher": "Futuriom",
+      "summary": "Google Raises Capex, Wall Street Sells &nbsp;&nbsp; Futuriom",
+      "query": "\"Alphabet\" capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "guidance",
+        "analyst",
+        "capacity"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Alphabet: The $200+ Billion AI Capex Misunderstanding (NASDAQ:GOOG) - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYmROUl94cy1RVzAxUHAxQkFEVGhhSHRuVFlPQW9GckRvUEREZ1ExbE94c1NCX05aVFRZQmhweHNHTURZUkdZYUlLUjFiS3A5eXR6X3FsSHNxRWtJM25iMGJtWmdBUUhJRHRYYmNaNWs1MmhnXzdQdlpVX0hsMXFrS2RacGxuanZneFBSUm1PVlgyNC1ENXFsdjZpX0E?oc=5",
+      "published": "2026-07-23T07:00:00+00:00",
+      "publisher": "Seeking Alpha",
+      "summary": "Alphabet: The $200+ Billion AI Capex Misunderstanding (NASDAQ:GOOG) &nbsp;&nbsp; Seeking Alpha",
+      "query": "\"Alphabet\" capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Alphabet Just Tied Amazon’s $200 Billion Capex Guidance. Could Amazon Raise the Bar Even Higher on July 30? - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOckhaV2xfTm9WSkhfUExzNDRJSkxhaG54NmdOTW9ZdUJvY3VCNEFRYVpic0h5Unh4SGlyVlM3OHktMHRkeHhuSHlabms0LUVJNzc5WEItdXg4VVdSSzJCSEFoWjlYdG1NZmhNQ2Rsd2ZqajBvQ2M0TEpoall2UUVkNjM3Vi1ZZ2xSMmtaVlRDSkdSU1lwMmc0WG1n?oc=5",
+      "published": "2026-07-23T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Alphabet Just Tied Amazon’s $200 Billion Capex Guidance. Could Amazon Raise the Bar Even Higher on July 30? &nbsp;&nbsp; Yahoo Finance",
+      "query": "\"Alphabet\" capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "guidance",
+        "capacity"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "2026 Q2 Earnings Call - abc.xyz",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOaXEteXFHZG5kWEZmN2pDUGtHQUx3cHNjYnIxU0FBVTJUTUd0REZpQnNuZ1BYUkJPUkVUNS1zMERYZzh1Q0lMbGlhLWFOYUV5MDJrSVdrc3AzckR1SlpibjNQdEpFMExXSkNLZC1tNExua3h5MHAwNnE1TU52LW1zMnRTZXMxUmNEeU9lOGw5RllVQmFvM2ZONUl0SFFIYXVnWUR3?oc=5",
+      "published": "2026-07-22T07:00:00+00:00",
+      "publisher": "abc.xyz",
+      "summary": "2026 Q2 Earnings Call &nbsp;&nbsp; abc.xyz",
+      "query": "GOOGL earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Q2 2026 earnings call: Remarks from our CEO - blog.google",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcUdvdmFHb1pYVURUWHFocGdtMVBwQThkSnk5LUtBSVlsZ0ZiQ3VMWUhjc2xLWUxvRzVNNjJlSHdXWVYtcTh5UmpMUHVpLWxFczVXTmxNVUVpZTRCdDhHU2JkS1dhcXV1aXZZTGxUVTkzYVNObDFPUnc4eWJSWlFydXY3bkE3Q0ZjY094M0Nn?oc=5",
+      "published": "2026-07-22T07:00:00+00:00",
+      "publisher": "blog.google",
+      "summary": "Q2 2026 earnings call: Remarks from our CEO &nbsp;&nbsp; blog.google",
+      "query": "GOOGL earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "management"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Alphabet Earnings Preview: The Big Metrics - Free Cash Flow And Capex Guidance (GOOGL) - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSk9jUVAwZVktQmVPa1FsV1ptS0tjZ0F2VU1ySllJQm4wdlJOTU9pZXJwSmJlLWNEQzQ4Rm5sVUFqc3QwYVhMdXNYTk90Q09IbVc4NWZXcWZDQkc5Y3BGSTE2NnJ6M2IzU1U1eXFVVWw3Sm9uM1hUSDZNNWwtNnRpX1ZOeVVCN2NpaF9UbGVSYjdxU2FXamd5U0E1SmU5QWZaenlXNUc1dmlvdmpo?oc=5",
+      "published": "2026-07-22T07:00:00+00:00",
+      "publisher": "Seeking Alpha",
+      "summary": "Alphabet Earnings Preview: The Big Metrics - Free Cash Flow And Capex Guidance (GOOGL) &nbsp;&nbsp; Seeking Alpha",
+      "query": "GOOGL earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "guidance",
+        "capacity"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Alphabet earnings offer a moment of truth in this tech stock battle - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPNE9MU0d6WFQwVzNhcGUzbUZ1SUh3Y1RVVURseW9TX1RJbUVva0tLUHdyS1J2VFBMcHhaOUlXNHNMQUcyX1lERld3QkdVRjYtRnpOTGhyQ0dPdDF4c09mbE05UUxMSVZSeHlDZEFqcjFKWDhwT2V5V2ZwQVN0ZkpkY3phZVZqWmM3c21uaThYTlB5NHNsV2xpOEtudnNmbkhOZVptOExmaktoNVdJRnZKNFZVenhKUHZIUHZsNmhMMVVGbjRXSmc?oc=5",
+      "published": "2026-07-22T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Alphabet earnings offer a moment of truth in this tech stock battle &nbsp;&nbsp; Yahoo Finance",
+      "query": "\"Alphabet\" earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Alphabet 26Q2 Earnings Review: Cloud Growth Hits 82%, 2026 CapEx Guidance Raised - Moomoo",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOYnlFRzRmbVIxUlkyNENWVnhyQndjaWY4dlNDVVZjaHdocmlDbTJoM0Zhdi11aFlNNjVOc0lrOWNiYVNvMmlaaF9BVm9nLWU2R3VBRmVKLWVqQXpuZ1Z5UXk1SUs4aUhBU3Nad0M5N0NSS1I4SVpxbDFFVFJvWUVOMmhfTnVXU1R0TG5VVXVhWVRONkJLdWNKZW55MDhfbFpoaTdwUlVtMUFTUTEyaGxoUVBSUFJKQQ?oc=5",
+      "published": "2026-07-22T07:00:00+00:00",
+      "publisher": "Moomoo",
+      "summary": "Alphabet 26Q2 Earnings Review: Cloud Growth Hits 82%, 2026 CapEx Guidance Raised &nbsp;&nbsp; Moomoo",
+      "query": "\"Alphabet\" earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "guidance",
+        "capacity"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Google increases capex forecast again after cloud-driven quarterly beat - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNTZyTWZjRUFlVHJzZlUxbjIzNFI4OUt5WG1WR1ZtV0U0OHlBSVpJQm10VFJiYy1zcjhHUGpYTlVRWWduUjJHd19OYW1aaTZ4ZE81V3FOU1AwQVFmVzJaeEFHYkJJNUJxQzRVZFF1dDVjLTdpNjR2bTBIN1BrVTZXMUNUaWxBVkQ3VEZBNThMeWNxRnk1RnMtLTlUS0UtNGJNNkQ4?oc=5",
+      "published": "2026-07-22T07:00:00+00:00",
+      "publisher": "Reuters",
+      "summary": "Google increases capex forecast again after cloud-driven quarterly beat &nbsp;&nbsp; Reuters",
+      "query": "GOOGL revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [
+        "guidance",
+        "capacity"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Google reports 12th consecutive quarter of strong revenue gains | Alphabet - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1sZWpjTTRRaDNrdkx2S19tenRsYXI0aGJPRzRsWU9UWGpNWFAzN2FRZ2VFb3g0ckdZejkyUWZwbTROdWd5WFI5MmxZc2hNUS1vMWZSYVR4eGRrakFoanl0ZUJOVWlPLWhvaTIxcTlfMFF5c09TejZ2dEFEY0hRdw?oc=5",
+      "published": "2026-07-22T07:00:00+00:00",
+      "publisher": "The Guardian",
+      "summary": "Google reports 12th consecutive quarter of strong revenue gains | Alphabet &nbsp;&nbsp; The Guardian",
+      "query": "GOOGL revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Alphabet Q2 2026 earnings: revenue up 24%, Cloud surges 82% - qz.com",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNc1N5dFBuS1BKU091d052R2dNZERmRXgzWnhtVDlOZkc2ckU5dVA4UTE5cEdzai01VnVQQjd0a21ZRTVjVlZtdTdCR1N1YlEyaVhMN2xJc0NCVUdmY2xSLTY5SVdfcUphc196UHh3X1loT2JGM2Z5WkEybENSaVJkRg?oc=5",
+      "published": "2026-07-22T07:00:00+00:00",
+      "publisher": "qz.com",
+      "summary": "Alphabet Q2 2026 earnings: revenue up 24%, Cloud surges 82% &nbsp;&nbsp; qz.com",
+      "query": "GOOGL revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Alphabet’s stock sinks after it bumps up AI infrastructure spending yet again - SiliconANGLE",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMHoxa3FscS1IMDFmZzdQSXFnXzMwME1VT0N1dzZqOW8yOHZTVTRLR3k3TmdFSDRPbU9qZmUyNzNRZE8yM3VLaVdPcGc1OEZST1NXSV8zbjRIbHduMmNjX0VpaUduRUVvdVlNSGJLbjJqU290NEdZdVpWYnJfNmw4NF92bzY3cDZNdWpqZ19nQ3hsaXJaVHpCWHBBdw?oc=5",
+      "published": "2026-07-22T07:00:00+00:00",
+      "publisher": "SiliconANGLE",
+      "summary": "Alphabet’s stock sinks after it bumps up AI infrastructure spending yet again &nbsp;&nbsp; SiliconANGLE",
+      "query": "\"Alphabet\" revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity",
+        "price_move"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Alphabet Will Raise Capex—and Extend the AI Semiconductor Cycle - drrobertcastellano.substack.com",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZ0lIb3ZaYlNlSkNDX1dZbXFLLWVvYXlwdmR4V2M4VTBJelU5MzVySGFaSTVWcjZtWGsyUjcwdlkweUR6eUFJS2VCeU5EeHR6czhOS2lTS3pqVGVYZ1lwVHJhZDBJSUVfZkp3VlE3Sy14WVFDUVctcGM2OHNfXzVHSzVXYw?oc=5",
+      "published": "2026-07-22T07:00:00+00:00",
+      "publisher": "drrobertcastellano.substack.com",
+      "summary": "Alphabet Will Raise Capex—and Extend the AI Semiconductor Cycle &nbsp;&nbsp; drrobertcastellano.substack.com",
+      "query": "GOOGL capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "[Alphabet] Unprecedented massive investment! Nine suppliers poised to benefit – TPU, memory, optical communications, and neocloud - Moomoo",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPXzFTaW1XSDNESjJpa1ZrNENGcFBPVGU1RjdrbFNkejdjaWY3bWFDb0t2ZEE1eGNyaEtubjdMTHhFSnpvbGFHaDJIUGsxT2d4VHdvdWwyMGJSVUVMT0lTSWlwN0ZER3BkRUV0LVVGcHhTMTZ6SlhJVWc3T05VMnRWdVo2S0VfYXItZVlqS0NnWEx0SXVpTWYxU3Y2eHo5bVhXMHRPTnhHdnMxMFdDM1AxUV9hNXZTNmdhZ1Nzd3I0dGlDc1ZJUmdYXzEzbm0yN0ppRGg1eQ?oc=5",
+      "published": "2026-07-22T07:00:00+00:00",
+      "publisher": "Moomoo",
+      "summary": "[Alphabet] Unprecedented massive investment! Nine suppliers poised to benefit – TPU, memory, optical communications, and neocloud &nbsp;&nbsp; Moomoo",
+      "query": "\"Alphabet\" capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Google Cloud surges, but Alphabet’s AI capex problem grows - Fierce Network",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNa3RyY2JsMjhyN3JMUFdxUFJJbUJXTnRxa0lkTjN3VE1wWURlV1Z6cTNYal9iVkJkc3BwQVVjQlVVTkhJVEJZSlN0UlRsZFlfSmFKS1BENzdDSTdaT0NmSmQ0Z281SFBEY09zMlRGMWdYZGd1Ui04VU5aYTRfcFkweGdjaEV0MWZrMXhRTUFjUERzcHc?oc=5",
+      "published": "2026-07-22T07:00:00+00:00",
+      "publisher": "Fierce Network",
+      "summary": "Google Cloud surges, but Alphabet’s AI capex problem grows &nbsp;&nbsp; Fierce Network",
+      "query": "\"Alphabet\" capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Earnings call transcript: Alphabet beats Q2 2026 estimates, shares fall on capex surge - Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPbThFdFFfZlh5eWJvYWUzdlpjbFZvT2ltbjUzR2dxajBtZS1iTGJFbjJfMGxDSzNtNXNhS3BVZm1NNy0tdERJMm16OFVZNGFmZWlkY19fZ3V1cHFQSzRjaEVuV2UxU0Q3N3lHRTNBS2oxQlRBb3ZPX0RvNmk0VXFlSi1QLVBSTzBGTDZyWU9BNUR5OW9nWlFMQlkwQWR1VjltWlNvMkp5a240ejlRZTE1WGFBWXBiaVJidl80d2xXWGJpLXFjd3ZNUTE4X0VfQkhGVFE4NFA1OA?oc=5",
+      "published": "2026-07-22T07:00:00+00:00",
+      "publisher": "Investing.com",
+      "summary": "Earnings call transcript: Alphabet beats Q2 2026 estimates, shares fall on capex surge &nbsp;&nbsp; Investing.com",
+      "query": "\"Alphabet\" capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "capacity",
+        "price_move"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Here’s How Much Google Parent Alphabet’s Stock Is Seen Moving After Earnings - Investopedia",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNclBYWnJUZmJxWEgwa0tKMmRGUmxlNi1kVTZ5TVJ1TXFaVnpOalZscGowd2VsdEdMOVJUTWhwb0oyYUFCOFU3bWJrdUFkRUYzRU5GZFdLTDl3a2Z3RTctcnUweUEySjR3bzhHMC1Xcm5yTlBHVVhhR2F1VThpeWlzSWdScF8tUVVlMXRNczVKUGhoSU1UMklmbGJNNWJnODdQb3lPbmZGM1BMSzRsa2cxRjRkbVh4RS14UHpjNXoyNTUwSzdCbTFnOVBn?oc=5",
+      "published": "2026-07-21T07:00:00+00:00",
+      "publisher": "Investopedia",
+      "summary": "Here’s How Much Google Parent Alphabet’s Stock Is Seen Moving After Earnings &nbsp;&nbsp; Investopedia",
+      "query": "GOOGL earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "speculation"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Alphabet (GOOGL) Earnings: Watch for This Market-Moving Number - MarketWise",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcXZIMkUwSEd1eHFTOEhCTW5BSC1JNkRLUlh3dUllYTA3Qks3cHlmc0doVEwtMlR2SzhDMnJ6R3VMWllGRzdjSTM1bVQ2amVmUkFWc2ZzOVAzd3BSV3Y3MDhVaUdQWnJjZXE5aXdjYXlBV1k3M3Fwck1PckI1MVpsUV9DYXppQ3NyQUhIVk42VVJCTWFRMkc0ME1R?oc=5",
+      "published": "2026-07-21T07:00:00+00:00",
+      "publisher": "MarketWise",
+      "summary": "Alphabet (GOOGL) Earnings: Watch for This Market-Moving Number &nbsp;&nbsp; MarketWise",
+      "query": "GOOGL earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Alphabet's Gemini delay, spending worries loom over earnings - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQOUVlakRjb0pKczZEQ0lZNGNyUGowNkxxcTJ3UlAtRUlEX19rc1JMS3BkVXo3SkQ3a2Y4eG1OcmpNTnJENXJENzktZHA4UW9zQU9kV09yZnR6VUxkNGpLTEROcmZDU2ZqdExLN3AwT0haTUZKZEhmQUl0dkwwckVNY2JtQ05Tc2hpU2YzSVZPZUZCa3piUmZnRVUyNFpyV0hRczJZYVBn?oc=5",
+      "published": "2026-07-21T07:00:00+00:00",
+      "publisher": "Reuters",
+      "summary": "Alphabet's Gemini delay, spending worries loom over earnings &nbsp;&nbsp; Reuters",
+      "query": "GOOGL earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "capacity"
+      ],
+      "lean": "negative"
+    },
+    {
+      "title": "Should You Buy Alphabet Stock Before July 22? Wall Street Has a Clear Answer. - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNWkJMMGlVeFVNR2tZZ0NBWDc1WDBJUjlFVndST1dsMmR3S19KVWRNMUZEa3ktQ2M2ZVQxdnNWSmlZZ3o3d3hLZkIxTUJHbF9LNk1WQnVRN2VZR2NKbVlrandJeGs4N1M1NkpNdkFhYmI5V3Fmbko3bmNsaDN6TWN5X3BrS0NqTHBjczlUNmhucU5EQjA1MWc?oc=5",
+      "published": "2026-07-21T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Should You Buy Alphabet Stock Before July 22? Wall Street Has a Clear Answer. &nbsp;&nbsp; Yahoo Finance",
+      "query": "\"Alphabet\" analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [
+        "analyst",
+        "speculation"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Google Lawsuit Against Data Scraper Tossed Over Authority Issue - Bloomberg Law News",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRE1Sck85cjBzd0tjQUxNbGdpY0ZoMGYzRUJKSDFtTGdac2tobFkxa0U1OUVXVk12RVEwTWUyY1BoNHJCa1d0aUVVcFk1SElRa01QQWFhYnR3R2M3Vm5rYUVhWGtYMk9yRE11MzR1RzdJNXlCcWVnYmczcTdUM2pJNWxZN0RLbDNsLTktaWVaTUJlcDdwZzg4UjBEV1BiT0F3aFE?oc=5",
+      "published": "2026-07-21T07:00:00+00:00",
+      "publisher": "Bloomberg Law News",
+      "summary": "Google Lawsuit Against Data Scraper Tossed Over Authority Issue &nbsp;&nbsp; Bloomberg Law News",
+      "query": "GOOGL lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory"
+      ],
+      "lean": "negative"
+    },
+    {
+      "title": "How To Bank 8.8% On GOOGL Stock Before Buying A Single Share - Trefis",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZjdTUGl5ZEdJanhDTTMyLWNvaGp1cEdiMFNtUTZobkxDOUNOdlZmYk1fQnp3VVR0TTZSVTc3WEIwTHVva1MySjk3SjBFdkJjRHhhQUVVOUZpekxzUFBzNTlabTM4YWFobUktZ3pqd21HWm1RYTlNQjQ3eTFSRTZOY3JCLVNObUhKYy1aVVFfR2gyZDdVZXlBNlNscjlaenFiM0tuTXdPR3E4YUZiR3FKaEI4YU5jRGZaV01zVVN3?oc=5",
+      "published": "2026-07-20T07:00:00+00:00",
+      "publisher": "Trefis",
+      "summary": "How To Bank 8.8% On GOOGL Stock Before Buying A Single Share &nbsp;&nbsp; Trefis",
+      "query": "GOOGL stock",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory"
+      ],
+      "lean": "negative"
+    },
+    {
+      "title": "Ahead of Earnings, Is Alphabet Stock a Buy, a Sell, or Fairly Valued? - Morningstar",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNM25LRGphY0xTTkhJeXoyN2Qtb004Uld1aFpRbEtxWVR0b1Ria0dLcXZhRUV3SXczQThUTzYzNDlKSHJIdGViN3RwVjhoaGtuSjBXZ1hsS1kzeEY0aXhLaXBtM20tdnhwY1daMjNhbXBrdHZUSG5NcE1KcGc0bG1HdEJZTzQwNTdfanR3b1ZNZFQ5VnBBVUR3bzJwbnRJN0xyYXIzdw?oc=5",
+      "published": "2026-07-20T07:00:00+00:00",
+      "publisher": "Morningstar",
+      "summary": "Ahead of Earnings, Is Alphabet Stock a Buy, a Sell, or Fairly Valued? &nbsp;&nbsp; Morningstar",
+      "query": "GOOGL earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "GOOGL: Alphabet Stock Down 15% from Record as Traders Eye Q2 Earnings Report - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxONmhsN05kOXpVOUxfYmFYM0lkTVJZaGEtZUNlZ2VmSEN3NEluOVJsUlB5OXgzTFpiQVFhdklISS1ONG1hbExoa3RrQTlWQ1BLUGpUSEdHLTM4VHdoR0VObUZRbGRtSTQya1BhUEdqcU1ka3BDWlc4Q0Y5LWhXMGc3RXRPSVdOZG9ick9DakQxUEwzRjBuOE1Jelc0ZUEwaFNBN1dvRXRRRURNdTFWSXIwdzVIeTd1STQ2NFNpTDc1UmtGcHR4Ml9XWXF4V3lsbkxGeUE?oc=5",
+      "published": "2026-07-20T07:00:00+00:00",
+      "publisher": "TradingView",
+      "summary": "GOOGL: Alphabet Stock Down 15% from Record as Traders Eye Q2 Earnings Report &nbsp;&nbsp; TradingView",
+      "query": "GOOGL earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Alphabet Earnings Preview: Can the $190 Billion AI Bet Pay Off? - tastylive",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQOWttNTZSVnowQTU5LXVMSUQ3WjA4Y0VQamhPSnNNU1JxNHpIYUJkVEpGR2pRWlVRcm4tNnRvejVQaFg3LU5ldXl2QkFvaXlZTXZMdlNKaVVSemtpMEtZdG9ESjdyeHJLTkxnVjFETHMyZHFiMHdZbENJVHRRN0FuOGZfSWN0ZE5tT2xhSzc5eURSVjNxQVc1SWp6OUh0ekhMcllN?oc=5",
+      "published": "2026-07-20T07:00:00+00:00",
+      "publisher": "tastylive",
+      "summary": "Alphabet Earnings Preview: Can the $190 Billion AI Bet Pay Off? &nbsp;&nbsp; tastylive",
+      "query": "\"Alphabet\" earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Stay Ahead of the Game With Alphabet (GOOGL) Q2 Earnings: Wall Street's Insights on Key Metrics - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMHlCTFVmNGMyRzNDNkV3VV9aRWktSi1fUFZ4WlhacUl1LVBZNHppMDBqQjlRbEFvdHE0QnpSMWY1YUtOVXdYSGt4ajNod1UzeGNEbkJhTFliUU9ZVjhaTXJtZEU3RV9hcWpjMUpmNzZMOVZlUmNRam5sZVVRUHBHM0JmNmFzdjNyU1lzZ1RUSlhmRVVkcUhoa0ZKOA?oc=5",
+      "published": "2026-07-20T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Stay Ahead of the Game With Alphabet (GOOGL) Q2 Earnings: Wall Street's Insights on Key Metrics &nbsp;&nbsp; Yahoo Finance",
+      "query": "GOOGL revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "analyst"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Tesla And Alphabet Set The Tone For A Pivotal S&P 500 Earnings Week - forbes.com",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMnYzR3lrZ3pzbUNvSEpSckdGZGQzSG9nbDAxVmpCZG5CblY5Ukloc2hYbDlYR0l2ZEl4eW5qTklaeHhJR0V1ZXVXOUNUWXpDX2JnVzRsN3A4WUdZN3JHUGhSUnFpVTIyckdsb0g0dGw1bTd1WHZsRkZoSEtzc0FZR01DZ2dIcXBBZHp1emFHZl9mcTRCdHlnazdWYzdaWTRLaW45VnBBbHJRZw?oc=5",
+      "published": "2026-07-19T07:00:00+00:00",
+      "publisher": "forbes.com",
+      "summary": "Tesla And Alphabet Set The Tone For A Pivotal S&amp;P 500 Earnings Week &nbsp;&nbsp; forbes.com",
+      "query": "\"Alphabet\" earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Why Alphabet (GOOGL) Stock Is Falling Today - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNOHd0UHkwSGtwZXJGTnl1QW5teE5fT1BjRzhGSGgybElUdDl2dzhrTEN2YTE3NE1uT19RazZNcVJsQlBrZ0dCMTNFVE1fWkpTcjZuVllmWG00cElHV2xhWVhwQ0hpMW55WHF0WTAyM25tSExzb01TZ0FOUHRzVjFsRmZCVFQ2eHRHNEZHN1RpVlQ5UjVKU3ktM014ZDFPUQ?oc=5",
+      "published": "2026-07-16T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Why Alphabet (GOOGL) Stock Is Falling Today &nbsp;&nbsp; Yahoo Finance",
+      "query": "GOOGL stock",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "BofA Securities raises Alphabet stock price target on cloud growth - Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPamJpbnFsVWR5SjFuazl5Z3kyUGZGQktvckhpcjNPamNMX3hvWmFzS01UaGJmOHI4Y3hhUjhGdFZXNVQ1MDd1X3VZaWc4bW1wWXhLZGtXTk1JNjN4STJ1SmF3YVNFM2MxMmFIOUZPZTRKT1JTcEhuUC00RGYwSmJjZDdEZlF1ZHpFN0x1RWdFd0NJR053cVdza0Z4QU8wZEdZSk5RaGlyR2I5WmRkM0RKLS1Wd0VrQ3dUVy1ia3NQRV9VWlg5?oc=5",
+      "published": "2026-07-16T07:00:00+00:00",
+      "publisher": "Investing.com",
+      "summary": "BofA Securities raises Alphabet stock price target on cloud growth &nbsp;&nbsp; Investing.com",
+      "query": "GOOGL analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [
+        "guidance",
+        "analyst"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Alphabet (GOOGL) Price Prediction: How Much a $7,500 Investment Could Be Worth by 2027 - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMGd1eE5MOHpURUNNQ3pmMXpfNGJsYzJldTRPOGJrcWF6ckxsVG1sUkpHMy00VURobnpBSVFzanFyaVpfcjZSUURheUJSY0F0a1I2M3lUTDNGS1FqZ2RPbkNoWUxLdUk5cVhmMGwtdS1LMndjVHJJT3U4MzVTbng2T0tDOFBVcHdDdHB3ZlZfUFZJNVM0YUo5eGJsYXRFM0F1RXlr?oc=5",
+      "published": "2026-07-16T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Alphabet (GOOGL) Price Prediction: How Much a $7,500 Investment Could Be Worth by 2027 &nbsp;&nbsp; Yahoo Finance",
+      "query": "GOOGL analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity",
+        "speculation"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Alphabet Q2 2026 earnings preview: Google Cloud growth, TPU sales and Gemini in focus - ig.com",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdGY0MUJtMjNvU2lPdGJRVkJieGFFVnVLRlpNTk1qYlEyWUNyMk9JaC0tRmxyTldEQXhGbEtxbUpmbGhTQTBUejRMUnBZT3doelhSYUtoQ2k1SnF2NEF0ZXY2blB5SGRnWXNoSVFUTFpoRURpcnYwQ1g5cXlnSEY1eExCMjZ6VjBxdXc4?oc=5",
+      "published": "2026-07-15T07:00:00+00:00",
+      "publisher": "ig.com",
+      "summary": "Alphabet Q2 2026 earnings preview: Google Cloud growth, TPU sales and Gemini in focus &nbsp;&nbsp; ig.com",
+      "query": "GOOGL earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "demand"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Google urges EU top court to back ruling scrapping $1.7 billion antitrust fine - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNUmFxVGNfZVFSZC1QbU10c0VOcXhMOEJlOU1sUDlteW8ta3htVW5yeXU2b1dZMUNsT05vZ043WVVOM2NEMmpLRGlabXNYbVc3STRhSGk0WmhpelRhQUZzVHd2ZlJRUDE0Q1ZIdnFwRnNUemRtc3hiSE51ZjR0aWpha1gwR3RiTFZ6YjFMSl9VLThTRDB3Y2FMYVNxRWRaZ1hobUMtWHE1Q0hOSURnNVFvZGlKSFZrdmV0YUUzY1pIR3lxYzFi?oc=5",
+      "published": "2026-07-15T07:00:00+00:00",
+      "publisher": "Reuters",
+      "summary": "Google urges EU top court to back ruling scrapping $1.7 billion antitrust fine &nbsp;&nbsp; Reuters",
+      "query": "\"Alphabet\" lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Alphabet Sends Huge Market Signal with Surprise Hardware Push. How to Play GOOGL Stock Here. - barchart.com",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNSTJxcS1XWGF0QlNBTmxPak96VktsYnpmMlFmdmlhdTNrYUpySjkzYWJpaVdMMkRSRWRmU3IxQVJDT1Vzc0JMSW1jeE1pN01MSl9ZbmNrSEMyWURQQlREY0lQWi1FazNxWFZYeDFJcmZmRy0wcTJ0TjhCSGtfOWFHTGtWelVHOGlDd1pOYXdaMU5ac2gwMnViRkhSb05tS091Mm1CMmhla0c0ckw1NTE3bDNWZzNPY1lyVWhsY2ZweEpZVVd5bE95OVBhTVZ1VU0?oc=5",
+      "published": "2026-07-15T07:00:00+00:00",
+      "publisher": "barchart.com",
+      "summary": "Alphabet Sends Huge Market Signal with Surprise Hardware Push. How to Play GOOGL Stock Here. &nbsp;&nbsp; barchart.com",
+      "query": "GOOGL competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Alphabet Inc (GOOGL) Stock: Looking Beyond the $4.7 Billion EU Fine - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbENHRFY1b0xxTEprUDBVX3dWcWY3a3Y5eDBuZ2luWUM2aHRRcHRFbmNKTEs0akhUNDl3YTVmWXhYMjhZQmNPSmRWaWgyQkEtbGpGN0JXOW52MWhVMUxOeHFWUzFyWktzOHo4Ty1pR3Y3d0lDR0Fvc1F2REk3YXlkQjFMQmpuOTJaM0RVcGEyTThYY19PMWNsSVBaZS1hdw?oc=5",
+      "published": "2026-07-13T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Alphabet Inc (GOOGL) Stock: Looking Beyond the $4.7 Billion EU Fine &nbsp;&nbsp; Yahoo Finance",
+      "query": "GOOGL stock",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Alphabet Stock Looks Undervalued After a 100% Rally in a Year. Analysts See More Upside - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdWJoUEluWkUyVHFLc3JkbFFGZzBGVFBjb3FmZ01ueXVFcHlOUnlPSHVzbWlnX0hhMU9XX1RzVS1hRGJwdko0ZjNBeGFWOWlSSmpSdm0tN1hubklwQUE5WUZjaWJKNEF6b3F4cGhKcjBCSW9USUcxRFFSdzR4cW11RGhGa3NTUW9MRHlkUmhUaWpzVjdpNUFmTjZXdlh5TERDWF9N?oc=5",
+      "published": "2026-07-10T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Alphabet Stock Looks Undervalued After a 100% Rally in a Year. Analysts See More Upside &nbsp;&nbsp; Yahoo Finance",
+      "query": "GOOGL analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [
+        "speculation"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "KeyBanc raises Alphabet stock price target on cloud strength - Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPYTVIOHk3R0dDV1Rtdmp2LWpxQVVSdlM1UjA1YU5SLU02SEowc1JnVkZnNExkbmxOVG9nbnYwenhOM2RFdE9MdWpSNlFsWXZFVXhBRXBLTDZtd0tPb0hVdlNWSkVWbV9xZWJDME1XakRDeGVhcWNLSmlYV3hpV1ZoSDRRMmo0OENvSXMwN1NmMzc3eEE1QThCc0oyd21UNTd5d0RPc3BNOE9sVEJPVi01SC00T2o4bW4ybkwtNg?oc=5",
+      "published": "2026-07-10T07:00:00+00:00",
+      "publisher": "Investing.com",
+      "summary": "KeyBanc raises Alphabet stock price target on cloud strength &nbsp;&nbsp; Investing.com",
+      "query": "\"Alphabet\" analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [
+        "guidance",
+        "analyst",
+        "regulatory"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Price Prediction: Alphabet Stock Will Trade at This Price in 2030 - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPcmc4aXFjTHEtYzh0eGUwb2lNNmxmeW5tOVQyOFByMm9rNUhEMFcwQlhLVTVuUjMtdDRrUDRyNXp2eVhzZVJZa3lnUWRmblpYQ0xvcVhmcHdSTUo3WDkxS2R0SzczYm5kZW52WmxWeXAyYjE0Yk9IOTR6WkNWdTB5OTJadGJFRks0QkxMbFJuTWVUZlpWR3hiY2NVMDZaOUw4TU5PNw?oc=5",
+      "published": "2026-07-09T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Price Prediction: Alphabet Stock Will Trade at This Price in 2030 &nbsp;&nbsp; Yahoo Finance",
+      "query": "\"Alphabet\" analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [
+        "speculation"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "3 Market-Beating Stocks for Long-Term Investors - StockStory",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNX3hjbkU2ZFprelZoU0tJbFIzd193Y2lKWW85RWZseUEzZUJCdE1wRk5HbXF3OG1raXRUbnhqdXFOZk1LTFlWdUZTaDdISC1HaVF6OEE5REh3cTdqOE9yajdoSW9id3pLeEpZeEJDWV9WNm9vREdPbUpfU1ZOMXpsN3ZadDNiWklwMTl6VWk4Uk4zaG5PcnpBTXBUX3FWdkpYMXJmUEVtMzE1bkFEQkQw?oc=5",
+      "published": "2026-07-08T07:00:00+00:00",
+      "publisher": "StockStory",
+      "summary": "3 Market-Beating Stocks for Long-Term Investors &nbsp;&nbsp; StockStory",
+      "query": "GOOGL competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Calif. Judge Asks About Standing In Google Antitrust Case - Law360",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSnRPV2hiNEt3cGJIY0F6YnpDY2FjZXJLYnJDa0VMTFBiU05mUnpGajRQWUxiRER2dzdiNVZJM2FIN3Q3SGN2dExSR1M0OFV5eUNwQ2lTdVRwUTRHV3Rlb05XcmdJRmlzRnMwQ3dkdW9FU1g4b3hGUDlUeFc0ZnB3Y1FwYU1KT01TS3ZCcW5nQnZlMzRfSG1XUHUyODDSAVZBVV95cUxPX2NVcFkwNVZkYTdlQUVnQmZyZDFrT2dwWEhpcWo5ZUhNejktampGc1o3TENLNkd0elpEbHdSN0hNcDdleEk3SlBqVTRpNHlsbTFFd2hXdw?oc=5",
+      "published": "2026-07-07T07:00:00+00:00",
+      "publisher": "Law360",
+      "summary": "Calif. Judge Asks About Standing In Google Antitrust Case &nbsp;&nbsp; Law360",
+      "query": "GOOGL lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Cognizant expands partnership with Google Cloud to accelerate enterprise AI adoption with Gemini Enterprise and Google Workspace - PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQXzViVEVzYWQxcUJiZ1owdm9ZOVpoUTE4cjhROGcydWJjNkFNWmVycE1IcklJSmUzaDJmdnNGbUdFU2RkczZ3cnh6Mnd6Tzk2MjZhUjVMV3p2b29rc2ZWeHMwTjdjbkNMYmpVTFNvaWJKQU93bm5XdXBpVzlqbjRXZTFXdndjVkVvSWxybXlxMjNTWEZBZFplcDZHcVlTblJHbnktMmhwRzBPcXF2MHp5THFQRzRPYW52bXRtWTBjbWJ1YU1RUGxCX2ZZZ2lHVGR3OTIxbFR6WUM2RUdYZkxFMTlBRGlLVFRtd1VEQ0pTYXJSSTFFYTV6UTEzYklEcU1SdmI0VGJfS2tESURWd2Q4TDhn?oc=5",
+      "published": "2026-07-07T07:00:00+00:00",
+      "publisher": "PR Newswire",
+      "summary": "Cognizant expands partnership with Google Cloud to accelerate enterprise AI adoption with Gemini Enterprise and Google Workspace &nbsp;&nbsp; PR Newswire",
+      "query": "GOOGL acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "demand"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "How Google’s Decade-Long Antitrust Fight Came to Reflect a Changing Brussels Legal Market - Law.com",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNRkFkVjhHb1c0S1BBdlhsZktIWWdSNEdGOVp0bkdXbnhuSVdHZmJPZlRxbDZiRzBmNG5FQlBZTko3TmZPd2Q2R2R0bE5TdDFwdWhaVHNZb2ZFOUc0Tl9uUnh1cTZFd2VzZktRR1dHWVk4eTFVX1dhMnkyeXdLZzE0aGk3SXpYQnZwajhZWF9sV2tIVG1OeW5KYy1LX0tkVk5rSFYzeF9LQ2RqTHg2Tk1PdE5OSFRSMkFWVE41R0xmTDN0ZWR1T25DUThoME9RSzJOX2haYkd3MEJrUTg?oc=5",
+      "published": "2026-07-06T07:00:00+00:00",
+      "publisher": "Law.com",
+      "summary": "How Google’s Decade-Long Antitrust Fight Came to Reflect a Changing Brussels Legal Market &nbsp;&nbsp; Law.com",
+      "query": "GOOGL lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "ANTITRUST NEWS: European Court of Justice upholds €4.125 billion fine on Google (Jul 6, 2026) - VitalLaw.com",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNSXRSSnl3MEJEZXVEcUlURzdfTWlCbHNTRnlnRTlJOVRWQWtPWkxCWUtMVW1FM2lJX3RQYzlKYmdNTG1uT19LNUZwQW1GendSSzN5Z0Y1Z0paT0pYdHB2NFNrVHNwc1FqX0FPVmxiQUEwMVNYRDZIRV9lSDhYVVktT29PRlAzOXRJOXFTQnBFQ2lLSElIMXlPMkU4YVoxOW1UWXdfbkt6MUswOEwtRDBVTUhhdUZZN0o3VHRYb1doZDgzUDlHNHJIQXhuQ2ZFUkN1R1NQWEtObnlaZnhiV3c?oc=5",
+      "published": "2026-07-06T07:00:00+00:00",
+      "publisher": "VitalLaw.com",
+      "summary": "ANTITRUST NEWS: European Court of Justice upholds €4.125 billion fine on Google (Jul 6, 2026) &nbsp;&nbsp; VitalLaw.com",
+      "query": "\"Alphabet\" lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "AI Boom Drives 25% Surge in Google’s Supply Chain Emissions - Impakter",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOcHVTUkd3OVM2czBFbW9EdTdDZUtPdjZaWGk0czd0b3d3enV3VXpfdldNUmlZRnQ5UkJMTEl1YkIwTFZfZ21vVlNfWmhPRVA4em4yMHFuelJGb3BHMFRFNUs5WFR5Y08ycURVXzF5NDJrLXIzcEl4X2FKV2pjS3llSGZteXNKQQ?oc=5",
+      "published": "2026-07-06T07:00:00+00:00",
+      "publisher": "Impakter",
+      "summary": "AI Boom Drives 25% Surge in Google’s Supply Chain Emissions &nbsp;&nbsp; Impakter",
+      "query": "GOOGL capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity",
+        "demand"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "3 of Wall Street’s Favorite Stocks to Target This Week - StockStory",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNOWVBdFhuQl96NTl6MVpBbGNxbG9ZenJxZG90V25iejZ0VHRaSHN0bG82R1NtLUdaTWk1TzVaMWRodmI0S1BZTDVnaktfTXV4X2hzVGFVQTVHQ3RETFRMc2RmZ3pMRy02cXFyQ2xHczdtei1SS2RMelRELVJTV2dhcWVPNTJHVHZ0ZFpnX05PcUZEemJkS3lsMU5Wdzl6ZDJqQ0ZaMmVGSDRaejZrYUJqSlRmZ3ptNzA?oc=5",
+      "published": "2026-07-05T07:00:00+00:00",
+      "publisher": "StockStory",
+      "summary": "3 of Wall Street’s Favorite Stocks to Target This Week &nbsp;&nbsp; StockStory",
+      "query": "GOOGL analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [
+        "analyst"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Alphabet (GOOGL) Faces Final €4.1b Android Antitrust Ruling In Europe - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNGVzRlE0ekhCLW92Uk9FaVAzeGthSldhMS1GWXlETzA1em9zYkhyZEZMSGVFRXlpUW5TelRlT05tNFVMSDFzdWpHWGM4WXVPZmxzcFp2cm5nc0NBX3lPcmZwM1VLMjc0ZmJrNm94RURyeTBCTEhHMjhta0YydXlRaTdaSFJNbWVEYklmZ25feGxTTTQ?oc=5",
+      "published": "2026-07-05T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Alphabet (GOOGL) Faces Final €4.1b Android Antitrust Ruling In Europe &nbsp;&nbsp; Yahoo Finance",
+      "query": "\"Alphabet\" lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Argus Maintains Buy Rating on Alphabet (GOOGL) Stock - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcmJmbGFzU1pueFV3aXRTMWdsMXIwOFZ5V0FvZXhiemRHS1NrekFPR0VIUGN3Zm1xcjB1emJIRHlKcXUxQkpYOVJBNWd6Q2pYLXFST1QzUzhFX1dXamdyLU5BZWNHSUx1V1NHR08zNEdnZm1uZ1I3LWxNdmhDNDlTZ2k5djFhcGFTR05fQ19PWGMxSDdYa1ZQTjhWaTJBMnA5R3c?oc=5",
+      "published": "2026-07-04T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Argus Maintains Buy Rating on Alphabet (GOOGL) Stock &nbsp;&nbsp; Yahoo Finance",
+      "query": "GOOGL stock",
+      "source_api": "google_news_rss",
+      "tags": [
+        "analyst"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Google loses fight against record €4.1 billion EU antitrust fine - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNeFFsalo3LWdiNVRiVnR2aGx3VEhYRm9JZW9XMFpWMTNzWENjczNPdG5JOUNrVWJYN3lVeFV6Q1RITnI5OUN3Y3Q4Sno4UlNoNGRybmppNGxVa3hOTXZyNGc4eV9JcUUzaE45cGhGWkRjNlhYSVpvcjR2TWtjZUN4TG9ZWjFOWllFcHBrNnBYM09pS19GYzVxdTFOVGJEUFNrdDJUTHNrWGcwVElWY3dNbGVuSmZSeVB3dGZBbUlR?oc=5",
+      "published": "2026-07-02T07:00:00+00:00",
+      "publisher": "Reuters",
+      "summary": "Google loses fight against record €4.1 billion EU antitrust fine &nbsp;&nbsp; Reuters",
+      "query": "\"Alphabet\" lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "The EU wins a long antitrust battle with Google - economist.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNd0REamRucUhIQWUtRXZBUmFxelNsRG1ha0FLaFJPbVExdjBhY1FGSHFlbVZHQ3doZWRzRFl6VUxCdGhydEJaOXVXSFZKSm1iQmQtaFlaN0podUhqY0tjaDZCdDJVN2U5Z095dUpZTllyeVdZUnR5RTFQVEllV0NYT3gtYmU0eDFGLThkWWViRWV6aXdUMmRN?oc=5",
+      "published": "2026-07-02T07:00:00+00:00",
+      "publisher": "economist.com",
+      "summary": "The EU wins a long antitrust battle with Google &nbsp;&nbsp; economist.com",
+      "query": "\"Alphabet\" lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory",
+        "demand"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Alphabet Stock Price Prediction: The Forecast Points to 20% Upside - 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNX3hGNzdieW1Ick9VbkI1YWlXWnJxTUpnUmVfU3poMlk5NEcwNFZ5YU1TUU0tZzdmRU1SWFkzMnhnMjI4enYxSFczd1lhbVpjTEE3YTI5VmgxWmpjaC1aUjZrS0tYbEJtRk5HSmVNT0RrenNqeHZnTVhqenZablFlMlNaNnlNbk1SNWxfeklxZkk2MWY3U2tmcURoNk41bTZBaVl4UWRsU294eHFY?oc=5",
+      "published": "2026-07-01T07:00:00+00:00",
+      "publisher": "24/7 Wall St.",
+      "summary": "Alphabet Stock Price Prediction: The Forecast Points to 20% Upside &nbsp;&nbsp; 24/7 Wall St.",
+      "query": "\"Alphabet\" analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [
+        "guidance",
+        "speculation"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Alphabet Stock Price Prediction: The Forecast Points to 20% Upside - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZkZ6TzA2eGtTeUVKd0FhZ1gwQ1FiakRlVjJzdWh5Tmo1eXBoYUlDLW5lRG1mMGM0bTRnc3BrM2Jxc3YxeEVSTW5QLWtLTFA4SUNsSjMyejVibV9MMUExa0JaQjRNeGlUMklJeUx6RzdGTU12WDlJRGVVMDFwbXhBT041SUZ3YzlyS3ZEU1BjN0ZzY3Y2V1k3cTBQQ0I3MXN5S3lLRjZXZEY?oc=5",
+      "published": "2026-07-01T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Alphabet Stock Price Prediction: The Forecast Points to 20% Upside &nbsp;&nbsp; Yahoo Finance",
+      "query": "\"Alphabet\" analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [
+        "guidance",
+        "speculation"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Klarna wins $2B Google antitrust case - Payments Dive",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQck9yVWtXWUZxTHFvUkM2Y1dHRlY2V2liMGdhT3hlVnBKbWROUzZTNDI4U290WXlSR3R3YWdRQUt0VkliZk9TVTdZV0xLdmM5dzFNWnRSbEdoTjVrYzZSenN0MlZaWTZDUnZVWkNoN25mdzlLenZ4V0NSQ0lyUXBpYnpuS2t5OGh3T2h2OVdaRXpRcUNMSnQ1ZDFEcGpYZkZFMTdNUU03MFVtTDlRWG53aV9YWXFGM0U2OFE?oc=5",
+      "published": "2026-07-01T07:00:00+00:00",
+      "publisher": "Payments Dive",
+      "summary": "Klarna wins $2B Google antitrust case &nbsp;&nbsp; Payments Dive",
+      "query": "GOOGL lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory",
+        "demand"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Alphabet’s $2 Trillion Gain Turns ‘Rock Star’ Into Question Mark - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQ2pTajN1MFNRV2RLcExTSHFrakZhSkJyc1FFeDhDdURXYk9RWHVudGRFWjAtYl96aENzdVg3RWlwTWVYeHYwT1kyd1hSWjU2TmJtTEZUbEFjdU5uSmhIQmgyU1FjZ1VwOVJ5ZVI1TEZPdEtLMDRXNnFfbGNpT0RheFhJNE8wRk5faDB6V0FfQlE1aU5OWkZOTHBHTWFlWFRwbTVHTS1sc1JtdHhheDZHbVhR?oc=5",
+      "published": "2026-07-01T07:00:00+00:00",
+      "publisher": "Bloomberg.com",
+      "summary": "Alphabet’s $2 Trillion Gain Turns ‘Rock Star’ Into Question Mark &nbsp;&nbsp; Bloomberg.com",
+      "query": "\"Alphabet\" competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Federal judge's ruling gives Yelp a leg up in antitrust case against Google - Courthouse News",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNeGlyU0ROLUlwcEpHMXprQk16R3o4LVY1eTJneXJ4emdWcDRHeC15WTZRN1UzUnJocy12Rk1RTHJIcUtTV2V2Nzc3bTJUdzlxZG0tNGttV1NSdDVkRXZsRFNjYmdtT3l0SHFQZ2hTMkxXbDNKSk5FRVB2aGhMak9mdnR2clpWczJMMm5GbzlSTjI2ODVSUnFLcnViMXZxaEJBcWk5YQ?oc=5",
+      "published": "2026-06-30T07:00:00+00:00",
+      "publisher": "Courthouse News",
+      "summary": "Federal judge's ruling gives Yelp a leg up in antitrust case against Google &nbsp;&nbsp; Courthouse News",
+      "query": "GOOGL lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory",
+        "macro"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Alphabet stock is finally joining the Dow. What took so long? - businessinsider.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNYUxiSDIyVXZ6LTEzTkItbkdfSXh0Ull3enhSMlR1NmViVzY3UXBrc0M4QXc0VFBDaTZQZDlucDBwTm5PZWlBRXhCdkNWQ19zZ1NqMkk4TGo4alpuWHFiYnpzczRRSHltZG1wLWlqNjVQbEZDcE9rZ05hUUdESjR4SUpaOUxyR0g5YjRJd0xzRTJYVWJpSTZMRzdVVWxxN2hUWmVFMnFfZw?oc=5",
+      "published": "2026-06-29T07:00:00+00:00",
+      "publisher": "businessinsider.com",
+      "summary": "Alphabet stock is finally joining the Dow. What took so long? &nbsp;&nbsp; businessinsider.com",
+      "query": "\"Alphabet\" competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Alphabet stock pops 4% on Dow debut, but the tech giant faces major AI questions - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1Qc0o0SVZsMDY5RmRKQ0RmcFFiTjhqSnl5VHFRQ3dZZmNlQXp3cXNQSW41Rzl0SlBHdzkxYnl3QkZZMjBiN0htQUxFV2NhaW9DVFcxakdaSkV0dmVwbFhEX3owaHpaQl84U21ISC0ybkdCU0F3NGdSZ9IBfkFVX3lxTE9tMGUwNERJVm1pdm42NWExVGZtWHdsSUZrTjYzR1N1cEVmWk40Nm9icWNzNVMxNUI1SjN1Y0hmNUJoRkRJZ0xzTWFTUzRYZjFPYk5KZ2N6ektEMjhsazQ0M0Q4bXQwNkJtYmVBN2VuajQ1TDA3WmkxU0V3UVpXUQ?oc=5",
+      "published": "2026-06-29T07:00:00+00:00",
+      "publisher": "CNBC",
+      "summary": "Alphabet stock pops 4% on Dow debut, but the tech giant faces major AI questions &nbsp;&nbsp; CNBC",
+      "query": "\"Alphabet\" competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "AI Demand Is Outstripping Supply — Even Google Can’t Keep Up - 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNkI4ZkU2dFc2QlVrbGpIR0o1ZEZqNTFUMmw5U1pZNWROU3QxZDQxS2tJLWR0VmtTM3gzOFdIYVBTUWdCbG11N3hwLWpDNmJRekhpTDFlOFNCam9ISXNIaElWZjRabWpseWg3MG5pbzB3Z3RwSEdheVBXakFrdGR4dXV4RzRaQ0Q5SElmZkZteGFjY0RIU0hsTXNFXzNvS0pZRHJz?oc=5",
+      "published": "2026-06-28T07:00:00+00:00",
+      "publisher": "24/7 Wall St.",
+      "summary": "AI Demand Is Outstripping Supply — Even Google Can’t Keep Up &nbsp;&nbsp; 24/7 Wall St.",
+      "query": "GOOGL capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "demand"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Alphabet to replace Verizon in Dow Jones Industrial reshuffle - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQaFZYeEFmZzA4RkljLUJmeERGSTUwWlZYS1R3Wl80TlcwQmRZTFZDNWo3LXk3TnRwS2tlZXhDZ2Fqd254MWZqZjFUTmlNZXdwdVRQUGZlS3F1dnJ6VHlVcWtXYnhqNUdqdk5xRHhsRWJsWUlMdnkwRlo1ekhUSUlUNjZjSmpHRTZ1eDVMblBqWXUwaVEtZmFSYVFNZ3E4TGRUSXQ1MkM2VmxXVmxubm5QTDBLTklUb1FCRkYtUnMyb1hJQVk?oc=5",
+      "published": "2026-06-24T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Alphabet to replace Verizon in Dow Jones Industrial reshuffle &nbsp;&nbsp; Yahoo Finance",
+      "query": "\"Alphabet\" competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "This Stock Will Dominate The Second Half of 2026 - 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxONGF0TWx2bkszUzlyYnBpY1ZGT3hqZE9rbGNjVGVEU3dmUkJKTlk3Y2dvWFhZMmNVSmdXOTdTSG9SNkdoWDFaODJPRFZvN0hac0hfdjZMRGNLZGpnMzRiZHlnbURDRy0ycDRjTTJCcDZ6SExsNU5EVEF0clA3X203SFpxbnlTQjVva29KZlgyUjZZaDJfMlBj?oc=5",
+      "published": "2026-06-23T07:00:00+00:00",
+      "publisher": "24/7 Wall St.",
+      "summary": "This Stock Will Dominate The Second Half of 2026 &nbsp;&nbsp; 24/7 Wall St.",
+      "query": "GOOGL analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Alphabet: Getting Ready To Eat Nvidia's Market Share (Rating Upgrade) (NASDAQ:GOOGL) - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdnloOEs3QTVDQkZtTDc0cV91MWluWU55bnZ1RUZVc0x2WFVWOGh6NHlWQ29oeVQ1RFpfY2JPNUM4WUVCUzFyMDdqVzlKckh2bzRvbVJyaWNPcE5oWFk0a1k5eUJzLUc5Z2VwVE1NMnUwaEU4M1FKcFdzRE1jZE1xLTZzcUZqajlGWUN2WndBaVl4VHpRYWxhWjR2OXgwUWFjbE5qYW9JTHYxQQ?oc=5",
+      "published": "2026-06-23T07:00:00+00:00",
+      "publisher": "Seeking Alpha",
+      "summary": "Alphabet: Getting Ready To Eat Nvidia's Market Share (Rating Upgrade) (NASDAQ:GOOGL) &nbsp;&nbsp; Seeking Alpha",
+      "query": "GOOGL competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [
+        "analyst"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Google’s online dominance is showing signs of cracking in AI era - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUERMWjd0MkpWcElJTnVhd3dJMkVVbUFRa3pJSFVaYjBJRHdsT3VqSm5KU1lXMDJoYXBCTnNOa0puaVlubTFib1ZERkZDd3VDdm1VcVV0R3h6R2Fnb2FnV3lyci04dzZsU3BkaThEbDJ4eW9HRHRQOHRPNkxKZm9aRkQ0Q2dQVHRBSDBteW1ldlVKc09LeUNDc0Qtd0tDb1gxalHSAacBQVVfeXFMTTMtckNOUU1yWlZpQWtYdDlGSjEyejZzWkEtZHVfcnlLdEVoSGYtODlqbG96NUYxRFgyekd2cjBwVDhVVld5UWJHNTdkQTNFVkhzNmxNaS0wbkRIWGVPOXpYcTZLY1lxM2JJUS1sYzE2YmJ0LWFaOTJqX2o2RWMycDBUenEyZTd3dlZGLWdZeFRsendiN2hXay1NZkNmalc3WXdmbkxPMTQ?oc=5",
+      "published": "2026-06-23T07:00:00+00:00",
+      "publisher": "CNBC",
+      "summary": "Google’s online dominance is showing signs of cracking in AI era &nbsp;&nbsp; CNBC",
+      "query": "GOOGL competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Alphabet: Shares Sell Off on Artificial Intelligence Talent Exits; We See a Buying Opportunity - Morningstar",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQQjA5aHpOZTc4WmdnZ1FLTzByY0s1SUY2YVJNSDF3WTVBTklOTTRrZUtVakF2ZHVNZHdiYXVVMHdaSWhlUDVOdFRiNlozQmpKYTM1WWx5TFNmc0FqXzBzWGJlMkpJc1M4ZlhMaVR6OWN2cUJnQVhPeGdXYjN6aHFteHFLRGY3bTVSZzZHN0FCbUZPcXE0R3RaNnJDNHBjVlQycHhsVTBPWFh4dFhZSjhwODVBNXhoR0FzR2ZtNER4SmlWMF9sbVlkNm81UQ?oc=5",
+      "published": "2026-06-23T07:00:00+00:00",
+      "publisher": "Morningstar",
+      "summary": "Alphabet: Shares Sell Off on Artificial Intelligence Talent Exits; We See a Buying Opportunity &nbsp;&nbsp; Morningstar",
+      "query": "\"Alphabet\" competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [
+        "speculation"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Alphabet has its worst day in over a year on AI concerns after high-profile exits - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB0bUh0Uk95MWYxNVZRc2VQdFpaWWRYZEJ0MEdQOWhFWkNNa19pdDcyazBqTGE2MHdMTzhfTHh5STk2NVB0d2dsMlFFb0JteGR4MWxsY3VPUWM4NjdHUk1PY2pJdVA4S1E1allZS0JMWjAyX0lMdUlRRHZR0gF_QVVfeXFMTzFzeWhOZXAwdk9JNDJvekdBajl4X1lBSU0yUmkxVGpoS09rZmFoMDdMRUZkckM2TEs0M3JsZ3hxcThhS0xLRDhIeVVZU3otdWMteGVzMHdNMXBYdVRfZk0xZzg1NU1RbUlrVzNnTXNuX3Y4dEN2aGlzVllRNFA1Yw?oc=5",
+      "published": "2026-06-22T07:00:00+00:00",
+      "publisher": "CNBC",
+      "summary": "Alphabet has its worst day in over a year on AI concerns after high-profile exits &nbsp;&nbsp; CNBC",
+      "query": "\"Alphabet\" competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Nokia and Google Cloud Partner to Embed AI Agents, Built with Google's Gemini Models, Into Nokia's Autonomous Network Product Suite - PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPb2VFemhTNEc1YXQycGY5LWV6RGpkSXZpWmt3NjBHTnlTbDdMdUsxWlZCN0xRNmhYN255M1lKd0J1ZExlRlhiQklOZExBNTEzWC1Ea2Y2djNoRTZtZDFxcGRjT3hwV2NMUVpva3JLemtWSGpWdkFtQ2VXd1QwU2xXNklnRVJkaFE4YmhKQVVIc2FpYmFlajdxOWpRM0xJLU9PU2VCbjQ5RjFDbXZiRzhVNXFDRjdyRl9ieDFWVXBlSnNXRnd6dmtaXzBLeGt0bkhLYktvR0hKZW1Kd1JfZjdNeXNIaTVVRmMtRW9YZ2lGNE5hU3gtMkFTbURGaHF1MEgtdVFkbkJvOHAwTzB4d3BlUw?oc=5",
+      "published": "2026-06-22T07:00:00+00:00",
+      "publisher": "PR Newswire",
+      "summary": "Nokia and Google Cloud Partner to Embed AI Agents, Built with Google's Gemini Models, Into Nokia's Autonomous Network Product Suite &nbsp;&nbsp; PR Newswire",
+      "query": "GOOGL acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Wall Street Keeps Raising Its Alphabet Target While the Stock Slips. Here’s Where the Stock Could Go - TIKR.com",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMDd1WGozSzI2M1hpd2poUXp5dV9BY3JrX0pUMV9Zd29jU1JMWEhNeFowUmlOa1dTZnM5cU5NN3dFNFBSbklCczFxRmhGZmlfNGZUQXY0dlRJa0VPUG1MbnpISGwwZUxZcHVzVlFEVzFDYjhjU01neUhRVW9zelVSbEVBZ3A1aElNS2gyTlZ1ZnZscldtRV94LXVULU9nYnpzRzNRZ2phd1djWDVmSlpvSWtoZTFlM0Utb3U1QkZHSWYxQQ?oc=5",
+      "published": "2026-06-21T07:00:00+00:00",
+      "publisher": "TIKR.com",
+      "summary": "Wall Street Keeps Raising Its Alphabet Target While the Stock Slips. Here’s Where the Stock Could Go &nbsp;&nbsp; TIKR.com",
+      "query": "GOOGL analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "analyst"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Alphabet Drops 6% in a Month: Buy, Sell, or Hold the GOOGL Stock? - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUEJDZGlkcmIyN2lJZHNsM09NTWxzWVBwbFVJbEFjNkVwSXVQbUtsM2QxSXp5cml4X2VWVWlnd0dCS05tSXJReXBGZnA2RUJXMDljaHNoeWdWZWpvOW9PTk1iTEZ1X25aZ09MTmR4UFg4ejM2Z21yQ1dWTXV2VFczUlBNd1p6WG9IOC1wT0NKaGlPWUlpcDVLV2doUVlrMGx2UkxGNUZqdGRzQXVWM1hvaGpFdXp1blU?oc=5",
+      "published": "2026-06-17T07:00:00+00:00",
+      "publisher": "TradingView",
+      "summary": "Alphabet Drops 6% in a Month: Buy, Sell, or Hold the GOOGL Stock? &nbsp;&nbsp; TradingView",
+      "query": "GOOGL competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "negative"
+    },
+    {
+      "title": "Gemini, Claude Take Another Bite Out Of ChatGPT's Market Share - Alphabet (NASDAQ:GOOGL) - Benzinga",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQeW54c2t4eUNTNS1kOFBqTzhlZU1TeHktR2g0QzhIeHcydGpzVzdEX3JQSURDQ2pHd1ZRTG41ZGJQbXhobkZrTXQ0Mmw3RWIzOVBQeW51SHNlZ0EtUlZ3Wi1DbDl6NGttNHIzOURETmZtWUVOT0paQlNqTzVqVll0UV8zZE1mNWpQQ2FES1prWDdTMHNPXzN1dGRwaHZLZ3ZHTjdTd2NRZjNEUjNxc0VXbjJlSEI5WFdhQzZNX0xKVVFpeWgzeURYU0VLYmFxSHV4cUE?oc=5",
+      "published": "2026-06-09T07:00:00+00:00",
+      "publisher": "Benzinga",
+      "summary": "Gemini, Claude Take Another Bite Out Of ChatGPT's Market Share - Alphabet (NASDAQ:GOOGL) &nbsp;&nbsp; Benzinga",
+      "query": "GOOGL competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Warren Buffett Praises New CEO Greg Abel as Berkshire Hathaway Makes Major Acquisition and Bets $10 Billion on Alphabet AI Infrastructure - TIKR.com",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQWEFHU2kzX3MzVFlzMzhLS3dHd2kwaDBpUXpsLTcxZlJzQmtlSnVXSVFyb2Z4dkdFM2ZVclFyNHdtWW4zZTFZcS00bkdWMXFjUnhVaGFZN3FrWVZEMmtKdkM1Rmh0YjFIU3hXc2dGZ2dJWThZVy1OQ1Rxd2ZBenlXeXZIcDZVV2Y0aDA3UGdZWlRUSnF1N1doWEtySFNOZV91cWlVMzJCZl9xOERsLXg4bXVzZ2t0Vmc2b1gtOGxIR0NldHJKcG5rNWxpREdLZzNEVUc1NUlxNlNDZXpmNm5mMENXNGx2VDBwZzMxX3dmR3dzXzJf?oc=5",
+      "published": "2026-06-08T07:00:00+00:00",
+      "publisher": "TIKR.com",
+      "summary": "Warren Buffett Praises New CEO Greg Abel as Berkshire Hathaway Makes Major Acquisition and Bets $10 Billion on Alphabet AI Infrastructure &nbsp;&nbsp; TIKR.com",
+      "query": "\"Alphabet\" acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "guidance",
+        "mna",
+        "management"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Alphabet Intel Chip Pact Reshapes AI Supply Chain And Investor Outlook - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbWVfQjZmM0FoaENkWDBhQkZvNVZhMUNoLW9fckZqUmVVM19Velg2TU1acnN2Qmp3NlFBLUQ3bGRFOFpUYnJsYjZSZmplNXI3dEVTYmo1c21XdVkxZTZ2Z3ZpOWgtTm5sMGsyaE9pYmNjVTJFellRTUJrc2IteV9iUjlwbFdpbG1Xekc5TnRXd1NFQ0wyNGtPQWUtYm9EX0k?oc=5",
+      "published": "2026-06-08T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Alphabet Intel Chip Pact Reshapes AI Supply Chain And Investor Outlook &nbsp;&nbsp; Yahoo Finance",
+      "query": "GOOGL capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "guidance",
+        "capacity",
+        "demand"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Abel goes his own way with new Berkshire investments, including billions for AI - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVDRXMGJHbG1tdm42eXdMdkdlSGE0Z2MtR0VXOHpMc0tZOXZMR3E5bkg2Ym05X1ZPMHEzOGpkZy1OU2tveXl0bnBfUW55cDYxVkFDUG5DMDN0bWdIZzgxVXVNNUhPNERRc290VzJrdVRxMjQzZTk2eVdBOGg0MDBsREZ5Ym5HcnZqajJDcHhUN0pqOGE5WnVsVHJJN09GM1pVMTllSXVpOGxDOGtXb3NUMzRWcEZSd9IBuwFBVV95cUxPSGh5QTd1UVhsa0swdm80VTJuX1B5MGczSkhOVGFmV011dkR6Z0ZadUVVZmE0aExnRWdLaV9YY2t4TC1sSTV4RTd0d2loa18yX0p3cmNibGdfZGdaa3ZxRlA3UVppMjdwdTVTVEZNT05XUUZKN2p4MzE0UVFmQzRVXzJUV1NrYTM3UnZ4Sm5OdkxibmJpZFdYYjhtVl9vNGEyNkdkclNYMUktZHVSTGFIaTIzM0QtcEMtVGVj?oc=5",
+      "published": "2026-06-06T07:00:00+00:00",
+      "publisher": "CNBC",
+      "summary": "Abel goes his own way with new Berkshire investments, including billions for AI &nbsp;&nbsp; CNBC",
+      "query": "\"Alphabet\" acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "IBM and Google Cloud Announce Strategic Partnership to Scale AI with Human Expertise and AI‑Powered Delivery - IBM Newsroom",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOVUJnY1hNV2l4WUVRbVFFbG5ZVUlnQWtZYjZJcGFUd19SZW5Ob2dHM2pHUVJKVU1uLW13dVhkWUFWaVdxZmRZNTN0bWJqZ3NReGp1dHJjOERxbTU0bTdyeWpvQkQtLTdRRHNYNjNoQ0pEMGgtWE93NG9fV2FmNkFWUHozS0liODNETmJ5bHpNVjJJcDU3RFRKeEtrXzQ1dEc2WDlVZTlRSEZOcmluMFNGbVkyX3Q1QWYyWnBabmJJUkxZUU1iRFBjUkJFRkhpanZKYzF5bWx6cVpLSmlT?oc=5",
+      "published": "2026-06-04T07:00:00+00:00",
+      "publisher": "IBM Newsroom",
+      "summary": "IBM and Google Cloud Announce Strategic Partnership to Scale AI with Human Expertise and AI‑Powered Delivery &nbsp;&nbsp; IBM Newsroom",
+      "query": "GOOGL acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "demand"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Google and Intersect to build first post-acquisition project in Texas - latitudemedia.com",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNS0NSSmpHemMzMWdIa2R2TERzTFRGY1A2MEUtdTBTZThwYW5vN2pnb2FveG0xSVpZOWRCcFFhTFBLRjQxOE1BbVFPUmFsY0ZRWTFCWEJUM0xyNGNvNEU0dW1kdGwyRV9CWEpDa2pkQUM3THJNUUdEeGxmbEx5SVhyOUhzTFVVT01TTkFlaGdheXpPS2tacjlhLXlJc3ZsNU80RXRxUXhjVWk?oc=5",
+      "published": "2026-06-04T07:00:00+00:00",
+      "publisher": "latitudemedia.com",
+      "summary": "Google and Intersect to build first post-acquisition project in Texas &nbsp;&nbsp; latitudemedia.com",
+      "query": "GOOGL acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "mna",
+        "capacity"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Alphabet (GOOGL) Enters Private Equity Partnership With Swedish Private Equity Firm EQT - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNGNiTnVFMnh5blFCVWJ4MjV5ZXdFYVpoZU10dk5FZmJheVh3R1VVR0tjdDJkOV9sTnkyUS1jT3pHOExYWmVSdzctNVhTVWZ1V0VZMzZ4WTNZNzl1dzRrZUxGX0VGZTh1Z3hMbUlhQ3E3WUE5ZFVCWHk1NkY1TVcwYnpaR2ZxUGJ2X0FueEdwUC1nMktpRS1EM083MFAyVnAxbDJn?oc=5",
+      "published": "2026-06-04T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Alphabet (GOOGL) Enters Private Equity Partnership With Swedish Private Equity Firm EQT &nbsp;&nbsp; Yahoo Finance",
+      "query": "GOOGL acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "demand"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Alphabet and Anthropic's Partnership Could Be a Major Boost - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOMmpHOTZyQjJRUzNlckpSd2VEamM1c24xSE1acnM3TktSbTdkUGxIVnJxRm9qQVdVQk41SmhDVkJ4QW1GeDFYaXdDbi1wR1A5bGFmOXZ3Y3dtZmVhZ0wzUlZHZko5bV92ZmVNZ1FTZTVrRENoNXI1cV9qaVg4SlJNWnFoU2ZQOTNrUDdNa3RB?oc=5",
+      "published": "2026-06-04T07:00:00+00:00",
+      "publisher": "The Motley Fool",
+      "summary": "Alphabet and Anthropic's Partnership Could Be a Major Boost &nbsp;&nbsp; The Motley Fool",
+      "query": "\"Alphabet\" acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "demand"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Alphabet investor presentation: June 2026 - blog.google",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9XQXFkVU5kZmI0cFZOR2pxMVMtd0ZzMUl4dzJWajZxV216WFRuY05Gc1IxV3pKSHkwQmxIdFNvUVp6VVZVNll1MjFWRWQ3dEt5Vl9QbEQzUlVWWHEwdDFMdU1JbWxpZHpSZWNjY0VB?oc=5",
+      "published": "2026-06-03T07:00:00+00:00",
+      "publisher": "blog.google",
+      "summary": "Alphabet investor presentation: June 2026 &nbsp;&nbsp; blog.google",
+      "query": "\"Alphabet\" earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "The Stock Market Should Be More Worried About Google’s AI Funding Plan - Barron's",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPMFM4dldac3VJU3VMVU5HNkF0eFpWSzlMdy1qU3h4NE5jc3FDTXpObEFqaTlwZUpNSW1PZlVieHRqcVZaMXdtQXczdEt4bnZyLU03ZldydUo2ZENnQXIyTEJnR2NJaHVtVHY2V1lZOUtEV09vTmcyZ25fT1AzRU5uWTJONllscTF1dzNhT19wdkg?oc=5",
+      "published": "2026-06-02T07:00:00+00:00",
+      "publisher": "Barron's",
+      "summary": "The Stock Market Should Be More Worried About Google’s AI Funding Plan &nbsp;&nbsp; Barron's",
+      "query": "GOOGL competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "It's not Buffett's Berkshire anymore as Greg Abel splashes $16.8 billion in cash, hints at different way of doing business - fortune.com",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOMEtPNUsyR2QxWUFRa2cwLVhpVlJhZ0xudnFVdVJLckxHTVczN2YzVEpwT3JSSE1yNGlGRVp6MjBfQ1F3MUdIVjZ4Zzl6Qk5wOVF3NDE4U3AtVlgtbk9LcEJfZ19ZYy1zTXlqaG0tMEJDZDBnWVVicC1kY09DNVJadjczMlVDUEI0cGdPd1RB?oc=5",
+      "published": "2026-06-02T07:00:00+00:00",
+      "publisher": "fortune.com",
+      "summary": "It's not Buffett's Berkshire anymore as Greg Abel splashes $16.8 billion in cash, hints at different way of doing business &nbsp;&nbsp; fortune.com",
+      "query": "\"Alphabet\" acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Warren Buffett's successor is finally putting his nearly $400 billion cash pile to work - businessinsider.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTzJlN2ZOOUo2RlJfTzJBWl94TGI3emQ1WnZxN0RnRUhaR2dVMEhTUE9oXzhmRkY5STdqVnpyb0VvS1ByUkEzSGhZTlRDb3FmVG9sVnFPdkxfa0k5ak9xVUt3MnNzQ2RyRVNOcXNLbUlQZ2JPb09nbzZUZGV6WTVTeVdYc2xjNWVwTkVJXzBhVEtmci05X3p2Y0I5RGptYk1GS3ZwU0NrZ3F5Njc0cjRBVTlR?oc=5",
+      "published": "2026-06-02T07:00:00+00:00",
+      "publisher": "businessinsider.com",
+      "summary": "Warren Buffett's successor is finally putting his nearly $400 billion cash pile to work &nbsp;&nbsp; businessinsider.com",
+      "query": "\"Alphabet\" acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Google just said it plans to spend $80B more on AI. Which companies might benefit? - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQdHZKU0hadjV1OUl3dDZhYXpKWVIzaFR3M2w5MnFEU2xubHVtWVlENThxcks3d25TTFFaMjRWTDlKY3ZWMDJ5UUlWbTY0b2I1WHVPN09nWVNQRFBGbFh1ZDRvdjVzSkttbURibXFpb0YycXdMdHNhWG1sclczMWlaaGwyZFA1WExKbnpGb0FIRk4yQlRKNnFmS0NxbDFhNEZMVzJ6LVAybjVfV1B4UTFjTlQtQVdwd0laY2pMUXdUYTBLSFFGZGplcmYwdw?oc=5",
+      "published": "2026-06-02T07:00:00+00:00",
+      "publisher": "Seeking Alpha",
+      "summary": "Google just said it plans to spend $80B more on AI. Which companies might benefit? &nbsp;&nbsp; Seeking Alpha",
+      "query": "GOOGL capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Google and Telstra Partner to Connect Australia and Bolster its Digital Future - googlecloudpresscorner.com",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOa3ZVelFwcGswVENzSzhaSnhKZ0RoMldFNEFJWUxxcTl3T2Zxb1N5SGFibjBGalQxRnNEeEtid0Y3OF9SdlB6am00TVdGUU9pVkFZQmYwOWxwbGFObXExZG4xcGVLYVZIS0dBTGwyVEJVTTc1VHBodEhOMFRjODdmMkxHVUFSWTIyTGNvSF9ILWJNbmpUX0o5a3lGdjlFZUdpVHJLdWJoMkhqR0d1Q3hWeUZCbDIycGZLX3lrV2VCT3N1Vm1MNDlZ?oc=5",
+      "published": "2026-06-01T07:00:00+00:00",
+      "publisher": "googlecloudpresscorner.com",
+      "summary": "Google and Telstra Partner to Connect Australia and Bolster its Digital Future &nbsp;&nbsp; googlecloudpresscorner.com",
+      "query": "GOOGL acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Alphabet plans to raise $80 billion from stock sales to fund AI build-out - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObUREOEdlT2g4VjMwSGo0SklIaEZxa2FIWXZiQzByLTB0OUJyWlU0cllrS3FiX1pFVW0yZG1XYnBtV0lOUGltLUYyTmdKNnRiQXhob0tocDdkZ2JoeEhQUjlPYkJDRWNCNGtCa0JHQmROLUJrUFp6X2xEUVBEVGstT25MZ3c3MHJFVS1tZzlaaGVSVGlWLXhtRTZmNXpkZmxHOXpFddIBqgFBVV95cUxQN1lhbnJlekNsalFLMEJhM0lqMEpsOE5jZFBqTjFWdFkzU1NDaWdwb3B4WVgtY2RfdWNuX1lOT1VOajBnTVEzSFl1Qm56NGJtMjZrN0g3WkZ3WmVrYVJ2THcwZXJQMlhyZWRNV01rLXpMWEt4MUdIUzRfOWd6dHFZSDR4UkJDYU9BWUIxU2V0RHV1aS02VGgySElWTkxYUEpCTzUtTllITlUwdw?oc=5",
+      "published": "2026-06-01T07:00:00+00:00",
+      "publisher": "CNBC",
+      "summary": "Alphabet plans to raise $80 billion from stock sales to fund AI build-out &nbsp;&nbsp; CNBC",
+      "query": "\"Alphabet\" capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity",
+        "demand"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Telefónica and Google Cloud Partner to Deliver Sovereign Cloud Solutions for Spanish Organizations - telefonica.com",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNQ2NKdzJkZ1hlakR2aTU4dmJGeWVhdi1FcmJEZmh2c0RMNVZ0ZjE4TWxOTjhxMUc4NmVPMlE0LUtLUUNYcUVqVmNFSUNWVURlS1FyNG45NThLNURRRFkwQTllMmpDZ3RBcW9iNmt5c25XZnlyWUVfRGYwNzFGVXF5Vzc1ek9WU2hKQzU3Nm1zdWh4ZG9vVHlZSnhlN3BfRG4wdUwwTDNsLUp1WDdvM1F2LXdoUVhWdTZmM0FiYTlZZDAzNHl0OXpKUUhCWnRCZHZrVUlSRXk4RHRkUGt3enh2T0lR?oc=5",
+      "published": "2026-05-28T07:00:00+00:00",
+      "publisher": "telefonica.com",
+      "summary": "Telefónica and Google Cloud Partner to Deliver Sovereign Cloud Solutions for Spanish Organizations &nbsp;&nbsp; telefonica.com",
+      "query": "GOOGL acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Alphabet: The Outperformance Opportunity Has Moved To A New Mag 7 Company (NASDAQ:GOOGL) - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbXk3VzJFclA3VVNmSy1vVWxMcXpZbVFHVFJyUlBQNnM1WXByOGt4VHNnMTh0WHpuWG05aDdiWFBjX0NQNm5RMkswWkszSFI3U29DVnViOVpIR2xpYzRWM1U5aW1rZ3laSU93cmtsM2VraTVJbFJYTnp1eWJxTUtJeklKTktxaWRNLTZ1N3JGWTJtdzV0blllTmh4Nlp3dnk4OWtFMHpkMlpJS05sMFFLWVQySQ?oc=5",
+      "published": "2026-05-27T07:00:00+00:00",
+      "publisher": "Seeking Alpha",
+      "summary": "Alphabet: The Outperformance Opportunity Has Moved To A New Mag 7 Company (NASDAQ:GOOGL) &nbsp;&nbsp; Seeking Alpha",
+      "query": "GOOGL competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "EU plans to fine Google high triple-digit million euro sum, Handelsblatt reports - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVVoxT2R4b1ZVbWxvSXU2aEstYTV1R2VqcEZZLWNDNE4xeXNwSjNWMU9nbUd4djY3Qlg5SUpCWHdaMHNiQ0pEcWhNWmJiZ2g1bkFHZkxyM09xU29oeXZUTzk2aWptX3RZUnhUbkE0MHVoNHFjWV9zX1RldUhwaWdqZ3lmM1AyRl9EYklLZ0RiMi1RVTJybVExUERYYkdHdmFuMlpLNHU3NmliamFTOTVPcWdiX0t5R0gtclQ1V3daWWoyT3M?oc=5",
+      "published": "2026-05-26T07:00:00+00:00",
+      "publisher": "Reuters",
+      "summary": "EU plans to fine Google high triple-digit million euro sum, Handelsblatt reports &nbsp;&nbsp; Reuters",
+      "query": "\"Alphabet\" lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Google's AI Ad Tools Could Expand Budget Share, Ease AI Competition Fears, UBS Says - Moomoo",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbWpFQ3pDSmdTN3NVdWtic2h2MmVBYUtaZWRtNC1fX1JzVklHeGdTSXJHYmxGVkhHMk9MNlp6YjRvakhWYS0yTTQ5SlZOcWFyTUxFUHVtN3k4UWkwRl91Q1d2c1M5NkxlaFNqU1I4WWNNQ2VRVDUyQm4xNW5qVTFobnplZ29EOGVmcDVnTm5aOW5GeGo0QUtIWg?oc=5",
+      "published": "2026-05-22T07:00:00+00:00",
+      "publisher": "Moomoo",
+      "summary": "Google's AI Ad Tools Could Expand Budget Share, Ease AI Competition Fears, UBS Says &nbsp;&nbsp; Moomoo",
+      "query": "GOOGL competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Alphabet Inc. (GOOGL) Expands Gemini Enterprise Agent Marketplace with Amdocs Partnership - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPeFJpWDcyc2pYWl9oZFBGRkxyZGZBandhVEl0d2Y1RXFndEYwUHhKNDl2QkZhVjhaZldxNkpHWnBXOVV0Y2pOdlBpY0xtWkxpbHJfUEpMQU1VcXBwQzZneEVHNmFWWWN0M3dlcTkzOUFwSVBPQjMwWU9UZWs2dFpORUFFZFBoUWtsUDdmUDZqVEM5QURxSkVhLXZIS2thZWppem51UQ?oc=5",
+      "published": "2026-05-21T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Alphabet Inc. (GOOGL) Expands Gemini Enterprise Agent Marketplace with Amdocs Partnership &nbsp;&nbsp; Yahoo Finance",
+      "query": "\"Alphabet\" acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "demand"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Persistent Recognized by Google Cloud for Advancing AI-Led Supply Chain Transformation - PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQZ2VjdkFDMlViSmhjVGcyM0UwMWptREhKN3ZFUVZpc2pEbFE1ZjZuOHpGVXk5QlBfTHBGV3VqaVdqalBkbkJMMmhmeVYydVk2TzdoSkhqWDM3ZXBpVlNSNTBLd1JYekM3MldWQ1AzS09PTHJRbUcwRjhmcW9pT1lLS1EwaElmTW9zZ0pENXNxMXVoeW1zR1g5UEhtNjNRT2w0OHBJMmNheG83M25TTE9Db0NrMUM2aVdzX3gzUTFseS16QUhVdHBkSkltX2JUTlBXZVJkLVQwNnpqZw?oc=5",
+      "published": "2026-05-19T07:00:00+00:00",
+      "publisher": "PR Newswire",
+      "summary": "Persistent Recognized by Google Cloud for Advancing AI-Led Supply Chain Transformation &nbsp;&nbsp; PR Newswire",
+      "query": "GOOGL capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity",
+        "demand"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Google I/O primer: Alphabet's AI showcase is its chance to wow Wall Street - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5ncHB4QldKQXpDZnhKdTY3VS1yaWRHekFIRkhPTVBNeVdXOTBBY0xJbVczVG9tdHZsbW1UX2VBUnRaTUtDSHRSbW1PZmd3dEpjQkFWd3I5bF9Rbl9mbUVzZFRqQWlFRGx3QUloNkZzdWxSTmtDTnpqcVZoc9IBgAFBVV95cUxOV1VfbGJrQVFGZjNjc3JWa3RSS0c1VE1jZnVvdm1mbHF3RWhHbGF1S3ZjRVRmalFORW1tMW9DSmtfaV95cmtRTC1RSlNNSDlsU2hLSmRHUDByclptMG5PbUJlRlp3XzAxNVozV1VyTjB0MEk3UEN3WXUyRDZ6WkIyNA?oc=5",
+      "published": "2026-05-18T07:00:00+00:00",
+      "publisher": "CNBC",
+      "summary": "Google I/O primer: Alphabet's AI showcase is its chance to wow Wall Street &nbsp;&nbsp; CNBC",
+      "query": "\"Alphabet\" capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "analyst"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Google Is Chasing Nvidia — Which AI Supply Chains Could Benefit If Alphabet Reclaims the No.1 Market Cap Spot? - Moomoo",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMDlfN2laOEt3NTZyM3lUVTRFTTBBZnlKWEp5NmVKdTFFeThwX283WFdRU3RjU3lkMkRJem8yTUtsV0xzWnp0SjV3bk9DVXlLeThwQmxWNmZLNDgtcm5FLVhSM194SlNtS0lSSzZSX2VWeFozN211VVZUdjJUOV9weGJ0WnpoM3I0OGpJdFdMM3pNbGFPeHNiT2pvM2hKN0Mta1BmU3Q5YlJoZDRCbzZ5ZndCWUc?oc=5",
+      "published": "2026-05-07T07:00:00+00:00",
+      "publisher": "Moomoo",
+      "summary": "Google Is Chasing Nvidia — Which AI Supply Chains Could Benefit If Alphabet Reclaims the No.1 Market Cap Spot? &nbsp;&nbsp; Moomoo",
+      "query": "GOOGL capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity",
+        "demand"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "The $4.75 Billion Vertical: Why Google’s Intersect Acquisition Kills the PPA Era - Substack",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9QT2VnaExBVVh0eFJuNEo4NGpOMXYtSG1hblFPUlJORlVNUnlsWGplVUc1VEc3NlRkOU5uTFFaR0NiMlE5ZHhTelJMcXhaTkJwNFVPRzFERGJObmFmWGc5LXhGOHdRakNjWkc1a1B0aUNiS2x5U3ZrWlUtbVQ?oc=5",
+      "published": "2026-05-05T07:00:00+00:00",
+      "publisher": "Substack",
+      "summary": "The $4.75 Billion Vertical: Why Google’s Intersect Acquisition Kills the PPA Era &nbsp;&nbsp; Substack",
+      "query": "\"Alphabet\" acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "mna"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Alphabet Stock Surged 10% After Q1 2026 Earnings. What’s Next for GOOGL? - TIKR.com",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTUV3Q2JoRE1RYnBtR2FoVmJDaDZsNjBjNFpPWEdLcjlsWGRKUFRFZEFRdkVWTWtKcjg4SFRoQ2ZZUVkzeGxXaHZKMWxCWDRzRUtYeEJzYk92NTlIR3doaW9xNExvMXJHM1BiS2RZRjJ2bFR3RktpWTFaNW9nQW5EQS03UUpnaUlrcnJFR1JBaXBWX1RlTDFUQ0FB?oc=5",
+      "published": "2026-05-01T07:00:00+00:00",
+      "publisher": "TIKR.com",
+      "summary": "Alphabet Stock Surged 10% After Q1 2026 Earnings. What’s Next for GOOGL? &nbsp;&nbsp; TIKR.com",
+      "query": "\"Alphabet\" earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Alphabet revenue tops expectations on record quarter for cloud unit - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVGtaR1g4ZGZaM1lyUzIxZDJlQU0tWDlHaC1SLU1fYmZnNC1ndEVKdWdLXzZDTzRGMDVVM25FTE0yd1ZOZHR5Q3NCcTNaSTN1TDhVVDVTNVpxeUhKaV93MzJ2WmlONk1fTnM5OVc3b0t1YjNWZklCQUZ5X29mZnkwYWNxYTMyM2todk9QVnh6dTBmYS12bFNKS21uRkhUOWZ2eEtobFpQSHJzLUJYYW8wc0dwQVA2LTQ?oc=5",
+      "published": "2026-05-01T07:00:00+00:00",
+      "publisher": "Reuters",
+      "summary": "Alphabet revenue tops expectations on record quarter for cloud unit &nbsp;&nbsp; Reuters",
+      "query": "\"Alphabet\" revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "positive"
+    },
+    {
+      "title": "Google Stock Soars On Q1 Earnings As Analysts Trumpet 'Full Stack' AI Platform - Investor's Business Daily",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNjRwdVRHNHRDTEFxZ2FDaEd5V0w1cnJCLVFldTctYWI0dGgwZ2w2QmFFWUJxYWFkaHAxQ0pLMlJxb2xzS19uOVd4Y2dycTdQS3h1S0ltLVZQaUFJcUY1MS1kNjNwUWJlejNqOHdGZXRwMGtJOTFFUlF0TGlYNUdneDRHLUhfZjVSWTk1RUE1c1Q?oc=5",
+      "published": "2026-04-30T07:00:00+00:00",
+      "publisher": "Investor's Business Daily",
+      "summary": "Google Stock Soars On Q1 Earnings As Analysts Trumpet 'Full Stack' AI Platform &nbsp;&nbsp; Investor's Business Daily",
+      "query": "GOOGL earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "price_move"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Alphabet stock forecast: Q1 2026 earnings in focus - Capital.com",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQaUpsSmVLaXVvWFRFVE9ORHVtcTlOTFB0Y3lDTWxyMXpIQWpadVdMYV9KczdTQTNzemx1ekJSRF9TRThuVml1UmtLTnJPck80SmF3a3NpdGprRnpEc3Q0R0Zpa1lWUjE3SEhJdEZTcWxHV3RoR1RUaWpoazVqR1dEZ1p3?oc=5",
+      "published": "2026-04-30T07:00:00+00:00",
+      "publisher": "Capital.com",
+      "summary": "Alphabet stock forecast: Q1 2026 earnings in focus &nbsp;&nbsp; Capital.com",
+      "query": "\"Alphabet\" revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "guidance",
+        "speculation"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Alphabet ups 2026 capex to as much as $190 billion, expects to 'significantly increase' in 2027 - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1DWkxfblVqV1BFdUJBN2hUREpya1h1THU0aC1fdWllaS1xNEFIRS04ZlgyaDhaUUY3NGVyMTNsQ3I4WFI4bWpyZzZlSzNDU2NLSjJRMjJPM1B2dnA0SGxaMVE1d2RhVDIzem9PNzBLUjdfWWFzV25B0gF8QVVfeXFMT09xa3Y5bDI4UGl5OVFyQlNzX0F2STJIUEs1SHgwZXZQVUVSSzRCUTROZUd6RXgwNXlPeHdHT1lYMXYzcmtzYU1QaXFvaEMzRmh6dGVPQmdxMHlaWFdZbTZVSXN1NnJOUklsTk1tSFQ5NktlSXlpQVNRYjNxTg?oc=5",
+      "published": "2026-04-29T07:00:00+00:00",
+      "publisher": "CNBC",
+      "summary": "Alphabet ups 2026 capex to as much as $190 billion, expects to 'significantly increase' in 2027 &nbsp;&nbsp; CNBC",
+      "query": "GOOGL earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "2026 Q1 Earnings Call - abc.xyz",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZlBWZkRQM2J2ZVl5d00zejhYXzdRbkdoVHowak10MjJpVFhJMnBRdDJDMTd6d0xxOEZ2QnVmbHRJdDhwbmE3Z0ZiV1IwM18wTHphaFlZU1pkWEI4ZWU5TGhqZWxTQURXbnB1bU5YYW9QNjN5b0NtV3BzSGVOYy1TRFUwMXVtREppN0dtak8xUkZnLVhseGRXNjROeDE0cEE5VE1z?oc=5",
+      "published": "2026-04-29T07:00:00+00:00",
+      "publisher": "abc.xyz",
+      "summary": "2026 Q1 Earnings Call &nbsp;&nbsp; abc.xyz",
+      "query": "GOOGL earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Google smashes Q1 estimates with $109.9bn revenue. Cloud surges 63% past forecasts. - investinglive.com",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUnBBS2dqTGxEYl9ZWFp6U3JJcTdIZkZtQjVjRlZmNUZhQnY4NUM3aXU0TUdjeEFWQ3NFc0RFWUtZQXNUNXdLWnNlY19oRXdkZ2tzWFpSR3U2aXh5eVMzY19WNzFFMTdqSzV1NVZzLVV2elZELXo1aW9mNDMweGl3MzdzNHl0eVhFMTgwYnpjN3pSd2hOTmFQWTBBdHE3UzJQSE5YUDRDdURtcU1sYWF6TTVTQklUdW16TERRVE1B?oc=5",
+      "published": "2026-04-29T07:00:00+00:00",
+      "publisher": "investinglive.com",
+      "summary": "Google smashes Q1 estimates with $109.9bn revenue. Cloud surges 63% past forecasts. &nbsp;&nbsp; investinglive.com",
+      "query": "GOOGL revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "guidance"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Alphabet jumps as Q1 earnings and revenue blow past expectations - Sherwood News",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5UakNVRVpPWWhTVjBsZmJ1UVlraElVbTdDMjUwZXQ0YTFBd3pzRGI5LTV5ZXk4QVUzWlhER3ZrVnhkWDh0TnAtQUdtcURvWmNsVV9YeXhCUmZPd2puVERMYw?oc=5",
+      "published": "2026-04-29T07:00:00+00:00",
+      "publisher": "Sherwood News",
+      "summary": "Alphabet jumps as Q1 earnings and revenue blow past expectations &nbsp;&nbsp; Sherwood News",
+      "query": "GOOGL revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Alphabet investors push for safeguards on use of its cloud, AI tech - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPcERkU19SVlh1S1RoTUxDYkcwcWt0TUlQcnlhcG5VWVBESHVkRDhWTW56RTNfNmxRN044VUY1V1F0bE9pNzRic0lZbDRwNU5VWnVwYk1naGY1dzBwOS1XbXJBYkM1ZWZ4bXRpM3lxZTc3MkM2VUlqZjk3dGJjWTAyMGlkRzJKR01qd1JpcWxnTnJpb0gzb1VhZ3pUb3JEd3dGQ2R4VVlaRmtJSGt1QUZZTWMtaThFbUFGSlZaaGN1Y1MwQWdYODVZWWpmekg?oc=5",
+      "published": "2026-04-29T07:00:00+00:00",
+      "publisher": "Reuters",
+      "summary": "Alphabet investors push for safeguards on use of its cloud, AI tech &nbsp;&nbsp; Reuters",
+      "query": "\"Alphabet\" lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Alphabet (GOOGL) Expands Anthropic Partnership with Up to $40B Investment - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQN3REV3NWN05uNUdTaXRIVXRpaGFPcENTZDJUXzkyWXVLT3pSb1dzSmhWUjdSLW16WnYxeTNaeFBCa282cWVlN1FNdW5WSjhYQnhoYTNpYzVqVGpTdmFIY3NGZGtUeHlLZHE1QUgyOEVjVVNQelNzRU5uMzJFM1BnNHpkYk9qMVRXX0ppYjc5S3dqYXZqS1B5VE1MZzJtV29Bb3JEMVdiQzlXSU5PSHc?oc=5",
+      "published": "2026-04-29T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Alphabet (GOOGL) Expands Anthropic Partnership with Up to $40B Investment &nbsp;&nbsp; Yahoo Finance",
+      "query": "\"Alphabet\" acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity",
+        "demand"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Goldman Sachs has decisive message on Google stock ahead of earnings - thestreet.com",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVWhzRUM1RXpYaG05RDcxY0tKYnJZbjlEWUYzMnpWQ2cxeGlJejJUbk5ZZGM1bm54V003azd1RWU4UUV0Wk9ObS1CRENtNXFsc1VyR0Z3ZXk4TFRIQXhnakI4M2ZwOUxzbHBPREJkYU5HelZicXBlOTFEOU51Z1hMNE5wVDMxbDlDb0UwT003bE1jTGl4c0tFU3dzRWx0dlJFM2h5aE04akl1NVB5MzBFN0ZRZDZKR0Fk?oc=5",
+      "published": "2026-04-28T07:00:00+00:00",
+      "publisher": "thestreet.com",
+      "summary": "Goldman Sachs has decisive message on Google stock ahead of earnings &nbsp;&nbsp; thestreet.com",
+      "query": "GOOGL revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "analyst"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Google reveals plans for massive Rowan County complex - The Business Journals",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNT0ViZk9MaUtFcW16eWxxM2NhN1hoVHNUVEFZYlhKa0d6MndzTEY3Q0czTU5nVUlZM3lDSEwwcENfeEtrN0dDMXBlMU90c1ZHZXY3aF9KWTl5ckJVU0twa3RmajRQVVdNblpCNElCbmFld0lGWWNoYlNWNkpLZUtIQTZaNWJSS2lZeGNLSHQyN1lCNjhEcGpzS3J4QWxKQQ?oc=5",
+      "published": "2026-04-28T07:00:00+00:00",
+      "publisher": "The Business Journals",
+      "summary": "Google reveals plans for massive Rowan County complex &nbsp;&nbsp; The Business Journals",
+      "query": "GOOGL capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Alphabet earnings preview: Q1 2026 - S&P Global",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNW0xOVZlUTVHRHBGQTYtM1lfZHRYNnFTa1pYc1M4WWxPejdra3ZTTUh0NlVkVjJwWTRNREZiQ0NoTTk0SFBWZ3NoallfUlBwb25PM1ZOaVZfUUNLSHpiR1lYNUo2dkFmUHI0U3pETTVhUl94UUtMaXU0cFVNRkJSSVd1a2p2RXlpMUMwRU5aZzFMM3hTQzBYVzdEWGc2cVdJTVpUZTNwaEpZdFBxcGZqb1Z3?oc=5",
+      "published": "2026-04-27T07:00:00+00:00",
+      "publisher": "S&P Global",
+      "summary": "Alphabet earnings preview: Q1 2026 &nbsp;&nbsp; S&amp;P Global",
+      "query": "\"Alphabet\" revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Alphabet Stock Outlook: Cloud Growth, Gemini, and $430 Fair Value - TIKR.com",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZlVPY0xmR05hRTdYWFNmdWtGYWR5V3hYdVhrRGFvRDgteEVxYnY0eldrQTlKSmJMLTcyR0FsakRaTlNMMVFzZkJ3bHRTY0JYakF0UTNuLUFXY3VxdEVYQTdURV9lOFRpYmNRems5ZHpmZ0F3LXg2WVZnSUc0a1RhZ1h0dTd5NVBCbzhmeXhyUHg?oc=5",
+      "published": "2026-04-25T07:00:00+00:00",
+      "publisher": "TIKR.com",
+      "summary": "Alphabet Stock Outlook: Cloud Growth, Gemini, and $430 Fair Value &nbsp;&nbsp; TIKR.com",
+      "query": "GOOGL revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [
+        "guidance"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Bank of America resets Google stock forecast ahead of earnings - thestreet.com",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPN2hRUFJPdGtaYW45TU5RdnNIa1lYMHNmY0dNYjJTWXVWQlN3eFN3SkR3d2EyeV83N0QtU3pxQTRTQmlES2NqNGFRdXJzSzVnZzlhY3Jpd3lNSDEzdFRWTkd3aEpQdGhINGh4SnZienBvbm5QZS1lY3NtT3JrSVdBSXk4SkZZTXR1elhFSG5pRVNUb1c1WDNmMHVTbnBiSXRPZVFZcVBqdHk?oc=5",
+      "published": "2026-04-24T07:00:00+00:00",
+      "publisher": "thestreet.com",
+      "summary": "Bank of America resets Google stock forecast ahead of earnings &nbsp;&nbsp; thestreet.com",
+      "query": "GOOGL revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "guidance",
+        "analyst",
+        "regulatory",
+        "speculation"
+      ],
+      "lean": "negative"
+    },
+    {
+      "title": "Live from Transition-AI 2026: Inside Google’s massive AI capex - latitudemedia.com",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPazB1YnV6RFZBUFJCUmNhTVZ2UTBkb2k0SEM2ejllNUx2a09TOXBlZ2FJVWx0bHBxVVBuZW5tWjhIN0NkSWNNMWh1Y05wTWtfMFA5R3czZGRyRG4zUVZpRDJMbnFUbFl5QnNxbGpxM0tYLWVSVVJnMDBYTWNDaUdoNElCVGRsRkQxVGxEMUstbUM4bUFuRjdkcmsxVjVxbnJUME5haVduSkw?oc=5",
+      "published": "2026-04-23T07:00:00+00:00",
+      "publisher": "latitudemedia.com",
+      "summary": "Live from Transition-AI 2026: Inside Google’s massive AI capex &nbsp;&nbsp; latitudemedia.com",
+      "query": "GOOGL capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Google assembles four-partner chip supply chain with Broadcom, MediaTek, Marvell to challenge Nvidia in inference - The Next Web",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOOUNBY0RXM0x2clhDZzNmTUt6TmtmRmtRdlRxcmFlRGpIZ2NTNUQzYzJJWkZrY3ppX01rUjJrUHVZNkJDS0YwS090QnNUNjlRWXVMb3lVTjM2NlB5eTVHZk84eFlNOUtNcXhjZGxxLU1Ea010MDJnbGhQUXUwR3h3bXFpeFZ4MUE?oc=5",
+      "published": "2026-04-20T07:00:00+00:00",
+      "publisher": "The Next Web",
+      "summary": "Google assembles four-partner chip supply chain with Broadcom, MediaTek, Marvell to challenge Nvidia in inference &nbsp;&nbsp; The Next Web",
+      "query": "GOOGL capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity",
+        "demand"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Alphabet Faces Legal Pressures While Pursuing Enterprise AI Growth Potential - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdXdpdWFrdk1uQjBnUEVRR1I4UXQ4ZWNOYjFHLTk4ZE5Hb1FfS2MzbS1jdHNVSi11WVoyUDUtMEJaZk5CMHBfREFvOUl6ZlhBdWNRdzlNVi1pVWNmOXd2UmJ2T09pUjhXenpiajZlQUJMcnJFcHFuNHBzc1B5bFhZUngyT1pqSmZpS2VQMUVveWp0OTdXeVB6WFhQN0RRcnhIV0t3?oc=5",
+      "published": "2026-04-15T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Alphabet Faces Legal Pressures While Pursuing Enterprise AI Growth Potential &nbsp;&nbsp; Yahoo Finance",
+      "query": "\"Alphabet\" lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Broadcom Higher Amid Alphabet Partnership After Earnings Beat - Investor's Business Daily",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTjBKTEp0eVZibkF5UnVIR3pfM213UEZpYzZUVWdnNmhLR0hZRi1GUGRtcEFhWW1kallUNVlaeHFqVUxMVHhWNkdMVElURW9IdVJyT19yZ0VwVGtjRXkwellteEhBazRTbVdpeVNfZXVpSFFHU1ZONjZfdVJ4bXFzVWRxMVVxaTEwUWoya2wxaWpITjNQYUliU0dISWVVeXM?oc=5",
+      "published": "2026-04-10T07:00:00+00:00",
+      "publisher": "Investor's Business Daily",
+      "summary": "Broadcom Higher Amid Alphabet Partnership After Earnings Beat &nbsp;&nbsp; Investor's Business Daily",
+      "query": "\"Alphabet\" acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "demand"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Google expands partnership with Intel for AI chips - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSHQ0eXVkRmpwdld1bERfajVtWWJfdGxuMkVDbWFHcWVMZmJGV0tabFVEdmxOZDVnc2NfWnZoTFdtdmxKYTlkS29jMXlWenpEcTQ1eE1Ba05HcFVSelVwVlR6UzhYU05jVkVfNkVFM1I0SFVjdTlfa1RMSzUtVTRUMVp3YkpyMHJTR28wT2otNDJXZ9IBlwFBVV95cUxQbllyRGFkYWJLS2pKb3hDZWoyd3ZKdlNSY2FiWk9NbFBHbGpZcXFyd3ZRa3JJRmN5cjVIZ1Byalk5ZHdnbzR6QWE5LXgtbVhBc2xvSzMyZVBUNV9NeUZrS2JQaVl0WE05bmd1MnlmWkQwcFh5Z0luSXRIOUtwXzZUQWg4cnBaTlFJYUxXQWQ1eTNMMDgwWGlV?oc=5",
+      "published": "2026-04-09T07:00:00+00:00",
+      "publisher": "CNBC",
+      "summary": "Google expands partnership with Intel for AI chips &nbsp;&nbsp; CNBC",
+      "query": "\"Alphabet\" acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "demand"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Jury Finds Alphabet and Meta Liable for Damages in Landmark Social Media Addiction Lawsuit - Democracy Now!",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPS0pfcmRJZ0ZUbnNSbmlpelhoR3pCVEZTeER1R0x2RDYxVEhuZ0NmVkpnR1VEc0dOY0pOYWxRWmRLeXdIN2VlWGhpSzVyTzRnbWlsb09EWVF0UXBBWDVOOHd1ZlRGTWk4czJkZUVDNTZZNllmSWNNbTVCMzFHZUlkaFNqbHdteW41OVZkcmpwWGkydnk3V0NCUHVUQnJlWDNIUEwyVGUzYW1rYjZ3VmkzMXZGN3hCWU83cVJRWlY5aEE0LWJmVkhHNFBqZHJCaHRSX25Bbnl3?oc=5",
+      "published": "2026-03-26T07:00:00+00:00",
+      "publisher": "Democracy Now!",
+      "summary": "Jury Finds Alphabet and Meta Liable for Damages in Landmark Social Media Addiction Lawsuit &nbsp;&nbsp; Democracy Now!",
+      "query": "\"Alphabet\" lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory"
+      ],
+      "lean": "negative"
+    },
+    {
+      "title": "US jury finds Meta, Alphabet liable in landmark social media addiction case - Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPYzQ5SXVNMEJVUTF0SDZxZkNCVWZLRmMtR2dsS1Y3MEl4cG8yLVFVU2haNmlwTC1kMWF6bjhBekJEWjc0QjhUQkw1blRTRWRSNk9DMnlIT0FSWEdMQkxyYXNESk1GS3hrTHV6UTg5ZlFYNGMxQng0eGkzelhvYVVuaGdmaVRCTjk5WktkQ09DWDBfd09ERjE3Y3I5bnByXzlIX2J2WVZiUEhPLUwxTDRROE5xSU5EbE1GLUHSAb8BQVVfeXFMT3lIM21UTkJVV1hRZFI0RE5OOTMybHItSXdoVjNmaGxzcmNyTTJUYkR1YnFzU2o5MHRDQXo4SU1tSlNPdWFHNWJuR0VaaWVFYjRRNXdwN3pmUWNWS0xCVjc3dVBPOUZMTXJQWld3d3dZM05fZ1RQZVdiMUVtWWlaMDBoT3Z4M1h3d2NiN1hiSUVTOXA4VGhwNXMtYmllQ0U5MzhRaG9BcFA2QWpndGVUR3Iycl9SX2Y4TGZId2NmY2c?oc=5",
+      "published": "2026-03-25T07:00:00+00:00",
+      "publisher": "Al Jazeera",
+      "summary": "US jury finds Meta, Alphabet liable in landmark social media addiction case &nbsp;&nbsp; Al Jazeera",
+      "query": "\"Alphabet\" lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    }
+  ]
+}

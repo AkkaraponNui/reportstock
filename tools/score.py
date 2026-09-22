@@ -142,8 +142,41 @@ def band_score(metric, value):
     return float(pts[-1][1])
 
 
+# Metrics that divide a market number by a statement number. When a company
+# trades in one currency and reports in another, as every ADR does, the two
+# sides are in different units and the ratio is wrong by the exchange rate.
+# It stays plausible-looking, which is what makes it dangerous: TSM came back
+# with a price-to-sales of 0.51 and a free cash flow yield of 44%, scoring 99.9
+# and 100, because its statements are in TWD and its market cap is in USD.
+# ASML failed the other way with an EV/EBITDA of 2657 and scored 0.
+#
+# `project()` already guards itself through `_sales_multiple`. These are the
+# graded metrics, which were still reading the raw fields.
+CURRENCY_SENSITIVE = ("price_to_sales", "ev_to_ebitda", "fcf_yield")
+
+
+def drop_currency_contaminated(metrics):
+    """Blank the metrics a currency mismatch makes meaningless.
+
+    Dropping rather than converting is deliberate. A conversion needs a rate at
+    the statement date, which this data source does not carry, so an estimate
+    would replace a visibly wrong number with an invisibly wrong one. A blank
+    metric renormalizes its pillar over what remains and shows up in coverage.
+    """
+    if not metrics.get("currency_mismatch"):
+        return metrics, []
+    out = dict(metrics)
+    dropped = []
+    for k in CURRENCY_SENSITIVE:
+        if out.get(k) is not None:
+            dropped.append(k)
+            out[k] = None
+    return out, dropped
+
+
 def score_pillars(metrics):
     """Weighted pillar scores, renormalized over whatever metrics are available."""
+    metrics, dropped_for_currency = drop_currency_contaminated(metrics)
     detail = {}
     for pname, pdef in PILLARS.items():
         parts, wsum, acc = {}, 0.0, 0.0
@@ -233,31 +266,58 @@ def dividend_component(m, scenario="base"):
     return y
 
 
-def _sales_multiple(m):
-    """Today's market cap per unit of revenue, in units that actually cancel.
+def sales_multiple_and_margin(m):
+    """Today's market cap per unit of revenue, with the margin that matches it.
 
-    Yahoo's price-to-sales divides a market cap by a revenue figure taken from the
-    statements. When a company trades in one currency and reports in another, as
-    every ADR does, those two are not in the same units and the ratio is off by
-    the exchange rate. Trailing P/E does not have that problem, because price and
-    earnings per share are both quoted in the trading currency, so P/E times net
-    margin rebuilds a sales multiple that is internally consistent.
+    These two have to be returned together, because `project` divides one by the
+    other to recover the entry P/E and then values the exit on the same basis.
+    Pairing multiples from different periods is what this function exists to
+    prevent.
 
-    Returns the multiple and a label saying which route produced it, or (None,
-    reason) when neither route is safe.
+    Two routes, in order of preference:
+
+    `price_to_sales` is market cap over trailing-twelve-month revenue, which is
+    the honest answer when it can be trusted. The margin that belongs with it is
+    the one the market is implying right now, `price_to_sales / trailing_pe`, not
+    last fiscal year's. For a company whose trailing year does not resemble its
+    last annual report those differ enormously: Micron's TTM revenue grew 346%,
+    so the implied margin is 55.4% where the last annual close was 22.8%.
+
+    `trailing_pe x net_margin` is the fallback, and its only merit is that price
+    and earnings per share are both quoted in the trading currency, so it
+    survives an ADR's currency mismatch. It mixes a trailing price multiple with
+    an annual margin, so it is used only when the clean route is unavailable.
+
+    Returns (multiple, margin, basis). The margin is None when the caller should
+    fall back to the reported annual figure.
     """
+    ps = m.get("price_to_sales")
     pe = m.get("trailing_pe")
+    mismatch = bool(m.get("currency_mismatch"))
+
+    if ps and ps > 0 and not mismatch:
+        implied = safe_div(ps, pe) if pe and pe > 0 else None
+        if implied is not None and 0 < implied < 0.95:
+            return ps, implied, "reported price_to_sales, margin implied by trailing_pe"
+        # No usable P/E: the multiple is still right, the margin is not derivable.
+        return ps, None, "reported price_to_sales"
+
     margin = m.get("net_margin_latest")
     if pe and pe > 0 and margin and margin > 0:
-        return pe * margin, "trailing_pe x net_margin"
+        why = ("trailing_pe x net_margin (currency-safe route; mixes a trailing "
+               "price multiple with an annual margin)")
+        return pe * margin, margin, why
 
-    ps = m.get("price_to_sales")
-    if ps and ps > 0:
-        if m.get("currency_mismatch"):
-            # Only path left is the one the mismatch corrupts, so decline to guess.
-            return None, "unavailable: market cap and statements use different currencies"
-        return ps, "reported price_to_sales"
-    return None, "unavailable: no usable sales multiple"
+    if ps and ps > 0 and mismatch:
+        # Only path left is the one the mismatch corrupts, so decline to guess.
+        return None, None, "unavailable: market cap and statements use different currencies"
+    return None, None, "unavailable: no usable sales multiple"
+
+
+def _sales_multiple(m):
+    """Backwards-compatible view of `sales_multiple_and_margin`."""
+    ps, _margin, basis = sales_multiple_and_margin(m)
+    return ps, basis
 
 
 def project(m, years=5, terminal_growth=0.04, scenario="base"):
@@ -278,7 +338,12 @@ def project(m, years=5, terminal_growth=0.04, scenario="base"):
     # statement line item is unit-inconsistent whenever a company trades in one
     # currency and reports in another, which is true of every ADR. Working in
     # ratios makes the arithmetic identical in any currency.
-    ps_effective, ps_basis = _sales_multiple(m)
+    ps_effective, matched_margin, ps_basis = sales_multiple_and_margin(m)
+    # The margin has to come from the same period as the multiple; see
+    # sales_multiple_and_margin. Only fall back to the annual figure when the
+    # clean route could not supply one.
+    if matched_margin is not None and matched_margin > 0:
+        net_margin = matched_margin
     if ps_effective is None:
         return None
 
@@ -342,7 +407,14 @@ def project(m, years=5, terminal_growth=0.04, scenario="base"):
         "assumptions": {
             "start_growth": round(g_start, 4),
             "terminal_growth": terminal_growth,
-            "start_net_margin": None if reported_margin is None else round(reported_margin, 4),
+            # The margin the projection actually starts from, which is the one
+            # paired with the multiple. It is the trailing-twelve-month figure
+            # on the clean route and the last annual one on the fallback, and
+            # those differ a lot for a company mid-cycle, so both are reported.
+            "start_net_margin": round(net_margin, 4),
+            "reported_annual_net_margin": (
+                None if reported_margin is None else round(reported_margin, 4)),
+            "margin_basis": ps_basis,
             "end_net_margin": round(margin_end, 4),
             "exit_pe": round(exit_pe, 1),
             "current_sales_multiple": round(ps_effective, 3),
@@ -365,6 +437,19 @@ def project(m, years=5, terminal_growth=0.04, scenario="base"):
 def flags(m, composite, detail):
     """Plain-language warnings worth reading before the score."""
     out = []
+    if m.get("currency_mismatch"):
+        _, dropped = drop_currency_contaminated(m)
+        if dropped:
+            out.append(
+                "Trades in {} but reports in {}, so {} were excluded from the score: "
+                "each divides a market number by a statement number in a different "
+                "currency. The affected pillars renormalize over the metrics that "
+                "remain, so read the coverage figure alongside the score.".format(
+                    m.get("trading_currency") or "one currency",
+                    m.get("financial_currency") or "another",
+                    ", ".join(dropped),
+                )
+            )
     nd = m.get("net_debt_to_ebitda")
     if nd is not None and nd > 3.0:
         out.append("Leverage is high at {:.1f}x net debt to EBITDA, which limits room to invest through a downturn.".format(nd))

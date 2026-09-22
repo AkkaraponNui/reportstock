@@ -24,6 +24,7 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 
 from common import RAW, latest_snapshot, read_json, resolve_tickers  # noqa: E402
+from score import drop_currency_contaminated  # noqa: E402
 
 # Metrics worth a peer comparison, with the direction that counts as better.
 # Valuation and leverage are "lower is better", so their percentile is inverted.
@@ -85,7 +86,13 @@ def load_universe_metrics(tickers=None):
                 "company": prof.get("name"),
                 "sector": prof.get("sector") or "ไม่ระบุ",
                 "industry": prof.get("industry") or "ไม่ระบุ",
-                "metrics": f.get("metrics") or {},
+                # Cleaned at the door. An ADR's price_to_sales, ev_to_ebitda and
+                # fcf_yield divide a market number by a statement number in another
+                # currency, and leaving them in corrupts more than that company's
+                # own percentile: the contaminated value goes into the sector
+                # median, which every other member is then ranked against. TSM sat
+                # at the 100th percentile on a price-to-sales of 0.5.
+                "metrics": drop_currency_contaminated(f.get("metrics") or {})[0],
                 "snapshot": snap.stem,
             }
         )
@@ -168,6 +175,13 @@ def peer_context(ticker, rows=None, level="sector"):
         "n_in_group": n,
         "reliable": n >= MIN_PEERS,
         "min_peers_needed": MIN_PEERS,
+        # Size is necessary but nowhere near sufficient. Consumer Cyclical here
+        # holds Amazon, Toyota, LVMH, Alibaba and Tesla: five companies, five
+        # industries, one label. It clears MIN_PEERS and is still not a peer
+        # group, so report the spread rather than letting `reliable` imply more
+        # than a count can support.
+        "distinct_industries": len({r.get("industry") for r in peers}),
+        "homogeneous": len({r.get("industry") for r in peers}) <= max(1, n // 2),
         "comparisons": comparisons,
         "strongest": ranked[:3],
         "weakest": ranked[-3:][::-1] if len(ranked) >= 3 else [],
@@ -280,6 +294,11 @@ def main():
         if not ctx["reliable"]:
             print("  Warning: only {} companies here, so percentiles are close to meaningless.".format(
                 ctx["n_in_group"]))
+        elif not ctx.get("homogeneous"):
+            print("  Warning: {} companies spanning {} different industries. The group clears the "
+                  "size threshold but is not an economic peer set, so read these percentiles as "
+                  "'versus this sector label', not 'versus comparable businesses'.".format(
+                      ctx["n_in_group"], ctx["distinct_industries"]))
         print("  {:<24} {:>10} {:>12} {:>12}".format("METRIC", "VALUE", "PEER MEDIAN", "PERCENTILE"))
         for c in ctx["comparisons"]:
             pct = "n/a" if c["percentile"] is None else "{:.0f}th".format(c["percentile"] * 100)

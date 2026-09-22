@@ -1,0 +1,1929 @@
+{
+  "ticker": "7203.T",
+  "company": "Toyota Motor",
+  "as_of": "2026-09-20T08:36:27+00:00",
+  "lookback_days": 180,
+  "summary": {
+    "total": 157,
+    "by_event_tag": {
+      "earnings": 18,
+      "regulatory": 18,
+      "capacity": 17,
+      "guidance": 11,
+      "macro": 11,
+      "product": 7,
+      "mna": 4,
+      "analyst": 3,
+      "demand": 3,
+      "management": 1
+    },
+    "headline_lean": {
+      "positive": 21,
+      "negative": 20,
+      "neutral": 116
+    },
+    "top_publishers": {
+      "Yahoo Finance": 62,
+      "finance.biggo.com": 12,
+      "Reuters": 7,
+      "Seeking Alpha": 6,
+      "Bloomberg.com": 4,
+      "The Detroit News": 3,
+      "Newsroom Toyota Europe": 3,
+      "CNBC": 3,
+      "breakingviews.com": 2,
+      "Investing.com": 2
+    }
+  },
+  "articles": [
+    {
+      "title": "Auto industry urges Trump to keep Chinese automakers out ahead of Xi meeting - Bilyonaryo Business",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMy1JMXVfZFo0OFR2eE82ZWlNQVg5cF9vZFJ0MUxiTVlBclRkdUwxSFlTOGRMWEFiZnhVbGJkMEpTb1Z2M01rWEtlZ3Q4OUN6UlRxcFhwZkl0ZWtfOG1mQW9pUHNnX2lfRVF5YmoyalNSam5ZZ0h6MmgxZFdRMXlUUDd3cXJpSGRYck1lb3ZPUHNMYUNkZ2wzbXhXWVVicVlBdEc0Y2lWSEFJdmJWRVowdGRfNHhCc2pTQ0JuVA?oc=5",
+      "published": "2026-09-19T04:28:42+00:00",
+      "publisher": "Bilyonaryo Business",
+      "summary": "Auto industry urges Trump to keep Chinese automakers out ahead of Xi meeting &nbsp;&nbsp; Bilyonaryo Business",
+      "query": "7203.T lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Toyota Motor Corporation (TM) Stock Drops Despite Market Gains: Important Facts to Note - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWnNCYWdEREtJdUNFQjFtSkhwZ2ViYjFEemQ0ZVhhUVdCM05WY2I3dlo4cG80aEYyX0hxRzNYMlIwbmZrMjBsaHkxVjEyXzNJdGRZTTRHVXgzN1ZGSG5wNHpMSmRyRWVXYUpldmwwQzZ2RXcwY1BUcVZzRUVsRXAxN05ZUkF4MU1oZ25fZ1BQN2dvWGViT09YVTY5dDFqSFE?oc=5",
+      "published": "2026-09-18T21:50:03+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Toyota Motor Corporation (TM) Stock Drops Despite Market Gains: Important Facts to Note &nbsp;&nbsp; Yahoo Finance",
+      "query": "7203.T stock",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "negative"
+    },
+    {
+      "title": "Toyota Signs TEAM JAPAN Partnership Agreement with JOC and JPC as a Gold Partner, Directly Supporting Athletes Competing on the World Stage - トヨタ自動車株式会社 公式企業サイト",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBoVk5KZnRMTngwVUZmVVFYQXNJckZYVGpQNERwZVl2UUo1OHZfWUFtYTBHV0FBYjhqZ2hkS1RGTGFaQnowb0NvalpfMGxGUkZQUEh5bElXc0JFbGxGNXRVTEVNZUZBcjY3?oc=5",
+      "published": "2026-09-18T04:02:17+00:00",
+      "publisher": "トヨタ自動車株式会社 公式企業サイト",
+      "summary": "Toyota Signs TEAM JAPAN Partnership Agreement with JOC and JPC as a Gold Partner, Directly Supporting Athletes Competing on the World Stage &nbsp;&nbsp; トヨタ自動車株式会社 公式企業サイト",
+      "query": "\"Toyota Motor\" acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "positive"
+    },
+    {
+      "title": "Toyota's next profit push targets used cars, paid upgrades, and safety add-ons - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVzY4SmM3d2tDaDVjM2lUMnlQT1VRa09yVEJjWkVYeUNBTHVrLVptbVBkYkxYWkRPOFNINTVHMF9qbWhYNDZqUGRaelV5Z3J0TkVyWDVnU3NkbnYwYlEwWEhYMVVyWkJqNUtOSC1FLXNVRjc0VFl3X3plVjMxNnlFZVRmeTBRTEU4LWx6NTVWQXBDYktsSklubg?oc=5",
+      "published": "2026-09-17T19:05:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Toyota's next profit push targets used cars, paid upgrades, and safety add-ons &nbsp;&nbsp; Yahoo Finance",
+      "query": "7203.T revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [
+        "analyst"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Exploring Chris Nielsen’s Supply Chain Strategy at Toyota - Supply Chain Digital",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQ05aSFFfYm5MbjlrMS1ETmZSQWVUb2hRd2hua0VUNHZVUnI5QjQyMUJNRzZYRzhYRVNGb1VNdWxqZi1nUlg3ZkRRVHQ3THVocWxBQUNvSlkwelkwRE5haE5kbmhmdEhYcU82aHdQZmJKcGQ0RjNHUDREdktDdEtmcGtRV0UtZTVfNF83Mi1EMXp2cGdMWEdV?oc=5",
+      "published": "2026-09-17T14:36:37+00:00",
+      "publisher": "Supply Chain Digital",
+      "summary": "Exploring Chris Nielsen’s Supply Chain Strategy at Toyota &nbsp;&nbsp; Supply Chain Digital",
+      "query": "\"Toyota Motor\" capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "The Joby Aviation Bull Case Comes Down to One Question - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUEh6NVVJVUxRWVF2Tl9uYXJfVW1TZXhRdUxPNDRYanJyMlB5SzJESi1aSkw2d0JuOXFqdHFyT0pTcEtueWp3V1pTNEMydHZaT2J6dlNSeEwyU2xqVTlwNDVsalhOOFdsbWZDdUZzcVNZMkdKOVRLSWs1QjZQSDJrX1c2aUgyVVZkSDk5TnV2YWFVMTFieXNFUTh3?oc=5",
+      "published": "2026-09-16T14:30:40+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "The Joby Aviation Bull Case Comes Down to One Question &nbsp;&nbsp; Yahoo Finance",
+      "query": "7203.T earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "China auto consolidation will come thick and fast - breakingviews.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcEdUV3haSXltMmsxM0JGdkp1eGpKcUM4cGRyV1daVUZMWWs3TVVTMWd0cllTQmFVcmJ0TEhUNWpheW12VWFtcFdycGVZb2Z1c0YyVnR6cE9idEVMMC1TNjZSMnBtWGZqdEhiVVdmVTZILThacUxodFdORU5KbGprQjRuc1ZLc2pNa1hmeFpBdzRVV0tncGFzYmxpR19DNHFibF9LYVl5SUVSRUNGQUE?oc=5",
+      "published": "2026-09-15T09:53:27+00:00",
+      "publisher": "breakingviews.com",
+      "summary": "China auto consolidation will come thick and fast &nbsp;&nbsp; breakingviews.com",
+      "query": "7203.T acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Toyota Motor Corporation (TM) Exceeds Market Returns: Some Facts to Consider - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQkRFTG83VlhQWU5ab1VXNEhKMnpJUWFuREhOZUtSVGJPaUJsX2lKNEVDX0Y0eWNtRXhLSjNNVXd3VElxMmpmQTZSMnl2N1pzMG80ek1ycURRZFZlLW9pbERRZ0E3Mi1IdjluenBXWGVRRXZUbVY1RGRzdjJIY1pta3pPR3pqMmsxcGNZR0pMZEg0RVFadFVpb092amw3Nmp2T2c?oc=5",
+      "published": "2026-09-11T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Toyota Motor Corporation (TM) Exceeds Market Returns: Some Facts to Consider &nbsp;&nbsp; Yahoo Finance",
+      "query": "7203.T competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Hybrids Defend Global Sales as Hyundai Motor Group Solidifies No. 2 Spot Behind Toyota - finance.biggo.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBPQ2owdGR6ODFvZ1BRcnZaRW1KVjdoMnR4SC1YWjJEalpHYTBrSUFrZUtPdVZ2aWJaTDgtc3NUNUZXWENTUW1hZ1BEd1Eyd0Y4Ry1BSnFjZkxTOXd1NEhKbTJRWWFzZ0hzdWM1XzM3Rmp1aVNBUlE?oc=5",
+      "published": "2026-09-08T07:00:00+00:00",
+      "publisher": "finance.biggo.com",
+      "summary": "Hybrids Defend Global Sales as Hyundai Motor Group Solidifies No. 2 Spot Behind Toyota &nbsp;&nbsp; finance.biggo.com",
+      "query": "7203.T capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Toyota targets 40% rise in non-vehicle profit – report - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNM3U2SUl2T2JnWndETlRRZmFKRVU2VFh5WkFLeGRvMmhzOHc0MEtGa3k1YjFhbllwUE1PVF9sUFlFUkFrWXl1TzJadnJWMlJ4YUZ1WVBFM01MNDFadURfV3dwbkJEVDRjdDVVWUpncnVVSWp3TkdWUXJlbjB1N0Q1a1MwZUNUcERiSlBVSVZqNVlTdzZ2V1E?oc=5",
+      "published": "2026-09-07T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Toyota targets 40% rise in non-vehicle profit – report &nbsp;&nbsp; Yahoo Finance",
+      "query": "7203.T earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Toyota Aims to Break Reliance on New Car Sales, Targets ¥3 Trillion in Value Chain Profit by 2030 - finance.biggo.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5FWVBESW5ycmhnWXdvYmk1RWNIeHNqa01SSVVxZDNJbkpoUHhESnVHckNuTENsVThzallZR0NIWTFnaW1tXzRPMG5rQkZ3WEZtYzNBbFZ4MWlIeTVIMmE2RjFoazhhbURUcndwX2pPT1NEX0Z4Unc?oc=5",
+      "published": "2026-09-07T07:00:00+00:00",
+      "publisher": "finance.biggo.com",
+      "summary": "Toyota Aims to Break Reliance on New Car Sales, Targets ¥3 Trillion in Value Chain Profit by 2030 &nbsp;&nbsp; finance.biggo.com",
+      "query": "7203.T capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Industry leaders to join forces to scale hydrogen mobility - Volvo Group",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMW8xT0d4cVVBUV91UnJreFFMVjR2RVlvRXoxd2FuYW1ndHFQLUU1VnRrZFA0aFVsRDBtX3dLbmtTdDNwN0dCTkFhaFRNbkYwMFZqMWFpSGZOQl94UUI3TTluR3FfR3V3cW51N0VCVWNsV1lXWTNGNUxsNlE0b1lBTmM5YS1FZjh6dWVNNEVXR2NiTExkZTZxaDJCUWpBUmdFUzhscGozWmUtRWY2ak5kb1dzX1czZnpEQ3BNTEVkZw?oc=5",
+      "published": "2026-09-03T07:00:00+00:00",
+      "publisher": "Volvo Group",
+      "summary": "Industry leaders to join forces to scale hydrogen mobility &nbsp;&nbsp; Volvo Group",
+      "query": "\"Toyota Motor\" capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Go Auto Acquires Toyota of Hollywood, Adding Historic First U.S. Toyota Dealership to California Portfolio - Yahoo! Finance Canada",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSktvZVlzSG9rUlVVUjZkeFRmQlhzZ2tXRFFJWjJpaEhCS0NuNWY4bXJBTHBFVEdPbVFzU3pJOFJnWmlDSDI1Y1lTSThILXVMcHhjbS0zSGR5ckhEZHpRdlFkV3ByNFVtQkdZNHdSbzJTSUVwWjBkUzlWMVE1TGZkZjI1Mml4YS1NeXlWS2FHSQ?oc=5",
+      "published": "2026-09-01T07:00:00+00:00",
+      "publisher": "Yahoo! Finance Canada",
+      "summary": "Go Auto Acquires Toyota of Hollywood, Adding Historic First U.S. Toyota Dealership to California Portfolio &nbsp;&nbsp; Yahoo! Finance Canada",
+      "query": "7203.T acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "mna"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Toyota Motor: Growth, High Profitability, 9.5x P/E (NYSE:TM) - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTUZhbXY3YW1SU2FIaEltcWM2NE9lLV9EWld2cmhWa05KeURHSE1IQ0g0eTBLYXNwdzVjeU94S3cwM2FKcHdiaXlNNnUwWDlIeWVaUVBiRjVIUTdRVlpKUnpmdTZwV01zM0FZTFdUcXJWd3hsd2dvR0t4bndJRDFhaFE4UlVTZEJVNndkWEMzc3E?oc=5",
+      "published": "2026-08-31T07:00:00+00:00",
+      "publisher": "Seeking Alpha",
+      "summary": "Toyota Motor: Growth, High Profitability, 9.5x P/E (NYSE:TM) &nbsp;&nbsp; Seeking Alpha",
+      "query": "\"Toyota Motor\" earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "positive"
+    },
+    {
+      "title": "Toyota (TSE:7203) Stock Looks Like A Bargain On Earnings Yet Fully Priced On Broader Checks - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMF9OZGRkeU9rTVlaNEU3Z3I1Mm5UQWdBS0dpd0R6RERfRFBDeUlCdWI5QlprY1JmRTYzM1pJbVo3cmdZTGh5SWxvN2hFZkQzaVpEcTFoSWFzemxMLS1QVDNDcV9CNlgzUFpIV2lwcjllWlVGbnhjNmppRl9PY0VCVHBEN2ZZWHowQU5zNnRlR0ZQRlRhY1JV?oc=5",
+      "published": "2026-08-29T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Toyota (TSE:7203) Stock Looks Like A Bargain On Earnings Yet Fully Priced On Broader Checks &nbsp;&nbsp; Yahoo Finance",
+      "query": "\"Toyota Motor\" stock",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Could Toyota Motor (TM)’s Hybrid Boom Finally Put General Motors (GM)’s U.S. Sales Crown at Risk? - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSWZMMWtJU3BZZDdaSUI2aDV6VVZ6bWRzMmxHeE94QkJwNlJSN3ZnLU5Ca2p1WW1WYWZTT28yX1FXRGtycHVFUkFUN0MydkQyS05wb0NQU193X1dBRFBuYVU5SlVvT2M3TnRteWxLLUxDTE9LSHI4OE54MUhkeXNEOXhEVkUycU43cThINm5GTWNPeEd6Y015aw?oc=5",
+      "published": "2026-08-28T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Could Toyota Motor (TM)’s Hybrid Boom Finally Put General Motors (GM)’s U.S. Sales Crown at Risk? &nbsp;&nbsp; Yahoo Finance",
+      "query": "\"Toyota Motor\" earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "How to Buy Toyota Motor Stock (NYSE:TM) - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTFdBR1Ewd25IcmlCZ3dUTU0xUTdHVWJNb1BNZ1h2Ri1Wd2VtYS15OU9rMG1ycHh5NW5JTzJKYnllZHg4QXo0T1hZS3BWbnlNeU02TXhIQjYzZThmakNmZ1BHU1hRa2xHM3IzWl9VZDYxVG1FbDl3YkpOQk9zNnNsQ21KemFESnpYbWc?oc=5",
+      "published": "2026-08-23T07:00:00+00:00",
+      "publisher": "The Motley Fool",
+      "summary": "How to Buy Toyota Motor Stock (NYSE:TM) &nbsp;&nbsp; The Motley Fool",
+      "query": "\"Toyota Motor\" stock",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Toyota Motor (TSE:7203) Sharpens Cost Cuts And Automation Under New CEO - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQN1JsSWRub20xTVdaTkc0cTMtM0xsN2ZUS2ZWdHBrbW5XSVJWMTRjX2k4ZkxQNUg1VDFtZUtGVDNnQzNBLUpISEQ0eUt5a2h2bjlqbVFiREtidVVqRGN1M2dmaUFhc2JoTHMyem1DemRGNWZIcGdJV1hCeloydUVkYk1SeVNuMWtha2JYdlhtdkhfVFE5QW9NR2xoaw?oc=5",
+      "published": "2026-08-18T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Toyota Motor (TSE:7203) Sharpens Cost Cuts And Automation Under New CEO &nbsp;&nbsp; Yahoo Finance",
+      "query": "7203.T earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "management"
+      ],
+      "lean": "negative"
+    },
+    {
+      "title": "Toyota’s (TM) Profit Soared 76%. So Why Recall Over 500,000 Cars? - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOV21kMDJMeUJad05fTkpfWTAzZjFSMGpoajE4UWNYSG0wUTdWcXBPNTd2dzJoUXIwWDhTRk1pdXRvVzlCS1VCZlNMUUtkaWhhNzJyejJyTGtfUzFDcEkzSHhGczNVSXVUbk9hYUhPOUtCOFhtRmhaTWlDdVRlZ2VlYzJJdW5NM1JIeFVyWVdVLVdVdUVFWkE?oc=5",
+      "published": "2026-08-12T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Toyota’s (TM) Profit Soared 76%. So Why Recall Over 500,000 Cars? &nbsp;&nbsp; Yahoo Finance",
+      "query": "7203.T earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "negative"
+    },
+    {
+      "title": "Toyota and Nissan Resume Japanese Production Post-Earthquake, but Honda Is Still Recovering - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdHJCaDVzWTZlcl9RN1V6NTFna3BmN3JpNGF5X29WY0dvdXhDc3kzUW1NLVBmQVc3VzJxbHRXRXpRUG5UblpyM2RsUDVVZVJoMzJqOTExNjJqSXlLV0JlMXh3WlByam5fVDc5TmtZMlpjOVFDWjVtSnZUMmtOSWcxUWFpSUdmWUd3WFlrY0dYY0tGclRMUS1Yb3VkY2x5dw?oc=5",
+      "published": "2026-08-06T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Toyota and Nissan Resume Japanese Production Post-Earthquake, but Honda Is Still Recovering &nbsp;&nbsp; Yahoo Finance",
+      "query": "7203.T capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Toyota Motor (TSE:7203) Is Down 9.5% After Upgrading FY2027 Outlook And Launching ¥1T Buyback Program – Has The Bull Case Changed? - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQckhGMlNEc210TkRzdkhDMVZwMDZIZ2xGbGlaaDJDLVN0SmQ3NVkteDRiZUtvVkxQeDItbi1HbmJZb1RaWlZpeUVMamczVDdPT0laVDFvdlR5eDZPbzdvVUI4S0RwS3FLOXBwbEJxTmZaQWZxcGxybzdnOXNUdTM1bm5KZEZPNktPb2UtU1JGWm84SmhNdXc?oc=5",
+      "published": "2026-08-05T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Toyota Motor (TSE:7203) Is Down 9.5% After Upgrading FY2027 Outlook And Launching ¥1T Buyback Program – Has The Bull Case Changed? &nbsp;&nbsp; Yahoo Finance",
+      "query": "7203.T competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [
+        "guidance",
+        "product"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Toyota Lifts Full-Year Profit Forecast to ¥3.25 Trillion, But Slashes EV Sales Target by Over 10% - finance.biggo.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE02MTJqYjZtM1JJd2FtVEE0NFU1aTQzb1pQZFRNQWtMaXY3a3puOENfcHgzRXJGajZhUkZ4a0d0bFRrOHJ1d3U3ejhrVGJHQTRoTy1rVkwwc0ZNbjMyY25jOWlFcU5hQVc1OWJOWGRWUTNIajd5MHc?oc=5",
+      "published": "2026-08-04T07:00:00+00:00",
+      "publisher": "finance.biggo.com",
+      "summary": "Toyota Lifts Full-Year Profit Forecast to ¥3.25 Trillion, But Slashes EV Sales Target by Over 10% &nbsp;&nbsp; finance.biggo.com",
+      "query": "7203.T earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "guidance"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Toyota Raises Earnings Guidance, Announces More Than $6 Billion Buyback - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNGlQUWZfUFRCU0xibU9KWVhENGtBYzJnZFZxZWxFbTNESktYVWJrWmRaT0tQTXowQXBpSlZWMzFsNG5LVmlqV3R5MnhQUnVRRV9NR2RKTEIwQ091bHZlRUNwUXV5RVcxaDNYN2FmRU1nbVhiMkhxUEowbDNvVWF5MnhvSXFPMmNULTZ5RGFyM0lZQ0d4ODlMbUppNA?oc=5",
+      "published": "2026-08-04T07:00:00+00:00",
+      "publisher": "WSJ",
+      "summary": "Toyota Raises Earnings Guidance, Announces More Than $6 Billion Buyback &nbsp;&nbsp; WSJ",
+      "query": "\"Toyota Motor\" earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "guidance",
+        "product"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Toyota boosts guidance, announces $6 billion share buyback as fiscal Q1 results shine - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQcWV3UHJsa2hOQ19QN1FJUkk5elRQLW1XVVcyTm51YjUtR2Vrc1JaWDFUX1NDZDNCYlQwMWo5U3RLVXJaWkt6NkNZSXYwNlZPeUpza2wzZFctM3RxWmo0djZScE1nQlYwRkxPM2JIenhuM0J2dU9maHFTWlMzNU1ybHFuRGZBWDlodXZKVWx0ZFg0dG1wYnBQVWdDWjBucHZoeFk0dTFZd1hiaW9NRjVUcHFZZTRXc3dPUXpOWEFTSlZqMDYxb01RX2lvWnMtVzk0bEtpSHRnQmlBd0VyWEtPTg?oc=5",
+      "published": "2026-08-04T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Toyota boosts guidance, announces $6 billion share buyback as fiscal Q1 results shine &nbsp;&nbsp; Yahoo Finance",
+      "query": "\"Toyota Motor\" earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "guidance",
+        "product"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Toyota raises guidance as first quarter net income jumps 75.6% - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOM1lTZWNSaWwzdU9ENE8xUFo2ZV9FRzR5UDEwV3hsaFAwSG1ZbXdNRDJ4dEpRdklqU3RTMHRpTm03MmNaSTFIVzdXcHZPNVUzZTRiLVJpclA2aU9oaTZuVnNHemlNa01GZlEyUFRBeFNHS2FEdk1LOEpLdVJYS05qa3RuOFY4Q0pwdlNWNkxEWEhHZFA0Wno5YjBNRkR3WHByZ1BV?oc=5",
+      "published": "2026-08-04T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Toyota raises guidance as first quarter net income jumps 75.6% &nbsp;&nbsp; Yahoo Finance",
+      "query": "\"Toyota Motor\" earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "guidance"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Toyota Beats First-Quarter Expectations as Hybrid Demand Drives Revenue Growth - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQjRaNjZCdUJhTDljR0k1WTdIejIxdkZmLTdvc3pHRU8yZW1mQTFQQzM5Wlp2S3R5V0ZEaUw3WE1lSGdYMW1weVJLd3lhS3lOQThWeV94eGZ2MWRrX050R0s0RXI3TGNpZm0xdVRfTEJBWUVibDAxaWd4My05QkNnN1o3R3BWclpkQmUzcWY4VElDQ3BhcUl3MFhHOWpwaFRiVjMxWjVYcw?oc=5",
+      "published": "2026-08-04T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Toyota Beats First-Quarter Expectations as Hybrid Demand Drives Revenue Growth &nbsp;&nbsp; Yahoo Finance",
+      "query": "\"Toyota Motor\" earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "demand"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Toyota: Struggling Through Macro Tensions, But There's A Path To EPS Growth (NYSE:TM) - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTWhLQ0dyZ1lMLVhmUE5fcVp2UDh5enlzanRYVW5tc0lxdEFlNThESGV6cDZnVjhfeC1Fc3FNMUh6NEdJLWxvaFNHZjVFcmhNUV9vbjZFMlQ2cHhnWjYzZmI0TzVqSXI5TDJNNUhQandpanJSdWQ2dk94Zm1DNU1FZ0VDNThNN0tJREJoY1gyOWVBeE51Z0tvVnRTN2M4U29LQ2Y1VlppTWwzS3hxU2RiMWRDaw?oc=5",
+      "published": "2026-08-04T07:00:00+00:00",
+      "publisher": "Seeking Alpha",
+      "summary": "Toyota: Struggling Through Macro Tensions, But There's A Path To EPS Growth (NYSE:TM) &nbsp;&nbsp; Seeking Alpha",
+      "query": "\"Toyota Motor\" earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Toyota lifts annual forecast but reports lower quarterly profit - The Detroit News",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPYWxaaHVoMkFLdUMtREwyXzgtUGRNVTRTRlF6am94WFZnWmJYUDFHVVltYWlUTXB4allKWWw5T0V4VjZ2dFpsMWRBbDFhRVBnU0hCbUlqekZXZUVJRnpNWWZzejlib2JabVpXS3hWS1hES2V5UlJFc2diTU5JZ0RIRVBEOE95U3BteWlRSXFOak5hSl9mNmpFR0x4N3NNb1JvNmpkdU8yZ0VHM1ZDSjB6eG5TeWtiMHFFMUh2S3ExSmplaFJlREJnbVM0eHdUODNId1k0eFVLXzEwQQ?oc=5",
+      "published": "2026-08-04T07:00:00+00:00",
+      "publisher": "The Detroit News",
+      "summary": "Toyota lifts annual forecast but reports lower quarterly profit &nbsp;&nbsp; The Detroit News",
+      "query": "\"Toyota Motor\" revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [
+        "guidance"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Toyota raises full-year net profit forecast, helped by weak yen - Nikkei Asia",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZnFVTXdGd01ueTR6eEZnZzR1VFlFQy14QU81X3BIVlREV0NHTWNkTzE0b2FrWk5yS0JuMUZhN3ZQSFA1RzFXS3NWbDFESlpwelk2YzJaRnJqRkE3OXZSaHdDQnR2b0JSQnFWUFFOY1M1QVNIaE93OXdOZzFPeWpCNnR2NXFFSkpUMkxHWVlXeUg3LXJWeGJDME9rUmpUdEVCYWlSNHdvZXMtWEE?oc=5",
+      "published": "2026-08-04T07:00:00+00:00",
+      "publisher": "Nikkei Asia",
+      "summary": "Toyota raises full-year net profit forecast, helped by weak yen &nbsp;&nbsp; Nikkei Asia",
+      "query": "\"Toyota Motor\" revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [
+        "guidance"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Toyota Q1 profit dips; announces $6.4 bln buyback, hikes FY outlook - Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZm5oV05tY0hGNDhoYzFoa09HR1VTc1dvbzl4UGo1bGlvZjdjYzJmZkM0ZS1Zb3l2bkp1WjZaNFlVLW4xQXB0dnJyVmVwVjk2bDNlWmQwNmszOEwxanFPLWxQNWY3T3VIVnF4WWtkYTFiYzlhUzVIeDVHSUUxcmpHeVNKZ29NQjlSWWVQd3hGb01EMUIwVU5XZXBCbXRLcDVaN2lqWlJjV3BaeFBnbEJLWA?oc=5",
+      "published": "2026-08-04T07:00:00+00:00",
+      "publisher": "Investing.com",
+      "summary": "Toyota Q1 profit dips; announces $6.4 bln buyback, hikes FY outlook &nbsp;&nbsp; Investing.com",
+      "query": "\"Toyota Motor\" revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "guidance",
+        "product"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Toyota Motor Corporation Revises Consolidated Earnings Forecast for the Fiscal Year Ending March 31, 2027 - marketscreener.com",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQb3RsVlZMS2pzNXV1VW9NZjlyb2h1bjU3UjNOdGVPc19WSWdtMjZ5QnlnbnJLVjRRbG5IeHk4MEs2N2MydU1zLUxfdDg5UDlERHFweFB6VjJTeWcwMkRaUGF6OWhrb1IwTkJiTURCUW92elpiYm9FY0ZpNFBIMkg5ZmxiSWFCdkJRdUhZbnFyTWc2QU1sS0Znd3FfblRxMnJud0FuR05HUFcxWE9uLWRGWjkwVnBKWXNQNm5nOWlqTk52VmJuYkRtOEpORXEyTDQzVV9NZW5CUGFuZk5qZnVkYkplbFNSMmc?oc=5",
+      "published": "2026-08-04T07:00:00+00:00",
+      "publisher": "marketscreener.com",
+      "summary": "Toyota Motor Corporation Revises Consolidated Earnings Forecast for the Fiscal Year Ending March 31, 2027 &nbsp;&nbsp; marketscreener.com",
+      "query": "\"Toyota Motor\" revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "guidance"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Wall Street Turns Bullish on Joby Aviation’s Long-Term Growth. Here’s The New Price Target - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPeEpYOE1fLXJ4ek9pdlVCV2p4MUQwRk5kWGdySlZtbXNyNXFGa1A2cUprbjRYQ1h5ZVdFVjlvc1h6Q195RlZpNFFfaTlhNEhaWWtOVEhsVkNlbW50cjF6emlNdUJhZXd4VExWY0FETWM5M2VzZTVjUkN5Tkdfa1VrVmM3cnFscTRyVGxuT1A3OHpQMllZYkVYelZ6Zw?oc=5",
+      "published": "2026-08-03T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Wall Street Turns Bullish on Joby Aviation’s Long-Term Growth. Here’s The New Price Target &nbsp;&nbsp; Yahoo Finance",
+      "query": "7203.T earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "analyst"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "From Top Market Cap to Halved in One Month: Kioxia's Plunge Exposes the Enduring Fate of the Memory Industry in the AI Era - finance.biggo.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9iTVU0bXM4TGxKTW5Yelc4d0xsM1hjRzNCMDNoalU4OG1GZXRrbDNTZHBxV1ZIVDJuSk9KZDAyRElzZTdLbU00LUVkdEM4NzJxLTVoSEZFWXlPX2N1UGZIdTJodW5xQ0MzOGdYQzlxd211N2lUWVE?oc=5",
+      "published": "2026-08-01T07:00:00+00:00",
+      "publisher": "finance.biggo.com",
+      "summary": "From Top Market Cap to Halved in One Month: Kioxia's Plunge Exposes the Enduring Fate of the Memory Industry in the AI Era &nbsp;&nbsp; finance.biggo.com",
+      "query": "7203.T lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "negative"
+    },
+    {
+      "title": "Toyota Motor Corporation (TM) Stock Sinks As Market Gains: What You Should Know - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNeUEweFpPRjdwMlVsUjhfakdCQ0tsZDlPNjFvenJwMkUyR3ExWU1mVV9ZWjdnMW9jRDlMMnlBWFdmNUMyTUNNTU1TYTFzRzh2VkZGYTlTWUFKVGJhNTYyT3hZbDFnSjBTaFdTdXZTOTRJaTRmRXVpMlRQNDNLRUc1UUljaFlGN3AxTlVMRGxwU1hwUVFlUmVpZEVtZHRadlE?oc=5",
+      "published": "2026-07-31T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Toyota Motor Corporation (TM) Stock Sinks As Market Gains: What You Should Know &nbsp;&nbsp; Yahoo Finance",
+      "query": "7203.T stock",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Tesla China sale looks best on paper - breakingviews.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNX3ZFMk9STVVUak1OaVZfOE1WR2h5MUlGOWszcmQwWDJlcF9oX2pnVnpkaUlMeHNiVVN4SldaOWhxMVkzU1pjYmUzVzVhSTZFMnVjZi1fUnZQREVTMXpIZHpfSjFpRGdrSkxwMDhsOTNjZE1wcmtCNDNDWS1NOHhyYjBHNW1wRkU0NkJNVXRSbG9iSnR6d1o0VUZ2d3BZZw?oc=5",
+      "published": "2026-07-31T07:00:00+00:00",
+      "publisher": "breakingviews.com",
+      "summary": "Tesla China sale looks best on paper &nbsp;&nbsp; breakingviews.com",
+      "query": "7203.T revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "The major earthquake in Japan this week is disrupting the auto supply chain (TM:NYSE) - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRVBjYTdkUnN6WmM5Y3l4X2szaktDSnI2NTYtTXFvd215MzNpV3pkWU9iRDFtRjRtVUg3dEZJN3lWRnVCRS1iajFtUWZfSGpXR2Q1X1NIdFhrYmFfNGZYQ21pdnNTXzFpRDhvR0lJMnhzT2lrejBiUzhxZ1pQM3VSY290a1JCSWRnR191dEg4T0w2SkJzRWtDVVNOdEl6c1ZfdW93MC1PNjlvZEt0ejJzM3dybw?oc=5",
+      "published": "2026-07-31T07:00:00+00:00",
+      "publisher": "Seeking Alpha",
+      "summary": "The major earthquake in Japan this week is disrupting the auto supply chain (TM:NYSE) &nbsp;&nbsp; Seeking Alpha",
+      "query": "\"Toyota Motor\" capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Weak Yen Offers Toyota an Earnings Respite From Tariffs, War - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbXpPSU5QT3MzM3N2S0Zid1F4VG9mWG52QjVUUG1SS2lCQVRtRjVveFpxeFdFYklBdXRXbnBaV0F3bHEtZlRZU1JHbnNXMnRHR0Y5eXFjVFl4d0FMZlhnSWlTR3k1bmEtc3h6R1RzcDd5aWhaWmtTNnZUNDhtZnRhNENYREVSNDZ5TVNyTnIxMlV1SEotZ2pVU2txMDZJMmk4R2l6b1NEaGI3ckxadDBn?oc=5",
+      "published": "2026-07-30T07:00:00+00:00",
+      "publisher": "Bloomberg.com",
+      "summary": "Weak Yen Offers Toyota an Earnings Respite From Tariffs, War &nbsp;&nbsp; Bloomberg.com",
+      "query": "\"Toyota Motor\" earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "regulatory",
+        "macro"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Pickup truck profits highlight growing divide among global automakers - The Detroit News",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNN290cjBmajY5OHNodWFYN1dXOWszX2JtZkwyM1FVZTIwYmNoRWFXQWMxYklaeUZyZEx4VDZMb0JVazJWNi1na01oRWdWNUhlb252UElkTnpIZEJaanBwVU9uSmVCSnk3bGtLVF9kY2VCZFc3VXZ3bHlRS1ZSUTFOaGJaWnJFbkpXT3VCVDB6eXdNaW1nWHB5Rzl6OGVHdko1bGhOakdIcEFLa3NFcUNhdHk1QWZQdHk1OHNCR2FrMTdlMVJFamxIeWpvRXE4RXprLWJBaXJNdzNfVDFlU1JUeGFCcU0?oc=5",
+      "published": "2026-07-30T07:00:00+00:00",
+      "publisher": "The Detroit News",
+      "summary": "Pickup truck profits highlight growing divide among global automakers &nbsp;&nbsp; The Detroit News",
+      "query": "7203.T revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Toyota supplier Denso posts drop in first-quarter profit - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNXzB3R08zdWRNR1Y1RTg1TGxrMlhQeVFTQUlyNFJlQTVCeVY3dVZTRFVKSWMtN1g4dVlZWVZVTUFWa0Y4UmhtVkFtbzduU1pEQnVZNEl1ajNHMXdRdC14THQ3RkJuZllRZE1faE95Slkwc3dQaGEyZlNBcWtsZ3ZQQUloYmZ0Nk1qS0E3NkhnN2M4enpHZVlHQjctWlBfVkE3ZE82eHMzZjJhUlFq?oc=5",
+      "published": "2026-07-30T07:00:00+00:00",
+      "publisher": "Reuters",
+      "summary": "Toyota supplier Denso posts drop in first-quarter profit &nbsp;&nbsp; Reuters",
+      "query": "\"Toyota Motor\" revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Toyota (TSE:7203) Joins Cellcentric With Daimler Truck And Volvo Group - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRmFlTzQwenNHanV2V25nbWE4QmRPa2NMSl9Ka2V2eHlrbDRkRzRIbG9VYXo1X0pjejgtcV81aWEtN1VOaE41UlBGSTkyTVRYUnNwd0M1M1B1Z05NRWZxOUpuQmxvOGRzYVVXbnFKNkZNd2NxZXJ5MFRTZE1LTHhIWDJfOWJCdGk5eVhVMGd3Zm5kS1g5TDY1aW1oNmhjU0k?oc=5",
+      "published": "2026-07-30T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Toyota (TSE:7203) Joins Cellcentric With Daimler Truck And Volvo Group &nbsp;&nbsp; Yahoo Finance",
+      "query": "7203.T acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Quake rocks auto and chip manufacturing supply chain in Kyushu - Taipei Times",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1pSDNmRFAwS0ZENE1NWGZHM2hwODBUbTE0UlhTSVdwSUtDYWRJZWdPNmNWQU9vOHFjcUdTRWFNZ1VSN3VOcl9SOHV4cWRJMkZ5WEtLLWgybFlzX0dPOFhKamxGLWR3Z0hmdGhKR0lhQlp5WXhRZnc?oc=5",
+      "published": "2026-07-30T07:00:00+00:00",
+      "publisher": "Taipei Times",
+      "summary": "Quake rocks auto and chip manufacturing supply chain in Kyushu &nbsp;&nbsp; Taipei Times",
+      "query": "\"Toyota Motor\" capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Toyota Runs Out Of Cars - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTzR3NWpKaWpGYWlYTTB1NjdqS3VBbGpwMi1pWjI1LUR5VnR2U29KNWZtT1g3OGlIYU55eEk4MG1tazI3V1RNc3RheWNJQ29iWGc2dnNEemYxeHZyaHZ1Y1FhUzlYNlZmVTEwdzZIWEo2VEFjMUd3cXlhSTBzTmlEWERfZDBlNURH?oc=5",
+      "published": "2026-07-29T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Toyota Runs Out Of Cars &nbsp;&nbsp; Yahoo Finance",
+      "query": "7203.T competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Japan earthquake rocks auto and chip manufacturing supply chain in Kyushu - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQbjJJbjA0ZzJwUXNobTlsLU43TDRMY1dVMWs0em9weWwtTml0WlpoU3kxVEM4eEhHdktNeGdjeDRQNDBLdzc4TnpuUlVCSXVCdjhoSzRadkNST2hqWlI5RWg4eU9PaS0zWnNEVE54UHotUFJzV2w4V3dyd2VjNUpsMHNIQmpLVnBJelE0eVVvQS1ueHRiMVdJWXhNZmp3djNPMDB1S0lGa3ZkeFRtM0YzY3V5bml1RU5KRzJMZFVPWXA3aDZEMWhKUWpiaHhUZw?oc=5",
+      "published": "2026-07-29T07:00:00+00:00",
+      "publisher": "Reuters",
+      "summary": "Japan earthquake rocks auto and chip manufacturing supply chain in Kyushu &nbsp;&nbsp; Reuters",
+      "query": "7203.T capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Toyota’s New Partnership Deepens Its Fuel-Cell Ambitions, Stock Gains - Benzinga",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQSDNOcWMwVjE3ZDdWSDc3ZDBPMmNUWExwRkZRaWxQOUtKRzV2RldBZk9SU21UX2RmRVcwQkx0NDhQUVpUd3ltcWhOUVI3SHNjUGoxS1BsZHc2T0VMdTM5U0YzY21DZjNxbWVNWHdnV2JkalduVHNRdklBM0RteEV1T0tBWTlRaEk1d2hYMEJyLU8xbkFacFdNQjkxbW5PeDhWc2E2bGZzajZNNWRWcUdWcW94cXRPYjc0MTlSNm8xcXZfemt6TkY0?oc=5",
+      "published": "2026-07-27T07:00:00+00:00",
+      "publisher": "Benzinga",
+      "summary": "Toyota’s New Partnership Deepens Its Fuel-Cell Ambitions, Stock Gains &nbsp;&nbsp; Benzinga",
+      "query": "\"Toyota Motor\" acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "positive"
+    },
+    {
+      "title": "Toyota Chairman Akio Toyoda's \"The Enemy is Carbon\" Warning from Five Years Ago Proves Prescient as All-Round Strategy Keeps Toyota World's Top Seller for Sixth Consecutive Year - finance.biggo.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1EMTNKSGJyOEEyX1RleEJqX05RQ3NmNTBCVllxcjQ2NDA4T3FNd1lUbkJPUG9IR0RiTnBjRW9OLTBkRzhMOTZYOVpadjJRbnJOU21Sc2E3NkgzUFZkSWMtNUdvNnVRQ0RJUmxlSWdlMms0Y1QyU0E?oc=5",
+      "published": "2026-07-26T07:00:00+00:00",
+      "publisher": "finance.biggo.com",
+      "summary": "Toyota Chairman Akio Toyoda's \"The Enemy is Carbon\" Warning from Five Years Ago Proves Prescient as All-Round Strategy Keeps Toyota World's Top Seller for Sixth Consecutive Year &nbsp;&nbsp; finance.biggo.com",
+      "query": "7203.T capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "OpenAI: The $1 Trillion 'Monster' Racing Toward an IPO, Exposing Massive Losses and a Non-Profit Dilemma - finance.biggo.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9YNWRfT29YYlJWQXBVUkVkWWVleUxBdHNKcUpCczJIMkxtUFZMcEUzbFpyUnpES2ttanBlT2gtNVJOY1RnbjU3THdfa3VXQ1paYjY5a3ZMOXExaEl5VmVBMl9WNWNrREhXRjZOdUtHS0RJSWFaOGc?oc=5",
+      "published": "2026-07-25T07:00:00+00:00",
+      "publisher": "finance.biggo.com",
+      "summary": "OpenAI: The $1 Trillion 'Monster' Racing Toward an IPO, Exposing Massive Losses and a Non-Profit Dilemma &nbsp;&nbsp; finance.biggo.com",
+      "query": "7203.T revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "negative"
+    },
+    {
+      "title": "Toyota Motor (TSE:7203) Faces An Earnings Test As Valuation Views Split - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZnQzemhTcFNjVHBVZVRTWmtib2hPY0hjV05ieUtWSEFwd28tRmx5eU5zZmRSdkx1ejI3QmpPWjUtVklwdWZKdUlVcUNiUzZVd3V5RDZqUkJiWElYZWJ4aVZjak10d2JJS3JZa1ZvdUVFTHViYlVmZWF4a2ViNVlnQjZuN09kaGVFQXBjZTh6NzctX3FoY3pZ?oc=5",
+      "published": "2026-07-24T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Toyota Motor (TSE:7203) Faces An Earnings Test As Valuation Views Split &nbsp;&nbsp; Yahoo Finance",
+      "query": "7203.T revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Toyota and Uber to expand electrified vehicle options for Uber drivers - Newsroom Toyota Europe",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPSnFDNlBvaGdsb1daYklDS0NaOWp1aHZCSUFjS0VUdGtKeFQ2a3FVaHBZRmpCN0UweC1nMGlZdFNDSWFWVW4ybnFuU0ZJVEx3XzVNYWp4VzNtNHlMelk4V2JxSGttd1pBWUR1dDJkVldJTDlocDRXNnpBM0dEajhoTXY1eFdBams5SkxKT09yR2lzY0xqcFhDdHBqU2RuWHBPVHFXTUVuQ1NmZEE4dmV0UU5pcVhXeW55bjRnV1dtcndUa0R5c2c?oc=5",
+      "published": "2026-07-23T07:00:00+00:00",
+      "publisher": "Newsroom Toyota Europe",
+      "summary": "Toyota and Uber to expand electrified vehicle options for Uber drivers &nbsp;&nbsp; Newsroom Toyota Europe",
+      "query": "\"Toyota Motor\" acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "From Smart Cars to Smart Cities: Why Toyota's Expanded AI Partnership Matters for NVIDIA (NVDA) Stock - CarbonCredits.com",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNa2FZZHRmVzBxZkN1WXFGREJoVGJvSHNOZEhYa3JVWmdSUF85c2F1RmdZVXBsQVc0TlVwM3dIdkF6Y0tzcXREVVk4Nk54SnB1Q3pBOVYzWFctNlhSd1UzR2ptSHRIcERhT3gzdHYwcmF4R19FMVZ0LWViSnUtVWloTDdBalMyRnhNVmNzVTh2THBQbmxGRXhZNTBWTXdKTnBCbjlrX2lYckdLcUFjSHN5d0RickRLUVdjRFV5bEtaSkU4dw?oc=5",
+      "published": "2026-07-21T07:00:00+00:00",
+      "publisher": "CarbonCredits.com",
+      "summary": "From Smart Cars to Smart Cities: Why Toyota's Expanded AI Partnership Matters for NVIDIA (NVDA) Stock &nbsp;&nbsp; CarbonCredits.com",
+      "query": "\"Toyota Motor\" acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "positive"
+    },
+    {
+      "title": "Toyota Accused of Discrimination Against Straight Male Employee - Bloomberg Law News",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPczhuQVprbHBnQm1LLWVLQXFjZUpkWV9YclBQWEVSTU8zV0c4VklvX3hTZXhnZmNVM0IxbERjbktoME51UkhfOFo5dUVMaE9DMGRVMlJvcUROWEl0enRUVzFhYUxGVmp0TDZfMl9SS2Y0WWdNZlVya1B0cGhKV2tuSC02MFEydmtGdmJoNGNGXzFNM0M0cTlaNGZtcFM5ZUhPN2lWN21nLTFDSElKUklrZ2xR?oc=5",
+      "published": "2026-07-20T07:00:00+00:00",
+      "publisher": "Bloomberg Law News",
+      "summary": "Toyota Accused of Discrimination Against Straight Male Employee &nbsp;&nbsp; Bloomberg Law News",
+      "query": "\"Toyota Motor\" lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Toyota Expands Partnership With Outdoor Navigation Platform 07/20/2026 - MediaPost",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQlIxcXViNFBCOFcwbHZ4TnJXdEVlWUM1ZXRMUnJUSDJTT2NBTlVqLURORWdEVk9CQk1Nd19NdTFpaFBUUC1ZS3R4SVh1TmtIOG5YTi1jOEJ5WjlKMkVqNjY2Ykx3ZnV4ZXd3aDlsYkNxNlg5WjBKZGtIeHFjdXg3WmxsQ0ZhbWluOWN2d1N1NG5GZnZuUGg5MDlQRTM0UUdIN1pRemJpTmExVDVmSHc?oc=5",
+      "published": "2026-07-20T07:00:00+00:00",
+      "publisher": "MediaPost",
+      "summary": "Toyota Expands Partnership With Outdoor Navigation Platform 07/20/2026 &nbsp;&nbsp; MediaPost",
+      "query": "\"Toyota Motor\" acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "positive"
+    },
+    {
+      "title": "Toyota and Uber partner on EV access for Europe drivers - Automotive World",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTzJvZnlGS2lWUE1uQ0hLUDNqNVZKVWZSVXNmcGI3UERPT28wY3NrazA2WUtEblpYZVo1cXVKVUdCQ0RxemJBN1JyYU4weFl1VUpIQ1BqUFg0aFNLb1BZdWdLNGFWSTd3UUM0WXZOMUp3ZDBEQlNPaTBJeHJoMklPaHRBc0xqNEhyTnVnTUtqcGxLTG16NXNyd3hkOTEyS1hyYVJtVmVBVHdBdw?oc=5",
+      "published": "2026-07-20T07:00:00+00:00",
+      "publisher": "Automotive World",
+      "summary": "Toyota and Uber partner on EV access for Europe drivers &nbsp;&nbsp; Automotive World",
+      "query": "\"Toyota Motor\" acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "\"Can't Do Without Nvidia\" — 40 Japanese Companies Turn Out En Masse to Meet Jensen Huang - finance.biggo.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE92UmhQMVo4RkdWQUZrMzdrV1VrX04wcnlJZi1aWGtiQW9wMmNwbFpUY2RNZjhhSS14ZHFKbUFpVE9SUF9FUm13SGZ3TUhvVTFMeHFFRFR2MFZPQnZCMmVlVzhaQVoxVUo0VW5uY3JGSDVaaDRxZHc?oc=5",
+      "published": "2026-07-19T04:40:37+00:00",
+      "publisher": "finance.biggo.com",
+      "summary": "\"Can't Do Without Nvidia\" — 40 Japanese Companies Turn Out En Masse to Meet Jensen Huang &nbsp;&nbsp; finance.biggo.com",
+      "query": "7203.T acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Toyota (TSE:7203) Faces Privacy Lawsuit As It Speeds Cleaner Energy Shift - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMWtZSU9TQ3U2UDZIdnVSQ0VuZjR1ZFc3N19uY3cxZ0JuY2NxV1Y2SHlkYkJzNEhJLVdFWEEyS1lxbm1rUHg2X2tTTVFFSGlqcXhkeEVBcHp4YkgxQ3FaWndnZXRSUlVNSkdSRUJpa3dVMV81YmJaT1M0SzVTV2NRNzJPYVVZbzB3Y0tFR2w4WkZYOVp3SjZrS2Rn?oc=5",
+      "published": "2026-07-18T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Toyota (TSE:7203) Faces Privacy Lawsuit As It Speeds Cleaner Energy Shift &nbsp;&nbsp; Yahoo Finance",
+      "query": "7203.T lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory"
+      ],
+      "lean": "negative"
+    },
+    {
+      "title": "Toyota Motor Corporation (TM) Sees a More Significant Dip Than Broader Market: Some Facts to Know - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxORnhJRDgtdjJOd2pzN3BWbXpPTVhHMXBVMThmd09DRGpobklTSnoxcG91M3ZLbmgyUmdMazBoa3JhdzR5RUhrRi1tajd1aGt2MV9hUUxoaDAyWU1MRmx3THZKNUM1MVVYWkpSa0FLWlpJNGx3WDhUMmIxZXRUTVhyT1VXREhNMkdJcE9iblo5VUVOYmVHQzZhQ3Njckd4dw?oc=5",
+      "published": "2026-07-17T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Toyota Motor Corporation (TM) Sees a More Significant Dip Than Broader Market: Some Facts to Know &nbsp;&nbsp; Yahoo Finance",
+      "query": "7203.T stock",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Toyota hit with lawsuit alleging it secretly tracked drivers after they rejected website tracking cookies - foxbusiness.com",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQYjk0VVpfN2h0UmJJRWRERkszQTBJV0ZzejNWOGxxeFdQU0RKRGRkY3k3cENzYVBMclNiVjVzTkNBbldOeU8tbFJKNlYzZncxMkg2bjdIbVpuU0NhZkt4bjlWb2NTdG5LR3dRUnhCdVBtNTR2S1dZeG82blRHbjRuZy1MRzJDOW92TVhPQll5OTNIdEkyWEtrMm9Zb1JfNXFTeVRGVHA3YmRxTTJTVlN2UURaUHpwRGhuVXZwY2h4U2lHX0E4LVItNUdhSdIB0AFBVV95cUxQYnh3UUxVazFCMnJrUXRTOTBkTUJUM0xsX0pfMDd2c1M0Q1g2cGhXem1Ia0dQQVp4QmFnT1JlMWxBUDdjZ0F1YUpVZXdEZDNwOVdxSGZSM3oxV3Bfd3VMS0NNV1BiNXl2RWdWME9XNjM0U3EzUmk4RTdKRnVmbmNBeXYzRTBTdUUxMWtFRWxFZEtzRnlOR3QyUWNzVnE1dnlpblVQLTN6V0xxYjlVSHZ0bDdDS09uQ295OHBEOXV4aVBDMmVJWjFRQm9QWGZjTnBV?oc=5",
+      "published": "2026-07-16T07:00:00+00:00",
+      "publisher": "foxbusiness.com",
+      "summary": "Toyota hit with lawsuit alleging it secretly tracked drivers after they rejected website tracking cookies &nbsp;&nbsp; foxbusiness.com",
+      "query": "\"Toyota Motor\" lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory"
+      ],
+      "lean": "negative"
+    },
+    {
+      "title": "Toyota Motor Europe battery electric vehicle sales double in the first half of 2026 - Newsroom Toyota Europe",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdmUzSWU4UXhYbnF5MWI4djYzbllaY1NVbjNhZGhHX01EOEJMWF9HYWtFaVZsRTEzWUpHWGd3bzJaeUJXRjcyamFhVXUzVEh2eTVicnV0RnpwRUxacE10YXNOQk5Yc0JoYUcwZXJ3MjNqU0t3di0yV0lUVThoY1B1bW5UaTZZLV9fTkltejNyTDdPUDBBcEZkd3piMW9IaEpWWVV1c05oRDBmeVQzdkZKXw?oc=5",
+      "published": "2026-07-16T07:00:00+00:00",
+      "publisher": "Newsroom Toyota Europe",
+      "summary": "Toyota Motor Europe battery electric vehicle sales double in the first half of 2026 &nbsp;&nbsp; Newsroom Toyota Europe",
+      "query": "\"Toyota Motor\" competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Nvidia Expands Physical AI Footprint in Japan, Tapping Toyota's Smart City and Factories; IKKA-KY and Japanese Supply Chain to Benefit - finance.biggo.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5MRmZrWnNHYVNmdWRCZkN0Rkg0LUZvWEFJSjRkZGdKYk93VzdpNTZyXzNfdWVwY1ZaTGpTUUQxcm9HUjN6NnN0c2I5ZVBuc1BYaUF6WXdRUFk5UkpZY3pKVDBidklOeWhfSl9GdHFmcjhnNE9zOHc?oc=5",
+      "published": "2026-07-16T07:00:00+00:00",
+      "publisher": "finance.biggo.com",
+      "summary": "Nvidia Expands Physical AI Footprint in Japan, Tapping Toyota's Smart City and Factories; IKKA-KY and Japanese Supply Chain to Benefit &nbsp;&nbsp; finance.biggo.com",
+      "query": "7203.T acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Toyota and NVIDIA Massively Expand Partnership from Autonomous Driving to Smart Cities - finance.biggo.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1WbU5sc3lIUEtoYmFlWkx0SXllNXRmUmhha2xGM0MxQkVnczlZNXV4ZzRhVUtDbFhUalRha1hpcVQ0VGJaaEtLM01LbUo5Q1dMcDJ4SkVRT0xGenpPSXYzWnUycXFjZXA4cUJLNkFnV2Q1UU5UQWc?oc=5",
+      "published": "2026-07-16T07:00:00+00:00",
+      "publisher": "finance.biggo.com",
+      "summary": "Toyota and NVIDIA Massively Expand Partnership from Autonomous Driving to Smart Cities &nbsp;&nbsp; finance.biggo.com",
+      "query": "7203.T acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "positive"
+    },
+    {
+      "title": "Nvidia expands Toyota AI partnership for smart cities and factories - The Japan Times",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZTR3bm1NOWpEZ0d3Mi1GUm5leTBRcEJrQURtX09VLTMwc3Fudm0wVjItc3l4eDdoTkdvR3hoREg4dlBIdWFmTVVpblJ6dkZqTDV1dVZzUHRDc000cmpFRXhxY0NwaWNMWnMyTGtQaUw5d1lnSzJSOFRhZkNENllTclJMM3FhQ2JqM2Qta00tcFZzUQ?oc=5",
+      "published": "2026-07-16T07:00:00+00:00",
+      "publisher": "The Japan Times",
+      "summary": "Nvidia expands Toyota AI partnership for smart cities and factories &nbsp;&nbsp; The Japan Times",
+      "query": "\"Toyota Motor\" acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "positive"
+    },
+    {
+      "title": "Shortsellers take aim at manufacturing in June amid supply chain stress, Hazeltree data shows - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPT1pKZHAwU3dZRXMtUFY4dFNSclBCWVFtanhSeXNXNGtiNnAyQ1pLUEl0a1l6UHJFbU5lVmpYdGVyclJUUWVsTmowblEwcDktMzk3cXFWRjBUMHYzODNjV1hPMTlyOWRCZnFweE5BZVRlMFdyem5iVTl0Qi1HMjNaWUN1cDdTOXh5R0FVWnViTXVZdDBBMWlwYnExVlhWdHNteGliRE82cEFOZE41NlctcHktVmNpVlFhMEJkWE9SMWpFZGs4UkI5SWxEenlZQjY1Y2RkT1B4Y0pCRm5Ta2RJ?oc=5",
+      "published": "2026-07-16T07:00:00+00:00",
+      "publisher": "Reuters",
+      "summary": "Shortsellers take aim at manufacturing in June amid supply chain stress, Hazeltree data shows &nbsp;&nbsp; Reuters",
+      "query": "\"Toyota Motor\" capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Nvidia Expands Toyota AI Partnership for Smart Cities, Factories - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZC1RaVI1UzMyb1dVWVlYek16WEpQWmZJM05zNk0xRnFJTTg1WjZKRTFOZkJSLTFMWTFESlhkck5zQnNqYV9HUnJ6TlBqN2ZnZTNTN05jRTFJNG94WUV5R3pXVkVTV2FHdUVTNFZ6am5qVVNtU2NMSDNMelhfZjFBVlRjcmloRDJ6VUY5MmJkWDItaUtxU3hCMjhDNnRadS1qVXI1V0dZY0xyRlpvT3lwTjNRVnE?oc=5",
+      "published": "2026-07-15T07:00:00+00:00",
+      "publisher": "Bloomberg.com",
+      "summary": "Nvidia Expands Toyota AI Partnership for Smart Cities, Factories &nbsp;&nbsp; Bloomberg.com",
+      "query": "\"Toyota Motor\" acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "positive"
+    },
+    {
+      "title": "Three Price Target Boosts Can't Help Tesla Stock -- Barrons.com - Moomoo",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWVFXT21sX0JteTBTQ2gtZVN2b213R0d6Ny1lbHowRWhCb0VBNjFwUmhaNkQtOFhrdndxNUVuaEwyQ2pKeUhWbVRrMGpmWWZDYU10dF9meGk2eTdPQmdqZ09BRFJNZHoybXZ1ZW5tdGNOSUp3OHE4OERkQ0F5YU9WZFVOMkJJbU5mM1k2SWExblZ2TkFvbm13S3hNNkdNSnBZa0RV?oc=5",
+      "published": "2026-07-14T07:00:00+00:00",
+      "publisher": "Moomoo",
+      "summary": "Three Price Target Boosts Can't Help Tesla Stock -- Barrons.com &nbsp;&nbsp; Moomoo",
+      "query": "\"Toyota Motor\" analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [
+        "analyst"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "USA First Half 2026: Ram Pickup, Toyota Camry impress, Honda CR-V \"real\" #1, market off -2.7% - Best Selling Cars Blog",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOX0NPdENBODBKZXJqQzdjOGsySjBwSldDNWlaNkpXR2YzRzlMQ1g4bTNHV0x2cl8tRm5xNkJPRUs0bW1QQ094Q2JqUllqc3lGVHpQXy1qbnVHYy1NcHBnR1hVTHdYNVZOZUNualE2MFI4S0FpdFhBZTdoX25EbGptbDM3SWNvYm1kdkJlVEYzVmZETXVRZlQxd2Nnb1FuUGtMWjViWUpnbGN1SlUzazlJ?oc=5",
+      "published": "2026-07-14T07:00:00+00:00",
+      "publisher": "Best Selling Cars Blog",
+      "summary": "USA First Half 2026: Ram Pickup, Toyota Camry impress, Honda CR-V \"real\" #1, market off -2.7% &nbsp;&nbsp; Best Selling Cars Blog",
+      "query": "\"Toyota Motor\" competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Toyota (TSE:7203) Stock Looks Above Fair Value While Earnings Sit Below Fair Value - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbUhfMk14a1FsYlVQWkJDUlR6dkYzeVR5LTYwNGVrc2dlY015b3VlR21UdkRLUWREY294c0hBUFhsOE93bklhbXZiX19CaUxKam0wNDFsLWJhdDhmaTBBS3d2R0FBeW5TaFJVRnc5RFRtZmY3OWdTZWlFQm5HSnRXd082d1JnSENTeTdSTEtrV2JTUU1URk9n?oc=5",
+      "published": "2026-07-11T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Toyota (TSE:7203) Stock Looks Above Fair Value While Earnings Sit Below Fair Value &nbsp;&nbsp; Yahoo Finance",
+      "query": "7203.T stock",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Toyota Motor Corporation (TM) Laps the Stock Market: Here's Why - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQX3dyVXNHRlU2bldqcHBoeVJsQUg2Y0I0U2UwX0hfZnBmYUNfWnlHd2c0OWRNNDAwNVJ6Ym9weE5hcG5QVWF2TlktRHcwZXpJVGNtbTFTR2kyaU1uRXg2Q1B2NG9ZVXBzenRMakJOeWFjSFRSbVNZODNNNTRvVTJoSW0xMHZEVWFMME9hNmUzS3VVUGFGSkZSd0VuXzJRZw?oc=5",
+      "published": "2026-07-10T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Toyota Motor Corporation (TM) Laps the Stock Market: Here's Why &nbsp;&nbsp; Yahoo Finance",
+      "query": "7203.T stock",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "What Toyota says is driving sales that may eclipse GM in U.S. in 2026 - Detroit Free Press",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPSW01R1VFVHlzODZuTGVfeWZJSTZTUkdQbnZhdkFfeHlWSWZMbnhKdG54TjRMRGkxUlRUYWp5TmNJalV6RHIwbFBOUmcxNzY4TmNtQ3VZQ1U2bVZzVUZZTWpOZmFGLVZzeUYyWDQ2Y2l6dzBKUTFQMF9oOVdWUm9UdGRiekc1WEwyZGhkMFl3SlpWT3B0Q3VQMzRoMjkzSDJncEpVQng3MTNmSV82a2YzbXhmclhsclVBVmRMQUplRmR2dElRdVctd3pB?oc=5",
+      "published": "2026-07-09T07:00:00+00:00",
+      "publisher": "Detroit Free Press",
+      "summary": "What Toyota says is driving sales that may eclipse GM in U.S. in 2026 &nbsp;&nbsp; Detroit Free Press",
+      "query": "\"Toyota Motor\" competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Toyota’s Best-Selling Truck Is Headed Back To America - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOS0xualNzUUlENWdwSkdIZXo0cVRlbWg0dnVqblNaQmkyQ0gwVENXMlo0VXBRV0Z2Q3JJNXFTcFRlVFBxa1pZY0E4aUZVNjFublV4UWJBY2xjQThMeEZKbW54ZkNjeU5keEg1M1NoRzAyLUEwTUNFR3lCRG44ZnhVZno1TWRMTWJYVkszdmhsYzlQQW4tOERtMnlqYi1iUQ?oc=5",
+      "published": "2026-07-07T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Toyota’s Best-Selling Truck Is Headed Back To America &nbsp;&nbsp; Yahoo Finance",
+      "query": "7203.T capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "EV transition challenges auto supply chain resilience, Moody’s says - WardsAuto",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPaTgxRjRHaG0zNElpZElzWm1OMDZtbWgwSzMySlBkc2RaeGtmWV85Y0xuYU1YMm9KQ1hPM2U0eE9Qcl9oRDRLajBpYUIzYk9ldFJUdWRkU2phRlRESUxOVC02cG5qREo1dGFXX0xLN3pYRmhVNEk3SHJMVTA5MS15MXMwNUlBYkk4Y3NNNHVyS29wLW93SW0xMEVwRENqU2g2UXZodUhnQQ?oc=5",
+      "published": "2026-07-07T07:00:00+00:00",
+      "publisher": "WardsAuto",
+      "summary": "EV transition challenges auto supply chain resilience, Moody’s says &nbsp;&nbsp; WardsAuto",
+      "query": "\"Toyota Motor\" capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Nikkei 225 Plunges 889 Yen as Samsung Rout Triggers Selloff in AI, Semiconductor Stocks - finance.biggo.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9YTm0zTEY5OU43Tjl0c05mcHFwdEw3bjhtdFh3bjdKUnRSdXA0N2o1SEREUktOdmM1S0tEV2tSTl9ZY2pPcV9ka2NhaXJtSjhXZWowa1ZNZ3FoV0RoaHJFbmNuQkVDaGZ5emZUZWpOSnp0WUY4WkE?oc=5",
+      "published": "2026-07-06T07:00:00+00:00",
+      "publisher": "finance.biggo.com",
+      "summary": "Nikkei 225 Plunges 889 Yen as Samsung Rout Triggers Selloff in AI, Semiconductor Stocks &nbsp;&nbsp; finance.biggo.com",
+      "query": "7203.T earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "negative"
+    },
+    {
+      "title": "Kioxia Overtakes Toyota as Japan's Most Valuable Firm - JAPAN Forward",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5teHV0WjhnTlRvazFseldEUF9VM3FQN2xERkI2VktwQlZLcW41c2JHZnJKUmpvRFV5bm1LNnVlSUZfYTdOdkxXQnVLdFFZNmNfc3h2RlRacXVBODRqVV9pS096ZmdYSXZpRzM4UVlJYURRU0huX2pyRg?oc=5",
+      "published": "2026-07-06T07:00:00+00:00",
+      "publisher": "JAPAN Forward",
+      "summary": "Kioxia Overtakes Toyota as Japan's Most Valuable Firm &nbsp;&nbsp; JAPAN Forward",
+      "query": "\"Toyota Motor\" competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Toyota Announces $3.6B Expansion, 2,000 New Jobs at its San Antonio Plant - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSHFiT3FXczVLUmpzaDByVUZLUnZETHhIMGwzYWplZG55QV9SLTgzRFZWbE13N1BIelBnQjV0elI2STZRLVg0Uko0eENobUh6eHl2R25JMjA3aTY3Y3YzSHNLZjkta2g5UGFCelIwYlhlSDExWlpTU3NOaXJUZDExZjRIcHAxclVEbXhFMEw1VXFBaFRDZExlWQ?oc=5",
+      "published": "2026-07-06T07:00:00+00:00",
+      "publisher": "Financial Times",
+      "summary": "Toyota Announces $3.6B Expansion, 2,000 New Jobs at its San Antonio Plant &nbsp;&nbsp; Financial Times",
+      "query": "\"Toyota Motor\" acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "product",
+        "capacity"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Joby And Toyota Deepen Air Taxi Partnership With New Manufacturing JV - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZUdveGQzbFRzME9uRmdiUGFFMFAyay1iWkhQa0tzQTZxNUdTbDFfdG1XVE54eGstS1Frdk50SmtRMmxVWGpvalp2RDBPQWtxZGE1ZjJpUmw4eS16WlRobVd4UXlZakI4cVdfaGd3RE5QbEtzZXpwcGFBOTZTNXJ6WURuVkZjX3k0cFFqTHp6WmxiUQ?oc=5",
+      "published": "2026-07-03T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Joby And Toyota Deepen Air Taxi Partnership With New Manufacturing JV &nbsp;&nbsp; Yahoo Finance",
+      "query": "7203.T acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "positive"
+    },
+    {
+      "title": "Toyota Motor Corporation (TM) Stock Moves 2.91%: What You Should Know - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWEtoNTNnbllScXBPVWpKWXZxdDBLZjJUU2Q4UUlXVlZBeldwMXBFWmdzMUpLNUVjcGNzV3Jfbmk4ZExCZ3lNYm4yY0tUc01rb3dZdG5oZWZTRkZ1QTJkQlFFN1c5cTdaQjJhbkUzLTU5WUJNTmZIZklvNU0tYW5aUEFQcHhWWE9qYlNkaVdibWY5QmpaZm9jY09UZC1MaGs?oc=5",
+      "published": "2026-07-02T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Toyota Motor Corporation (TM) Stock Moves 2.91%: What You Should Know &nbsp;&nbsp; Yahoo Finance",
+      "query": "7203.T stock",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Is It Worth Investing in Toyota Motor (TM) Based on Wall Street's Bullish Views? - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPV3RlMVVDamM3M2x0b2ZXbmluc2FQZi12anF0bmNrcF80RUxXTWxSSkxNdVlHWF8xRzk5Y2FBYURDNmdwOHA0MHRzRFZkRmpHaUZLLXk5cEdqaW16SDlLQ2ExRHVJR0hUZW1BMDFaS2psVlc2aUdHT0l4TlZJSnp0ZTBFTU10N24zY0J2c0VFWlFnU2hqSjlMWEVYelY?oc=5",
+      "published": "2026-07-01T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Is It Worth Investing in Toyota Motor (TM) Based on Wall Street's Bullish Views? &nbsp;&nbsp; Yahoo Finance",
+      "query": "\"Toyota Motor\" analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Automakers report mixed U.S. sales results as hybrid vehicles drive market - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPWUxWSl9BZWlJY0VTQzFzXzBuSGF1eExuQ1Y4SnBzYXNPdDlwcTQyUFlOSFNZa0IySDlGXy1MMjdMcmItS2NRV2xJQVVCRVBzOGowblpvZGdGbnBXUDNrWUR5TkNfbnFncnQ4QnRUOGY3S0E0ZmdnbDhVblRGWjc3Z3pCZThBZ9IBiwFBVV95cUxOREJUb0JIbWtYR2F3SF9wYjlFbTFuS0ZzaFVBZko3OGVIUjg4LUxpSlF0NzQ2dGJOaTlONE5qSzRZbXI1R3Btb1pHRGYzbzJMd3VBZjRERnU4QjBsYTVZbWJmMjZOeWVMNWdtZE9FTmg3R3ppWXN4Wmw3WFVYR2R1QXo1bTFDVnZsdlVz?oc=5",
+      "published": "2026-07-01T07:00:00+00:00",
+      "publisher": "CNBC",
+      "summary": "Automakers report mixed U.S. sales results as hybrid vehicles drive market &nbsp;&nbsp; CNBC",
+      "query": "\"Toyota Motor\" competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Joby Aviation's Stock Is Rising After Teaming Up With Toyota For a New Manufacturing Venture - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRE5VUjU5dVB4eU9maGhtTEhldF82ajE2MWhpUzctWnlaMDJPV3VZTFVTWFl6N2RscTFZSUZuWEYtdFNuUmpnbUlrS0JPZGtsemI5RmMyRVFwZlVITWRmZFJrd08tSGZIV2dNWHIzR0tpUkRIWkttRm1OX3Z1VFRmOEV3X2Yyc29udC1wb3Q0anFvcHZ1dWkxR2dpM1k3blZfR2c?oc=5",
+      "published": "2026-07-01T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Joby Aviation's Stock Is Rising After Teaming Up With Toyota For a New Manufacturing Venture &nbsp;&nbsp; Yahoo Finance",
+      "query": "7203.T acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Flying Cars? Not Yet. Flying Taxis? Toyota Thinks So - Autoweek",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBuU0xnRGxjOXY3QmV4THJHaWp0cTJiWEhVajRra2kweWVtSVc1TDJ6aWpUYnNtaUszM0xqUFNLa3dfT1pNWUFuVG56UnJzNWJ4OVdWSEVHdG80VXo4cTF1OXpVVTNDc1AwTDd4Z3VRUkVoZHFz?oc=5",
+      "published": "2026-07-01T07:00:00+00:00",
+      "publisher": "Autoweek",
+      "summary": "Flying Cars? Not Yet. Flying Taxis? Toyota Thinks So &nbsp;&nbsp; Autoweek",
+      "query": "\"Toyota Motor\" acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Joby Aviation shares gain after forming manufacturing joint venture with Toyota (JOBY) - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZ0Y4WllaUFhELWMzaVk1VDU1STVSMGFRX2pKeFYxNVZwNWxCRWZGaVI2NWtvQ09xdnFtRGdBOGdFN2llNVNhYW9aTldVaFJoVW9ndXBXdlJmeXpjMzVlTXVVNkZmSks2RkdGSUVIMXBwdFY1UUY4Z0xFelNONEFpUEpUdGxhQUxhRFBRdVpNZ2V1T1h1WHlTQlZEWEYtYUk?oc=5",
+      "published": "2026-06-30T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Joby Aviation shares gain after forming manufacturing joint venture with Toyota (JOBY) &nbsp;&nbsp; Yahoo Finance",
+      "query": "7203.T acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Joby Aviation and Toyota Motor Corporation Launch Initial Phase of a Strategic Manufacturing Alliance to Realize Air Mobility for All - Joby Aviation",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOZ1Jpb01QeEtQZ2xVVGRaVEsyYTBPQnFzSXNoSEhBWS1jZDFDazdVSTNEQ1pHTUlPUEVEcFNxeFRZVHlLaFEzQ0xFcUxyaW1iaExWc2s5RnZ3TTdoaVBKaFZBZzV6bmFXNm0wVXV0WER4WDZtSWJHWk9OQ1VRb2xCY3NlcW1STDIyZjREaHBmYWN4VXc2VlB3a0xUaXJhcTZwTWZtbzBMR0RJQnhaQ1A4N2lpSWpSRDFmbHlMWTVrLTJ1NFEtX005c1BPSlBULU9NbEJMSXJ5d04wTjBtdWpfenlYeEh6Sk1GeTNsOW8xSmlqWnhla2xlTFpuVQ?oc=5",
+      "published": "2026-06-30T07:00:00+00:00",
+      "publisher": "Joby Aviation",
+      "summary": "Joby Aviation and Toyota Motor Corporation Launch Initial Phase of a Strategic Manufacturing Alliance to Realize Air Mobility for All &nbsp;&nbsp; Joby Aviation",
+      "query": "\"Toyota Motor\" acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "product"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Santa Cruz aviation startup taps Toyota's production expertise for commercial eVTOL rollout - The Business Journals",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbnlhWXlBRmVidnJzUEQtcFpRalV4NXR6MVd5eTFCU3VLMHBuRXdBSUQ5ZTNrTXd2YXdKT21vV3d4VFZhTnlxWmFfLUJJZ19CWEVmandkb0NuakhuancxOHhzMlRDR2MwcnBEU0prcUh5SUVWX056WFZ5VHc1Yi0tMmZETWFxdTQ1Y0c1ZU9aZkxIYlk?oc=5",
+      "published": "2026-06-30T07:00:00+00:00",
+      "publisher": "The Business Journals",
+      "summary": "Santa Cruz aviation startup taps Toyota's production expertise for commercial eVTOL rollout &nbsp;&nbsp; The Business Journals",
+      "query": "\"Toyota Motor\" acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Two Toyota supply chain executives take on new responsibilities - Automotive Logistics",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQa1kzanJFR1VPdno4ZGg4MjF4R0I0WXdoaGJRSV9HeUw1ZGRFMWhDTDdGUnd6RWFELVNlNUQ2czROYmJURG5hNDNfVnpmR0xFdldZZUk4N3BHXzhITGdiQ0R6Tlc1Z0xwa0VGaW9hVm1Oa0tISFFfenBMUWQxR0xfZHBDNlA2YTZKRm9KZGdNb1czYkhTNlUtMlpKY2YtX214eHUwU2hUZ0YyeTJ3eHZNNk1OMFc0Ul9jN0VxdXRrVFVPZ0JpbVFnZ1hUWE5EXy1UVXpOcUtGWHBsZDRNZF9TdXZZajdadnlKLVdjaTEtaFZ0TXMtTTlIYkdn?oc=5",
+      "published": "2026-06-30T07:00:00+00:00",
+      "publisher": "Automotive Logistics",
+      "summary": "Two Toyota supply chain executives take on new responsibilities &nbsp;&nbsp; Automotive Logistics",
+      "query": "\"Toyota Motor\" capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Toyota North America adjusts supply chain, manufacturing leadership - Supply Chain Dive",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSHBqS1BMZ3lqYXV0Z19RTnIteXVralkxeWF1QnptNGVQYWMtNGg4TlVDcDJIZnNLOXBmUDctZEVINGNEaFJTdHhkcERxOUxraUNiTmJwblpoRFBjai0tNy1TMDlBY3gxa0cxNmEzWEFzZGtTVGxvOTRDQVNxUlhxaWZmWmoyOWJVR2NWZHQ5TFRpb1AzTkgwNjE2SGJFLWt3Nm8wOU9XcjZvenlTT3pYZg?oc=5",
+      "published": "2026-06-29T07:00:00+00:00",
+      "publisher": "Supply Chain Dive",
+      "summary": "Toyota North America adjusts supply chain, manufacturing leadership &nbsp;&nbsp; Supply Chain Dive",
+      "query": "\"Toyota Motor\" capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Toyota sales fall for fourth month in May as declines in China, US and Middle East weigh - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxObHN4ckJqYlpoVlZ0dHRKX2RybkZtMUloV3ZTWUlLcUlsUEIwMHVIYUczYndYRWRkZHJ4WE5fWnNxcG5wTzRJekR5OVJnei1WT0N4VTZVS2U3RTd4SVZWbkFjZXZONlFub2dnNXhHdVJxVmFTMUZ1NXVmdVdQRGRVMjFoOUxRS1h2bnJIUWRRdFZCbWpfaGNVX2ZjeE9pNHBSemhNV2xBLWVZdExyanlXMWw2dDNHbHc4QncycXlRQUpZdGRCTUtsZ2NDLXkwMk52MEE?oc=5",
+      "published": "2026-06-28T07:00:00+00:00",
+      "publisher": "Reuters",
+      "summary": "Toyota sales fall for fourth month in May as declines in China, US and Middle East weigh &nbsp;&nbsp; Reuters",
+      "query": "7203.T capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Why the Market Dipped But Toyota Motor Corporation (TM) Gained Today - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNOGpsY3ZQYzlpb25NbjV2MGU4bnFJRWdITnhFUzlZVEV0aHZkSC1ZdnVWaWdZb0p6cXdUY1BLTVQyYm9LbEFWaGF2SnlmS3lPaWdEajRiTXp5cUI1VWp6WFRlTUxIbVY3S01FbDFodEdaV1dSSWdNZDhhcUpUaW1qUnJ5dDBYTTZ5UHpXaS02YXBaMkxUU2ppUmV1RQ?oc=5",
+      "published": "2026-06-26T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Why the Market Dipped But Toyota Motor Corporation (TM) Gained Today &nbsp;&nbsp; Yahoo Finance",
+      "query": "7203.T revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Toyota gains on General Motors in new U.S. sales forecast: 'GM may be looking over their shoulder' - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBQaHowYWllOVVVVldrVFZGYUFZNUUwU2lDTjNIZWxYWkc1WWxWRmUybHVKZlhrTDdINFBCSmo0b3hCNkdoWDRER0Q1amd3TEhRVjZpTzREVzN4bmFYVW5POVdZcnpBQdIBa0FVX3lxTE9vRW9ib3N2X0E4SmZlYzdhbGUxX09RaWpSaG4xR3pSdFVMRHVQc1h0aFZfS2ZlT2c2NVdhZlE2cE0tbmx0NW9CaGptMnBIYUFVZGFYbXNJMHdaNV9SMDVabklPYWhNQ0xuLWxF?oc=5",
+      "published": "2026-06-24T07:00:00+00:00",
+      "publisher": "CNBC",
+      "summary": "Toyota gains on General Motors in new U.S. sales forecast: 'GM may be looking over their shoulder' &nbsp;&nbsp; CNBC",
+      "query": "\"Toyota Motor\" revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [
+        "guidance"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Toyota Threatens GM’s Sales Crown as US Hybrid Demand Surges - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONmd0bTNic0k0V1NWRFVtU0FXUWtRdVFrY3NEdTRuRVpuTWFGbFBHX1o1bFNQWGJvelNibjItQndBZ24xV0ZfSGN2OXR1Z2lWWXctQzUtTFBoUWlCTy1YSE1QODkxdzg2UU92ZlF5bmFkOF96eUwwRGRIQVQ3OG1hQVZCajRFTjhYM2hDRmdlaHNMZGg0elpfcl9DcTF3dUtyN1hmUHFZTE5wZXVkVkhnUA?oc=5",
+      "published": "2026-06-24T07:00:00+00:00",
+      "publisher": "Bloomberg.com",
+      "summary": "Toyota Threatens GM’s Sales Crown as US Hybrid Demand Surges &nbsp;&nbsp; Bloomberg.com",
+      "query": "\"Toyota Motor\" competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [
+        "demand"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Toyota Threatens GM’s Sales Crown as Hybrid Demand Surges - Transport Topics",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9MM0RVQklEbDNfR1Z1Tnhwc3RHWVFqZVBxZVJ6d3B6U2cxZzBWOUV5UkFYOTJVSXBidHNTZEhLVXVncHoxSWp1VzhvMnZ2Y3piNDcwdWJiTlU0cHlBQ1BWcHFFcVE5dnpkUzFBXw?oc=5",
+      "published": "2026-06-24T07:00:00+00:00",
+      "publisher": "Transport Topics",
+      "summary": "Toyota Threatens GM’s Sales Crown as Hybrid Demand Surges &nbsp;&nbsp; Transport Topics",
+      "query": "\"Toyota Motor\" competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [
+        "demand"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Steep Price Slide For Toyota Motor Shares A Buying Opportunity For The Long Term (NYSE:TM) - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNXZyR2w4ZTQ2bE1xWkc3UElLb1BNajhDdml5SF9MT25rZVRpMjB6V09CSTB1RGROanZFNVV6ZEpBUzloWVd5NlNUbkRmcE5yRW55blRWN1ZzZkg4a2l2TWVXUUVjZk5rYkY3Yk5vdGNzSFZjRm9FSkg0eFp1UWxsRHg3aWhsaEZ2d1ZYTzNSWFNEd2FSb1VXOTZpNER0aWxKWmZETGphSGstc3pySnloRWp1MVFMTl9Db2ltNUl3?oc=5",
+      "published": "2026-06-23T07:00:00+00:00",
+      "publisher": "Seeking Alpha",
+      "summary": "Steep Price Slide For Toyota Motor Shares A Buying Opportunity For The Long Term (NYSE:TM) &nbsp;&nbsp; Seeking Alpha",
+      "query": "\"Toyota Motor\" stock",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "A Humble 3-Wheel Electric Vehicle Lands Toyota in Federal Court - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNa0d4WjhFX293RlNLWXZuajJabG53c1E1VjR3QWducmZzN29aVVBjYjQzN3FLN0o5QXpGdzVFNnRzeWZ3MGZab21WOFF2NkowWkJWMGVIWXZMbHpsbi1Ea3ZRR0NHajgzdGl6a292a3V2NFlBTF9aT1YtRW5KTG5aczQ1cnRRLU9vSUZMQUhoR1JDUQ?oc=5",
+      "published": "2026-06-20T07:00:00+00:00",
+      "publisher": "The New York Times",
+      "summary": "A Humble 3-Wheel Electric Vehicle Lands Toyota in Federal Court &nbsp;&nbsp; The New York Times",
+      "query": "\"Toyota Motor\" lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "macro"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Stephen Brennan, David Fernandes Among Toyota Executives Taking New Leadership Roles in Manufacturing and Supply Chain Operations - citybiz.co",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxObXZCUDU5SER5eTdROVpHNG1ZdUF6em5IZ1Rna0dDYkJQdEpiTll4MnFuRlZXVHRVb0pBdHh6MTFhUU5GVVNzS3ZXekNXWkROUk92RmFTclRxY19LOTh6X3dfS0g3OUwwWTkzSkk1SGo1VmFSSjNLSXdCYlRWdkpIMzBDa0Z5UDlaM1FlZGJjeDBpc2hrMF9fNE05aDJwamdnWDV5TnA1SW1YZGJuZjRfTGlGWG5VWHJUMm5Ma1h2NUZfeUF5QXRNMV9YUTVFeVdJQmN3UWk2bTlWWU5mYnlURDh5R04yeVhQZ2UyUWxaaWJzZHRBYUQ5bm1YUQ?oc=5",
+      "published": "2026-06-19T07:00:00+00:00",
+      "publisher": "citybiz.co",
+      "summary": "Stephen Brennan, David Fernandes Among Toyota Executives Taking New Leadership Roles in Manufacturing and Supply Chain Operations &nbsp;&nbsp; citybiz.co",
+      "query": "\"Toyota Motor\" capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Toyota Announces Executive Changes - PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSDNnY3B0cXNiTE5PMXk1M1FscGJHLVZtTnZvTEhMUjZOZmhib2tnMWdBYzJheEk0aDRWNDRIZF9MWkY4YUFtcnVLcXUxUzZCdlJud3d3SzZzS3duaC1paGpCcTV0VXMyQVFSZFRpVWNGYXVPd25iaDdBZ1prZlpWX2tRZW1UX0I5Z3ZaMWRmSV9vWUhT?oc=5",
+      "published": "2026-06-19T07:00:00+00:00",
+      "publisher": "PR Newswire",
+      "summary": "Toyota Announces Executive Changes &nbsp;&nbsp; PR Newswire",
+      "query": "\"Toyota Motor\" capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "product"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Redefining Toyota North America’s Strategic Supply Chain - Procurement Magazine",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNmhyTC12eWplOTYzUGNucm1xMmZNWHRBNFZ2RE02eUk1cEZEbEdObjg0T1JCUjlGTlBtTFJnY2pCR1NoTURKb3ItMVVvbG9JY1BZUFZrSXRvMFhmb2s0NUNyLU4yMG1Ya25rN1RyX21zV3VBbG80MVhIVTdnZU1mMkFBOWdFc3Btc3U3T1VhNmFicFFMaEdQYkRYbUR6UXc?oc=5",
+      "published": "2026-06-16T07:00:00+00:00",
+      "publisher": "Procurement Magazine",
+      "summary": "Redefining Toyota North America’s Strategic Supply Chain &nbsp;&nbsp; Procurement Magazine",
+      "query": "\"Toyota Motor\" capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Tariffs Have Crushed Toyota But We Say Buy the Dip - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPS0M4VjRxOURDLVZsYUlkVEVzVW1sMHBobmdzTWU0djNaLVRTalJTb2xZaTZwS3VQek05Q0dkUXhYZ1hiQkttMHZtRGdpOEN0TzYtLWR5QlU0cmlHMzFqcHJIMTlrbTdFM0dDNDNLa19UaU51S2dHVVhDT0l5ZmhzRVJ6NGxmTFFVOGNld0c2US1lUkJTcHY3WFk1UQ?oc=5",
+      "published": "2026-06-15T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Tariffs Have Crushed Toyota But We Say Buy the Dip &nbsp;&nbsp; Yahoo Finance",
+      "query": "7203.T analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory",
+        "macro"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Tariffs Have Crushed Toyota But We Say Buy the Dip - 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSXBZOTh2c3ZIb3JKTjhhcUV5V0pwUlBpWC1jcFN5cTVmRlMybUZzTUN1YlFHNGw0WWhIRkpyeUxpWnR2WXU4UkQ4Rkx0UFVLdVc1WHEyOFVRcnVoTm9JVzNTLVA1eTFNVUtjamZTWC04eHYwNHdpQ0xYMl9xR0l6N25zODhCYkFOTVlyTGM2WmhDb3VtQWZnb2VR?oc=5",
+      "published": "2026-06-15T07:00:00+00:00",
+      "publisher": "24/7 Wall St.",
+      "summary": "Tariffs Have Crushed Toyota But We Say Buy the Dip &nbsp;&nbsp; 24/7 Wall St.",
+      "query": "\"Toyota Motor\" analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory",
+        "macro"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Toyota Is No Longer Japan's Most Valuable Company: Is The Writing On The Wall For The World's Largest Car Maker - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNYjd2TWlOaHlmR3JaWnFRMzBEblZRakdwN21NaXh6MmMxZ1FwaFVnZThnR1NLanpIV3V1Zld2anlGR1ZqaHZ4bjZSdGoxcXlRSW96c2VoUThIdHNuOFpFbi0weWctaDVxMldkRGlxTHBkMVlGckl5RzJXYVc5Tnlpbl90SHYyMVVIdHZTZFhhR09Lc1BNZ3dEYw?oc=5",
+      "published": "2026-06-15T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Toyota Is No Longer Japan's Most Valuable Company: Is The Writing On The Wall For The World's Largest Car Maker &nbsp;&nbsp; Yahoo Finance",
+      "query": "7203.T competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "AT&T (T) Expands Partnership With Rivian (RIVN) to Provide 5G Connectivity for R2 Platform - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZXR5RkMyeVNpaDRKZHpjOEphQnRBWnFwVWdtWGFFdk54TWFDNklsMzluTWtVamtoZlVNUjU1M3FGRS14aDA1cVdnUlpubkFjWUhMdjFiYXpmd0E1REEzV3ROSWVmTEUxeUg4YmlydkZ3UFhFUloyaW53RWtRSXFRS2tyMmdjSHl4Mm9qUTZaYnUyR0QxVjFYQ2I4Zw?oc=5",
+      "published": "2026-06-11T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "AT&amp;T (T) Expands Partnership With Rivian (RIVN) to Provide 5G Connectivity for R2 Platform &nbsp;&nbsp; Yahoo Finance",
+      "query": "7203.T acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "positive"
+    },
+    {
+      "title": "Toyota Tier IV’s Technology - level 4 Autonomous Push - Just Auto",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBWQWNfclNaUHQ3cFgtUWFTYl9RLWZGNGVibEhBdEc3ZVpJc3IwUFR1cGJvT3hTcU5VcnNyd25oS1F5dVV3NG4ySVZXSks3a0Y1OHBkazJwRzV3eGROVDAtMDI0Yk9CZjJpMFdoSDYtMEt4ZEZqcnZ3cnVpVVhtUQ?oc=5",
+      "published": "2026-06-10T07:00:00+00:00",
+      "publisher": "Just Auto",
+      "summary": "Toyota Tier IV’s Technology - level 4 Autonomous Push &nbsp;&nbsp; Just Auto",
+      "query": "\"Toyota Motor\" acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Bristol auto dealership seeks to sell Toyota franchise after lawsuit over unpaid loans - CT Insider",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQ045aUd0TTNtYWVFbks3X18yOWN1U2tuLUF5UnhNSFkzUEhRMk9KRFBvcWpGVmJfVW1RZjBPSnZGaC1Icmt0WTB0ZXh3d3FEOU8tQTBJeUhGNEU4b0xMVEpoREV5Tk1DSzFmWFM2d2hEa2RRNmZTNklXTnlJLWZ0dkltbmgxYTZhUkxTeEZkeDZ4NERQSHRybElUeHlIOVhKUGhF?oc=5",
+      "published": "2026-06-09T07:00:00+00:00",
+      "publisher": "CT Insider",
+      "summary": "Bristol auto dealership seeks to sell Toyota franchise after lawsuit over unpaid loans &nbsp;&nbsp; CT Insider",
+      "query": "\"Toyota Motor\" lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory"
+      ],
+      "lean": "negative"
+    },
+    {
+      "title": "Assessing Toyota Motor (TSE:7203) Valuation After Recent Share Price Weakness - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMXlrVkRRbjdpRU1uMmc1c3lieDlWV2M5UmdVUUVlYWU4UmZwNXlpdnVHa2MxT19STE9IbFlja2NvOS1RNUs4aGpfMUc4aFVOdzcyUS1DWWZMbTNORXRsTGZXM3pwX0dBWkZ2WG1VOHNIRE9sMHlPbTNfVW9QUkp4c0UzLWtKWFpRcEVVaEZwVm95ZFlMdXNCdWlSM3g?oc=5",
+      "published": "2026-06-08T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Assessing Toyota Motor (TSE:7203) Valuation After Recent Share Price Weakness &nbsp;&nbsp; Yahoo Finance",
+      "query": "7203.T stock",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Is Toyota Motor (TM) a Buy as Wall Street Analysts Look Optimistic? - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQOEdWYTNFeEs1a2FzV2Y5ek1DYUtxcGJwWnhla1NGUEpYQVIzWWxMM3NUcC1HSVZvSXdSM09uWnpUa3h3WWtsUy04S0JCamlXcUJkNWRyamFsSXRQRHF4WktVT3o0TEJFRVBZOHU4Y1RkeWR0S29uZThEVjl1cFR2QkJsN3dUSGJDOGVhSHotS05zSjA?oc=5",
+      "published": "2026-06-08T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Is Toyota Motor (TM) a Buy as Wall Street Analysts Look Optimistic? &nbsp;&nbsp; Yahoo Finance",
+      "query": "\"Toyota Motor\" analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Bristol dealership sold cars without paying lender, lawsuit says - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUmdrbnpwUVBZLVc3SElTSkphMWtweDY4QzNha3NmRWo1U1c0ekZOOU1xUjIwcUtNZHpUVlhrLUtIdF9sNHJ2V3lrb1M0VVpwSC16XzFacWRQcXNiR3FqOHc4bUF0VTZmU2VGVXVyVW5DOUdLOF81TE5RR2lsMmxPOHlZSlRGSzRVREUxQVo4STZCMU56N1d3ODlsQ1Z0d2hIZHZV?oc=5",
+      "published": "2026-06-06T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Bristol dealership sold cars without paying lender, lawsuit says &nbsp;&nbsp; Yahoo Finance",
+      "query": "7203.T lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory"
+      ],
+      "lean": "negative"
+    },
+    {
+      "title": "The Street is Bullish on Toyota Motor Corporation (TM), Here’s Why - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbFByY3d0RXNQb3U2Mk16Z0xCNjVfNGU1bnBBMkxJM1BVcmVnR2pGd2hENzdKZ3NhRExXVUFVNDhsRTc0WG5HWjVEcjFHODlOUnVKZ2NvaXh4d1YydWJpcXZfNTNDaXpOS0JaZ3d5UTZoTE9hMWJlZG9kVnFLZGFJY0FLYVBiWlhYcExRX2pRQlZUOGViNl8tdnlfSlhDUHNzbHRHY0pyRQ?oc=5",
+      "published": "2026-06-04T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "The Street is Bullish on Toyota Motor Corporation (TM), Here’s Why &nbsp;&nbsp; Yahoo Finance",
+      "query": "\"Toyota Motor\" stock",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "The Bull Case For Toyota Motor (TSE:7203) Could Change Following Global Sales Slump And SoftBank Surpassion - Learn Why - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQWU5jdGYzd09ybVRQd3ZmRmJJZkk3R2xFODM4a1d2OGtFLUlvOVBRVHg2N2pKdW5XYUphV3ZpWmotMnVhRXFneGZTRFNHMjRwYlRRNmZzUUZESU5aOUdQUTFIMnRIS09jdE5aSTBSMnBNWU1ZV0N0SVZXZ1pnbHhnS2h0Z2tQVnl4VlBNaEhQeG9YU2VXZ3c?oc=5",
+      "published": "2026-06-03T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "The Bull Case For Toyota Motor (TSE:7203) Could Change Following Global Sales Slump And SoftBank Surpassion - Learn Why &nbsp;&nbsp; Yahoo Finance",
+      "query": "7203.T stock",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory"
+      ],
+      "lean": "negative"
+    },
+    {
+      "title": "SoftBank Overtakes Toyota as Japan’s Largest Company - TheStreet Pro",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQlJBSGdnLW1Xend3bzJCSGhKTlhqVV9ZaGtzLUpqR2ZlRE1JNS0zbWxLajhNRjF3YlpycGl2dk5aRzVaZGRVZ0ZHQUtpX0xfRHdYbWJtQW5Ra0ZWWTNtZjRjLTk0bzk5YWhwcDNsRmxNazUxc3R4LUN3NDVwTlFxaU1TUkpaLVh2VzRPRDVTcEVhUUlERFAwUVFINA?oc=5",
+      "published": "2026-06-02T07:00:00+00:00",
+      "publisher": "TheStreet Pro",
+      "summary": "SoftBank Overtakes Toyota as Japan’s Largest Company &nbsp;&nbsp; TheStreet Pro",
+      "query": "\"Toyota Motor\" competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory"
+      ],
+      "lean": "negative"
+    },
+    {
+      "title": "Lawsuit: Stephen Toyota sold dozens of cars without paying back lender - wfsb.com",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVWQyUXpkXzk4c3h3ZnlJMFFxTUtGSmVadEt6UkZZalZYcFdweThWQnhtNTE1eVRlUnk4amJoSjZrWWhJalYwRUZTZnJLVm1yMXZoSlVjdHV1VENWaVNzazFVUEhscnN6MlFXaDZTNG5EaG5CZEVlZWZ1UGlURy1HaWZ5TnR5d0RJUlNpWHdtMDl5Q3dBcW5YVkRCcnJtVUpU0gG0AUFVX3lxTFBmUUZiOUJhUzR1QWthMElUTVJVelhMQ3gxdEJtWndJSE1tbFJZY3loVzgwME5UeUE4OURrV1VfTlRDdmZiQTRDUU9ONjBhdmJwcTlOMkFtbXR2dFoxWTJ0VTd6NUFGY2xpeno5OVRVM1AxNkEzeUNoY015TEQ0eXFHS0ozTFFTY0U2N015RmRqTmtNRVRoQzZzMVNqX0htd2ZSRVQwWDBfWVhLSHFPWk01UWRxdA?oc=5",
+      "published": "2026-06-01T07:00:00+00:00",
+      "publisher": "wfsb.com",
+      "summary": "Lawsuit: Stephen Toyota sold dozens of cars without paying back lender &nbsp;&nbsp; wfsb.com",
+      "query": "\"Toyota Motor\" lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory"
+      ],
+      "lean": "negative"
+    },
+    {
+      "title": "From Texas to Tennessee, manufacturers ramp up US production - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZ1ZlTXE2Vl92c0hEVkVIUUI1THpxak9vV2RITTItWVM1c0ptbmxLa05XNXJrd3JSalpGa0RwektpRDRfM05LbzBkZ0lUYjkyM0QzcndRWDRvZERSZkl3TFhHaDRnMXh5VG1OSTA0dGdVY1g5aTBEMDZNdVhrTHlIcDBpTkV5TlNGSjl3MjFqT0g0SDBSaTZNcEw2NmQ0RnB6?oc=5",
+      "published": "2026-05-29T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "From Texas to Tennessee, manufacturers ramp up US production &nbsp;&nbsp; Yahoo Finance",
+      "query": "7203.T capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Toyota Global Sales Fall for Third Straight Month as Middle East Exports Plunge Over 90%; EV Sales Surge 1.3x - finance.biggo.com",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBvak5HbzU5WkZUYmN0eFd0eGlPOTJxZ3NHQ0dBZks1QUlHSVRGQ013cFlrMTlPYVBNUWc1TENHa0FBV25iM1h6VGVQMjhDMEQtV3BKY0tBbUU3RTR1ODQ2Ng?oc=5",
+      "published": "2026-05-29T07:00:00+00:00",
+      "publisher": "finance.biggo.com",
+      "summary": "Toyota Global Sales Fall for Third Straight Month as Middle East Exports Plunge Over 90%; EV Sales Surge 1.3x &nbsp;&nbsp; finance.biggo.com",
+      "query": "7203.T capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "[Will the Market Cap Leader Change?] Toyota Faces Risk of Losing Top Spot for First Time in 23 Years! SoftBank Group Closes In, Kioxia Charges Ahead, and Mitsubishi UFJ Lies in Wait—What Are the Strengths and Weaknesses of These 'Big Four'? - Moomoo",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdkllVDJKc2FndWZBRDRQNkhOQzlfTFdodmQ5YlhqSTZ3NDVqNF84REdLQk11ZGxHZU9mNTlMUXZVYi1iMm9xVFNsUERSV1R5eEFTOWVzZFlVZTVfMWNDSkFqNzQ1WWVUaG5nVlhOcGRmYngxWVIxbHg3T05yZWFwY3V6WEk4WXd3eWVJQkI4czVwck11UjlLN19tQU55QWlqbnViZzktR3BOUnlJ?oc=5",
+      "published": "2026-05-28T07:00:00+00:00",
+      "publisher": "Moomoo",
+      "summary": "[Will the Market Cap Leader Change?] Toyota Faces Risk of Losing Top Spot for First Time in 23 Years! SoftBank Group Closes In, Kioxia Charges Ahead, and Mitsubishi UFJ Lies in Wait—What Are the Strengths and Weaknesses of These 'Big Four'? &nbsp;&nbsp; Moomoo",
+      "query": "\"Toyota Motor\" competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory"
+      ],
+      "lean": "negative"
+    },
+    {
+      "title": "Is It Time To Reassess Toyota Motor (TSE:7203) After Recent Share Price Weakness? - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOcE9LWjdvVFJZcXo5YU5wZXJmNzBtczd2SmV6eW9EYS1hUFNWcXJabzRVUDNVZ1FtZ3BJWnlPQlZpUFhEQ3FTZ2xXdnJzLTBwTjFzYkRid19EX3hBRkFiUDhnMDJPQmJST3UyQ3l3WmVlZWZSanZPazNRcWNuT2FtZVpMUllvM0t0RGZ4SHNuTzI2Ujd2OUJhWjRqNA?oc=5",
+      "published": "2026-05-24T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Is It Time To Reassess Toyota Motor (TSE:7203) After Recent Share Price Weakness? &nbsp;&nbsp; Yahoo Finance",
+      "query": "7203.T stock",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Reassessing Toyota Motor (TSE:7203) Valuation After Recent Share Price Volatility - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOcWl0cHJCRXU2WGNhbG8tTG5XRlVVVEpkaXg4WmphMzNWVkk5ZEVvck55TTJtZncySFE1QUgyb0VBYmducHpLeXNQWDRQNlh6eVF4bUxybWhjRlc4empOc0Q3ejQ5MzBza0lkMlZFanptQXl2bnNOb1J2ZGVjVjBTN2ZVLUppclJ6UTlYemdEODh3b1JWZ1J1VG9OeXptUDA?oc=5",
+      "published": "2026-05-21T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Reassessing Toyota Motor (TSE:7203) Valuation After Recent Share Price Volatility &nbsp;&nbsp; Yahoo Finance",
+      "query": "7203.T stock",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Brokers Suggest Investing in Toyota Motor (TM): Read This Before Placing a Bet - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVlRMMUVmWnhxcm1CekZaM3I5b0pKUUgwOXJxOW03a0RZQ1R6bFJYN0w1MFBlanJoeHYtZ1Bid3VtRC1lVFdJbEkybjZPLUFSYzE3clBScG5qNFNoRTlxMGs4OW0zQnRPTW9OS0ZwY3NMNU55emYyTGpYMDNlc1QtUTE3S1VVR1ZqZ0ZhVzFYLW9MNjdILUItY2hWeVdGU2tDY3hXdU1n?oc=5",
+      "published": "2026-05-21T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Brokers Suggest Investing in Toyota Motor (TM): Read This Before Placing a Bet &nbsp;&nbsp; Yahoo Finance",
+      "query": "\"Toyota Motor\" analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Global Businesses Face Mounting $25 Billion Fallout From Iran War - Marine News Magazine",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSFl4elBOWnl2MTdTZjF5UmxlR0Myc25ESnVrVm5JTUFzdnRyZGd6ZWRfRmJIVWJNamtUdkY3bFMzb0JvSGZ0Y0V0aUE1XzV2emlOY0dmaW1aWWxOakZNVGVFclQ1QlJndmNnOTlXZEtUYTBQNkRYeWF2Y05qUFF6dmVaUHg?oc=5",
+      "published": "2026-05-18T07:00:00+00:00",
+      "publisher": "Marine News Magazine",
+      "summary": "Global Businesses Face Mounting $25 Billion Fallout From Iran War &nbsp;&nbsp; Marine News Magazine",
+      "query": "7203.T capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Toyota’s Motor Oil Shortage Warning Just Exposed a Bigger Problem Brewing Across the Auto Industry - Yahoo Autos",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNG1uT0p3T2pQT1hCV0ZxQjR5eVFtMExzTmx1cGdSdmZRUC1SR1p1aHljX24zd3BaT0lWUVQtc0x0NjNXSGt4ZUNpamxBSmdCdWpQbllSbHNZOW13OWMzRVcwRUdyZGNoaVJVeS1FNW44ZmNNRzE2b1hUVWI2aEg1T256Y2JJMFV3VE1RSTUwMlU4YVc5U3dibWxKTkltVjBqblg5cm9oZw?oc=5",
+      "published": "2026-05-18T07:00:00+00:00",
+      "publisher": "Yahoo Autos",
+      "summary": "Toyota’s Motor Oil Shortage Warning Just Exposed a Bigger Problem Brewing Across the Auto Industry &nbsp;&nbsp; Yahoo Autos",
+      "query": "\"Toyota Motor\" capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Class Action Lawsuit Says Toyota Must Share Tariff Refunds With Buyers - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQX2xIaEdkeXNMRWQwRklhUzFaMzlFTkc5QXN1YXlxUDNyc3loOHRPXzBLbTBJaG90bzlzdVZZUGlXaUQzN2hTem1pOGJpWG14UG1RTlF2eWJrU1NVVk5qRUZZa0NrR1dzMnJBc2RNX0Rublk2aFFVNDdKQ0luTVlGaDA3NkhicUY1VlV5MmJOZ2VKRVNDWlpVeGNQRHlGZw?oc=5",
+      "published": "2026-05-16T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Class Action Lawsuit Says Toyota Must Share Tariff Refunds With Buyers &nbsp;&nbsp; Yahoo Finance",
+      "query": "7203.T lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory",
+        "macro"
+      ],
+      "lean": "negative"
+    },
+    {
+      "title": "Toyota Motor Q4 Earnings Call Highlights - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMnA2QWxJWUJOajMyLTNRcDlYU2xNVUM0ZWZxWnBtMXN4Wmt0YzVKYTZ2S0JFbnVwN2ZjUXhFS083bXFSLU80YXpPYkVHeWlLT2NTMFV2WFdlRVo3NWkzT2dtalU2SG1nVlVzSXZoNzZwdVpQRnlGSEdCc0JacWdnNXV2bGpDeHk4Ulo0cloxVDhZbllBOGo5M2kzb28tNmx5YWFj?oc=5",
+      "published": "2026-05-15T07:00:00+00:00",
+      "publisher": "TradingView",
+      "summary": "Toyota Motor Q4 Earnings Call Highlights &nbsp;&nbsp; TradingView",
+      "query": "\"Toyota Motor\" earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Toyota Customers May Be Owed Billions In Refunds After Tariff Windfall Lawsuit - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPeGxBd01jalRReENIcEp1QTljWkVYbzJZZnl2aExvNzF6OEZXTWplRXpMWVJCYlIzM29IdllWeVE0RlBKNC01bzN2Q0xLSm1IVldzMks4VmpOVVhLM1FRODgtT2JXbUhleXFJWlQ5VEhURzdnVUhBcTNiVDRpZE1Cdms1VUFCbjlkY202OTgwRWE5ZnFMeVhyYktYRVNxTmty?oc=5",
+      "published": "2026-05-15T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Toyota Customers May Be Owed Billions In Refunds After Tariff Windfall Lawsuit &nbsp;&nbsp; Yahoo Finance",
+      "query": "7203.T lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory",
+        "macro"
+      ],
+      "lean": "negative"
+    },
+    {
+      "title": "Toyota-Backed Nonprofit Sued Over Alleged Theft of EV Tech Trade Secrets - Law.com",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOLTlrbElMSjBjN3NjVENfTC16X09sQ3FFbEQwOV84NkJuc2JtbGZVUEhXUEx0M3N4akhaMnpBTWRJUmJxZzJKQmlNVlJLUnU1TWRYN3dxbWc1dEpUdE5lenNKemhVVDNpLU14VDlKNmJxRzJyRDJ0TFBnX1ZkV2lkOXNKcGhwSy1iVVNvWUpOR1BVOEE4U2twY3MyN1JrdGVMdWVkekhFYzFGT3RicnZKVFZoRjI0T28?oc=5",
+      "published": "2026-05-14T07:00:00+00:00",
+      "publisher": "Law.com",
+      "summary": "Toyota-Backed Nonprofit Sued Over Alleged Theft of EV Tech Trade Secrets &nbsp;&nbsp; Law.com",
+      "query": "\"Toyota Motor\" lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Toyota Motor (TM) Falls Behind Profit Estimates in Q4 Report - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbWVLTHBxdzlwWjg2UHdVZWlvSHp0WW5HZXoteHJBbk50Uzc0UUxhWTBuM3I1ejNuN19FNjV2NVJSNmV5SkdabUFGa0NmZXJCOWlhRXVUcG9RcmFldW1FZVhuYlAwVVNweHlMRjR3dTJXQXZzUy1DX29JWmptUlZFUlRIR2NYQmprVTB1MWtkbWpJajU0eEFfLQ?oc=5",
+      "published": "2026-05-12T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Toyota Motor (TM) Falls Behind Profit Estimates in Q4 Report &nbsp;&nbsp; Yahoo Finance",
+      "query": "7203.T revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings"
+      ],
+      "lean": "negative"
+    },
+    {
+      "title": "Ford Stock Looks Cheap Now: Is This the Right Time to Buy? - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTVBYQmNNakhCazdNT2pBeWxhd2lLN2hfOW5DVjQ3LUFNaHRSMEEwbS1EZXEzRWV0ZDFERExub2dFY0ZvT3VlT2JJNTVBUlJmM1A5NEw3NHViVDdGXzBzSERUQ19SMEc3VHltRnVjY2hlUS1nbHdNbGVlaUhjaGlYYTE5aHF2WkRSODlxVjZ1cFA5ZHJEZEE?oc=5",
+      "published": "2026-05-11T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Ford Stock Looks Cheap Now: Is This the Right Time to Buy? &nbsp;&nbsp; Yahoo Finance",
+      "query": "7203.T earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "US tariffs erase all of Toyota’s North America profits in FY2026 - WardsAuto",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZThZbUlQTm56UUZjNDZ5YWNPM01NcWlHYXNhaUtGR0NQN1BPVWxRVkU1THM3Q2p5RVVsX0ZseDZ6SDBTSUQ5QmtGaDhEaDBUbElKeHRwU3o1MXBvOVU0ZW1wb0tPRDE2b0t3SVJJcmR0RXFMYmwxQTRQMUU0cjRnVXRjNkc2emkzUkhmbDRZWjNiUklvWnZRbXdNb3RpTUNiWHMzQQ?oc=5",
+      "published": "2026-05-11T07:00:00+00:00",
+      "publisher": "WardsAuto",
+      "summary": "US tariffs erase all of Toyota’s North America profits in FY2026 &nbsp;&nbsp; WardsAuto",
+      "query": "\"Toyota Motor\" earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory",
+        "macro"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Toyota is working on a fix for its giant $4.3 billion problem - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQWk91NHV3eGhFcnhDSktXN0ItVnRzdTlxYWtnWm5fYzdzRGtSejN1VzdEN1B4dTY1OG1TOW1SWHQ2bU9ObWFfOWlFQnZrcXFUSUFNaE9mZjZJVFVlSmJnU0JSMTdieXN5ejQyaXdHdUp5a3Jra2hvMWpCZVNmZHlxYkdFV2dCenF4RF85WmNiLUpmdE5zNFE?oc=5",
+      "published": "2026-05-11T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Toyota is working on a fix for its giant $4.3 billion problem &nbsp;&nbsp; Yahoo Finance",
+      "query": "7203.T capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Toyota operating profits drop 21.5% as US tariffs take Y1.38tn toll - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcldwMEtHdFdkTGhOOUZQU3g2R3NiZExpVU90R3ZsUkFnNWpvYlNTMmdwazZmd0MySlJoN3p5RG1aZmFVcFpUMmxoVjQzTnMweFFrX2ozUE1BdUFjQWMzdENaSmp0UTFUU0tOUUxFNko5WlNESnlpZ1pkSGhOZ2lybGp4TjhWRWNrdThuNHp1TG5mUUhhQ09SaFlWal81dw?oc=5",
+      "published": "2026-05-08T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Toyota operating profits drop 21.5% as US tariffs take Y1.38tn toll &nbsp;&nbsp; Yahoo Finance",
+      "query": "7203.T earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory",
+        "macro"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "PPL Corporation Q1 2026 Earnings Call Summary - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdkhpdU1XaWpmNGwxMkE0R1NFeFdmUlA3Nm02RGNSdW1rMkR3SUp2NFdWVGdqRmtwNWhtYkxXdTRHNHdvcWpYNG9hRjdZUmpXM3pCZm8xU1c3N0c2TUFVSVlMR05LTXUyai03TUxiTlJGYk1kekI3WEJzbk1ndlR2RkxhdFZpZC1oY2Nkb3hsMnRjRFpaRTVKMmNmcnVGQQ?oc=5",
+      "published": "2026-05-08T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "PPL Corporation Q1 2026 Earnings Call Summary &nbsp;&nbsp; Yahoo Finance",
+      "query": "7203.T earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Toyota fourth-quarter profit misses by wide margin as U.S. tariffs drive 49% slump - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBkd0x3S2NQRWVOSkpCMkpienNWMGFRWUIxeUN4Q0ZDNnBBMXdVdzVxMnQtR3ZrdlJpOXJCbmZyWXFpRTZ6Q1BSNlExUndwenJBdE1tSURkYnNXVGZYVE1QWU5PRDlibXdwMUhrU9IBckFVX3lxTE1QXzVYYVB3bXA0Ul9vV1RJZklYOTFWcmtVbXBCcDVnSDNGS184YTZ5RC1nRy1oQUEzWUFsTHVtdkJ6Zmo0T3NQeXVkM1RUT3J1QVNRSVRPUlFQQllrY3dpbFFBdUxxZGFERHNYb0xhRlpTdw?oc=5",
+      "published": "2026-05-08T07:00:00+00:00",
+      "publisher": "CNBC",
+      "summary": "Toyota fourth-quarter profit misses by wide margin as U.S. tariffs drive 49% slump &nbsp;&nbsp; CNBC",
+      "query": "\"Toyota Motor\" earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "regulatory",
+        "macro"
+      ],
+      "lean": "negative"
+    },
+    {
+      "title": "Toyota forecasts lower profit after tariff-hit fiscal 2026 - jp.ibtimes.com",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPaHR1NjV3czRVdWMzcHpzQURVRWFFTzZqWnBLVkhVd1pTMXFxQzF5VkRCMkxmSGhpblotTzdwX1c4YkFESUhuSmh2Q0ZlSDNXRVJnRFVYWFZwLWp6VEV3dlRvR09jU1AzWjdDbDlFVWNlNjk4MmhCUW45RUxVSk50cFZLZXhMUXVmZG0wbk5UdWF2UQ?oc=5",
+      "published": "2026-05-08T07:00:00+00:00",
+      "publisher": "jp.ibtimes.com",
+      "summary": "Toyota forecasts lower profit after tariff-hit fiscal 2026 &nbsp;&nbsp; jp.ibtimes.com",
+      "query": "\"Toyota Motor\" earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "guidance",
+        "regulatory",
+        "macro"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Toyota misses Q4 profit estimates as tariffs, China competition pressure earnings - CBT News",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE15ZlpnNS1WWDUzdU92b24wb2NmNFF6VWpHS1V0Wk1pUzZfclhjd2pvTjRwbDgtYUY0a0otVUFJRG01WnVJcERoVDI4cW5iVWh0TE9hcmNyY0QtQm12WGt2azJDMExDSUZPc3c?oc=5",
+      "published": "2026-05-08T07:00:00+00:00",
+      "publisher": "CBT News",
+      "summary": "Toyota misses Q4 profit estimates as tariffs, China competition pressure earnings &nbsp;&nbsp; CBT News",
+      "query": "\"Toyota Motor\" revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "regulatory",
+        "macro"
+      ],
+      "lean": "negative"
+    },
+    {
+      "title": "$1.4M Worth Of Cars Disappeared, And Now Toyota Is Suing A Dealership For Far More - SlashGear",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMDJNbVVMN0ZLa3FoYno0ZTZGdHBqWnFMM1RhWkVhemlvYjVoSHIwQmJqSGM1QUNWTlMyc3hTb2k2LS1WM0w1amRzd1lDdjBpSnFxWk5FZ3E1SEdMZkVrMjNnam56Um11OWZ0V2RQWW42YkU2WFhoTVUwZ1p2WTJ4RUlNTXliRmF5bkVSNzZ3?oc=5",
+      "published": "2026-05-02T07:00:00+00:00",
+      "publisher": "SlashGear",
+      "summary": "$1.4M Worth Of Cars Disappeared, And Now Toyota Is Suing A Dealership For Far More &nbsp;&nbsp; SlashGear",
+      "query": "\"Toyota Motor\" lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Toyota Motor Corporation (TM) Stock Falls Amid Market Uptick: What Investors Need to Know - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZ2hjSWZnbV9Fa3JQV05hOWpKV1hvMzlsYkwxekdSZUlRcGNnLTlVeTZPT2VvTTZqUjhJUDVnWjBsMG9yTk9BeUVjcElvMGpXY0JVa3pKOVhwbUxwcmh1cGcxeXozUFZVRGFnNVd3bDdoMkszNVlEQXRFUmJtNHhSc1FSbGdKVXVsbUNybHZBNjRLNWVKeEgyQVJJYjUwYWs?oc=5",
+      "published": "2026-05-01T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Toyota Motor Corporation (TM) Stock Falls Amid Market Uptick: What Investors Need to Know &nbsp;&nbsp; Yahoo Finance",
+      "query": "7203.T stock",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "negative"
+    },
+    {
+      "title": "Morgan Stanley assumes coverage on Toyota stock with Equalweight rating - Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxObmRUSTBIMWJfNG9xVUVhc1V1Rk1wY1NVWjlFTDlfblY1OTl1ZjFwZjVBRkhyR2xMZ1Y1eUJjTy1KemxLTEpLT2R3SHlhYWVaVV9idjhNSTZQdTNVME02Qk1XbXJDcjZ1cFZqYXpWX2p6VnlCaDFPVEdKUTFZSEtLN0I0QWN1Q283dXB0U2NXZEh3YmFXaFBhMlBnX185UUhNZjlvd091RGp4c0dpcmdSRjZCU1hreEhRQmlmNWM1Y0hha181ak1KV1JqVQ?oc=5",
+      "published": "2026-05-01T07:00:00+00:00",
+      "publisher": "Investing.com",
+      "summary": "Morgan Stanley assumes coverage on Toyota stock with Equalweight rating &nbsp;&nbsp; Investing.com",
+      "query": "\"Toyota Motor\" analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Toyota Is Suing a Connecticut Dealership for Over $5 Million, and the Details Are Alarming - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORUdwTElsOGNwOGNuU0JJRnBieTZjNS15cktpdDJtV3dHTEFBSVZfSVFsWXhxWktrb0JRUFlkUTNsRnl1ZFl5WDZoY3BMZHZBcmU5dlFuOWlpakNQdnI1OTltQmpIa3pmdWRUdktaRl9TRmh1UlNtZHRyVTFCTGlaN1B2Q1NpN3pzajI5RjdiMEk1cHFrQm5CYXI0alB4Um5OS2dCSzJZaXI?oc=5",
+      "published": "2026-05-01T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Toyota Is Suing a Connecticut Dealership for Over $5 Million, and the Details Are Alarming &nbsp;&nbsp; Yahoo Finance",
+      "query": "7203.T lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Toyota to post fourth straight quarterly profit drop as Middle East risks, costs mount - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQcGRrenRDMlRoSHFTdWYtT1MzX0ZNMXk4bUFQbzBZOHY1N3hvSjdpcTZZX1JPMGNrMDhUVHRnd3ZoY2xjTld2eWt3S2Vxb3I3ZTdibkh3T3pqYk5LT2tXbk5DRTJXNE83Uzg3NTRteFNJeWc3c0F4bHN3SEhhZ0QyLTU4VWUtVkNDbnpEOTFUTmVZSHhqM0VIRWxrRGJaVmVNYzE4cUpXdEVnY01vUllXYXdDQU5hMHhqYUdqWFdUS1huZi1wYW5SSnR0MDNwWGM?oc=5",
+      "published": "2026-04-30T07:00:00+00:00",
+      "publisher": "Reuters",
+      "summary": "Toyota to post fourth straight quarterly profit drop as Middle East risks, costs mount &nbsp;&nbsp; Reuters",
+      "query": "\"Toyota Motor\" revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Toyota Sues A Dealer After 16 Missing Cars Became A $5.1M Hole - Carscoops",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBFWHdENTlpVWphNEFQOGh6OTRvdm4wRHJmSnl2TnBDbjlGZ2NQbUdJNUJ1enhNYWg2OTl0WTUxa25nN1R3Qk55YWNIdHZoSnJwZjdWMzBMTS1aVnhBOFIxaVNmSEFEVWYybUxyVXVad3Q?oc=5",
+      "published": "2026-04-30T07:00:00+00:00",
+      "publisher": "Carscoops",
+      "summary": "Toyota Sues A Dealer After 16 Missing Cars Became A $5.1M Hole &nbsp;&nbsp; Carscoops",
+      "query": "\"Toyota Motor\" lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Denso withdraws offer to acquire Rohm - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbnVrTWtkUDJIeEpHYnNiUGt4Z0E2WWotZzI2bDhOb0xWbjFHMmctNE5HRGE2Y1RhZGJUR3FEMDZLWWgwa0NDTWNNcU1tcnlaWktjRHRQbWxDUlV2YmRkNm82Q09VdkFIQWpGNUx1Um1KNTg3YW9JMVpySFRQdmNjSlBvM2VPdS1SZkl3VXVRaHA5Q1dKVndsQWVGUkhUa05m?oc=5",
+      "published": "2026-04-30T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Denso withdraws offer to acquire Rohm &nbsp;&nbsp; Yahoo Finance",
+      "query": "7203.T acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "mna"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "A Look At Toyota Motor (TSE:7203) Valuation As Analyst And DCF Estimates Point In Different Directions - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMDRRVi14T282QUxlMVZXOTl3NXlIVkN6V3J4cXRXcEpxaFRXaVloaThXZXh0UEFVQ3Ffc0FPYkZRZ05kTzBfdWY2YWE0UEFIcnlaaEdfZEZKdlhoSmNDUWp2cC1SUmd5R0xDdmZaaWgycFZ4WjR1RGx0NjVGc1hfV1pLTktwaGxYUVllbE5ZMkppYVJmRWc?oc=5",
+      "published": "2026-04-29T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "A Look At Toyota Motor (TSE:7203) Valuation As Analyst And DCF Estimates Point In Different Directions &nbsp;&nbsp; Yahoo Finance",
+      "query": "7203.T earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Toyota Sues Dealer After $5.1 Million in Vehicles Go Missing - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQkI3Q3BGRHludnUycU50Wk9IYTg2ZnFKZVo5dEljb09HSzRndDZSNkZjOWVqVEZuNFA4MjBneU9QMTJQdFZGcnB2VHVESHRwd3pMaFFOdVlOeElXUnlacmNtSVV1aFFzWHhQT2FXdVNmTWRwWVEwSlYyVDBKOEFzdS1IU05XeW1EZVpNcXF0QmM?oc=5",
+      "published": "2026-04-29T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Toyota Sues Dealer After $5.1 Million in Vehicles Go Missing &nbsp;&nbsp; Yahoo Finance",
+      "query": "7203.T lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Toyota Motor Credit Sues Connecticut Dealership After $1.4 Million in Vehicles Goes Missing From the Lot - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPc1YwUzNOT2tRaWJLc2F5UDRaWVozWlNrellDYWN0SXJaQlJGYUZnSGV3SEozOUg3MkVDS1MyMWNUY0dTYloyTmJsYUVZY0dXLU9XSkRCV0ZyNmxsS2loUGlCU3JVN3dRX0hDMHFuQ2xkRHBPZFVUNVRIVkp5UWN1OUllQlJIY0d3OEZ5TWJkNnVYNl95Qmloc25VNC1uVDhBWEV3?oc=5",
+      "published": "2026-04-29T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Toyota Motor Credit Sues Connecticut Dealership After $1.4 Million in Vehicles Goes Missing From the Lot &nbsp;&nbsp; Yahoo Finance",
+      "query": "\"Toyota Motor\" lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Toyota’s supply chain strain intensifies as Iran conflict disrupts materials flow - CBT News",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBZUVZpQk15X2YyNW0teWpXUHFVQVZJLUNlQW0wUzVCRm8yTHZ5bHhvQlhudHFzamJ3Qm11VTlSTzN5N3dZV2xpTHJxU29uSFZ1X2VpTWI5ajFpU01ObzVsNHZMSVRSY1lOeGlMX0FMajlXZw?oc=5",
+      "published": "2026-04-29T07:00:00+00:00",
+      "publisher": "CBT News",
+      "summary": "Toyota’s supply chain strain intensifies as Iran conflict disrupts materials flow &nbsp;&nbsp; CBT News",
+      "query": "\"Toyota Motor\" capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Toyota Credit sues Connecticut dealership group over out-of-trust vehicle sales, unpaid loans - Automotive News",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVXkzMndsVmgwcER0c3lHYkFySVlRLVc0eU5VWWNZWnRVY2VvUUpoZG1HSmx1Q2swamVfd21tdklWaFpyUVk5SjFtU1o0WWdLOTFJYzFLM29YSEV4WTRHcWhoR3FWMG5STTBWWjgxTmFUM2x2OUlOSGVMRXF0NjZKS2haa1VfZUQ2R2l0RHdDNElZQQ?oc=5",
+      "published": "2026-04-28T07:00:00+00:00",
+      "publisher": "Automotive News",
+      "summary": "Toyota Credit sues Connecticut dealership group over out-of-trust vehicle sales, unpaid loans &nbsp;&nbsp; Automotive News",
+      "query": "\"Toyota Motor\" lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Toyota Suppliers Start to See Shortages Due to Iran Conflict - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTjJoWVdJdnBYdFcyOXQwZ2RrTWNTanpvbzc2bU50VS00UWJwYjR6WkpXcDIxTEZoY05CYUJRR1pieXB0NWthSEZUS3FxanZBN2tqcXVQMnZlUExEY25qUmdsU0ZBN1NuOVZWd0FadzVSeEpnWGdJLW1ldXdub1U2bHdYalRpVzFGOTBDZ0FGeEN6c2wxR1IzZncyWFZHVDUxMlVJN3FYeElOTjNVQ2ZzUQ?oc=5",
+      "published": "2026-04-28T07:00:00+00:00",
+      "publisher": "Bloomberg.com",
+      "summary": "Toyota Suppliers Start to See Shortages Due to Iran Conflict &nbsp;&nbsp; Bloomberg.com",
+      "query": "7203.T capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Toyota Suppliers Warn of Parts Shortages Tied to Iran War - Transport Topics",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBtaFJ5VldnOVNVcnJZSzhqb3B1VzMtV0RWbU1DUHBmMm1zTDQ0VWFkTl8tT3NmNzFPZUtnMGxzVkF0b2Z6VElwOC04VGM2dHllMEt5V0VkVm53b0NBT1R4VTVsRUdmWmk0a1prMA?oc=5",
+      "published": "2026-04-28T07:00:00+00:00",
+      "publisher": "Transport Topics",
+      "summary": "Toyota Suppliers Warn of Parts Shortages Tied to Iran War &nbsp;&nbsp; Transport Topics",
+      "query": "\"Toyota Motor\" capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Toyota Motor: Expected Positive Results, But Headwinds Ahead - Earnings Preview - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPaGdBNnI2TTZheENMNDdmemNaeHF5c2pMVEVZNjBlaE52SlQxWkp2QlU1WkNvOWNIdTNhUGtwSVV2SWFveFFrSlRXV1JkYkpHOUc0Ukp4UU14SEVwV2xpajFCekpMcDEwNFJjZDlzQktKaFlmUC0xSmRZcGhuNjc2bGNnYjhISVVLUlJRRVA1Y05DbDk5eVJ1X3RwNWxYVVV1YWRCbmF3ZTNRQTJFRi1NQ2llaEgyZjA?oc=5",
+      "published": "2026-04-27T07:00:00+00:00",
+      "publisher": "Seeking Alpha",
+      "summary": "Toyota Motor: Expected Positive Results, But Headwinds Ahead - Earnings Preview &nbsp;&nbsp; Seeking Alpha",
+      "query": "\"Toyota Motor\" earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Denso considers pulling out of Rohm acquisition - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQLTRfa1ludzhGSWR5LWZ4dTRVdmRGQVg1RmI5V1dNUmRKNnFoN3dNUlg0LTBmdnpDS3pfRXpkWGJkTFRWeWZfcUtCSl9xWFM1cXE4VjU4SDJVSHlkbzZNazVnck9WQmNpTHhySFgzM2tfSDFXYzRZMmZoVEZJb2lBSXM2SVN3Z05kd3VzSHoxTXdMaE42aWhwMTREd0xsbUc4MklLWDJJSms?oc=5",
+      "published": "2026-04-27T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Denso considers pulling out of Rohm acquisition &nbsp;&nbsp; Yahoo Finance",
+      "query": "7203.T acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "mna"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Toyota: Oil, Yen, And New Leadership Are Risks Into The Earnings Report - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRExoMTZXT0JUZDVCQUN4czZwNTJIYmdKYkhZeEdXWC1vdG8wclc5QUx3MUk1RmR2ZVh5ZTdGXzdWUDB6SUQwWUZZdnExTDBVRmxtZTdqN3ZEbXlJcUtXdkJramtsb195UnVwLUF1QVpXbktzbjNpa05RQzN6Z21OZ1daSlpBN1REcHNPX3BkTy1PQ0lSQ3NkSktseWVGbDRz?oc=5",
+      "published": "2026-04-26T07:00:00+00:00",
+      "publisher": "Seeking Alpha",
+      "summary": "Toyota: Oil, Yen, And New Leadership Are Risks Into The Earnings Report &nbsp;&nbsp; Seeking Alpha",
+      "query": "\"Toyota Motor\" earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Denso says considers ending Rohm pursuit as acquisition talks stall - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWkdBaWcyQnFRVGREYWtDNW1vR2ppTnF5cWhseGdETWMwWE9YOC1QeUpCNDdLSkIxY3hCRWNrRmNnaGVkdEZRWVBYS01LaEZxbDA3dXkySW5xMFRNWXZWNkNtc21ORTlJblN4bEUyeGpxcWF0NjBseEE4U1B1YklxdFFxYWE3S1VLbEhuSElfYUQ1V3hvVTNqSlRNeGpBaHk3T2diSlZoTDVDS0NMcVc1ZDZBdjZoS1dTUENZ?oc=5",
+      "published": "2026-04-26T07:00:00+00:00",
+      "publisher": "Reuters",
+      "summary": "Denso says considers ending Rohm pursuit as acquisition talks stall &nbsp;&nbsp; Reuters",
+      "query": "\"Toyota Motor\" acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "mna"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Is It Time To Reassess Toyota Motor (TSE:7203) After Recent Share Price Pullback? - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOY3ZNcHdueFVmendLWjlsTnVhREVMUWtWa0dPV0k4bmlBbUdlQWkyaVN4V0ZGUjBna25yekFRd3JkdWRqdFpyRVRubElVLWZFX1IwcGNxZ1Z1RDd0UmVFcWlveXBndV9Nd1dnSzVJWXdjMHBCenFDR3hXTmFFcDdmd0Z6RzFFYzVfREU0SzdiaUhfWnJzQ3g1aXItQQ?oc=5",
+      "published": "2026-04-22T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Is It Time To Reassess Toyota Motor (TSE:7203) After Recent Share Price Pullback? &nbsp;&nbsp; Yahoo Finance",
+      "query": "7203.T stock",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Toyota Motor (TSE:7203) Is Down 5.6% After Aluminum Supply Disruptions Test Its EV Transition Strategy - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNX0laSE1SZFJ2NGhnM1VVanBxVDdOYUFfV0xqSE9XZFoxRGRfbXhYS01SSEFkbVp4ZHBGZVpNMHlzWmY0ME5ORmJoTlZ0SVFuM2ZfOGZPZHBkb0g3OG1wck1VQzlvQWQzN0s4X1U5b2o5a0VXeExoaVZXWnJoZE1yR1pfSkhuZFphOTl3V1EyUGY5V3ZqQ1E?oc=5",
+      "published": "2026-04-22T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Toyota Motor (TSE:7203) Is Down 5.6% After Aluminum Supply Disruptions Test Its EV Transition Strategy &nbsp;&nbsp; Yahoo Finance",
+      "query": "7203.T stock",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Toyota Motor Corporation (TM) Stock Declines While Market Improves: Some Information for Investors - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUDFJMWo3elJnejNhdXV4WmJIZkhrUW9RVUp5ek5ZdzQyRjZqaFFIU1BVWHpiZ3MwdHhxcV9GOUNFN0JFbV8yai1kTWd0bXAxOC1sZFJQQ24xcFU0RDFaQ2hEUjcxdkxMbEZYdWd0eWNReHpuWE1ma19meWE3OGhCM290a2llN1liS3hraU5zSUtOLVNwXzl0eHRRYW1iTG8?oc=5",
+      "published": "2026-04-22T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Toyota Motor Corporation (TM) Stock Declines While Market Improves: Some Information for Investors &nbsp;&nbsp; Yahoo Finance",
+      "query": "\"Toyota Motor\" stock",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Toyota class action claims no solution offered for defective seat rails in 2025 Sienna minivans - Top Class Actions",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQbUc0UVJwbGloYWtIWFQteEJiT19Vbzc4bFAtWXdvbllrMXlXQXNYTG96WXlkWTI2ZkJqVUJGYm5aQkRidUQ3dHBlNExmeEFnSmdFZWwwTXZQU2lyazN6ZDAzMXZsTjJIakptNEt2bDBON3hZWVdhbUFDdkp1ZTlrSm5EeWRreU0yYVh4T1JmWS13djROcUl1NWFQSmpwdjgwOHBiQkJUYURmSXEzZkk4NWN5bU9QempSeFlsZW5ISW5LUjlJNUNhZWdmY1NzU2FOSURWdzFGVHZKOE94LWJuZW9aTncxdFNCLVdNWTNR?oc=5",
+      "published": "2026-04-19T07:00:00+00:00",
+      "publisher": "Top Class Actions",
+      "summary": "Toyota class action claims no solution offered for defective seat rails in 2025 Sienna minivans &nbsp;&nbsp; Top Class Actions",
+      "query": "\"Toyota Motor\" lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Rapidus and NTT Partner on Optical Semiconductors, Establish Development Base in Hokkaido Targeting 2028 Operation - finance.biggo.com",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8yMHBVdzBuYW1UVFVnY3ItejZUS3RGZjJXVTVXSTR6U1Z4NE1CeWwzelJpTDh6d1lTZmFPQ0J1UlFaSE9wTUJta3FIakNNNjVDR3gxQVE3ZkYwcGNjYV9qSg?oc=5",
+      "published": "2026-04-17T07:00:00+00:00",
+      "publisher": "finance.biggo.com",
+      "summary": "Rapidus and NTT Partner on Optical Semiconductors, Establish Development Base in Hokkaido Targeting 2028 Operation &nbsp;&nbsp; finance.biggo.com",
+      "query": "7203.T acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Toyota Motor Europe battery electric vehicle sales up 79% in the first quarter of 2026 - Newsroom Toyota Europe",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQVB5eFZUQjBTaDRZUmZZb3FiMWw1NF9ONWRaaTJKcF9ULTFSRTVSeDNJS3czOXVFQV84ejRkaktuZkhnbWtqT2JWb2RONFNQeTVmLUFWcG9nd1Q4VGE5Mll2NGZLdzl6VU5GSFluS1c5eHVBNF9NNzlhOUM4eEFCb0FmalhGVmxwQmZXM1pLRG5kOFZhdUtzN3F0NUIyUFk4cFYzaXVveGI0eTJGZlZtNm5VYw?oc=5",
+      "published": "2026-04-16T07:00:00+00:00",
+      "publisher": "Newsroom Toyota Europe",
+      "summary": "Toyota Motor Europe battery electric vehicle sales up 79% in the first quarter of 2026 &nbsp;&nbsp; Newsroom Toyota Europe",
+      "query": "\"Toyota Motor\" competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Assessing Toyota Motor (TSE:7203) Valuation After A Year Of Strong Returns And Recent Share Price Weakness - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOLXVoQ3dYdFRqR0xmYUxUVExlRG9BR0wxajlNYVAwdFQ1MEhhRTJSRHppdjBPSmt3eTlxSHVIb3VSRU5mQ3V3QXI5SFdnNXlObzBaY1AxSHpzR3BFWnpBcS1lWHp5RGFlWU4yOGtuRHBFMHhPOGFHRFVkX0F1RFdERjlmSDVvbnRtX2ZBUV9Rb3cybHBVc01NYkdLWTA?oc=5",
+      "published": "2026-04-13T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Assessing Toyota Motor (TSE:7203) Valuation After A Year Of Strong Returns And Recent Share Price Weakness &nbsp;&nbsp; Yahoo Finance",
+      "query": "7203.T stock",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Ford and Toyota Surges 6%: Two Auto Giants Prove the Global Car Market Is Alive and Well - 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOMmhvS3lsYk1IMXhDRnRvcGllaWNMN1lJZmpuaFRyNGZZeF9WLWF1bmtOM0Z6MW54cGNESGMxUS1xMEI5NElUN3VmTmxhZ3p3ZnRnRUZMUlJwZmdua0p2STRhYUhSSHNOeXFDaS1VaEpfaUNRaUtMdXNfZ0dtcFRVNmJvaGVBc0dfekJqVUdSaXJnT0RRNVFOQzFWNWd1NF9CN29kSHdTamFaS1hQSGxVSnk5SUp1ZVNHTy04YkxFRHJyclBkQzdUS0ZR?oc=5",
+      "published": "2026-04-08T07:00:00+00:00",
+      "publisher": "24/7 Wall St.",
+      "summary": "Ford and Toyota Surges 6%: Two Auto Giants Prove the Global Car Market Is Alive and Well &nbsp;&nbsp; 24/7 Wall St.",
+      "query": "\"Toyota Motor\" earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "positive"
+    },
+    {
+      "title": "Hyundai Struck With Major Supply Chain Disruptions Due to Middle East War - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUXY2OFVnRm8xamprUzhQZFBkTDhOR0prMjFWQWJMOHROR01BNldBX1p3SHpzelpRLU1sU1UxYndlYm40Yl92MDNuVHh6WmY1RWNDV2VVejdwSzFremJYZXRpOXZjUmtHVlBkazEzMTM1TUt5Y2x5emhXUFdQbTd0ZlZXdTFTY0VuOHV2OUxtaWNkX2Z5cC1Oc0pzc0piaWc?oc=5",
+      "published": "2026-04-04T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Hyundai Struck With Major Supply Chain Disruptions Due to Middle East War &nbsp;&nbsp; Yahoo Finance",
+      "query": "7203.T capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Is Toyota Motor (TM) Stock Undervalued Right Now? - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTkF5ZDdJUUNfT3BvSl9FckZjbUZBdVQtTkl4eU1FNVpmcS02M1Fzb25TX0p5TkI1X3JtNTRPZE9nZE94NTNUYV9mZzVsRmJhQWNjZHZtTDhyYTc4OTNmZm5LMmoxLTQtYUJ3ZnYtenZrYjI4N19jaThYOFVvMjZPV21nM2Z0MUlaZm9BQUNxZEdsR3F5OWR6c3g1X1JzZ28?oc=5",
+      "published": "2026-04-02T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Is Toyota Motor (TM) Stock Undervalued Right Now? &nbsp;&nbsp; Yahoo Finance",
+      "query": "\"Toyota Motor\" stock",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Toyota to join Volvo, Daimler Truck in hydrogen fuel cell venture - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMXptUFNzTnRrbDhWd2hCazJPXzlUR3pVcGotcUM0N21walF2MDFabkRqWG9fb1BOemxxMHBGN2FRWUp0OGlOVnpSc0ZJNV82cWhQRUFLalZIdFRkZGp1LUpkSUZmZUNMNWQ2a0JlRlpDZTdwSDlSc0dEeVZya0kwTnUwOWRKcDlfbXJEeU5MeTJPUzBadmphX1o0bnJ4bXJBcmlWcTdxU1BKaGw5cUNRQU5wZw?oc=5",
+      "published": "2026-03-31T07:00:00+00:00",
+      "publisher": "Reuters",
+      "summary": "Toyota to join Volvo, Daimler Truck in hydrogen fuel cell venture &nbsp;&nbsp; Reuters",
+      "query": "7203.T acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Q&A: Toyota exec Templin talks goals for 'Tesla killer' EVs - The Detroit News",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZGdoOGR0dm9BQkI0RmtubXJYb3N4T0VNTnJRckZFVDhFVGktLVpjM2k2OTU0dkFXVEpNWEVldlkycmVmSGVIUGZzUnAwb0VjSmZ1S1hBUWhrcW1BUWpBMzN0NExZcndzd2hobV9ETW1EVExiblZ2WVZuU0VpaGtPM1ZLSXZ3Mm5UTTJiY2V3dHQwemxOdjNselRZM2J5dGs5QWREZThkem1oUkpMZmpBemJ0TDlDTkl0eUtyWDZWWFV6djA?oc=5",
+      "published": "2026-03-28T07:00:00+00:00",
+      "publisher": "The Detroit News",
+      "summary": "Q&amp;A: Toyota exec Templin talks goals for 'Tesla killer' EVs &nbsp;&nbsp; The Detroit News",
+      "query": "\"Toyota Motor\" competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    }
+  ]
+}

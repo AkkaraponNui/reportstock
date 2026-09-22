@@ -1,0 +1,196 @@
+{
+  "ticker": "SAP",
+  "as_of": "2026-09-20T09:05:35+00:00",
+  "source": "yfinance",
+  "profile": {
+    "name": "SAP SE",
+    "sector": "Technology",
+    "industry": "Software - Application",
+    "country": "Germany",
+    "exchange": "NYQ",
+    "currency": "USD",
+    "financial_currency": "EUR",
+    "employees": 112019,
+    "website": "https://www.sap.com",
+    "summary": "SAP SE, together with its subsidiaries, provides enterprise application and business solutions worldwide. It offers SAP Business AI; SAP S/4HANA that provides software capabilities for finance, risk and project management, procurement, manufacturing, supply chain and asset management, and research and development; SAP SuccessFactors solutions for human resources, including HR, time, payroll, talent and employee experience management, and analytics and planning; and spend management solutions that covers direct and indirect spend, travel and expense, and external workforce management. The company also provides SAP customer experience solutions; SAP Business Technology platform that enables customers and partners to build, integrate, and automate applications; and SAP Business Network, a business-to-business collaboration platform that helps digitalize key business processes across the supply chain and enables communication between trading partners. In addition, it offers SAP Signavio to help customers to discover, analyze, and understand business process operations; industry solutions that provide customers and partners with industry-specific solutions; and SAP LeanIX to visualize enterprise architecture, assess interdependencies and the potential impact of IT modernization, and manage the transition toward the target landscape. Further, the company provides WalkMe to execute workflows; SAP Enable Now, which offers e-learning content embedded in SAP workflows; Taulia solutions"
+  },
+  "market": {
+    "price": 209.45,
+    "market_cap": 241748082688,
+    "week52_high": 281.37,
+    "week52_low": 144.97,
+    "off_52w_high": -0.255606,
+    "avg_volume": 2704950
+  },
+  "analyst": {
+    "target_mean": 250.33333,
+    "target_high": 319.0,
+    "target_low": 177.0,
+    "upside_to_target": 0.195194,
+    "recommendation": "buy",
+    "n_analysts": 12
+  },
+  "annual": {
+    "periods": [
+      "2022-12-31",
+      "2023-12-31",
+      "2024-12-31",
+      "2025-12-31"
+    ],
+    "revenue": [
+      29519000000.0,
+      31207000000.0,
+      34176000000.0,
+      36800000000.0
+    ],
+    "gross_profit": [
+      21482000000.0,
+      22534000000.0,
+      24932000000.0,
+      26814000000.0
+    ],
+    "operating_income": [
+      6051000000.0,
+      6014000000.0,
+      7808000000.0,
+      9620000000.0
+    ],
+    "net_income": [
+      2284000000.0,
+      6139000000.0,
+      3124000000.0,
+      7161000000.0
+    ],
+    "ebitda": [
+      6480000000.0,
+      7353000000.0,
+      6589000000.0,
+      12073000000.0
+    ],
+    "rnd": [
+      6080000000.0,
+      6324000000.0,
+      6514000000.0,
+      6633000000.0
+    ],
+    "eps_diluted": [
+      1.95,
+      5.17,
+      2.65,
+      6.1
+    ],
+    "shares_diluted": [
+      1175000000.0,
+      1180000000.0,
+      1180000000.0,
+      1175000000.0
+    ],
+    "total_assets": [
+      72159000000.0,
+      68331000000.0,
+      74237000000.0,
+      70362000000.0
+    ],
+    "equity": [
+      40186000000.0,
+      43157000000.0,
+      45438000000.0,
+      44586000000.0
+    ],
+    "total_debt": [
+      13085000000.0,
+      8791000000.0,
+      10651000000.0,
+      7476000000.0
+    ],
+    "cash": [
+      9861000000.0,
+      11468000000.0,
+      11238000000.0,
+      9772000000.0
+    ],
+    "current_assets": [
+      18522000000.0,
+      20571000000.0,
+      21401000000.0,
+      20256000000.0
+    ],
+    "current_liabilities": [
+      17453000000.0,
+      14641000000.0,
+      19082000000.0,
+      17416000000.0
+    ],
+    "invested_capital": [
+      51131000000.0,
+      50327000000.0,
+      54374000000.0,
+      50378000000.0
+    ],
+    "operating_cf": [
+      5647000000.0,
+      6246000000.0,
+      5207000000.0,
+      9156000000.0
+    ],
+    "capex": [
+      -877000000.0,
+      -785000000.0,
+      -797000000.0,
+      -739000000.0
+    ],
+    "free_cash_flow": [
+      4770000000.0,
+      5461000000.0,
+      4410000000.0,
+      8417000000.0
+    ],
+    "buybacks": [
+      -1500000000.0,
+      -949000000.0,
+      -2106000000.0,
+      -1937000000.0
+    ]
+  },
+  "metrics": {
+    "years_of_data": 4,
+    "currency_mismatch": true,
+    "trading_currency": "USD",
+    "financial_currency": "EUR",
+    "revenue_cagr": 0.076256,
+    "revenue_cagr_years": 3,
+    "net_income_cagr": 0.463612,
+    "fcf_cagr": 0.208406,
+    "revenue_growth_ttm": 0.094,
+    "earnings_growth_ttm": 0.306,
+    "forward_eps_growth": 0.264275,
+    "gross_margin_latest": 0.728641,
+    "gross_margin_trend": 0.001016,
+    "operating_margin_latest": 0.261413,
+    "operating_margin_trend": 0.020503,
+    "net_margin_latest": 0.194592,
+    "fcf_margin_latest": 0.228723,
+    "fcf_margin_trend": 0.015544,
+    "rnd_intensity_latest": 0.180245,
+    "roe": 0.18321,
+    "roa": 0.0954,
+    "roic_est": 0.150856,
+    "current_ratio": 1.148,
+    "debt_to_equity": 21.966,
+    "net_debt": -2296000000.0,
+    "net_debt_to_ebitda": -0.190176,
+    "market_cap": 241748082688,
+    "enterprise_value": 3403708891136,
+    "trailing_pe": 27.307692,
+    "forward_pe": 21.599485,
+    "peg_est": 0.705866,
+    "price_to_sales": 6.329809,
+    "ev_to_ebitda": 289.431,
+    "ev_to_revenue": 89.121,
+    "fcf_yield": 0.034817,
+    "dividend_yield": 0.013989,
+    "dividend_rate": 2.93,
+    "payout_ratio": 0.3753,
+    "beta": 0.775
+  }
+}

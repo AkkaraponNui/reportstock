@@ -1,0 +1,301 @@
+{
+  "ticker": "ASML",
+  "company": "ASML Holding N.V.",
+  "sector": "Technology",
+  "as_of": "2026-09-20T09:05:43+00:00",
+  "source_snapshot": "data\\raw\\ASML\\2026-09-20.json",
+  "composite_score": 78.8,
+  "grade": "B+ solid, watch the entry price",
+  "pillar_weight_coverage": 1.0,
+  "pillars": {
+    "growth": {
+      "score": 77.2,
+      "coverage": 1.0,
+      "weight": 0.3,
+      "metrics": {
+        "revenue_cagr": {
+          "value": 0.155511,
+          "score": 71.1,
+          "weight": 0.35
+        },
+        "revenue_growth_ttm": {
+          "value": 0.213,
+          "score": 76.3,
+          "weight": 0.3
+        },
+        "net_income_cagr": {
+          "value": 0.195488,
+          "score": 72.0,
+          "weight": 0.2
+        },
+        "forward_eps_growth": {
+          "value": 1.042451,
+          "score": 100.0,
+          "weight": 0.15
+        }
+      }
+    },
+    "quality": {
+      "score": 85.5,
+      "coverage": 1.0,
+      "weight": 0.25,
+      "metrics": {
+        "roic_est": {
+          "value": 0.371956,
+          "score": 96.6,
+          "weight": 0.3
+        },
+        "operating_margin_latest": {
+          "value": 0.345955,
+          "score": 87.2,
+          "weight": 0.25
+        },
+        "gross_margin_latest": {
+          "value": 0.528296,
+          "score": 72.1,
+          "weight": 0.2
+        },
+        "operating_margin_trend": {
+          "value": 0.010792,
+          "score": 68.8,
+          "weight": 0.15
+        },
+        "roe": {
+          "value": 0.53942,
+          "score": 100.0,
+          "weight": 0.1
+        }
+      }
+    },
+    "cash": {
+      "score": 80.9,
+      "coverage": 0.8,
+      "weight": 0.15,
+      "metrics": {
+        "fcf_margin_latest": {
+          "value": 0.337564,
+          "score": 93.8,
+          "weight": 0.45
+        },
+        "fcf_cagr": {
+          "value": 0.154429,
+          "score": 64.4,
+          "weight": 0.35
+        },
+        "fcf_yield": {
+          "value": null,
+          "score": null,
+          "weight": 0.2
+        }
+      }
+    },
+    "balance_sheet": {
+      "score": 86.4,
+      "coverage": 1.0,
+      "weight": 0.15,
+      "metrics": {
+        "net_debt_to_ebitda": {
+          "value": -0.711616,
+          "score": 97.7,
+          "weight": 0.45
+        },
+        "debt_to_equity": {
+          "value": 9.092,
+          "score": 94.5,
+          "weight": 0.3
+        },
+        "current_ratio": {
+          "value": 1.334,
+          "score": 56.4,
+          "weight": 0.25
+        }
+      }
+    },
+    "valuation": {
+      "score": 61.4,
+      "coverage": 0.6,
+      "weight": 0.15,
+      "metrics": {
+        "forward_pe": {
+          "value": 28.303585,
+          "score": 46.1,
+          "weight": 0.3
+        },
+        "peg_est": {
+          "value": 0.993108,
+          "score": 76.8,
+          "weight": 0.3
+        },
+        "ev_to_ebitda": {
+          "value": null,
+          "score": null,
+          "weight": 0.2
+        },
+        "price_to_sales": {
+          "value": null,
+          "score": null,
+          "weight": 0.2
+        }
+      }
+    }
+  },
+  "projection_5y": {
+    "bear": {
+      "scenario": "bear",
+      "assumptions": {
+        "start_growth": 0.1207,
+        "terminal_growth": 0.04,
+        "start_net_margin": 0.2942,
+        "reported_annual_net_margin": 0.2942,
+        "margin_basis": "trailing_pe x net_margin (currency-safe route; mixes a trailing price multiple with an annual margin)",
+        "end_net_margin": 0.2409,
+        "exit_pe": 25.1,
+        "current_sales_multiple": 17.005,
+        "sales_multiple_basis": "trailing_pe x net_margin (currency-safe route; mixes a trailing price multiple with an annual margin)",
+        "dividend_yield": 0.0027,
+        "years": 5
+      },
+      "revenue_path": [
+        {
+          "year": 1,
+          "growth": 0.1046,
+          "revenue_index": 1.105
+        },
+        {
+          "year": 2,
+          "growth": 0.0884,
+          "revenue_index": 1.202
+        },
+        {
+          "year": 3,
+          "growth": 0.0723,
+          "revenue_index": 1.289
+        },
+        {
+          "year": 4,
+          "growth": 0.0561,
+          "revenue_index": 1.362
+        },
+        {
+          "year": 5,
+          "growth": 0.04,
+          "revenue_index": 1.416
+        }
+      ],
+      "revenue_index_end": 1.416,
+      "exit_sales_multiple": 6.042,
+      "implied_market_cap": 324623439103.0,
+      "current_market_cap": 645257297920,
+      "price_return_annualized": -0.1284,
+      "dividend_contribution": 0.0027,
+      "total_return": -0.4901,
+      "annualized_return": -0.126
+    },
+    "base": {
+      "scenario": "base",
+      "assumptions": {
+        "start_growth": 0.2195,
+        "terminal_growth": 0.04,
+        "start_net_margin": 0.2942,
+        "reported_annual_net_margin": 0.2942,
+        "margin_basis": "trailing_pe x net_margin (currency-safe route; mixes a trailing price multiple with an annual margin)",
+        "end_net_margin": 0.3211,
+        "exit_pe": 36.5,
+        "current_sales_multiple": 17.005,
+        "sales_multiple_basis": "trailing_pe x net_margin (currency-safe route; mixes a trailing price multiple with an annual margin)",
+        "dividend_yield": 0.0054,
+        "years": 5
+      },
+      "revenue_path": [
+        {
+          "year": 1,
+          "growth": 0.1836,
+          "revenue_index": 1.184
+        },
+        {
+          "year": 2,
+          "growth": 0.1477,
+          "revenue_index": 1.358
+        },
+        {
+          "year": 3,
+          "growth": 0.1118,
+          "revenue_index": 1.51
+        },
+        {
+          "year": 4,
+          "growth": 0.0759,
+          "revenue_index": 1.625
+        },
+        {
+          "year": 5,
+          "growth": 0.04,
+          "revenue_index": 1.69
+        }
+      ],
+      "revenue_index_end": 1.69,
+      "exit_sales_multiple": 11.726,
+      "implied_market_cap": 751919691702.0,
+      "current_market_cap": 645257297920,
+      "price_return_annualized": 0.0311,
+      "dividend_contribution": 0.0054,
+      "total_return": 0.1971,
+      "annualized_return": 0.0366
+    },
+    "bull": {
+      "scenario": "bull",
+      "assumptions": {
+        "start_growth": 0.2854,
+        "terminal_growth": 0.04,
+        "start_net_margin": 0.2942,
+        "reported_annual_net_margin": 0.2942,
+        "margin_basis": "trailing_pe x net_margin (currency-safe route; mixes a trailing price multiple with an annual margin)",
+        "end_net_margin": 0.3693,
+        "exit_pe": 46.2,
+        "current_sales_multiple": 17.005,
+        "sales_multiple_basis": "trailing_pe x net_margin (currency-safe route; mixes a trailing price multiple with an annual margin)",
+        "dividend_yield": 0.0054,
+        "years": 5
+      },
+      "revenue_path": [
+        {
+          "year": 1,
+          "growth": 0.2363,
+          "revenue_index": 1.236
+        },
+        {
+          "year": 2,
+          "growth": 0.1872,
+          "revenue_index": 1.468
+        },
+        {
+          "year": 3,
+          "growth": 0.1381,
+          "revenue_index": 1.67
+        },
+        {
+          "year": 4,
+          "growth": 0.0891,
+          "revenue_index": 1.819
+        },
+        {
+          "year": 5,
+          "growth": 0.04,
+          "revenue_index": 1.892
+        }
+      ],
+      "revenue_index_end": 1.892,
+      "exit_sales_multiple": 17.065,
+      "implied_market_cap": 1225168122744.0,
+      "current_market_cap": 645257297920,
+      "price_return_annualized": 0.1368,
+      "dividend_contribution": 0.0054,
+      "total_return": 0.9506,
+      "annualized_return": 0.143
+    }
+  },
+  "flags": [
+    "Trades in USD but reports in EUR, so price_to_sales, ev_to_ebitda, fcf_yield were excluded from the score: each divides a market number by a statement number in a different currency. The affected pillars renormalize over the metrics that remain, so read the coverage figure alongside the score."
+  ],
+  "disclaimer": "Rules-based scorecard over public financial data. Not investment advice and not a price forecast. Assumptions are listed with every projection."
+}

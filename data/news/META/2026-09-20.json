@@ -1,0 +1,2421 @@
+{
+  "ticker": "META",
+  "company": "Meta Platforms",
+  "as_of": "2026-09-20T09:10:09+00:00",
+  "lookback_days": 180,
+  "summary": {
+    "total": 184,
+    "by_event_tag": {
+      "earnings": 39,
+      "capacity": 36,
+      "regulatory": 31,
+      "demand": 24,
+      "guidance": 22,
+      "speculation": 15,
+      "analyst": 15,
+      "mna": 15,
+      "product": 8,
+      "price_move": 7,
+      "macro": 2
+    },
+    "headline_lean": {
+      "positive": 26,
+      "negative": 18,
+      "neutral": 140
+    },
+    "top_publishers": {
+      "Yahoo Finance": 39,
+      "24/7 Wall St.": 10,
+      "The Motley Fool": 8,
+      "Reuters": 5,
+      "Investing.com": 5,
+      "Moomoo": 4,
+      "PBS": 4,
+      "Morningstar": 4,
+      "Seeking Alpha": 4,
+      "cnbc.com": 4
+    }
+  },
+  "articles": [
+    {
+      "title": "TTD Stock In Focus: Morningstar Sees Market Share Shrinking As Amazon, Google And Meta Ramp Up Ad Competition - Stocktwits",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNVC1FU2Nwc25TV0JEbG1HSjRZZHBmNURfQXZTZDVzVjIyQ010YW1VSHNzX2NXSE8yUVFXakFQZU9zVmlSaDhzYlh4OXhGNkRoY1BTN3RmTS1sSUdudFdZQVpDbjJvSDlnNDNCUUZZQ1lWOG84TVRRNUJ2eWdwWHJvdGpFQ3RiV1dsNUg1QWdwc0pVOW1xdkVYN3NLdklOS01iZ3NjMjJUblBmQmwzLWNKX1pXMUYyZFNpcXZJejlWcDE2Y0tCT3BaQXdTNjVLX3dobEItZ1JtRVl2M0dxUjJjTFJua2dOQUlSZDNtVHNLSzFmUVJfYWdIWFMzWGpRWFJl?oc=5",
+      "published": "2026-09-17T02:31:06+00:00",
+      "publisher": "Stocktwits",
+      "summary": "TTD Stock In Focus: Morningstar Sees Market Share Shrinking As Amazon, Google And Meta Ramp Up Ad Competition &nbsp;&nbsp; Stocktwits",
+      "query": "META competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "The Meta Settlement and Social Media Addiction - Johns Hopkins Bloomberg School of Public Health",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNaUJ5SEY2WHhsSURTbUZzejlsRVgwd2pTY0FoVjhCQ2ZYQmgxOF9BYm1iM3Fkdml2ZEY1djhtWVlKTXpfRzNJN0JfTkE0MEk4c3FCdmt1OE5TMVFIU3daUUs2SGN1TjhqVGtDOTBLbGZXQUtSNDZCV3NvMWtBZ0hPREtsdTdSOGc?oc=5",
+      "published": "2026-09-16T15:42:30+00:00",
+      "publisher": "Johns Hopkins Bloomberg School of Public Health",
+      "summary": "The Meta Settlement and Social Media Addiction &nbsp;&nbsp; Johns Hopkins Bloomberg School of Public Health",
+      "query": "META lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Prediction: Meta Stock Has More Upside Than Its Valuation Suggests - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSVF5bW9zeFN1RGpUd1BJWXZERG40aGdGcHg4bUp1dkNNbk9NUjFGdTB6M1NyUnZ5dzc4NFVSaG1zdmRsNXhaUkhmTmJZT205aFVKVXFzb3lNTEE1MTVmelVpeDIzVEEzLVRFanh4cG4zbkxiRjFvMHZJZVM2Ymx5bnpSbHhRX3VHVjlXOHBhQWhyWVdEM2VBVURfb3dUZjg?oc=5",
+      "published": "2026-09-14T16:00:11+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Prediction: Meta Stock Has More Upside Than Its Valuation Suggests &nbsp;&nbsp; Yahoo Finance",
+      "query": "META stock",
+      "source_api": "google_news_rss",
+      "tags": [
+        "speculation"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "JPMorgan resets Meta stock price target for the rest of 2026 - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNYm5pdlhpVXVqVnAwS0xfUXJqYVdvU3BWYVpZNDg2cVNyaW1pYjZYdll2RG5oMm9YY013WTI5cEp5X0VsTm1yNGlvYzh6VFlxbFVsWnJwYkJkVkZhOTJQV3JrRG42VHg3U3FEQXNRdkRpajRLTWdjU2lqWmsxNkM4bXpwMTBza0N5SWJQSHNXRWJfSm43OWY1ZTM4X3ZaUQ?oc=5",
+      "published": "2026-09-11T03:07:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "JPMorgan resets Meta stock price target for the rest of 2026 &nbsp;&nbsp; Yahoo Finance",
+      "query": "META analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [
+        "analyst"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Meta Buys Stilla.ai: What the Swedish AI Acquisition Means for META Stock - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMzZxXzVnMHZhRmk1bzAxLXJNeExLSkdoTW0yVmtianIwaXZoNHFuekdDYklXT0RmRS1Ea2NjWGVocEVjcmE0MVo0V0dIV05WakNtQzY1SmNpdm9YUHR1dDJOdjdYb3ZUZDItMHR3Y0lPR1ZWS0thbHVHRGh2VVVHRmJrOFBpd0tGUkpvX195TUtSOHZsWEE?oc=5",
+      "published": "2026-09-10T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Meta Buys Stilla.ai: What the Swedish AI Acquisition Means for META Stock &nbsp;&nbsp; Yahoo Finance",
+      "query": "META acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "mna"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Meta shares are still cheap and worth buying. Here's why - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQRUh6NHBRSWVxZVRIXzNpNFd4N2M3THVfOXBuZzhtaURYVUdPUnYtbEFXVzdCb2lyVWVjWXV0R05zekFId1lGaVR4ZDFZZm9rZXd4My0tQzVoaUpHV0VsWjhITnQ3WnZCTk85ZHE0SGhoYW9MeENXRkVvaHl6YkIwRFJtYXowRGVoYkw0WGF4UW5hcjhtQmc?oc=5",
+      "published": "2026-09-09T07:00:00+00:00",
+      "publisher": "CNBC",
+      "summary": "Meta shares are still cheap and worth buying. Here's why &nbsp;&nbsp; CNBC",
+      "query": "META stock",
+      "source_api": "google_news_rss",
+      "tags": [
+        "speculation"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Why Meta’s Stock Is Rising After Muse AI Launch - forbes.com",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNemVjSTVpYVVybFJfYlpwLUozYjM3Q3ZCdzJYR3h1enM0bGp0THVOMWpLUzNndFAwMGRkd1JsNEV6c0t6Xy1VX3dIOUROWkhvWGkwQ09Rc2NCR3EtdGZmR1lvTEhoV0dsQmhCbTZZS0VGOEpHeUdpRzVxWS1xZkRYNjhYb3hxRHJhTk1HdmM3SWxmOEx5YXBCcXdadlEzRmM?oc=5",
+      "published": "2026-09-09T07:00:00+00:00",
+      "publisher": "forbes.com",
+      "summary": "Why Meta’s Stock Is Rising After Muse AI Launch &nbsp;&nbsp; forbes.com",
+      "query": "META stock",
+      "source_api": "google_news_rss",
+      "tags": [
+        "product"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Meta Stock Jumps As Tech Giant Touts Early Interest In Muse AI Agent - Investor's Business Daily",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5UaXZycVdpQUJOMUd0eF83ZlpRRU5ITlZQcHU0czV1UFhoc1JaZVlwM2tkVFJ3UV95T05raEt3aGNzM2Zfdk5ES1E0dWdTOGN2dkFmUHJqOTVNazEtTDFSTUdubkNUMkJBenE5UEFBdTdOYmlCMnliVFNNNUgwdw?oc=5",
+      "published": "2026-09-09T07:00:00+00:00",
+      "publisher": "Investor's Business Daily",
+      "summary": "Meta Stock Jumps As Tech Giant Touts Early Interest In Muse AI Agent &nbsp;&nbsp; Investor's Business Daily",
+      "query": "META stock",
+      "source_api": "google_news_rss",
+      "tags": [
+        "demand",
+        "price_move"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Meta stock surges with Wall Street bullish on new AI agent - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVU5VM2xXTTFmS0lWVkU4cmgtWFNvSU1EUDItZ3FwbmlaXzBiSnBJU1paVGpqNEl5TEJGc2lBNVE5QmN2c1FpMmVycjBOUm9sRzNxZ25yY0k0M2lBb3pLLTczMU1IX0t1NmFSY3dZTi1TVEdCZW5JYk1JNW1WenZsX3BrdmN1NUNFVm5wQ3M4dTdzaE9TSHlfYmVJZDljNGdMWEwxTHNCWU9DNExRakF0d2F6RkNodUIxb2Zpb1IzNA?oc=5",
+      "published": "2026-09-09T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Meta stock surges with Wall Street bullish on new AI agent &nbsp;&nbsp; Yahoo Finance",
+      "query": "META stock",
+      "source_api": "google_news_rss",
+      "tags": [
+        "analyst"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Meta Stock Has a New AI Catalyst. Is META Headed Back Toward Its All-Time High? - 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQU21PU3haYkdEVUl2V1JRY0lSZHF3MDJjREhybDZMS1I4VGR5N0pKeUhGQ00xQ0JDaE5tcWdFa0l6Y0tHVlVQdHNtRk1fM2xiYkRURVF0cVBGX1B1UUU5UTJISHZKWEgwVXIxRDZJajlsQWVfVXpvTnk1MVVrbmJia3BwSnp0WVZvWkhoXzlrSGtUckZGWGVZUWtVcmpwelYwRVg5YWtTdzRRNXZaT2hycmJ4VUlxN0xUbDJ0eFdn?oc=5",
+      "published": "2026-09-03T07:00:00+00:00",
+      "publisher": "24/7 Wall St.",
+      "summary": "Meta Stock Has a New AI Catalyst. Is META Headed Back Toward Its All-Time High? &nbsp;&nbsp; 24/7 Wall St.",
+      "query": "META stock",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Why Meta (META) Stock Is Trading Up Today - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcktGUXVRWU9kTUMwc3duY0JuYVMyMTVpakZXUjNWNzlzejUxRVBNbGNHdl9EZWNrS1p0OTRTcFdjYWVRSXJMUzBaVnl1X1Bva3Bmd24tZk94c2hEaGdraW9IdVo0MjloekpRdVRyM3Y3Y3Z6SVRSdnBMeTgzeWNUQ0p4cnQwcGlNN2RsUU0yVTJXWEIzb1g4?oc=5",
+      "published": "2026-09-03T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Why Meta (META) Stock Is Trading Up Today &nbsp;&nbsp; Yahoo Finance",
+      "query": "META stock",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Meta Stock Has a New AI Catalyst. Is META Headed Back Toward Its All-Time High? - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOQzhlM1JGcFh3VFc3NGhqX2tXY0xma2tCcDc3b0hjdHQ3bFRBUmh3ZjJ5eGh6MVFTR094eXQwUW9QVFM0NWhFMEV5Qk5mMDBYT3lfM3F4MU81SWtkQUhFcFk2WFlqSVg1WjFsUWhrR0pMd0QxLXZlcHFmNFUtYWljQ2ZvTjFCUjZvWmNERnl4SUVZcDZPRTNn?oc=5",
+      "published": "2026-09-03T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Meta Stock Has a New AI Catalyst. Is META Headed Back Toward Its All-Time High? &nbsp;&nbsp; Yahoo Finance",
+      "query": "\"Meta Platforms\" analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Great News for Meta Stock Investors - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQT2R0N3NYQnhNNGhfamFYNGw3Yy1GcjBxckZnSW1EN1pLWnJiU2xwckE0TEhCMjNpNTBLS1JoR3FQU2xuWDltWm1FRjFLa1ktS1hfZG83RE1RNll4ZDROMlo5R3BtWDc1YzhoX1pnNWhDYW90anNnT3RkYTAyQUl6YVlMeE0?oc=5",
+      "published": "2026-09-01T07:00:00+00:00",
+      "publisher": "The Motley Fool",
+      "summary": "Great News for Meta Stock Investors &nbsp;&nbsp; The Motley Fool",
+      "query": "META stock",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Meta Stock Could Have 50% Upside. Here’s the Bull Case - 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRU1FY3U5bXhBSzg1bGVkaS1lZTI4WE9RWm1Cdm9WUGZtZUVBX1lSb1hQazN5QVItTFVoV1BneTNlTHNtX1N0VW9ySXN4N3UxWFNOTVJtQ2ZFdFpqUFByMkRLZzVrX2lGc0E2eGtpM3lZRnhGMTNWSU1JUllWSU9jTFZLMVF4Q3d0ekZBYVJvMTBYNVdKR0RGaWpnRQ?oc=5",
+      "published": "2026-08-28T07:00:00+00:00",
+      "publisher": "24/7 Wall St.",
+      "summary": "Meta Stock Could Have 50% Upside. Here’s the Bull Case &nbsp;&nbsp; 24/7 Wall St.",
+      "query": "META analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [
+        "speculation"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Today's Analyst Rating | NVIDIA Price Target Raised to $300 by Goldman Sachs, BMO Capital Cuts Its Price Target Cut on Meta Platforms to $580 - Moomoo",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxONE56SGtTZEF0R0lGNFNqUjR5TFdrX3kwakpNbEtBb2p1cERPUjYtaTIzWmg3OXZaaVN3M051YWxsQno5Q2R6SUlxNVJMczgxeWtSN3ZQMFNYUFZiVXpaY3M5WVVzN3dYQmxJYWp1N3hLT3I5UXFLdkZVMTkyTEpDU05LX2hWa3RZNHpMN2h2eE52ZzFrRUdFWEs3d1htYUE?oc=5",
+      "published": "2026-08-27T07:00:00+00:00",
+      "publisher": "Moomoo",
+      "summary": "Today's Analyst Rating | NVIDIA Price Target Raised to $300 by Goldman Sachs, BMO Capital Cuts Its Price Target Cut on Meta Platforms to $580 &nbsp;&nbsp; Moomoo",
+      "query": "\"Meta Platforms\" analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [
+        "analyst"
+      ],
+      "lean": "negative"
+    },
+    {
+      "title": "A Metal With Few Substitutes, a Supply Chain Dominated by One Country, and a Historic Canadian Tungsten Zone Being Drill-Tested Again - PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNR1p0UEVYMjQ4RzRrRXItR3EwbHR0TVp3RkhvdkJmSTF4WElfdzF1MmdfTng1ZXRZcnVnWHc5bWxPaWZFYUNhYS1aOXhvcWFTd1E4dlEtdTFSa3NMYmNyM3psWUFveHRWQWp0bTU4dHNuc2JaSmo2VjlDMVJfZTFMcVFnVnVrdFlYelpfRVpUVVBCUFp2Z180ejh2M2pOMEFpUGpmTF94dHJoSHB1cUNwQkFOTGQxVGtxV3U2dWI1dVpvZXVDbDVQOEhfTXZlWkNqWTJHWi04NURWLWVHaTFvcnZJVHhZMkR3ZTFKQUx2MVFOdE52Sm1NYjhEejBBRGctX1pBYTJuczVqS3J6MEVqS0hrSmN6Zw?oc=5",
+      "published": "2026-08-27T07:00:00+00:00",
+      "publisher": "PR Newswire",
+      "summary": "A Metal With Few Substitutes, a Supply Chain Dominated by One Country, and a Historic Canadian Tungsten Zone Being Drill-Tested Again &nbsp;&nbsp; PR Newswire",
+      "query": "META capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity",
+        "demand"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Why Meta Platforms Stock Popped Today - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNT3ZHQkV6dlo0Yk9WWU1QNTEwRHBvVDk3LXgyWUNOUksxc3NKNHkwRGFGSF9HQ3JycHNZZURKdlpvZDRsb3k3UXlQQ3ByTFctVXFEeGRYb0N4ci1pT1VLMThBY2xOVHVqREFEZUtRanIyUTNuZmMwWkRCLUlkT2JoTkl1aXNIZ0NBaTJLNDZLYkNaTjZ4bXpFeElNS1U?oc=5",
+      "published": "2026-08-26T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Why Meta Platforms Stock Popped Today &nbsp;&nbsp; Yahoo Finance",
+      "query": "\"Meta Platforms\" stock",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Meta, states agree to $17 billion settlement in child safety trial - NPR",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNazdJdFVpUTVyZmRFU09JbV9xZmlJYnQ4Q1JHMF9lcWhXTzF2QU4zNkY4SW1QUzFoaTdGbGRDaExOajJFLXlnT2I1ZGRUTlBlRkVwY3JoaFVHTWtMTkdtclp0enBwSm0wZThWRDdtSmxVbDQzOFI3cDdvejUtbTNoaG93SHFhVUVX?oc=5",
+      "published": "2026-08-26T07:00:00+00:00",
+      "publisher": "NPR",
+      "summary": "Meta, states agree to $17 billion settlement in child safety trial &nbsp;&nbsp; NPR",
+      "query": "META lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Attorney General Schwalb Announces That Meta Will Pay Up to $17.1 Billion for Exploiting Kids with Intentionally Addictive Social Media Platforms - District of Columbia | Attorney General (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQNXhVUFFKMmRXZk1QUjZ6MFhfTGhLTVZwTnFSUjVkbEVzWnZTcXNmQmgzcFZHbXNkWEN1RTVrSFJxZE9GM1dnQmp4aExiLWx0V25FbHhzcFB6LVIxU1U3SDZLdFQwV0tlX3U2c2YtOXUyS2pOUmhEcHFsMTVOQzRwYQ?oc=5",
+      "published": "2026-08-26T07:00:00+00:00",
+      "publisher": "District of Columbia | Attorney General (.gov)",
+      "summary": "Attorney General Schwalb Announces That Meta Will Pay Up to $17.1 Billion for Exploiting Kids with Intentionally Addictive Social Media Platforms &nbsp;&nbsp; District of Columbia | Attorney General (.gov)",
+      "query": "META lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "product"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Meta to pay up to $18bn to settle claims its platforms harm children - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ZMnNvQS1PU19ZRHZwMV96SmxHT0tQM245UFF1eWlOam4xWTlKdXcya0ZlbHpFLTM3Rzl1b1dhOVp3YklOYzI4Um54eF90UXFLV0RkMXpHdHFYZw?oc=5",
+      "published": "2026-08-26T07:00:00+00:00",
+      "publisher": "BBC",
+      "summary": "Meta to pay up to $18bn to settle claims its platforms harm children &nbsp;&nbsp; BBC",
+      "query": "META lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Meta reaches $17 billion settlement with states in landmark trial over teen social media addiction - PBS",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQMWtjakdCaU1MSm1tcTBfLTB0clc3Vm52Qlo5Qll3UVRkdkU1aEQybTBmZnhpSFN4ODJGZ0tlbENiQ2ViUkk3TDJHUFVYai0wWDhCLW5xYmlqbzV6MlpvT1Ntd1ZaNWwycnRRLW9IdEp4dmpwVkl6b09jaXB0a3JtR0RDdnMzYnRSbXhPaU83Mm9ZOEtoTDQzYXdYN09OY2t4cjYxeUo2Y1hfeFdqTjE5UG1UbkYxQ0lYSG9UTzV1aWFlSmU0S1N3SnNxcU5OZw?oc=5",
+      "published": "2026-08-26T07:00:00+00:00",
+      "publisher": "PBS",
+      "summary": "Meta reaches $17 billion settlement with states in landmark trial over teen social media addiction &nbsp;&nbsp; PBS",
+      "query": "META lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Tennessee to receive more than $750M in $17B Meta settlement over teen social media addiction. Here’s what we know - WSMV",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPSGtCWHRlRFU5XzI4VjRXX0FrQWowbDQzWC14NXN0SFlrU1JXNnJkck51WjZJLTFIXy03MVVfUWRrbzJUN3JUTkE3eEZKNVVmdXdSWnZiS29SYTN0eURxZmttSkg3UW11djl5VFIwSzM0TVQwbm5ta2FzSjI0bjAzd1lCUGZpTUpqeGlfYUFJT0hucDcyZHp3QVhTc3FYSlpJV2VsXzE5QXh6ZDNTMnZsTUZ0a2JaNTZRZi1Zcll4RkVSVUhqUTlydHg2MzFzdFRpNHZn?oc=5",
+      "published": "2026-08-26T07:00:00+00:00",
+      "publisher": "WSMV",
+      "summary": "Tennessee to receive more than $750M in $17B Meta settlement over teen social media addiction. Here’s what we know &nbsp;&nbsp; WSMV",
+      "query": "META lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Indiana to receive at least $300M in settlement with Meta - Indiana Capital Chronicle",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdk5vUXd4OXJ5X0VGUFBNTmlHYndBeUJ0NV94dnItVW5MU1VSdlFIeXIySXNrRlMzd0tBaW1KUUJ4SGE2aEV4YW50NFQ2amxJcTZVZTN0RmxycnFCdGF0MURwREFCS0Z6RGN0WmJicUw3Q1hPNnNsaDhlQ2RnVXBKV1I1TW41eldzeGhJZzcyTmgyYk42Ml9wSGg1X1hTc0Y4aHhNeTVnYw?oc=5",
+      "published": "2026-08-26T07:00:00+00:00",
+      "publisher": "Indiana Capital Chronicle",
+      "summary": "Indiana to receive at least $300M in settlement with Meta &nbsp;&nbsp; Indiana Capital Chronicle",
+      "query": "META lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Meta to pay 47 states up to $17.1B in landmark child safety settlement - Stateline",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQlpvOUgzMkFBeUd1OElkdF81SU9VVkRfRFJuNzM3VV9CWEhuMFVobTl2Ums5M1FsV1FUYnpmd3pXVUFxQnFjaGFJcGpXMUlqOUtNQ3d0dzdXOWk1T3d3UUFDQzZVYTU1Xy1VN3BIOVZCeEMya1pGcEQ5V3IyS3pMcXFSa0plQUlVY0ZkVS1zZngxWFBBV3NmcDVITUJfd0dkTkVUQzdud1FOWlcxZXhN?oc=5",
+      "published": "2026-08-26T07:00:00+00:00",
+      "publisher": "Stateline",
+      "summary": "Meta to pay 47 states up to $17.1B in landmark child safety settlement &nbsp;&nbsp; Stateline",
+      "query": "META lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "AG Sunday Announces Historic Settlement with Meta that Assures Protections on Social Media Platforms, Brings $500M+ to Pennsylvania - PA Office of Attorney General (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQcC13U2Y1cUw1U0syQU93eXR0ZEJscjNqMjZjTjlsTldjRnJJbkU5MHZsSk1KT3c5aDZ4WWxRdF9IMEx0R1pWaDhyRzF0aE1TajBHZGFWU0pzTXQ1YkdBemhoMnJfSHY3cnk2dmpDMHFfUXhYYldUenM0bnY2VlVzbFl6UFI0OTZxUV9WQkhNTFdpTkNTTVRucVNXNlhiZ1BXdVdsSHdieUVrbGl4QVRUUnoxMFJBWWpSY3llVERxRmJjd0JoZk9qbjVtWURUc3prNTNUSmt5TzlnQ3AxZUxhemtyUjVwbzNwSVhrNWN4M2gzcnZ6NUViblRnYTlFeUdZSkJnSVJB?oc=5",
+      "published": "2026-08-26T07:00:00+00:00",
+      "publisher": "PA Office of Attorney General (.gov)",
+      "summary": "AG Sunday Announces Historic Settlement with Meta that Assures Protections on Social Media Platforms, Brings $500M+ to Pennsylvania &nbsp;&nbsp; PA Office of Attorney General (.gov)",
+      "query": "META lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory",
+        "product"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Meta to Pay Up to $17.1 Billion in Landmark Settlement Over Social Media Addiction Claims - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOd0dRVTg3ZWtFRUJ5eDBpeFU5dHJfbVd5MXI4cUJ2aTR1NUFCOXZRMVY4TThva1Z0VkxRckttUlhjZ2wtaFJoTzd0bkFtazVBMmpYaHBDMmVieXdqaDhVTGUzR2FmMl9VNFJIbU1qTlM5X3d5VXlPTkNxdnNMalBpaG1FdUNiRkwyWGptenNOR2Y2UWhucExmcXJFNzdwZw?oc=5",
+      "published": "2026-08-26T07:00:00+00:00",
+      "publisher": "The New York Times",
+      "summary": "Meta to Pay Up to $17.1 Billion in Landmark Settlement Over Social Media Addiction Claims &nbsp;&nbsp; The New York Times",
+      "query": "META lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Attorney General Marshall Announces Historic Settlement with Meta Platforms Inc. - Alabama Attorney General's Office (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSmFMcWlXLTAwX01wUDJfa1pGWUZpLXF6OUlGT28td2pWTEpzZmtZSWdGdVR1SWFQd3Vfb3dkSUUxZC1wMndjd1ktX2VTN19CTy0xYm5vUDlEemNfXzlDSWxuUmgxRHEtMDNyeUlBdlRhTlpaN0Zkb0VIYnBEX09mWFhGWkh2NTRHWS0tRDhWNEdmNkt2emY0dE9hMHRXdlRxWlJGOXVVR25mQQ?oc=5",
+      "published": "2026-08-26T07:00:00+00:00",
+      "publisher": "Alabama Attorney General's Office (.gov)",
+      "summary": "Attorney General Marshall Announces Historic Settlement with Meta Platforms Inc. &nbsp;&nbsp; Alabama Attorney General's Office (.gov)",
+      "query": "\"Meta Platforms\" lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory",
+        "product"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Attorney General Weiser announces historic settlement with Meta Platforms - Colorado Attorney General (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQeTVRbXlpNk5ibGYyejdBeDIwNDB1dy1vOWZGdk5IMHd0d0IwR1Q0VE1NSGJrSWxpREl6NDFVbnVsajBIWTluZjJrZ01pVkh1bjVjSFV1bnJ2WXYwelVxSGhUTnJoRHBPZUtyUXVWUWp6M1ZlSVNMWkhkamtGMWFGUXVYTkRfdw?oc=5",
+      "published": "2026-08-26T07:00:00+00:00",
+      "publisher": "Colorado Attorney General (.gov)",
+      "summary": "Attorney General Weiser announces historic settlement with Meta Platforms &nbsp;&nbsp; Colorado Attorney General (.gov)",
+      "query": "\"Meta Platforms\" lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory",
+        "product"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Meta agrees to settle social media addiction claims with states for up to $18 billion - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZzhhMEdlSGN0LXpUaWFENWt1ZzJieUx4Wmtudm5kb3pZUHVHT2cxcG9aYnFzNmxZY2NYYmZJbTlneko0ZjJ3T3A3QXRhRFFvYXBmamdvSUI3ZUtiLU5XNnZHTkl5MWVPVEswUG53UnRqczNkQlhMeS1Zb01mdlpOVWV1NWRjOHY3T1d5aVBpVFZ3R0s1YW9UNFY1WFNvM21GNlA1THdoVQ?oc=5",
+      "published": "2026-08-26T07:00:00+00:00",
+      "publisher": "NBC News",
+      "summary": "Meta agrees to settle social media addiction claims with states for up to $18 billion &nbsp;&nbsp; NBC News",
+      "query": "\"Meta Platforms\" lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Nvidia Vs. Meta Platforms: Why Wall Street Expects Their Q3 Performance to Lead The Magnificent Seven - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORk5pS3pUb3pVMmVtbldpRUlCakRkQkE3S2hxUnliMzV2Q0lWbUg3aGs3TE8za2NZMzlWYUJOMFlpcnBNWENZMm9xMHNfQVhHRDgtVlhVUURob01FTElQYi12aURpd1RnN1N3Sl8ybUcyQjRmNHpYZkFaM0U5Y2RpOXFxWkEzcXA4X2V2Nl9ST2M1d3Q3Q2huZA?oc=5",
+      "published": "2026-08-25T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Nvidia Vs. Meta Platforms: Why Wall Street Expects Their Q3 Performance to Lead The Magnificent Seven &nbsp;&nbsp; Yahoo Finance",
+      "query": "\"Meta Platforms\" capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "analyst"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Nvidia Vs. Meta Platforms: Why Wall Street Expects Their Q3 Performance to Lead The Magnificent Seven - 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOa3NTMkQtcTZWZDVZQkJ1VFpGQ3FQb1lNdWQyQ0V6VFVIT2pOend4WUJKbmljbkNtZmxiMlRLTkpzOVV3U1NRcTJNXzktNENpRjgzSnB5bDJBSU8zRXM3WmMyTkRvc2dsMGVJX2I3bDlGY21NLTlsN2d5aXo2QWZqVTAxb0N6bnlvVlZHOW84R0dfTW15bXFBQ2RRaF9LVHkwLTRVODREMEliRXFzczBBamRsSlFUNG50bXlxUXVQV0czcERSVlY1ZWozQnFHU1NVcHB4aXM2N212M0U?oc=5",
+      "published": "2026-08-25T07:00:00+00:00",
+      "publisher": "24/7 Wall St.",
+      "summary": "Nvidia Vs. Meta Platforms: Why Wall Street Expects Their Q3 Performance to Lead The Magnificent Seven &nbsp;&nbsp; 24/7 Wall St.",
+      "query": "\"Meta Platforms\" capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "analyst"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Meta Platforms Stock Drops 17% YTD: Should You Buy, Sell or Hold it? - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRVhBMndiRlR5bnVsVllRSUVENHVLd24tZzBPR1ZnVW81clBRMWJ5WTFwM1NEbXJ6bVEwQTlEczRrVVRaaTFnclNKZFdrWVRxOWN2dHVTSnBYUEZkdXVRbTg0c1RVZGx0Zlc0b2R4NXRYNzRySS0zM0s4LWphbVlldmFfUEhyRU5HajNSUDYtWWVxbWlHY21Fb3hR?oc=5",
+      "published": "2026-08-21T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Meta Platforms Stock Drops 17% YTD: Should You Buy, Sell or Hold it? &nbsp;&nbsp; Yahoo Finance",
+      "query": "META stock",
+      "source_api": "google_news_rss",
+      "tags": [
+        "speculation",
+        "price_move"
+      ],
+      "lean": "negative"
+    },
+    {
+      "title": "29 US states are suing Meta. What might it mean for the rest of the world? - The Conversation",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSEV5Z0Y4blhqTmdFTGJ4VnZ1SFBRc0tEcE1TTThwT2lnTnVuTHVGckR6NHFXeVo1QzY3VU9SWkFYaUxmaGNMX3F4aEtXamV2SHlpNHkwdFV2eDZlNzFZX3lyY1V4bmxZX0xxVUNGS0hiQ1V5SGtMOUw0U3lxVFVBaVdoZ201LWpzMFVmM0trclhPMV9mbmtNVFgyY25tM1E4UHdaS0ZISENSRjg?oc=5",
+      "published": "2026-08-20T07:00:00+00:00",
+      "publisher": "The Conversation",
+      "summary": "29 US states are suing Meta. What might it mean for the rest of the world? &nbsp;&nbsp; The Conversation",
+      "query": "META lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "What the social media addiction lawsuit could cost Meta - Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPYVpPVUVyLWJvdUNzdTVIYWZYSGVfbmYzenVJd3ZOVjV5THc1RHFaLU5yZWxRLUppdVB3LWI4bG9DSF9ZcXU2T2o1S0l3UWk2VjdLOGo2Ukw0Um5MWVpSMktlLU5OcDdGODVRU1pCbGZPTzlsVHhTZTVkT2llT2tDTXJ0dVQ4UHRJeGxZVWVxaE5lM0RtUkNLMmg1amlqa3VT0gGmAUFVX3lxTFBsdWZKbVZ1UHdXdFNzdmFDMjlFMXdfZXBSNnZmT0pSeGVTUjgtbTcwMGJ5NkdyV0hqTDhUVXdoRnQ4Rm1kSmxtM0lZTmhGX3BHUThWa1h4d2RfU2h6Zm9na0hzTHU5cmpjWVdsRERoZklZcXNycHpacWNXaXJvSmxoNkM4TTROS1V0dkQ2Z21QcjdrYjVfUWhfaE1ENDlTaEYxSDdvNXc?oc=5",
+      "published": "2026-08-19T07:00:00+00:00",
+      "publisher": "Al Jazeera",
+      "summary": "What the social media addiction lawsuit could cost Meta &nbsp;&nbsp; Al Jazeera",
+      "query": "META lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory"
+      ],
+      "lean": "negative"
+    },
+    {
+      "title": "Meta trial begins in Oakland with states arguing its Facebook, Instagram preyed on young brains - abc7news.com",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMmZJY1V1QW5hbk85YktMbFVkdk0xSFpxRmFyOHNaS3BWemhkVEsxN2hacUF4Zzg5U21RRzRwNEMyM1BIWncxSmpWVWVDT2RfakNzaGtKSk40YTNaTXlLcUZlM25jVV9ORWhQZjN1UUptdWR0WmNNN2puSFVCVDNPcWtXNkFaS3JjcEZsaWl4R043WWdSdUs5UmdGbzBJMFNOQV80ZGREdTZLN0l5a1dGa3N2RDIxbEhDTG8w0gHAAUFVX3lxTE1mY0VMX18xUEVvdlVQbEQ3bkFMd2lIRGIzaWpFRF90dVFsNlZMOU1SNzdvM2pmQUoyWGhzaHVSQ3pGTzh5RXBlQUxOZVQ3TzhfMUJwUnZndjRPUkNVeUpNR3hTRGs1aWw1eWJQQnJsN0hvc3BTd3VZRVRHb1EyTkZvaDJ1cURodzVnSjd3ZUtnRkFUcU50TGd4QWc1NXFjZkEzRnJFRFhPWEx3OU5JSW9fYjRjUW9XMmpfdXRGTG9IRw?oc=5",
+      "published": "2026-08-19T07:00:00+00:00",
+      "publisher": "abc7news.com",
+      "summary": "Meta trial begins in Oakland with states arguing its Facebook, Instagram preyed on young brains &nbsp;&nbsp; abc7news.com",
+      "query": "\"Meta Platforms\" lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Why Meta Platforms Stock Crashed Today - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQV1ZZWGlObzdjMXFvQVB1a2s4V19rWU9ZaXlHckRoNHl1TWtHZHdPUzBCUTFLUWNlVkRDWW5fTmd1RkY3STVERmVocnZTVldGMzJ2VXJhTXZEMTBnZ05nRy1IbXd2QkxkUVpEZFk5bnltMWdGUkN2U0l2WHltVjR6T21Sa1ZIQXVH?oc=5",
+      "published": "2026-08-18T07:00:00+00:00",
+      "publisher": "The Motley Fool",
+      "summary": "Why Meta Platforms Stock Crashed Today &nbsp;&nbsp; The Motley Fool",
+      "query": "\"Meta Platforms\" stock",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Meta Platforms (META) Heads To Trial, Is The Stock 44% Undervalued? - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPaDcwTG8xV2czdTMyMzQ1OTJ4M185LXpPYlFvQkdxSlNsS1NBVHdsMVM1VE94NDdoN3NPb1h0NUNTZEJBdXBZdFNJcGw0QTdrZHBYcjBZU1FQeVMtSmZMajhrRkNTNEQ0djdUa2V2MVJ1a1NxRHg3ZExhY0Viemgwekh2Smw5MV9aTGZ0R0xJR0RER3kzd1I3Y2JadGY?oc=5",
+      "published": "2026-08-18T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Meta Platforms (META) Heads To Trial, Is The Stock 44% Undervalued? &nbsp;&nbsp; Yahoo Finance",
+      "query": "\"Meta Platforms\" stock",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Meta is on trial – again. Here's what to know about the case brought by dozens of states - PBS",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZ3AyS0lwamZqbnVzTnFzT3ZvWi1qa1hGSkQtVHROYW1TTG9KaU5oSWRrZWduSXg0c2p4b2p3cHJVQlNkb0NaUE1XWXBoUVAxZkpOR0ZoamVlUzFhUW9ITnhDVXFkZHF5azZkdEE2NTU4YmNTeDRxNWxVNTZEcGpaVHJaWU53X09QUk1laDYwNElkdnI0djZaekwxd2h3a0FqYVIzaXRrS0t5U3Vz?oc=5",
+      "published": "2026-08-18T07:00:00+00:00",
+      "publisher": "PBS",
+      "summary": "Meta is on trial – again. Here's what to know about the case brought by dozens of states &nbsp;&nbsp; PBS",
+      "query": "META lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "WATCH: Advocates for greater social media protections for kids speak outside Meta trial - PBS",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOYi1jZGhFeV9EQkk5NzI2Y3Fvcll5MjdvYmdFTXN2V1FiTjhkVVdHbXhUMlR2VHVPcVVuSEh5aFhYY0JzbkhLbmY2dHhOdUhCVFlRMzMyQ3dUMjJCcHYxTWRJRERwcnlUaUhDMGNlVWEtRTdMT3k2aC02Y3oyN1lIbUV2TzN1TGkxSGFZaDB3T2l4LWhKMGg5SXVfUDlqeFAxYTZ0UWc4eDhlZ1ZEYWlBQVcybjEybUpOTjg1bjlXbw?oc=5",
+      "published": "2026-08-18T07:00:00+00:00",
+      "publisher": "PBS",
+      "summary": "WATCH: Advocates for greater social media protections for kids speak outside Meta trial &nbsp;&nbsp; PBS",
+      "query": "\"Meta Platforms\" lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Meta is back in the courtroom to face its biggest social media addiction trial yet - CNN",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbE9GZktPRG1jdTVDZExPZThRU3V2VU8yS0REbXQwdHZDTWx1MktrLVBVWTVMcldlM2daQS1iZ0tiYV9ZOUp0NWR5UTRpZTRGTEVueWJ0RWp3S3ZaaGxIUVdLcjNzUkJBTER1dXI5ZTNVRHJmRWs4ekx4VGRObnY2eS1MelExVGRYRkV4bElZVXJKc3F6Y1FR?oc=5",
+      "published": "2026-08-18T07:00:00+00:00",
+      "publisher": "CNN",
+      "summary": "Meta is back in the courtroom to face its biggest social media addiction trial yet &nbsp;&nbsp; CNN",
+      "query": "\"Meta Platforms\" lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Meta to face massive social media addiction trial Tuesday - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRE9FMmU4NG1pY2hPamltaWtuS3F4YVdWMkl3N0VDVW5COGl6SjhidjNQeG1LQzhNRUo1QUtrOUlqdEZ6V2I5OFVPSG9EWFlHNi1ObDNfOUNXVlJMVHBnYUVFQ05lemc0R29JaENmY2dwcml1TXZNdmU3OWFaRnRDcE5hQXoweVJBeHlza3p2VWFJSEduc1VVRnRmbzBoYWZBeHppeFRoWUVyRDJ1STA3VFAwS3ZFakx1?oc=5",
+      "published": "2026-08-18T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Meta to face massive social media addiction trial Tuesday &nbsp;&nbsp; Yahoo Finance",
+      "query": "\"Meta Platforms\" lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Meta lawsuits: Is social media facing a global legal reckoning? - Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZGUybnNtMjZSZ3F2UDdBWW01aHhBYno2Nk9Pd1lUX1hTNDJfMXpTWmVnWE1TeUg2dXVmNFM2WjhoeUp1VWd1MmwzdFkwRmJCTjhIX0RaRW5xX214YXd6Y3dPaWlUMC0yTDltRGVEQ2FjN0xUZGJ5NTUzNG5mUTRFTElPVTktZk9mV0d6dG5vUWlOZm94SlB5UXdJTXZlTV9DUGJEQ9IBqgFBVV95cUxQUnZWWEdpY2xZREcxWll6Wk5rX3p4TTNyR2xGbm5UdDFmRVZfSWEwOVNuLWF6Z3RmUi1uelNZbFRjUEExZ2poWnhEdy0yRmg2dVFYdFRGNXRoeXF6OHk4YzB2NHVQaG5VcVRvMHRoSWZPdGhCNHYzdE9mZlkxTGdMTkctb09pSVJUdDVUYlJhQUg0QUxoS2JFMHBXOGY3VGh2V0RMMHRSbzktdw?oc=5",
+      "published": "2026-08-18T07:00:00+00:00",
+      "publisher": "Al Jazeera",
+      "summary": "Meta lawsuits: Is social media facing a global legal reckoning? &nbsp;&nbsp; Al Jazeera",
+      "query": "\"Meta Platforms\" lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory"
+      ],
+      "lean": "negative"
+    },
+    {
+      "title": "Meta Stock: The Market Is Punishing AI Spending. Here’s Why I’m Still Bullish - 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOXhXX0ZLbnBOVjNKRmNDSU1pam9uUk82TzVOMFBNbWJ6R0hGa2pGdm1TRmxtdjFPdDBteEloVjMweWo1c0xJZElWTzVLMHcxTDBnUFRMU1JfZzVPMDJZTDNSYjBrNF9FQ1RMRk1GTUlBYUtEelJBWFQtR1lUYnRGLUhuWkhaMDZ4V24zM1lVblNuQ19KaU9ieFZuWUFBUzFoQ3NyQmJlWFpRQnNuY3NEaXNUUXJaWG1v?oc=5",
+      "published": "2026-08-18T07:00:00+00:00",
+      "publisher": "24/7 Wall St.",
+      "summary": "Meta Stock: The Market Is Punishing AI Spending. Here’s Why I’m Still Bullish &nbsp;&nbsp; 24/7 Wall St.",
+      "query": "META competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Meta Platforms Falls 4% on Trial Risk With Costs Up 55%, Free Cash Flow Down to $784M - 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQc3JiMEQzVmJVaUR2QVU4eDBFVjV0Y3V6czJlbXUwVHM3NjVSUDMtT3BZazloamdNU2QySUtDeWU4S2Vwb3NaNHZLWVRUNXlkRlV1NzN5TndTM1NCNHRvZWdMMmVsSkd4S0I2QVBLUDNucDNDMXo0LVNfN2U3N2ZYbkFHajNjUmVfcUdzYU9Rczd0NGRoMW1HRUt2a0k2WF9hSVFQRFR0VmZXZ3FkWjJUUS1wQ2xKUjh1emVJS1pBVGxyRm8?oc=5",
+      "published": "2026-08-18T07:00:00+00:00",
+      "publisher": "24/7 Wall St.",
+      "summary": "Meta Platforms Falls 4% on Trial Risk With Costs Up 55%, Free Cash Flow Down to $784M &nbsp;&nbsp; 24/7 Wall St.",
+      "query": "\"Meta Platforms\" competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory"
+      ],
+      "lean": "negative"
+    },
+    {
+      "title": "Why Meta Platforms Stock Is Falling Today - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8zSmEzRVdlclFVVURZMVhJRHRPc3lRYzJTTjBpZXF6Z29XdllHYngwalNPZk90WjRVYWlJclJHQ2JxMVVnY2wxeVlwdVFmMFZXQjRObFU0SmVkWmFNcmJYd04tQ3dYWno3ZUhpTV9rQkZCalNXMlhjb2FVeXZkbWs?oc=5",
+      "published": "2026-08-17T07:00:00+00:00",
+      "publisher": "The Motley Fool",
+      "summary": "Why Meta Platforms Stock Is Falling Today &nbsp;&nbsp; The Motley Fool",
+      "query": "\"Meta Platforms\" stock",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Should You Buy Meta Platforms Stock Below $600 Before Mark Zuckerberg Unveils Its AI Cloud Business? Here's My Honest Take - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOT24yMWp6NDludGhuXzhlMUJxcnRvSF8wYmh5VGNhY2FuWVU4Y2ppUmxsWndEd1BaX1JCRlgwaXJwZm5wb01vU0loeWNvbkpuWDBxNjVpRVNQZUpHdzFwdTVBdE12T21heGN2dTFsN2Y4V2R3bHA4M3k3THE0VU5FaW9UbTBwZ3Y3RzBfZWFhZmZtODVGdlRNSUNWZw?oc=5",
+      "published": "2026-08-16T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Should You Buy Meta Platforms Stock Below $600 Before Mark Zuckerberg Unveils Its AI Cloud Business? Here's My Honest Take &nbsp;&nbsp; Yahoo Finance",
+      "query": "\"Meta Platforms\" stock",
+      "source_api": "google_news_rss",
+      "tags": [
+        "product",
+        "speculation"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "States take Meta to trial in California in the biggest fight yet over social media harms to children - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOOG5rZWdhbGRKSkV4UlBQOEtWWVpoS05LbkFqcWVRMzFwWm9OV0pFRXpQNXB4R0tRNEJneDk5eHhYZlpJYWJDQnNjT0Q4QlpCTTlsbE5TUS1Rd2RZX0lSTFJpa21ycDZXWDNTcENUcG9Sc01UeHphX2V5bDR1dllld0I4V1d1Q3ZYSXpURVRfemRqUVhvLWQzd2RYaTZuN1lrY0E?oc=5",
+      "published": "2026-08-16T07:00:00+00:00",
+      "publisher": "AP News",
+      "summary": "States take Meta to trial in California in the biggest fight yet over social media harms to children &nbsp;&nbsp; AP News",
+      "query": "\"Meta Platforms\" lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Meta (META) Stock Sees Fair Value Cut As AI Spending Raises Margin Questions - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOcmducUJ1Z3NKNHhDR0NHM195LTRnekhQMGZwXzJNdmQ2UXh0OFlwTnRnaGZBblYyMEt1QUJYTmNiWEVLUFc1SnREYjZjNWpvdmxIdHc3Z1R5M0ZvMVQ1X1o1bTlrWDB5MEw4ZC1GX0RwTk1fdmdWRTdBemVmTUVaMDFPOHBZd2ljM0VtQjl6ZHRmYTQx?oc=5",
+      "published": "2026-08-14T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Meta (META) Stock Sees Fair Value Cut As AI Spending Raises Margin Questions &nbsp;&nbsp; Yahoo Finance",
+      "query": "\"Meta Platforms\" analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [
+        "guidance",
+        "capacity"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Meta Remains a Deeply Discounted Giant: Wall Street Expects 30% Gains, One Analyst Expects 100% - 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNYjZGckEyWGVsbHdUNHBIQnl2NlVuaUxwNXJ6ZUtJQkNKN2FBaGk1Tlo3enRJMnNJdGhyNWdUMFUwVndqRUhmd3RLMTBmb2k0aDJ1aWFFOVNDTTR0OGcwSHRUN3lTb3gyalBZVEcwX0sxZGZnZkJtcm11RnR5VG9KMGNSdmRwVUFVbmJqa3dWZGd3MEFxVWNCU29BS09iVVoyNUxOYlZiWERDa3o2NUNhWUJ3Yi0wcUJaV29QZ1pIOG56djRERjU5WXZNdksxdFdM?oc=5",
+      "published": "2026-08-13T07:00:00+00:00",
+      "publisher": "24/7 Wall St.",
+      "summary": "Meta Remains a Deeply Discounted Giant: Wall Street Expects 30% Gains, One Analyst Expects 100% &nbsp;&nbsp; 24/7 Wall St.",
+      "query": "META analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [
+        "analyst"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Meta Remains a Deeply Discounted Giant: Wall Street Expects 30% Gains, One Analyst Expects 100% - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQeFFKQVdBaE9UX0VpRGVEQTdvaFFEbWZEbHNXRlh5UTZ2Sk5ZWE5Ha0lZdndCT1ZpSjZSS2Vza3lCak5Cd3pOcTNPREptSFVIcE9Rb0dHMmpjMzhvQnVFcUZLc3VHRDlrN25mMUMtUHRidFVFbDR3d0dGT2R5anotb042ZG9MWGxzNnVOc2FfNDhDNXQ4R0ZHUkotVDhQbGF6UW5R?oc=5",
+      "published": "2026-08-13T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Meta Remains a Deeply Discounted Giant: Wall Street Expects 30% Gains, One Analyst Expects 100% &nbsp;&nbsp; Yahoo Finance",
+      "query": "META analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [
+        "analyst"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Jury selection begins in Oakland as Meta faces federal youth harms trial in California - abc7news.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWDdwZGRVVVItUXl1aVlDSC16YzRhWmVJcHJtcDBmVE96cFZiVV9NUW9oYjVyNHJKXzJ5SzVTRlFCSUdTSHVPdDAzVXdHdXlEenVET2VDdWxTYnl1RFBsU3pxUDBJWC1tQUdNYTJFSFJlZUV2blpTRnVVVEo2QkJEUTlmRlIyS3NaQWJFVEJqTXh1Z1hHWTdZNUU0SGJXRUtPaU1KSjg3MDN6Nm9WM1hPWTlVNNIBuAFBVV95cUxQc1poU3lyMVFQbFBiVFBUWXJ2RUhVWTBzbzVRNXE3VHZUWGxTX3VoemNFVGNiZFI3ZkR3andNMVRWc1paOHFscWZkUHN2VDVydEpmVmlING55VWlWZ2x5MFYwdjFwNnBtR05oN2tuZi10RFNMR01xSF9FX1ZsdGFhWUlxbUhBNkpwdGJ1OXdtdzBSbmhfcG1PWkM0azF2dndHd3NfdUR1aG5qcmw3X3NmRWhiaUNlSExr?oc=5",
+      "published": "2026-08-13T07:00:00+00:00",
+      "publisher": "abc7news.com",
+      "summary": "Jury selection begins in Oakland as Meta faces federal youth harms trial in California &nbsp;&nbsp; abc7news.com",
+      "query": "\"Meta Platforms\" lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory",
+        "macro"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "The Market Shaved 10% Off Meta Over a Month: One Analyst Targets 87% Returns Over The Next Year - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOR0Vta1dOM2JIdGZIYlVmZVl5NXZSMklIQmdDeVZQQ2t6aGxWQTVDRkk3MUJscUE1dm45T1B2NTR4NlExdmlFcVJKTVY1UHVPRkpCNWJxbTJZQlNKMU5kcWtJU3luVlJZSm82d0s5aTJSaFJhcmtELVNQM09BUExza1NXNHJ4TFhSclZaN25keERQN1RO?oc=5",
+      "published": "2026-08-12T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "The Market Shaved 10% Off Meta Over a Month: One Analyst Targets 87% Returns Over The Next Year &nbsp;&nbsp; Yahoo Finance",
+      "query": "META analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Alphabet, Amazon, Meta Platforms, and Microsoft: One of These Stocks Looks Like It Has the Least Upside Over the Next 12 Months, but There's a Catch - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORERfSzU4VW5FNzdUQWVFLVNEQjdIUC1BaHVwZ1NFdFlCaUJvOW1aSTJVam1jdDRSUzJKMWhnRDYyS1h3MVJ6OElfeTJ4c0g5Q0lXVlpXR3RpQUFxSDdKNTZORDNpSVoyQURkVHpzLXFwQmVLcGRmWkl1dTRiOFlpQ0lZX21HbnJiRFJfWXB3VzFKdDl3UDFr?oc=5",
+      "published": "2026-08-12T07:00:00+00:00",
+      "publisher": "The Motley Fool",
+      "summary": "Alphabet, Amazon, Meta Platforms, and Microsoft: One of These Stocks Looks Like It Has the Least Upside Over the Next 12 Months, but There's a Catch &nbsp;&nbsp; The Motley Fool",
+      "query": "\"Meta Platforms\" analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [
+        "speculation"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Meta Partnership Ads Hit $10 Billion As Creators Outperform Brand Messages - forbes.com",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNajhpUlJWTUtrUUptOTJ3Y001aUNXWXpPaS1uYjRGRVFoY3FaSjB4SkVYOTFSQjhwSENlRWNYd3pKM0pYODE2OHcyQmptNENTQ3FtcG83cmRwS0FrQy1XLUF5RDZqY2k0VnpLazBZRmZobFpERjFad2RQY3RadS1rUHR2Smg5MTA2SWNoOXFnUHpET3NycG94QWdmWXZTU185LVF6QWh6cjJ0QWNsU3FWYkgtdkFpa3dfaUxSZVdqQmNkRWF4X2s2LQ?oc=5",
+      "published": "2026-08-12T07:00:00+00:00",
+      "publisher": "forbes.com",
+      "summary": "Meta Partnership Ads Hit $10 Billion As Creators Outperform Brand Messages &nbsp;&nbsp; forbes.com",
+      "query": "META acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "demand"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "NABTU and Meta Announce New Partnership to Invest In Skilled Trades for the AI Era - meta.com",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNEZCLXFra3c5b21jOXdRb0dqRkg1YXFZcDRqa2JjNVExSXhuTnZwNXRDV0dXalYxbWN6dDl0bDlGaFpYTy1zVVFBbmxPYmN1cGhwWmlIVEItOUQtQXVJTF9OejNmSVpMRUl0Y0FIdlZHcFkxWWp0M2N6cGc0bjVObTN2WEJqbEMtY1BLNWJPMWdta09ZcTlyVkUyMnBOREZ1dGfSAacBQVVfeXFMTkdWZHYwcWRFOFhnRnJDeGZwQlFNT2hCTkJzX2tMeGJGQ0xpV1BKR2JtdndDbTBLS0lGVG1HTFc3UUxGdTFmNGJEeVR6YVJXNWpKLVNFckhua1VpSlphOGRjVG1RRU55d3U1MmdvMWxmb09TdWZXWlNwakM5NFhNQllrVVpsbWVOaUgxNlUxVU0yVmF2aDRyNTB6X2RyTElabTBnVTItQmc?oc=5",
+      "published": "2026-08-12T07:00:00+00:00",
+      "publisher": "meta.com",
+      "summary": "NABTU and Meta Announce New Partnership to Invest In Skilled Trades for the AI Era &nbsp;&nbsp; meta.com",
+      "query": "META acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "demand"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "US court rules Meta, other tech firms must face thousands of lawsuits over social media addiction - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNanM3a2JVejlVN1lRcUE2Q2xxMXprZ1lPY25kdWtYNk41RHBnenZsWWk0R3h0dWFpSS1Wck5QNUdSNTFmd19fbHRIMjh0UnpCRUNNdUFnRHQ4dnRCcll1SkRwSURPOW5CN2FIZ2JHbTdFcC15RVpyOXJhTlNnODBjWXl5QTRZUzNjZklPMklfUWZXX1NMbGdfd2VkeFZ1LWFKclpWY0dmY2JQcDk4bm9janE1WTVrUHBBUE81Nw?oc=5",
+      "published": "2026-08-11T07:00:00+00:00",
+      "publisher": "Reuters",
+      "summary": "US court rules Meta, other tech firms must face thousands of lawsuits over social media addiction &nbsp;&nbsp; Reuters",
+      "query": "\"Meta Platforms\" lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory"
+      ],
+      "lean": "negative"
+    },
+    {
+      "title": "Manus returns to independence after China blocks Meta acquisition - qz.com",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBkOEdzTVRhMVVuVUplT3QwZldSaEQyaEExZ2E5X1VJbDZTVVZyNktPUVpXRmVEVVlKUmF2NHFrbkhLS19yMzJpRDBWZHNnbFVrbDJJVjlrXzVGanBlVkQ2Q1FzYWtldHdlUUhicVpmVGNVQV85Mld4dg?oc=5",
+      "published": "2026-08-11T07:00:00+00:00",
+      "publisher": "qz.com",
+      "summary": "Manus returns to independence after China blocks Meta acquisition &nbsp;&nbsp; qz.com",
+      "query": "META acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "mna"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Rep. Julia Letlow bought Meta stock after signing an NDA with the company, records show - WWNO",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQTTduSTZYblV1U01YekdkUDNiQnNENFhUNUF0NHhWT0gtamdoSWNEN1lueFR5eDd5RWFnd2NPUzhYVkZFT01rUXJOZUtUV25WLW9wZWVNaHVXSndCUWd3R3lSX1JQZF81bFNISVdGaWNzMHpDWDZ3eUt1RGJfLW9ackdJcHBJNHR0NVhsdGg1b3ZFbmU0bXpiZFdHbUsyMy1NX2doMmZSVFlhNDFCMDE4Mjk2NGo2U1JlNUlNdzZ4WDc0TTR3U2NLY0UxT19GemNaZXlj?oc=5",
+      "published": "2026-08-10T07:00:00+00:00",
+      "publisher": "WWNO",
+      "summary": "Rep. Julia Letlow bought Meta stock after signing an NDA with the company, records show &nbsp;&nbsp; WWNO",
+      "query": "META stock",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "positive"
+    },
+    {
+      "title": "Meta, others lose appeal to drop thousands of social media addiction lawsuits - Axios",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPU1R1QV9QTXhtZS1MS0ZMMkhFcTl5RGVQZmw4RWxPdjFROHYySmdnN0Ztd3Ywa1V6Uk02RW9yNDh0dERESDRfRlhycU5GcTdXc2VLZDlyNXBaRVNEbGhicXhUQnR1YkZrYUdlMjctUGZ6VW9SZVFwSTE1RTBEUFRnMURn?oc=5",
+      "published": "2026-08-10T07:00:00+00:00",
+      "publisher": "Axios",
+      "summary": "Meta, others lose appeal to drop thousands of social media addiction lawsuits &nbsp;&nbsp; Axios",
+      "query": "\"Meta Platforms\" lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory"
+      ],
+      "lean": "negative"
+    },
+    {
+      "title": "A New Mexico judge ordered new child safeguards for Meta. Advocates hope other courts follow - PBS",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPcEZTSm1JeUVQbnlkQzRJM2MzRkJJUUozaWdHNGVxbjlRZ05SODZlN21rSXdPVDNpWG55cFozR2FuLWd5dkhZc1BRNnBLMVNHZ2t4VEY4M2hrS1ZQTlJIcEYwd3B3TFVWbXRKeFA0aUFMVlVDa2lDcmlaN04zaGFTWnU5eGdkZVAzOVlJcC1vOE1Zai1jeDFhY3o4YnFOTW9WcHJjT0F5eXNmVVlrRFhoNjZyM2pGYUxzaTZYTjY4WmJGLXJYMXc?oc=5",
+      "published": "2026-08-08T07:00:00+00:00",
+      "publisher": "PBS",
+      "summary": "A New Mexico judge ordered new child safeguards for Meta. Advocates hope other courts follow &nbsp;&nbsp; PBS",
+      "query": "\"Meta Platforms\" lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Meta told to pay another $567m in New Mexico child safety lawsuit - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1PcVZNdlI1bk1HbW9uLTQ5Z0JraFlic2hnUHJ1WFNSZXNXc1dEbUtIQXp0NHVoaEUzTk9rWm9lZHYyRnQ2TWpqdDljMjIzSmFSTU5pcndBMHJadw?oc=5",
+      "published": "2026-08-07T07:00:00+00:00",
+      "publisher": "BBC",
+      "summary": "Meta told to pay another $567m in New Mexico child safety lawsuit &nbsp;&nbsp; BBC",
+      "query": "META lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory"
+      ],
+      "lean": "negative"
+    },
+    {
+      "title": "After Earnings, Is Meta Stock a Buy, a Sell, or Fairly Valued? - Morningstar",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbDNMOXlVblg3Rl93amZGRmUtV0xCbWtrSXVvdGhRby0wX2RxS2dzcS1MbmpzRkNqQlRBZ0J4ejRDWmJYcUFuaVV0VDJ3ejVKM2M0MXlwbnFWMk84NGotbHYyd1VaRzQzd1dIZm4tTWYxZ1E2RmprVDJ4VjlWbGU5TmRsNkF6T3hGd2hzRVRLVzk3b2FHZEpNcDMzN0RqUkx3NFE?oc=5",
+      "published": "2026-08-06T07:00:00+00:00",
+      "publisher": "Morningstar",
+      "summary": "After Earnings, Is Meta Stock a Buy, a Sell, or Fairly Valued? &nbsp;&nbsp; Morningstar",
+      "query": "META stock",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Should You Buy Meta Platforms Stock While It's Below $600? - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQjlibDVXN3dxS2cyQVU5U0o2NjZQajhRbGZfaWFNa2h5OVF2cFlVYUF0WlZhU0ZrelBRbWp2blVhVTczbVFWN0FNRWUzazVMZWhpR1IwSG1MTFBhSG9FVlNERjJ0cTI4Ym92NHBIUzA2TGF0dWJBdnV5c1JxUW1kN29RUFlpd3NKVzd5YV9jTkwyM1NtOGY3Z3lzVQ?oc=5",
+      "published": "2026-08-03T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Should You Buy Meta Platforms Stock While It's Below $600? &nbsp;&nbsp; Yahoo Finance",
+      "query": "\"Meta Platforms\" stock",
+      "source_api": "google_news_rss",
+      "tags": [
+        "speculation"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "The Sharpest Exchanges From META’s Earnings Call - Trefis",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZWxuTTNuanNFZEtaX21IUDNpRXZMd2IxTTdhSG9WMUNGVFpicXptWlV3ZWgtRXJsMktGbS05VVFHeGpNa1dfTjJSY1hhTjlBVG1mdW1LTGcycHZway10SnFVU2dBTlZHNWUxUTZaX1hGbFlRTEowWHhlekluLUtUNXVLeHNfYzBlc1JNUjRxeVVLQXJ0TnJyWmhFejB2eWlEeUp4VW1oYmlyNGlQ?oc=5",
+      "published": "2026-08-03T07:00:00+00:00",
+      "publisher": "Trefis",
+      "summary": "The Sharpest Exchanges From META’s Earnings Call &nbsp;&nbsp; Trefis",
+      "query": "META earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Meta Price Prediction: Analysts See 40% Upside Ahead - 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSWRSUHotRENQeTU1dXQtNG1DSVRKeG9rWkVTNlJPS1FKa2dqUmpIUGYyMGpJRDFzV0FOeTA2TWZ4NVk3ZTA2NElPbDE1SXNMTjQ4LXlwOUVJcEtJZURMZ2gzTl82dS1xMzFVbUZPcXhVamZPdXNTYkF3Y1Q4ZkNzOUEzamRFbEFfdFhyWEdxMTVWaDJkX1FpUDJ3?oc=5",
+      "published": "2026-08-03T07:00:00+00:00",
+      "publisher": "24/7 Wall St.",
+      "summary": "Meta Price Prediction: Analysts See 40% Upside Ahead &nbsp;&nbsp; 24/7 Wall St.",
+      "query": "META analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [
+        "speculation"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Is Meta Platforms Stock a Buy on the Dip as Revenue Surges? - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPYXNnRkpjTmxVanNpTkJkRHZfOUI1czJwWlRCTGFucnA2elk5dG1lUVNaOWZESzNOa0JCc1gzS3lHRUZoem4zWGR2MU95VlhlS3ZEWndCcTZhSkV0VGxiN3lvWV81b1owVlhaRXh0UVYzeHVTYW5YWWxsN2NYcjNuTFlOdEc4N2d3dUQ4Q3J6YS1DVTVHUU1mOQ?oc=5",
+      "published": "2026-08-02T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Is Meta Platforms Stock a Buy on the Dip as Revenue Surges? &nbsp;&nbsp; Yahoo Finance",
+      "query": "\"Meta Platforms\" stock",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "positive"
+    },
+    {
+      "title": "By mid-2027, analysts expect $5,000 in Meta stock to be worth… - Yahoo Finance UK",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPcVRzakRxb3VGQk1fcFBpbVdrRm1pTzAyU1lmdjdZN0Z0RU1jeFltUGxnSHNFR0M5THZ2NGI4YTZLa3VnNE80SndfZGo2YXlNd0hsNHktc29yZ2kwNUJQZVEyLXVfZVE3QnhNaW1Xa2hPZ3FCTmdqVjhicmo3c2MxSQ?oc=5",
+      "published": "2026-08-01T07:00:00+00:00",
+      "publisher": "Yahoo Finance UK",
+      "summary": "By mid-2027, analysts expect $5,000 in Meta stock to be worth… &nbsp;&nbsp; Yahoo Finance UK",
+      "query": "META analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Why Meta Platforms Stock Fell 10% Today - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOanlGalh0NUNNazdBSmZva1R4YWQtQUd5aEJIN1FIX0ZJdUhqVXBzcUFfLW40MFNCMjFoSWNBNDNQeEZ5aGh2Q2ZyajlQLU8ya284NU9VWjUzUTFjTThrSUNya0JaUUwxbmJsOEs2YzdGaWNhYXdvY3QwRGtnWHI5c09HZVlfLVE5VGVXLWxkLUJhTkpMWlFsSWNR?oc=5",
+      "published": "2026-07-30T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Why Meta Platforms Stock Fell 10% Today &nbsp;&nbsp; Yahoo Finance",
+      "query": "\"Meta Platforms\" stock",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Why Meta Stock Is Tumbling - Investor's Business Daily",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNX3hUYjVIUm9uZWxvSlR1YnY4M0hJOEhxUTMwV2VaY3dBTmkyZkhleldwclp1WV9lamlRbVVSS3lCUmVfN20wc0tQR1J4QXlYd2YwTGkwQUhFRG43aFYxYUlCeG5vTVROcnRMUGVZV2VlcHZpX0FNckFOOTZqSjJpanhmSmRyU2hp?oc=5",
+      "published": "2026-07-30T07:00:00+00:00",
+      "publisher": "Investor's Business Daily",
+      "summary": "Why Meta Stock Is Tumbling &nbsp;&nbsp; Investor's Business Daily",
+      "query": "META earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Meta’s Earnings Show Why Wall Street Is Losing Patience With AI Spending - MarketBeat",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONUh2cnZJT0hxclg2SHg4OWg3RGRrWUFJcXJxelpaMmxOVFhMLThNRHU1OTJCcnNRdDBPUkJfSmFXV0JvYm5xQWdQYmFDc0pCSHg0QUdZbDBsRkpTQ0d6Z0ZBSEtxQjNySXpUSGVXUFVBbjlBbWJteFp0US03SDNtQW40VE9qa2ZqbnVLeElkMGFpUVhxSFl0bVJ1akJVaGFIQUxwT01YaUdRMjdS?oc=5",
+      "published": "2026-07-30T07:00:00+00:00",
+      "publisher": "MarketBeat",
+      "summary": "Meta’s Earnings Show Why Wall Street Is Losing Patience With AI Spending &nbsp;&nbsp; MarketBeat",
+      "query": "META earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "analyst",
+        "capacity"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "One line from Meta's earnings call that ensured the stock will likely stay dead money - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOdUlXWVB3U0w2blY1VkpfbTRWUkFOLWYxOGNYTmVPN0hIbWUtMFR5cmluTDM4REcydGItUHA3TVEyMllOaVh4MGxOemVfYWxOYVVqVkJFYXh2NUdIR1FVZEp5X3RySzZKeHFyTEEyOUtoOUh0dHIzSXY1Qm5mZW1FcWZBREdpQVhUd29fT1lrOVZQdHRvRmRDMFNsM0hNMEJNNlp2eUZKYXRJSmFTbzdCdDRwOElhZVJ2UzNDb1hzLWliMnFSaEpYMUZLSm53elA5M0pSZFd4V3M?oc=5",
+      "published": "2026-07-30T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "One line from Meta's earnings call that ensured the stock will likely stay dead money &nbsp;&nbsp; Yahoo Finance",
+      "query": "META revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Meta: What We Think of the Stock After Earnings - Morningstar",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPOHBWd3RkYUpXSnNZWHVaYTRMTDJTWHdFZnhtS0lHWXdOSUE4dE5fMkdXX2o2VTNuNy1nWHVDRXkxRnM3bEZiUm0xY1ZYeTZ1Q1Jsb0R2M3dWaVpYS0ZnZXEycnBPeXlJZ3Ita3hOYXRPb0VvMlNOZDFzWGFBU1ZhdHgtbkxZcnhZT1B3?oc=5",
+      "published": "2026-07-30T07:00:00+00:00",
+      "publisher": "Morningstar",
+      "summary": "Meta: What We Think of the Stock After Earnings &nbsp;&nbsp; Morningstar",
+      "query": "META competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Meta Reports Second Quarter 2026 Results - Meta Investor Relations",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdng4QXNhRWdnc3ZqNjNLZFBoZFFZS0Q4MTA0ZEZoYUpPYnFNT1J1REQzRDlJVkdZZERQVjk5TkNDcmh5SElKdmpQUndFc3dpc0o2NFNtWjBhODROdlc0UzVfQTY3UjUxeVQtQTVNRHRtb3BsZklzUkJWdDUwcF9sdHdtRkxHT1RScnFxa2x2elRYcUZ4ZFN2RUw3UkhaNERnNGdxdjllOEVWVFBONzU1TUZfVldWYnQ5OS1hSTF0WQ?oc=5",
+      "published": "2026-07-29T07:00:00+00:00",
+      "publisher": "Meta Investor Relations",
+      "summary": "Meta Reports Second Quarter 2026 Results &nbsp;&nbsp; Meta Investor Relations",
+      "query": "\"Meta Platforms\" stock",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Meta's stock drops on disappointing guidance, dwindling free cash flow - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBpV01kYzlERkIwM0ZfUXBQTTQyS2FmaFZHRFpoUGFwMHpidjQxX1JzTmRpa3o5bUViMFM2eGk4UldVUE5NcGZ5TGZXRUlCX1JyVmc4bF8xY3haNkpnaG1xRDhhRUNHOEdGY0REUUY2UUVFN03SAXhBVV95cUxPUGJIU0dqamJ2M1gxbW9yQXFhOG9tQV9VTmdMbUxub1RvLUR0MGJGdlMzWUtaTWMzOWtVdFZZcS16azhZY21Gb01zXzlZZ2IteFhjNFpLSWFBS2IwS0ltQWt4VEstckItdUg3SF9LM0YyVGRndjdaWHM?oc=5",
+      "published": "2026-07-29T07:00:00+00:00",
+      "publisher": "CNBC",
+      "summary": "Meta's stock drops on disappointing guidance, dwindling free cash flow &nbsp;&nbsp; CNBC",
+      "query": "META earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "guidance",
+        "price_move"
+      ],
+      "lean": "negative"
+    },
+    {
+      "title": "Meta cash flow craters as Zuckerberg doubles down on AI spending - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZVVsNHpKWUwyNmRVZlB2Zml0d0QtZ0U5YTdKeDlIVXNISWdsajRiUE1vQU9JaHlUeDFWRjNUTGw0Y01TTHRiTlZjRDhJUFFSWXA4aktubGNNeURsSWtVTlJMaExmVFRCTFh6U3RKdWZnQnU1dzRTbzR5dTVWNHNkMTV3V3U3a0xxQWNjTnVPMHZCOE01dmt2TWQzZTBUUQ?oc=5",
+      "published": "2026-07-29T07:00:00+00:00",
+      "publisher": "Reuters",
+      "summary": "Meta cash flow craters as Zuckerberg doubles down on AI spending &nbsp;&nbsp; Reuters",
+      "query": "META earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Meta Stock Drops 10% on Steeper AI Costs, Missed Forecast - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE50ZmttOTNyTEl1LXZjY0d0d085WlJwQTl6M2ZqMUpRV2tsYTJXcWZSSzBDUXN5THFfTDE5cm5mX21pMEp3NWM2cF9HUmw1bmt1c1hJc1MyZHJyRTNrMUUxa2hSQUhyZVdWam5qSk1pQzZRSXhfLU42OFgySQ?oc=5",
+      "published": "2026-07-29T07:00:00+00:00",
+      "publisher": "WSJ",
+      "summary": "Meta Stock Drops 10% on Steeper AI Costs, Missed Forecast &nbsp;&nbsp; WSJ",
+      "query": "META earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "guidance",
+        "price_move"
+      ],
+      "lean": "negative"
+    },
+    {
+      "title": "Meta Platforms (NASDAQ:META) Shares Slide After Q2 Earnings Miss and Soft Guidance - ChartMill",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPMHNiaUgxX3hMTnJmWGl1eGl5My1wZUxxWGplY3BiV2RqOExHdTdOd2pYeUpZLTBZSGlobWw0UXk5ZWEweFNXbnZsSnRoTzFjbGpZR3NaWFZmOUJxd200dzUwbTctb3FXV1V0WXROSDhsZGhnMU5xWkZVNkZQXzBNQjdUeVV1WkpiZHQzYnNpbUNqU3FsdzYwQ0sxSExCTmRzdlZxYVo2aVVQS2JLbWloUmRtaDZDZHFTcnE3QnNELVJIcVBWUWljYXJrOA?oc=5",
+      "published": "2026-07-29T07:00:00+00:00",
+      "publisher": "ChartMill",
+      "summary": "Meta Platforms (NASDAQ:META) Shares Slide After Q2 Earnings Miss and Soft Guidance &nbsp;&nbsp; ChartMill",
+      "query": "META earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "guidance"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "The market is overreacting to Meta's earnings and guidance. Here's our plan - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUEk3NWdQMkliZXJmSHpXVnJzN25WblVjdWE1Ty0zcks5QTc0UWRkaEpfVnItRERPUTBRVUZQTHJtQW5QNmZ0UGplUGx2dEtsd3NxQ1BOTTZjQWZmR3pyeXpMdmk0bzBrNDBNN1hDN1ZyeGhVQ2c2QW5mMUxLTEZzWW5uaUdwVXNxM2hWbWZRTS1FUm9ZQ284TjlORmt3Zw?oc=5",
+      "published": "2026-07-29T07:00:00+00:00",
+      "publisher": "CNBC",
+      "summary": "The market is overreacting to Meta's earnings and guidance. Here's our plan &nbsp;&nbsp; CNBC",
+      "query": "META earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "guidance"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Meta Platforms Q2: The Market Sells, I Buy The Dip - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdW5rd3h1XzQwZVdfWmNSM0IzY0ZraGxyZ1pTTnhYUHdyQ0Z0ODBxZjhvb0VOYXFKQTdaY2JWNGtzOGpjRVlHTXlFU0NZY1BNN1FEcERoRlVrX052aTVkeVMtc01IT1NKOHQ4elVnMkNqYnllcnl5Z3BlOWZubFV2VGRWSkZ5WGt1b0JCaldnRmV2UW5uOWUyZWx3?oc=5",
+      "published": "2026-07-29T07:00:00+00:00",
+      "publisher": "Seeking Alpha",
+      "summary": "Meta Platforms Q2: The Market Sells, I Buy The Dip &nbsp;&nbsp; Seeking Alpha",
+      "query": "\"Meta Platforms\" earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Meta's revenue forecast is 'barely passable': D.A. Davidson analyst - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdFF4YmFrVllUWTRNU0R2S0JUalZzVkpsQVduRkhtd29UNVY1Y3duOUxfR0ZDZXBTOTc2V25WWDl5WGRrUDQxWTJHbTQ5Q01pTzNhbVE2VThxd01RMTRsYXVMZi1fNFpDdEViaU0tR0NySmtpNVZKZTNVejA2VzBfajNHdkZqNWZoeXBncE1B?oc=5",
+      "published": "2026-07-29T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Meta's revenue forecast is 'barely passable': D.A. Davidson analyst &nbsp;&nbsp; Yahoo Finance",
+      "query": "META revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [
+        "guidance"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Meta sinks 9% after Q3 revenue forecast misses Wall Street estimates - Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNcTA1SzZzcmkxbGdEUkFYVXlZUE1paXZicUt6amk2czdJN1hIQWItb01sTDU5TU5HdTNWRzQ3SHdkWmpBcTdlRUlRdXlPODBlUEh4MzRma1ZNSUJ0UGlITUJ1Vk5RaVF5UDRrWXNGN1FfUVZYWkFjWTk0NTJGNGpMX3NzZzFuSk5WZC1zSS1hQXQ3RmJtTTJ3NmFubnUxZl9TT2Itd0lTQUotZkVCNWxIUllGbWI5S1ZMSS1aZzNR?oc=5",
+      "published": "2026-07-29T07:00:00+00:00",
+      "publisher": "Investing.com",
+      "summary": "Meta sinks 9% after Q3 revenue forecast misses Wall Street estimates &nbsp;&nbsp; Investing.com",
+      "query": "META revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "guidance",
+        "analyst"
+      ],
+      "lean": "negative"
+    },
+    {
+      "title": "Meta’s Reality Labs loses $4.62B as revenue outlook falls short - Anadolu Ajansı",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPeDdESDFGcmtwV1ZOc24xbzdZSzVvUEZ0LWFpMVFZOGtEVUxGd3NkVDk5YmZFNDlwV0tJTmwwRWJaQlpVSEVtckZ0U05UNjFyWDhsQm5abVRsLXRJUUdhMjlHc3FJNFJwbWc1VlBvV0xhQmhQbkJOekpSS3ZnV3BseTV1ckRUQlVINHFybk9qQXJ5THYyQVRvaTFrb0VCWEhCcUExRQ?oc=5",
+      "published": "2026-07-29T07:00:00+00:00",
+      "publisher": "Anadolu Ajansı",
+      "summary": "Meta’s Reality Labs loses $4.62B as revenue outlook falls short &nbsp;&nbsp; Anadolu Ajansı",
+      "query": "META revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [
+        "guidance"
+      ],
+      "lean": "negative"
+    },
+    {
+      "title": "Meta misses earnings forecasts after Zuckerberg media push to promote AI - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZzhoelpiZ2lRWlVXMEFEZUZfTUgtcWMtVU1Ea3ZTRkxpM2VudHY0dDhLbmZ2VkNwRlpVOHV3MUhKX3JwT1JZTHktaHZsdGM5S2Nxb21CX0IyZER2Vl9yZ01UbXNRVjhpMy04Ni1kQld6TGFLQlhoaTBVS3RWRzI3dHZIaUhRUFU?oc=5",
+      "published": "2026-07-29T07:00:00+00:00",
+      "publisher": "The Guardian",
+      "summary": "Meta misses earnings forecasts after Zuckerberg media push to promote AI &nbsp;&nbsp; The Guardian",
+      "query": "META revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "guidance"
+      ],
+      "lean": "negative"
+    },
+    {
+      "title": "Goldman Sachs reiterates Buy on Meta stock, keeps $815 price target - Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNcDFkeVBjOUhfYzVKNnRUczI0aGNkTE1PRTl5MzBkSkpiMWNEaThWZ3VPUlNDVUV5VXNqc01LVTRET1dSU19rWU5pOEttcEJVZnNDeFd0YmhScWV5RkhkNVpiLXRVMlRvZTRBNDl1QmRFLUJOTmZQWlpxOW5mUDhkd0hjQjdfQjFwM3VySEtKNXc5TXFDUWZFVlprT3o5aHZPWm5oeW9BTU5GbUFYcFFrWXlnSTBsaUtmY2NnaS13cXctNjQ?oc=5",
+      "published": "2026-07-29T07:00:00+00:00",
+      "publisher": "Investing.com",
+      "summary": "Goldman Sachs reiterates Buy on Meta stock, keeps $815 price target &nbsp;&nbsp; Investing.com",
+      "query": "META analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "analyst"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Meta Stock Tanks In Jittery Market On Massive AI Investment, Mixed Q2 - Deadline",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUW56bzNSamZLc0VjOHlMZ1FTUzA5R1JIR2lLRXA2dV9xYXNIN21SYVhoUDNlMEI3bDBSVnNDeWJweHNWYkROQVZBelBqRjM2a1RndzdCR1pYSl9rdml2T01Fd2gxbUpmcUczOW0tZ0thdDVqZTBkb2JteWROMFRCc1FPSzYtZzYyTFNSeWo5Wnp4MU5fNHhTWQ?oc=5",
+      "published": "2026-07-29T07:00:00+00:00",
+      "publisher": "Deadline",
+      "summary": "Meta Stock Tanks In Jittery Market On Massive AI Investment, Mixed Q2 &nbsp;&nbsp; Deadline",
+      "query": "META competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "capacity"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Zuckerberg lays out Meta's AI capacity dilemma: What to sell vs. what to keep - cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObjhaMWlNLVA5MnM1WWl2NngwLXJueU0zSHVFX01VVmpfRVlzdElvS1hoV0p2dmhENWtYZkdPek9vV19HWHVydmZwYzJETWxjSzlrdTVBQk4tRGVMQ2xmVnd1MUtWNzdpWUU0ekpxTmNRVERucHRuQ1VHTm1XQ3NST0VZZVhMRXRPWm1Gc2JzTWw3Nl9MSGpNdmlrbVVBalRLVG1CadIBqgFBVV95cUxPZjA3cW1vU2V1UEYtZEs4MndkZGlLZnYtdzl2X1BwNzhqb0ZLWVJHenhZTERISmRFUUxiY0NtWXQyUGxHM09Kc29udnRSYjFrT0pNOERkODNSLWRoaEZWbVNLcnBUUlRfMHpsdF9ER0I1WEs5OGVObEZjd1h3YV9RTUdaUFFadUo3ZklPUC1aTUdfMzIzckdDRnJsXy10eEVFUW5ORXlaRHd3UQ?oc=5",
+      "published": "2026-07-29T07:00:00+00:00",
+      "publisher": "cnbc.com",
+      "summary": "Zuckerberg lays out Meta's AI capacity dilemma: What to sell vs. what to keep &nbsp;&nbsp; cnbc.com",
+      "query": "META capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Freehand Raises $75M to Scale AI Teams Managing Supply Chain Spend for Fortune 500 Companies - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWEdRV3JRWWRtUTFmUmh4d3pyQmVKM3NjN0hGbGdSSzBHYmFCWU9wSXV5cS1QYzdjS0UyZmRXbWdGMWJ6REMtWUN3VHpLQnpnemxsNV9zb3BEQ2V5bk9QY0dSWWROUXZFdEZmLW1oVW9xOFZlM0xDdVFpYkQxamduWkljRkd6MGdrZk1PelNFQ0hkNFF4R1lr?oc=5",
+      "published": "2026-07-29T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Freehand Raises $75M to Scale AI Teams Managing Supply Chain Spend for Fortune 500 Companies &nbsp;&nbsp; Yahoo Finance",
+      "query": "META capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "guidance",
+        "capacity",
+        "demand"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Freehand raises $75M as Meta and Unilever hand their supply chains to AI agents - Tech Funding News",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPLXF0MDQ4b1NtQWtBanA0dHI1cVpLMWxDMHFaR3kyaTBTb09ZT2szb2tfZlRUMmtoNkF3eEVaQkdMRndnZ1RnVVhMTlpXNWhnTkVpaFY2TmtSbmtSX2FDdW1mN2p3ZmFtUWZPbGhNbkd6N19ZZFBRaDRIUHUtakZub0hpaTZZNk1LWjM5WVZMeW56SUVGR0VUblU1b09EYjIybUhUMnJta0FuOU0?oc=5",
+      "published": "2026-07-29T07:00:00+00:00",
+      "publisher": "Tech Funding News",
+      "summary": "Freehand raises $75M as Meta and Unilever hand their supply chains to AI agents &nbsp;&nbsp; Tech Funding News",
+      "query": "META capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "guidance",
+        "capacity",
+        "demand"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Should You Buy Meta Platforms Stock Before July 29? Wall Street Has a Clear Answer for Investors. - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUVRKOGs4SmhtbWpSR3A1Y1VNbkUtdk5jVVJTQ0NjZVpaV29HU1E5M25ENTA5alowNUdsLVBCdFVqTzBndWR2MFduMWdfU05ud3Y4TVZULUd2Y3Y2QXRrT0ZVT3RmWVZiV1pnRnItYlJOM2VKSjNFdlRFUTZ4d0pwVURmUEF2TzZqa3FpSjRjQ1BxUi1ERHlPbFhn?oc=5",
+      "published": "2026-07-28T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Should You Buy Meta Platforms Stock Before July 29? Wall Street Has a Clear Answer for Investors. &nbsp;&nbsp; Yahoo Finance",
+      "query": "\"Meta Platforms\" stock",
+      "source_api": "google_news_rss",
+      "tags": [
+        "analyst",
+        "speculation"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Meta Earnings Preview: Can the Ad Engine Outrun AI CapEx? - Moomoo",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbUJuNmpDRFVlcmQzbHJxNUlmRHBLY3NFR0tENl9LM3JDUW01alpVV1hwZEZDaHRlM3k5QVpBbllPQjdCZm16eV8wWUpfYnNzZHM4QWsyTGZxTlNwSENJS1F0alpoR08wNE8wSnMxOWx0ODVCdmk2TDZJWmF4S3RFWmNZMTF0M1F4ODNjYzN0Rm55QkQyRmoyWG92MlpOZGdSTmJiVUhmbWtPRS1G?oc=5",
+      "published": "2026-07-28T07:00:00+00:00",
+      "publisher": "Moomoo",
+      "summary": "Meta Earnings Preview: Can the Ad Engine Outrun AI CapEx? &nbsp;&nbsp; Moomoo",
+      "query": "META earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "capacity"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Why Investors Should Wait For Meta’s Post Earnings Dip - 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQOVBsS1M4UjJpT3dOQVBWa1JTZGZyN1M0SDl6dzY0cFZQOHhDN3NqWUtGbkNwdk9HSmsxeTRNRmQtTC1feWdicjloeGpzWWZFLUhHZG1QQ2J6QjhaM1ZIR0xBY3hMWmhReEg0TkNscHM0WVJwS3VwNW9Od0FDandEdXRKYWRSd1lnX3pXRExIRUIyT3lCQ0Q5Um9fSzhPQQ?oc=5",
+      "published": "2026-07-28T07:00:00+00:00",
+      "publisher": "24/7 Wall St.",
+      "summary": "Why Investors Should Wait For Meta’s Post Earnings Dip &nbsp;&nbsp; 24/7 Wall St.",
+      "query": "META earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Meta Announces New Strategic Venture with BlackRock to Develop Data Center in El Paso - Meta Investor Relations",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOMUVfYWxjWVFnZkkxREZUSjl2NG1YaGkwR1FUelRQall3MExWQkdhQTFoY25TUjhaRnY2dUUyeTFMR3lDN3VieVFKaEZsVkxTY2hTVVVWNWJUVGRqN3cyRFN4Tmk0elBINEx2SmprenNmVUpCZlFlZHRNbTdWbmdLeG5EejJDbEdLT0t4YkU3M2pMZlBYbHhnQ3hJc2ZUb1BVYlNza0NNNnVaVWNJNmpKSDlDQ3c5V054UDR1NnQwQ0ZpRkNmbkR6UUpJbmdNMXNaaUlvRHJuOGxQa0NNbnpfbEowVGZIaDBGenh0X3Rpc0t6eDhOQm93c1owQQ?oc=5",
+      "published": "2026-07-28T07:00:00+00:00",
+      "publisher": "Meta Investor Relations",
+      "summary": "Meta Announces New Strategic Venture with BlackRock to Develop Data Center in El Paso &nbsp;&nbsp; Meta Investor Relations",
+      "query": "\"Meta Platforms\" acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "product",
+        "capacity"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Meta Earnings Preview: Can 33% Ad Growth Outrun a $145 Billion Capex Bill? - tastylive",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbEtBRHBfTnk5Wk9NUkZJUFVHMWotb3phR2NNMFJ5YmVzVFdjREtRWnlLaE9yaENLMDFCakkyT3FMWlZ3bXpsZVJWam5lakdBQVNtTlFYcTg4WktfdG85cExRbnhGQjJjX0kxanJleE4tSnk5UjFDZWpUZGpOZExVWXpoY3F3Ujd0SDJHS3daS3EweFpYTmFfZkJhOEsxZ3ZRQlNlQ2tNTjg2bzhZUjFlbg?oc=5",
+      "published": "2026-07-27T07:00:00+00:00",
+      "publisher": "tastylive",
+      "summary": "Meta Earnings Preview: Can 33% Ad Growth Outrun a $145 Billion Capex Bill? &nbsp;&nbsp; tastylive",
+      "query": "META earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "capacity"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Meta Platforms: Time To Be Greedy (NASDAQ:META) - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1OWWxBWTZvNU1PeVkwY0I5dmJHaTBtbnY1eGh1X1hGcTdJZGQ4TmF1bjlKa2p1cWNkejlxcWlpSktodGFyUWNsWjEyMDZVUXR6N1F4bVlRTEdnTjZEYVRmTWJDNEFqNXBfczQ3Rk1FLU41MXBuUW9OY0wwZDNSUQ?oc=5",
+      "published": "2026-07-27T07:00:00+00:00",
+      "publisher": "Seeking Alpha",
+      "summary": "Meta Platforms: Time To Be Greedy (NASDAQ:META) &nbsp;&nbsp; Seeking Alpha",
+      "query": "META earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Meta Earnings Put AI Spending and Ad Growth Back in Focus - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdThIUG9QRFVlZmk2SURMMUhEN2FWeHZENm02aXBWSjNSdV9vMmg4T0l1bWdyTW9EajloY21BdW1PczNNZS1FMHhZbGNhQzU4aDhzdkRWQ2VOeDVJaHNHa0pVMy02RnU1aHdtWU4tYmNRNEhjSE9LXzQxOWIzX01ZRVRMWERFRGw2R2ZDWDk1RVE2dHVpX09rQw?oc=5",
+      "published": "2026-07-27T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Meta Earnings Put AI Spending and Ad Growth Back in Focus &nbsp;&nbsp; Yahoo Finance",
+      "query": "META earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "capacity"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Meta Stock Is Down Nearly 10% in 2026. Should You Buy Before July 29 Q2 Earnings? - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOdXByU05PeEpkanR5b3oxUXBEcU1NandoZDZ1WjZmaWdxMV9KS0xYY2Y1aGdINDRYRERpcnE2Rms1NkViazEyb2ltcGJ3bjVSXzR0OWxVSDM3TnA2V3dXZ1NQX3ZHaXZoaVg1eldKcnRua0JnT21wa21yUGZaLWdKaDdOdGpFRXl3Q1htWnNMLUpYeXJz?oc=5",
+      "published": "2026-07-25T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Meta Stock Is Down Nearly 10% in 2026. Should You Buy Before July 29 Q2 Earnings? &nbsp;&nbsp; Yahoo Finance",
+      "query": "META stock",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "speculation"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Countdown to Meta Platforms (META) Q2 Earnings: Wall Street Forecasts for Key Metrics - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdnF0amUwNE1sdVJIdmhjOUdrV0s4SXllZ2V2OTNqOFVVZFlfQ0NtWEFJT19rZ2RoelZPb2hBSGRPY0doMmcycHJBTEwwN2dxS2NudE9WNVd4dU83Y3VHUE0xSmVYaWlUYkJXVktSOGFWQlRHSktZbi1nclREa1hvOWg4UV9tWURxRzd3THhEQXRLdHlMWV9DbUhYNjc3UQ?oc=5",
+      "published": "2026-07-24T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Countdown to Meta Platforms (META) Q2 Earnings: Wall Street Forecasts for Key Metrics &nbsp;&nbsp; Yahoo Finance",
+      "query": "META earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "guidance",
+        "analyst"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "6 Red Days In A Row: Meta Platforms Stock Is Down 11% - Trefis",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQM1YzS3IwTDh4ZmtXUGQyX1h2Mm5DdGpzT2x0YXF2U2RvWnVwbHpNWGdFQlI3ZkZMV1FjMWpKbkRrLVFJUU1VTGszQWJGWWtoRXBQRDZsaER4ZU9SRmY2MzRodTlyZnBzempGdGR6bVBJVU5qUHJwLXBLOHBjS1RmUDZHX1Yxb3dlQUVhejczS2ZrSThfUmsyUndiT1NGQ25aR3FFNGdMcmNHcElmMThXWGtn?oc=5",
+      "published": "2026-07-24T07:00:00+00:00",
+      "publisher": "Trefis",
+      "summary": "6 Red Days In A Row: Meta Platforms Stock Is Down 11% &nbsp;&nbsp; Trefis",
+      "query": "\"Meta Platforms\" competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Ahead of Earnings, Is Meta Stock a Buy, a Sell, or Fairly Valued? - Morningstar",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxON2lub1N5OUlRTFJ4ZmR4ZzBJVjNBamlDR1dNX2NZMTdXek0xU3JYb1NOMWVNNmpadEVaV080UnhHa1E0NGxxVnp5Q1FXQWFuVmxIVVQ0SXFRV0VzYUF2b3V5VGRJWmFRdlZaeURWODQ1REZ5RDJWM0NMRXNjMDRDZ0ZNbjNLWmdSRFY5Yml4UG5Iak90SjFkUEp6ODFuUEk?oc=5",
+      "published": "2026-07-22T07:00:00+00:00",
+      "publisher": "Morningstar",
+      "summary": "Ahead of Earnings, Is Meta Stock a Buy, a Sell, or Fairly Valued? &nbsp;&nbsp; Morningstar",
+      "query": "META stock",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Analysts Estimate Meta Platforms (META) to Report a Decline in Earnings: What to Look Out for - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPM3Y5WndQdUZ4a2RRdmZXcmtJa3FNSF9FSmZGLUNubWFzLVliMWkzRTNRekxkdzZORGZVZkR6MkRWVDVVVjFpMFhlZlljS2FBcVRNQ0F1MmU2eXo5bERTT18xOG5BT3BySDZqNTVia0lDZGgzTG9TNmRSdHZsU2pRNWdacGJmM3dES1R2V3FYcjJwTFZkMm5HZURETjRBc1Z0b0xwaA?oc=5",
+      "published": "2026-07-22T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Analysts Estimate Meta Platforms (META) to Report a Decline in Earnings: What to Look Out for &nbsp;&nbsp; Yahoo Finance",
+      "query": "\"Meta Platforms\" revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Meta Platforms vs. Reddit: Which Social Media Stock Is the Better Buy - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbXNXSEEzUE5ySXJ6bkJzYkw5dE1pUm81NlE3eF92ZkZLcWJsaGY3czRRM2J2YzVjMHFTZGlvLXExQXhWdjRld2tFY0RXSDJJaUdfeUZlV2tTWVFHanZ1Z2tWZ0dMbk9kN3JadXoxTExuXzZRaHpiSkNvV002WkNEZklKaWJhbUt1clJZdkYwNzUyT2lQbXNV?oc=5",
+      "published": "2026-07-22T07:00:00+00:00",
+      "publisher": "The Motley Fool",
+      "summary": "Meta Platforms vs. Reddit: Which Social Media Stock Is the Better Buy &nbsp;&nbsp; The Motley Fool",
+      "query": "\"Meta Platforms\" competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [
+        "speculation"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Alphabet Will Raise Capex—and Extend the AI Semiconductor Cycle - drrobertcastellano.substack.com",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZ0lIb3ZaYlNlSkNDX1dZbXFLLWVvYXlwdmR4V2M4VTBJelU5MzVySGFaSTVWcjZtWGsyUjcwdlkweUR6eUFJS2VCeU5EeHR6czhOS2lTS3pqVGVYZ1lwVHJhZDBJSUVfZkp3VlE3Sy14WVFDUVctcGM2OHNfXzVHSzVXYw?oc=5",
+      "published": "2026-07-22T07:00:00+00:00",
+      "publisher": "drrobertcastellano.substack.com",
+      "summary": "Alphabet Will Raise Capex—and Extend the AI Semiconductor Cycle &nbsp;&nbsp; drrobertcastellano.substack.com",
+      "query": "META capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Why This Analyst Just Put a $1,000 Price Tag on Meta Stock - Barron's",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9IQ3k2S1ZBczRuSXRMWmdQNEFLRi13WS1rU2FJSkU3VEp5eGtqVUwwa05kX2NlUE9OdHFjZi0wRFotekZxX3UxMjM2aWh3ZlNsWG5hWEZ0NnJHbjR3Z3llUFE4U0hEQkVXQktVdm80Mmg5dw?oc=5",
+      "published": "2026-07-21T07:00:00+00:00",
+      "publisher": "Barron's",
+      "summary": "Why This Analyst Just Put a $1,000 Price Tag on Meta Stock &nbsp;&nbsp; Barron's",
+      "query": "\"Meta Platforms\" analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Rothschild Redburn raises Meta stock price target on AI business shift - Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNQ2pMOURfQUxJTzhQeDg0cFpyYml1bWNJTV90aXJvVkt1dGVZa3Y4VjllWHlWX01SanhDdlpyVkh3NVdIU09KNW0wY2FMR3UtaTg2VzdaQXB1ZU5JZzgtc05JVUZuSGFIakFJaG1pMTQtaHoxMk9KWEViY25BSWJ6YlFlWHFMZkRzOE11c29JUmYzYnJvRGRfMnFmQlBVR1NFSVlaS1NxTkFvQUg0ZkNRUkFvY1pwdGt3RWNUQ2RXWW1lQXZXdFprTENn?oc=5",
+      "published": "2026-07-21T07:00:00+00:00",
+      "publisher": "Investing.com",
+      "summary": "Rothschild Redburn raises Meta stock price target on AI business shift &nbsp;&nbsp; Investing.com",
+      "query": "\"Meta Platforms\" analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [
+        "guidance",
+        "analyst"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Meta Platforms expected to top earnings estimates as ad growth remains healthy, says BofA - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNc1R5SUZ0OUw0LURJYU80eUJ2ZFE0dHhjUHN5Qmo2SGlwVl9xQnV3ckUxUVBwRy0tMlB1b3VCVk9QcGhaTmp3TlU3VGdjakkxeDk2ZlI3OUtYY0h3TXUzOEVhazE2NURqZVdEX0hfZ200QXhiLW5qX2RJdGRKWV9TLUZqZS1ad1d3OXhsQU1CM2NQZ0RYUng5M29rRWIzNlc5Wjlj?oc=5",
+      "published": "2026-07-20T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Meta Platforms expected to top earnings estimates as ad growth remains healthy, says BofA &nbsp;&nbsp; Yahoo Finance",
+      "query": "META revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Why Is Meta Platforms Stock Gaining Monday? - Meta Platforms (NASDAQ:META) - Benzinga",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQS19KRVRfRTNMVGdBdWY2SGxGOTBmRGdHR01VczJyS1l6OHR4d3k0Nk5uWHNubFBDU1MtUjVIeXgxLXZMeXJXWkdfdWdVcm1mMjI2RE9USk9GaUZFUlZtczdFQnBuTnUtMVpwREFEYTRONG1NdEt4WVFfR05sOVppdjNDNzdGMHk2LUdhSllzcHotNFg5Rm9GQnRMaXZPU3dMb3JDTVBiQnh5NFRRc3g5RHJySkhzNEZiMWVSMnpSYXVmTDJw?oc=5",
+      "published": "2026-07-20T07:00:00+00:00",
+      "publisher": "Benzinga",
+      "summary": "Why Is Meta Platforms Stock Gaining Monday? - Meta Platforms (NASDAQ:META) &nbsp;&nbsp; Benzinga",
+      "query": "\"Meta Platforms\" analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Why Meta (META) Shares Are Trading Lower Today - StockStory",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQXU0Z2hBZnFnbFlpRDI3djhnOEFxUGV4STA3RV90OGpPd0tvNzA0V3dXYjdYb2Vwbk1VMFBvWVRoZmpNMU43UWl1WDZPVlBNMnlFMHRFTDgwV3B0dVhXb1U2aWJUSkdfSlI1cmRfd2lBV3lzYWx1UkZMaWptbFRkMGpwS29XdkJJUDloTmMyYkR6X0QxbEFuQlN2MXZFdHRxR3laeW9EV0hMQQ?oc=5",
+      "published": "2026-07-17T07:00:00+00:00",
+      "publisher": "StockStory",
+      "summary": "Why Meta (META) Shares Are Trading Lower Today &nbsp;&nbsp; StockStory",
+      "query": "META competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Why Meta stock suddenly broke out after a long slide - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORU9ybi12cnZFcW1VMjNra0N0V2poRnIwaFM2bG4wczJGUmZZMTBQY2ltVDJMTHM0Nndod2x6UVFSSzZES2lIbGhkV3BORG9zLWUzeFMzdVJabnRhTDdZb2k0OGlaV2dlTUZINl9zRW5ZVTRjclFKRGpkOXlFa2xZcHFUeXFFMlhQUE1yVmkwMW9WVkhPd3lsQTdtb1lHY0JQM3g5NzJMTXZPc0wtemxBZThtWFhtTXc?oc=5",
+      "published": "2026-07-14T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Why Meta stock suddenly broke out after a long slide &nbsp;&nbsp; Yahoo Finance",
+      "query": "META stock",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Meta Platforms Is Moving Closer to Controlling Its AI Supply Chain. Here’s What the Company Is Planning. - barchart.com",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNSldvUEVwaEZ5WnlnckFLYlZDNzBKSDk1NkE3SVNOajhLaDZpQi1IcHFPcjhlR2ZvUWpQbFlVcnFYWlVsQnNabi1iU2FOZktzbjBndUI2VTJISzFxcWY5YXM4TmcxZXpsOUQ2ckVNalhOaURWRTBvUEp4ZzF0Wk9abkNkVzNWSVh4dW1KenZhT0p1SnlWT0FVcmZSTmxwMTVpM1I3RG0xRHBFRGY0MFpsUmlJZVNHMkxLRUZzV3lLam1JUGZONGlFWmZZdU9tLV83aHVmRkdZbmdrRTFCemc?oc=5",
+      "published": "2026-07-14T07:00:00+00:00",
+      "publisher": "barchart.com",
+      "summary": "Meta Platforms Is Moving Closer to Controlling Its AI Supply Chain. Here’s What the Company Is Planning. &nbsp;&nbsp; barchart.com",
+      "query": "META capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity",
+        "demand"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "What Meta’s Potential Pivot May Signal About AI Spending - Morningstar",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNeXJoaW5tVktGNUM1NjJub3pCdXlJRFNvR2dxN1ZDa293OVVxMHVYaUlJc1pvRTVUQjd0b2VKcDZhU3RjTTBXSFk1UUFheXFwT0ZQRVRmbkdwUkdQOWxNUmtveUI1RjJKU0NfbEVjNC1LVnA1dm9NZnJhbEQyeDJnT2xMTDhQZEtyNGpGWmlORlhCYWlQ?oc=5",
+      "published": "2026-07-14T07:00:00+00:00",
+      "publisher": "Morningstar",
+      "summary": "What Meta’s Potential Pivot May Signal About AI Spending &nbsp;&nbsp; Morningstar",
+      "query": "\"Meta Platforms\" capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Today's Analyst Rating | UBS Cuts Its Price Target Cut on Meta Platforms to $766, Palo Alto Networks Price Target Raised to $400 by Citi - Moomoo",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdFJpR1ZpR19xVlFLMEtlWGF0cWFJS0t0Y1puS1ZpN0ZmVHRvWWYydU9MMXFSVXhxWnhkTnhneHN6UGZKQjVTaS0tTnJkcnlJbzNmMzJnSE9VNlZxM0I1NHVQNUxpZFNUNDFnOVB5RFJLbWtZaTJZX24wZ1RjRzhrZ3RSZVprMWNUaEtDYk54M1lRRnRxel9zTzJB?oc=5",
+      "published": "2026-07-13T07:00:00+00:00",
+      "publisher": "Moomoo",
+      "summary": "Today's Analyst Rating | UBS Cuts Its Price Target Cut on Meta Platforms to $766, Palo Alto Networks Price Target Raised to $400 by Citi &nbsp;&nbsp; Moomoo",
+      "query": "\"Meta Platforms\" analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [
+        "analyst"
+      ],
+      "lean": "negative"
+    },
+    {
+      "title": "Meta Platforms (META) Registers a Bigger Fall Than the Market: Important Facts to Note - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOYmpTcUl1VVRUNnlGOUFxbExNZ3NrT3RjTE5QWko3ajlrR3N4dzN1QjRLMjJLZHpvOUlra25YYk5UWWZybXVBVVhmNDJIYVlDaG9YaVY3Q1dpYzNjY0dpbU1GUzZvZ1c5ZjZtd3h1aHEweVZLdkIzWVhLQ0d1MXNVdzlRaHE2Ujh1anFId3RudEJXV1Fpc3dOWlh3bG9vV1lUWlZV?oc=5",
+      "published": "2026-07-13T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Meta Platforms (META) Registers a Bigger Fall Than the Market: Important Facts to Note &nbsp;&nbsp; Yahoo Finance",
+      "query": "\"Meta Platforms\" competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Meta's Best Weekly Gain of the Year Reignites AI Hopes. Here Is the Suppliers List of Four Hyperscalers - Moomoo",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcEVUTE5kajhfV0NqQ2lKWGxidDd0VWV3WEVPVU1vV3pDTlBXamxnQkxCbXVZYTJNZVp5UHFVSEYzZmN1LUxIMXFOS1RMbFdYY093OGpMaEZxNk9fVGpILVdzV3dTbExzWmM0N2ttdzNDekVvZ3hPQnZsSWZmVVZaTkZlUGNNdTY1YUFNb3pEUVZHY1Jkejlxc0FwLVJFWlZlR0tj?oc=5",
+      "published": "2026-07-13T07:00:00+00:00",
+      "publisher": "Moomoo",
+      "summary": "Meta's Best Weekly Gain of the Year Reignites AI Hopes. Here Is the Suppliers List of Four Hyperscalers &nbsp;&nbsp; Moomoo",
+      "query": "\"Meta Platforms\" capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Why Meta Platforms Stock Surged This Week - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPR1RyY0I1dHVpMVMtLWNUVS1iaDdLbU00OFltOVNrNWJiUHc4SjUtNGRrSm9YUEN0M2cwMnV5OUZ0MVFaemFzaTRQQUdiNHpKNFltZ1lqWWVlcE1CX21hSXA2ZnhxcEMyd1NTdzluLUFvR2pHRU5tRmVUb3RrS2ZsUEgyWUZsLXRiVVFiYWlzbzg2WmM1ejIwamdhRTQ?oc=5",
+      "published": "2026-07-12T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Why Meta Platforms Stock Surged This Week &nbsp;&nbsp; Yahoo Finance",
+      "query": "\"Meta Platforms\" stock",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "positive"
+    },
+    {
+      "title": "Why Meta Platforms Stock Jumped on Friday - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNOExTWmlrLXRBWFJuM25SdG5JbjdoSjlwWVdJS0ZnU3Z6RFZkVUpTQ1Q5eUp0WXZBanNORjVITXJsZUV0RnlOX3FBenE2WDFXQnRHbFZITEgxRHAxVHRFTDRkc01OVEdwcDFvb0VHUUtBVUVGYnVYX1UzYi1iRjMtcWhVT2N6T25CWld4Z3hwZ1JCZXIwNG0xYjQyOUI?oc=5",
+      "published": "2026-07-10T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Why Meta Platforms Stock Jumped on Friday &nbsp;&nbsp; Yahoo Finance",
+      "query": "\"Meta Platforms\" stock",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Meta’s AI Chip Plans Revealed: 8 Key Items Shaping the Stock Market Friday - TheStreet Pro",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTGhyZWxHM3BQUFR5SXpsZjNjNFdnU1JER05xZ1lPdnZ0djlZMjhCenNlR0lHRDduY3RoZ3JNc2p3ZWRLR2xWMmhMdHcwSndabDJ3cWtkQTczZXRNMVkzTVdsZkhMSld4NUtWd2w0TzNOX3Zic3ZFc0I2LXp2ZGs3SFBfQk5DOU5IdWR0a1ZMQzhhSDBnSG5xVTJGTUxLamk5OXRMTFNuaTJReDI5?oc=5",
+      "published": "2026-07-10T07:00:00+00:00",
+      "publisher": "TheStreet Pro",
+      "summary": "Meta’s AI Chip Plans Revealed: 8 Key Items Shaping the Stock Market Friday &nbsp;&nbsp; TheStreet Pro",
+      "query": "META competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [
+        "analyst"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "As AI Becomes More Affordable, Supply Chain Software Differentiation Moves Up the Stack - Logistics Viewpoints",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOT3NMeEFVdml4VGU5dTRWeHVVOHFEb2g3UGJ6YUktZGlpQ0ZmcHdQRXBEaU5oNFFPYWRtelNFalY2N3JhMmxUY3RremF6cjQ2T1hHLUk5VnNRbzlSODNJSFlXdlhFUXRGcjd6VWxVQ2lHSTdaMkRSUk93RDh3SUV3MGdkQjc2ZUx1a25oX09sdjF5SWlTdFZTdTV3NGd2SUZscGk1UHg1VDgwZV9FU3pXU1p2Z3k2Q2dtZTNoZEVJQUdpN3kzdzJfV1p3?oc=5",
+      "published": "2026-07-09T07:00:00+00:00",
+      "publisher": "Logistics Viewpoints",
+      "summary": "As AI Becomes More Affordable, Supply Chain Software Differentiation Moves Up the Stack &nbsp;&nbsp; Logistics Viewpoints",
+      "query": "META capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity",
+        "demand"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Meta Price Prediction: The Case for 30%+ Upside After a Selloff - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNeFZiRWZoLV81TER0T0xrQzh1VkF6MVpPUVlTTmpnOTJhQ1BaLVNIUDNwLURMLTBiYzBCdjZRNnA5aWwwVkxsM2lIYlVSNHBqWElyZHNmWjZjc1I0TUlkUV80Q3V6OFRhVGJPOGZ4bHhWX0dqOE1nc2RrUDZRdzdRR3Yzb0hYckxNa2RQZTB4em9wVVJvcjlub0V3?oc=5",
+      "published": "2026-07-08T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Meta Price Prediction: The Case for 30%+ Upside After a Selloff &nbsp;&nbsp; Yahoo Finance",
+      "query": "META analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [
+        "speculation"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Meta’s Market Value Passes Tesla’s—But Both Stocks Are Still Tanking - forbes.com",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPd2tnR3ZjcnN5ZzRuWEc5Nk1xb1RHTFNJSW05dktNUzZtcFpPRENpa25abGtQNHk0X0l1THh1ZFM1NGxLbVlRbDJhel8tNE10Z2dYakNjWHpoX1lNQzlxZjd2c1VUM0ZMSDdnRmp4VVdueHJiRnBwOWtHalZTLUFVcVlDcV9FeE04ZFdMdHRhcVEycHRpM1BIa3R4TkM4ajlfS0pvUUt6Z3hockFIVTQwajNqdHpGcjctQWxkTXpwTG1fLVhmQmZHZjdfUFlLbVk?oc=5",
+      "published": "2026-07-08T07:00:00+00:00",
+      "publisher": "forbes.com",
+      "summary": "Meta’s Market Value Passes Tesla’s—But Both Stocks Are Still Tanking &nbsp;&nbsp; forbes.com",
+      "query": "META competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "What Is Meta’s Arena? Inside Its Prediction Market App Plans - Built In",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBKYlN0LVZqVmhNNVd2OHg5bkhIZkR0OE5FTnhtY2lfM1pUT1M1ZmE4ZW40c3A0SDlva0JHNHdjdS1CMWJjM3FmX2lITm04M0kyaFZQUW1Pa3ltVlQtWnZxakl3VWdTUQ?oc=5",
+      "published": "2026-07-08T07:00:00+00:00",
+      "publisher": "Built In",
+      "summary": "What Is Meta’s Arena? Inside Its Prediction Market App Plans &nbsp;&nbsp; Built In",
+      "query": "META competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "How should investors navigate semiconductor wobbles? - UBS",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZUZFUTR4UXRBQWtfdkxkLWpBZHpUMmdkRDd3dGtVd3VBZ25HSXN0OWppRzVNU1Z2aV9YOThFdDFnb01rd19Sb1BXUmc2OXpHdmVoYUdweXNGNWp6Y0g5SFpYTDZBX2VPdi1PeWczN1owbm9hdDNjQ19ibmNzVTlLN1A4c3laVzZWcWNQMm9EU0M?oc=5",
+      "published": "2026-07-08T07:00:00+00:00",
+      "publisher": "UBS",
+      "summary": "How should investors navigate semiconductor wobbles? &nbsp;&nbsp; UBS",
+      "query": "\"Meta Platforms\" capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "SpaceXAI's Grok continues to lose market share; Meta AI climbs to fourth in US: analysis - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNS2dpZmV3YlNTREt2OE1OS3JHbGJYdi1hZmFja1A1LWRzWG1aUVR4R3Q1b3A4ZU1CSTJPYld5ZEFSQzFNMDgzSHBfeGt6N2Ywd3lZcTJBVk1qVWVmSjRmUDM1Yy0xcHBDZDA1WFRYRVAwRlFhblhGWGlBU1BzOGlHNDhjMXFWSmw3bUdYZUNqSEw1Z1FBTUtSZEs5U3ROWnVNRnpWYmN6b25pYmVkQU5Ea2QwT1BPZGI1MEI5NTdBMTA?oc=5",
+      "published": "2026-07-07T07:00:00+00:00",
+      "publisher": "Seeking Alpha",
+      "summary": "SpaceXAI's Grok continues to lose market share; Meta AI climbs to fourth in US: analysis &nbsp;&nbsp; Seeking Alpha",
+      "query": "META competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Is the Market Badly Mispricing Meta Stock? - Trefis",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQTRyVk9iNXZvOUJMRV9zRFRyZ0NUTU5hY2wtd3NyWDdwUEgxQVpkbHlrVnE5cnU4UmpmNFFBRC1OWTgzdUhkSUVkdzU3NTA2XzZheUxMN29aLVluc3c0OFhEWXRYMDJBOXN3eGlOZkZRckNxNmRGRF9aT2VaZWYxSDR4dVBRQm01SWJ4OTlYdUpkRUI4cERaZGZobGs3YXdIV1lQbw?oc=5",
+      "published": "2026-07-07T07:00:00+00:00",
+      "publisher": "Trefis",
+      "summary": "Is the Market Badly Mispricing Meta Stock? &nbsp;&nbsp; Trefis",
+      "query": "\"Meta Platforms\" competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Why Meta Platforms Stock Crashed Thursday Morning - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQYVdzQnNyRmZVQzloeEZ1dTZ0X3gwd1ZUYWhJRzVhY2FuVk1sbWN5ZHQ0bjRnWVNmVnZTU1RNbW9feXExYm5FMHFfeWRNaE9wWlFiam40TTBrOVJSYU8yeEd4NUxIZWhyMjFmSVFSSGNocHFIQUxnX09sbVFoMTdMTmNiMkprc2NEbHd5b3V2cEpRNTJ2Y1pSLVplM3pOdw?oc=5",
+      "published": "2026-07-02T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Why Meta Platforms Stock Crashed Thursday Morning &nbsp;&nbsp; Yahoo Finance",
+      "query": "\"Meta Platforms\" competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Meta Is Finally Entering This High-Margin $500 Billion Market. Is the Stock a No-Brainer Buy? - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNM3hWS2lweEZ5eWlhRk5PNTVIbVRjRURoVVVlTU1YdlY4dU5zajFRbGt1a0ZGb2tCcWZkZmxEUmJnT1NpYm1obmZualQtT2RPWmlGbmhmWEw4UmJGN1hBeWNRMkpTWkNDMVR2dHBuZE1LR2xiMzNFY2RZNjY3SXB5dnpyZGlnYkFpVkxLZU93OUt6TnBiaDI4bA?oc=5",
+      "published": "2026-07-02T07:00:00+00:00",
+      "publisher": "The Motley Fool",
+      "summary": "Meta Is Finally Entering This High-Margin $500 Billion Market. Is the Stock a No-Brainer Buy? &nbsp;&nbsp; The Motley Fool",
+      "query": "\"Meta Platforms\" competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Meta Stock Price Prediction: The Forecast Sees a Path to $800+ - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQ0dkODJ2blVOeHV2UnkxOHNhTDFYOXh6RzhNVWxJby1wU2tZWnNUOVZjWUFEbmk5dUtVS2dsZUhueTBxMzBPcW00MXJnWmFkd2dtd05hWmpfRWszc1dtSFdDRExpTzZiU3hvcnBtNUo2Q1RXNnZKU3FvTkpaV3VtbFlyYWNvYmFHc1AwcWR4UVMtYXN1ZFltOTFpU2lLRjRvU09n?oc=5",
+      "published": "2026-07-01T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Meta Stock Price Prediction: The Forecast Sees a Path to $800+ &nbsp;&nbsp; Yahoo Finance",
+      "query": "META analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [
+        "guidance",
+        "speculation"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "AI Bubble Burst: Meta Admits 'Excess Compute Capacity' - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZHY4dDVJQ1ZQeDN0TFpYVDFPLTNmWUVPSDBEajRZd1NDX1JXa0NuSjZVWGRXNkFHa09sR0RkVlFyRWJhSWd0SkxqVGxfSzYyT1U2eUdWUFhiaE1HeTFPdEpkaG40eC1acXRPWGk3S1FRYkVKdEVLMUF5dmJFRk0ybWh1UkJ6N21LSUNWcV9BMmlYSlc5Y1Fr?oc=5",
+      "published": "2026-07-01T07:00:00+00:00",
+      "publisher": "Seeking Alpha",
+      "summary": "AI Bubble Burst: Meta Admits 'Excess Compute Capacity' &nbsp;&nbsp; Seeking Alpha",
+      "query": "META capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Meta Platforms stock closes 9% higher on cloud business plans - Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPaFVNWnFGUFQxOUFJdHJQZ0h5TEY4YXBMTFM0MXB5SzR6VldPU05lbGNidUluRkF6Q29pMmltemxTZU5WcWx5WTZiUk93Mnk4MG1VTzBJcC1leElEOWhUVXpNRnZNanM2Z2FBVkljSlNHOG1GUDQ2ZVRxbENlalZweHFZM0xlN3A3WjkzNnNEQ3Jaa29XbTlGWUllckdfZmpGQmVNbjdCdGpndmVFa0pV?oc=5",
+      "published": "2026-07-01T07:00:00+00:00",
+      "publisher": "Investing.com",
+      "summary": "Meta Platforms stock closes 9% higher on cloud business plans &nbsp;&nbsp; Investing.com",
+      "query": "\"Meta Platforms\" capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "FAQ on search advertising: AI assistants, shifting traffic, and the new demand capture mix - eMarketer",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNDNFM2FhM0plNmdsMHhSb1FLVXp5bDNrQ0NzZDNLWnFVM2JlX3Z0cDR5UThOZVg4TXpZRDU3cFpUdGljaDFCSFR1UzFIWmtYTm02WEl4THpENlVpQ0N3T2tELTdSQ1dGYzRoWkZlOUFnOVJnY2xLSUJDNy1tdGRlVjRhLXJ3dV9KVm1GQU9kYmw3ZGUwaVNpVHFjU3J2Y2NKRUNDUDB4V21oakpUd3NTbDNoZjRfMWs?oc=5",
+      "published": "2026-06-29T07:00:00+00:00",
+      "publisher": "eMarketer",
+      "summary": "FAQ on search advertising: AI assistants, shifting traffic, and the new demand capture mix &nbsp;&nbsp; eMarketer",
+      "query": "META competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [
+        "demand"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Micron Beats Meta in Market Cap: Can It Catch Nvidia Next? - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQWFKX3pQamsxcUYyQ0F4QUpqMGRYRlZWNjg2bTZJNm91eXZ3QW5Sb0hWZW56TldjODZXNTltSXhkT0dkSUh5emp4Q093bG91Y2paYnlyQXYxRmwxYjlDczRLR1dKcThkb0tKdVAwc1FmcWkyWC1Xd0VQOGQ5X2V2aHAtekgyeEZ4U2dhNEhRNnZqUWNoalZWbg?oc=5",
+      "published": "2026-06-26T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Micron Beats Meta in Market Cap: Can It Catch Nvidia Next? &nbsp;&nbsp; Yahoo Finance",
+      "query": "META competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Micron overtakes Meta, Tesla in market value amid relentless AI infrastructure demand - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZVgxMFl1QzdSTDFoREJsZmRqeG0xbUFKdDc1X3p0Q3kxejdjQ2pWZThSXzEwQkNOeE9OR0dHSHpjTEN1N2J1SHJYOXZIQjNELUQySGt3c3Bkai1TSVQ0ZnlqRDhkbnRoYTRHNkV6ZFFqSmh3ZTFGY3lzMW1TN2RYay1LZHMwaUNjTUpwRU5XNHhKZGFDV2lPbFJMYTZWRkhFQWJJTzNYMFpQblp0R1J0cFNoQ21ENklkdjg0bQ?oc=5",
+      "published": "2026-06-25T07:00:00+00:00",
+      "publisher": "Reuters",
+      "summary": "Micron overtakes Meta, Tesla in market value amid relentless AI infrastructure demand &nbsp;&nbsp; Reuters",
+      "query": "META competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [
+        "demand"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Meta Platforms stock has become a bargain: will it rebound or slip further? - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNOVZuQm5waFpBNUN1VHBWanJxQ2ZvTGh5RTY2R1FXX1F4UjRSUFdSX3FjYXJDV0paNTVZeGtsWjV5UVRsbVF0THdNRzRnNlMtdVhFNlRlbDhiczFOVXltTFhIbVh4RzZwVFFSSUl5S2tJc3VLN1RKVzFaRjFXQzhnYTRkLTB4VVJpMlVteDljZGZpUGNMRjFBUDJZNDFFbWwxV3dYdVhBcHRLQ1Y0MlVfWTRKMmhEbjk0OE9wdTlMM0t1MWJOVExDeg?oc=5",
+      "published": "2026-06-24T07:00:00+00:00",
+      "publisher": "TradingView",
+      "summary": "Meta Platforms stock has become a bargain: will it rebound or slip further? &nbsp;&nbsp; TradingView",
+      "query": "META competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Qualcomm and Meta Announce Strategic Multi-Generation Agreement on Data Center CPUs - Qualcomm",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPU3ktLTFicWwtblFlcldiampieVhJUnJYTWdaVU40ZWlqQml3bVpVZWhqT3BVRUtaVFZ3SHphYzlCRzVEN0ZQUi1JM2ZBbVdic1ZnYVVBOFpkOFpRMU1aQkhGNDVhMndHTUJfUXFUMkhxSUQ4THlmRGNfNk9HLXhYb0RmeUE0aWhuQVdmWVU4S0Zuc243Y2ZuempVTnFSczNOX0dDeXJnOXM3eUFhQ1YzXw?oc=5",
+      "published": "2026-06-24T07:00:00+00:00",
+      "publisher": "Qualcomm",
+      "summary": "Qualcomm and Meta Announce Strategic Multi-Generation Agreement on Data Center CPUs &nbsp;&nbsp; Qualcomm",
+      "query": "META acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Meta is building a prediction markets app. These stocks fell in response - cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTzFRQWNlN0tBMUE4V2JpQ3JxYmJad1dVUFlORXNBS2syUHNmZWR4S2JZMzYxZVVIX1RyWU1QY2FSaEtMOXU2S2RJUnZlUWI2eFcxR3FZR0V2SGl0SjhBZl9hc21NSWRqb2NkbXBlR3dERjROaVJ2OUVqN05XZVlfTlc1dFAtMmxBcDdxZ3V5YURZUFh6NDFOUW1iUF90b0RQYmfSAacBQVVfeXFMUGNoYTRCQzZiZlRaVm1FVjlPQnotNmZiU042UWNMV3hXS1JwVmcxcVU0dDNiU1hxTTdTWHdiZ0M5aURpLUhyNUFkX2pZRWw3cll0VkZHQ3U3S0FGQ3hfTlZsRFhtXzN6UndfaUE5Sy16Vk8yMlI5RUM2NHVxLTVfV2NfaXhLWkphR29PTjdWQVRuQTFSb2FkZEJOVm42TEFBSXk1UHpCenM?oc=5",
+      "published": "2026-06-23T07:00:00+00:00",
+      "publisher": "cnbc.com",
+      "summary": "Meta is building a prediction markets app. These stocks fell in response &nbsp;&nbsp; cnbc.com",
+      "query": "\"Meta Platforms\" competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Meta Platforms Looks Unbelievably Cheap After the Tech Sell-Off. Is It Time to Load Up on Shares? - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbDFfOUdFWkp1OXdETExac05wR0s2V1JfR3JHV2lmR3hVMjlLbW9kQVlaZjdrUjVaMTJJRzhHV3FBamJGVWEybTNGcTM4N1cxX2NQUVlycDJUQWloWHZPenB4SUJhZ0ZXbkctaF9hQWNwZ2VvaWo5MUlJT095RXRHNk9PT3FTYnpYb3p6VWlQU2JLOUhXc1VR?oc=5",
+      "published": "2026-06-21T07:00:00+00:00",
+      "publisher": "The Motley Fool",
+      "summary": "Meta Platforms Looks Unbelievably Cheap After the Tech Sell-Off. Is It Time to Load Up on Shares? &nbsp;&nbsp; The Motley Fool",
+      "query": "\"Meta Platforms\" competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Carnegie Mellon and Meta Partner To Develop AI Tools for Emergency Response - cmu.edu",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdVd4V0dOeDVkQklxX2MtSmJFY19OZm5rRnk3YXN6N01Gby1fUnJCa2xTbGlXWjBSYU1acTBJbnRoNlRyNVNzdmtrZkhvVXZCQlV5NG1LLWZLWHc3NjA4NW5ZbzQ2eERDUXFmTUVHOElKejBPSjhZM0NMSGhYSVJyWjhlTTRzQnVSTlZZLVNYMXNSOHNOaF9DSjNlSnF5b0l6RDZhai1naURZR3NzRl9QVm5pY2tzN3lBdng4UTRLZUtHVDZ0dkE?oc=5",
+      "published": "2026-06-16T07:00:00+00:00",
+      "publisher": "cmu.edu",
+      "summary": "Carnegie Mellon and Meta Partner To Develop AI Tools for Emergency Response &nbsp;&nbsp; cmu.edu",
+      "query": "META acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Meta's Sham Parmar joins Anthropic's data center supply chain team - Data Center Dynamics",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOODRkRDJHMEQ4QTJYVk1DY2dsSExCRGNSc1FPYXZaRjlLX21jU3lKb3BCTGVSUXVOUHZpWEZrRTFrc2hudEdfV2pYRWFvOVlZSFB4aFYxLWxXTWtMc0dzaTNuY2kxMURwQUItWkNFSHNrT1VsRi1fb0R6SjdyNGh0ZGk1cUI0aEpwYWFmbGgwTnlQVER5aGZfb3ZJUlk3ZkppLXh4OWVJdWN1cXRq?oc=5",
+      "published": "2026-06-16T07:00:00+00:00",
+      "publisher": "Data Center Dynamics",
+      "summary": "Meta's Sham Parmar joins Anthropic's data center supply chain team &nbsp;&nbsp; Data Center Dynamics",
+      "query": "META capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity",
+        "demand"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Meta Platforms Is Quietly Becoming One of the Market's Best AI Stocks to Buy. Here Are 3 Reasons Why. - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZVpaZ0JVQVRMZ2JZajR0aWZEUjV1OWlua0hwTDVYMGxZNElEMGZQc0Ywdmo2eUxXUExCNW1aZkluVHlqcEtXOVI0czNtVXFEd3N3NTA0cnpEMVBISjdqR2Rfb1pnQ0VOZm9SRUY2V09LN0hjT3RBMW1pU2Q0Vmp2V2ZXVGZmdTZrS2lBWWItTWFNTVFIQ2V6LTMwZGY0YnJwYXc?oc=5",
+      "published": "2026-06-15T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Meta Platforms Is Quietly Becoming One of the Market's Best AI Stocks to Buy. Here Are 3 Reasons Why. &nbsp;&nbsp; Yahoo Finance",
+      "query": "\"Meta Platforms\" competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [
+        "mna",
+        "speculation"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "New Chrome Metal Plant Strengthens U.S. Manufacturing Supply Chain - Assembly Magazine",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNd1R1Uk05NTlkN1dwNHNoSWZUZmNFakM3OTdWT0FyRU9FVUJFSU11dExjMmVmS21BNGZSWEFFdkNKalFXUHdqc3dUaHZvNmp1MXZDbGxaU3pIdE1WRVF2ZDlhT2pnRWt4eThYOTYzcUhqdXo5ZC1LT2cycjE3U1I2cGN0eXdtR3BSV053TFRVUkRfcFFtU3RqZ3JzVEI2NW9lTkx2amdBak1qbi13?oc=5",
+      "published": "2026-06-15T07:00:00+00:00",
+      "publisher": "Assembly Magazine",
+      "summary": "New Chrome Metal Plant Strengthens U.S. Manufacturing Supply Chain &nbsp;&nbsp; Assembly Magazine",
+      "query": "META capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity",
+        "demand"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Meta Faces a Multibillion-Dollar EU Fine Risk. Here’s What It Means for the Stock at 17x Earnings - TIKR.com",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNNi1GeW1jVjcwQU1VODdJMkdtOEFKbl9mV1B5NUhzWm5nVHc0ejI1RUJabm9SOElqeFRYQUpYN0ZWYjhMUU9UWkRtZGNZTHh5TXpKdmM2RjRDRjVUMHg1bjRiRTNpa21OeDNwNkJmQ25SS2tyMFF5RnhIbkJIakpoX3kwU0ROMFoxMlJsY1dWZUZGNGthM2dIMFc3Z2NuZXNlbWNZOVZMQU5RVl80WXg5Zk5LcmJ6SE5sRTFhbXdB?oc=5",
+      "published": "2026-06-14T07:00:00+00:00",
+      "publisher": "TIKR.com",
+      "summary": "Meta Faces a Multibillion-Dollar EU Fine Risk. Here’s What It Means for the Stock at 17x Earnings &nbsp;&nbsp; TIKR.com",
+      "query": "\"Meta Platforms\" earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "regulatory",
+        "macro"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Meta reportedly moves to unwind $2B Manus deal after Beijing’s demand - TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWHpvRmdKUTBiRXhZOEhyTWJkV1RvREhMYWtrU0tkRm1Sdm9Yc2FXZnRfcFc0VWxERTRyMXIwUlhMSUZ0cUM4MDFONUtUX3dIbUNxTTZGakNMY1dET3hjbW9MenZES1pIeWJoTVc3U3dkbHFsU3NsMU1uVUx3WDExS1VZc2JaUVJLaDJxQVBSOWRTUy1qNlJMM2J2OEs4QXlvRExySw?oc=5",
+      "published": "2026-06-13T07:00:00+00:00",
+      "publisher": "TechCrunch",
+      "summary": "Meta reportedly moves to unwind $2B Manus deal after Beijing’s demand &nbsp;&nbsp; TechCrunch",
+      "query": "META acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "demand"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Meta reportedly begins dismantling $2 billion Manus deal on Beijing's orders - cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVHZtMXRVM3drMEVZZmdBcWN0WElwYTZIYTFmZXAzSjlyLU00eWhkblc4RFNadTNfcUhpczlQTXNDVGtwaWdyX1hUYmRLYm91R1I1T0ZlSnM4Z1liMDhLblhjek92dkhWYlpuc3FyV2VzZW5SUHB2dU5HZE5yblZNTkJZZGFQcDVPRVN6SFVVOTcwcEdFTWh3REs0SXROWElkU0hxMzNnc1Y3d0hfQU96dNIBtgFBVV95cUxOdHFnUGpLMC1qMGhqXzVBeTd4d2kxVkdHcFJYdWJld3Y0WFcwemZ0Rkd5ZGxVNUtRMHhuSFowWW5oQTZLd3JBeHVZd1g5WG9nWUZqVFZSMWhLVXdWdk9rRzJWSS11elZUSlY2YTl1NmNVSi1oZUZQRkNJLXAtT2VVNUc3UTNMMHc1QTN1dERfQklDeE1kRzJFRHJqcHJIMUJUbXV0RFJaMmxnQ0l0YVl5d0ZmUk5fQQ?oc=5",
+      "published": "2026-06-12T07:00:00+00:00",
+      "publisher": "cnbc.com",
+      "summary": "Meta reportedly begins dismantling $2 billion Manus deal on Beijing's orders &nbsp;&nbsp; cnbc.com",
+      "query": "\"Meta Platforms\" acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "demand"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Why Meta Platforms Stock Crushed the Market Today - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSXRLbHFpcWdGeW1jWVdyLUNLbEVrVnlQLTNKcjUtaTZUMjZONTh6NWlESkMyd0p4bElndGpNdTZ5eE1IdUhiTGhwcTh0ZnN3ZFN0OXFEMmNjelNYUDktV0JDenZuT1Uxcm5QVzZxS0xPcEI0cjhEQ3g2M1EzeWRFOUJzbHhGdHVLa01YUldMMnIxek9QQUU0?oc=5",
+      "published": "2026-06-03T07:00:00+00:00",
+      "publisher": "The Motley Fool",
+      "summary": "Why Meta Platforms Stock Crushed the Market Today &nbsp;&nbsp; The Motley Fool",
+      "query": "META competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Iran War-Induced Metal Price Hikes Impact Supply Chain, UK Lobby Says - Aviation Week",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRVBVY2tyTHNYMFlNY0ozcEJqcHlFaEp6TXkyS3dLSTIxUE12RFRUeFMzcjI1QV92SWJ2QktfNlhmS2t4anNxZlZMZi1aVmpld2lERUJDeWRocVdxRTJZQVNGTC1pZlhGcml3cVNGdWUtOU5USjdMZkNRN0JXcjR2cTYzaU5MblFMdy1VZk1pamc2R1NRS3JrNlYtOEZmcXBQSlJnUFk3U0NVYlh2aGh4NjdJNThnUnVaN3Ew?oc=5",
+      "published": "2026-05-22T07:00:00+00:00",
+      "publisher": "Aviation Week",
+      "summary": "Iran War-Induced Metal Price Hikes Impact Supply Chain, UK Lobby Says &nbsp;&nbsp; Aviation Week",
+      "query": "META capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity",
+        "demand"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "China's Manus founders seek $1 billion to undo Meta takeover, Bloomberg News reports - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcjU4TlRCUVhKN1B5RmZLRElBUGpBWUVhVEI4ay02S1RwV2J4V29kZTNrc1BrVXlCMHZ3Z1M4UnRmcjFLc1pOS3ZCOFBqMDJNTUpoazQxLTZnNHkzRlBoekVrNHJ3QXJvWVJXWS1Wd3llS2JhNWZoOXE3elpHNGpJRm1NQmUxRDdqXzFtakxaWmNqUE9ZdERpQ1FLX1NlYW4yVDI2eGVrdDNDdC00bm1Sb1dHSG5pOTBsbDJRZTY4WTlNcDA?oc=5",
+      "published": "2026-05-21T07:00:00+00:00",
+      "publisher": "Reuters",
+      "summary": "China's Manus founders seek $1 billion to undo Meta takeover, Bloomberg News reports &nbsp;&nbsp; Reuters",
+      "query": "\"Meta Platforms\" acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "mna"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Four AI supply-chain attacks in 50 days exposed the release pipeline red teams aren't covering - VentureBeat",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTzFmQ01KWFJYZlJBc2ZRUnNuNFRlZWduZXVuNVM4N1N0X21uQ0lSNVI2WmtDZ05DYVNkMVU3R3RaLXAyS1hiUlpIdENlVmszVDNGU3hoeU56RW5BamUxYXdSLWFRZkhUNVVITWZJZEVSeXF2bERPLWRKallxYWJJWGhoRHRXVkdwSUFxZk82N0s5WTJ2WFF2Q2hoRnRlYVpuaUE0MUsyTTE0QUZyZFROMmtkbG5HeW0tUFV1SUFB?oc=5",
+      "published": "2026-05-18T07:00:00+00:00",
+      "publisher": "VentureBeat",
+      "summary": "Four AI supply-chain attacks in 50 days exposed the release pipeline red teams aren't covering &nbsp;&nbsp; VentureBeat",
+      "query": "META capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "product",
+        "demand"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Meta Platforms Q1 2026 Revenue Beats by $900 Million. Is META Stock a Buy Now? - TIKR.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTGdFc0lrTUh1YmlIbkVkTGQyMGNSQTdrYTZYRS03YzdLS0xqVHNjVW1jRUZMWWp6YWQ4c2d1MzNXSFRWVnBkYzB3VXNJQmpXYmNCcjZqSnZKaWFYSFRFQVBfblAzOEdaWG40Znd2U0ZGZTFtQ1lpRjlPUlB3aDYyYlZDLTZ6dHhhUHU3WjJIWFhKREt3WWpwOUw0Z01rNUtvVWc4?oc=5",
+      "published": "2026-05-07T07:00:00+00:00",
+      "publisher": "TIKR.com",
+      "summary": "Meta Platforms Q1 2026 Revenue Beats by $900 Million. Is META Stock a Buy Now? &nbsp;&nbsp; TIKR.com",
+      "query": "\"Meta Platforms\" revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Meta Expands into Physical AI with Acquisition of Robotics AI Startup - Campus Technology",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQlhPdjF4YTJKMjhHdkJ1M2FvYk1zeVROYUstRmVFTkI1TkZTU2RYYWhmZlJSYzJ4Zzd0NE9wVWpSREN4YlFnZi01NC1qaGEyeXIzMy0yTUlLT0hyOXpaYzFvUHBqY3ZDbEpNRUpCSTBlVUtLUWZiTEk4VUNpY1lSOWhWc1BnXzYwcFRVLVc3NGM4MnZEYzFmVm9JeGdhdXlVaU9ZM1RDQ3k4TlRxM2ZESjBqS1Y1Z1VubW94Rm1KNEc?oc=5",
+      "published": "2026-05-06T07:00:00+00:00",
+      "publisher": "Campus Technology",
+      "summary": "Meta Expands into Physical AI with Acquisition of Robotics AI Startup &nbsp;&nbsp; Campus Technology",
+      "query": "\"Meta Platforms\" acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "mna"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Meta Platforms Stock Forecast | Q1 2026 Earnings in Focus - Capital.com",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQMTlYUVRLZ0tuajdXVUtlWUdLTXNqcTJxUGlFaERZMzBTT3hRMEdUOVAyblFManQzbm1qVmQ1b0EwV2ItTkt6YlRrMzh3RzNYeFVnekYxWWU4OElrWm5tQUJDUmN3T2pwSlZOUDR1T3J4ckNMcnhiTFpocmVpbE5sUlhqV21EOUZIaWc?oc=5",
+      "published": "2026-05-04T07:00:00+00:00",
+      "publisher": "Capital.com",
+      "summary": "Meta Platforms Stock Forecast | Q1 2026 Earnings in Focus &nbsp;&nbsp; Capital.com",
+      "query": "META revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "guidance",
+        "speculation"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Meta stock sinks after Q1 earnings as company raises 2026 AI spending forecast to $125 billion-$145 billion - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOa0RCZ1pOME5RMXRjMzgzYWFSR0lpR1RiWnlPa0Q1ZWF1XzJ5VW04bU92bzRlQjRDVm9aM1RCX3JNOUZhYVBMb01GSzJqSGpfV2ZLcEd4MVo0VVZtRjhCUzR1V2g3amYxYXVkalRlb2paTlFQaDdVQTVabHIzRHhOMlB4ZXZtTTdpbUNmLVA3U2ZheDJ4SEdfRjE2c0RCT0s5V1UxQlhOaHJLS181NlNBR2pCdHY2eDhxR0s2WVo2WklWaWlHUzdxdXNRclUteFZxYllYLVgxWkE5c1YtaHNUUFZpdUgtWThJZDVTVmFLMEFiNUJGU1NjX3RGLXNfMy1OeFJJ?oc=5",
+      "published": "2026-04-30T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Meta stock sinks after Q1 earnings as company raises 2026 AI spending forecast to $125 billion-$145 billion &nbsp;&nbsp; Yahoo Finance",
+      "query": "META stock",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "guidance",
+        "capacity",
+        "price_move"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Meta Platforms Q1 2026: 33% Revenue Growth as AI Investment Hits $145B - TIKR.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdDVhcnpkYmU3WWlYcGlHaFJGbHpVbWl3NWlLZ0lDZXRvOGpxZ0xkd3NzdzZEcUZqbkprMU9pb29nS19QamNRYzlrUUd2enJYLVBHaUJMNG10T0FyLVJ3Q2pVbFl1bzNOYmR1aVZ1c3YzNUNjams0dHUzX3Yzd1RsUTNlQ043YW5KVGVnNmpsOE5uclMwRnQ4WA?oc=5",
+      "published": "2026-04-30T07:00:00+00:00",
+      "publisher": "TIKR.com",
+      "summary": "Meta Platforms Q1 2026: 33% Revenue Growth as AI Investment Hits $145B &nbsp;&nbsp; TIKR.com",
+      "query": "\"Meta Platforms\" earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "capacity"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Meta Tumbles 8% on $145 Billion CapEx Bombshell: Are AI Investments Spiraling Out of Control? - 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOdnN1QkllNWg2R2YteFlXejZJSXlfdXh2M09HTTFFbllld05BQ3ZBT3Z0aDBfS1pRSXVzck9qM3JwRGpJMmxLYzc0d2p3aVZGWEhXR1JQWXFtc1BySWlJZUN2NXhnRklJbmZuRWctcEFqTzhJMDF5NTdmTHAwWDFYVDVqakZvZEFRZl9TNHNNckVBenlSVlFrVFBOSnBjN29jb1BYSnh2THh5ay1GTm1wX3VKdE9NcU1QREtDZkY3WXhTZTZGbDhPY0tUSmVaUQ?oc=5",
+      "published": "2026-04-30T07:00:00+00:00",
+      "publisher": "24/7 Wall St.",
+      "summary": "Meta Tumbles 8% on $145 Billion CapEx Bombshell: Are AI Investments Spiraling Out of Control? &nbsp;&nbsp; 24/7 Wall St.",
+      "query": "\"Meta Platforms\" capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Earnings call transcript: Meta Platforms outpaces Q1 2026 earnings forecasts - Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQYTRlTG02a0FOVnpPN3I3NnNQbWlVeGtLXzRCaExKemtFSkhicmlkMkhDSEo1RXdtRkJ1UW5kZFNOM2N5VmNtMGIySks5UXJEdUx3dU1uQzFUSWFvMW9BV0Y5UmlRanNEczdrNVR5em1oS1ktanhpZjhaM09IZ2ktdWpZTW8yY0paUlBJZVBoTVNnSmp4dzc5ckN6N2otQkNLVzdTQXlSNTMyZDdaQjNBX29Rc1BzTlhJN0h4V0NYRUwwSm5faEdFenpWMA?oc=5",
+      "published": "2026-04-29T07:00:00+00:00",
+      "publisher": "Investing.com",
+      "summary": "Earnings call transcript: Meta Platforms outpaces Q1 2026 earnings forecasts &nbsp;&nbsp; Investing.com",
+      "query": "\"Meta Platforms\" earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "guidance",
+        "price_move"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Entergy reports first quarter 2026 financial results - Entergy",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOOXZyTEZuaVpISkUyRHBBWDdNZGptQjZXRHNpbDVhWVhrRzFtWExBUzdYS19hMjIyb1RGSnBjWFN3NDROejNiYS03a2dWMjctQXd2MksyWnI0MDFtQXdpQTgtV1YzVFV3V0x6R3d4WW9vbWR5OGlmRjlFWUI5RzZiM21GXzFNLVp1?oc=5",
+      "published": "2026-04-29T07:00:00+00:00",
+      "publisher": "Entergy",
+      "summary": "Entergy reports first quarter 2026 financial results &nbsp;&nbsp; Entergy",
+      "query": "\"Meta Platforms\" earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Meta shares drop after-hours as capex guidance overshadows earnings beat - SiliconANGLE",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbGRvSF9GTjF2Zm1rMjhnSFlHWGkzVDkyZmdiNWZkVlktbUxsLUU0UEVsRDhQRlNsaEkzSmM0aXZiSVJHUU54WkR5aEowZ2R5eklpaG5FTDczNzVobUZmZ2FobjRZckNjOGJKSWk2U0M1by1JNDd4T3VSV0dPRVEwZ3NJMUoxT3ZkcjFCcFVFU0JvM2VSa0hiSkV5TDI5VnBkZzJjSEVDYjRvdw?oc=5",
+      "published": "2026-04-29T07:00:00+00:00",
+      "publisher": "SiliconANGLE",
+      "summary": "Meta shares drop after-hours as capex guidance overshadows earnings beat &nbsp;&nbsp; SiliconANGLE",
+      "query": "\"Meta Platforms\" earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "guidance",
+        "capacity",
+        "price_move"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Meta Platforms Tops Expectations In Q1, Shares Slide As Company Raises 2026 CapEx Guidance - Benzinga",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQYWtWaTcyZFV5QmcxcjRpeVJPaWc1cVVnSFhtTDVqdHVSV1VEQlg4a0pldjdiSF84UzBpM1diUmhXSlktbU11OXVWNTZOaV9TTk5jaGwteDRtR3BXeFhuVWVlMFFTeGNjeFh0YVpITnI1SFFmTzVvUTVVX2otYkhibnFRekJNSE5wZDRwbkE2NE5INld3VnN6dXVDdWUwSzViTW8yNWExQkU3Q1o4Vy1YT3NqT2dZRHJuOXk4NTlrV2RZUjZGenVWSEZ3ODhPc2Q5OUZ6R0hkNGY1OUVRUmJZ?oc=5",
+      "published": "2026-04-29T07:00:00+00:00",
+      "publisher": "Benzinga",
+      "summary": "Meta Platforms Tops Expectations In Q1, Shares Slide As Company Raises 2026 CapEx Guidance &nbsp;&nbsp; Benzinga",
+      "query": "\"Meta Platforms\" earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "guidance",
+        "capacity"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Meta Platforms, Inc. Q1 2026 Earnings Call Summary - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPeHk4RVJVbG5hbHdQbTZheGxmRF9ocU53SUVKSlFWQTBTd1lkcUFfN2lyVDlNcEF4Wkdlc1UxRVYtQi1qeXlCaEprRF9idTh1UUh1ZEZsazNTRjBVQV9vREdtWE1FeUZCWlV5cGd6LUMySnVhbkNxOHFGMnR2NnI4VnRrMDdTSGlXRHlDM3V5WVhwbkZWZVE?oc=5",
+      "published": "2026-04-29T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Meta Platforms, Inc. Q1 2026 Earnings Call Summary &nbsp;&nbsp; Yahoo Finance",
+      "query": "\"Meta Platforms\" earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Meta beats revenue expectations, boosts capital spending forecast for 2026 - NBC Bay Area",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdGMzSFZuZklOUEU4Z2hNNXJKR18tN2Q1ZzJZWVVDOE9teGhCWjF3cF9neXNIOEt1M25CRTE5aWpfa0N4MF9lWXgzejlob1FrQUxPQnduMFBNOEw1RHNqa3hiQV8xTWFyX0dMcks1UEM3djhlMUptZ0hLV1dkQVNEQm9qcFI1c1dydkJvWG5R0gGWAUFVX3lxTE5nQkRXTEdzN25kbS04MmE0RUlJcW1XSUZGdE9SQXlnMi13VHV2bFRCWEdSRnp3WDY2LWpoZzZhTmNXYTM2a2xHTlVsNXRlVWhibFd5dUhmQXZqaktMU1lzWGNGem9QOEpvaXBMM1lzbEFrT0hVRGQ0MjQ5UV9NNTRIRlRvc29KbHhnd0haMjBYbm1hLTRKZw?oc=5",
+      "published": "2026-04-29T07:00:00+00:00",
+      "publisher": "NBC Bay Area",
+      "summary": "Meta beats revenue expectations, boosts capital spending forecast for 2026 &nbsp;&nbsp; NBC Bay Area",
+      "query": "META revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "guidance",
+        "capacity"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Meta beats revenue expectations and boosts capital spending forecast for 2026 - AP News",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPM1QydENOdERSbHl6ZHE0Q3E4NTVPeWVMdktBUDlZVDdMQzZ1dVNyVTFVU1BxY08xTVdsZk5PMWZJOVl1bllodG1Bb1RzNGQ3Z0VWcWhKUmZsNHpUMjFaZy1TNU1kU1VZQnpSSFhrMXJhT3VBb2RqRU9VM01DR25ySGhvaFAyYnZwV3BkWkloaTQ4SkZUWFdsZnRn?oc=5",
+      "published": "2026-04-29T07:00:00+00:00",
+      "publisher": "AP News",
+      "summary": "Meta beats revenue expectations and boosts capital spending forecast for 2026 &nbsp;&nbsp; AP News",
+      "query": "\"Meta Platforms\" revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "guidance",
+        "capacity"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Meta Beats Q1 Earnings but Revenue Miss and Capex Spike Hit NASDAQ:META - ChartMill",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQldxSzFwLTVFQjVPZk1iRE1hOFdkdEE4OGk4Vi00bndheDRWZENiUnV4QXJZNmw5NDM4TkdTdkFtbHE1R3BGeUhTVEdEckROamxHYnNiWl9NTU52TWpfYzgzZnQ5eTRWRDZSbWw2MG5QOFcwZ3ZxNDB5UmZmV1dvQTFJUDB6M0Y4WW1IUHkydnZTX19mdnNKYjR3QzBEMTdOaVRpNng3eUV6VjBpX3lIajVvSjItTmNWZVlVbW1ZQQ?oc=5",
+      "published": "2026-04-29T07:00:00+00:00",
+      "publisher": "ChartMill",
+      "summary": "Meta Beats Q1 Earnings but Revenue Miss and Capex Spike Hit NASDAQ:META &nbsp;&nbsp; ChartMill",
+      "query": "\"Meta Platforms\" revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "capacity"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Meta Reports Big Revenue Jump and Projected Spending Increase - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNY3BKQmlyRHhON210Mmx6VW9QRTIxOHE0d0hzRHhVNnhvMzc4bk5UWFBMWEVFOERENDU1dWswZnhjeGhOTTlFMkJzLTFnRlk2T0dzTVdvUFl3VHVsOWxrSUVCSmNqV2F1S1RwT0Y4YXZWU3V5akdRQmxzc25Mejh5a3h2SHNuUU0?oc=5",
+      "published": "2026-04-29T07:00:00+00:00",
+      "publisher": "WSJ",
+      "summary": "Meta Reports Big Revenue Jump and Projected Spending Increase &nbsp;&nbsp; WSJ",
+      "query": "\"Meta Platforms\" revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "UNI calls on Meta to take responsibility for workers in its supply chain - UNI Global Union",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONld6aFg2UGItZmZuMEloUHJpNVpzaXRwWHlkaXVIanhSZFhnWWFrYy1xX3VxTU90WUwxbWJmdkZJaGEyTUgtc2JaRlBGUG1rMWg2amtWdVN4OXZSQ2ZrWi1UaXN1OG5sWjJ1TEw2eXktSDEybXMwRG9HT2JidG90aEZYNzdOc0xaZlEzczNR?oc=5",
+      "published": "2026-04-29T07:00:00+00:00",
+      "publisher": "UNI Global Union",
+      "summary": "UNI calls on Meta to take responsibility for workers in its supply chain &nbsp;&nbsp; UNI Global Union",
+      "query": "META capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity",
+        "demand"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Meta stock plunges 6% after earnings leave investors disappointed - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNV1gycnZuSlFlTzNZU2QwdHprTER3MlBlTVBvZndnNWZCVENJcU9LZGo1OVY2N1dyazBFWHB4cnZVNHEwM3ZZSkc1MnBoQkdkcWk1S09BV21pd2Zqc3Jodnc1ZzJtaVJFcVRLT2JjTHdzblVrOEYwMmFKbzVVTS1Hb2pkNjNCTGNTLWUzeXV6ZXFtZEZPUHVtN21oZDh0M3NDMDZfdnNUYlVDOGo1VHRzV0dwVnk3cXZINC04ODJn?oc=5",
+      "published": "2026-04-29T07:00:00+00:00",
+      "publisher": "TradingView",
+      "summary": "Meta stock plunges 6% after earnings leave investors disappointed &nbsp;&nbsp; TradingView",
+      "query": "\"Meta Platforms\" capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings"
+      ],
+      "lean": "negative"
+    },
+    {
+      "title": "Meta just bumped its 2026 capex forecast up to as much as $145 billion for the AI boom—and investors flinched - fortune.com",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPTXR2eENtV1MyQ3JfS0RLR2xxN3F1Q1B4SzlLQ0ZudTdkZEdCOUpKNV9CMFlMaS10dk9tRzVaY3VJS0xnUEktSTZkUEhqZk1PdEphYlltdGVIcE5XZzM4VnhrOGtnTFNUWnhTVUo0dnJNaE1mMkZpSWU4d3JGU0pfdg?oc=5",
+      "published": "2026-04-29T07:00:00+00:00",
+      "publisher": "fortune.com",
+      "summary": "Meta just bumped its 2026 capex forecast up to as much as $145 billion for the AI boom—and investors flinched &nbsp;&nbsp; fortune.com",
+      "query": "\"Meta Platforms\" capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "guidance",
+        "capacity"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "If it can’t stop the Meta-Manus AI deal, how can Beijing exert its authority? - South China Morning Post",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQeE5XVlp6MFJxQ3FEdFktelU5X3hOa042MFBWMlk3Sm9ER2dZVUVXa3otR1R5cEYxbnM0U3F6aGptam1tallJYmlXT1JwQmlYQWVxMmEtS2RLRVZKSDFmS3lGMklZYUtqRmtWWE03aWNJM2I5dk1WX0RqcWROZ0lMdF9kajJwbjRRTUw4ZzJjUHk3NjZIcS1tTEFHbUhqS0JFaVRRVHVHWm5OWUp1RTZCS1Bn0gGyAUFVX3lxTE9RZUpVT0VCTnVZZERRNGV1b1JOVHlmNl96NEZBaXJvaHA1RFU5a3YzUS1lOXJVR1hkRVpFNF9sdkNvWHpaenFBeVJhcHJUQ2JqNEpPaktXaXlGZzdwczRsUzJXYkhVTmRVYVJOV1AxWUV6VTBaSzN0Rm9YaERRUWxzUVpaMEtMU0hLblVXdndHdFdqTXd1eGFubUpSelYwVFZ2eTlsNk95eWxFTUdOdHNiSkE?oc=5",
+      "published": "2026-04-28T07:00:00+00:00",
+      "publisher": "South China Morning Post",
+      "summary": "If it can’t stop the Meta-Manus AI deal, how can Beijing exert its authority? &nbsp;&nbsp; South China Morning Post",
+      "query": "\"Meta Platforms\" acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "demand"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "China Orders the Unwinding of Meta’s Acquisition of an A.I. Start-Up - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE54bnJBN0hXSkl2LVdLc2ZkTU41NllEemNfNHdkSzlzaXZWS2ozUmVuaWZVN2dDbVBaTjJIYUpEYWRKNzdyS0NDWUFqckdHQnF0bG5aeUZoUFYzMkEwd2VoOHRkb1pNTzB4Q1RVOVVwTVQ0aERneEVDVThQV1NMQQ?oc=5",
+      "published": "2026-04-27T07:00:00+00:00",
+      "publisher": "The New York Times",
+      "summary": "China Orders the Unwinding of Meta’s Acquisition of an A.I. Start-Up &nbsp;&nbsp; The New York Times",
+      "query": "META acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "mna",
+        "demand"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "China blocks Meta's $2 billion takeover of AI startup Manus - cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPV2tNOUoxcFRleGEzeXlodnZWQXgtMU9TWk9nWUlERDB0emE4c1BTOFZmNjlrR2hQQkNla3llWTFXU0J1TW4xNGZpMFB6RlVUMlVuQWJLRFJmYzZxeHJQYzdBM0lvT0pkMTY5Ty1yNVI3NVFwUVQ4a2lRejg0V0xYbk9uZG1MQXVwZzIw0gGQAUFVX3lxTFBaMkdpQkdXUF96OW5iNjBDc21uZkVhNnBLM1ZmTmU2S2ZXQm5kYmVlWWhFQ0kxa3RlOUR0LTM3dmdYcHI0WTlIbjhxb0xTMXFuaTdJa01pYW9vTjdHN1dBS2pXMHYxSXoyaHN6WnNoTGQxcWxPRmloMUtCZTlTMmh3dHhTbThOX2hQLWt1Y01yeA?oc=5",
+      "published": "2026-04-27T07:00:00+00:00",
+      "publisher": "cnbc.com",
+      "summary": "China blocks Meta's $2 billion takeover of AI startup Manus &nbsp;&nbsp; cnbc.com",
+      "query": "META acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "mna"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "China blocks Meta’s acquisition of Chinese-founded AI startup Manus - CNN",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1wdXdYdU8yVUlzMHFlblRJb0h0OW1PYzIzRWpNbWdZVmhnLXBGYmpaYmVSSUJOaVJoUjZXbTVJbjJLQUZ0cGZIWkZVOVZ4SjBhVTFUeHBBY1pBZGFGN09MdThUcTQzNWF6anlFUTdTZTVzelpxRU9j?oc=5",
+      "published": "2026-04-27T07:00:00+00:00",
+      "publisher": "CNN",
+      "summary": "China blocks Meta’s acquisition of Chinese-founded AI startup Manus &nbsp;&nbsp; CNN",
+      "query": "META acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "mna"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "China blocks Meta's acquisition of Manus AI - Axios",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVnRlMktHM3JDX1JhWFJUTUhnSXpEWlVyTDdLNm40cnVtSHNYang5RTFGbUVic1ZFRWhIdElOZl9jeVVBSmhmQmEwLVk2d1FpYjk3WnJ3MWw5N1IwNWtTNHhKSnlBenRhT01VV1QtQWM0Nzd4QU9aX0pRcV9fNzZXdA?oc=5",
+      "published": "2026-04-27T07:00:00+00:00",
+      "publisher": "Axios",
+      "summary": "China blocks Meta's acquisition of Manus AI &nbsp;&nbsp; Axios",
+      "query": "META acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "mna"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "China Bans Meta’s Acquisition of Manus on National Security Grounds - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQc2szQ1NjZGhHR1pxWk9rd2E2UHVYUmZQckRLcms0NlFybG5jbnY2bnBwZnN1QUxVSGhITTk1SmZJcHl6MWt1NFpKb1U0aU4zNnlYQ0FOMDJlX01vay1Ud21jSTRNNmp2NGFJQkJmTzNTOUlmcTJWT3lzMDhOREN0bjdkZ3hSZUN3aUZ0S0pPWlJnOU5XcXV6ZkMxamN6YjVoQ0JfSHVLRFRHeE0?oc=5",
+      "published": "2026-04-27T07:00:00+00:00",
+      "publisher": "WSJ",
+      "summary": "China Bans Meta’s Acquisition of Manus on National Security Grounds &nbsp;&nbsp; WSJ",
+      "query": "META acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory",
+        "mna"
+      ],
+      "lean": "negative"
+    },
+    {
+      "title": "China blocks Meta's $2bn acquisition of AI start-up Manus - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE44ekhITnFiYWV5amRSYmZxRGJNcDlfQ2taZV9hNFdaQ3FTVU4xMFZoakZWRzZRZXhwRUlDa01vcDA3S1lwN0lsazI0UTJ4emVSZHk5M2xNRnVEdw?oc=5",
+      "published": "2026-04-27T07:00:00+00:00",
+      "publisher": "BBC",
+      "summary": "China blocks Meta's $2bn acquisition of AI start-up Manus &nbsp;&nbsp; BBC",
+      "query": "META acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "mna"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "China blocks Meta’s acquisition of AI agent developer Manus - SiliconANGLE",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVnRiSEhmeXZFWkItWU5YSWxVTURpM1lMa3ZkZFhrSEJLT2haWEVyWG92NVFHdHBUMVdoNVNULWVYNzB0eFJ6ODBkdjgtVm4tSS05VXd1Rk9RM3dwLXVqc2xqSjc0YVZpaTZ0NzRKeWdrV0JCN1RjdWdpa3lpX1owMHhHQTBtd2hnd3B5ZE1XYmpqT21xSlRF?oc=5",
+      "published": "2026-04-27T07:00:00+00:00",
+      "publisher": "SiliconANGLE",
+      "summary": "China blocks Meta’s acquisition of AI agent developer Manus &nbsp;&nbsp; SiliconANGLE",
+      "query": "META acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "mna"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "China blocks Meta from acquiring AI startup Manus - NPR",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPOXRoLUpNNG9zOHE3bVE0OEMxUkRTVlJ3Y3FzdmIyU3JmZXdHUDZxUmhhVG5HOU1wa2ZVellsQ0VzMXhfUnltdUlmWFZnNDBWUUFLcGtoY3c2REQxXzYyT1lDamlvdHNDbFE3M0QyYXZQMkVzeXYxc05YMnBDY0w3eGhFM1AwYVZaVlRkOV96TTJuQlZBcm5V?oc=5",
+      "published": "2026-04-27T07:00:00+00:00",
+      "publisher": "NPR",
+      "summary": "China blocks Meta from acquiring AI startup Manus &nbsp;&nbsp; NPR",
+      "query": "\"Meta Platforms\" acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Meta prepares to undo Manus acquisition after China ban, WSJ reports - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNYXZMb0tBS2w4MnYwUjcydXJzZUhNMkpkdXQwNXc5VnNBZUVjRXFhSzFiUTI5clNvM3QzTUxveTRfUkJYbFpUcmRudWdtTl9sNVNzeFRvQVFvcHNmUkRhMVhBQXNwNTJ2RFBtNUkwRWppa0tBN09SZXdmZmtKWGQ3bzRwNkZXVkdmYXNBMHlJX1B5aEk4bVh1eWp4RWV1YUJiR3NUT0hMbTlnU00td0Y1TFRB?oc=5",
+      "published": "2026-04-27T07:00:00+00:00",
+      "publisher": "Reuters",
+      "summary": "Meta prepares to undo Manus acquisition after China ban, WSJ reports &nbsp;&nbsp; Reuters",
+      "query": "\"Meta Platforms\" acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory",
+        "mna"
+      ],
+      "lean": "negative"
+    },
+    {
+      "title": "China Blocks Meta’s $2 Billion Acquisition of AI Firm Manus - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSTlpbXNBWmRBZktkWUk3dTV5NVFUbmZzMkxNWGVRUjduTXFTREc5b0NhXzk4WmdCeVpxVVRQRnRQOF9Va1huVUtveDdQLWR1UTBGTWtaVFVmUlp5bFF2NlVpRnZzdWpxMm02MFVEclAxSmhwTWgyVG1OR2Znc2hmT2VGUnN5Vkt1N3RxZHpKUFJEU1hNZ1dkT3cwc2pSSUl4Rk5qN1gzX1ZDSnhBWjJEcC1n?oc=5",
+      "published": "2026-04-27T07:00:00+00:00",
+      "publisher": "Bloomberg.com",
+      "summary": "China Blocks Meta’s $2 Billion Acquisition of AI Firm Manus &nbsp;&nbsp; Bloomberg.com",
+      "query": "\"Meta Platforms\" acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "mna"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "China blocks Meta from acquiring startup Manus as global AI rivalry deepens - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQZXVwLXhnYUY2U2JlcEZhaTM3cFhDYm1nUDRoZVBkR19uOWRlQ29sX0h0ZS1yblVrY0xwUUg1aEF5OVdFTVRwM2hHQVBwQnFPTkU4V1NDODBiendlWi16a3pqbTRTU2xDZnREUWdJanR1TDU5c050Mzk5UF9wQW1IdWZSMTZUWUo2cEFtMDhuRFpSX3JVeVJaeExhak1mbmpmVFhFOVFJeHN5M01ETkYwNmhXdnMwb3VDWDBPUUhuZzYxT0xRYkhvR3R3?oc=5",
+      "published": "2026-04-27T07:00:00+00:00",
+      "publisher": "The Washington Post",
+      "summary": "China blocks Meta from acquiring startup Manus as global AI rivalry deepens &nbsp;&nbsp; The Washington Post",
+      "query": "\"Meta Platforms\" acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Meta’s New Acquisition Deal Gets Blocked by the Chinese Government - inc.com",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdVNJRklRNnEyaDh5RkVXWkNfR2ExMkZpSDdOY2MzcFp1cE5zdVJtTVBQb2VEQVBiWGJ6WGVyLUdmdXpNNGpvTnZLLWFTWmRCdzBUamtZZlVxR0lyZ2FWVGktUmFNLW94Wm9GRnZGVTNyaXRyMVdFOFZ1M09WbTdaTFFyTF9SMjdpQWh1Zw?oc=5",
+      "published": "2026-04-27T07:00:00+00:00",
+      "publisher": "inc.com",
+      "summary": "Meta’s New Acquisition Deal Gets Blocked by the Chinese Government &nbsp;&nbsp; inc.com",
+      "query": "\"Meta Platforms\" acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "mna",
+        "demand"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Meta signs agreement with AWS to power agentic AI on Amazon's Graviton chips - About Amazon",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5FX0xXZWlhZmZTMlR2Z1FJRW41SmlLXzVYNDNRNWRwMXZOa1FOWVZLREEzR3N6OEk3MXU2MnVPa21jX3AxU3ZBc3lLWHV5MkpFcVc2TkZtOVhzLWt5NDkwQVd5SkFaeE5Ta0hNd2RJOERTcnMyY0h5Mg?oc=5",
+      "published": "2026-04-24T07:00:00+00:00",
+      "publisher": "About Amazon",
+      "summary": "Meta signs agreement with AWS to power agentic AI on Amazon's Graviton chips &nbsp;&nbsp; About Amazon",
+      "query": "META acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Boston Beer faces $175.5M fine in packaging supplier dispute - Supply Chain Dive",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQYUxVWTNvUUNRTnZfdkNvQmZaQ2Y1eWQyS0ViQzZCLXU4VnA1bFUxckF1TnZBczRvak52YUxlb2tqMXIxZ0VCdWlrQjVlTHlGWlR5VU1TYndGVW5WUk9ZVXVCR3V1YS04MkhBTjZQN2xMaDhzTjdtRHNaN3M1SXJGaFFoLWhPeTdfenhnY0s1UHM4NmZZZVVWVUJfNlZhYnJhckJFMC1n?oc=5",
+      "published": "2026-04-22T07:00:00+00:00",
+      "publisher": "Supply Chain Dive",
+      "summary": "Boston Beer faces $175.5M fine in packaging supplier dispute &nbsp;&nbsp; Supply Chain Dive",
+      "query": "META capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory",
+        "capacity",
+        "demand"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "CoreWeave Expands Meta Deal by $21 Billion - Data Center Richness | Substack",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxORU1uNDQ4X3pSWEVtbGMxZ3AxNlNEUUFZTExBS1V5dlJsUXZQNlFmMnp1bmNMUm5saF94RmFQZ040UENnNnRrQkt5QmEtc29yS0N0X2hKRXdGSXJaYjI5amFxVlJwVjNYOW5lYkdHTGd1QkdyOFRUSHNtbzNRa1VhaA?oc=5",
+      "published": "2026-04-09T07:00:00+00:00",
+      "publisher": "Data Center Richness | Substack",
+      "summary": "CoreWeave Expands Meta Deal by $21 Billion &nbsp;&nbsp; Data Center Richness | Substack",
+      "query": "\"Meta Platforms\" capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity",
+        "demand"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Meta Platforms Gains 4%: Strong Ad Revenue Growth and PayPal Partnership Put the Stock Back in Focus - 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPSkFkRmhjYzVRbXhoMmRUVmxtV1JkaGtBdWpfaGRaWVM2NGpZb1ZHUEN5Qlp1UW1WVHhvTDNEUkM5bGo2VFhzS3ZqY0IwVEh2UWdyeFlkUU16MXNBaG5wMWxnT0xiQkRrSllZMEgwdng3Q0xHVWs2OWRBQWFGdUN1blkzeXgybzZ1LUFRY2g5SGJlb1JlLUsybTRnX2lCRkVMUlZpc0RFd3N0TXRidXgtRFE5dG1iNGp1U1RIa3VXeVRlSkhacnhjLTV5RDlmUkRGU3lraXhUYWYyZw?oc=5",
+      "published": "2026-04-08T07:00:00+00:00",
+      "publisher": "24/7 Wall St.",
+      "summary": "Meta Platforms Gains 4%: Strong Ad Revenue Growth and PayPal Partnership Put the Stock Back in Focus &nbsp;&nbsp; 24/7 Wall St.",
+      "query": "\"Meta Platforms\" acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "demand"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Meta Platforms Gains 4%: Strong Ad Revenue Growth and PayPal Partnership Put the Stock Back in Focus - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVU1YM1BBY0dMVG5kVXpMaVVJaW93a011LXBueXktS2ZLeE9rWEJuZlQ1NU45RXJWQkVlNnNhNWNXQlBXdHZ1b01NcDV5eDRhcUt0Szg4MEtFLWZ3SWdJWHN4cjViOG5PT21WemdseHBGdWkwZlZVamdpZDBjbnpTOGx3LWc5Uk1Ka3lpZmJoLWl6TmNmdUhmVlZ3?oc=5",
+      "published": "2026-04-08T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Meta Platforms Gains 4%: Strong Ad Revenue Growth and PayPal Partnership Put the Stock Back in Focus &nbsp;&nbsp; Yahoo Finance",
+      "query": "\"Meta Platforms\" acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "demand"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Meta freezes AI data work after breach puts training secrets at risk - The Next Web",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBsb3o5OElrUjBJWTBhelZZYXBzak1VV3pFNEVhWGZjOWpzajBVV1R4UXl0Ukh5UldfLVJ5RDBqYTlMbGhYbjM0a0t4SkdoOTBzTTVwdHVYSDVkbFBzQm16TXRzeVZzTzE3ZkhTNXFpbXlGeHFaSzJRSkw1Yw?oc=5",
+      "published": "2026-04-04T07:00:00+00:00",
+      "publisher": "The Next Web",
+      "summary": "Meta freezes AI data work after breach puts training secrets at risk &nbsp;&nbsp; The Next Web",
+      "query": "META capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Jury finds Meta and YouTube negligent in landmark lawsuit on social media safety - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRHp1cGdFUF9Xdl93VGYtYU5rX3RTR2I1dlpaMVhCSGtHRTl6LXp1ajhDYzFqUnJaVWhEV1Mwa3FPdHFnbDdQY0hWMjBuZk1HOFhYbTZVTmRBLXQ2d3AybWRTSkhORlI2MlpfLXZNRGhlM3JGbzl1YUZ1a0kyZTRXRVlzbzAxcW4tSmhOZ093ZjZrdVo0cVY2a3Q4QUk1c2JtSTJFRUdB?oc=5",
+      "published": "2026-03-25T07:00:00+00:00",
+      "publisher": "NBC News",
+      "summary": "Jury finds Meta and YouTube negligent in landmark lawsuit on social media safety &nbsp;&nbsp; NBC News",
+      "query": "META lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory"
+      ],
+      "lean": "negative"
+    }
+  ]
+}

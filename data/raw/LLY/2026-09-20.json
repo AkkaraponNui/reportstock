@@ -1,0 +1,216 @@
+{
+  "ticker": "LLY",
+  "as_of": "2026-09-20T09:05:29+00:00",
+  "source": "yfinance",
+  "profile": {
+    "name": "Eli Lilly and Company",
+    "sector": "Healthcare",
+    "industry": "Drug Manufacturers - General",
+    "country": "United States",
+    "exchange": "NYQ",
+    "currency": "USD",
+    "financial_currency": "USD",
+    "employees": 50000,
+    "website": "https://www.lilly.com",
+    "summary": "Eli Lilly and Company discovers, develops, manufactures, and markets human pharmaceutical products in the United States, Europe, China, Japan, and internationally. The company offers cardiometabolic health products, including Basaglar, Humalog, Humalog Mix 75/25, Humalog U-100, Humalog U-200, Humalog Mix 50/50, insulin lispro, insulin lispro protamine, insulin lispro mix 75/25, Humulin, Humulin 70/30, Humulin N, Humulin R, Humulin U-500 for diabetes; Jardiance, Mounjaro, and Trulicity for type 2 diabetes; and Zepbound for obesity. It also provides oncology products, such as Cyramza for the second-line treatment of gastric cancer or gastro-esophageal junction adenocarcinoma; Erbitux for colorectal cancers and head and neck cancers; Inluriyo for breast cancer; Jaypirca for chronic lymphocytic leukemia or small lymphocytic lymphoma; Retevmo for the treatment of metastatic NSCLC; TYVYT for classic hodgkin's lymphoma; and Verzenio for breast cancer. In addition, the company offers immunology products, which include Ebglyss; Olumiant; Omvoh; and Taltz. Further, it provides Emgality for migraine prevention and episodic cluster headache; and Kisubla for symptomatic Alzheimer's disease. The company has collaborations with Boehringer Ingelheim Pharmaceuticals, Inc. for the Jardiance product family; and F. Hoffmann-La Roche Ltd and Genentech, Inc. for lebrikizumab, as well as license agreements with Almirall, S.A. for Ebglyss; and Chugai Pharmaceutical Co., Ltd for orforglipron; strateg"
+  },
+  "market": {
+    "price": 1152.93,
+    "market_cap": 1028115464192,
+    "week52_high": 1292.65,
+    "week52_low": 712.05,
+    "off_52w_high": -0.108088,
+    "avg_volume": 2701876
+  },
+  "analyst": {
+    "target_mean": 1325.3855,
+    "target_high": 1600.0,
+    "target_low": 930.0,
+    "upside_to_target": 0.14958,
+    "recommendation": "buy",
+    "n_analysts": 29
+  },
+  "annual": {
+    "periods": [
+      "2021-12-31",
+      "2022-12-31",
+      "2023-12-31",
+      "2024-12-31",
+      "2025-12-31"
+    ],
+    "revenue": [
+      null,
+      28541400000.0,
+      34124000000.0,
+      45043000000.0,
+      65179000000.0
+    ],
+    "gross_profit": [
+      null,
+      21911600000.0,
+      27042000000.0,
+      36625000000.0,
+      54127000000.0
+    ],
+    "operating_income": [
+      null,
+      8280400000.0,
+      10325000000.0,
+      17040000000.0,
+      29696000000.0
+    ],
+    "net_income": [
+      null,
+      6244800000.0,
+      5240000000.0,
+      10590000000.0,
+      20640000000.0
+    ],
+    "ebitda": [
+      null,
+      8660500000.0,
+      11852000000.0,
+      18807000000.0,
+      31693000000.0
+    ],
+    "rnd": [
+      null,
+      7190800000.0,
+      9313000000.0,
+      10991000000.0,
+      13337000000.0
+    ],
+    "eps_diluted": [
+      null,
+      6.572215,
+      5.8,
+      11.71,
+      22.95
+    ],
+    "shares_diluted": [
+      null,
+      950182000.0,
+      903284000.0,
+      904059000.0,
+      899301000.0
+    ],
+    "total_assets": [
+      null,
+      49489800000.0,
+      64006300000.0,
+      78715000000.0,
+      112476000000.0
+    ],
+    "equity": [
+      null,
+      10649800000.0,
+      10771900000.0,
+      14272000000.0,
+      26535000000.0
+    ],
+    "total_debt": [
+      null,
+      16238600000.0,
+      25225300000.0,
+      33644000000.0,
+      42503000000.0
+    ],
+    "cash": [
+      null,
+      2211800000.0,
+      2927700000.0,
+      3268000000.0,
+      7268000000.0
+    ],
+    "current_assets": [
+      null,
+      18034500000.0,
+      25727000000.0,
+      32740000000.0,
+      55629000000.0
+    ],
+    "current_liabilities": [
+      null,
+      17138200000.0,
+      27293200000.0,
+      28376000000.0,
+      35228000000.0
+    ],
+    "invested_capital": [
+      null,
+      26888400000.0,
+      35997200000.0,
+      47916000000.0,
+      69038000000.0
+    ],
+    "operating_cf": [
+      null,
+      7585700000.0,
+      4240000000.0,
+      8818000000.0,
+      16813000000.0
+    ],
+    "capex": [
+      null,
+      -2985300000.0,
+      -7392000000.0,
+      -8404000000.0,
+      -10849000000.0
+    ],
+    "free_cash_flow": [
+      null,
+      4600400000.0,
+      -3152000000.0,
+      414000000.0,
+      5964000000.0
+    ],
+    "buybacks": [
+      null,
+      -1500000000.0,
+      -750000000.0,
+      -2500000000.0,
+      -4108000000.0
+    ]
+  },
+  "metrics": {
+    "years_of_data": 5,
+    "currency_mismatch": false,
+    "trading_currency": "USD",
+    "financial_currency": "USD",
+    "revenue_cagr": 0.316874,
+    "revenue_cagr_years": 3,
+    "net_income_cagr": 0.48958,
+    "fcf_cagr": 0.090387,
+    "revenue_growth_ttm": 0.477,
+    "earnings_growth_ttm": 0.262,
+    "forward_eps_growth": 0.591406,
+    "gross_margin_latest": 0.830436,
+    "gross_margin_trend": 0.020882,
+    "operating_margin_latest": 0.455607,
+    "operating_margin_trend": 0.05722,
+    "net_margin_latest": 0.316666,
+    "fcf_margin_latest": 0.091502,
+    "fcf_margin_trend": -0.010748,
+    "rnd_intensity_latest": 0.204621,
+    "roe": 1.02286,
+    "roa": 0.20357,
+    "roic_est": 0.339811,
+    "current_ratio": 1.355,
+    "debt_to_equity": 162.071,
+    "net_debt": 35235000000.0,
+    "net_debt_to_ebitda": 1.11176,
+    "market_cap": 1028115464192,
+    "enterprise_value": 1073630281728,
+    "trailing_pe": 38.753952,
+    "forward_pe": 24.352015,
+    "peg_est": 0.929466,
+    "price_to_sales": 12.905322,
+    "ev_to_ebitda": 25.742,
+    "ev_to_revenue": 13.477,
+    "fcf_yield": 0.005801,
+    "dividend_yield": 0.006002,
+    "dividend_rate": 6.92,
+    "payout_ratio": 0.2169,
+    "beta": 0.502
+  }
+}

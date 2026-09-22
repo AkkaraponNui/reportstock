@@ -19,3 +19,4 @@ wheels/
 
 # Streamlit local secrets
 .streamlit/secrets.toml
+data/logs/

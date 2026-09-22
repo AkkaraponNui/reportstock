@@ -1,0 +1,196 @@
+{
+  "ticker": "NVO",
+  "as_of": "2026-09-20T09:05:29+00:00",
+  "source": "yfinance",
+  "profile": {
+    "name": "Novo Nordisk A/S",
+    "sector": "Healthcare",
+    "industry": "Drug Manufacturers - General",
+    "country": "Denmark",
+    "exchange": "NYQ",
+    "currency": "USD",
+    "financial_currency": "DKK",
+    "employees": 66700,
+    "website": "https://www.novonordisk.com",
+    "summary": "Novo Nordisk A/S, together with its subsidiaries, engages in the research and development, manufacture, and distribution of pharmaceutical products. It operates through two segments, Obesity and Diabetes Care, and Rare Disease. The Obesity and Diabetes care segment provides products for diabetes, obesity, cardiovascular, and other emerging therapy areas. The Rare Disease segment offers products in the areas of rare blood disorders, rare endocrine disorders, and hormone replacement therapy. The company also provides NovoPen 6 and NovoPen Echo Plus, smart insulin pens; Dose Check, an insulin dose guidance application; growth hormone pens and injection needles; and Wegovy pill an oral glucagon-like peptide-1 (GLP-1) receptor agonist therapy for weight management. The company has a collaboration with Anthropic accelerate the development of new medicines and advance AI-driven software development. It operates in Europe, Canada, the United States, Japan, Korea, Oceania, Southeast Asia, Mainland China, Hong Kong and Taiwan, Latin America, the Middle East, and Africa. It has a strategic collaboration with Orbis Medicines to discover and develop oral macrocycle therapeutics for cardiometabolic diseases. The company was formerly known as Novo Industri A/S and changed its name to Novo Nordisk A/S in April 1989. The company was founded in 1923 and is headquartered in Bagsvaerd, Denmark."
+  },
+  "market": {
+    "price": 43.24,
+    "market_cap": 191028920320,
+    "week52_high": 64.16,
+    "week52_low": 35.12,
+    "off_52w_high": -0.32606,
+    "avg_volume": 11527587
+  },
+  "analyst": {
+    "target_mean": 46.804134,
+    "target_high": 63.404377,
+    "target_low": 39.59262,
+    "upside_to_target": 0.082427,
+    "recommendation": "hold",
+    "n_analysts": 12
+  },
+  "annual": {
+    "periods": [
+      "2022-12-31",
+      "2023-12-31",
+      "2024-12-31",
+      "2025-12-31"
+    ],
+    "revenue": [
+      176954000000.0,
+      232261000000.0,
+      290403000000.0,
+      309064000000.0
+    ],
+    "gross_profit": [
+      148506000000.0,
+      196496000000.0,
+      245881000000.0,
+      250276000000.0
+    ],
+    "operating_income": [
+      74809000000.0,
+      102574000000.0,
+      128339000000.0,
+      127658000000.0
+    ],
+    "net_income": [
+      55525000000.0,
+      83683000000.0,
+      100988000000.0,
+      102434000000.0
+    ],
+    "ebitda": [
+      76802000000.0,
+      114629000000.0,
+      137376000000.0,
+      149413000000.0
+    ],
+    "rnd": [
+      24047000000.0,
+      32443000000.0,
+      48062000000.0,
+      52039000000.0
+    ],
+    "eps_diluted": [
+      12.22,
+      18.62,
+      22.63,
+      23.03
+    ],
+    "shares_diluted": [
+      4544600000.0,
+      4494800000.0,
+      4463000000.0,
+      4447850630.0
+    ],
+    "total_assets": [
+      241257000000.0,
+      314486000000.0,
+      465630000000.0,
+      542902000000.0
+    ],
+    "equity": [
+      83486000000.0,
+      106561000000.0,
+      143486000000.0,
+      194047000000.0
+    ],
+    "total_debt": [
+      25784000000.0,
+      27006000000.0,
+      102787000000.0,
+      130958000000.0
+    ],
+    "cash": [
+      23574000000.0,
+      30230000000.0,
+      26308000000.0,
+      26962000000.0
+    ],
+    "current_assets": [
+      108194000000.0,
+      139646000000.0,
+      161788000000.0,
+      172453000000.0
+    ],
+    "current_liabilities": [
+      120940000000.0,
+      169655000000.0,
+      217614000000.0,
+      215661000000.0
+    ],
+    "invested_capital": [
+      104741000000.0,
+      127841000000.0,
+      239507000000.0,
+      316433000000.0
+    ],
+    "operating_cf": [
+      78887000000.0,
+      108908000000.0,
+      120968000000.0,
+      119102000000.0
+    ],
+    "capex": [
+      -14753000000.0,
+      -38896000000.0,
+      -51309000000.0,
+      -90113000000.0
+    ],
+    "free_cash_flow": [
+      64134000000.0,
+      70012000000.0,
+      69659000000.0,
+      28989000000.0
+    ],
+    "buybacks": [
+      -24086000000.0,
+      -29924000000.0,
+      -20181000000.0,
+      -1388000000.0
+    ]
+  },
+  "metrics": {
+    "years_of_data": 4,
+    "currency_mismatch": true,
+    "trading_currency": "USD",
+    "financial_currency": "DKK",
+    "revenue_cagr": 0.204285,
+    "revenue_cagr_years": 3,
+    "net_income_cagr": 0.226456,
+    "fcf_cagr": -0.232553,
+    "revenue_growth_ttm": 0.021,
+    "earnings_growth_ttm": -0.206,
+    "forward_eps_growth": -0.165468,
+    "gross_margin_latest": 0.809787,
+    "gross_margin_trend": -0.008767,
+    "operating_margin_latest": 0.413047,
+    "operating_margin_trend": -0.002884,
+    "net_margin_latest": 0.331433,
+    "fcf_margin_latest": 0.093796,
+    "fcf_margin_trend": -0.086748,
+    "rnd_intensity_latest": 0.168376,
+    "roe": 0.59815,
+    "roa": 0.18729,
+    "roic_est": 0.318708,
+    "current_ratio": 0.873,
+    "debt_to_equity": 63.327,
+    "net_debt": 103996000000.0,
+    "net_debt_to_ebitda": 0.69603,
+    "market_cap": 191028920320,
+    "enterprise_value": 286614290432,
+    "trailing_pe": 10.729528,
+    "forward_pe": 12.856942,
+    "peg_est": null,
+    "price_to_sales": 0.579875,
+    "ev_to_ebitda": 1.65,
+    "ev_to_revenue": 0.87,
+    "fcf_yield": 0.151752,
+    "dividend_yield": 0.041628,
+    "dividend_rate": 1.8,
+    "payout_ratio": 0.4446,
+    "beta": 0.344
+  }
+}

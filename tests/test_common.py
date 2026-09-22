@@ -95,3 +95,72 @@ class TestDotenvLoading:
             print("imported")
         """.replace("{tools}", str(ROOT / "tools"))
         assert self._run({}, code) == "imported"
+
+
+class TestConcurrentFetchOrdering:
+    """Parallel fetching must not make a run's output depend on timing.
+
+    Snapshots are the audit trail of this project, so two runs over the same
+    tickers have to produce the same file set and the same printed order however
+    the threads interleave. The fetcher collects results first and prints in the
+    order the tickers were given.
+    """
+
+    def test_results_are_emitted_in_input_order(self, monkeypatch, capsys):
+        import fetch_fundamentals as ff
+
+        order = ["CCC", "AAA", "BBB"]
+
+        def fake_fetch_one(tk, years=5):
+            import time, random
+            time.sleep(random.random() * 0.05)   # finish out of order on purpose
+            return {
+                "profile": {"name": tk + " Inc"},
+                "metrics": {"revenue_cagr": 0.1, "operating_margin_latest": 0.2,
+                            "roic_est": 0.15, "forward_pe": 20.0},
+            }
+
+        written = []
+        monkeypatch.setattr(ff, "fetch_one", fake_fetch_one)
+        monkeypatch.setattr(ff, "write_json",
+                            lambda path, payload: (written.append(path), path)[1])
+        monkeypatch.setattr(ff, "resolve_tickers", lambda a: order)
+        monkeypatch.setattr(sys, "argv", ["fetch_fundamentals.py", "--workers", "4"])
+
+        ff.main()
+        printed = [l.split()[0] for l in capsys.readouterr().out.splitlines()
+                   if l[:3] in ("CCC", "AAA", "BBB")]
+        assert printed == order
+
+    def test_a_single_worker_still_works(self, monkeypatch, capsys):
+        import fetch_fundamentals as ff
+
+        monkeypatch.setattr(ff, "fetch_one", lambda tk, years=5: {
+            "profile": {"name": tk}, "metrics": {
+                "revenue_cagr": 0.1, "operating_margin_latest": 0.2,
+                "roic_est": 0.15, "forward_pe": 20.0}})
+        monkeypatch.setattr(ff, "write_json", lambda path, payload: path)
+        monkeypatch.setattr(ff, "resolve_tickers", lambda a: ["AAA"])
+        monkeypatch.setattr(sys, "argv", ["fetch_fundamentals.py", "--workers", "1"])
+        assert ff.main() == 0
+
+    def test_one_failure_does_not_lose_the_others(self, monkeypatch, capsys):
+        import fetch_fundamentals as ff
+
+        def flaky(tk, years=5):
+            if tk == "BAD":
+                raise RuntimeError("simulated network failure")
+            return {"profile": {"name": tk}, "metrics": {
+                "revenue_cagr": 0.1, "operating_margin_latest": 0.2,
+                "roic_est": 0.15, "forward_pe": 20.0}}
+
+        monkeypatch.setattr(ff, "fetch_one", flaky)
+        monkeypatch.setattr(ff, "write_json", lambda path, payload: path)
+        monkeypatch.setattr(ff, "resolve_tickers", lambda a: ["AAA", "BAD", "CCC"])
+        monkeypatch.setattr(sys, "argv", ["fetch_fundamentals.py", "--workers", "3"])
+
+        rc = ff.main()
+        out = capsys.readouterr()
+        assert rc == 1                      # a failure is reported, not hidden
+        assert "AAA" in out.out and "CCC" in out.out
+        assert "BAD" in out.err

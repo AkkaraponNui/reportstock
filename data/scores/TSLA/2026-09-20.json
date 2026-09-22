@@ -1,0 +1,302 @@
+{
+  "ticker": "TSLA",
+  "company": "Tesla, Inc.",
+  "sector": "Consumer Cyclical",
+  "as_of": "2026-09-20T09:05:43+00:00",
+  "source_snapshot": "data\\raw\\TSLA\\2026-09-20.json",
+  "composite_score": 39.5,
+  "grade": "E  the numbers argue against it",
+  "pillar_weight_coverage": 1.0,
+  "pillars": {
+    "growth": {
+      "score": 54.0,
+      "coverage": 1.0,
+      "weight": 0.3,
+      "metrics": {
+        "revenue_cagr": {
+          "value": 0.051943,
+          "score": 40.8,
+          "weight": 0.35
+        },
+        "revenue_growth_ttm": {
+          "value": 0.255,
+          "score": 82.3,
+          "weight": 0.3
+        },
+        "net_income_cagr": {
+          "value": -0.32944,
+          "score": 0.0,
+          "weight": 0.2
+        },
+        "forward_eps_growth": {
+          "value": 1.01611,
+          "score": 100.0,
+          "weight": 0.15
+        }
+      }
+    },
+    "quality": {
+      "score": 18.4,
+      "coverage": 1.0,
+      "weight": 0.25,
+      "metrics": {
+        "roic_est": {
+          "value": 0.042427,
+          "score": 21.2,
+          "weight": 0.3
+        },
+        "operating_margin_latest": {
+          "value": 0.051135,
+          "score": 25.3,
+          "weight": 0.25
+        },
+        "gross_margin_latest": {
+          "value": 0.180265,
+          "score": 16.1,
+          "weight": 0.2
+        },
+        "operating_margin_trend": {
+          "value": -0.036843,
+          "score": 3.2,
+          "weight": 0.15
+        },
+        "roe": {
+          "value": 0.04667,
+          "score": 20.5,
+          "weight": 0.1
+        }
+      }
+    },
+    "cash": {
+      "score": 27.7,
+      "coverage": 1.0,
+      "weight": 0.15,
+      "metrics": {
+        "fcf_margin_latest": {
+          "value": 0.065593,
+          "score": 40.9,
+          "weight": 0.45
+        },
+        "fcf_cagr": {
+          "value": -0.062633,
+          "score": 16.3,
+          "weight": 0.35
+        },
+        "fcf_yield": {
+          "value": 0.004323,
+          "score": 17.8,
+          "weight": 0.2
+        }
+      }
+    },
+    "balance_sheet": {
+      "score": 91.3,
+      "coverage": 1.0,
+      "weight": 0.15,
+      "metrics": {
+        "net_debt_to_ebitda": {
+          "value": -2.49405,
+          "score": 100.0,
+          "weight": 0.45
+        },
+        "debt_to_equity": {
+          "value": 18.373,
+          "score": 89.0,
+          "weight": 0.3
+        },
+        "current_ratio": {
+          "value": 1.941,
+          "score": 78.4,
+          "weight": 0.25
+        }
+      }
+    },
+    "valuation": {
+      "score": 6.0,
+      "coverage": 0.7,
+      "weight": 0.15,
+      "metrics": {
+        "forward_pe": {
+          "value": 165.76111,
+          "score": 0.0,
+          "weight": 0.3
+        },
+        "peg_est": {
+          "value": null,
+          "score": null,
+          "weight": 0.3
+        },
+        "ev_to_ebitda": {
+          "value": 131.28,
+          "score": 0.0,
+          "weight": 0.2
+        },
+        "price_to_sales": {
+          "value": 13.884534,
+          "score": 21.1,
+          "weight": 0.2
+        }
+      }
+    }
+  },
+  "projection_5y": {
+    "bear": {
+      "scenario": "bear",
+      "assumptions": {
+        "start_growth": 0.1187,
+        "terminal_growth": 0.04,
+        "start_net_margin": 0.0415,
+        "reported_annual_net_margin": 0.04,
+        "margin_basis": "reported price_to_sales, margin implied by trailing_pe",
+        "end_net_margin": 0.01,
+        "exit_pe": 60.0,
+        "current_sales_multiple": 13.885,
+        "sales_multiple_basis": "reported price_to_sales, margin implied by trailing_pe",
+        "dividend_yield": 0.0,
+        "years": 5
+      },
+      "revenue_path": [
+        {
+          "year": 1,
+          "growth": 0.103,
+          "revenue_index": 1.103
+        },
+        {
+          "year": 2,
+          "growth": 0.0872,
+          "revenue_index": 1.199
+        },
+        {
+          "year": 3,
+          "growth": 0.0715,
+          "revenue_index": 1.285
+        },
+        {
+          "year": 4,
+          "growth": 0.0557,
+          "revenue_index": 1.356
+        },
+        {
+          "year": 5,
+          "growth": 0.04,
+          "revenue_index": 1.411
+        }
+      ],
+      "revenue_index_end": 1.411,
+      "exit_sales_multiple": 0.6,
+      "implied_market_cap": 87707447636.0,
+      "current_market_cap": 1438701584384,
+      "price_return_annualized": -0.4285,
+      "dividend_contribution": 0.0,
+      "total_return": -0.939,
+      "annualized_return": -0.4285
+    },
+    "base": {
+      "scenario": "base",
+      "assumptions": {
+        "start_growth": 0.2158,
+        "terminal_growth": 0.04,
+        "start_net_margin": 0.0415,
+        "reported_annual_net_margin": 0.04,
+        "margin_basis": "reported price_to_sales, margin implied by trailing_pe",
+        "end_net_margin": 0.01,
+        "exit_pe": 60.0,
+        "current_sales_multiple": 13.885,
+        "sales_multiple_basis": "reported price_to_sales, margin implied by trailing_pe",
+        "dividend_yield": 0.0,
+        "years": 5
+      },
+      "revenue_path": [
+        {
+          "year": 1,
+          "growth": 0.1806,
+          "revenue_index": 1.181
+        },
+        {
+          "year": 2,
+          "growth": 0.1455,
+          "revenue_index": 1.352
+        },
+        {
+          "year": 3,
+          "growth": 0.1103,
+          "revenue_index": 1.502
+        },
+        {
+          "year": 4,
+          "growth": 0.0752,
+          "revenue_index": 1.614
+        },
+        {
+          "year": 5,
+          "growth": 0.04,
+          "revenue_index": 1.679
+        }
+      ],
+      "revenue_index_end": 1.679,
+      "exit_sales_multiple": 0.6,
+      "implied_market_cap": 104388847170.0,
+      "current_market_cap": 1438701584384,
+      "price_return_annualized": -0.4083,
+      "dividend_contribution": 0.0,
+      "total_return": -0.9274,
+      "annualized_return": -0.4083
+    },
+    "bull": {
+      "scenario": "bull",
+      "assumptions": {
+        "start_growth": 0.2805,
+        "terminal_growth": 0.04,
+        "start_net_margin": 0.0415,
+        "reported_annual_net_margin": 0.04,
+        "margin_basis": "reported price_to_sales, margin implied by trailing_pe",
+        "end_net_margin": 0.0115,
+        "exit_pe": 60.0,
+        "current_sales_multiple": 13.885,
+        "sales_multiple_basis": "reported price_to_sales, margin implied by trailing_pe",
+        "dividend_yield": 0.0,
+        "years": 5
+      },
+      "revenue_path": [
+        {
+          "year": 1,
+          "growth": 0.2324,
+          "revenue_index": 1.232
+        },
+        {
+          "year": 2,
+          "growth": 0.1843,
+          "revenue_index": 1.46
+        },
+        {
+          "year": 3,
+          "growth": 0.1362,
+          "revenue_index": 1.658
+        },
+        {
+          "year": 4,
+          "growth": 0.0881,
+          "revenue_index": 1.805
+        },
+        {
+          "year": 5,
+          "growth": 0.04,
+          "revenue_index": 1.877
+        }
+      ],
+      "revenue_index_end": 1.877,
+      "exit_sales_multiple": 0.69,
+      "implied_market_cap": 134181631152.0,
+      "current_market_cap": 1438701584384,
+      "price_return_annualized": -0.3778,
+      "dividend_contribution": 0.0,
+      "total_return": -0.9067,
+      "annualized_return": -0.3778
+    }
+  },
+  "flags": [
+    "A forward P/E of 166 prices in years of execution, leaving little margin for a stumble.",
+    "Operating margin is trending down, which usually means pricing pressure or cost inflation."
+  ],
+  "disclaimer": "Rules-based scorecard over public financial data. Not investment advice and not a price forecast. Assumptions are listed with every projection."
+}

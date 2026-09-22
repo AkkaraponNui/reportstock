@@ -1,0 +1,301 @@
+{
+  "ticker": "NESN.SW",
+  "company": "Nestlé S.A.",
+  "sector": "Consumer Defensive",
+  "as_of": "2026-09-20T09:05:43+00:00",
+  "source_snapshot": "data\\raw\\NESN.SW\\2026-09-20.json",
+  "composite_score": 50.8,
+  "grade": "C  mixed, needs a specific catalyst",
+  "pillar_weight_coverage": 1.0,
+  "pillars": {
+    "growth": {
+      "score": 30.0,
+      "coverage": 1.0,
+      "weight": 0.3,
+      "metrics": {
+        "revenue_cagr": {
+          "value": -0.01752,
+          "score": 16.5,
+          "weight": 0.35
+        },
+        "revenue_growth_ttm": {
+          "value": -0.025,
+          "score": 15.0,
+          "weight": 0.3
+        },
+        "net_income_cagr": {
+          "value": -0.008596,
+          "score": 23.6,
+          "weight": 0.2
+        },
+        "forward_eps_growth": {
+          "value": 0.666647,
+          "score": 100.0,
+          "weight": 0.15
+        }
+      }
+    },
+    "quality": {
+      "score": 68.0,
+      "coverage": 1.0,
+      "weight": 0.25,
+      "metrics": {
+        "roic_est": {
+          "value": 0.336635,
+          "score": 92.4,
+          "weight": 0.3
+        },
+        "operating_margin_latest": {
+          "value": 0.155543,
+          "score": 53.9,
+          "weight": 0.25
+        },
+        "gross_margin_latest": {
+          "value": 0.458263,
+          "score": 62.8,
+          "weight": 0.2
+        },
+        "operating_margin_trend": {
+          "value": -0.002695,
+          "score": 44.6,
+          "weight": 0.15
+        },
+        "roe": {
+          "value": 0.26244,
+          "score": 75.4,
+          "weight": 0.1
+        }
+      }
+    },
+    "cash": {
+      "score": 66.2,
+      "coverage": 1.0,
+      "weight": 0.15,
+      "metrics": {
+        "fcf_margin_latest": {
+          "value": 0.122301,
+          "score": 57.1,
+          "weight": 0.45
+        },
+        "fcf_cagr": {
+          "value": 0.18863,
+          "score": 71.4,
+          "weight": 0.35
+        },
+        "fcf_yield": {
+          "value": 0.056034,
+          "score": 77.3,
+          "weight": 0.2
+        }
+      }
+    },
+    "balance_sheet": {
+      "score": 27.8,
+      "coverage": 1.0,
+      "weight": 0.15,
+      "metrics": {
+        "net_debt_to_ebitda": {
+          "value": 3.203677,
+          "score": 37.0,
+          "weight": 0.45
+        },
+        "debt_to_equity": {
+          "value": 213.005,
+          "score": 20.3,
+          "weight": 0.3
+        },
+        "current_ratio": {
+          "value": 0.83,
+          "score": 20.1,
+          "weight": 0.25
+        }
+      }
+    },
+    "valuation": {
+      "score": 71.6,
+      "coverage": 0.7,
+      "weight": 0.15,
+      "metrics": {
+        "forward_pe": {
+          "value": 15.834788,
+          "score": 73.8,
+          "weight": 0.3
+        },
+        "peg_est": {
+          "value": null,
+          "score": null,
+          "weight": 0.3
+        },
+        "ev_to_ebitda": {
+          "value": 15.385,
+          "score": 59.8,
+          "weight": 0.2
+        },
+        "price_to_sales": {
+          "value": 2.209892,
+          "score": 80.1,
+          "weight": 0.2
+        }
+      }
+    }
+  },
+  "projection_5y": {
+    "bear": {
+      "scenario": "bear",
+      "assumptions": {
+        "start_growth": 0.0828,
+        "terminal_growth": 0.04,
+        "start_net_margin": 0.0837,
+        "reported_annual_net_margin": 0.1005,
+        "margin_basis": "reported price_to_sales, margin implied by trailing_pe",
+        "end_net_margin": 0.0577,
+        "exit_pe": 13.9,
+        "current_sales_multiple": 2.21,
+        "sales_multiple_basis": "reported price_to_sales, margin implied by trailing_pe",
+        "dividend_yield": 0.0122,
+        "years": 5
+      },
+      "revenue_path": [
+        {
+          "year": 1,
+          "growth": 0.0742,
+          "revenue_index": 1.074
+        },
+        {
+          "year": 2,
+          "growth": 0.0657,
+          "revenue_index": 1.145
+        },
+        {
+          "year": 3,
+          "growth": 0.0571,
+          "revenue_index": 1.21
+        },
+        {
+          "year": 4,
+          "growth": 0.0486,
+          "revenue_index": 1.269
+        },
+        {
+          "year": 5,
+          "growth": 0.04,
+          "revenue_index": 1.32
+        }
+      ],
+      "revenue_index_end": 1.32,
+      "exit_sales_multiple": 0.803,
+      "implied_market_cap": 94078284977.0,
+      "current_market_cap": 196183195648,
+      "price_return_annualized": -0.1367,
+      "dividend_contribution": 0.0122,
+      "total_return": -0.4905,
+      "annualized_return": -0.1262
+    },
+    "base": {
+      "scenario": "base",
+      "assumptions": {
+        "start_growth": 0.1505,
+        "terminal_growth": 0.04,
+        "start_net_margin": 0.0837,
+        "reported_annual_net_margin": 0.1005,
+        "margin_basis": "reported price_to_sales, margin implied by trailing_pe",
+        "end_net_margin": 0.077,
+        "exit_pe": 20.3,
+        "current_sales_multiple": 2.21,
+        "sales_multiple_basis": "reported price_to_sales, margin implied by trailing_pe",
+        "dividend_yield": 0.0244,
+        "years": 5
+      },
+      "revenue_path": [
+        {
+          "year": 1,
+          "growth": 0.1284,
+          "revenue_index": 1.128
+        },
+        {
+          "year": 2,
+          "growth": 0.1063,
+          "revenue_index": 1.248
+        },
+        {
+          "year": 3,
+          "growth": 0.0842,
+          "revenue_index": 1.354
+        },
+        {
+          "year": 4,
+          "growth": 0.0621,
+          "revenue_index": 1.438
+        },
+        {
+          "year": 5,
+          "growth": 0.04,
+          "revenue_index": 1.495
+        }
+      ],
+      "revenue_index_end": 1.495,
+      "exit_sales_multiple": 1.565,
+      "implied_market_cap": 207773202747.0,
+      "current_market_cap": 196183195648,
+      "price_return_annualized": 0.0115,
+      "dividend_contribution": 0.0244,
+      "total_return": 0.1947,
+      "annualized_return": 0.0362
+    },
+    "bull": {
+      "scenario": "bull",
+      "assumptions": {
+        "start_growth": 0.1957,
+        "terminal_growth": 0.04,
+        "start_net_margin": 0.0837,
+        "reported_annual_net_margin": 0.1005,
+        "margin_basis": "reported price_to_sales, margin implied by trailing_pe",
+        "end_net_margin": 0.0885,
+        "exit_pe": 25.8,
+        "current_sales_multiple": 2.21,
+        "sales_multiple_basis": "reported price_to_sales, margin implied by trailing_pe",
+        "dividend_yield": 0.0244,
+        "years": 5
+      },
+      "revenue_path": [
+        {
+          "year": 1,
+          "growth": 0.1646,
+          "revenue_index": 1.165
+        },
+        {
+          "year": 2,
+          "growth": 0.1334,
+          "revenue_index": 1.32
+        },
+        {
+          "year": 3,
+          "growth": 0.1023,
+          "revenue_index": 1.455
+        },
+        {
+          "year": 4,
+          "growth": 0.0711,
+          "revenue_index": 1.558
+        },
+        {
+          "year": 5,
+          "growth": 0.04,
+          "revenue_index": 1.621
+        }
+      ],
+      "revenue_index_end": 1.621,
+      "exit_sales_multiple": 2.285,
+      "implied_market_cap": 328721013321.0,
+      "current_market_cap": 196183195648,
+      "price_return_annualized": 0.1087,
+      "dividend_contribution": 0.0244,
+      "total_return": 0.8901,
+      "annualized_return": 0.1358
+    }
+  },
+  "flags": [
+    "Leverage is high at 3.2x net debt to EBITDA, which limits room to invest through a downturn."
+  ],
+  "disclaimer": "Rules-based scorecard over public financial data. Not investment advice and not a price forecast. Assumptions are listed with every projection."
+}

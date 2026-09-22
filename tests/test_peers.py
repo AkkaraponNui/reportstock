@@ -174,3 +174,54 @@ class TestAbsoluteVsRelative:
     def test_unknown_ticker_propagates_the_failure(self, software_sector):
         ctx = absolute_vs_relative("NOPE", rows=software_sector)
         assert ctx["ok"] is False
+
+
+class TestPeerCurrencyGuard:
+    """A contaminated metric does not just mislead about its own company.
+
+    It goes into the sector median, and every other member of the group is then
+    ranked against it. TSM sat at the 100th percentile on a price-to-sales of
+    0.5 while dragging the Technology median down for everyone else.
+    """
+
+    def test_contaminated_metrics_are_stripped_as_rows_load(self, tmp_path, monkeypatch):
+        import json
+
+        import peers
+
+        raw = tmp_path / "raw"
+        (raw / "ADR").mkdir(parents=True)
+        (raw / "ADR" / "2026-09-20.json").write_text(json.dumps({
+            "profile": {"name": "Foreign Co", "sector": "Technology"},
+            "metrics": {
+                "currency_mismatch": True,
+                "trading_currency": "USD", "financial_currency": "TWD",
+                "price_to_sales": 0.5, "ev_to_ebitda": 4.9, "fcf_yield": 0.44,
+                "forward_pe": 19.8, "roic_est": 0.24,
+            },
+        }), encoding="utf-8")
+        monkeypatch.setattr(peers, "RAW", raw)
+
+        m = peers.load_universe_metrics(["ADR"])[0]["metrics"]
+        assert m["price_to_sales"] is None
+        assert m["ev_to_ebitda"] is None
+        assert m["fcf_yield"] is None
+        # Same-currency metrics are untouched.
+        assert m["forward_pe"] == 19.8
+        assert m["roic_est"] == 0.24
+
+    def test_a_domestic_company_keeps_its_metrics(self, tmp_path, monkeypatch):
+        import json
+
+        import peers
+
+        raw = tmp_path / "raw"
+        (raw / "US").mkdir(parents=True)
+        (raw / "US" / "2026-09-20.json").write_text(json.dumps({
+            "profile": {"name": "Domestic Co", "sector": "Technology"},
+            "metrics": {"currency_mismatch": False, "price_to_sales": 7.4},
+        }), encoding="utf-8")
+        monkeypatch.setattr(peers, "RAW", raw)
+
+        m = peers.load_universe_metrics(["US"])[0]["metrics"]
+        assert m["price_to_sales"] == 7.4

@@ -1,0 +1,216 @@
+{
+  "ticker": "TSM",
+  "as_of": "2026-09-20T09:05:24+00:00",
+  "source": "yfinance",
+  "profile": {
+    "name": "Taiwan Semiconductor Manufacturing Company Limited",
+    "sector": "Technology",
+    "industry": "Semiconductors",
+    "country": "Taiwan",
+    "exchange": "NYQ",
+    "currency": "USD",
+    "financial_currency": "TWD",
+    "employees": 76907,
+    "website": "https://www.tsmc.com",
+    "summary": "Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiaries, manufactures, packages, tests, and sells integrated circuits and other semiconductor devices in Taiwan, China, Europe, the Middle East, Africa, Japan, the United States, and internationally. It provides various wafer fabrication processes, such as processes to manufacture complementary metal- oxide-semiconductor (CMOS) logic, mixed-signal, radio frequency, embedded memory, bipolar CMOS mixed-signal, and others. The company also involved in providing customer and engineering support services; manufacturing of masks; investment in technology start-up companies; research, designing, developing, manufacturing, packaging, testing, and sale of color filters; and investment activities. Its products are used in high performance computing, smartphones, Internet of things, automotive, and digital consumer electronics. Taiwan Semiconductor Manufacturing Company Limited was incorporated in 1987 and is headquartered in Hsinchu City, Taiwan."
+  },
+  "market": {
+    "price": 434.67,
+    "market_cap": 2254404845568,
+    "week52_high": 479.0,
+    "week52_low": 265.45,
+    "off_52w_high": -0.092547,
+    "avg_volume": 12514363
+  },
+  "analyst": {
+    "target_mean": 552.2594,
+    "target_high": 700.0,
+    "target_low": 440.0,
+    "upside_to_target": 0.270526,
+    "recommendation": "strong_buy",
+    "n_analysts": 20
+  },
+  "annual": {
+    "periods": [
+      "2021-12-31",
+      "2022-12-31",
+      "2023-12-31",
+      "2024-12-31",
+      "2025-12-31"
+    ],
+    "revenue": [
+      null,
+      2263891300000.0,
+      2161735800000.0,
+      2894307700000.0,
+      3809054300000.0
+    ],
+    "gross_profit": [
+      null,
+      1348354800000.0,
+      1175110600000.0,
+      1624353600000.0,
+      2281294000000.0
+    ],
+    "operating_income": [
+      null,
+      1121226500000.0,
+      921429900000.0,
+      1322003100000.0,
+      1936095600000.0
+    ],
+    "net_income": [
+      null,
+      992923400000.0,
+      851740000000.0,
+      1158380200000.0,
+      1697604000000.0
+    ],
+    "ebitda": [
+      null,
+      1593076500000.0,
+      1523506800000.0,
+      2079132000000.0,
+      2742121500000.0
+    ],
+    "rnd": [
+      null,
+      163262200000.0,
+      182370200000.0,
+      204181800000.0,
+      246427200000.0
+    ],
+    "eps_diluted": [
+      null,
+      196.0,
+      161.7,
+      226.25,
+      331.25
+    ],
+    "shares_diluted": [
+      null,
+      5185838000.0,
+      5185853400.0,
+      5185929000.0,
+      5186111400.0
+    ],
+    "total_assets": [
+      null,
+      4964459100000.0,
+      5532196600000.0,
+      6691764700000.0,
+      7932842500000.0
+    ],
+    "equity": [
+      null,
+      2903019700000.0,
+      3429522400000.0,
+      4244266500000.0,
+      5355038700000.0
+    ],
+    "total_debt": [
+      null,
+      888174400000.0,
+      956257900000.0,
+      1047042100000.0,
+      1064582700000.0
+    ],
+    "cash": [
+      null,
+      1586371000000.0,
+      1713977700000.0,
+      2484807200000.0,
+      3128068100000.0
+    ],
+    "current_assets": [
+      null,
+      2052896700000.0,
+      2194032900000.0,
+      3088352100000.0,
+      3817130800000.0
+    ],
+    "current_liabilities": [
+      null,
+      986563600000.0,
+      942805100000.0,
+      1308655900000.0,
+      1522414000000.0
+    ],
+    "invested_capital": [
+      null,
+      3761430000000.0,
+      4357098500000.0,
+      5262553300000.0,
+      6388026400000.0
+    ],
+    "operating_cf": [
+      null,
+      1610599200000.0,
+      1241967300000.0,
+      1826177100000.0,
+      2274975600000.0
+    ],
+    "capex": [
+      null,
+      -1089626400000.0,
+      -955398400000.0,
+      -964981600000.0,
+      -1282597200000.0
+    ],
+    "free_cash_flow": [
+      null,
+      520972800000.0,
+      286568900000.0,
+      861195500000.0,
+      992378400000.0
+    ],
+    "buybacks": [
+      null,
+      -871600000.0,
+      0.0,
+      -3089200000.0,
+      0.0
+    ]
+  },
+  "metrics": {
+    "years_of_data": 5,
+    "currency_mismatch": true,
+    "trading_currency": "USD",
+    "financial_currency": "TWD",
+    "revenue_cagr": 0.18938,
+    "revenue_cagr_years": 3,
+    "net_income_cagr": 0.19575,
+    "fcf_cagr": 0.239617,
+    "revenue_growth_ttm": 0.36,
+    "earnings_growth_ttm": 0.774,
+    "forward_eps_growth": 0.637423,
+    "gross_margin_latest": 0.598913,
+    "gross_margin_trend": 0.002759,
+    "operating_margin_latest": 0.508288,
+    "operating_margin_trend": 0.006958,
+    "net_margin_latest": 0.445676,
+    "fcf_margin_latest": 0.260531,
+    "fcf_margin_trend": 0.025621,
+    "rnd_intensity_latest": 0.064695,
+    "roe": 0.39969,
+    "roa": 0.19002,
+    "roic_est": 0.239435,
+    "current_ratio": 2.458,
+    "debt_to_equity": 16.504,
+    "net_debt": -2063485400000.0,
+    "net_debt_to_ebitda": -0.752514,
+    "market_cap": 2254404845568,
+    "enterprise_value": 15627738677248,
+    "trailing_pe": 32.462284,
+    "forward_pe": 19.825224,
+    "peg_est": 0.25614,
+    "price_to_sales": 0.507692,
+    "ev_to_ebitda": 4.934,
+    "ev_to_revenue": 3.519,
+    "fcf_yield": 0.440195,
+    "dividend_yield": 0.009363,
+    "dividend_rate": 4.07,
+    "payout_ratio": 0.2574,
+    "beta": 1.247
+  }
+}

@@ -21,6 +21,7 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 
+from score import drop_currency_contaminated  # noqa: E402
 from common import (  # noqa: E402
     FILINGS,
     NEWS,
@@ -415,7 +416,20 @@ def _tool_get_fundamentals(ticker):
         "profile": f.get("profile"),
         "market": f.get("market"),
         "analyst": f.get("analyst"),
-        "metrics": f.get("metrics"),
+        # Blanked, not passed through with a warning beside them. The model is
+        # told to read files before quoting a number, and a 44% free cash flow
+        # yield sitting in the payload is exactly the kind of number it would
+        # quote. An ADR's price_to_sales, ev_to_ebitda and fcf_yield divide a
+        # market number by a statement number in another currency.
+        "metrics": drop_currency_contaminated(f.get("metrics") or {})[0],
+        "currency_note": (
+            "price_to_sales, ev_to_ebitda and fcf_yield are unavailable for this "
+            "company: it trades in {} and reports in {}, so those ratios would be "
+            "wrong by the exchange rate. Do not estimate them."
+            .format((f.get("metrics") or {}).get("trading_currency"),
+                    (f.get("metrics") or {}).get("financial_currency"))
+            if (f.get("metrics") or {}).get("currency_mismatch") else None
+        ),
         "annual": f.get("annual"),
     }
 

@@ -1,0 +1,2453 @@
+{
+  "ticker": "AMZN",
+  "company": "Amazon.com",
+  "as_of": "2026-09-20T09:09:45+00:00",
+  "lookback_days": 180,
+  "summary": {
+    "total": 187,
+    "by_event_tag": {
+      "demand": 40,
+      "earnings": 36,
+      "capacity": 35,
+      "regulatory": 28,
+      "guidance": 14,
+      "speculation": 14,
+      "mna": 11,
+      "analyst": 11,
+      "price_move": 10,
+      "product": 8,
+      "macro": 6
+    },
+    "headline_lean": {
+      "positive": 35,
+      "negative": 15,
+      "neutral": 137
+    },
+    "top_publishers": {
+      "Yahoo Finance": 47,
+      "CNBC": 10,
+      "Amazon Web Services (AWS)": 9,
+      "Reuters": 8,
+      "24/7 Wall St.": 8,
+      "About Amazon": 8,
+      "Morningstar": 6,
+      "Supply Chain Dive": 5,
+      "Investing.com": 5,
+      "Barron's": 4
+    }
+  },
+  "articles": [
+    {
+      "title": "AMZN Stock Quote Price and Forecast - CNN",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0tdHJKMDN3STJwc2Y4eFFtWHI0VkFfWFhrWk56MGRaNXlLTDFXeDRqdmJBc2UyZno1MlRMZ1NFdFhsZUFoMWNSMEJpZHBHTlhz?oc=5",
+      "published": "2026-09-17T08:03:50+00:00",
+      "publisher": "CNN",
+      "summary": "AMZN Stock Quote Price and Forecast &nbsp;&nbsp; CNN",
+      "query": "AMZN revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [
+        "guidance"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Amazon Leo and Arianespace strengthen partnership with six additional Ariane 64 launches - Newsroom Arianespace",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQWF9QZEh2YWprX1RiQnBMUGM5R1ZPM242UXdiRzlCMUpUQnNzaFdyQUhoYTE1Uy1SRjZRYTFEbk5KMTdrOUFUU1F6SkFCc2dQTlNqQlJhZHVLNnAtVkZQQk5zcXhZRzBEUVlwb1FpSHBCSGNoVzhlZm92Q1VzWk9GME1TZWV2ZUxKWHB3aTlIN3AtT0ZTWDI1bTFIbHNjVmxDTGFWNzV5MmV2U3VWcTdzUk1VZF9fQm5YWG9FVXRSaUdKWm9PbEp5RjVlMA?oc=5",
+      "published": "2026-09-09T14:35:43+00:00",
+      "publisher": "Newsroom Arianespace",
+      "summary": "Amazon Leo and Arianespace strengthen partnership with six additional Ariane 64 launches &nbsp;&nbsp; Newsroom Arianespace",
+      "query": "AMZN acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "product",
+        "demand"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Wrongful death lawsuit filed in Miami, Florida Amazon plane crash that killed cleaning crew, including Yoel Rodriguez Naranjo - ABC7 New York",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQbXJFX21MZkFCdEkwUElBUEFCX3BzcFpka2dVR0xObFdwZGp3Sk00ZGtEaUtqMWJKSWJSOENUSmNhY2dWMW16b0I2NkRTeGJyNnFKdDN2QWRaWUx1UFp1T2dVQktucnBuQ214WDhPRVh0WFozSXZjcWdoODJabC1FNXRBcWwtbG1VNEpHOUdzWXFnalFCa1RJajgtRnBLdFVOelZMWXQ0X3FES013ODhtRU5fQ3kxNUNKdXNVbmwyT0JMb1l5TDdhUXdnbE9mUFFxVTY0YlpJMmdiX0RuMnBnSHlEa9IB6AFBVV95cUxOSUdMcEM1SHljV3dWUHVQaGpDZkY2bHJIMVpPWjJocGtLS2NMeWlWS2xaWXRLS052LVZ6bmluUW9RbTVCQThDMUxRWk5yRW0tWEp0Y21ObXJzTlNhQmhSZ1lvdEEzZ3Z5OU1zNDdObnVTRm9sWjRmWFFTSERpSXpBREVPRTlzWGhfZ0FLMUJNb2IzRW1uT1JLbmRvWFFLODdVZUxQRWVCaVNtRy1XdUZSLXB4a2JJUW0wSUllS2U1YUVacU9OcDQyRjVrc1g3TTFic2hqSkNxUVMzWFlnT1RuSmhZZzh2ZzZ0?oc=5",
+      "published": "2026-09-09T07:00:00+00:00",
+      "publisher": "ABC7 New York",
+      "summary": "Wrongful death lawsuit filed in Miami, Florida Amazon plane crash that killed cleaning crew, including Yoel Rodriguez Naranjo &nbsp;&nbsp; ABC7 New York",
+      "query": "AMZN lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory"
+      ],
+      "lean": "negative"
+    },
+    {
+      "title": "Nationwide Class Action Against Amazon Claims Abusive Treatment of Pregnant Warehouse Workers - A Better Balance",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNV3RhSFJyckF3LUpsV2dvRnc4Vy04OFp6RU5sVTZUOE1FZkdJVGozc2FUcVNiWHk0aW91c2xtSmVNeEI3eGc5OTEtcFhTSmN1LTMzbEUxOHJFY3pmdTBTMzc2Z01ycW04d3E0NTU0WVlQU2pSVE9tTDBJamVDd3dVR1o1RHpwSWdaRlZaLUR0Z0ktVmFGSzhiaHFxZmEwSW9BaG9Mc09seDJ4dXVwaVFJTzFFVzZyT3gybjJ5QTg5ek5oN0k?oc=5",
+      "published": "2026-09-08T07:00:00+00:00",
+      "publisher": "A Better Balance",
+      "summary": "Nationwide Class Action Against Amazon Claims Abusive Treatment of Pregnant Warehouse Workers &nbsp;&nbsp; A Better Balance",
+      "query": "AMZN lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Amazon accused in lawsuit of systematic discrimination against pregnant employees - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNcnNsS1ljbDZEeWkwUWw1QmVMTVFtRHpBd3daZGxlcHRJelBmOENLVGwtNU1FQUt2NDE2U3lXbFQ0MjVSWFZCdGljREgwdTZDeUJJVENKcDJsbEVuNGxZT0FXS0J3ckJEdlRzRHN6UWtHOFMyakZrX0RZa1RyMTNDNkM4cXc4dENHbm16eFQtY1JVdUtKVW5Rdk90VHVDNXRRbTNlX2FmRTZHdFh4enB4YVBxSW9PWG5RTEFmSA?oc=5",
+      "published": "2026-09-08T07:00:00+00:00",
+      "publisher": "Reuters",
+      "summary": "Amazon accused in lawsuit of systematic discrimination against pregnant employees &nbsp;&nbsp; Reuters",
+      "query": "AMZN lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory"
+      ],
+      "lean": "negative"
+    },
+    {
+      "title": "Better Consumer Stock for 2026: Amazon.com vs. Walt Disney - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObGZXZlNvekc5bXVoYTAzc214VHZrcnRxOHl3TVE3WllrNFVkSXRNN21Ma08xUTNxU1V5ZTMxTzBjS09VSEg2dzBweEo5S1JBN3VVc2YwSUdudE4wc2RrbzlQSHpqMXB3eG4zdWdsRElkeUVraVlBVnEybDg3eXcyTjRkdlZoRUtmb3hfa2JrdjhqZlhDWEU5aGxxQkgxLTFocmFWZktkSnQ2QkZScmc?oc=5",
+      "published": "2026-09-03T07:00:00+00:00",
+      "publisher": "The Motley Fool",
+      "summary": "Better Consumer Stock for 2026: Amazon.com vs. Walt Disney &nbsp;&nbsp; The Motley Fool",
+      "query": "\"Amazon.com\" stock",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Amazon stock just entered the danger zone - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZ2RVVUtINXJyMDgxTkJxajJxWFJDdVl3c2d6dFlxRkhEYmVjQ0Q5aHQ1VU4zX0R5S0M4Qm5feVR2Yy1zWmdLcEgzZGh6eXdTeHF5UHg3ZjRiUWtxQWRKZV8wTTBoU1N3TDVTRFQyWktlLXZVRVhZRTVCQ1N4SUhfRm5NVVZXZnNNVnhHb0Z2VzJiblRHcjl0enF5N2JrYm1pYXhaTk9hQWg?oc=5",
+      "published": "2026-09-02T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Amazon stock just entered the danger zone &nbsp;&nbsp; Yahoo Finance",
+      "query": "AMZN stock",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "What's Wrong With Amazon Stock? Here's the Honest Answer. - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUUpzNE55LTlyVWxyNUNVRjBVOFJPdzZ6amdOQThWYzNRYjZwTWIwTENZOVkxZnRNdVRVWU1IY29GR0cxTHpDSTZKeTdpaTZSZlBwVURTRjJXN24wNElyMmpRY2Nxc09naGlzTjRNaWRSWG1NMm9fX3RlZWlsY3Z1SDRWbmpzMlMyS2gyRnplYm5WeGFWc3R4RkZKWQ?oc=5",
+      "published": "2026-09-02T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "What's Wrong With Amazon Stock? Here's the Honest Answer. &nbsp;&nbsp; Yahoo Finance",
+      "query": "AMZN stock",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Amazon Stock Could Surprise Investors Over the Next 12 Months - 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWDBJT1Q0b21ZZDlzNmUybzZPbi1nejdpS05MZWIxdHRhVmlaZk5DVUpmU2ZHcTBYMFpTTHdES005WWtkOVBCSUxOdFdoazZjdFVpbGwzcV9DclFiMVIyMnp1bDBCcGF2dHZHS0xVRnM3QmN1NVlHTzJaTXFKamxBenlQRTRmdXpwZ1NHUU04bzVJYV8yUmwzVjBYRnF4MXNxQVgzVDNJamE?oc=5",
+      "published": "2026-09-02T07:00:00+00:00",
+      "publisher": "24/7 Wall St.",
+      "summary": "Amazon Stock Could Surprise Investors Over the Next 12 Months &nbsp;&nbsp; 24/7 Wall St.",
+      "query": "AMZN analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Jim Cramer says selling Amazon shares over new FTC lawsuit would be 'hysterical' - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUzhUWXczbjFiZUR5RmhSdnhTZnkxWUlWUS01MHVsZnZ5T1ZkYS1Ma0RHSHlna055eVlNb0lsNG5uQzEwMHNPN1VOa2pfd092anlWN3JtOXF3YUpwajBLclFPVnJ0cFJVWllnOUN2S2Y1TEp4SzRiaGRhNWFIR0xWci1aaGxwNnpMNEZDMzlzQ3V2NWVQYzBER19WVHBkc3l5R29zT25MNGVFZw?oc=5",
+      "published": "2026-09-01T07:00:00+00:00",
+      "publisher": "CNBC",
+      "summary": "Jim Cramer says selling Amazon shares over new FTC lawsuit would be 'hysterical' &nbsp;&nbsp; CNBC",
+      "query": "AMZN lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory"
+      ],
+      "lean": "negative"
+    },
+    {
+      "title": "Is Amazon.com (AMZN) Undervalued After The FTC Ad Auction Lawsuit? - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSkJ4QnZ6NnhlT08zemZ2aDNXd2hIRDRmLV9sVGx1cTk3VGpRdnE5R0ZUMUYzdVZZalhUeWlPWDV4b0hPQ0M0Q2gyaE84ZWtlRzhpd21BdFNrVnViX3hqVldvcWc1QUlvdnExTkZueWNuZnNrdWRWblRObFRYSm9rTXJmM0ZKYnQ5azctWFY5U1A5SThHR0Z5VDEzclk?oc=5",
+      "published": "2026-09-01T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Is Amazon.com (AMZN) Undervalued After The FTC Ad Auction Lawsuit? &nbsp;&nbsp; Yahoo Finance",
+      "query": "AMZN lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory"
+      ],
+      "lean": "negative"
+    },
+    {
+      "title": "US trade regulator and 22 states accuse Amazon of taking $20bn with secret surcharges - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNLTVyUU45YUI4aFBqSXBhYy1vRHhVUDBITGk4ZWZVRS1KVHFYelBxem4wdXAzVnVjcTBlb01qUC0yaWQyUXNxZWlhaXFnZHVLcnU2dlRUUTRXVGN3N21HX1E3VUt5VDVsZXhiY0QyRnMtaTc2SkN2R3MwMC1heWg4OXcwNA?oc=5",
+      "published": "2026-09-01T07:00:00+00:00",
+      "publisher": "The Guardian",
+      "summary": "US trade regulator and 22 states accuse Amazon of taking $20bn with secret surcharges &nbsp;&nbsp; The Guardian",
+      "query": "\"Amazon.com\" lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "YouTube Inks Amazon Partnership to Boost Online Shopping Bet - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQa3h4dHBFd1ktMDRfTTRveTVVQzJGWWRJY0Q0ZW9VMDNhZzN4d1Jfa1NBdnlpaXI4SlpHZmFjYnJRTEJmRlNkRE5kX0VSMHJWVEdsRDV4T2d2X0tkWVFiTUJLWEtYZ0RZa0VvZFJ1blRZSU00ODRRcDZlWmNRMEI5QnZ6NHRWQkpPR0plX2JMWVhKUEJTU1F3cEZNcTdZd0pNUkJVT09WNFZuVWEtYm1faQ?oc=5",
+      "published": "2026-09-01T07:00:00+00:00",
+      "publisher": "Bloomberg.com",
+      "summary": "YouTube Inks Amazon Partnership to Boost Online Shopping Bet &nbsp;&nbsp; Bloomberg.com",
+      "query": "\"Amazon.com\" acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "demand"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Amazon Is Firing on All Cylinders. This is Where The Stock Will Go. - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZHIxZ1ExOVVQYzYyZXMxbkN1bzlaOS14UXg1TWtlTmZiWmdMWUxtUmRJMW5uSnRMUl96RVJTNGFzNGJJRzZiT3VQTjRDQ090VF9UdzE4ZzY5b2pFdEd2QXpjVmM4dXBxNlFScHozSGJXYVp6R29SUDg1MjZ4YmtYNXBlRUM2U2N1MThMdmlXTElRN2NucDBNOWswTGRmalluMmc?oc=5",
+      "published": "2026-08-31T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Amazon Is Firing on All Cylinders. This is Where The Stock Will Go. &nbsp;&nbsp; Yahoo Finance",
+      "query": "AMZN stock",
+      "source_api": "google_news_rss",
+      "tags": [
+        "speculation"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Amazon Is Firing on All Cylinders. This is Where The Stock Will Go. - 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQb0wxTWFLSVdhMk9XdlBHYkVPaHZTNjZGQ3VQWWxlNU5ZR3dVZUxiLTRWRi03NXNsVFlIYWFoZVBBTml6QjRfWW0wZS1fMjhQR3lYQmVKSHowSDJrYjRXaDhhZUxVSF9QejhpNW1HbGZKU21DQ2NNc2U2Tm5CcUJsZElwVmJWRl9NTGJJQlVUZFJUYU8tNGZtaVdYb2pfUjFpZ2l3amdJV25TQUFvdnc?oc=5",
+      "published": "2026-08-31T07:00:00+00:00",
+      "publisher": "24/7 Wall St.",
+      "summary": "Amazon Is Firing on All Cylinders. This is Where The Stock Will Go. &nbsp;&nbsp; 24/7 Wall St.",
+      "query": "AMZN analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [
+        "speculation"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "The U.S. sues Amazon again - NPR",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQYnJCWWx3T1pzMGtDdmZfVHJETkhWMjMtRlQyd0lRQzNGLUpwLXRFV3djSHQzT283cXlmeTJDak1pR1BLLWNpMXJwbDR4dDQ1bTRnZ3V0RVhiclJfYVVVUFQwTDE1NjRvaWdfTk1ENUhVN3hDSXVOWTd2cHpLWWVYeA?oc=5",
+      "published": "2026-08-31T07:00:00+00:00",
+      "publisher": "NPR",
+      "summary": "The U.S. sues Amazon again &nbsp;&nbsp; NPR",
+      "query": "AMZN lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Attorney General Jeff Jackson Sues Amazon Over $20 Billion Ad-Rigging Scheme - NCDOJ (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdG5WSGVBLXdEXzlHdXBTeVh6REgwOWtCVi1PN0dqTFpaUHJTdFpheDFuTUpFSDJ1bTBHU1B0WWJtb3liT1RldlpzNjk5ajJRMTU4QktucG9PblJ4c04tUGFiY2VKQ2RrREkyN2R2TERFZEp4YmlqVy1JRm16Q045aG5oLUVYd0JVMGVHbjd4U19DNGNfai05MDNn?oc=5",
+      "published": "2026-08-31T07:00:00+00:00",
+      "publisher": "NCDOJ (.gov)",
+      "summary": "Attorney General Jeff Jackson Sues Amazon Over $20 Billion Ad-Rigging Scheme &nbsp;&nbsp; NCDOJ (.gov)",
+      "query": "AMZN lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Amazon’s response to the FTC’s lawsuit regarding Sponsored Ads - About Amazon",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNN1RnMWxFWmtqTEJZNmtTNmVHdGZhUXhVbEVTenNKam8xZmtIVGNfQlYwRlY2anZ1ZXZWc1RDUW9DUFc2endnM1pOdU13c2I0RExUUGNrVFlvajZFWk8wNHZDQVdLR0JNc0wxeG1Lb05mektkVnVhejRsd1oxSG1jNGxBVWhoY2xkSHc?oc=5",
+      "published": "2026-08-31T07:00:00+00:00",
+      "publisher": "About Amazon",
+      "summary": "Amazon’s response to the FTC’s lawsuit regarding Sponsored Ads &nbsp;&nbsp; About Amazon",
+      "query": "AMZN lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory"
+      ],
+      "lean": "negative"
+    },
+    {
+      "title": "NJ joins feds in lawsuit targeting Amazon over ad pricing - New Jersey Monitor",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9kZzladnZfckptVTExMFlldldBNk5qOGJ0UTNYUU9VQWVsMzFsbGJic3BuY0tTeUFhbDF4cTRhMGdVYVNIQUtaSUFJMWdTVUlJRzktZ29qR0QwclRLUEVLT0U5MGxxODhaQVlySGxWNlF1NUs0YnBoTQ?oc=5",
+      "published": "2026-08-31T07:00:00+00:00",
+      "publisher": "New Jersey Monitor",
+      "summary": "NJ joins feds in lawsuit targeting Amazon over ad pricing &nbsp;&nbsp; New Jersey Monitor",
+      "query": "AMZN lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory",
+        "macro"
+      ],
+      "lean": "negative"
+    },
+    {
+      "title": "Amazon Faces FTC Suit Claiming It Misled Advertisers on Pricing - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMlVMa3BndkpRalJWWlQ3VXQ1d0RqX21ldTBBVlFuaURnRmdjMHY5N21Ua0xSTGFPQmJnaF8tdVVfMElEdUpTaVlieExBZlRydEw4dUNwX0d6Y3VrTndHOG1ZbHNXajNtNmJ4TjVBY0dZaUZRSWY2SGhCa0dDaktESms3OGZQRm1ucHhCd3NVVzY5X3hnYVVoZWxJSGx1ZDZVYmdORHY4c3dHSGstWUJ0Z2wxbVM?oc=5",
+      "published": "2026-08-31T07:00:00+00:00",
+      "publisher": "Bloomberg.com",
+      "summary": "Amazon Faces FTC Suit Claiming It Misled Advertisers on Pricing &nbsp;&nbsp; Bloomberg.com",
+      "query": "AMZN lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Amazon secretly inflated ad prices, the FTC and 22 states allege in a lawsuit - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOamNFWC1fNUw3NjdNeG9BdHhwSFNVbUNFNkplRVlhMEZQeGJVUmhhaUptRGRqa0ZldFJ0c3c2MVVKTVBEMkVyMUdtcXJFbTlYUS1fbjhmNHk0a1huTHdrWEdoNnFHZVRCODRPZ2FRemR3djFFLTAtSjRuZzRmQkt4MFZJRldFcU4wdVhxSHJpYkFoZzhNWHg0aGg4SGxKcV9aZHViNXlyUUpoVUg4VFpxMlY4M1BXdw?oc=5",
+      "published": "2026-08-31T07:00:00+00:00",
+      "publisher": "The Washington Post",
+      "summary": "Amazon secretly inflated ad prices, the FTC and 22 states allege in a lawsuit &nbsp;&nbsp; The Washington Post",
+      "query": "AMZN lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory"
+      ],
+      "lean": "negative"
+    },
+    {
+      "title": "FTC, 22 states sue Amazon over deceptive advertising practices - Axios",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1sNmxBYVdLa0x6SmM4QU1fM2tXMEI3MW10cEtqTXEzRklrZm9md2hsY3hkMG9yWjh2bmxmLU12RGxwLXNHZGE3SzNEUlZBY09KbGJPdFlLUVNwd1dUbVlpd2dLTkplV3d6ZTFqQ3dDczFpdkVEb21EUlYzRmFNZw?oc=5",
+      "published": "2026-08-31T07:00:00+00:00",
+      "publisher": "Axios",
+      "summary": "FTC, 22 states sue Amazon over deceptive advertising practices &nbsp;&nbsp; Axios",
+      "query": "AMZN lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Amazon Stock Falls After FTC Lawsuit Over Advertising Prices - Barron's",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdUNCUVBIbFEydjlRNElRNHRLSUFiMm5mRElleVZVYUdLNnNUQy1FY19TTUJSZzRJLXJoNVlDQ3R5ay16T3l1aFhjY0x4WEN1SFY5SVdrMTJrbTFicS0wVk9EN1JBNkc2X0hrdlV2dnJUUHRtY0NmX1FPemhfaDdKUG5SdW5xU05acE9rRm13?oc=5",
+      "published": "2026-08-31T07:00:00+00:00",
+      "publisher": "Barron's",
+      "summary": "Amazon Stock Falls After FTC Lawsuit Over Advertising Prices &nbsp;&nbsp; Barron's",
+      "query": "AMZN lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory",
+        "price_move"
+      ],
+      "lean": "negative"
+    },
+    {
+      "title": "WA joins lawsuit against Amazon alleging inflated ad pricing - KIRO 7 News Seattle",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWG8wZGZuY0IwZmNaRTJST2ZGYTlNbWt5cjV0QTFlRV9PTGFHYnBiZnlpVDBnVXpsOER3WFdQd3Izd09Db1FEUXFIeUEweFR6RURmSnBrYjFjV2VMR3BCNm5rZkNvQVk2SG9KZXlMMDhZSnNnR1FISldEdFRvNmJ1cVBPX2c4amRpOUktS0xROVV5blBWbTh0VzQyTGZFRWZKS3p6T0V2cWtyTHhQc2U4SXRMTDBqVktXVkpaUWhn0gHSAUFVX3lxTFA3UnRTTDZlZVBMZ1NYMXo5TXctLWx5ekRGRm0tTnhwdFdfLW5sVkctanRacXJYbEQtaGhIdTh0YndINkgxd3BaeGgwT0o0anRyZWpUbE02UWU1UlJCSThpUkduenBWNTIxR2h5Ri1uQkVFR1ZvcExBdDR4TFdsSTUzUlNYTjlKdkdaS1BkdkJ2MjV1bFVjRG03aVVZeThCUWpyOEMzbUxfME5kcTRGcWRsZlBKUDRMUTk0N1UzUmRpQ0RiblhpVjFjZDNWRUdKVjNTZw?oc=5",
+      "published": "2026-08-31T07:00:00+00:00",
+      "publisher": "KIRO 7 News Seattle",
+      "summary": "WA joins lawsuit against Amazon alleging inflated ad pricing &nbsp;&nbsp; KIRO 7 News Seattle",
+      "query": "AMZN lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory"
+      ],
+      "lean": "negative"
+    },
+    {
+      "title": "Amazon sued by FTC, 22 US states over ad sales practices - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSzk4STU4blVuZzF1UWM3UVVLTkpvUkFaRXFzMW51T1UzTXlvTnpqOEtNcmt3TS1yTU8xVW1qa3EtUzFNcnBjNjc1ZkJmM0VXNVJySDhEdXB5blhZUGcyRGtoODZ1VHZUTm56WVpFcEVxRHEwU3g0ZGdYenZoZk5Tc2RBdzFGRmkwT0hGX1l0SUREMHJXR0V0aU9Ock02Mm1UbmxhMUVkZnFNS0lSay15dVEtS05qbTY5R3c?oc=5",
+      "published": "2026-08-31T07:00:00+00:00",
+      "publisher": "Reuters",
+      "summary": "Amazon sued by FTC, 22 US states over ad sales practices &nbsp;&nbsp; Reuters",
+      "query": "\"Amazon.com\" lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory",
+        "demand"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Is This the Single Best Reason to Buy Amazon Stock Right Now? - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUGFZRFpmSDdVMW1FQlJYMWE2bFctVzl6bFBsY1dKbFA3WkpIZjdxUy1aaXBvc19LLURqQjdrcTl5cWhLbXExNERuR24wZS00dHFkbjJRYkpwNENCVzUtal9adVNhYjl2RTNLMkRXX2gwNi1maThQXzlsQzhWS0pYREFjdkJvY2gwS1RzUFlnbVI1Tzd5aF9rU2dB?oc=5",
+      "published": "2026-08-30T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Is This the Single Best Reason to Buy Amazon Stock Right Now? &nbsp;&nbsp; Yahoo Finance",
+      "query": "AMZN stock",
+      "source_api": "google_news_rss",
+      "tags": [
+        "mna"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Amazon Stock (AMZN) Opinions on AI Infrastructure Investments and Market Performance - Quiver Quantitative",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQN0NrNXJma1RscXZQU216YnRsUlFyTlMtTVlCYkV0ZXZEZEc5VElDVXdPRHV1YV9wOGNDajUwNjg3VVVyMVJBR3l6ajNweUNjbmR6QmNoQWVHaEQ0RTVYX2w4S0JPOW1OWW0xalNGQXB1anJ6WnlIUmtEZWl2Ni1fMEpJWTBIUmlaY3l6T2QyZmRJLWwtbDVBUTVxWW40QXVHWkZUZE9UMjRuN2NIb1Nkd3pPYXNIRHVTREgwclh3?oc=5",
+      "published": "2026-08-30T07:00:00+00:00",
+      "publisher": "Quiver Quantitative",
+      "summary": "Amazon Stock (AMZN) Opinions on AI Infrastructure Investments and Market Performance &nbsp;&nbsp; Quiver Quantitative",
+      "query": "AMZN competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "How Is Amazon.com’s Stock Performance Compared to Other Internet Retailers - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdlJFbXhwaGtaWExLcmNsRWxMdE5qcGdtSmNSSk1RVDVYWjhqOWs0bHppMDFLRllkN1hvbktVRm1yS2VybjdWcjl6elZWbU81THlNX3o4bURtZzdSOUN4cW05SHo4eEdGV3FBLVFhQlhFQ0hZNkVVSFdkbnltOGs4WFh6QTZ3aEpIZ2JLZUdCYnczOVVIXzRMUjc4dUIzM0Z6ZnhtSw?oc=5",
+      "published": "2026-08-28T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "How Is Amazon.com’s Stock Performance Compared to Other Internet Retailers &nbsp;&nbsp; Yahoo Finance",
+      "query": "\"Amazon.com\" stock",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Amazon Adds 2 Million GPUs--and the Stock Falls - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOaDE2d3BmZURxZk50QkZLeFRjcmRxRU5NU2ZYWXlGUHE4MXRJYUZmcWc2LUl6S3lLdFNFQzh6bUxKZXE4OVFncFlkMlBvQXRVNHBkMklxZEdDUVoxazBpX1EtakpQNk5ORnUwMlAxdDRxSGZRZ1dPR194Q0xFaExhbGNhR0Jyc3ZsSHpKZ29fcFR2ZWZzTHc?oc=5",
+      "published": "2026-08-27T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Amazon Adds 2 Million GPUs--and the Stock Falls &nbsp;&nbsp; Yahoo Finance",
+      "query": "\"Amazon.com\" stock",
+      "source_api": "google_news_rss",
+      "tags": [
+        "price_move"
+      ],
+      "lean": "negative"
+    },
+    {
+      "title": "AWS and NVIDIA expand partnership for next-gen AI infrastructure - About Amazon",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5zZ2tmZ01kLUFpRnU5OEZRR0c4YnVjTmo0SU1pT0pGYzczaHc1THZvY2p3c0pYQzY3OFZSYUZYUkZPVVdYajZ2dXJLdnBlZkMxSzBwTHBfcm5JamRjTEliR1pjc3hQXzdFd2ZqcWVKaFcwNDQ?oc=5",
+      "published": "2026-08-26T07:00:00+00:00",
+      "publisher": "About Amazon",
+      "summary": "AWS and NVIDIA expand partnership for next-gen AI infrastructure &nbsp;&nbsp; About Amazon",
+      "query": "AMZN acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "product",
+        "demand"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "AWS to acquire DuckLabs, the Amsterdam-based company behind DuckDB - About Amazon",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE40S2JJbEVhVWJaQUs0eUFDdTFvbjNGTFppdDRGUlVxaEhGU1BxdkZLdlU5bkp5Nk5yZWlQQlEzMUhWMDFSLU9GR21uRW8tcVFhNlltWU1rOXVQVW1qdVB4YmNFNHk5WDQzVEE?oc=5",
+      "published": "2026-08-26T07:00:00+00:00",
+      "publisher": "About Amazon",
+      "summary": "AWS to acquire DuckLabs, the Amsterdam-based company behind DuckDB &nbsp;&nbsp; About Amazon",
+      "query": "\"Amazon.com\" acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "mna"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "AWS and DuckLabs: Building the future of analytics together | Amazon Web Services - Amazon Web Services (AWS)",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPYWszbmw5bDlVdWNvNTVDTmZqaU5DVC02Ykx3NlRVa3BxWUxXNlhFTU1pdTlNSmc4WHNKaTBLZ2lnR29IMExwZzA0MW8yLWlxZ0ttR05mZjQ3WUsteUJ4dUI5cVdZX0tNTWxzbVVHTkhkQngwZU96TlFzNHdrc3BQWVQ0MHF5VHh4Qzh2T1hFMWNKcHhNcHlFUkstMGkxUQ?oc=5",
+      "published": "2026-08-26T07:00:00+00:00",
+      "publisher": "Amazon Web Services (AWS)",
+      "summary": "AWS and DuckLabs: Building the future of analytics together | Amazon Web Services &nbsp;&nbsp; Amazon Web Services (AWS)",
+      "query": "\"Amazon.com\" acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Amazon (AMZN) Stock Still Looks Undervalued On Cash Flow And Earnings - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQX3Z3R2NnWjF4RTI3QTZxMnhIX2lJRzZIUURnN1psREN2Z1hyOEhZYTkxWTloQjE1QS1iQUsxZFZCVU5WLXdxLUxZb2xic2lFd3Y1RXk4NzV6T2ZpQWt4b21xeUl5LS1jUXZnMGZqTEV0bGx0YjAyVUhSVnI3bFVjVm5NVjFzUmFoUm5aa0hqNGhoOFBnREhqdDVB?oc=5",
+      "published": "2026-08-25T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Amazon (AMZN) Stock Still Looks Undervalued On Cash Flow And Earnings &nbsp;&nbsp; Yahoo Finance",
+      "query": "AMZN stock",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Prediction: Amazon Stock Could Be the Sleeper Winner of the AI Boom - 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNTk2TDNzbDRPTHo0N3RoQlN1cUZLVEpMSXc4UE81b0NENlBzbzcyTzlXTS1MVEVzU1JqN2R0TW5UTGlsSExJUmJrSGdwLTVtQ2djeHk4SkgyQnVnaTI0dlZyeUVSaE5SaURKb1RKR2NhZEpvNEZ6U3RzM0RXSDJ5ZzVmYnROOHBhN1BaUHZpRk51dENEanVqNUltWWtBNmZ4alZmV1JPcFZpcGhtc040?oc=5",
+      "published": "2026-08-25T07:00:00+00:00",
+      "publisher": "24/7 Wall St.",
+      "summary": "Prediction: Amazon Stock Could Be the Sleeper Winner of the AI Boom &nbsp;&nbsp; 24/7 Wall St.",
+      "query": "AMZN analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [
+        "speculation"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "This is One of the Cheapest Magnificent Seven Stocks Right Now - 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMHVWY2pzczl4OXJTZUlFZEo3eXptLXZpVUZYSDk3ZnZ5TlE4b0hTNXZhUDF2elZoN1ZIaUgxWFVhTm5pdXZfSWpoWWp4Mkdpazl2OWZYeFo2OFpMeC1CMXBIc3poblM5NEM3T2MtUW9YTnZWS1VHZndHeHcyWEtSMnlOc3hxbEdHcmdFYjBhN0Z0eE9JRzVqSHVDaE9YRU1kQ3QzQ28zQzk0dw?oc=5",
+      "published": "2026-08-23T07:00:00+00:00",
+      "publisher": "24/7 Wall St.",
+      "summary": "This is One of the Cheapest Magnificent Seven Stocks Right Now &nbsp;&nbsp; 24/7 Wall St.",
+      "query": "AMZN analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Amazon Stock Is Historically Cheap. Is This a Once-in-a-Decade Buying Opportunity? - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUmNKM1doMUpaczhjNmQzeWp4eVZhSE0yQVVMemp3eURHWldCcE1hNmRhWWhmcVk5YWJ2QjY2VHg2MWpGX194OTNSMjRwTndRQXJuc19fNWtMVlpZVXk5OTdFenI2QWkwNVRWUm9VN3JWSHRscXp0bERnZUtMVHhEMVNRaXdHMjNocmwtMnhNdkJrQzNiVmhMTnhIdTc5ZUZxbzRr?oc=5",
+      "published": "2026-08-22T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Amazon Stock Is Historically Cheap. Is This a Once-in-a-Decade Buying Opportunity? &nbsp;&nbsp; Yahoo Finance",
+      "query": "AMZN analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [
+        "speculation"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Online streamers sue Twitch, Amazon over generative AI training - Courthouse News",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMzh6dHF3NWtpWktuZkJnNEhRZm5nTnUzMkhMWVcwTzB1NC1RQkZfTERpUXFLcTFMc0FMN3B0aEFsZHpmRHBfWlMwaHFLRHN4NjZfQmNxMWxyQVY0X2Z6Ulowbk9zLS1lRm1yeWl1UUtEaC1uSko0NEZPWlNiN1kySS1IR2pEejE1eVFBeHhPLThib2R2NjNJRmVB?oc=5",
+      "published": "2026-08-21T07:00:00+00:00",
+      "publisher": "Courthouse News",
+      "summary": "Online streamers sue Twitch, Amazon over generative AI training &nbsp;&nbsp; Courthouse News",
+      "query": "AMZN lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Amazon, fulfillment tech company AutoStore ink global supply deal - Supply Chain Dive",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQamhXY3l2WU9KcTJJekl3bHoxR2JJOGxvWVpaZFl3TWF1UURGZXp3aUxvd2hsOURLUk81MV9rejFHZC1IbDJvbjlLcUlLcVRmNnFGZE8xY21xanFFR1ppNi1HY1ktU1VlbWpENWFVZ2dveS1IX2xQX3pLTkg4TVlNMGhsR0dyVmc2czB6NFJScktDMzA1WUtjdmpjUVFMVkRXZTRPaFZnMThySjNOOUE?oc=5",
+      "published": "2026-08-20T07:00:00+00:00",
+      "publisher": "Supply Chain Dive",
+      "summary": "Amazon, fulfillment tech company AutoStore ink global supply deal &nbsp;&nbsp; Supply Chain Dive",
+      "query": "AMZN capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity",
+        "demand"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Amazon.com (AMZN): AI Demand Triggers AWS Revenue Acceleration - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMVQwb0dNc1k5cExzQ3N3cE1Ic1dWTkk5Y1p3LVFfN1dyaFp6M3NhZi1kWWVHVmc1ajYxT1BDNGY1VVJZcmlhU0lxeUV0bmV6OUM4VERPYzMxRnVMRnZaUUhJOEU0V21XUnprNGQ1YzZVeFZWZFRmVWgzZWZ5UVF5b0FDRklrVWlabzBSY1cxSGM2LXUz?oc=5",
+      "published": "2026-08-18T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Amazon.com (AMZN): AI Demand Triggers AWS Revenue Acceleration &nbsp;&nbsp; Yahoo Finance",
+      "query": "\"Amazon.com\" competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [
+        "demand"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Security Hub Extended adds Supply Chain Security as its tenth category - Amazon Web Services (AWS)",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNY2h2T0xEMFB6VnpmMHJiV2FtWERfdHpHeGcxMjRyUDNtSTljWGdzbVI1dmk2enRnV0VnNEhuSnp5enM2MEhidzM1QTRyM3NCS1pEdDZ5SE5XZ09ZcjE1RTNKcTRXNEhCYkYxem84V1JDZjY0WTNwc1V0d0ZlaWRhMnQ5UkVZdTJIVDhNWGNBWnZTM2RBVFhrd2FjeFhiOTl2QXVaZkQzMGNRdzhva2c?oc=5",
+      "published": "2026-08-18T07:00:00+00:00",
+      "publisher": "Amazon Web Services (AWS)",
+      "summary": "Security Hub Extended adds Supply Chain Security as its tenth category &nbsp;&nbsp; Amazon Web Services (AWS)",
+      "query": "\"Amazon.com\" capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity",
+        "demand"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Amazon’s Stock Could Hit $500 by End of 2027. Why AWS Revenue Is the Key. - Barron's",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5LOGU0SG9wME5XTTFVbFU5VXotS1pWRUg2dnVFZ3JZY3AwSmROVFkzRXF0TjBDUExqdEVTalZKU1hsVzZOYVZwQUpTckFpTWtzbWZwTEFiYUM0ZGdqeWZLOXJwTXVOcjhlQzhIa010ZDRtVjlNLU1CaA?oc=5",
+      "published": "2026-08-17T07:00:00+00:00",
+      "publisher": "Barron's",
+      "summary": "Amazon’s Stock Could Hit $500 by End of 2027. Why AWS Revenue Is the Key. &nbsp;&nbsp; Barron's",
+      "query": "\"Amazon.com\" revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [
+        "speculation"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Morgan Stanley resets Amazon stock price target after earnings - thestreet.com",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNblNjVXI3ci1SQ2NCS2xabVdCaDgtdlNGNnYzcWhxNTFCRHVfemdueHJySmQ5UUM4TmF5WVJKTW9YdHhuNWt2RVdpYlE0c2Y1ZXJlUlREZG9ZbkVOek9lS1U2OVd6S1lfd1pPM0FLeGY2X1RFLUpYTXI5c2V1MnRkZTJIWlVjNllBZ1lIdFNZa216ajhQTU1pTXFnc3JKRFlDZkxmdEp0bjh6Qkl0c1JKaTNlZ1dwUkFPb3c?oc=5",
+      "published": "2026-08-17T07:00:00+00:00",
+      "publisher": "thestreet.com",
+      "summary": "Morgan Stanley resets Amazon stock price target after earnings &nbsp;&nbsp; thestreet.com",
+      "query": "AMZN analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "analyst"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Amazon.com (AMZN) Tariff Refunds Land As New Smart Home Lawsuit Opens Fresh Risk - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbHlZQVFvUDI1eEI0eFExd05xR2E3VkEteF9HMXpsaC01MHdxRERFZzdtMzd2by1TVHU4YlM2Y0lxd24wUUpPcURpWXVfNlN6TXhIUDNpa2dDeTZWVmZUbS1idmx3MU84SS1zWjhpUFo4T25lRWNMZWRkTXN3QmNMcXdVU0FrYzVaNnZYNEcxWFhxTjh0bTdabHFjMA?oc=5",
+      "published": "2026-08-17T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Amazon.com (AMZN) Tariff Refunds Land As New Smart Home Lawsuit Opens Fresh Risk &nbsp;&nbsp; Yahoo Finance",
+      "query": "\"Amazon.com\" lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory",
+        "macro"
+      ],
+      "lean": "negative"
+    },
+    {
+      "title": "Amazon (AMZN) Stock Gets Fair Value Bump As AWS AI Demand Lifts Analyst Views - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUVBrM1U1NDFNZVRhZWR6VVhzMTRIMlFaR3dTMlh4OE10cllDeUtqZ2ZDc0w4LTM2bXIwdTMzZXlEb0k5dEtsSV80WFpXNVg2WXVkMGplSGlmX0p3MDVZVThBNmxuU3lZMFZXa0FqR3VQRnBWZVgxVVpiM1lQQTE4ODFkZWYwNVJUU2FCbXhWeGtnR3p5WjRN?oc=5",
+      "published": "2026-08-16T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Amazon (AMZN) Stock Gets Fair Value Bump As AWS AI Demand Lifts Analyst Views &nbsp;&nbsp; Yahoo Finance",
+      "query": "AMZN stock",
+      "source_api": "google_news_rss",
+      "tags": [
+        "demand"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Amazon’s Price Target Says +32% and Not a Single Analyst Says Sell - 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVkRXU1AtZFBuNG95ZC0tOEYwcGNhSWFlSnRDWVpGQndEMU9mVFkyNHE4TmxpWE1RaVltVEdlZXBxMV9CSUd4RnMzSG82aU5kVGdwcUZHQTc1TkV1VU1zNWVRVTBjak5FOFZyRFhMU1hPZVRjbUlWbUtsNlFoZXFLX010YVJGOWdHcGtkMFFGWWVFdUZGU3BnUTkzVHVSU18tUWV1aVFYSzYtdXc?oc=5",
+      "published": "2026-08-13T07:00:00+00:00",
+      "publisher": "24/7 Wall St.",
+      "summary": "Amazon’s Price Target Says +32% and Not a Single Analyst Says Sell &nbsp;&nbsp; 24/7 Wall St.",
+      "query": "AMZN analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [
+        "analyst"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Loading Up on Amazon: The Market Digests, I Invest - 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVEJ3d0U0bWNlUE5OMHpWR3FKZzJsSXRCdUk5WU5FcFhqamluM0hWYkVnSXgzdWZBbmRvbUREMWZkdE9wQjNnQjFQVUtITDZveHdYX2FHRnFjQWVSTy14NWhxaXFvSFE2V1RVeS1pSFJvY3ZxVzAxMV9hSmJ2eFpTTkM3MzR4OUNyeThELXprWnYzNFUxLUUw?oc=5",
+      "published": "2026-08-13T07:00:00+00:00",
+      "publisher": "24/7 Wall St.",
+      "summary": "Loading Up on Amazon: The Market Digests, I Invest &nbsp;&nbsp; 24/7 Wall St.",
+      "query": "AMZN competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "After Earnings, Is Amazon Stock a Buy, a Sell, or Fairly Valued? - Morningstar",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPelJiZkYwQjU0RnY4VVNiQUVrdWo2dGZRbUZudUcxbGs1N1BDUHVIcGRGakMxd2FyM1lYM0J4d3dra0IzbUZKZ0JHcVB1SEZzYkNPMHA2bWJuZ3kwakRmV1VOZ2JYa0NOQ3ljMUI5U2lFZmx4RFlVcTJmTVNDYjViUmh1TERBa3cySEIzc01IRFBDSU5sOGlzd1ZB?oc=5",
+      "published": "2026-08-07T07:00:00+00:00",
+      "publisher": "Morningstar",
+      "summary": "After Earnings, Is Amazon Stock a Buy, a Sell, or Fairly Valued? &nbsp;&nbsp; Morningstar",
+      "query": "AMZN stock",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "New Jersey sues Amazon, alleging poor pay and conditions for drivers - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOd3JYTnZhVDZ0UUo5d25QUUphajNYMGhqM21aNndPdDlKeXBTTFk3RTJjVTJiVXgwYzUyMG1kUVdTN1N0dnJkSkFoWm5yWURZNmc3ME55RG1VSzF3NG5qcGZPRFNacUFpMGx2M0hwQ3E5VWQ4akpDc1FTcXdrTWQyRTZuUEVMU0oyUGZjR0VaLU1ocldM?oc=5",
+      "published": "2026-08-04T07:00:00+00:00",
+      "publisher": "NBC News",
+      "summary": "New Jersey sues Amazon, alleging poor pay and conditions for drivers &nbsp;&nbsp; NBC News",
+      "query": "\"Amazon.com\" lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "New Jersey sues Amazon, alleging company suppresses delivery drivers’ wages - The Jersey Vindicator",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRWFhZTJITVhwWWlHOXU2MFYtUjhNeTNmcWp3eFJnX2NJYlY3Q1ZDYkxNbDNHUlBRVTBNQVh2X2xmMURQMlZ0U0liZEE2NFJyX09IdHNYbnhXMTVvdHlnSDFHejJrVG1USjh0cTlDVGEyY1dCYWt0QnhtMjVhbktOZmpuTXlMNmRZa0JVVkkxQjZrNDhzTnA3emxkRU5qRnpUVlJiLVN5VlhnX01kNkVFSkpzeTU?oc=5",
+      "published": "2026-08-04T07:00:00+00:00",
+      "publisher": "The Jersey Vindicator",
+      "summary": "New Jersey sues Amazon, alleging company suppresses delivery drivers’ wages &nbsp;&nbsp; The Jersey Vindicator",
+      "query": "\"Amazon.com\" lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Jeff Bezos just filed to sell $4 billion in Amazon. The shares are falling - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPOE9XY19fa1dCUDZsbTlDOXF1MFI3OVpwTkNPbHc1RThHRWowTU5FTWh2cm54ZUpFR21rR3VJckVBMi1vd1k1T0RPOTh3SFZRcncxVFZiQnZqc2lybEpZX0M3T3k3V09SUUc0dVdzRU5GVHdlNUZ1Zkd3Zkc4UlFDeXNFWUlHSDZYRzR2OFZxdE4td1A5VmVYSVFtZkNYdklkTXVZX1YxMTQxUk13TGfSAbMBQVVfeXFMT2VDSmhpTDBleWdWSkluc2c0X0loSFFGRm9GZE5QT1VDbFdhZ2F6NGFPOE4zcXZicEdtc1JiMVlIakxLLXVmSi1pQ3AzMVhWS3Q2VWlxOGVWUTVKVkpqTV9PY1lpTWVRRTZ1dUQ0V0dWU3hoZEUyU0NjZ05xekt0UDVlcnRGUGcyX0lVSmdiczczSXVjcXhxWWd0cGRYUi1wNnZRa25NcHpEYUxERlRxOXhSaEk?oc=5",
+      "published": "2026-08-04T07:00:00+00:00",
+      "publisher": "CNBC",
+      "summary": "Jeff Bezos just filed to sell $4 billion in Amazon. The shares are falling &nbsp;&nbsp; CNBC",
+      "query": "\"Amazon.com\" competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Amazon tops $3 trillion market cap as stock continues post-earnings surge - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5qVDNrbTdTYVBLTUV3RXFZZkVrT21nWE9DRXJwcFQtYmtYTTlZSlAxNGM3aUxBTVVSTVVrY3hIdkpIeWcyMENiWUExbEdhR1BtRXNJb3lsZlFJdWZNcEdaaW11Wk9rdk51aUZmSTd2Sl9ZakZILWlpWUNHS2lmYVnSAYQBQVVfeXFMUERiZ2wtdTI0YjRhUDl6RnVkNmhtYWFKYUVEWkRXR1FySll6Y0czZ2FuUm5ITjZGUFF2UFZxSlU3Yk10Y2tiRnlBNmpBR09KQmNuVmZfMXA2b0p6U0kwcmxsSThUUWVHUWQ3ekJOV1l6RTYtU2xfODhFb0kwRlAxT2EtOXFr?oc=5",
+      "published": "2026-08-03T07:00:00+00:00",
+      "publisher": "CNBC",
+      "summary": "Amazon tops $3 trillion market cap as stock continues post-earnings surge &nbsp;&nbsp; CNBC",
+      "query": "AMZN competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Amazon’s Stock—and Market Cap—Keeps Rocking Higher - Investopedia",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNd1BHSVdxRk5uR3JVZG5zNGptakY2VHdlZG9iOWlMRkxMRkJ0U0RtLTBnYUFtbFFRaDBlMmoyWTF3N255cDRZNWhpVzZERXJGajhqcTFHRzNqZy1ReEhtUnpLWUNaZzhvY0V4RkpGbElQTXhKemVjbWlNS3c2N1ptbUY5d05NLUx5aUtSbGJ3RHhDcjloV1ZVbkFxU3NuODA4N1FxdzJ3NA?oc=5",
+      "published": "2026-08-03T07:00:00+00:00",
+      "publisher": "Investopedia",
+      "summary": "Amazon’s Stock—and Market Cap—Keeps Rocking Higher &nbsp;&nbsp; Investopedia",
+      "query": "AMZN competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Amazon Stock Breaks Out To $3 Trillion Milestone. Why Cloud Giants Are Rallying. - Investor's Business Daily",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObHZfZHBnRlFJUVRndkl5d0liT2dKTHlaSUU4MGdZVVJIWWFBN0JrVG85OXVIWHRLNmRvYjU0QzZlQUlPT2lUTXBOWFM2N09wSkFQMGxNaU4yUmh5YUNwOGNDV3pMbGNiT3UzVWU4QTV6QkNKRF9jWkNxeldMSnJtZDVnMDlpenlNNk9Fbm1veXVldw?oc=5",
+      "published": "2026-08-03T07:00:00+00:00",
+      "publisher": "Investor's Business Daily",
+      "summary": "Amazon Stock Breaks Out To $3 Trillion Milestone. Why Cloud Giants Are Rallying. &nbsp;&nbsp; Investor's Business Daily",
+      "query": "AMZN competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Amazon Joins Elite List of Stocks to Top $3 Trillion in Value - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUC1Ubll5MmJwbGRZT2FqMlJnWFl1TlVGUGtVS3dwY0N3czUwXzNhXzlzZ0lZdDhXNEU5cDJTRm1vak9PN21EUnVLY0R6TndGYW1jUmRvVGl2MlNuc1VuX3dyWXkxWEkwb1d4Y2Q4cWlYSnZseEdGek5PY0lnajZ2M1ZkSTFUMWk5aktObFh1QldrSkZnLUdHdko4UE84MGZ2dHNiWDQtMjdlTEFWZ3pWRQ?oc=5",
+      "published": "2026-08-03T07:00:00+00:00",
+      "publisher": "Bloomberg.com",
+      "summary": "Amazon Joins Elite List of Stocks to Top $3 Trillion in Value &nbsp;&nbsp; Bloomberg.com",
+      "query": "AMZN competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "AMZN Stock Dips Overnight After Breaching $3 Trillion Market Cap: Retail Gets Buzzing About Bezos’ Share Sale - Stocktwits",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVHZ1T2JiXzhsbzJVTkxnQ1A5VDBvYkJPVWxhbkp5Yi1jQkVGNmRMSnFzdl9Bc2YzcTh1SFJhN2paYmdVRVJwcENRVl9uV0ZIWkdRRHR2ekxDWUFEOUpZY2xYbDBmRlJjcmZodVJXS01DQ3FvZnFYMnVTd1F3a3lPTEFsb3g0X255dmtyMFNqdkxSSzNSWmpVdG1yWGxRMHZibjM0Ym1UWXNnV2V4UmRnOGdvWnY?oc=5",
+      "published": "2026-08-03T07:00:00+00:00",
+      "publisher": "Stocktwits",
+      "summary": "AMZN Stock Dips Overnight After Breaching $3 Trillion Market Cap: Retail Gets Buzzing About Bezos’ Share Sale &nbsp;&nbsp; Stocktwits",
+      "query": "AMZN competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Amazon Hits $3 Trillion Market Cap for the First Time as Stock Closes At Record - Barron's",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE44NlJqWXBDdVdHZXpuWTZ3dU9WakYyV2pkRDZod2JNN2Y2UlZFdGtJVzh5MjZxZU1xeGU3RnJuMzRUUW9ZZUd4UGl2UUxnZWlwTG15SWdjVUdKRkdxT1lhakNPRzF2bXItWFo1eTQzM0FPbC1INEplT1JLUQ?oc=5",
+      "published": "2026-08-03T07:00:00+00:00",
+      "publisher": "Barron's",
+      "summary": "Amazon Hits $3 Trillion Market Cap for the First Time as Stock Closes At Record &nbsp;&nbsp; Barron's",
+      "query": "\"Amazon.com\" competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "positive"
+    },
+    {
+      "title": "JPMorgan resets Amazon stock target after AI payoff - thestreet.com",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB5eFhMclUzSkFaLWRtVllfS0RvajlGaTFuaFQ0cmtfY3pDX3JvV0tLYnVrMVZaUUcyVGtVOTRVT3YtNXhWX1pOYTQzdW8xT25lMnRpNHE5d0x2WnJfZGJFYlVDUVh3NWFFUVIySmRJWHhtRm40TzRZOEhB?oc=5",
+      "published": "2026-08-02T07:00:00+00:00",
+      "publisher": "thestreet.com",
+      "summary": "JPMorgan resets Amazon stock target after AI payoff &nbsp;&nbsp; thestreet.com",
+      "query": "AMZN analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [
+        "analyst"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Amazon (AMZN) Stock Fair Value Edges Higher After AWS And AI Price Target Debate - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNX1V0TGE5T3NTLXR1TVo2aTBFWnQxSFppMTFHeFVVNW1iSWxqSHZKdUwtanF1RW1ndkktTG9ydW5LRC1Qc2xpSXB6QXJLT2stWS1CQ09KRjludFM1anlfUHMybTR5dDZEbXRia0tVSmR2cEhuUkRvT1k0c2dSczZaQUZKS0duQS1PTkt0R3hzTWJrUzY5dUxmQg?oc=5",
+      "published": "2026-08-01T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Amazon (AMZN) Stock Fair Value Edges Higher After AWS And AI Price Target Debate &nbsp;&nbsp; Yahoo Finance",
+      "query": "AMZN stock",
+      "source_api": "google_news_rss",
+      "tags": [
+        "analyst"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Amazon: What We Think of the Stock After Earnings - Morningstar",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTXhIdDMwZ1JWb3Y3V0Z4QllGRUN1N1RjRFUyeFRNYm44OExQc2JXcjR0T2JwSWxvRWR6U2VscF9kT19pc2liWksybUtkd0lmVTg5YUZ0eFF2LUoxckZybjlJbnRqSldfUVp4NVA3RWVEQ01NMWQ0SlotTE0zenhaYWthYkM0cVgwZDFhb3Z3?oc=5",
+      "published": "2026-07-31T07:00:00+00:00",
+      "publisher": "Morningstar",
+      "summary": "Amazon: What We Think of the Stock After Earnings &nbsp;&nbsp; Morningstar",
+      "query": "AMZN stock",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Amazon stock soars 15% as e-commerce giant's AWS cloud business booms in 'home run' quarter - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNSm1XeGtlS2M1bG5INTRaQ0xucjVIVXVEZ3ZHMTdQdVdwa3psdFlQZjZOb3pnVGJNVDE3blY1NVY2djlDd010QzJibktUeEhFcFV4bTJ6NmU3RngzOEpLYzduQU5FRzBxTFhxT01YdFNUYWRqNHpOUlpyYXZYT0R1WXFsYzVidFZBb21ReUc5dFRCMEVOQ0YtWXdxZ2hoT1ZXLUZZMVowa1NIeG93cnlnVVU2c1pIZzFxTnk2X2ZkMlRzMGxvSlNhZm9uWUVzdXl0Slczc3FucXZzQjQwcGc3WnpGd2tmdw?oc=5",
+      "published": "2026-07-31T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Amazon stock soars 15% as e-commerce giant's AWS cloud business booms in 'home run' quarter &nbsp;&nbsp; Yahoo Finance",
+      "query": "AMZN stock",
+      "source_api": "google_news_rss",
+      "tags": [
+        "price_move"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Amazon.com Stock Is Priced For The Bill, Not The Payback - Trefis",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQd3JYdEI3Y3ZPbmNjTjlyS0JNTzhHN1VZaThXYk5ubmtBY1o1UGNOZ25QejhRNTl3WVBXUjRPRFZKa2cxLVdWWjVWWmppd1o4ejZRZGlCZGo1Znk3a0ROUFFJdXc1WDJJUnFXOGhCVmlfcDRuSVdxeHNqSHQ5Yl85TTRTZ0xTeG1NMUxEeVdUeXFsVy05b3p2bU1zbVdxRTBiaTVPbjZPVWJuejlVUnVDQk15dU1EYlU?oc=5",
+      "published": "2026-07-31T07:00:00+00:00",
+      "publisher": "Trefis",
+      "summary": "Amazon.com Stock Is Priced For The Bill, Not The Payback &nbsp;&nbsp; Trefis",
+      "query": "\"Amazon.com\" stock",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Amazon stock soars after Q2 earnings beat expectations as AI, chip businesses see $25 billion run rate - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPMzlnWlZFZ2NDSkFnMExWM0NHaG95cl84Ym5ZSHVWMzhBWmIxWDFWTHJyM1h5OTNwQ2xkRlIxeDR0NGozWG5FX2g4VnhHdG9iX2tJeEw3aTVmWnBVWV9EWUktR2EydG5FSnF6TW52ZkZxQ1gtQnFLLWNKekc1emZvLXBRckdWVHhRdUdQMHh1Z0V1TlRKOEp1WnhJd09wbGNLREtpUE0wR0dfV2lCbFNtVVFDZFQ5elExNnlVSW1lNTFqa3AwaGFJbC1HSlFSNWExUnk0RTU0RzV6Ni1LUHVr?oc=5",
+      "published": "2026-07-31T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Amazon stock soars after Q2 earnings beat expectations as AI, chip businesses see $25 billion run rate &nbsp;&nbsp; Yahoo Finance",
+      "query": "AMZN earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "price_move"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Alphabet, Amazon and Microsoft added nearly $1.5 trillion in combined value this week - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE83UDhFcjNxOUdxa1dydWU2NmFjN0JFUk16ZUtJTk03dmVpakpLbmRybTNRdUVGYzM5cE9LNmVBMHVNLVR1bGVRZ2tyMGFScjJkeDFYNnRVdi1aXzhoMEQ3bElxVXYxVTFhMUptaHB3WWtuUzFNcWw3LTEzZ9IBgAFBVV95cUxOR3lVcFE4bmxqZ2JJSXp1M3VGYjFaX0x4YzVvTmtwaTZIaS1nZ25PV2FZOHc4WDJCWE9Td2N1amNrSzFLZ1lkUGl1Q2lKa1h5YzZpRlhqX3hJU2xNQ0t4bTJZMjlOVjdNalRfVU8tSXFDRi1TREg5b2piNGZiZGY3bg?oc=5",
+      "published": "2026-07-31T07:00:00+00:00",
+      "publisher": "CNBC",
+      "summary": "Alphabet, Amazon and Microsoft added nearly $1.5 trillion in combined value this week &nbsp;&nbsp; CNBC",
+      "query": "AMZN earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Amazon Shares Jump as Cloud Sales—and Spending—Accelerate - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBDRDVENVllMTNvS05QVHdsMUdKbDB2NjRFRGxTWmNjUkFaYTFfeVBvTDQyN3NSR2lpR0xHejZSX1VtR0wxeTN2S1RKYWlZclI0SkRoY1VBNW1vdXd0dkxxei1RRnlnMkNjMzJZYm01SjBxSURRWmNzTVBEWQ?oc=5",
+      "published": "2026-07-31T07:00:00+00:00",
+      "publisher": "WSJ",
+      "summary": "Amazon Shares Jump as Cloud Sales—and Spending—Accelerate &nbsp;&nbsp; WSJ",
+      "query": "\"Amazon.com\" earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity",
+        "demand",
+        "price_move"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Why Amazon (AMZN) Stock Is Jumping 12% Despite a Massive AI Capex Hike - Barron's",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9zMWhyV3ZJYzlEUzdXRzFjc3MyODlubkZidkVaRml4R3FfN0NqRTAyVHhvaEV5WWJGYnZDeWFyeFZTM3NFMVBEdXRwOEdOampuQU5DcmRhdFg4QXFiRDZfcFJHSlZWRXlYNFI0UmhZWXYxM3JidENNQw?oc=5",
+      "published": "2026-07-31T07:00:00+00:00",
+      "publisher": "Barron's",
+      "summary": "Why Amazon (AMZN) Stock Is Jumping 12% Despite a Massive AI Capex Hike &nbsp;&nbsp; Barron's",
+      "query": "\"Amazon.com\" earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Amazon Shares Surge on Cloud-Driven Quarterly Beat; CapEx Outlook Raised - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOeHJ0VVVaa3lXN2RjZUFyeEpWNDJwcUk4cFZvLXpsM1ZRV041SWxVME9Edk96YnAwZG1McEE5Sk9ybGkteE81emhuWUFnR1Job2JuMjY5RXVET2ZaWmtHelNnRDA2dngwOTF6bG9ITjlhVWpET3ZhUnFDVk5SclRwTU0zem5VckdoSVd6dk16NkxJbUw1X3BJSGFIRVBYdw?oc=5",
+      "published": "2026-07-31T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Amazon Shares Surge on Cloud-Driven Quarterly Beat; CapEx Outlook Raised &nbsp;&nbsp; Yahoo Finance",
+      "query": "\"Amazon.com\" earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "guidance",
+        "capacity"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Amazon Stock Surges. Investors Are Shrugging Off The Tech Giant's AI Capex Hike. - Investor's Business Daily",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPcWxpcVh2R3dTanBFODhPUEJZMjJrZzNRUE9LUURRWGJIMVNVOU1hU3ZtbVI0M3V4bDBHMnpJVk9lQmx5OHFFRlloNTNRR0puTnVHeTFoNGt6S3Bma0tsX1VTRFZsTWJKV0trYnlSSmR3WFVPUGlEcklwUHhCZlNuLXVoMA?oc=5",
+      "published": "2026-07-31T07:00:00+00:00",
+      "publisher": "Investor's Business Daily",
+      "summary": "Amazon Stock Surges. Investors Are Shrugging Off The Tech Giant's AI Capex Hike. &nbsp;&nbsp; Investor's Business Daily",
+      "query": "AMZN revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Veteran Bank Revamps Amazon Stock Price Target for 2027 - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVFl0YXI1aVJVd1d6cENlU1BTelkxdVdjeWZ4ZDhwVERaX2ZCOTZhMDhOQ2ZhOUMtU3ppMG52a3o4NnpiWDBWZkI2N19rckliOEFPNkI3eU40S1RleW9nZDJnUU8wZkp4OWxnd2V6Y28ybFVDRlhid0d4ekhxaXFoWG51ZURiZU9kZmxLSzdMTWIybFFId2EzVjczcXJfYkFIRFNmZDR4a2lWUUNmRndCdmpDQzJVUQ?oc=5",
+      "published": "2026-07-31T07:00:00+00:00",
+      "publisher": "TradingView",
+      "summary": "Veteran Bank Revamps Amazon Stock Price Target for 2027 &nbsp;&nbsp; TradingView",
+      "query": "AMZN revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [
+        "analyst",
+        "regulatory"
+      ],
+      "lean": "negative"
+    },
+    {
+      "title": "Amazon lifts investment plans after strong cloud sales; shares jump - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOY0xqQmlIUXJydk1wNzhibDVjTzVaekhCb3A1NWs2cm1aQUVtWU5tVEswRkhpdjE4Z3hzVk5MbmtBWUYtdnlPT3Q5a3lDRUdYd0prRnJhWXBqN1dpTVB3N0dFQW1oUGZYWHgyX19maWlvQkNKWnpBXzNCSUdKcThxdWxGTkhoTVZsOHdGZENlMXZHb1NnYzY2Y2ZBRVVkVURPd0pKeHZVb2ZjNzNGMnpTLUNWeE8?oc=5",
+      "published": "2026-07-31T07:00:00+00:00",
+      "publisher": "Reuters",
+      "summary": "Amazon lifts investment plans after strong cloud sales; shares jump &nbsp;&nbsp; Reuters",
+      "query": "AMZN revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity",
+        "demand",
+        "price_move"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Amazon To Rally Around 55%? Here Are 10 Top Analyst Forecasts For Friday - Benzinga",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQMThQRVJNRVRDeWtKNXFWN2FjbnR0U0ZhM1NsREdfS0UzdEVMMFpCSThkV0FKekQ2ZG5GX3lCaldPcGR4di1pazZQc1ZPMG9wZ001clhTeDgtOHY1U203SGdjT2dMMkNZV0pCZ00ycVR5Y0ZYVjdSYnhxaVgwTFVocnVRRnZwQWtkaDVTV1pFdWZsREZtOEtCR2dLTEN5cTlqTmxEZXk2NDdWMl9DVk1JSWt0bWhZTVpVc2NNSnlCNDZPNTg2R2hOSWlsOFJEOW5NWHJocW5VRE52dW9BbkE?oc=5",
+      "published": "2026-07-31T07:00:00+00:00",
+      "publisher": "Benzinga",
+      "summary": "Amazon To Rally Around 55%? Here Are 10 Top Analyst Forecasts For Friday &nbsp;&nbsp; Benzinga",
+      "query": "AMZN analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [
+        "guidance"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Goldman Sachs raises Amazon stock price target on AWS growth - Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONkRtMnFUcVFuaERWSWtOUFdray1HRnlja2pqejdFS2VFaGtobGRYN3FHY0NLOHpudHQ3cm1uOWRTbWZ6eFJFLVB6bFh1Q09GVzlKVWdYWGZLOTBEYlAySzZpd0dLeGZKdkhlTm8zZ2xoUUs5alNjaXVHTU1jSmQ1NXc1M2xoWDNkYUtTRFNiZTdrQmFoRThxYmdHa1lFWFR0ZzNPWklaSEpXanh0elNhN1dvRDUtbmNObEc3Yw?oc=5",
+      "published": "2026-07-31T07:00:00+00:00",
+      "publisher": "Investing.com",
+      "summary": "Goldman Sachs raises Amazon stock price target on AWS growth &nbsp;&nbsp; Investing.com",
+      "query": "AMZN analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [
+        "guidance",
+        "analyst"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Amazon sued by consumers over seafood sustainability claims - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWmp1amEwUVhDdUFSOEhuZV9fZDl1eHRFbXEzY3d6NUlrbnNyNEN6VG16eUZ4VWVHNGhsQjUtbHZIVjM0bEN6bEREVnlqZE12YUpOcGQ3QTRTcXdfNWt4SzRDWGNxOUJuV29uTXp3cUZpSUg4QzBzMXpheEx1bmNmdk9RWlo0MlJsNWk3M185SWFfZU9aV3pqbmJxWEc0SjNyck9VUWVseUtpcVpNZVl0bGhZWWZ1a3NpYnc?oc=5",
+      "published": "2026-07-31T07:00:00+00:00",
+      "publisher": "Reuters",
+      "summary": "Amazon sued by consumers over seafood sustainability claims &nbsp;&nbsp; Reuters",
+      "query": "\"Amazon.com\" lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Amazon Hit with Consumer Lawsuit Alleging Orgain Protein Powder Contains Heavy Metals - Hagens Berman",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPX05sZnlHcXpOQTUxU2hwUHF2bldTNHU3T2pDb0V1am5uN3hPeUo1cmtIazROa3JBVG9BODFaVm1KREpocTZPR1p4U3dhQjBUOFFjLWRqaml0QWZUZmZEVm5Oeno1QlF3c2dwa2FZd2hzUXBfZE5DVUFxVEdicVRUTUdiQnBPdDVxRXRBbzl4RlNYMFZoY2JYekRweGU2Rl8yNDBGUmlTVEViRmNoaUV4UTBjYXI5TEJxakxZcmhYajhQOXZCNVU3aHM5V0I3SjdPODZ6MlZjOV82SXA5LU9iU1BJNjRrVGlUUHlYWWhXcEJaR2hoQ2Rsc2xkN3VnXzA?oc=5",
+      "published": "2026-07-31T07:00:00+00:00",
+      "publisher": "Hagens Berman",
+      "summary": "Amazon Hit with Consumer Lawsuit Alleging Orgain Protein Powder Contains Heavy Metals &nbsp;&nbsp; Hagens Berman",
+      "query": "\"Amazon.com\" lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory"
+      ],
+      "lean": "negative"
+    },
+    {
+      "title": "Amazon.com Inc Stock (AMZN) Moved Up by 14.38% on Jul 31: Facts Behind the Movement - TradingKey",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOOXlIZWxPZVNaN181Q3liUlR2STh3ZjQ2Z1JoczlNN1BwZWRjLWhiTWtDbVFVdFJmOU1Hb0R0OWREMzZoN2tIVWJKUURPZTMtNVROMzFDR0tleks0MUhzYUlfRkNrcFdfYmF2dldhWHc2T2hDLVVTU1k3dHVwY29ENDhHUHdzLTVrTzRn?oc=5",
+      "published": "2026-07-31T07:00:00+00:00",
+      "publisher": "TradingKey",
+      "summary": "Amazon.com Inc Stock (AMZN) Moved Up by 14.38% on Jul 31: Facts Behind the Movement &nbsp;&nbsp; TradingKey",
+      "query": "\"Amazon.com\" competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Amazon: New Highs Incoming (NASDAQ:AMZN) - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1JMWJMRTI5SjRjMm1xT29WYk11Tnh0YWZ5VkpIMnpJZy1yX014Sm5GRlNlU2VrcXFUTTlmZzNqa3FKOHFodUVUVUp1THh5YUdPMHFObHlMZFE4YW15a2s2QWVzMHIyMExnRVR3YTJpcncxMk9t?oc=5",
+      "published": "2026-07-31T07:00:00+00:00",
+      "publisher": "Seeking Alpha",
+      "summary": "Amazon: New Highs Incoming (NASDAQ:AMZN) &nbsp;&nbsp; Seeking Alpha",
+      "query": "\"Amazon.com\" competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Amazon.com Announces Second Quarter Results - Amazon Investor Relations",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZExYaC1BN1dHSmNVeXVxYjdmTVB1Mk9zQTkta2hBZUJKc2FuTWhmNmdPRngzcFF3MUtNc1U4ODBEc2wxYmVoVWZIemI1c1E1elh5OGs2N2RhUHZzdnN6S3RNUDlsYmZSQWpsdWgtSlVrRm9xWkVsZ2RhQ3pxbjRWeGdqMlJmM1g3WUZacmU5U0xVSkdpQklvRHdyU1JwWkhySEN0NW0xOWdabFZ5eFRn?oc=5",
+      "published": "2026-07-30T07:00:00+00:00",
+      "publisher": "Amazon Investor Relations",
+      "summary": "Amazon.com Announces Second Quarter Results &nbsp;&nbsp; Amazon Investor Relations",
+      "query": "AMZN stock",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "product"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "AMZN Stock Rises Premarket Ahead Of Results: AWS, CapEx In Focus - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNa0xzNndOY3F0YVNnVkJyTVVmT0V4eHZpZ1Y3a2JRd01Ncm9SeDU5S0dLSmU5cGlHZlpxMUVRa0tlb2FfbzJoWkw0ajlNbEpZWGJQMkI1YmRHQTl0S3lTQzRuX1V1d0JvWUlrejJPY3I5YzVQT1pMM1dJSzF1NHhXLXoyel9IZXlpNkVaeDJjTDBwOURpT3VSekpfbU1uQQ?oc=5",
+      "published": "2026-07-30T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "AMZN Stock Rises Premarket Ahead Of Results: AWS, CapEx In Focus &nbsp;&nbsp; Yahoo Finance",
+      "query": "AMZN stock",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "capacity",
+        "price_move"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Here’s How Much Amazon Stock Is Expected to Move After Earnings - Investopedia",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNX2lkeTRTd3ZJUmgyTk12dHc2TFpqRWw1ZUtaZTZIYkoyODZCamRROUhLTndGbHdCbEpPbFpwM2c1QmRmbDdyQmU5enZLYnFaMjB1N3F0cVJXNTR6WC1NdXA5ai1yZFhNM3dENC1WSUI3elBZNTlpNm0tck5heEh2Mm5xR01CMHVQMEpyWlhnVGZxdmMtSFg0T3hkWFRTMzg4WG9Qc3JBbERjQjdxbld0Uy1yaUxaOEdWYWRTM2poOTBxQQ?oc=5",
+      "published": "2026-07-30T07:00:00+00:00",
+      "publisher": "Investopedia",
+      "summary": "Here’s How Much Amazon Stock Is Expected to Move After Earnings &nbsp;&nbsp; Investopedia",
+      "query": "\"Amazon.com\" stock",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "speculation"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Amazon hikes 2026 capex to $220 billion due to higher memory costs - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5YU3ZKX2xoamdmZWNkOE52VGdqb3VtQTFUTXl1S0hwdWFZNGlNTE1SMGNjZlR1MXpVN2lINkVwd1VoWEdkTGFmcFItRTlxVFIyUkhwYlJCM3l5T29aYjhUM0tRSjdYNGVZY3c5eHBqVTNpVmR4aEdSTXJtd1HSAYIBQVVfeXFMTVhaMjBSNjI0eXFRb3NsNUxJNzNlalZvUjRUQkpmSFNkMGJtUVVGS19PN1JLdWpmMEdJaVVvR1B4S1dDN0NUM3dpcWRqdmxiZjdDakUzblV0TmU2QVI0UzRWNldDS3F0MC1DWGU2MUEydXV5c0lYYWI5bFA3WlJoSFhSZw?oc=5",
+      "published": "2026-07-30T07:00:00+00:00",
+      "publisher": "CNBC",
+      "summary": "Amazon hikes 2026 capex to $220 billion due to higher memory costs &nbsp;&nbsp; CNBC",
+      "query": "AMZN earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Amazon Stock Climbs With Earnings Due. Google And Microsoft Just Raised The Cloud Stakes. - Investor's Business Daily",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVjlxSjFHa0NGVmV0LU5UNmp0NXNvTU5GM0lCQWRneUVXbFJ3LVYtSVd0X05vZk1PSmRwWldyMWt0SkdSeEV1TEJVSFRKTnZpRWNGZUppXzNZSUlPazVpM2Y5eGlCekZWMUlBMnAzS0dRVGs0ZHBHdGdxMzZySGlOX0Y1VGhmV0xCNVRreS16WQ?oc=5",
+      "published": "2026-07-30T07:00:00+00:00",
+      "publisher": "Investor's Business Daily",
+      "summary": "Amazon Stock Climbs With Earnings Due. Google And Microsoft Just Raised The Cloud Stakes. &nbsp;&nbsp; Investor's Business Daily",
+      "query": "AMZN earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "mna"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "AWS is ‘booming,’ but Amazon’s free cash flow turns negative on record AI spending - GeekWire",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWW5BZ3pMMDVlX1p5WVl4RW9scXZGdk90X3hLb01SdGZmTkNMaE5PV2syajJiZ0hfb1hUQjh4Q1lxQWdtRmtGS2lpT2ttOW9ZRjY2eWJQdWVrQzV0d0U2bG9wNU1aMmxwVjVWUjNGOTN6ZW1MSW4xTXVjeHJpWVBuWTRmTF9GeGVKbTB5WElQUmdCdkFzN3d5Q2RFbHAtajVuaWVtMjZRV1JUc3pfUnc?oc=5",
+      "published": "2026-07-30T07:00:00+00:00",
+      "publisher": "GeekWire",
+      "summary": "AWS is ‘booming,’ but Amazon’s free cash flow turns negative on record AI spending &nbsp;&nbsp; GeekWire",
+      "query": "AMZN earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Amazon surges! Q2 cloud revenue exceeds expectations, but Q3 guidance falls short, free cash flow turns negative, and capital expenditures are raised | Earnings Insights - Moomoo",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVEx4cWtCb3EzMTdqbnM4MmhUS01aT0NWaDdVVDctNDdTMTZpWFpLVHV2UV8yNUtkSm13LWY5TTJtZ29IWlQ4N2xpeVUyV0xYd1gzeVQ0cG9WeWswMUZYVUlMRkE1QnNIdmRaR1BCWWx1ekplT2loN01LWkxXbldJdm0tLWZaM1JmSUhFTHNCVEhqeEREZk5hX2NNTXhzNlhKS2VZamIxWkZfUnBkOWc?oc=5",
+      "published": "2026-07-30T07:00:00+00:00",
+      "publisher": "Moomoo",
+      "summary": "Amazon surges! Q2 cloud revenue exceeds expectations, but Q3 guidance falls short, free cash flow turns negative, and capital expenditures are raised | Earnings Insights &nbsp;&nbsp; Moomoo",
+      "query": "AMZN earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "guidance"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Earnings call transcript: Amazon tops Q2 2026 estimates as AWS growth accelerates - Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNXy1jaktKR0I3dG1zSDJjc2lPU3hJb3A3djZac2UyOURGYUV0U0hOLWloVHlfUUI5Q1N4eGFkWFdKUmpfS3pfZHZhZjBzVDlYZTVPN3N2eUxoY2U4T3dzN2FZR3hFRjF5UFExYzIxUzlyNkdMZzkxQ0JWbjNNSEJpelB2a2szMGFQYTVVc25MdzhmOWpDU0U4OU1zMkdWYmd1VnNqbm9UVTFnelJELUVqckpWdDBaTG1PMTFDSGVPSlV3SWwtN3BIdzI0WkVmNS15Wnc?oc=5",
+      "published": "2026-07-30T07:00:00+00:00",
+      "publisher": "Investing.com",
+      "summary": "Earnings call transcript: Amazon tops Q2 2026 estimates as AWS growth accelerates &nbsp;&nbsp; Investing.com",
+      "query": "\"Amazon.com\" earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Amazon shares surge as cloud growth surges and spending outlook climbs - Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNaU0wQjdUV2pIdjhpdFdFWnJ1Zm9YM2xkY29oaDBhUUVMQ3I0bm1fS1NTOHVSRlJmQzVzX0NPbVdkOF9xOU5sczMxa2JCd1NNWnpGTjBSVFg2ZWpYMHVvanppejBUd1pPbmpfcjc1akpNRDE4aGcya09LdnhDRXRUekFfazdRS090alFrdHRnZDk3SzY2dWRVVGZpNV9sbkJrRTg4N1MzOW5QZGtGN244a3R4MFdYVXhPd0RTX2JXZFA?oc=5",
+      "published": "2026-07-30T07:00:00+00:00",
+      "publisher": "Investing.com",
+      "summary": "Amazon shares surge as cloud growth surges and spending outlook climbs &nbsp;&nbsp; Investing.com",
+      "query": "\"Amazon.com\" revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [
+        "guidance",
+        "capacity"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "What To Expect From Amazon’s (AMZN) Q2 Earnings - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdWVVbE1LNDVtZWVhZDdNLWhibmNuaTMwR0dmOXptTWZOWFY3cURtNGFHZVkyUFpKZjg3Y3FWQ29IdmJxTlBMZmVsMXdvNU9tVFRvaHFDb014bE53M3pXYnlvMnBWY2dCQ2dITnJsWVFwNjBWbzRNVzFCZno0dHFoVWc5T3BaQlkwRVNoajlRR0R0Zy1WeVlFVEttYw?oc=5",
+      "published": "2026-07-29T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "What To Expect From Amazon’s (AMZN) Q2 Earnings &nbsp;&nbsp; Yahoo Finance",
+      "query": "AMZN earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Amazon identifies North Korean hacker group behind open-source supply chain attacks | Amazon Web Services - Amazon Web Services (AWS)",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOOHhPTDVHTlBnMnlSMl9iVHhxNlRFdFlCMFhFc1RNdFZNYkZoWFRsSmxaUl8zdDFsbE5aTFJrMVA3NFJvZXh4ZFotT05iYUNCMVlnMnFZQ29jTDJBX3dyVTlLcUpLcE04Vko1d0hmUHNOaV9xLVlUS0s0bkg3TFQyUXl3cmtGUEE0T0w3U3VkQ0FQWGxzZWdwaXR2cHlKZURsUHhwVExBRGh4MDliVURPR2lyNXg2S0p4cUZGbi1SVQ?oc=5",
+      "published": "2026-07-29T07:00:00+00:00",
+      "publisher": "Amazon Web Services (AWS)",
+      "summary": "Amazon identifies North Korean hacker group behind open-source supply chain attacks | Amazon Web Services &nbsp;&nbsp; Amazon Web Services (AWS)",
+      "query": "AMZN capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity",
+        "demand"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Amazon.com Stock: Analyst Estimates & Ratings - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTUhGWEhYclRzblNaSW1oR3dlNHk1aWFyUTZTVWRvWnRBeGlzSXZINnUyTndHWmkxeGdkQTRCaFgwamY1QnYyNmRhWDM3RWFYekppb2VjYUctQVI1Q2s2ZTk5YlpUOXV0WjdXQXZSYVg4bEFhaVNJR3pWZlJfcG9Bd3I3eTliRWpfVXA2SWJPT0YzLUh2NHdkdERxakUzZDVB?oc=5",
+      "published": "2026-07-28T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Amazon.com Stock: Analyst Estimates & Ratings &nbsp;&nbsp; Yahoo Finance",
+      "query": "\"Amazon.com\" stock",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Less Amazon, more profit: UPS raises forecast after cutting millions of lower-yield deliveries - GeekWire",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPakxaTWM4ZllCMWVqN1kyRzZidmdkX251TmJaZ2dYRWJHdndpdjNQY3ZuclZ3aHJtTVZqUFZtWEcxem9sSV9fUXY4UkFMSDRTTjZWVExBaTFOTHpYNWJURmRmdWVyaVFDdkdXNVdRYW4zWmZibnppYVdCWE9vc2dyMU9fZE0xQnBjaFlyTHlRcE02RmlMOEdsenpPTjZSWUpKNElrN0lTTGl5aG9BYWVSNkNkYTRpYWwzeElXZWFtS1E?oc=5",
+      "published": "2026-07-28T07:00:00+00:00",
+      "publisher": "GeekWire",
+      "summary": "Less Amazon, more profit: UPS raises forecast after cutting millions of lower-yield deliveries &nbsp;&nbsp; GeekWire",
+      "query": "AMZN revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "guidance",
+        "macro"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Kroger and Albertsons continue to see their market share contract - Grocery Dive",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOblIyOUc3czVqd2tfQkZ5NVJ5d0NGU1hBdkE4YllPZk9BSXdBWWxfUllzWVpIRHJJQVRsWThmbExmRG9pLUZMeDI0Ym04QmY4N0szQ0pHclM3NjBHaGlOWUhBNnhWckdvLXE0dDRsQXR1T1RKZ0lDYUxHZXlONTVZRWM0UnRwZmdaMk9wQW5Nd2JGYUUyQjUxaGFzREZZLXM?oc=5",
+      "published": "2026-07-28T07:00:00+00:00",
+      "publisher": "Grocery Dive",
+      "summary": "Kroger and Albertsons continue to see their market share contract &nbsp;&nbsp; Grocery Dive",
+      "query": "AMZN competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [
+        "demand"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Amazon to add supply chain facilities in New York, Texas - Supply Chain Dive",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdWZWelVVcXZpclBYOFphbjZ4SW1HOWpyYVlqR3VqSFJlX3kzVzAxWnFGekFNdFpDaVdOcXhqRWI0YXV1YmcwWnBpTmJHajBxTDhqRWlZTG0wTXZhRXZHN3dnZzZ1UUlDUExpeVVRd0x0WmdncWoyRC1ac3NIbUFFRXBXZnBuempacmRfNm9VTk1nNHEtYmZRM3YyNEpoTWVCSkE?oc=5",
+      "published": "2026-07-28T07:00:00+00:00",
+      "publisher": "Supply Chain Dive",
+      "summary": "Amazon to add supply chain facilities in New York, Texas &nbsp;&nbsp; Supply Chain Dive",
+      "query": "AMZN capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity",
+        "demand"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Going Into Earnings, Is Amazon Stock a Buy, a Sell, or Fairly Valued? - Morningstar",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcHpkaFJraEZqbkJKSGJkZ2FuNGtLTXdnWWQ0OXNHSmpzV29qQjkxUjBSRmdkNWRSOUE1Z2ZoZ0RrbzZrRlVZLS1penVRRWtzc3Q3ZjFyXzVxM2gzSlVpQ0ZsN1Nrekh5SFBwRjBBdkI4N1I2RUttRGFXcTBCQUw5ZS1hVmtzNWp0TEhkVE1NTUlqMTg3TG5BWTctMHByc3dtRnd5cUt3d0FjMGs?oc=5",
+      "published": "2026-07-27T07:00:00+00:00",
+      "publisher": "Morningstar",
+      "summary": "Going Into Earnings, Is Amazon Stock a Buy, a Sell, or Fairly Valued? &nbsp;&nbsp; Morningstar",
+      "query": "AMZN stock",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Amazon.com's Next Earnings Report on July 30 Could Sink the Stock. Here's Why. - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSGlwQVhXYlhDRm4xeERkcjFyeURYdVEwMEpFV25hYmo2UkNLUkNaZV9vMjh0TDExNnF1SVdrdXNjUHhqc0NrVjdVSlh0TmI4QW9YUjViU183MWYzaE5xVlUwY0dBT2dBTTR4bVZUc09oLWgzVl9PbFR6bHlrVFRSb1VjOGZNeDlIQVpDcm1KZGhaVHl3TFFwOE42Tkdqd18zV3RlOFNHM1lqQjlzLVVQSWlWNGFUS1AwNGc?oc=5",
+      "published": "2026-07-27T07:00:00+00:00",
+      "publisher": "The Motley Fool",
+      "summary": "Amazon.com's Next Earnings Report on July 30 Could Sink the Stock. Here's Why. &nbsp;&nbsp; The Motley Fool",
+      "query": "\"Amazon.com\" stock",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "speculation"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Amazon Earnings Preview: Is Wall Street's AWS Bar Set Too Low? - tastylive",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNDFsenJYMHVIN2kxNUxkaG5YeVJiWHMyQmpNZ1lySkNaUlloUEpCbld2aHI3UmZmRFREN3FudHlHWndob2VNLWptbXRyNEY0QXdITTNpTWFQX3piRUdnWElqclQtdUQ5Q1I2Z3hsY09OWHJOMzhhSWJzN3pSWVpqWUNJcnl1TnNqQngzMkFRbWJua2RiZFlOb0NDcmdscUpWbkFv?oc=5",
+      "published": "2026-07-27T07:00:00+00:00",
+      "publisher": "tastylive",
+      "summary": "Amazon Earnings Preview: Is Wall Street's AWS Bar Set Too Low? &nbsp;&nbsp; tastylive",
+      "query": "AMZN earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "analyst"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Time is running out to claim cash in Amazon FTC settlement - usatoday.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOU05vMjRYczBiWGJBSW5Najlpb25vRUlzVmxFY0JpNGFSQTVOelNOVDlHc2VjcHh4MWY1bTlncWF3VGpXTDY5c2NlVjh1aUU5bUJ2S0syanZweE5MbEIyNDFRdVpMNGZjOTdUWU5XcEZ4T3lvR1BEOFVDNkpuel81WW9UYjlyWDRNaFdlLTNMRkxkTUctSUY1ajB2dXgzTDBFZENXMEsxRllnVjhXUGtpMVNvYw?oc=5",
+      "published": "2026-07-27T07:00:00+00:00",
+      "publisher": "usatoday.com",
+      "summary": "Time is running out to claim cash in Amazon FTC settlement &nbsp;&nbsp; usatoday.com",
+      "query": "\"Amazon.com\" lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Ahead of Amazon Earnings, Here's What Barchart Data Says Comes Next for AMZN Stock - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRndUeWpyTGRXQUxocVNoNS1MektDeW5RSktiaHh0QThLdXdSaFUzbXhtOVBpREg5Q05VdGVBNHlmSHNVQ2htc1p0SHQwM3RBcWlEWmx4MzVSU3Fyc0Q5Wk9QZG9HSVlJNTUtR0tNampQVUgyTnBQYWFRVW1NMkEyR3YxNXR0MjNkZTkzaUlLQUtnMm1Pa3dkX25nYVFzSmkzTGtr?oc=5",
+      "published": "2026-07-24T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Ahead of Amazon Earnings, Here's What Barchart Data Says Comes Next for AMZN Stock &nbsp;&nbsp; Yahoo Finance",
+      "query": "AMZN stock",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Amazon Shares Face Pre-Market Pressure Ahead of Q2 Earnings - TradingPedia",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWk83WTliZWpRczQ2QU10MHR3QWFKV3F3X2toaHlnWUVGZkwzZV9oQkdwaGRZS2xtbkVqOTc2YTBfaUdudlo2SzlmdmNJejE1N21IdmVUMDhTdGExd2JCellPMXJZSVRhSDNidjhmbENSMm9Nb3JHRDBlSEhYcURmdklZY0lDMXQ0WlBhUi1Nc3BqaTFIN25mcWV5M1hyU0ViT2c?oc=5",
+      "published": "2026-07-23T07:00:00+00:00",
+      "publisher": "TradingPedia",
+      "summary": "Amazon Shares Face Pre-Market Pressure Ahead of Q2 Earnings &nbsp;&nbsp; TradingPedia",
+      "query": "AMZN competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "AMZN Stock Drops For Second Day — Amazon Reportedly Cuts Jobs In Artificial General Intelligence Unit Amid Strategic Realignment - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQeHJDZHZaWnVGU1pNVTZUSlh2ODZycEFQMU9PaXdVUXA2XzJCZnpfNGU4SG43a0k4VC1QSkVYRlFRRDlMUjFiMU9xUVhjbXRucS1CZW5tWUUtM0dkTUstaVRsOGRBS0JtU0N4ekJVMVVQVV85bzI3NTBFQ3Bxc2NJaFRxdkMwMFAwSWh1bGtqNlZmTmtuZmc?oc=5",
+      "published": "2026-07-22T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "AMZN Stock Drops For Second Day — Amazon Reportedly Cuts Jobs In Artificial General Intelligence Unit Amid Strategic Realignment &nbsp;&nbsp; Yahoo Finance",
+      "query": "AMZN stock",
+      "source_api": "google_news_rss",
+      "tags": [
+        "price_move"
+      ],
+      "lean": "negative"
+    },
+    {
+      "title": "What's Going on With Amazon Stock Wednesday? - Amazon.com (NASDAQ:AMZN) - Benzinga",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOX1NaV3plbW45bFViNGw0RVBBUWF2N2FYMTd3WHNIMkJjVDFkWWtIZVRiSHdRYllIbVpiS2RyS1liaW5QV2RkaVlGNXluclBieU0wRlktQ0hfcTdmemd2aEx6LXVhNlpqUWRRWDUwVUlydTJqOVR5WHBueVpzcDJZbktDdVlVeGlGRVYwMnFLUzU5a2ZDaTJJSHVwVU13NHpMVnUtRmVoQURpYjRBdzk0LWI5djBBRkljWWpmUHZFYWt1R01fTkZz?oc=5",
+      "published": "2026-07-22T07:00:00+00:00",
+      "publisher": "Benzinga",
+      "summary": "What's Going on With Amazon Stock Wednesday? - Amazon.com (NASDAQ:AMZN) &nbsp;&nbsp; Benzinga",
+      "query": "\"Amazon.com\" revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Amazon Literary Partnership Announces 2026 Grant Recipients - About Amazon",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOLXB0a20tOXR5RGtoX0JxcG9GdklvTHVORWU4SGlWa29zYS1BMHNsdjlOYm8yMUJRVGZZSFFCNk9QaGVXUWlNTk5NVVlqTXJKSUtKWXowRjFxOUhyN2FjUXcya0o0N2NmWjM4Z3ZteGh1eDB3VFpYX2xNTXdRd2hZMnlvaHRKbFBZdWg1WnFWUTJvWlFqUHRweDFNTnVCd0YwVVRTSmFDX2dDdHZtajhwZUVuemg?oc=5",
+      "published": "2026-07-22T07:00:00+00:00",
+      "publisher": "About Amazon",
+      "summary": "Amazon Literary Partnership Announces 2026 Grant Recipients &nbsp;&nbsp; About Amazon",
+      "query": "AMZN acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "product",
+        "demand"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Wells Fargo Lifts PT on Amazon.com (AMZN) Stock - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQLWVMdFVNRno3OGpnNHNoNFduNDdzQ0VLbW1XY09VNEctYzNHdVB3M2NfbHBiWWdlOGNTWUtfdG1EXy11QUZoYURKek1jYWJBR2lvb2F4OERfR1pqTVJaSi05OE8yYmxzZGFvSUpZbHpYUVZNU0xnOHo5M09WNks5ZVJaTGxaTFAtUG11WnlaclJrdjV1NlU4?oc=5",
+      "published": "2026-07-14T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Wells Fargo Lifts PT on Amazon.com (AMZN) Stock &nbsp;&nbsp; Yahoo Finance",
+      "query": "\"Amazon.com\" stock",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Jim Cramer Shares Take On Amazon.com, Inc. (AMZN) & AI - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNaWRBSEIwcEpTODN5blhFZjY4d05BQUdzN2dsaHpXRzN1M2ZFSGJ0eVRVUk1qdjgwUzgyS01oaHRvZ3d0X0pLZnpzeXM3VFNidG1wRnhGSkoxQ2Y1WEotdDNTUndSSWY1bzczX2NLQlc1T3JFSmY0UndXUUdVNHpuX2l4a1lfMzlVYXU4OE5ndW5tYklzdVZubw?oc=5",
+      "published": "2026-07-14T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Jim Cramer Shares Take On Amazon.com, Inc. (AMZN) & AI &nbsp;&nbsp; Yahoo Finance",
+      "query": "\"Amazon.com\" stock",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Coresight: Walmart, Amazon cross major market-share milestone - Chain Store Age",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSWZhYUJWT2REV29SS3RzSHFvMEY2R05CeERKQmhCb29jckRjSUdaaUxjTEgxeFZSbHl4bDVpemN5M0pQaU9IQndQSmcwa1oyUEVCZjJfbkpqV2tIUnVYdjhuSVl1b1BYRzZibHpoMUhzM0UtNGVlZzR2QWFrZmdYNEdZSmViTVNDeXBZR1h3?oc=5",
+      "published": "2026-07-14T07:00:00+00:00",
+      "publisher": "Chain Store Age",
+      "summary": "Coresight: Walmart, Amazon cross major market-share milestone &nbsp;&nbsp; Chain Store Age",
+      "query": "AMZN competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Jim Cramer Reveals Reason Behind Amazon.com, Inc. (AMZN)’s Share Price Movement - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUFQxdHdMdFhaSW42akxrYnBOM3VIR1JWQUpJQlN3a3I1S3cxOVNWbWlJUThfbEx1VWNZSm9xa3pOSUVjTUpCUVFjcnIwZUc2RWdUOFQwd3pVcEpqaFFsSUMxUWVNSm05TWdzOERiV0dlU2ZRODVUS3MtWmVLa2xUR2JhaUxLbkZVOFRRaEZGQmE1OXhkZnF3YVRvZzZqQQ?oc=5",
+      "published": "2026-07-11T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Jim Cramer Reveals Reason Behind Amazon.com, Inc. (AMZN)’s Share Price Movement &nbsp;&nbsp; Yahoo Finance",
+      "query": "\"Amazon.com\" stock",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Price Prediction: Amazon Stock Will End The Year at This Price - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUVpIZHVTQjBwMzJ1X2lSM25aUUtzdG9mcFprQ3Y3c01nMjRSMGUwOGZXMDI2Rk56d2ZJUENNZ2dxODRVYU1Hc2NERGk0eHR4VjNGbzlUS1IwOTZsbFlvR0hPazdrN1VjN2FBMVNwQlJBd2FUUGk2STg4SzlZYlpQa0d1UFlFZ05zRnNPRG5WanlRbzFRMEpSdmUwVjNUREk?oc=5",
+      "published": "2026-07-10T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Price Prediction: Amazon Stock Will End The Year at This Price &nbsp;&nbsp; Yahoo Finance",
+      "query": "AMZN analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [
+        "speculation"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Here's What to Expect From Amazon.com's Next Earnings Report - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPaTY3QUlpenpialBUVFpNWkxTTE9KcEc5VEFQWkRZQU9aelJ3U1pkU0luVHlWNDYxWXBsWnNwVDVnMXdpYnJjXzk5R0NySWVIVERLcks1UUZRbjdLY2Nub2lwM3lmdUEyaHhmUF82dUFxOC1LRHRTUW1KbDhzQVk1UVM5TGdSUHR0Nm5aNmY2SHhRX3lZRGFPb3Nn?oc=5",
+      "published": "2026-07-09T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Here's What to Expect From Amazon.com's Next Earnings Report &nbsp;&nbsp; Yahoo Finance",
+      "query": "\"Amazon.com\" earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "BofA Raises its Price Target on Amazon.com (AMZN) - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUTZsWExPbWxmam15b1d4RGVJSUtDSXFKMnF1LUNBZzk1THpza09pWnZTcjBwUlk5N2NPelRyQlVaMmw5cUpGTDBHeklSZVVDYzhLd0RQdTJvNjRwOTQ5WGpiRHJhMV9KWHozRXpoSHJUVF9YaTlfU1l4YWxRU1lMejNQZEk3WllNQlYxMHIxRS1mV21XVEoxVzhTVU0?oc=5",
+      "published": "2026-07-09T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "BofA Raises its Price Target on Amazon.com (AMZN) &nbsp;&nbsp; Yahoo Finance",
+      "query": "AMZN analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [
+        "guidance",
+        "analyst"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Amazon (AMZN) Laps the Stock Market: Here's Why - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTlFDU3Fyd25xNE1hQjgtWXdLcV9fMVE5WEEySXkyaDN2UDhmX091NFRTamd1cDlnVlRkd2RNLVhhOEFRSGsxMnd0MHlXdWQ1Q2h4LUgzVUpCeUZSMDZ3N29JRzdIdFdtMDU2NHU1YzRnd0lQQmF2cXloVFlmN05iSkFjWlZVOUpwbUZRUTQ4V2V3MXdZYW43Q21R?oc=5",
+      "published": "2026-07-09T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Amazon (AMZN) Laps the Stock Market: Here's Why &nbsp;&nbsp; Yahoo Finance",
+      "query": "AMZN competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [
+        "speculation"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Supply chain startup Auger, led by ex-Amazon operations chief, raises $50M and lands big customers - GeekWire",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOeXRzU1UyUWRobl9TczBLSVJSbFZLQmpqd21MQjkwVjR0SS1qYU5XaXBfNEF2TjhveF9uWV9CVDJKcTZKUFFtcHFNbmJnbzRvb0c1UlVBcURQZkJPODZ3cGVhRWRvS001T2tsd0VzX0xNZjdzZ2NIa2N5NDR6Q0FiYkV2MUctNzEwR1QyZVF3cXhHYnBSNmczZTdKQTlZQzJiU1lfcjhyLWNzeGdhVEwyLWtQRWFCcDE4akd0SnNNaHBDRWJy?oc=5",
+      "published": "2026-07-09T07:00:00+00:00",
+      "publisher": "GeekWire",
+      "summary": "Supply chain startup Auger, led by ex-Amazon operations chief, raises $50M and lands big customers &nbsp;&nbsp; GeekWire",
+      "query": "AMZN capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "guidance",
+        "capacity",
+        "demand"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Amazon Shipping looks to snag FedEx, UPS customers with low pricing - Supply Chain Dive",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZmN2NmlzbjBnUTRwRW1leVhfenlnMktBT3Jfb2NSa3ZDX2JTR09iY0dMT3VnVmlZdFJUMVpiN1lpZjFYMEVhNGxobXM1RVhHSjZGTldDTXB4U3UzeDFDNVBReUVoY19pd1pVcG82NzVpdmI1YUx6TmRfSldjTlExLTQycWVpQXNXR1JwOThialNwa0pYbnk0SlZTcE1Tc0RTT1kxWWRTWlIyejZTeTQ5MA?oc=5",
+      "published": "2026-07-09T07:00:00+00:00",
+      "publisher": "Supply Chain Dive",
+      "summary": "Amazon Shipping looks to snag FedEx, UPS customers with low pricing &nbsp;&nbsp; Supply Chain Dive",
+      "query": "AMZN capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity",
+        "demand",
+        "macro"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Amazon to pay $2.25M over alleged Fair Credit Reporting Act violations - topclassactions.com",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNUnZkeXJabFdETW9oZEtVTnNZaGs2U1hqM3doMVRQLWJWLU5SaUVjTWNZU1JNN3Y5cEFIc19BWE1NX3JPZHJXVXg1R25KbUlZdmtFekVmazI3RUdNWVNzNUtiRFF1S3BuTnVkR0FPekdCbUduaV9WR0NzUjdncmwyVGItcEhuMXlpRUcyVG1FbUtlckJVc2pqcGsybUJaSXFpMnVJeUlSOE92dHBkZ0Faai1rcS13b3hKOVhsUUZUbklWclZEZDB4VWxUQQ?oc=5",
+      "published": "2026-07-08T07:00:00+00:00",
+      "publisher": "topclassactions.com",
+      "summary": "Amazon to pay $2.25M over alleged Fair Credit Reporting Act violations &nbsp;&nbsp; topclassactions.com",
+      "query": "\"Amazon.com\" lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Amazon Price Prediction: The Stock Will Trade at $300 on This Date - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMWhmenktUHVveXRZNzV0VS1nTnhLNDltejFhMVlwczVWampuX0FZajFFSVdKWDFYYmRFYTdOMGQxUTNIUFlIbGhwUUhncEtJS2g3Vlo4QVpaVmVUejAtRjlselBnWlVZVWhmTENaTDZ2eDBsOE94RnVKaHBkaENUN1pMeDNaYXNSQjZ5SDB5V2g0SnpBTTNNRFJzZEZILTJyd2c?oc=5",
+      "published": "2026-07-02T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Amazon Price Prediction: The Stock Will Trade at $300 on This Date &nbsp;&nbsp; Yahoo Finance",
+      "query": "AMZN analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [
+        "speculation"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Jeff Bezos’ Amazon May Hit Historic Milestone No Company Has Reached, Says Analyst: 'Has One Of The Most Important…' - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQ291ZUFfY3I5UUQybWhzaFdQM2RkM0IxYXU2Qk1SY0ZnNEc0VGNTc2pCQmpXZWV0UWpkRU5BVENVejZHVzl0RVAybVRMLUxaZGpaSFhaYVFRMl9qUnRkVXB6dkhYa183QThaT19HalprNzdYSFlrdUREdVp3Q1pld0lTOUZ5a19PRzdEcG1EczBsWFB6?oc=5",
+      "published": "2026-06-30T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Jeff Bezos’ Amazon May Hit Historic Milestone No Company Has Reached, Says Analyst: 'Has One Of The Most Important…' &nbsp;&nbsp; Yahoo Finance",
+      "query": "\"Amazon.com\" revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Amazon: Market's Skepticism Creates A Massive Mispricing (NASDAQ:AMZN) - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNYXBmWWdLQjlzZzRyYWNYN3RQWW11TVdzeE13dGVJOXhCcDFZUHlfd3UtVTR4SVBkUEFzd3d4Z3VTbHBSWWd0cDhYMXpDaktvUVN3VmJTWGtCZm1IZkIwTkQzclUxTUVCZl9zN3lTZVlkVkVqLUh2eFI5eHg4aUVtbWdVbkpPU2g4SUhwNU1HVV9UOUtwLV9ZVGhHSQ?oc=5",
+      "published": "2026-06-29T07:00:00+00:00",
+      "publisher": "Seeking Alpha",
+      "summary": "Amazon: Market's Skepticism Creates A Massive Mispricing (NASDAQ:AMZN) &nbsp;&nbsp; Seeking Alpha",
+      "query": "\"Amazon.com\" competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Amazon.com (AMZN) Partners With Nokia, Here’s What You Need to Know - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOOTJkUjJBZloxVlc0ZlRjbWtlaHhPdi1feEVtdjl1bFA5emNreFUydG1WcHNTcXRlQUNjMEZ0QURqUWExdzNvR09NR0I4a1pkUm92aDVlSlpjVnlpSWtERUVnck1fMDhiaExiSkZsdjAyVktZR0JaNTNhYUFIajNTam9ZQmJabUhncFd6cFoxWlBGUW1PaWJVZ3R6WQ?oc=5",
+      "published": "2026-06-29T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Amazon.com (AMZN) Partners With Nokia, Here’s What You Need to Know &nbsp;&nbsp; Yahoo Finance",
+      "query": "\"Amazon.com\" acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "How Multi-Agent AI Turns Supply Chain Data into Decisions and Actions - Amazon Web Services (AWS)",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPN0tkTjZ5VXowZWszNlI2NUFXc3U2UnBLR0xZMG01dHZOT0N1bWl2Ymo3RVZNMkxaZGREQVd2NVEzZkx6akYwM18wdi1ydVNBRkhrTzRUbjQ5bkZjdThJaGtnRTZpNWlRQ3plU0R2eVkzMkV6NE45T0tIU3lCdUxXdkwtWmhUZVdPWnFPbWpvTU9BRUhoUUhDWmJpU0UxWFNtVlhUcEI3MUtxTFlaWE53?oc=5",
+      "published": "2026-06-21T07:00:00+00:00",
+      "publisher": "Amazon Web Services (AWS)",
+      "summary": "How Multi-Agent AI Turns Supply Chain Data into Decisions and Actions &nbsp;&nbsp; Amazon Web Services (AWS)",
+      "query": "AMZN capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity",
+        "demand"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Amazon (AMZN) Stock Gets Fair Value Bump As Analysts Weigh AWS And AI Spending - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSXBrdzQ1aXhmTzh4TTlQRVpiY0xpYWF0LUpDd2pob001MUZ5TFA2WHFhNTExMWJLS0VoMzFUVEtFNzM0SjhfMllLaXRLdS0tWlYzNzJCR0RpckRDbEU0U1hiZ1hHdm5TTTdpcGhrOFQxMzhYU0xLMEc3UDJuSjV3aVRhWGlVS1BLQ3lUNWJzUkRaWXhiOEdF?oc=5",
+      "published": "2026-06-19T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Amazon (AMZN) Stock Gets Fair Value Bump As Analysts Weigh AWS And AI Spending &nbsp;&nbsp; Yahoo Finance",
+      "query": "\"Amazon.com\" analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "SpaceX stock sinks for a second day as company slips below Amazon in market cap - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5mUGlsMXM2QVBHeEZJREFJZWtvalZOS3cyYVZvano3UGU2NWxCU3lFdXhKcG1XUzJ3ZzQ4SVAxRW9kcUEtVVVXYm1RVUc4UjFQS2hqZEVmOVJlR3VnbnNFa1hjUlhfQy0yQUhqRHlZZUpIbWZUSXFramxQONIBgAFBVV95cUxOS3ptaDdhdVQ2dmFWVlhqSklpS1d0WEl2ZWZSYlFiSDluMlU0MnBLU3EtREMxLTBuMlBIWWRNZG83S25lWmotNEZLYWQ2NTBjWDR4TlFrV2ZQSXJJaUpjQUpUUndxemptc05XdTFjY1FnSHFlX29yY0Vwb0ZUWnNJUw?oc=5",
+      "published": "2026-06-18T07:00:00+00:00",
+      "publisher": "CNBC",
+      "summary": "SpaceX stock sinks for a second day as company slips below Amazon in market cap &nbsp;&nbsp; CNBC",
+      "query": "AMZN competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [
+        "price_move"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Class action claims Amazon broke promises to keep prices low during tariff period - topclassactions.com",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNOFhmSlRYTkZOLUNPODZ0NWVkdUE5REhKT1B0NENLZXMwM2M3dHdNZTI1OGZMbjlKajRpMGdLN2lTUDEyTWFFSTBZa3dGZGQ5dll4R2dQWlU4cVA0Y1RzQVFrdUViNXMyRmRDUmNuekZMSjgwcEFNdVBJT2kxU3VMSGY4YWNDRURrRDFSLUZyM1RMRFNwdkhQTlJuU19IZmtldGtxM1ZoNUNDZmN5SWJIZU9pcmx0Z0thUWM1Y0V3ekVqRUZHVU44cWpuekpiUzE5R1RuV3dLTXZaR0k?oc=5",
+      "published": "2026-06-16T07:00:00+00:00",
+      "publisher": "topclassactions.com",
+      "summary": "Class action claims Amazon broke promises to keep prices low during tariff period &nbsp;&nbsp; topclassactions.com",
+      "query": "\"Amazon.com\" lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory",
+        "macro"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "SpaceX vaults past Amazon's market value as options listing fuels surge - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPOVZwN0o5M1pGaUUzdVk0ZmhBampsLUdVRU1wUWp1STZvNmhJREg3MFpHWTc4VGhYZXdSUDJOVi0xV19uOHJ2YmxEWkNHV0hxbVB5SFpNS0JJSWxkcG80NTZzRkRqUldDa3BjQVZ3aTgyakpwNVE3V1k3UFFiN1lJb0FPY3VmX3lKRmNFT2xnUF92Z1I3WlphZmNaZDlvMTJBTmRjYW9xVy1JdldRQUhfQ3RVNkJwQzg5aF9qTkVVcWxLakxVNXpZbE5MRQ?oc=5",
+      "published": "2026-06-16T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "SpaceX vaults past Amazon's market value as options listing fuels surge &nbsp;&nbsp; Yahoo Finance",
+      "query": "AMZN competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "positive"
+    },
+    {
+      "title": "SpaceX just surpassed Amazon’s market cap, overtaking the 31-year-old company on day three of public trading - fortune.com",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZTBEYkduLWJZS3VxeDM0SVotM0ZOQXlfendBelU1QkZCMjdWa2VmblFITGstdzZxTmYxWnc0LUQyVkU2eHh5V3NBMXdfbnVWV3ZhYjZkb2c1S1BqVFIxZmdzbGVyWkQ5NW8welRCeG1BMmpwSWRIazRPZUxibFVrenFVSlJfWFNUeVE?oc=5",
+      "published": "2026-06-16T07:00:00+00:00",
+      "publisher": "fortune.com",
+      "summary": "SpaceX just surpassed Amazon’s market cap, overtaking the 31-year-old company on day three of public trading &nbsp;&nbsp; fortune.com",
+      "query": "AMZN competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Amazon Has Fallen 13% From Its High. Is 2026 the Turning Point? - TIKR.com",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOX01LaXRJdVAycThNLUVERUJtMHFadUYxSGhGbm5JTDBaMWpySjFqaXJZTmJ3dER4TFNSZzJMV1FVbDVBS2Nnc0tIaF9xVmhoVzRhRmJEU0JGeU16aXFtUHRBZkVWcEdPNUQ4RGpCcElfcUVNZk5kNnBRbF93LW5xTTEtWTZHRDBWejYxanJ4RQ?oc=5",
+      "published": "2026-06-14T07:00:00+00:00",
+      "publisher": "TIKR.com",
+      "summary": "Amazon Has Fallen 13% From Its High. Is 2026 the Turning Point? &nbsp;&nbsp; TIKR.com",
+      "query": "AMZN revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Amazon.com Inc. (AMZN) Buy Rating Reiterated by BofA Securities - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNX1hMbTlreFM0WEtpbVNhdnRvNmVudG9KUVUtYWxobWRNeEhDcTF4bGJoZ0FWbzVmckxEOGV6RkVRR3F4bzExMVRrWDhRLWdRb2tiSml3NnlhcXNnNTRfNkVYUGFZT19sWjVpVEFYZXVqc1lMX0VPZmdiUmJDSFd2Q1VRMWNPcnVKa1JFTkhkZGVrQQ?oc=5",
+      "published": "2026-06-09T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Amazon.com Inc. (AMZN) Buy Rating Reiterated by BofA Securities &nbsp;&nbsp; Yahoo Finance",
+      "query": "\"Amazon.com\" analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [
+        "analyst"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Assessing Amazon.com (AMZN) Valuation After Recent Share Price Pullback And Long Term Return Strength - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMmVBNVA4TldvcFhsM0l0Q2JaNFVJbzQtcVhjYUE5TXhYd1dJM25WTmJmQ0JhWTBWWXZHUzdHbjhiMVBCWFQ2eWlQelQxTThwcHZ0SS1WaVJmczB2RkFab18zdF9EaXBSX0NXMV84V2pGcWdYRlJZXy1kaVhLWHFkN2g0X1JJVlRVRXlCMVR5ZTg1Uk1hQldXNmFJRG12UERiNGc?oc=5",
+      "published": "2026-06-09T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Assessing Amazon.com (AMZN) Valuation After Recent Share Price Pullback And Long Term Return Strength &nbsp;&nbsp; Yahoo Finance",
+      "query": "\"Amazon.com\" competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Pinterest deepens Amazon partnership with $4 billion cloud deal - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNekkyUG52N1ZxMVNaWWNqWVRkbUJubm5pUklIeFJtN1g0WndxRk1MZTBRRWlHQ1RERWUyM3UzLXJVWjFTc1EwNFZrVHlPT3F4aVhPTHd1aWFIbUhrc01YVzdoZXRXTDVPUGxIWXdRV3ZaTkpxaTh0NmMzRG01TXlQdUxXVWhsZ2YxdjlfbGZjREZTbjRoSUlQNFJrZjJlVkp4MUpEVldCOEJUTzgzNTY2ajJCOA?oc=5",
+      "published": "2026-06-04T07:00:00+00:00",
+      "publisher": "Reuters",
+      "summary": "Pinterest deepens Amazon partnership with $4 billion cloud deal &nbsp;&nbsp; Reuters",
+      "query": "\"Amazon.com\" acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "demand"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Why is Amazon stock sliding today? - Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRThCRDZ4RUhhck53b0QwNmFpSW05Uks4MmEwQXVOblRkMGp1WERJekRtWEFvemVOR1BpQzBRZWNlallOMllXMXZxYk1wRGtvYjZmakQ0ODZndER5RHU5LWNfbFhmbXhYbnJkeEpkaFFCQ01NeEppb2FuWGFCLWN2dTRZN2JZOHBYdlR3VnBQeGVPQnRaU1ZjTWFIZw?oc=5",
+      "published": "2026-06-03T07:00:00+00:00",
+      "publisher": "Investing.com",
+      "summary": "Why is Amazon stock sliding today? &nbsp;&nbsp; Investing.com",
+      "query": "\"Amazon.com\" competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Amazon.com Inc Stock (AMZN) Moved Down by 3.09% on Jun 3: A Full Analysis - TradingKey",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPYkxrVGxUOGVMYWpadk1Eejk3ZktCUDV3MERfNEd2bXQ3Y1lkZElFSVVJQVRvalJTbm9pRXJoNzZkYklfaHlUeWR3TVFRUDNSTGpfbU9sZTZQYVEzS2NZOEcxbmNJM1pNMEstWmdWMDB1czl6ZmtlWlF4RXJTSWE4eE1URlJwbzZfMDcw?oc=5",
+      "published": "2026-06-03T07:00:00+00:00",
+      "publisher": "TradingKey",
+      "summary": "Amazon.com Inc Stock (AMZN) Moved Down by 3.09% on Jun 3: A Full Analysis &nbsp;&nbsp; TradingKey",
+      "query": "\"Amazon.com\" competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Wolfe Research Reaffirms Outperform on Amazon (AMZN), Notes Potential for Supply Chain Growth - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVUo0c0pxcktCMGlpbXB5alJVMHFTM0JGZVRiZjVjMHVoYUg3ZXpBUHZQQmpZdnU5M283amhBSWhSTWRhWTg2djhJZVV6aTZvWnZzNHpEbU5jeW1nLWtFaEtPdFMtNVZGU2QzWU5fSk1hbHdCeERlQUEtSEg4YnJQTS1rM2trUDVseTMweU1XeVBEWVdnejNIelpVTmxWQkJhcHZvVi02NHNmVzg?oc=5",
+      "published": "2026-06-03T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Wolfe Research Reaffirms Outperform on Amazon (AMZN), Notes Potential for Supply Chain Growth &nbsp;&nbsp; Yahoo Finance",
+      "query": "AMZN capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "guidance",
+        "capacity",
+        "demand"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Amazon Faces Data Scrutiny While Shares Trade Below Analyst Valuation Targets - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPYnVnaDVxdVg5Q0t0UlEzbGJwb2RNU1NXM2F2ZmNsektUUWRLenYwTVFpSW5qbGUxbUFyY29XcGw4Zm5FUV9seExTTG9USmYyZkYwaDNycWhPdFJnY1dLel9vTnM1QnI5MFh6eDduWTV6RVU0b09YOVBjRnRUcUZEUk5EUmpGN3lXbUZtUWs2SU9nSE5WdUhoYVJpY3pDZw?oc=5",
+      "published": "2026-06-02T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Amazon Faces Data Scrutiny While Shares Trade Below Analyst Valuation Targets &nbsp;&nbsp; Yahoo Finance",
+      "query": "\"Amazon.com\" analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Judge certifies class in Amazon class action alleging high third-party prices - Claim Depot",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdTRqZ3B0clJKcGdCbXpYOENxZ0YtTUxkNFEwTDZQRFMyMHpjem9MVEltLU5xTWNqTmMtdTlGYzdwNW9fU0ZCenhhSndmT19ucWNkcUlraU9ETHVhUFZhNk56ZEdFOTRDV0V3WFlMN3d0ZGs0TUlMblBiVGdtWDhQbndBMEM3d1RpM2J1SFdYd2xFeFRGeVRqdUx1UXJLOGlFMXJVMmxsNmRQeVZRT3dCbGg1VFdOR09CbnRXb2lodGNpdw?oc=5",
+      "published": "2026-06-02T07:00:00+00:00",
+      "publisher": "Claim Depot",
+      "summary": "Judge certifies class in Amazon class action alleging high third-party prices &nbsp;&nbsp; Claim Depot",
+      "query": "\"Amazon.com\" lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Amazon.com (AMZN): The Best Data Center Stock with Huge Upside Potential - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSUxKU2FFa2NtZUxmS0tqYnVRMTNYbWhCY0tiUlI5WEUyaDkyakJUZmxtT3NGMU1UUEg1Zm40S3NYSVFqYnpmYTlkaFFpc1NXRFNqQkJwZnNzR3JyanRaZjRmQzlsN2pNeFctQlFfbmpFczlsY2UxNzN6T3JjUmc1cFRUaGQ5YjFGYWUxMGxyTVNLM2g1?oc=5",
+      "published": "2026-05-31T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Amazon.com (AMZN): The Best Data Center Stock with Huge Upside Potential &nbsp;&nbsp; Yahoo Finance",
+      "query": "\"Amazon.com\" analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity",
+        "speculation"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Amazon stock forecast: Q1 2026 earnings - Capital.com",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5DMThMcE0xYmhWNjV2VEJpa3dtTzdJUVFaWlRaamktTGJ5MUxpaG5ZYWg5U3l0LThPd2t4UEdUZ2xfaFZpUm10c20yVXMwOEdnakJDVXBBcDkxNlhHZW0tNDVlSS1lZ0UwV1NCbzYzV2VQX3RNMnhaYnhaa3dxWjQ?oc=5",
+      "published": "2026-05-28T07:00:00+00:00",
+      "publisher": "Capital.com",
+      "summary": "Amazon stock forecast: Q1 2026 earnings &nbsp;&nbsp; Capital.com",
+      "query": "AMZN revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "guidance",
+        "speculation"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Is Amazon.com (AMZN) the Best Strong Buy Stock to Buy and Hold for the Next 5 Years? - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZ2ZTN25jODZVYURQaU91U3lDNGM1TTFTcHZHSVlZaFhPOFlhVkpURE0zcUpGTkVyRUx5UGs3Nk1lNjVrNU5RclBDQ2tWNk9ZN0x1Z2I5YVhIbTJqYlhJZ1F1SmJqQ0FqaFV2Y3VFaG5sRTQ5NFJRSFI4X0x3c3dGdnJQQkd0WXZkRVZkbWw5Y181OWdMQURJ?oc=5",
+      "published": "2026-05-28T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Is Amazon.com (AMZN) the Best Strong Buy Stock to Buy and Hold for the Next 5 Years? &nbsp;&nbsp; Yahoo Finance",
+      "query": "\"Amazon.com\" analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [
+        "mna"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Amazon.com vs. MercadoLibre: Which Consumer Stock Is a Better Buy in 2026? - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZ2NVSDRoSERzLWFqRUtSaU9zSHdoeTVLRXlpQXBsWTZHSGJuQ0w4OG9rSDY5ZW1janZpSDdNb2V5RFVPdzJta2l5LUVJNV9BVUF4STdoNmdHT3Q4WGVIa0hnNzI1SDF0MTBGWlBBREotdUFEeC1UcDZNVXVCZUd1dDRNOEt3S3pHRlotVUd0ZEJzZ2N1OVZIal8xaG5LNmhLTWZSUU9kbzNYS2VrMmRLOGZhQTNFcGM1bi10LXRIckc?oc=5",
+      "published": "2026-05-26T07:00:00+00:00",
+      "publisher": "The Motley Fool",
+      "summary": "Amazon.com vs. MercadoLibre: Which Consumer Stock Is a Better Buy in 2026? &nbsp;&nbsp; The Motley Fool",
+      "query": "\"Amazon.com\" competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [
+        "speculation"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Well-architected best practices for software supply chain security - Amazon Web Services (AWS)",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQOWlfdlFpN2ZJQ0JOcTBHbEk1eXktMDJVbGU0SzZDTUNHZTVpeGVQMXJwLUlCRy1NaVVuVTBsMXNQdjNpX1dZOTctNW8yNE9oX3V0VS0wRU9iM2Mwb1dhbDJycWNpUG9sallPY0VyVGM1Vm5oUTlFOUItQ2tNWm42cGNIZHFEd3h1anA5TVE5TGE5dml1TlpyUWRfREVZUUVLSkl4NWU5SXQ?oc=5",
+      "published": "2026-05-26T07:00:00+00:00",
+      "publisher": "Amazon Web Services (AWS)",
+      "summary": "Well-architected best practices for software supply chain security &nbsp;&nbsp; Amazon Web Services (AWS)",
+      "query": "\"Amazon.com\" capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity",
+        "demand"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Amazon, GE Vernova Lead 5 Stocks Near Buy Points In Strong Market - Investor's Business Daily",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE05Rl9xaHl6U3BFWWFlZmFYNTlNOHhpVW9wd0ZIbUVFcU1jLXEtTFlTZEJ0elFiOEhyWnY0S2ZzTnpjVEZuS0RSYzBaeDlUaUt0Slg0OElWMnB2bXhCWHRxWG9xRzZYTllIalFSaVVQWnJuSVUwakdYZg?oc=5",
+      "published": "2026-05-23T07:00:00+00:00",
+      "publisher": "Investor's Business Daily",
+      "summary": "Amazon, GE Vernova Lead 5 Stocks Near Buy Points In Strong Market &nbsp;&nbsp; Investor's Business Daily",
+      "query": "\"Amazon.com\" competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Amazon Lawsuit Adds New Risk Layer To Valuation And Share Momentum - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdlZLVWJxbTlNbFhiRTJwSTZfZTgtejNEU0xReHBkS1RxeXhkU0JTaG0yWEwzQzEwNmhRUjN4eFRXT0IxRWcwMHJ1X1Y1NnFDNVhCWnc0MUFxWFdOSXhYMi14MUd2NzU0Rk1seC1BNXdYVGJXZkJUdEFWM29mdm53SjQxdERzb21SR25VZXYyMkNNQXNVTnI0a2Zhaw?oc=5",
+      "published": "2026-05-19T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Amazon Lawsuit Adds New Risk Layer To Valuation And Share Momentum &nbsp;&nbsp; Yahoo Finance",
+      "query": "\"Amazon.com\" lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory"
+      ],
+      "lean": "negative"
+    },
+    {
+      "title": "The Next Big Rally in Amazon.com Stock Could Start Like This - Trefis",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdkdscFNadS1BRGRwT1RINGJ0di1MMWU0ajFPTkRVeURqZTdpemhEUDZwN3ZJZDdueUlMeHRwajQxQm5BU2FVbGhVS1l5R3VMVW5NWjIxY3RNbzZOZEVacHB2YWFrX0hCM09maEI0dlBmNzRhaVJ1MDBwN20tdkhURldlS1lOOGNkZWdsU3VLekNlVVdBaWU2UzBnQVhzeVhDNEJoR0pvb0lVV2hLM0dsazRhQnFRS1hvWngtQUtDRV8?oc=5",
+      "published": "2026-05-18T07:00:00+00:00",
+      "publisher": "Trefis",
+      "summary": "The Next Big Rally in Amazon.com Stock Could Start Like This &nbsp;&nbsp; Trefis",
+      "query": "\"Amazon.com\" competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Accelerating supply chain AI with Kinaxis MCP on Amazon Bedrock AgentCore - Amazon Web Services (AWS)",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMnp4SnhIUzhTM3NvRkd6V0VJSTFaaEFnZmxNQnc0SGF0a0JOc0NUaDlvT0NIWS0xOTE3bXMxQ0pnQ1E5ZUF5UnFkWDZsOElwVEljNHpQeV9UbzloNW5mYUJHRGRvUEV5eE9BQ0F2OS1tZUgxTVFWZjNaSzRPQ0FXZURFdnZzeG1VNUNoVV8yZ0RhanZxQ05DNUNuTTBuWmpsZHBqV2FzM3A5TWs?oc=5",
+      "published": "2026-05-18T07:00:00+00:00",
+      "publisher": "Amazon Web Services (AWS)",
+      "summary": "Accelerating supply chain AI with Kinaxis MCP on Amazon Bedrock AgentCore &nbsp;&nbsp; Amazon Web Services (AWS)",
+      "query": "AMZN capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity",
+        "demand"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Globalstar Grows Revenue 17% in Q1 Amid Amazon Acquisition Process - Via Satellite",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNOWhpM091REsyZUJsV3o5MDJGamJlQU5yOW10QkprTURSNWhLcGE2aEtGT3dHRmhIMmlORzhIeUNfQjNvUEpldEJLeDFaZ3dhWm9GYUN6QmZ1clRFRThkLXJDZkFYWDV4c21vci1HTmp5MGFoOFlKZWk1Rnc3WE0wYjVuRW1HZEtrV0FZaFdIMmlNdGZVc180ZlMzRVEyTlVXNW9IZW5tRjJ2VW92V054bGtMemZLeDg?oc=5",
+      "published": "2026-05-08T07:00:00+00:00",
+      "publisher": "Via Satellite",
+      "summary": "Globalstar Grows Revenue 17% in Q1 Amid Amazon Acquisition Process &nbsp;&nbsp; Via Satellite",
+      "query": "AMZN acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "mna"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Amazon Opens Its Supply Chain Empire To All — But Is It A Fit For Your Business? - Forrester",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOGltN0tOWDdaT1Qwc3k2VzN0amotZEgtZDE5MXdnaXNOcjRTdFBHMVJYcmI4M0V2QkdRTmlfcUdVVjRtQXI0eFZGbEcxZnh6VlpsbUtuN2hxOFA5X1FuWnZhbWNTZ2l4S2FkRW5GdFZvQUxTT3dIWVhwNVRETTF3MjJqQURHemZvdy1YcTl1MWpxWGhuTU9tZTRMUEtSbmNyb0dnNjBOZHJLWm9XamZv?oc=5",
+      "published": "2026-05-08T07:00:00+00:00",
+      "publisher": "Forrester",
+      "summary": "Amazon Opens Its Supply Chain Empire To All — But Is It A Fit For Your Business? &nbsp;&nbsp; Forrester",
+      "query": "AMZN capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity",
+        "demand"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Amazon Opens Supply Chain Services Raising New Questions For Margins And Growth - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSk8tbkIzZ3VhM054VTM2OXdTSDNjVHB3QXpIaHVyQ2dURDFTZkQ1dkZFZXMyYkNpLWp0LXdnck5XeTRqS2RKZklxck5CZ2NVdUdlMjdMcmViNlZQbmlUS1h1bkl0aDhWNzJoT3I5dmNXM2xoMmdSb21IOVQwMThpalJ4ZHVmX182VmF6ZzJEWVhNRHUxaWMtbDhULVVRcHlR?oc=5",
+      "published": "2026-05-08T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Amazon Opens Supply Chain Services Raising New Questions For Margins And Growth &nbsp;&nbsp; Yahoo Finance",
+      "query": "AMZN capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity",
+        "demand"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Is Amazon.com (AMZN) the Best Strong Buy S&P 500 Stock to Invest In? - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTEtweWRvUmFaX3FQcjU3QU5zbVRkRmpIMUw0LXV0Z3NDMUtJYUd1MXc0d3dwNzJ3dXFfMDY0MzVnaVNuTnJkeHlQa0FwNUdZRHg5SHZXR1NPRFFhSDVLY0xZalZKV2tFYVYzUFFMTkQtTWZDNW4wbUtnU0xXOVNKUmJqTDBBUmZSaDNpZk9zd0psdUg0SmRR?oc=5",
+      "published": "2026-05-07T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Is Amazon.com (AMZN) the Best Strong Buy S&amp;P 500 Stock to Invest In? &nbsp;&nbsp; Yahoo Finance",
+      "query": "\"Amazon.com\" analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Is Amazon’s New End to End Supply Chain Services Platform Altering The Investment Case For Amazon.com (AMZN)? - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVkdTa1pNVVA0WTllNVBIbDFSSmJuc3QzNWdwMHF3VjJTTXdxck1Sdm9QMTg5THVxdHFQcXF6X1hhcWtiVjktRmUzSzk1X1FCQUszT2R0NDdBQVNURTM0QnBUakFLdGtfblIwWEpET1A4cEZ0YV95LXNjTDJoTFRSek9SSHE3Mk9UbU8tRUU3WFc4cFBCbGtn?oc=5",
+      "published": "2026-05-06T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Is Amazon’s New End to End Supply Chain Services Platform Altering The Investment Case For Amazon.com (AMZN)? &nbsp;&nbsp; Yahoo Finance",
+      "query": "\"Amazon.com\" revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity",
+        "demand"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Amazon.com (AMZN) Price Target Raised by $50 Following Strong Q1 Report - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOV25kSGo4aVp4TFpnU19xX0lxa0xPdzlyaE8yZUt6TjBfVnhQX2M2ZjEzVnc0MHlnMF9IQkJYaHlZZnpzX0N3YkpxSmUyRHJJRUJqMFI1UTBHbUNYUl9kUVFTMDJValVVLXhKZFpYMFNmelhQck9abFBuM01uWFJSMVEyT05wa3dZT0c3X0ZPeHNYWkJ6T2JLTQ?oc=5",
+      "published": "2026-05-06T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Amazon.com (AMZN) Price Target Raised by $50 Following Strong Q1 Report &nbsp;&nbsp; Yahoo Finance",
+      "query": "\"Amazon.com\" analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "analyst"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "What Amazon Supply Chain Services Means for Logistics - ttnews.com",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBvYVJ0czV3Znc1UXRXN0Z2WlpwMXdnNWRtUWV3cjJNcXVkR0doRjU1SnZJbnl4YklFOHo0cFFPMVU4NWhPUzVOaC05aUFpNUFzMkZhQ3hjMmFUSmItdTgyUGZoRnd0VWxX?oc=5",
+      "published": "2026-05-06T07:00:00+00:00",
+      "publisher": "ttnews.com",
+      "summary": "What Amazon Supply Chain Services Means for Logistics &nbsp;&nbsp; ttnews.com",
+      "query": "\"Amazon.com\" capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity",
+        "demand"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Amazon Q1 2026 Beat Hides Its Most Exciting New Revenue Engine - TIKR.com",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWGZGclVkdWpiYzJQVHZhcUF6VWNvcWFnVEgyQUJmWGVlVHM3VGdSYzFDOVhnTTZIUER6bzFZZXo1REpHc1RwdGw0S096TzA1S3pCeFd5eU9HNnZBQTNEank2ZFB1aDBJbVRLaHpqOFVoTWlLMzhvZnotQ2V1akpRLTFqWDcyb1dsWHROU0JjVVJXdw?oc=5",
+      "published": "2026-05-05T07:00:00+00:00",
+      "publisher": "TIKR.com",
+      "summary": "Amazon Q1 2026 Beat Hides Its Most Exciting New Revenue Engine &nbsp;&nbsp; TIKR.com",
+      "query": "AMZN earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Amazon opens up logistics network to other businesses in challenge to UPS, FedEx - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPOElORlNQSDNFLU5xTFlrRHMwcTVDVWx4ZVN1UGg2OEZyMWsweWptWTRjbTRZTlUydmE2ZHBXenhvOE45UUw4SExuWkQyVUoxLVpDd1RKdktDdmpzOFdlOVdQZ3JkNjZZcU5DNThKY0xoSGEyS3lGekg1ckZRVlVabFItaGhGSk5HMFN5YkJMWDJvZFVkT1h4ZXhKWkFfakd6UjlTbzVXa0V0WW5YMlctLXE5VWgtZw?oc=5",
+      "published": "2026-05-05T07:00:00+00:00",
+      "publisher": "Reuters",
+      "summary": "Amazon opens up logistics network to other businesses in challenge to UPS, FedEx &nbsp;&nbsp; Reuters",
+      "query": "\"Amazon.com\" capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "macro"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Amazon: Officially Launches Supply Chain Services, Leveraging Internal Services to Outside Clients - Morningstar",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTnpUSWhMazFoczFoTkpPSVBaRjRRX0JBLTJ3X0VzZ1F5aVQzSXZYT0h6RlA2U2NEZXZDUkIydkNjdE9ZcGtWMjRKUTB4Q3NuV1k4Y0JxcTFnUWdDekEya1Y1N3NuNnFCMnJabXBON3JXcGd6bEtFRzVzZkpiQ0oyWHViVUZQWjFUZ3k4ZVhLa1RXeWZaay1BWlBIcUN1SXlLMmVQZlgwejhDMVhTXzlya0VkbUFBYndIYWZFTUJjcjI?oc=5",
+      "published": "2026-05-05T07:00:00+00:00",
+      "publisher": "Morningstar",
+      "summary": "Amazon: Officially Launches Supply Chain Services, Leveraging Internal Services to Outside Clients &nbsp;&nbsp; Morningstar",
+      "query": "\"Amazon.com\" capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "product",
+        "capacity",
+        "demand"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "AWS Weekly Roundup: What’s Next with AWS 2026, Amazon Quick, OpenAI partnership, and more (May 4, 2026) - Amazon Web Services (AWS)",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOT0QwVnYxNHdkTXRNZUFCSThvZTlIdnBVTWJwRGRMNEc0MXViOGFTdmhkNDFLeWI2bURlMzZ0dVpOLVFzWENxd0FKMUdBcWYxUkVmOFZTWTJLbG1ZZGVQSkpIdHd0T2d6dEJQR3ZNU25IVGF2bzBSNlhzQjViaTJIanozRzVlVlppZ2ZRRG51blhpdlNUYVpTb1hxdFdWZUkzU0Q3ejBhNjkzdkxVR3ZObXgyWWQxMkJxRWFEYVVXUVZhOVNxcDJKRg?oc=5",
+      "published": "2026-05-04T07:00:00+00:00",
+      "publisher": "Amazon Web Services (AWS)",
+      "summary": "AWS Weekly Roundup: What’s Next with AWS 2026, Amazon Quick, OpenAI partnership, and more (May 4, 2026) &nbsp;&nbsp; Amazon Web Services (AWS)",
+      "query": "\"Amazon.com\" acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "demand"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Introducing Amazon Supply Chain Services: Amazon’s logistics network, now open to every business - About Amazon",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNY19LUk5xYzhtVTZucWktS3V5QUxHd3djYkV5eHRrSFY4ZTFEZUNoNWxOS1piWGhHVDdQS3ZMRWRTQ04xMjBFNTVGTkhJcGNNWVJSMjBJb3pKUFlkbmZpZjRwOUJlQjRHRFUtU0I2QlhtMmdUN19IYTV5SXBBaUdYdkJJSHJQZEpk?oc=5",
+      "published": "2026-05-04T07:00:00+00:00",
+      "publisher": "About Amazon",
+      "summary": "Introducing Amazon Supply Chain Services: Amazon’s logistics network, now open to every business &nbsp;&nbsp; About Amazon",
+      "query": "AMZN capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity",
+        "demand"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Amazon Launches Amazon Supply Chain Services, Opening Its Logistics Network to All Businesses - Business Wire",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPYlRuYkxsZmFEZWlmUm84MVpZRi1pMjdEZHk5aDVuRDVJOXdBUUxKSjVycG15eVhBRFhReF9TUEJyLV80XzJqd21sRjN3SW1TOXI5UU9GR3F1LWt0czhmU1g3cFlZeTZxaHJCV1ZNbndmcGVZMnRfR0VydzZGelRwSzJfTURRbWM0TF9SRDhXS2lmbmJwN29XeGZYYk9aRElMQzBKYW42Z2VWYkVCTFV2YVF3TjdmUnJhTzVUTDBfWHNiRWdtVTYwbHJPSFQzUjM3MWVZSzBvMnJVOUtWT3k0UFRYNA?oc=5",
+      "published": "2026-05-04T07:00:00+00:00",
+      "publisher": "Business Wire",
+      "summary": "Amazon Launches Amazon Supply Chain Services, Opening Its Logistics Network to All Businesses &nbsp;&nbsp; Business Wire",
+      "query": "AMZN capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "product",
+        "capacity",
+        "demand"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Amazon Built a Massive Supply Chain for Itself. Now It’s for Hire. - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVFZnRmZMNjZuWUhybDQtSUtGYm9hSzJ3OXVUcUNDUkZKRk5MN1ZWQXlGSVVKNkJucU8zTEgwajk2REVSZUFXb0Z6aHd0Nnp1NXZvVXVzZmpoMkh6VldwNlAwR1lLaTdQdFRMRW82SDJjaUlwU2tWWWk3cklnUC1kcWpiaDVwd1pZWE5nWHg0VXJsVWUwQ1RpWW1fZzlCcnZXVWlFNDR3a21zMzJiV2c?oc=5",
+      "published": "2026-05-04T07:00:00+00:00",
+      "publisher": "WSJ",
+      "summary": "Amazon Built a Massive Supply Chain for Itself. Now It’s for Hire. &nbsp;&nbsp; WSJ",
+      "query": "AMZN capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity",
+        "demand"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Amazon opens up its logistics network to other businesses in new growth push - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQa0g5OU9VclVyc1pJT05FX2R5X1Y1M0t3d0V6LU45M3JYam8xT3BuRnpRZ3V1ekdlT2V1Vm5Wc0U3UHpZc3NWbm9uOTR6a1ZiQ0xUS1Q3ZWVfQ0ZYQ2c4bVBMRmhkTW1MaW1wbXhZOVJJU3BGWjllS2NhbDYtZmZDdzI3OHlzeV9lbi1oLTdUbnJZUFdOamVMYXJ1VUg1dFhrWEZ1aEduZl8zcEtQM0kyVkJxNNIBuAFBVV95cUxNcVhueW9ydDZxTlEtTHFFRWJJeHNnYThESUNiX3J4NUMwVlpGeVNDaHA2MmVXSW5fa3hIWkRDeWNIbVpfaEhfWUhQTGFnM1dReXhoQVBWVGdqVjZWdE1may1ZU1N6NWg4NFg0MHliakNNTklSbEVWUXRFMnBmSUNheDJNdk1GdkhkWmduQ0dvQk9yZ2FXbzNXUHYwS1MxdFF5eTJfWEEyQjBhR01DcmhJM0FLYk1IeHZ1?oc=5",
+      "published": "2026-05-04T07:00:00+00:00",
+      "publisher": "CNBC",
+      "summary": "Amazon opens up its logistics network to other businesses in new growth push &nbsp;&nbsp; CNBC",
+      "query": "\"Amazon.com\" capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "positive"
+    },
+    {
+      "title": "Amazon opens logistics network to all businesses - Supply Chain Dive",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcHhFNXJLcllKNEpuUUpWV05iYU5Ub1JfN2dXX0lVd2F0MHd3ejM2Um9xUFV3dy0wQjlrN0E1RXB1YXQtNld2UDJWbEJFWlFtWEp0OWYzLW5oZ2hvZ1J5UmpaM1F5LUhXX3IwZU94R21Mb0JLdDk4bGVWZXZucm9ER1hTSFVBRUNWQlJrQUtuX29KLVh1TzlDdw?oc=5",
+      "published": "2026-05-04T07:00:00+00:00",
+      "publisher": "Supply Chain Dive",
+      "summary": "Amazon opens logistics network to all businesses &nbsp;&nbsp; Supply Chain Dive",
+      "query": "\"Amazon.com\" capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity",
+        "demand"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Amazon Expands Logistics Network to Outside Businesses - ttnews.com",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBBQ25SQ1RLSndYY2hDN0V0cTJrV2EzOEc2YjBKUlZWR0lmQnc2WTA4eFU2M21BZFlHbXNMQUNZY09TSG9xYzE2NUQ0a0FIV196LVJLTnVRYU80TkZpcFluSlBDMWpzS3dMdFhFMg?oc=5",
+      "published": "2026-05-04T07:00:00+00:00",
+      "publisher": "ttnews.com",
+      "summary": "Amazon Expands Logistics Network to Outside Businesses &nbsp;&nbsp; ttnews.com",
+      "query": "\"Amazon.com\" capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "positive"
+    },
+    {
+      "title": "Amazon Earnings: AWS Is Booming, E-Commerce Is Resilient, and Guidance Is Positive - Morningstar",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcHdJa0JPbnd0bElnaV9iMV9NaF9qSFMzcmVwUkhJSE5WNmlhNE1BMkhBckVManBUTDZZVHJ4alhSU2w3YnNpVmpkaTJOOXdvRXlucm1QcjN4cjRUbHBmTkdtSWxYSk5HNWd0eDZMdlktcGV3Z0o0bldKZkVCcTduUVF6akF6dHZ4SEdER0VqY0duZ0hEUG5Ub3M1ZkNlOVljczNLNjFESDdjYXMyQzgxNGhneEVXSi1WbzRv?oc=5",
+      "published": "2026-04-30T07:00:00+00:00",
+      "publisher": "Morningstar",
+      "summary": "Amazon Earnings: AWS Is Booming, E-Commerce Is Resilient, and Guidance Is Positive &nbsp;&nbsp; Morningstar",
+      "query": "AMZN earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "guidance"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Amazon.com Announces First Quarter Results - Amazon Investor Relations",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOU0Q2ZUxLQTRVZWJCMFlBMU5jbDF0cGlEakF1bi12M24xY2JIR3c1VndtOF91R2pXOVdrNGJRb1lHX1FnMHZfRlBZdmtaM1BGZndTYmZ6ZXUxOVdGN3Y4UFFpNWRSS1JyRGxCSGdDc3B1emtIMXRmc3BYTlg4c1MzbElPVWxqZWItYVhQaG5XblgwV2t1ZC1MaENVdUpScWhrOE1mOHlPUTlTOFNON1pFQkQ3ZG9TMDE5NC1hcS13?oc=5",
+      "published": "2026-04-29T07:00:00+00:00",
+      "publisher": "Amazon Investor Relations",
+      "summary": "Amazon.com Announces First Quarter Results &nbsp;&nbsp; Amazon Investor Relations",
+      "query": "\"Amazon.com\" stock",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "product"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Document - sec.gov",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVE1CMWYtUzJONXZfeERleGlRM25scFc1cXpmcEVXMlRmVm9kOHd1dHd2WksyYk42a1RoRXlXM2xaVnI0UlluMnEtaVZVaWR2NWcwVTRWYjZfbGlTbDB6V2w3S1lWQld1TzdnT1dpZlNpWU1HSzFMVnFqQktLak9Xc2lleWxnWmhuU0FDaWxQNmNOUGxr?oc=5",
+      "published": "2026-04-29T07:00:00+00:00",
+      "publisher": "sec.gov",
+      "summary": "Document &nbsp;&nbsp; sec.gov",
+      "query": "AMZN earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Amazon Earnings Review: What Does the Cloud Leader's Beat Mean for the AI Supply Chain? - Moomoo",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRWh0emVXS09meG0zblB6UDlVNDEwdFk0Yzd1cFFJZl9hNWs2d2Y3NC03VnEzdmRhTVJkZ1Rxb29JYS1SSS1XeFVIQ1lRVlVxTnd0RTBtdWdUZ3ByTXRHZ3ZGaExzZlk3MjljVWcwMURUN1FVWlJpeDJWSkw4eFBzUGdXVElRWU83Tm1rNjQ0dlJXU09fX3hNSlJEZFh6Z1JDLWpTanYwQ1VHSjNmRmc?oc=5",
+      "published": "2026-04-29T07:00:00+00:00",
+      "publisher": "Moomoo",
+      "summary": "Amazon Earnings Review: What Does the Cloud Leader's Beat Mean for the AI Supply Chain? &nbsp;&nbsp; Moomoo",
+      "query": "AMZN earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "capacity",
+        "demand"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Earnings call transcript: Amazon’s Q1 2026 results exceed expectations - Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQWU0V2pZSFFiSmM2Mm8tbEhaUWFiVXJFMFJhRGZjSzB6YmR4Szl1TFBKSWNsY2FWODQ1YVZJRkV4dEtoUFAteHp1YnRoTWpQcFp5RHBBQVJXVDJFSEMweGJ4VXJ4UF9oeUlEM3U0TDR5LTF3Y200TldGcjI0R0ozLV80aVBTLV9kT3dBcGNfN1hhZk9oaUdSY0M5U0FVWWR2dm5BWkhIQXd2alpKSmRFbUVrUDZKQ0pwUGsyRVVqdkd5UQ?oc=5",
+      "published": "2026-04-29T07:00:00+00:00",
+      "publisher": "Investing.com",
+      "summary": "Earnings call transcript: Amazon’s Q1 2026 results exceed expectations &nbsp;&nbsp; Investing.com",
+      "query": "\"Amazon.com\" earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Amazon earnings beat expectations with strong cloud growth - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5lZDUtSWR6bXNLVllCZktTWGtBcFdMRFFBcXNWUHhDOXRTWHlNNFh3ZXUtdXRwa2RNUHM5aG1wbHNqRFBDajREU0JJcU5qR3ZiaHRDaTh6YXNCREJYVEVqYWZrWWdxUUlUUmZUd25sSFk3MUdfVERpUFpnT3nSAYIBQVVfeXFMTjBSUUw3Yl9hTWd4a0NXdTdjNmcxc2pJYVdWa1d6QkdyMDVqcjhXazhiTmYxUnZUM1FyNWJzR2dOR2hXam1fRVBfVTE1TzNpNkhIeHNDYjFCWUE5aTFMNTEzb3I0SmQ1V2p3VFNNeEhkbVg2eVlpWk44b2FJZngzSmZZUQ?oc=5",
+      "published": "2026-04-29T07:00:00+00:00",
+      "publisher": "CNBC",
+      "summary": "Amazon earnings beat expectations with strong cloud growth &nbsp;&nbsp; CNBC",
+      "query": "AMZN revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Amazon Posts Double-Digit Growth Anchored by Booming Web Services - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbmc2c05mam40c1MwcVBJamJ0OHhfcTFfSHdqcHNzVTVSN3FVY00zeElfTE01MjZheGktcml2S2liaE5xVGVJWEkycHd3Q0RKMkVLZGNWQUhhb2NTbEZXQzZJUGhCVm1FR1pjNXZHbjVNX3QwUGJ0d3JnUDREc2xQQVZTZFBXMG5MVlprN1V4akRhZw?oc=5",
+      "published": "2026-04-29T07:00:00+00:00",
+      "publisher": "WSJ",
+      "summary": "Amazon Posts Double-Digit Growth Anchored by Booming Web Services &nbsp;&nbsp; WSJ",
+      "query": "AMZN revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Amazon Posts $181.5 Billion in Revenue and Smashes Wall Street’s Q1 Earnings Expectations - Variety",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOWUg0RWxuR0dGOExzWjV1SU9WdWRIc1poc2pPOURjNkdVMTFxSUpxZDYzY3VrZzZiY3Q2NGFOY2JmWGZLakxETE9mY0todzlDM3dCbXgydUdCZFpEN2Q1Q3Q5aVpEREZ5X1ppRk9FV2s1ZWh1djdfam5BeDVGODdiLU5FTHZyTHM?oc=5",
+      "published": "2026-04-29T07:00:00+00:00",
+      "publisher": "Variety",
+      "summary": "Amazon Posts $181.5 Billion in Revenue and Smashes Wall Street’s Q1 Earnings Expectations &nbsp;&nbsp; Variety",
+      "query": "AMZN revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "analyst"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Amazon tops cloud expectations on strong AI demand, shares rise - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUk9JdVVkT1VwYXNEM3Fqc1FXSHpRZ19neTZBTHZleG1jVFQ4ZVAtbTRGT0JGOXBKa3QtdmNvY3JDTGl5NEc0U2U0dHlUYWlBYjJIcmhvY1B2cjFEUDEweDJGbjJsbGVjbDRONkFCTjJ4SHN3MGFXcFJSa1JFTmhMZXdZb2VpR0ROR3JMR0tOY0RJZnFOUmNOcGRPNkVLa0pfQ3RQZHI5NXl2QQ?oc=5",
+      "published": "2026-04-29T07:00:00+00:00",
+      "publisher": "Reuters",
+      "summary": "Amazon tops cloud expectations on strong AI demand, shares rise &nbsp;&nbsp; Reuters",
+      "query": "\"Amazon.com\" revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [
+        "demand",
+        "price_move"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Amazon cruises to another solid earnings and revenue beat - SiliconANGLE",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWW5BenVUWFpuNFItOV9YQU9qdS1PeEZlQk0zR3FtclVhVDIyWmgwMHBBbU0zZHhOS0hIYURGVTZaQmpFTjRpUFpQcjN2Q2hWT3A4Y1hHSVBJRlJGMXNHWVZUMGNLMjg2Z2s5cFZlZzJ4NHpvUmhmdHNVQlJ0QmVFVDloc0dBcGtYN0pKUkZacVc?oc=5",
+      "published": "2026-04-29T07:00:00+00:00",
+      "publisher": "SiliconANGLE",
+      "summary": "Amazon cruises to another solid earnings and revenue beat &nbsp;&nbsp; SiliconANGLE",
+      "query": "\"Amazon.com\" revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Amazon's Q1 revenue up 17% to $181.5B, beats forecasts - Breakingthenews.net",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQWwwZ1V1RW5LWnhyVjVBWFlOcHlGLUlNWEhvN1FqQ3VjVDhKOHE2eEdub1o3Mm1RaDQ5ZlVXdW5WaHFYRjRDZElzWlB0cUp3cWNlRUE2aGdNX0t4aS1yb0hvb3Z3aS1tNWItaTFSSmhPaEd2UnpOeWpMdUI5cWpYRHVVTHF2MDZDTnF6c2xiLWppUTYyRC1IR0E3NUM4VVNEOV9jOA?oc=5",
+      "published": "2026-04-29T07:00:00+00:00",
+      "publisher": "Breakingthenews.net",
+      "summary": "Amazon's Q1 revenue up 17% to $181.5B, beats forecasts &nbsp;&nbsp; Breakingthenews.net",
+      "query": "\"Amazon.com\" revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "guidance"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Amazon Web Services unveils agentic AI supply chain tool - Supply Chain Dive",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMWdtSHd3dE9KaWJtUm9nY19uUWpOUDNQbGlUeENZWG5ydkdOdHhJVU1JbEFyRlg3YThad2FWS0VyOGU1SVJwRXBSUVVxQ25vb2NWc1BqUUR4OWpGT1NxMFNINEJYT2JJV1JBbTNDNEl0UVZ0TzEyVHU1aHA4VWNpem1pM2wwY1JUSVVVN1hyUVNPWWRsdDFTYjNrZlg3YmxBWmtj?oc=5",
+      "published": "2026-04-28T07:00:00+00:00",
+      "publisher": "Supply Chain Dive",
+      "summary": "Amazon Web Services unveils agentic AI supply chain tool &nbsp;&nbsp; Supply Chain Dive",
+      "query": "AMZN capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "product",
+        "capacity",
+        "demand"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Amazon Connect expands into a set of agentic AI solutions - About Amazon",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9IdlA0aFZUckNpRkQzbmo4ZlNGNGx0QUpPVXpGQm41VGJWQjFxdmpab2gzNnlsd01CTG5qWkFXZW56WjRDdkhTNmVwbnFnaXhlWDc4THBHbkRWY2JHWDk1Qjg2ZnBZWkJZZXBVNWVNUFpJX2xLUUE?oc=5",
+      "published": "2026-04-28T07:00:00+00:00",
+      "publisher": "About Amazon",
+      "summary": "Amazon Connect expands into a set of agentic AI solutions &nbsp;&nbsp; About Amazon",
+      "query": "\"Amazon.com\" capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "positive"
+    },
+    {
+      "title": "AWS Weekly Roundup: Anthropic & Meta partnership, AWS Lambda S3 Files, Amazon Bedrock AgentCore CLI, and more (April 27, 2026) | Amazon Web Services - Amazon Web Services (AWS)",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQTndOTGJ4UEtJOWpIckU2LTZoWmx0cXZQdG5kRlFJMDFCMC1oQlE0LUtEZVUzTnh1VVNycldRZWl6cEphQXFTbk43bHJRS1RiZDhYMDVIdTlic19sZGpuLTE1ZjRiajZZUDFJR0k2MjJkNnBIaDlkcXV5T0tDNDNvTVhPR3hwdTQzdU5Jbm5JY2lnQUlRUFkxc2dPcGRzVzhYX2pGaU5qTXlpM0VUN0hFbmhITFNRSHhDVlpjVEhBZjhtX3Q4VUxGTVZJY0lTOHJjeGE3eUdSOUlCOEdnMmhnNU9EWC1Ydw?oc=5",
+      "published": "2026-04-27T07:00:00+00:00",
+      "publisher": "Amazon Web Services (AWS)",
+      "summary": "AWS Weekly Roundup: Anthropic & Meta partnership, AWS Lambda S3 Files, Amazon Bedrock AgentCore CLI, and more (April 27, 2026) | Amazon Web Services &nbsp;&nbsp; Amazon Web Services (AWS)",
+      "query": "AMZN acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "demand"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Meta signs agreement with AWS to power agentic AI on Amazon's Graviton chips - About Amazon",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5FX0xXZWlhZmZTMlR2Z1FJRW41SmlLXzVYNDNRNWRwMXZOa1FOWVZLREEzR3N6OEk3MXU2MnVPa21jX3AxU3ZBc3lLWHV5MkpFcVc2TkZtOVhzLWt5NDkwQVd5SkFaeE5Ta0hNd2RJOERTcnMyY0h5Mg?oc=5",
+      "published": "2026-04-24T07:00:00+00:00",
+      "publisher": "About Amazon",
+      "summary": "Meta signs agreement with AWS to power agentic AI on Amazon's Graviton chips &nbsp;&nbsp; About Amazon",
+      "query": "\"Amazon.com\" acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Ahead of Earnings, Is Amazon Stock a Buy, a Sell, or Fairly Valued? - Morningstar",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQaEhiZXRTdTVQTklWaWZldEd2OVVDVkFGaENDZkxpM1FzTi1ESGhwSlo2T0xMdnBCX0VZOF9BQ3QzcHM3d1dZd0JGNUtYZ3FNSHFMZDRFd0dPQjkxV2hyeWpiUVVVUEs2ZW05Zk1qcVh1OVJhbGl5VU0xVEFEamwyeFMwdUFkR05YWXdySENUMk0xSXJpSDJRWTJqMndLTmFrRVE?oc=5",
+      "published": "2026-04-23T07:00:00+00:00",
+      "publisher": "Morningstar",
+      "summary": "Ahead of Earnings, Is Amazon Stock a Buy, a Sell, or Fairly Valued? &nbsp;&nbsp; Morningstar",
+      "query": "AMZN earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Amazon Connect: Deploy conversational AI in weeks, not months - Amazon Web Services (AWS)",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbVpwVGRDZngwZVNNRzllVExicTFEd1ZyUTdCbWJ1UHpaelZ2Y240d0R2Q3dPSDhRMDNJbDZCdFpHSWZFcHVyX2hNZURUX1dObUQ1TWgzcnp2bXhBUk1YX0lsUjVqNE83RWRCR3A4cEZVWlVFLTdXUlJzakJUTy03UXhnMEItR0EtcHd5SG9RYjdHclBqT2t2Vk5CdmN4cldhOGtUc29uRQ?oc=5",
+      "published": "2026-04-23T07:00:00+00:00",
+      "publisher": "Amazon Web Services (AWS)",
+      "summary": "Amazon Connect: Deploy conversational AI in weeks, not months &nbsp;&nbsp; Amazon Web Services (AWS)",
+      "query": "AMZN acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Anthropic and Amazon expand collaboration for up to 5 gigawatts of new compute - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5fdy1yMjdvS1NvTl9pS3h1ck56aG0wRERDMy0yeDJJNmdJdEd0Z3I4N0xYS3RlY3AxWmtBR25FSkpPUWNrM0M1U1RxT0lPTXhja1prTGw4RGNNOHIweHdvcXd3Nk1DUQ?oc=5",
+      "published": "2026-04-20T07:00:00+00:00",
+      "publisher": "Anthropic",
+      "summary": "Anthropic and Amazon expand collaboration for up to 5 gigawatts of new compute &nbsp;&nbsp; Anthropic",
+      "query": "AMZN acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Anthropic, Amazon Tighten Bond in $5 Billion Investment and Computing Deal - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQN0NRZVNGRFVoMmlaZU1MNnBadTVRQmZTd3YzeVNfaGowNldFb0lQaDczem93TXpmd1BrVUF3T3BIamcwbGNJbmNPVkliZUJpRmg5SnpPc0tVLUtLQjQtMEpNYVl3bXFicUFoSnhYeEk5Sll4SVMxeUROQjJfempxNEMtbGlrUHh4TXNnS252UGx3M1dYUTRFUHBYclRJNmpVV0NNcFFyRXhublQ3ZHc?oc=5",
+      "published": "2026-04-20T07:00:00+00:00",
+      "publisher": "WSJ",
+      "summary": "Anthropic, Amazon Tighten Bond in $5 Billion Investment and Computing Deal &nbsp;&nbsp; WSJ",
+      "query": "AMZN acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity",
+        "demand"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Amazon and Anthropic expand strategic collaboration - About Amazon",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM1FlbU1kTVBFR2RLTlJrc0l5cVBoS3QydUJTSlNOSWk4ZUNSSUhySGV2RnJYRnRkajJQY1FVTUdET3QybFFpazcySWx1bm9ja25ielpISWhRenZ1Rk1Fbm5wN0JsbXd5ZUo5ZjcyNU5mNmRWblJLbXpPQk50UGdQbTk4WXZ5UXRVckhtOU10cElhcEZDQXZPeFpR?oc=5",
+      "published": "2026-04-20T07:00:00+00:00",
+      "publisher": "About Amazon",
+      "summary": "Amazon and Anthropic expand strategic collaboration &nbsp;&nbsp; About Amazon",
+      "query": "\"Amazon.com\" acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Amazon, FTC settlement claim deadline is 100 days away. How to sign up - usatoday.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQaWVhdWF2cnZicEtIWUQ0ZEZqUl9IS0FqRTVNb0FPUHFlTTlaWEZaNTdDZXE4alF2VkxsQnFvZFRUZF9rS2hfV3Y1cnIzWldpdkZadV9TOUYwQVMwS3g1c1d4cThzN2pqZldKMVpJNTJQNTVkYXRtUi1JLTlNVV9pVzV4UnlEVXlXaFhJWVhETkxRWU1oUGF0ZzE0SXZfc1JlbWo3RUJlNA?oc=5",
+      "published": "2026-04-18T07:00:00+00:00",
+      "publisher": "usatoday.com",
+      "summary": "Amazon, FTC settlement claim deadline is 100 days away. How to sign up &nbsp;&nbsp; usatoday.com",
+      "query": "\"Amazon.com\" lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "OpenAI Calls Amazon.com (AMZN) Partnership as a Key Driver of Enterprise Growth - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdWJMaW5hVG1XQXVBaW5YYS1pMHBzb2o2cjVxS0VaM0cwM282cnZJNUtFR29PS3J5bFFlemZ0Tl84YWtmQzU3ZU94WXQtemdTUFpBdi1mWWdCd3JHVE9McG1XSER0T1hzcVJJQ1R2MFhnU0ZfRnJqbi1sRFlQWHJndXlUZFY5Y1VuRkxDb0RJcFMzQkZGR3BQdg?oc=5",
+      "published": "2026-04-18T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "OpenAI Calls Amazon.com (AMZN) Partnership as a Key Driver of Enterprise Growth &nbsp;&nbsp; Yahoo Finance",
+      "query": "AMZN acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "demand"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Amazon.com, Inc. (AMZN) Expands Partnership with NiSource - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPV25wQUYzZi1YbzZMSWZEaDhKN0ItS0ZIZU1HMEpNQW4wUXRDZmpOZHdPTHM2TVZFWmRnVkxWSTVLYW1WYnRFQ0ZUX0QwTEJqakI0TC1SWkR0V1BHTnVWR3ZoSDM4amZCTzNCeTFnZGZMZVMxaS1GR05Ha0otZ05ubDlJaUZTdVR4cjlpX1J2VjBVVXZjWTJR?oc=5",
+      "published": "2026-04-18T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Amazon.com, Inc. (AMZN) Expands Partnership with NiSource &nbsp;&nbsp; Yahoo Finance",
+      "query": "\"Amazon.com\" acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "demand"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Amazon’s $12B Globalstar Acquisition Paid for Itself 10x Over in One Day - 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRzJBendMVWxOWllEaFFjLVZkT0VnZGRWdVg4aXpIRzBZNVZac3R2SmZaTkhYa3dqenJaMTYyT3d2QWcwVE5pZ3BGSHE3MW12Vks1dm5BTFluUDZrMnp6SW1ZbF8yeGlZMS1YR2l3b2l0QmtWOURIYVdIZ21YMXdHQ2d5TmE4akhjUjJ1bFFnQXMzZ3hBdk0wNzRVY2dyYmhXYnlZTU5Nb3pNMG1mMThpOUJKVFM?oc=5",
+      "published": "2026-04-15T07:00:00+00:00",
+      "publisher": "24/7 Wall St.",
+      "summary": "Amazon’s $12B Globalstar Acquisition Paid for Itself 10x Over in One Day &nbsp;&nbsp; 24/7 Wall St.",
+      "query": "AMZN acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "mna"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Is It Too Late to Buy Globalstar Stock Following the Amazon Acquisition Announcement? - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZTNYSmF4QjNzYVlHSktySmU3a1hiUTA0aUd4RUxFWTdIbDlTam1ubUtsWWtUVkIwRW80YVRmSXNpSXdidlpyOEdORTZKNlYtYkxTTk9oakNmX1UxbU8zUzd2NnA2TkJQUTZQM1hGOFBRd2c0QjNmY24xY20wRkNKWFBvWUpHZmt0cW9qN0NSUi1UcDltQ01DdWdhak93RHRW?oc=5",
+      "published": "2026-04-15T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Is It Too Late to Buy Globalstar Stock Following the Amazon Acquisition Announcement? &nbsp;&nbsp; Yahoo Finance",
+      "query": "AMZN acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "mna",
+        "speculation"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Amazon Could Explode Higher After Earnings (NASDAQ:AMZN) - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOc09PYTBFWGVSRGdEbWhlZ3U5NGFfRVVnTGwyeVNjcWRDLWduVVU5ZTZGV3Q1Y0tZSW9wTkNzcG52UTdmM0hOanJGQ0RhdTRPVWhxVHRzay1CUjFhS0ZIQkszbWVXaTExencwMkJSblhSU0VhWHhMeVk1UzZ4YUx2N1Fwb3lLdVdzbzVB?oc=5",
+      "published": "2026-04-14T07:00:00+00:00",
+      "publisher": "Seeking Alpha",
+      "summary": "Amazon Could Explode Higher After Earnings (NASDAQ:AMZN) &nbsp;&nbsp; Seeking Alpha",
+      "query": "AMZN revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Amazon Rises 5%, Globalstar Jumps 10% as $11.57 Billion Acquisition Ignites a Satellite War With SpaceX - 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNcTc1MlFoRFlTR0VKT1lwNXBlZXdxb0tYMU1wVDVhOHQxd3M5RkNRZjFuNFVwUVBXZ3VkMHctbkhrWFlkR2p5WXdfb21mYWt1X1BtRkVITUxzRUVqbnZDb25TcGdPdVlBb2h5V1JXbW9oZTh5MG13V25rd0tSYUtVVm9HWFJIbjRQVjgyT2diZEtYTzVZRTZqMm5ieVZmbjIwcnhtS09zSGNDSE82b01JX0FpZ2lfbjhNOWRYRUxZQmR5WWhPZ0pla1pMZTRQOGhkSDJaRWhpU2QxQjg?oc=5",
+      "published": "2026-04-14T07:00:00+00:00",
+      "publisher": "24/7 Wall St.",
+      "summary": "Amazon Rises 5%, Globalstar Jumps 10% as $11.57 Billion Acquisition Ignites a Satellite War With SpaceX &nbsp;&nbsp; 24/7 Wall St.",
+      "query": "AMZN acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "mna"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Amazon to buy satellite firm Globalstar in $11.57 billion deal to take on Musk's Starlink - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNbmFETGZ0bW1ZWk9xNTRmRmlmQ2VQeUF1dnNzc0FCa043WndhVXdjNWdRV0VxWGFMbHU3SUxraGF4Z25ocWkxOFBzVHZRazZTQkdlcDR0TmYyYXZrOFFGcVlIRUtodUtlcnFrMGtyaUM2cU5BdXBTaWx6cmVoOUJBYm9XaWJZU0ZfdUo5WWtwd0w4Y3NndmJWck9Da3VjcDF6YnJJUmtlVWdoajVibEVzRThTd0VkVDlFcFROVGlDUWczSGxYdjRZeWFzLVRNaDQ?oc=5",
+      "published": "2026-04-14T07:00:00+00:00",
+      "publisher": "Reuters",
+      "summary": "Amazon to buy satellite firm Globalstar in $11.57 billion deal to take on Musk's Starlink &nbsp;&nbsp; Reuters",
+      "query": "\"Amazon.com\" acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "mna",
+        "demand"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "OpenAI touts Amazon alliance in memo, says Microsoft has 'limited our ability' to reach clients - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVHJ0UXQ4S1M4YmdMRXh2TXdCSjdBV3JNUU9MVkpERG1Zd1JzU1p5R254NzExay01amNhbzcyZF93RThUNENXUVBha0UxOWVlS0R4UDVKc1RpX1NCanRiWk12cEYxbUZZSEI5MmJRUVFJd19SMnlsU1Vpc1NrVjgyZ0VfOTllTDBTLWdDVmZ5V0ZTYzR3RVY3U3ZDMTRycmxWV1NZV29B0gGrAUFVX3lxTFBPMnJZczRGQUl2Mm8wZ3ozemNkZDI2UkxfRmlNbWlXb21maDVTX1ZTRVZqRklZRk9QMkI5SFlULU5TN3VKYURvNGVhNzhVdC05al9zZ2VBN2J6Sy1MeXF4V1VfMGY0ZXo3Sl9MNXMtV1dTSXFhZVhQX0RXX0p1WmxZTDdFLS1TLUVzUFoxMUNnZWc0cnotcktXSi1fUmRjOVVuaDZEak1DUVc0aw?oc=5",
+      "published": "2026-04-13T07:00:00+00:00",
+      "publisher": "CNBC",
+      "summary": "OpenAI touts Amazon alliance in memo, says Microsoft has 'limited our ability' to reach clients &nbsp;&nbsp; CNBC",
+      "query": "AMZN acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Amazon Reaffirms USPS Logistics Partnership - PYMNTS.com",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQV0xtaER2VEQxMGhYZDJfRkZSdkF6S1RUakNjcTIyazRhbEVwdVRmc0QzLWhmWS1VclhMcmNyck1RelBIZE04V2wtdEQxZDcxbnQ0UEJUdUwxUzNWSlZkZTJPejlDUjN6eGx6QnRDbGRLRFV1ZGJ5RFFqVEdSZ3NuVm9Uczl0UQ?oc=5",
+      "published": "2026-04-06T07:00:00+00:00",
+      "publisher": "PYMNTS.com",
+      "summary": "Amazon Reaffirms USPS Logistics Partnership &nbsp;&nbsp; PYMNTS.com",
+      "query": "AMZN acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "guidance",
+        "demand"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Will Globalstar hit new highs following Amazon acquisition speculation? - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQbVJKa3dfcVkwcFRXYkM4ZDM5OXFfZld3ZldXaExadXBsR0NkM01sa2g3NTZna3l5WWpjb25LUFR5SkZ3d0ZQTGpfUWt1MjhYSU45UWtIZ0VhQ2NERnNHN05BRmdvVDlEMmhMYWt4NnFDNnVGSXQ1VXFsRHNpeXZhTldPc2RkdC1abXQ4bTM0ZGMzV2tFdy0wdHVMY1pGME9jV1duaG5uSzFTQmt1V1V5ckt6SFZLNEx3eW9QaVRvYWt4a01aY0E?oc=5",
+      "published": "2026-04-02T07:00:00+00:00",
+      "publisher": "TradingView",
+      "summary": "Will Globalstar hit new highs following Amazon acquisition speculation? &nbsp;&nbsp; TradingView",
+      "query": "\"Amazon.com\" acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "mna"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Globalstar stock surges 15% on report Amazon is weighing an acquisition - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOd2wzdldFelJJOVQyT29pbHR2OU1COTVEamlta29Yd1R4NkxXQm5iNUQ5dS1Ncmh1TDhhSjY4OFN6RGJpLXdmX19HUWFPU1dGSE9qTEtxUDdaZ2x0cnduNjNiVkM3WTVGbThOb1h0MUt2eHJacW5wbWRlcnU5eHpfMFlzTk96d0lWMm5USEU2NVFGano0dUJXdTNIRmVKam5Sa0hrY21NUFFIYWFqaVIwZERB0gG3AUFVX3lxTFBXRW5BVFltX1N3bzhGQmtMTlc4LThPTHQyeEdzS0tYZnlrRGk1bTBVbE0yNDR4eFpFWmpwLUZhT3BpYml3V2pPUER1ODFCV2JrWnNHUzZORjNuVjJmVWk3aU5WMzRVZXV5TnRVdU1FNjMxanpxSi1iQTRtRXdDTUR2cG8xWlhhbUt3ZzloNVB0YjFzZXRGdDlfVWNWUXpHVzFGMkI4QVpiYWdOT2RrcVY2TFhFd1hyRQ?oc=5",
+      "published": "2026-04-01T07:00:00+00:00",
+      "publisher": "CNBC",
+      "summary": "Globalstar stock surges 15% on report Amazon is weighing an acquisition &nbsp;&nbsp; CNBC",
+      "query": "AMZN acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "mna"
+      ],
+      "lean": "positive"
+    }
+  ]
+}

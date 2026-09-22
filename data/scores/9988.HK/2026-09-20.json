@@ -1,0 +1,303 @@
+{
+  "ticker": "9988.HK",
+  "company": "Alibaba Group Holding Limited",
+  "sector": "Consumer Cyclical",
+  "as_of": "2026-09-20T09:05:43+00:00",
+  "source_snapshot": "data\\raw\\9988.HK\\2026-09-20.json",
+  "composite_score": 49.4,
+  "grade": "D  weak on the numbers",
+  "pillar_weight_coverage": 1.0,
+  "pillars": {
+    "growth": {
+      "score": 56.8,
+      "coverage": 1.0,
+      "weight": 0.3,
+      "metrics": {
+        "revenue_cagr": {
+          "value": 0.056247,
+          "score": 42.5,
+          "weight": 0.35
+        },
+        "revenue_growth_ttm": {
+          "value": 0.086,
+          "score": 51.3,
+          "weight": 0.3
+        },
+        "net_income_cagr": {
+          "value": 0.124861,
+          "score": 57.8,
+          "weight": 0.2
+        },
+        "forward_eps_growth": {
+          "value": 1.152444,
+          "score": 100.0,
+          "weight": 0.15
+        }
+      }
+    },
+    "quality": {
+      "score": 29.3,
+      "coverage": 1.0,
+      "weight": 0.25,
+      "metrics": {
+        "roic_est": {
+          "value": 0.035685,
+          "score": 17.8,
+          "weight": 0.3
+        },
+        "operating_margin_latest": {
+          "value": 0.058285,
+          "score": 27.4,
+          "weight": 0.25
+        },
+        "gross_margin_latest": {
+          "value": 0.398111,
+          "score": 54.7,
+          "weight": 0.2
+        },
+        "operating_margin_trend": {
+          "value": -0.016508,
+          "score": 23.5,
+          "weight": 0.15
+        },
+        "roe": {
+          "value": 0.0636,
+          "score": 26.5,
+          "weight": 0.1
+        }
+      }
+    },
+    "cash": {
+      "score": 0.2,
+      "coverage": 0.45,
+      "weight": 0.15,
+      "metrics": {
+        "fcf_margin_latest": {
+          "value": -0.049551,
+          "score": 0.2,
+          "weight": 0.45
+        },
+        "fcf_cagr": {
+          "value": null,
+          "score": null,
+          "weight": 0.35
+        },
+        "fcf_yield": {
+          "value": null,
+          "score": null,
+          "weight": 0.2
+        }
+      }
+    },
+    "balance_sheet": {
+      "score": 82.1,
+      "coverage": 1.0,
+      "weight": 0.15,
+      "metrics": {
+        "net_debt_to_ebitda": {
+          "value": -0.188794,
+          "score": 93.5,
+          "weight": 0.45
+        },
+        "debt_to_equity": {
+          "value": 23.928,
+          "score": 85.6,
+          "weight": 0.3
+        },
+        "current_ratio": {
+          "value": 1.362,
+          "score": 57.5,
+          "weight": 0.25
+        }
+      }
+    },
+    "valuation": {
+      "score": 84.8,
+      "coverage": 0.3,
+      "weight": 0.15,
+      "metrics": {
+        "forward_pe": {
+          "value": 11.700345,
+          "score": 84.8,
+          "weight": 0.3
+        },
+        "peg_est": {
+          "value": null,
+          "score": null,
+          "weight": 0.3
+        },
+        "ev_to_ebitda": {
+          "value": null,
+          "score": null,
+          "weight": 0.2
+        },
+        "price_to_sales": {
+          "value": null,
+          "score": null,
+          "weight": 0.2
+        }
+      }
+    }
+  },
+  "projection_5y": {
+    "bear": {
+      "scenario": "bear",
+      "assumptions": {
+        "start_growth": 0.0475,
+        "terminal_growth": 0.04,
+        "start_net_margin": 0.1012,
+        "reported_annual_net_margin": 0.1012,
+        "margin_basis": "trailing_pe x net_margin (currency-safe route; mixes a trailing price multiple with an annual margin)",
+        "end_net_margin": 0.0449,
+        "exit_pe": 13.3,
+        "current_sales_multiple": 2.549,
+        "sales_multiple_basis": "trailing_pe x net_margin (currency-safe route; mixes a trailing price multiple with an annual margin)",
+        "dividend_yield": 0.0047,
+        "years": 5
+      },
+      "revenue_path": [
+        {
+          "year": 1,
+          "growth": 0.046,
+          "revenue_index": 1.046
+        },
+        {
+          "year": 2,
+          "growth": 0.0445,
+          "revenue_index": 1.093
+        },
+        {
+          "year": 3,
+          "growth": 0.043,
+          "revenue_index": 1.139
+        },
+        {
+          "year": 4,
+          "growth": 0.0415,
+          "revenue_index": 1.187
+        },
+        {
+          "year": 5,
+          "growth": 0.04,
+          "revenue_index": 1.234
+        }
+      ],
+      "revenue_index_end": 1.234,
+      "exit_sales_multiple": 0.598,
+      "implied_market_cap": 629815061161.0,
+      "current_market_cap": 2173429350400,
+      "price_return_annualized": -0.2194,
+      "dividend_contribution": 0.0047,
+      "total_return": -0.7033,
+      "annualized_return": -0.2157
+    },
+    "base": {
+      "scenario": "base",
+      "assumptions": {
+        "start_growth": 0.0863,
+        "terminal_growth": 0.04,
+        "start_net_margin": 0.1012,
+        "reported_annual_net_margin": 0.1012,
+        "margin_basis": "trailing_pe x net_margin (currency-safe route; mixes a trailing price multiple with an annual margin)",
+        "end_net_margin": 0.0599,
+        "exit_pe": 19.3,
+        "current_sales_multiple": 2.549,
+        "sales_multiple_basis": "trailing_pe x net_margin (currency-safe route; mixes a trailing price multiple with an annual margin)",
+        "dividend_yield": 0.0094,
+        "years": 5
+      },
+      "revenue_path": [
+        {
+          "year": 1,
+          "growth": 0.0771,
+          "revenue_index": 1.077
+        },
+        {
+          "year": 2,
+          "growth": 0.0678,
+          "revenue_index": 1.15
+        },
+        {
+          "year": 3,
+          "growth": 0.0585,
+          "revenue_index": 1.217
+        },
+        {
+          "year": 4,
+          "growth": 0.0493,
+          "revenue_index": 1.277
+        },
+        {
+          "year": 5,
+          "growth": 0.04,
+          "revenue_index": 1.328
+        }
+      ],
+      "revenue_index_end": 1.328,
+      "exit_sales_multiple": 1.156,
+      "implied_market_cap": 1309377410618.0,
+      "current_market_cap": 2173429350400,
+      "price_return_annualized": -0.0964,
+      "dividend_contribution": 0.0094,
+      "total_return": -0.3686,
+      "annualized_return": -0.0879
+    },
+    "bull": {
+      "scenario": "bull",
+      "assumptions": {
+        "start_growth": 0.1122,
+        "terminal_growth": 0.04,
+        "start_net_margin": 0.1012,
+        "reported_annual_net_margin": 0.1012,
+        "margin_basis": "trailing_pe x net_margin (currency-safe route; mixes a trailing price multiple with an annual margin)",
+        "end_net_margin": 0.0689,
+        "exit_pe": 24.3,
+        "current_sales_multiple": 2.549,
+        "sales_multiple_basis": "trailing_pe x net_margin (currency-safe route; mixes a trailing price multiple with an annual margin)",
+        "dividend_yield": 0.0094,
+        "years": 5
+      },
+      "revenue_path": [
+        {
+          "year": 1,
+          "growth": 0.0978,
+          "revenue_index": 1.098
+        },
+        {
+          "year": 2,
+          "growth": 0.0833,
+          "revenue_index": 1.189
+        },
+        {
+          "year": 3,
+          "growth": 0.0689,
+          "revenue_index": 1.271
+        },
+        {
+          "year": 4,
+          "growth": 0.0544,
+          "revenue_index": 1.34
+        },
+        {
+          "year": 5,
+          "growth": 0.04,
+          "revenue_index": 1.394
+        }
+      ],
+      "revenue_index_end": 1.394,
+      "exit_sales_multiple": 1.677,
+      "implied_market_cap": 1993350818706.0,
+      "current_market_cap": 2173429350400,
+      "price_return_annualized": -0.0171,
+      "dividend_contribution": 0.0094,
+      "total_return": -0.0388,
+      "annualized_return": -0.0079
+    }
+  },
+  "flags": [
+    "Trades in HKD but reports in CNY, so price_to_sales, ev_to_ebitda, fcf_yield were excluded from the score: each divides a market number by a statement number in a different currency. The affected pillars renormalize over the metrics that remain, so read the coverage figure alongside the score.",
+    "Free cash flow is negative, so growth is being funded by the balance sheet or by issuing shares.",
+    "Operating margin is trending down, which usually means pricing pressure or cost inflation."
+  ],
+  "disclaimer": "Rules-based scorecard over public financial data. Not investment advice and not a price forecast. Assumptions are listed with every projection."
+}

@@ -1,0 +1,2370 @@
+{
+  "ticker": "MSFT",
+  "company": "Microsoft",
+  "as_of": "2026-09-20T09:09:00+00:00",
+  "lookback_days": 180,
+  "summary": {
+    "total": 179,
+    "by_event_tag": {
+      "demand": 43,
+      "capacity": 41,
+      "earnings": 37,
+      "regulatory": 28,
+      "guidance": 19,
+      "speculation": 15,
+      "analyst": 13,
+      "price_move": 11,
+      "macro": 2,
+      "capital_return": 2,
+      "management": 2,
+      "product": 2,
+      "mna": 2
+    },
+    "headline_lean": {
+      "positive": 38,
+      "negative": 23,
+      "neutral": 118
+    },
+    "top_publishers": {
+      "Yahoo Finance": 57,
+      "Microsoft": 12,
+      "Microsoft Source": 10,
+      "24/7 Wall St.": 7,
+      "Morningstar": 7,
+      "CNBC": 7,
+      "Reuters": 6,
+      "Seeking Alpha": 6,
+      "PR Newswire": 5,
+      "TradingView": 5
+    }
+  },
+  "articles": [
+    {
+      "title": "Microsoft Stock Forecast: Is Spending $190 Billion on AI Infrastructure in 2026 — Is MSFT a Buy at $452? - TradingKey",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPSzQzUHo1QjF5QktqWDB4dWJVLXhIYldVYlQ5TW14ai12WG0yQlhGcjUxSW5ZMHBtZExmNkMzVXBqd3E1Wk1vcjBsQlhDelBZQXNLQWtfTDhIZUdGVjRKYXNjZUw5RlFlMmpsNUE3Y3AxWGJIYnlVcUs3Ym1JX21CSTZfT1FkSEdHR0FjTW1MSXkyYWNicXV1Zm1nZ1VUNm1ydHMwbVl3TExqaVpjQTl3QzBaZV8tTVRtN3RmX3dGSWVTdjl6NmQtN0NNNGNwV0E?oc=5",
+      "published": "2026-09-19T15:12:09+00:00",
+      "publisher": "TradingKey",
+      "summary": "Microsoft Stock Forecast: Is Spending $190 Billion on AI Infrastructure in 2026 — Is MSFT a Buy at $452? &nbsp;&nbsp; TradingKey",
+      "query": "MSFT revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [
+        "guidance",
+        "capacity",
+        "speculation"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Memphis Flyer Joins Landmark Copyright Lawsuit Against OpenAI and Microsoft - Memphis Flyer",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMENOLVFXbHhmS2t3bmpncGFMempMaXFOU214Y0MxeE9WeDFaaFZXdk9URy1fTkhNRU1ha1UtSFRpaUlOcW9BNGpOS1NydzRyR3ZmcUNXRWhSRWppakNkUDdqdEZoa3cxRFVKc21fNDFsb29RRmNzLUY0TXlQZlZHbjlLaTBUX0VqYTRQT3hNcS1pcTJRdTNDZjVzcVQ0dU1zQV8zYUxfZnM?oc=5",
+      "published": "2026-09-18T17:23:22+00:00",
+      "publisher": "Memphis Flyer",
+      "summary": "Memphis Flyer Joins Landmark Copyright Lawsuit Against OpenAI and Microsoft &nbsp;&nbsp; Memphis Flyer",
+      "query": "\"Microsoft\" lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory"
+      ],
+      "lean": "negative"
+    },
+    {
+      "title": "Microsoft and OpenAI Workers Worry About ‘Largest Theft of Labor’ in History - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQdjJISmtEZlhmekd2TjBndTBlcUNSZmR5VjBPaGR1bXRSTU5yZ293Ulk0YUhpdHlHY0hyUTNweTFqSmdMc1JjWVJkQXZ5MmVpdHozLTJQVk5jcVJtN1M1RWc5dFdMZTJrM2hLbnVGemVCX0JtRGRGbEtNZG14cDJtOU5tZmhUa1RlVTlmYXRHMVM?oc=5",
+      "published": "2026-09-17T23:16:44+00:00",
+      "publisher": "The New York Times",
+      "summary": "Microsoft and OpenAI Workers Worry About ‘Largest Theft of Labor’ in History &nbsp;&nbsp; The New York Times",
+      "query": "\"Microsoft\" lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Microsoft exec called AI scraping ‘the largest theft of labor in human history,' new unredacted filings reveal - TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNTnFrTzV4aWZWOXlXamdLXzZUWTZ3MndJeHFGbnZYSHp5X29LTUdPTy0wVmdpYTdhTXBRYXY4TTZsa2JseFNzXzdFelBIcXFWdXBsdmpIdXVzeHExbW50N01SM3p3Mk80dzlfNzNlX3AxVldIWlp3RDdmLWhyTDV3WUFUQmk2cDQ5Q3JYdDlyLVBRUmpvZTVnTnRIbFZxUGtiaVVLZUhKeGdSNFR3M0dBYjlLTDNwdjlENlJDaWl6RmJxU3hzcEQ4QUVNaU9VejFhZHlLa2xGVk1VQQ?oc=5",
+      "published": "2026-09-17T19:46:08+00:00",
+      "publisher": "TechCrunch",
+      "summary": "Microsoft exec called AI scraping ‘the largest theft of labor in human history,' new unredacted filings reveal &nbsp;&nbsp; TechCrunch",
+      "query": "\"Microsoft\" lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Nokia Shares Jump as Microsoft Partnership Expands Data Offering - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNemZWczJQdkc0eV9CVlYtMmhCWTFoMGJXTU1HbmRHa1BhcmotOFFPTUxpdWR2YVg0eFVWdzBUWldqLW5sdjk4RVp1OW1hSVNpTWVZQmx0YS1lWDhoU0ZkZmhtOWZzUEdueE1lMk8yUFFmSmJWQnM3aWZKa2lsQXVXOFRwWWRJeXlYS1FGMFQ2dFVSY0RqQUpHNE9jaXZ1Rm5pcjFR?oc=5",
+      "published": "2026-09-17T10:02:16+00:00",
+      "publisher": "WSJ",
+      "summary": "Nokia Shares Jump as Microsoft Partnership Expands Data Offering &nbsp;&nbsp; WSJ",
+      "query": "\"Microsoft\" acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "demand",
+        "price_move"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Microsoft Stock (MSFT) Opinions on Bank of America Price Target Upgrade - Quiver Quantitative",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWGtXNnZKamhtd0YxSG5lYzVNbDFMVXRuYjJ4TUlFU2w3emstYWtZRTVRQjA4QlJydmhHaEM3dzhudHcyUWIwSHVKTU9nMWZJTDZRMkZ5eHV4UUYtNW1fYWk2Mzd4MXFfQTVIbHllMXBwVTBkcXBJRTNCOURNdjJmQjBaRHloSzU2VWtFdGFNX1VrVWw2T25KbDFvdlo1bXlFZlRsNTF4UlUzem5Y?oc=5",
+      "published": "2026-09-14T14:05:00+00:00",
+      "publisher": "Quiver Quantitative",
+      "summary": "Microsoft Stock (MSFT) Opinions on Bank of America Price Target Upgrade &nbsp;&nbsp; Quiver Quantitative",
+      "query": "MSFT analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [
+        "analyst",
+        "regulatory"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "What if everything changes tomorrow? A Canadian company is using AI to help businesses navigate supply chain uncertainty - Microsoft Source",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8tdHNtSUFDWEU2aEc1NXJxajgwYjdfLS10MmpUa2pET3JWRFBQc1NweEtrV0ZncjM0WGdBVEtCbW51c2hjSVFTOVIwQjhOQXQ1OFpjWXlVTjUyaDc4cVN0eVJIRWRtVFNWVElycGo1SXByanNlOFg1TkV1X3k0cjA?oc=5",
+      "published": "2026-09-10T12:59:57+00:00",
+      "publisher": "Microsoft Source",
+      "summary": "What if everything changes tomorrow? A Canadian company is using AI to help businesses navigate supply chain uncertainty &nbsp;&nbsp; Microsoft Source",
+      "query": "MSFT capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity",
+        "demand"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Why Stifel Just Revamped Its Price Target for Microsoft Stock - barchart.com",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNOUxBQ196c3NhMk9rZ3k3SnhOdG5rU1hTVFdxMGVSSDZwaVBzWlRjc082ZHBSMXVCX3ZUR0RNUnZEQ0h2QmQwM0JuN1VqRWJTRUw3eVVacTNnWjRXOHRXVHRVTXN3WEZVSmNBWklVTGxrMnB1Z25VY3FIMTlfZ1pUTzVOMjlHNGJjSHloQmFaa1NxbHBkQTduNTd2a0dVYXU2U1YwVkpYVGc?oc=5",
+      "published": "2026-09-08T07:00:00+00:00",
+      "publisher": "barchart.com",
+      "summary": "Why Stifel Just Revamped Its Price Target for Microsoft Stock &nbsp;&nbsp; barchart.com",
+      "query": "\"Microsoft\" analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [
+        "analyst"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Seattle Times sues Microsoft and OpenAI, alleging they trained their AI on its journalism - GeekWire",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTm5HWjM0eF9lNm1wYVcyUFZkS2R4ek1kdmtiWnhTZnpOSWNBaFFta2NLSEJpalZlV2RXVVhaenRubV9heWF6MVRYNDNrRUs2eXI2YnBUQTVUdGtuMDV4NUh5QndZeUp0Zm1DODhDUU02anBGNFVCdUg5ekRaUE81X2UzcTQ2TVdiUkxhZUZ3Ry1NaDRjaWhKSDdIMUFMMS0wRHpZaVltcGI3b1FPTEM0UDU1eWY5eWF1cVBN?oc=5",
+      "published": "2026-09-04T07:00:00+00:00",
+      "publisher": "GeekWire",
+      "summary": "Seattle Times sues Microsoft and OpenAI, alleging they trained their AI on its journalism &nbsp;&nbsp; GeekWire",
+      "query": "\"Microsoft\" lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Microsoft and Meta Signed Multi-Decade Nuclear Power Deals. These 3 Stocks Supply That Power - 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOdVJuWTI3b1FBeGl4Wl9POGNWZmNxVEphQXVIQ2NJQnM4WktFVy1EQnBzU3BhWjBTR3FrMENseXlGMDZWcjJqbktObWRQa3FVLUZsb0MzWHZkNDl1NF85UWliR01RTnFVd3FRMVgwOWFfNXhOaE9pVDJZd1NObzJ1LTFHTnhFZ1ZzaUxBQm5KSlAtUFJLaVRFdHdSSlA5UGxwcVNtbkVWNFVFWmZVUm5heWd3NEtNN3BmcUQyc1J5VXRscFJrWEZLcDNyWk5Fbmo4?oc=5",
+      "published": "2026-09-03T07:00:00+00:00",
+      "publisher": "24/7 Wall St.",
+      "summary": "Microsoft and Meta Signed Multi-Decade Nuclear Power Deals. These 3 Stocks Supply That Power &nbsp;&nbsp; 24/7 Wall St.",
+      "query": "MSFT capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "demand"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Bank of America resets Microsoft stock price target for 2026 - thestreet.com",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBJVjVDWFRRaWVLb3RjLWJrdFEzd3JsQlJkY3BnWFN4OVlObldnZVpGUlM0QXVFNEZTU253MGhjNFdOT19aTk1HZUw0RkpOSDNGWTVGYWFaWGVJUllnTzFYY09mVlpOZ0xUdzd0SmdkYldiUWlURmtlRDlRSzV3LWM?oc=5",
+      "published": "2026-09-02T07:00:00+00:00",
+      "publisher": "thestreet.com",
+      "summary": "Bank of America resets Microsoft stock price target for 2026 &nbsp;&nbsp; thestreet.com",
+      "query": "\"Microsoft\" analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [
+        "analyst",
+        "regulatory"
+      ],
+      "lean": "negative"
+    },
+    {
+      "title": "One Trillion-Dollar Question Could Determine Where Microsoft Stock Goes Next - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVGV0bndxRVdjZjNxSjRyZ3Ytc1RVY3A3dV9VSDV0TnhKekpvQlRSZWpsSjc5Z3NIM1dSc29GSnhZWlN3Ynlzc0JzUG1GYThaazBxQk5wOFB5Ni15R2I1RmlYcjRwU3UyRk04QWZWdlhwZm1mMlE0YkxFUk9nTzJ6QzhYNzFjdjUzQ2FfT0Z4WmdUOEVVY2FXOENPd1AydlJ6V3c?oc=5",
+      "published": "2026-09-02T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "One Trillion-Dollar Question Could Determine Where Microsoft Stock Goes Next &nbsp;&nbsp; Yahoo Finance",
+      "query": "\"Microsoft\" analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [
+        "macro"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "DOJ urges judge to rule for OpenAI, Microsoft in N.Y. Times lawsuit - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNR0dkWmwxWFVnc2QzNnprVzNMLVRkVjVLOGZ0NUQwVEw0VHZ3dWlPSmJYUnptSGJfM0FrZURMTzV5SWRxSUZUa0dpR0ZFNWZkSE1GUUw4eXBnU05OVUNIZHF2OGtnUWFBNHB2bk1saUJMZWRrRjNJVUZNQVBDUXVXR0JRTnpCUDJ6WUFJWGdVY1Y3NFY4ZVRWa3RTTFJIa1IxNFVZSlBfd3BnTThR?oc=5",
+      "published": "2026-09-02T07:00:00+00:00",
+      "publisher": "The Washington Post",
+      "summary": "DOJ urges judge to rule for OpenAI, Microsoft in N.Y. Times lawsuit &nbsp;&nbsp; The Washington Post",
+      "query": "\"Microsoft\" lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory"
+      ],
+      "lean": "negative"
+    },
+    {
+      "title": "Prediction: Microsoft Stock Will Double on This Date - 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQM1VmTDl6eDdiSmZEdEpxTU5PQlFkSVNvd3NidUplVWo1bE9uaVY0cVlYMEdDaG84RWFSSTZuOFRXLWVielZnNEJGdFRTREVQelluWFl2bTdKRk5hWGlNbi1kZnM0QWdnVXFxN1o4aUw5cDBQVDJPTDhpRHl6WGxURG1haWREUllBNUVENTJNV0lxZjVjZktjOEthWQ?oc=5",
+      "published": "2026-09-01T07:00:00+00:00",
+      "publisher": "24/7 Wall St.",
+      "summary": "Prediction: Microsoft Stock Will Double on This Date &nbsp;&nbsp; 24/7 Wall St.",
+      "query": "\"Microsoft\" analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [
+        "speculation"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Can Microsoft Stock Surge to a New All-Time High by the End of 2026 as Azure Cloud Demand Accelerates? - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTVI5dDlXaHZiemtjeTBIZktHSkFOTHBMdE13b0pnLWRDR1RraGQ4Wl91MWxxRVRPMmt1RXFWRm5iUVVOVmt3c0JkTjg1QXc3cHNqTGRodG9yOFY1RWY4OUlGUnJueGNyWEVybDV0ekpQX0tHQXA5eG5hYzRmMkNxWkFFbVZZSHdlODA2Wlc2R1BfVU1qLWlpc3RpOWQ?oc=5",
+      "published": "2026-08-30T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Can Microsoft Stock Surge to a New All-Time High by the End of 2026 as Azure Cloud Demand Accelerates? &nbsp;&nbsp; Yahoo Finance",
+      "query": "\"Microsoft\" stock",
+      "source_api": "google_news_rss",
+      "tags": [
+        "demand"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Why Is Microsoft (MSFT) Up 12% Since Last Earnings Report? - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxObVp5azE0RFpsQkFwRXkyenRjTXYzWWI1QXdSc19LUldtNy1ybUNYYU4zYWEzak8ycmhRV29qSjZ0Rm16WUFDM2xJaVJaQ3p1X3lCVzUxNUNZaWQwYzUxOE10ZzFZMHFLUUdUNUZrTU5Na2Q0aFFkQi1BeEZJdlh5aVdnR0xsTFpMdHQtZ1kwSHFIWHlzV19v?oc=5",
+      "published": "2026-08-28T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Why Is Microsoft (MSFT) Up 12% Since Last Earnings Report? &nbsp;&nbsp; Yahoo Finance",
+      "query": "MSFT stock",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Prediction: Microsoft Could Be the Next $5 Trillion Stock - 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPaEtLbFdoMDdHSTNreGo2akJXRHp2aEtacUVYTk5qQjB0ay1EemQ5cFIxQ19uVXZmdXdyX0NZYW9aQWFKUzk0RWlDRGNudlVvXy00dV9NM0hYcnJFTWV0VTkyZkhER1JXTVlib3VQOXJOVHNFMU5ScC1odk93UWZwNGdYZWMwaWNIUmRiTDZRZmlNN24tVkhFcWJZdkNCOVZj?oc=5",
+      "published": "2026-08-28T07:00:00+00:00",
+      "publisher": "24/7 Wall St.",
+      "summary": "Prediction: Microsoft Could Be the Next $5 Trillion Stock &nbsp;&nbsp; 24/7 Wall St.",
+      "query": "MSFT analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [
+        "speculation"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Microsoft Stock (MSFT) Opinions on Strong Cloud Growth and Market Recovery - Quiver Quantitative",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQnlfRGhWcTduUEI2OGJJQXR2U2luNWlzb3F0NUsybmhxY2RaRGZTSVExYWM5WmgxdW9oTlY4ZzBGclc5dGZaQXoxaG8wMFYtbDRvX1p3dHFiRVFNRVFUUTd1ZkNBXzNYUTNfckxRYWNUVkNBMlNGZWtablAtS2JkSl91NXVVWGswYnZ0S18xTV9xcVlvMDFQSkM5MkJlZ250bjUtQW1iMnMzWFRLWEU5YQ?oc=5",
+      "published": "2026-08-27T07:00:00+00:00",
+      "publisher": "Quiver Quantitative",
+      "summary": "Microsoft Stock (MSFT) Opinions on Strong Cloud Growth and Market Recovery &nbsp;&nbsp; Quiver Quantitative",
+      "query": "MSFT competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "positive"
+    },
+    {
+      "title": "Price Prediction: Microsoft Will Hit $650 on This Date - 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOc3VOUm1rakpoQV9faDhiQlF4VEFnTW1CNXhlVEgwUDJZZmliTDdLeW92cGpyWkFEVWF6dEpxTDJuUlloWDR2Ml9ORkNOemYtU05mcmNfYWZ3bVFyQU1DbjBCdjFiNjlFN2lSQU1mUF9UT0ZUTXJ6ZmVHQnVWdU9SLUNhQTE5Q3pGcW1qaWZiS09tdG5DYl9aM21RVFM?oc=5",
+      "published": "2026-08-26T07:00:00+00:00",
+      "publisher": "24/7 Wall St.",
+      "summary": "Price Prediction: Microsoft Will Hit $650 on This Date &nbsp;&nbsp; 24/7 Wall St.",
+      "query": "MSFT analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [
+        "speculation"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Price Prediction: Microsoft Will Hit $650 on This Date - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPR2d3YmRKZVhoWnZaSjJVVGVuWktmQVpPX2tzRzNHUWJibEtRY183YldlY244SGZJMjYxYTFCc0NoYTI5U2k0T1hFWmxndnM5NTNIZzB6RDgyU1ZXTkR4VlR5N0NYNEUwRFJFS1J0SnRqZEV6Z0RVTTV6cWs1NTlpU1NqZGltV25JYUdobWVmMGE0Qi1ZbjhpdGUyTGVOZlls?oc=5",
+      "published": "2026-08-26T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Price Prediction: Microsoft Will Hit $650 on This Date &nbsp;&nbsp; Yahoo Finance",
+      "query": "MSFT analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [
+        "speculation"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Microsoft Becomes an Official Partner of the Toronto Blue Jays - Microsoft Source",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZlJ2UUNCblBzQWVIRW9hNHZ2ZHZqeEtJZ0hiZVVOZjRDa0k4TDF3TmZQdEM3OTlEbnBiM1lBTDF2U0Y3NXRIMkhjTS1BcVk5X2VESlZ1bTJmcFJXNWNZdHc5VjVSNDkwdi1mYU52YUNTeWFBMTk2d05tQXlWZWREWl80NmlCaUQ3b185M3dIY0JBZnF4Zm40WlpyQ080ZF81ODhKUEdRZnB1NFJZMEl2N182T2tYdw?oc=5",
+      "published": "2026-08-25T07:00:00+00:00",
+      "publisher": "Microsoft Source",
+      "summary": "Microsoft Becomes an Official Partner of the Toronto Blue Jays &nbsp;&nbsp; Microsoft Source",
+      "query": "\"Microsoft\" acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Microsoft (MSFT) Stock Trades Near Fair Value Following Its 66% Run - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNblhSdlEzeWxqV0RfeVZkdzlCdjdRblAtVXVlMHBYcDV5Y210RVk2VXRFSTRHaWtJNm1mcTU0N2pkQ2N3eWFibDhXclhRUlZucUtjeDhvTks0NXByRzBKdzZ5dnJ5YU9mQnRlNDZYRjg3UnNiYjl1d2VTNC1qX3dWeGlQRGRrT2xvYVhYZDNkRkt1bnBnTEh3dXRxNV9JUQ?oc=5",
+      "published": "2026-08-24T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Microsoft (MSFT) Stock Trades Near Fair Value Following Its 66% Run &nbsp;&nbsp; Yahoo Finance",
+      "query": "MSFT stock",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Microsoft Stock in 2027: My Prediction Is That It Still Beats the Market - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNN3ZDYk5zRTFEX01xTE1MR0kwQkhIalBnRkhsT1hjcUlhUnpiRHN3MzF0NVY1RVNwR1NSeUZiLXZvV3J0Xzh3MVEwTUE2cnRJSm5rcDNmRzN4WGNYUUVnRGhveEZMTjBGWjdCc0MyejhwRlR1d0lsdF9Sbm9fTHZHaVhhR3Y4cTlaV2MycWFGRnBSWXlwekY1T0dkaEtvY1ZQMXBRMw?oc=5",
+      "published": "2026-08-24T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Microsoft Stock in 2027: My Prediction Is That It Still Beats the Market &nbsp;&nbsp; Yahoo Finance",
+      "query": "\"Microsoft\" stock",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Microsoft Stock Dropped 30% From Its All-Time High: 2 Reasons It Could Double by 2030 - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdFRJTHBOQzdkMWtnVTBsakgzMGUwNU5UY0I2Y3RmR2wzZkc1SGlsd0xPdHBzZWF3Q19ielRYazhEcnl0R0hCdHl4dk1WOEVadUluZ1FsSXBXaHpzTWZXc2lWZzN5ZkVhMWlHaVB0T291RXVHSUVRZFV0QU1Kb3JLMVZVaHFIdkpLQTlWNEoyYmFpa2VYaGN6LV9ocGQ?oc=5",
+      "published": "2026-08-23T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Microsoft Stock Dropped 30% From Its All-Time High: 2 Reasons It Could Double by 2030 &nbsp;&nbsp; Yahoo Finance",
+      "query": "\"Microsoft\" stock",
+      "source_api": "google_news_rss",
+      "tags": [
+        "speculation"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "PRGS or MSFT: Which Is the Better Value Stock Right Now? - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNOFJ1WkVYYzB6X1hxeWlEaUpSd1VtOXJsd2d0NVRPYWtWMXJWMENmaERDQUN3ZGZJb1BTS19ESnNMSk5xaTRsMXpqQ0NfSEcyeWlUVmpFMXF1a3k4dVJRZy1fcWt0Zy1heGxVdzNiSW5HYlI5aXdDVF9DNWRMdzBMQVhmMFFPYUhkb0NRaDdZTW1NRGRKWnlQTA?oc=5",
+      "published": "2026-08-21T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "PRGS or MSFT: Which Is the Better Value Stock Right Now? &nbsp;&nbsp; Yahoo Finance",
+      "query": "MSFT stock",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Microsoft Stock Rises as $678 Billion Backlog Supports AI Spending - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOT2NtRUJKVWJsMktwaFZCWTJQS0k5TWRwWVJwVWJ2OTg2cE9rOENxVmpERXhCdzlHSFBlZU9hb182VUttMXA2T0J2UnVONmxZUllsQUI5eGFxbE9NU2RKbkZsSkN2UTZ0NUF4ODY2bW1Ha3pmLVpLVVp4bmE3a3Bjb3dfM180d0laMVphYVdNS0h4SU1Nd1pydERleVFnTXM?oc=5",
+      "published": "2026-08-19T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Microsoft Stock Rises as $678 Billion Backlog Supports AI Spending &nbsp;&nbsp; Yahoo Finance",
+      "query": "\"Microsoft\" stock",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity",
+        "demand",
+        "price_move"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Microsoft Windows Market Share Continues to Plummet. Good. | by Michael Swengel | Aug, 2026 - Medium",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVDVLbkhWSjRXcFRzUTlUVERlZVluTHRZS2oyNl9IVm96ZFdYUHVoUzVOVmlxc1J3NXV0ZmVKcEJGZDRFcnNHYmg2UXBHSjN0ejU5bXJSUVNvUDhWRGlPTnl1SFl4NnR6V3htWjltTEoxSVN6NlZpdGY1aWk3cUZsUnk5NFZyenZGUElIamhIYmpPc0RuX3NTMU9iemhUbXF1WG1vUTA5bw?oc=5",
+      "published": "2026-08-18T07:00:00+00:00",
+      "publisher": "Medium",
+      "summary": "Microsoft Windows Market Share Continues to Plummet. Good. | by Michael Swengel | Aug, 2026 &nbsp;&nbsp; Medium",
+      "query": "\"Microsoft\" competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Why Microsoft Stock Dropped Today - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOaXVINEFsNW1GUUNqZjV5aXNxcHY0LVpZVEJvNE9xNVNCSDlPTWxSZkh5aEVTMkZSenpSSXB0U1ZPLTJjQk5adWVzRzBaRmJNVXkybDJQOS1aRS1HTTVmQ3RXMjZ3bEJKcHVnT3BQTWtBOXM5d3B4MkZValYxeG5iR29DVnp0ZG05WnA1OC1WMWl5NnpPVXJwS0dJNkVFSW8?oc=5",
+      "published": "2026-08-17T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Why Microsoft Stock Dropped Today &nbsp;&nbsp; Yahoo Finance",
+      "query": "\"Microsoft\" stock",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Should You Buy Microsoft Stock Now or Wait for a Dip? - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZloxOFRVMnBnQVBWUVJNcHJtbzVXSEJYaFJ4Q0FvR3lYTnZkZFZDTTlmR1BOMUMxUHRpdHpvMk1WWm53eXlnbnMzYUhYaVR4SVpDb0pXRlhKTXUxbGViLWtMVU5VNEFELVFSb21xV19fVGFZM1U2S1AyWlYxWVNvbV9Qam5CRTJ1aEJ5dTdGWG5tTF9CNV9mWg?oc=5",
+      "published": "2026-08-17T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Should You Buy Microsoft Stock Now or Wait for a Dip? &nbsp;&nbsp; Yahoo Finance",
+      "query": "\"Microsoft\" stock",
+      "source_api": "google_news_rss",
+      "tags": [
+        "speculation"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "JPMorgan set a serious Microsoft stock price target for 2027 - thestreet.com",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUUliV0EwZWpiRkREcV8tQ1h6RE9YN1M5TGJVRWpMQXhfZFJTekFUMjVKYWpXQWd2bGZGT2FmOHYzUVdudlc2clZIb3RyajdINEkxZzByemdtLU5uU0dqVnhEdmtoX1RoLWE1QmdSRnlPZENUT1hlSE5qQUxxcFp2d3V1ZG50bmNxZWcxNHpoQ0xMdmV5Zk9yUjFCRWdqOW8?oc=5",
+      "published": "2026-08-14T07:00:00+00:00",
+      "publisher": "thestreet.com",
+      "summary": "JPMorgan set a serious Microsoft stock price target for 2027 &nbsp;&nbsp; thestreet.com",
+      "query": "MSFT analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [
+        "analyst"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Why this analyst sees another 30% rip in Microsoft stock - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSVU4eEMyS3pWYU1SSnNwRzdYdjlQLU5QdUpteG9NdlBKRVpaay1mVEFzRGFuQ1BxVmYwRDhlNS1mazlZUU9mMmJZd3hUbm9TcU1fUFRiSFRzV0cxaV9WZ0VBc0MtNnpkbXJHaXNGRHZZTnNWNGVlLTBsS3V0SnFocHUwMS1yWjF5V0luLXN6bndLcU1KUkFXN251dUlubzVVQ1NhUjZucl9SYTRvUzJMZDVHaVpSelFBdXJr?oc=5",
+      "published": "2026-08-13T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Why this analyst sees another 30% rip in Microsoft stock &nbsp;&nbsp; Yahoo Finance",
+      "query": "\"Microsoft\" stock",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "After Earnings, Is Microsoft Stock a Buy, a Sell, or Fairly Valued? - Morningstar",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObjBfRnY0TGNTZklUb01LVDl2dmNiX1ZfUDdiM0pMNldvR2F5MWhzMk41UTBTS2UtbUwxWmN0dXYyNUtLR2sxeWV6bVRRYUVvOWpOVTNYc2xZLXVkaG5zcTR6Qi13eWFBNERrM3M2WjZYdm9STldxSDFlaW9ncGloUFZFdUttLVFraERQMXNjcFN3WTYtUnpEWDRRcHRveWNsZ3VPNHY1YVM?oc=5",
+      "published": "2026-08-11T07:00:00+00:00",
+      "publisher": "Morningstar",
+      "summary": "After Earnings, Is Microsoft Stock a Buy, a Sell, or Fairly Valued? &nbsp;&nbsp; Morningstar",
+      "query": "MSFT stock",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Microsoft Sits 12% Below Its High After the Largest One-Day Market Value Gain on Record. Here's What History Suggests Comes Next. - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbHVlQUFDckZRQzliMFh2VXdXTTdIRTJoeGxXamdfY1ZNTTdacm9mWHpDcVRDc2RzclB1c1NWVlhMc0pvdnA5RTBhVGhGMnNqVF9PeDhROHVxb3FiUXJoeXdJVHF6S3JZdndCNFNZUmV3ZUl1eHBFWmpNazBoeXkyT3M0TURWa1lpWDByUkl4N3NHTEg0WU1TYw?oc=5",
+      "published": "2026-08-09T07:00:00+00:00",
+      "publisher": "The Motley Fool",
+      "summary": "Microsoft Sits 12% Below Its High After the Largest One-Day Market Value Gain on Record. Here's What History Suggests Comes Next. &nbsp;&nbsp; The Motley Fool",
+      "query": "\"Microsoft\" competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "positive"
+    },
+    {
+      "title": "Why Microsoft Stock Surged 24.6% in July While the Market Was Flat - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNTFXVzhya1o3NHIzOFZBRFlUMzlqVVJHZ0F6M3oxakc4alhjUEFLZ2lISF9USFBVSWY3WnBFaEdBX3JVQklvS2ZQUTcxbVd1Q3oyVUQ5UDc4MDg1UGlTcW9Relg4eG11OERfbmgyNUp3SHg3Y1dTbnJBaEJ1MnVKMERCUlZCY2lLdTRpYmNXUk51N1c4dUpKUUZB?oc=5",
+      "published": "2026-08-04T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Why Microsoft Stock Surged 24.6% in July While the Market Was Flat &nbsp;&nbsp; Yahoo Finance",
+      "query": "\"Microsoft\" stock",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "positive"
+    },
+    {
+      "title": "Microsoft Price Prediction: After a 25% Three-Day Rally, Here’s Where The Stock is Headed - 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNY3JxeGdRWVZuZ1pLXzZKbnV4RGtya1B6YWJNZUQ0d0dibVMweUZIZlN6WjhHWVNSS2FDd0t3YUtVYkY0czRPQXBjamIxQmZzUEZhM1hMZUxfUEFmMkVLbmhhY0oxbUhKMUgzU09WOG10aGktNDlKd2lIazB5RS1VVnJ1d1hHZllzUkNsNE9CR3dxM1l1WXIyczRrMjVGWnhHSzFLMnUtTENsVDRxRTdOX2VXRHdjTlo0dkg2ZXZGdHBHekFhMndZaA?oc=5",
+      "published": "2026-08-04T07:00:00+00:00",
+      "publisher": "24/7 Wall St.",
+      "summary": "Microsoft Price Prediction: After a 25% Three-Day Rally, Here’s Where The Stock is Headed &nbsp;&nbsp; 24/7 Wall St.",
+      "query": "MSFT analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [
+        "speculation"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Microsoft Corporation (MSFT) Shareholders Who Lost Money Have Opportunity to Lead Securities Fraud Lawsuit - PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPV0NaemFna2I3WFJpaDVKLVJsY2UwdVVvdHFYRUlGOENGYXotZmRvWHBCMl93VUxlM2VBcGNvMjBaM1hGWTc0ZlpwOGdxUllGbTEzYTh4VzRveFZhU29Bdnhicmk3N283OXJjS3dUbVFOQXFtb1lwcWtHT3Y0SEJ3eWFRaVFtclUtb2ViclVKWjFEbGVVNWZ5UjFPYkR3dE41ZGQyVXhmeWpoMXl1R2Utc3VZSkhwRHdlbzN5UVBIVUd2RUt2ekx4aFJiX1J2TkVlZGh4STFhbWZkUkZReWR5LXJXTkp2SzgyQkg4RE5waEJTdw?oc=5",
+      "published": "2026-08-04T07:00:00+00:00",
+      "publisher": "PR Newswire",
+      "summary": "Microsoft Corporation (MSFT) Shareholders Who Lost Money Have Opportunity to Lead Securities Fraud Lawsuit &nbsp;&nbsp; PR Newswire",
+      "query": "MSFT lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory"
+      ],
+      "lean": "negative"
+    },
+    {
+      "title": "131 Poisoned AI Packages Hit Microsoft’s (MSFT) npm. CrowdStrike (CRWD) Couldn’t Ask for a Better Sales Pitch - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRWVPaE9teWN2d2FIOW5RbWREeEZ0ZGpCR3FRN3pwYWxIczZOMTZkZFo5QV9sMFBwUkw3bzJ6V20taDN1OTZ0VFdfbldyWnh3OXQyUktNS1YtQnloamlmNEhBMjVWNmhnZmxxSGtncDBGaTV1MmpXTDlEcTZfN3JBSEdMeXM0REhEbGd3VHktUUxtSnk5RFV3?oc=5",
+      "published": "2026-08-04T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "131 Poisoned AI Packages Hit Microsoft’s (MSFT) npm. CrowdStrike (CRWD) Couldn’t Ask for a Better Sales Pitch &nbsp;&nbsp; Yahoo Finance",
+      "query": "MSFT capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "demand"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "ChainDrop supply chain compromise: Anatomy of a self-propagating worm - Microsoft",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOc2dZelVyZElPdlFBdjhwV2tTY3lJMU9xXzNsVC00dE5TT3prX1Z4bWdkOE83QzFtSzYyUWlwVjhXeXB1Smx0YTQwVkNiNlVBdjNZTktXcEdCd1JJdi1MZkhTMlNtM1ZiN0c3Q1pGNEcyY3Exekp3R3RCYVNSNUcyUWlyemtrYk44anQ0Sm52UnBpYzZLTnlVQXQ3UUdEWUdQZTZKNnp4MFJtVmlNcGxIbzg0WFFZTDBiTmMwQjdn?oc=5",
+      "published": "2026-08-04T07:00:00+00:00",
+      "publisher": "Microsoft",
+      "summary": "ChainDrop supply chain compromise: Anatomy of a self-propagating worm &nbsp;&nbsp; Microsoft",
+      "query": "\"Microsoft\" capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity",
+        "demand"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "3 Reasons Microsoft Stock Soared After Q4 Earnings - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPblByRGo3WGs4QkdfRGlVclVHbDRxVUMxbHFDSlRjYko3alJxVmhaa1hBMnQxOFZBQlNnQTFha1hnTkJ0cnk3ZUFJejZTRTV4QU5oWks0MExpYVhzZFh0Rmo5TWE4V2Z3ZFNBei16bzZmMzhRQ1JvR2Jfb01aRUtQNXFIcTFtc1Z2b1lLeWxFU242TXFmRjhwT2xxTkQ2Zw?oc=5",
+      "published": "2026-08-02T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "3 Reasons Microsoft Stock Soared After Q4 Earnings &nbsp;&nbsp; Yahoo Finance",
+      "query": "\"Microsoft\" stock",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "ArcelorMittal expands Microsoft partnership on cloud - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNN1Ewa1FBcUlHNWdqMHhlMG5TQVBtak1EWjZnVVdLUjJKODg0RW94Y21hcU9uVjdCRm1EYnJrc1N0VUxFTlExZzN5QTFzWHdydmtYODNvbUJyT3lIM0dQdC1JOHRNaXh4VUdmMjN2UXQzandFLTM0bUU4WklSekhOMFZQc2VCdFNDVmdteEtYa2RSX3VvN3B6QXJyMXY?oc=5",
+      "published": "2026-08-02T07:00:00+00:00",
+      "publisher": "Reuters",
+      "summary": "ArcelorMittal expands Microsoft partnership on cloud &nbsp;&nbsp; Reuters",
+      "query": "\"Microsoft\" acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "demand"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Earnings Update: Microsoft Corporation (NASDAQ:MSFT) Just Reported Its Annual Results And Analysts Are Updating Their Forecasts - simplywall.st",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNb3dPclVjYmpoS2FtQnJXQ25yNkJCdmJIalByLVIyZUxhcDRFNUNGZ2dwb044ZUFlZmxsc1VzVVk3S1JiWW14SzZuekZMNTR1SjVfLVhOeFNzR285REY3NUYwZjBnT3FRazlpN0Npa0lGNUpkQnBmUHJlMThBV3pZZzFvNlpUUTBiSGdfOW9ubmVmUjN1S2FHdlZhc2x4eEhUbV9xd20zS1R2ZUJaY0NCVzJRRnZ6STNsZld6c3ZGODRIWUlKQ3FR0gHMAUFVX3lxTFBwWFhkTUVvNUFZc1VhQkRiZ3B2VkRQWXgydUdOOVR2eFkweG00X1pxeEFtdlgydG9CMFhwN1lxMDUtLWZCOURFN1o1NF9QbWNrWFA1U0VwVUQybm1fcVY1OUJEMzFDeGh3Z01LT24zdjd5TFlNMGc3NWdCQ3JXNVB6UGVfYzlxUzFNSTBZYXppUFJHYXE5RWszaVJ2WUN2Q1ZnTGRkLWxJUlhLYUJkTHVyNXhKU0tFbW55ZlE2S3lGdVBybVg1XzlTTlFNZA?oc=5",
+      "published": "2026-08-01T07:00:00+00:00",
+      "publisher": "simplywall.st",
+      "summary": "Earnings Update: Microsoft Corporation (NASDAQ:MSFT) Just Reported Its Annual Results And Analysts Are Updating Their Forecasts &nbsp;&nbsp; simplywall.st",
+      "query": "MSFT revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "guidance"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Microsoft says cash will keep flowing from AI, shares rise - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVnM0ZHRyNk40V2NVODFGaFktU2hiQmNldC1DenlGTkNEWmhUNUhscWowMHBrR1ItNE82ZHZwVnRZdVVvTDBRbUtxOEdJa0c5TVdPOGd0X0NKOFBLSkZZc0szVkRpX2poc0hjYjRPOXlrSkVJNFQ3ZDJnV3lMZGJCRTJoZHdsaDBFTnp2cnd1OWNkZ2RjUV9iR0lGNUlNQVdYajlWZ2RHUDZfeUVUWF9tV053OUFNWUxi?oc=5",
+      "published": "2026-07-31T07:00:00+00:00",
+      "publisher": "Reuters",
+      "summary": "Microsoft says cash will keep flowing from AI, shares rise &nbsp;&nbsp; Reuters",
+      "query": "\"Microsoft\" revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [
+        "price_move"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Why is Microsoft stock soaring? - ABC News - Breaking News, Latest News and Videos",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBVdGEwenNmRldhNnhnMGh3TWhmWTNzRFN2V0VIMk9TUEg0aE9lRFpKVDFCclpVc0xYWVdyTEo2Mmd3YjN6SXpHMEx5RGRDQlo0VFNUeXFhbmpDZHVUSVdpQUlSSl9SLXBjdDhVd2h4R1FaSkdpeE5YTm5sSdIBgAFBVV95cUxQamJQNXRoWVFiNm4wTTZld0NLMXNLYTZYQmtEM3dpVEtzQWFxaXA4TkljWEhLRXlfdFVENTk2d3IzWXNYa0VSZVBicXVEc0JvOEhwSFE0N3JiUS1za1lFazBvOGMxT2lrakdTUzdBWWd6MjRSaXpfRDVmWm42U0dKZw?oc=5",
+      "published": "2026-07-31T07:00:00+00:00",
+      "publisher": "ABC News - Breaking News, Latest News and Videos",
+      "summary": "Why is Microsoft stock soaring? &nbsp;&nbsp; ABC News - Breaking News, Latest News and Videos",
+      "query": "\"Microsoft\" competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Microsoft shares are surging. Here’s how to still make money, says Mike Khouw - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZFpBZ0tFN0JCSll1ZzlsMG55eHNtQjVid2tCeFZEWFpqUHpTZ3l5VGR0OUttbFNrenBCWko0SHB4MHhqNDFqdGwxNE5GdlFFZUg2WmduUlM1LW53bmJDWDNJckg3VVNvSDZfdEZjLUhpbVNIbk4xNEVPNXc4S3FSdjQ1SGJDSTRaS205Q21IWW1oQTFRNVRhdGI1Q3dOWUVNLUduNGdoaFdmRWY1Rm04V9IBtgFBVV95cUxNd3pkNGFPblBZUG1KMkpxNkh1Mlk2RU1tRnY5TExnR0VtaDd4QnZWd0tiaUQ0dTh1RHd3WDVOQV9CSTlRenFzYm9rUDIxOEhlbkZMeVk5cU44Xy13ZEZuaC1TSjdFbjR5Wnh0R0Q3ZlNUS29rOVRXZUlyaEZXUmp0VkVtWjVLM09QY2Jhb2Q4dEdUWm82WncwRDliaWRsS20yZmo2Wm9lV3hkbEVIV1hPeGhSUlFtdw?oc=5",
+      "published": "2026-07-31T07:00:00+00:00",
+      "publisher": "CNBC",
+      "summary": "Microsoft shares are surging. Here’s how to still make money, says Mike Khouw &nbsp;&nbsp; CNBC",
+      "query": "\"Microsoft\" competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Microsoft sets record with near $450 billion single-day gain in market value - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQ0tiaDVEME85dnVMQU1EMzhiSlpJd1dMOXBzZGpSVGREZmpaSTdyT0RKTmZSbzJ1NjhHTFFhVl9UdGFHNHEtSFVlX2dpaEZtVTgyZHhERGptd0RzLUp0NkNiNThtYkNUWlh2NHBhOTNpcEx4Vklua1l1RTUxR1dpM0I3UjJSeHJXV0FlZFVwMGxJOHpLN2NyajhXdmpkODN5ZmRSU3hsT3BmS05jRUx4M0RMNWNucG9N?oc=5",
+      "published": "2026-07-31T07:00:00+00:00",
+      "publisher": "Reuters",
+      "summary": "Microsoft sets record with near $450 billion single-day gain in market value &nbsp;&nbsp; Reuters",
+      "query": "\"Microsoft\" competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "positive"
+    },
+    {
+      "title": "Microsoft's stock rockets more than 15% for largest single-day jump in history - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQY1d4clZGd29SUlVkemdZNzFwbm5nVUM2WFhjVXQwZWNqb25tMzVnQ0dvcXhYek92M3ZxODE1R2NjNjJrQXBCRzdVMjNOWkV3Sk9oX3RUTmtDbVdPV2tKMGd4TUFFcGFzYTBkYlA4ZVlrN3hneUx5LUY4SWRfRUhLaXZHMEFJcFJBUkJmNGZid0xLdkFCMkhxVUFPRDhHUmpwaktCNVRhWnlGZ0d4b3lHVU1WMVNicFFUNTZ1cXR3MFhKZnpYcEZEaWpjTGUxYWpRTVE?oc=5",
+      "published": "2026-07-30T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Microsoft's stock rockets more than 15% for largest single-day jump in history &nbsp;&nbsp; Yahoo Finance",
+      "query": "MSFT stock",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Microsoft: What We Think of the Stock After Earnings - Morningstar",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOcHkyUHdZLVBrcjBsMThaU1U5c3BxMUJGYnQ0NHJVcVhKUGxVRUVCLUhtakhTbGp1djNsci1vZ2lIZ2dSaWFRUHJBbVpnTFI5MUpBSDcwWUNVMEZuYUhpdldLVkRGSTNFelUtVmM5cS1NWWZ4ZXZYenlqY2hDVlNnc0lLMkVqTXd4TW8wbS1vaEs4dw?oc=5",
+      "published": "2026-07-30T07:00:00+00:00",
+      "publisher": "Morningstar",
+      "summary": "Microsoft: What We Think of the Stock After Earnings &nbsp;&nbsp; Morningstar",
+      "query": "\"Microsoft\" stock",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Microsoft stock surges on strong quarter, record cloud revenue - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPT0drdHRxcUR6WkNtMUlWQ3pQYlF5YWJscVg5QTlVNm00cDZMTHdNVUFxMXlOVThXTE1ELThsUFhuUk05eDlka0JFd3A0WFZ1MGZoZVEwa0V5eFFfYlBfLUtjdmdPcTZHOVdYVDA2bG43UkktRG9LRGRaYnZoUVgtUDVFSW1MdS1tbUQyU1FhSzkzWjJ5RUJJTm1lWm5ObzBXa19abGpPTW1LZjRBbkVhcElkZ2h2bmxQZE0xdDdwLWZsa0E?oc=5",
+      "published": "2026-07-30T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Microsoft stock surges on strong quarter, record cloud revenue &nbsp;&nbsp; Yahoo Finance",
+      "query": "\"Microsoft\" stock",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "positive"
+    },
+    {
+      "title": "Microsoft Earnings: Azure Accelerates While Capital Expenditure Guidance Is Steady - Morningstar",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQWU01SDZ4Y0U4TDgxU1F2eXgyUzZSVFN6QkREQWgxQ3JQWXpWOV9Nb0EtSzNxNnNKRk1FT3BCSktGWEdNdWs5RFk0bGYtVjhKLVRPdEJpdDVCQTNhRGJkNjZmQVV1c3ktMml2MHY4SWVqZTF0aW1fV0pFVFhxclQxWTNXdjRNT0xGZUdPTUQ2Q1FDSldWeXlUREZTaE5aQjlnSmdMYjlMd1o5SF9Dc2xpN25Rd0Z1Qnc?oc=5",
+      "published": "2026-07-30T07:00:00+00:00",
+      "publisher": "Morningstar",
+      "summary": "Microsoft Earnings: Azure Accelerates While Capital Expenditure Guidance Is Steady &nbsp;&nbsp; Morningstar",
+      "query": "MSFT earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "guidance"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "MSFT: Microsoft Stock Jumps 10% After Massive Revenue Forecast Update - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQbDdYQ1ZoekhJSmp5eGFYN1pXZ0JuWHlOTTZwSlBrRm1iUmh4SktHUzN0OW9pQlV0dFlZY05DcE95Q19CT0hwbl9MWGRjajlWYzM4MXdjX21pQnUtZ1g5Y2NENHFuTmFBdG51eVhoV1NOVzhqcnJJNnRCVEk0d0VoM19VV1AxRm04a2k2NGpaMTlsZVc3aVhVRmRQdzVfLXQ2d2gyOWE2SDBoM0llY3JmR0tMTGlDbUdVS0RVUlUzM1RTMnM2cTJ0SQ?oc=5",
+      "published": "2026-07-30T07:00:00+00:00",
+      "publisher": "TradingView",
+      "summary": "MSFT: Microsoft Stock Jumps 10% After Massive Revenue Forecast Update &nbsp;&nbsp; TradingView",
+      "query": "MSFT earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "guidance",
+        "price_move"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Meta sinks 8%, continuing record losing streak, while Microsoft jumps 15% as AI trade splits - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbEhaSmdSUW5LUVdqcFkxMG5YWWF1U0JjREdaR01PTWJBdG9JYl9UQXNlX1Z3Z2RZTkdOelRKb3pRU05OTVdBQmNhbUNTS2trdk5ELXpvNmdfbG5EWkU1YTNEWUFiOE5JOXF6Mk5GRzV1RUtDeUJkM3ZJeVF1eVJxbEtoQdIBiAFBVV95cUxQbXVGMzQ4WGhlbzJYbmpWdlVCZ0Y1U3lwUDNuRWJCSlM1ZGpBbFJ1T18yX19MSlBxbzBhOGVpMG9KX0R6SzVpQkV6MmMyQWN0Zkh3cXM2d2lWR05mM05oSTdMN0NjN0d4c3lsWXVjNVlGRzlqV2djSUxrN2E2andWTWRCcmpOeVVF?oc=5",
+      "published": "2026-07-30T07:00:00+00:00",
+      "publisher": "CNBC",
+      "summary": "Meta sinks 8%, continuing record losing streak, while Microsoft jumps 15% as AI trade splits &nbsp;&nbsp; CNBC",
+      "query": "MSFT earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capital_return"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Microsoft Shares Jump After Strong Outlook and Solid AI-Driven Growth - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWm5Ca0pFa1hIVVF3cE9XcDRGWkZuRzdKejBJV25PY1IxOUVJcmxvVkQ0Zll0aXFaNkE2b0gyWEc3dzlfcXBZd2ZITEYyMDVkcFFyczgwd1JsOEROWGxiS3Y2VzdTMktyekE4NTBjMURoVnRySmtiRTlPVnNJNHVaUkZCZndnX0ZQeDg3bkxDdUVIRmRQMTVwNUxldHZpbmY4X1E?oc=5",
+      "published": "2026-07-30T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Microsoft Shares Jump After Strong Outlook and Solid AI-Driven Growth &nbsp;&nbsp; Yahoo Finance",
+      "query": "\"Microsoft\" revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [
+        "guidance",
+        "price_move"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Microsoft Posts Biggest One-Day Market-Cap Gain for Any U.S. Company - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSnVMRnpOTU9YRU9RX2FwSDQ5dlptV1hxSzJPd1NMSlpEdTJtMXFvZTBYblJWcWFkams4TUczd0dCNm05bS1VSGJ1ZDBlYS0zYlNSbkpzRTlWc2tFTzZjYmJUang3NDcyWVNtQzNsVGFUSWxzc2w5QWJpaHZueTUydEhhQ1dNN3lvMFBrY3VTUFd1NkFJYk9BNWZlcmNhVWJmXy10Nmg2aDRsN2I5ZUJxdQ?oc=5",
+      "published": "2026-07-30T07:00:00+00:00",
+      "publisher": "WSJ",
+      "summary": "Microsoft Posts Biggest One-Day Market-Cap Gain for Any U.S. Company &nbsp;&nbsp; WSJ",
+      "query": "\"Microsoft\" competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Microsoft’s stock has biggest one-day gain since 2008, adding $480 billion in market value as cloud business booms - fortune.com",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRkhYWElCV055VHRiakotMVJRR2lEYm8tRmlhaWkwb1lyNzlMVHRLUWJVMVNtUi1XeG12Qm5sczV3UU5Qb01wbDVZcGUzZDdXZ29nVWhJTEVMeGlab1B5Mmp0MzZyOVl1SzVYLURTcHZGQzZfdEJ6OTVqY1NTeUxaMm1fYzBpNHFMbFlyNXE1bFJUQTNFSm10d3RQamtPZWY3U1B3VFZEbl95ZHU2U3FWWDJNMm1tTVFp?oc=5",
+      "published": "2026-07-30T07:00:00+00:00",
+      "publisher": "fortune.com",
+      "summary": "Microsoft’s stock has biggest one-day gain since 2008, adding $480 billion in market value as cloud business booms &nbsp;&nbsp; fortune.com",
+      "query": "\"Microsoft\" competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Microsoft's best day since 2008 leads US stocks, while inflation worries remain in the bond market - AP News",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVzg3S3dnZExJa0JrQ0tWRDJfOUxDS25LaHU5djJUVTlqTXhRMU9QRjNsZGlVNU5wclotbThRcW92Mnd0ZzdSaktaSktmMUpaVmUyaWs0aFF4SGhtc2E2TS1lcXNXSlphajlFQWFiaWo2aDdrLWlXTXQyTmZIeElQX3Mtelh6Mi1RMHI2UFFVdVdFTl92ay1N?oc=5",
+      "published": "2026-07-30T07:00:00+00:00",
+      "publisher": "AP News",
+      "summary": "Microsoft's best day since 2008 leads US stocks, while inflation worries remain in the bond market &nbsp;&nbsp; AP News",
+      "query": "\"Microsoft\" competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [
+        "macro"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Key facts: MSFT $41B Q1 capex; $190B 2026 guide; Azure rev; traders eye AI - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQbFlsMXZ5QU9MWVEyWmFhWlpLYi1OMGtXd3NpZmNMa3M2Nlh4d0RnMGxDVi1TSU1aalg5MF9xMlVBMjZjb2Zoekhid00yb3ZTSExLX216ZkRvVGduMWFNMjR2WVhKTGdGYWF2TFVuZnBWOWhKWnpSLTA2VUxHVFc0QmlYUXg2OUd1NmhidklpNllEVXZIUFRMUWpjZDJxMkZVZmk4ZGFaY0k2LTd5QTB0NzB5V3h4VUtEZmFtR0wzTjVSMUlsME9iXzhR?oc=5",
+      "published": "2026-07-30T07:00:00+00:00",
+      "publisher": "TradingView",
+      "summary": "Key facts: MSFT $41B Q1 capex; $190B 2026 guide; Azure rev; traders eye AI &nbsp;&nbsp; TradingView",
+      "query": "MSFT capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "capacity"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "MSFT Stock Soars After Results: CFO Dismisses AI Overcapacity Narrative, Says Can Rein In Spending If Demand Changes - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQd1lQbGU0c282cjFCRk01WFd5M1MtUkoxRjVNMi1BOW1MZWVfTUhldUlTNkdVZFFHSmduVTlVb3FiSEpGNmt6RUNwRm1PZXh0UmJWS3gyUGF5TXoydWF2RDFTazA1clRkWDRtR2ZDdEdVUUNFREpmRXNXcWNJd0QwdGZyTDZRTE5QQ0JDaXhNQXZ1eU90RDVOUw?oc=5",
+      "published": "2026-07-29T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "MSFT Stock Soars After Results: CFO Dismisses AI Overcapacity Narrative, Says Can Rein In Spending If Demand Changes &nbsp;&nbsp; Yahoo Finance",
+      "query": "MSFT stock",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "capacity",
+        "management",
+        "demand",
+        "price_move"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "MSFT Stock Extends Gains After-Hours, Up 8% — Unchanged 2026 Capex Outlook, Strong Azure Sales Boost Sentiment - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTGt3amstcEswZU8tenE4cVNnVmJGbEZoUmZBOUp3dUYxeGtGdFlreGtfaGszYkFXU0VZTzdYeGJPdURoS3laTmkwOU5YTGFVcFlUVVlsZV9Kcmk2U0xUVDNmUmtFeWdBQ0F2NjFfSzRmM28wUkZlb1NwdnRubWx3Ri1CYWNtMzNVakZXMnF5TlVkWkdyUjd1Zk0wUQ?oc=5",
+      "published": "2026-07-29T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "MSFT Stock Extends Gains After-Hours, Up 8% — Unchanged 2026 Capex Outlook, Strong Azure Sales Boost Sentiment &nbsp;&nbsp; Yahoo Finance",
+      "query": "MSFT stock",
+      "source_api": "google_news_rss",
+      "tags": [
+        "guidance",
+        "capacity",
+        "demand"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Microsoft jumps 8% as it boosts capital spending plans, citing demand - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZU9Obm5HZ1F4R21heXF0SGxzZlNjYVdZTVZGdXAzUzBHN1RUNi1LbnlPNHJicnEwNkxrSC1TTlBGdGhlWnR1YmNJM3dmTllxLUhpd0xmZmxsTzJmOS1WT3Y2ZWJlcXdJR2FialN0bUFaVjVWaUlxUG5BQjctWlZJNNIBhgFBVV95cUxQbGJXX29pOG1DQmVtVnhleVN5WHF3eWZSSjNUNUYyZGo0el9jUFRZYVZKZC1qTFNPVnNUUG9GM08yd3dXRUNydUx6S1JTam5UNzhldmxzd1hSREk4dENLaF9TOUx0UC1hd0Q5b2FoSGdiZlc1T3RjUnZuMnhkRWNnVkRYc0xPdw?oc=5",
+      "published": "2026-07-29T07:00:00+00:00",
+      "publisher": "CNBC",
+      "summary": "Microsoft jumps 8% as it boosts capital spending plans, citing demand &nbsp;&nbsp; CNBC",
+      "query": "MSFT earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity",
+        "demand"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Microsoft surges on strong revenue outlook, maintained capex guidance - Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWUlxTGM5emc3dnlEUEQxb3VyeTBrRkZWdXZlRnBuajNmdzlPVnV4VUdvcGtsTDJDTDBCVzlib3JVejRLeTd0ejFLbDYtZkJHck1RUHVfZUFvU2JoRXNLTkxKV01IZTllYlpzbnZYNlBITFB0VW5Ub21ld3ptZWNTWVR6eXl3ZzNiMU9uRWQ3U29FaEk4dWM5LWhoU1NXXzdVbXVoZjVPVzlaWFZyX3c?oc=5",
+      "published": "2026-07-29T07:00:00+00:00",
+      "publisher": "Investing.com",
+      "summary": "Microsoft surges on strong revenue outlook, maintained capex guidance &nbsp;&nbsp; Investing.com",
+      "query": "MSFT earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "guidance",
+        "capacity"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Microsoft Cloud and AI strength fuels fourth quarter results - Microsoft Source",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNOGduWWtVTDNKbC1BS2VVd25nODZmVEZWblNWeS1FLVFuZ3hwN1pKcXFDa3V0aVdpSjBPWnVrMk9sSUUyUE1va3dzdWhLX2RWeVI4TWhGelA5dEExSWtHUTRJZU5aT0djby1SbnE2SU03RFVBLTFRblNxUkt4R0VNaTVIVDQ5Z2ROSGF0dzNHNjZjVmFaR0tyWUpUa2NsVUlTMzJQZWktN0Etd0Ry?oc=5",
+      "published": "2026-07-29T07:00:00+00:00",
+      "publisher": "Microsoft Source",
+      "summary": "Microsoft Cloud and AI strength fuels fourth quarter results &nbsp;&nbsp; Microsoft Source",
+      "query": "\"Microsoft\" earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Microsoft pops as Q4 results top estimates; Azure tops $100B in revenue (MSFT:NASDAQ) - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPeG45Y003b2gwR3BkUnFBVGxDc3hrZFhtM3N2TkVDejFnQ0VObEM3SlVzaXpSOUZRQU96aVhBQ0djUjcwYW1PQ043NmY3ZEFIY2I0VllsczE2cmlkNlBEem1DLVhMTkM0RVBQeEhsR2hmVkdVUk9pUWNvcm1QN1AtY3pQZ1dudFRhNG5nRnNubHZZdktLclJyRVlycmJOZnY1YWREc0VWNk1QNVk?oc=5",
+      "published": "2026-07-29T07:00:00+00:00",
+      "publisher": "Seeking Alpha",
+      "summary": "Microsoft pops as Q4 results top estimates; Azure tops $100B in revenue (MSFT:NASDAQ) &nbsp;&nbsp; Seeking Alpha",
+      "query": "MSFT revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Microsoft tops estimates as Azure passes $100 billion annually - Axios",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9RZHVMUThDcFppSmxLTkgwNWlvRS1pemVOZVl1NHFBaWJPNm9hUDdEdDFoQWZ6bnpjWncwR3NMOG5XOHZoQmlERjl0a1c1cTFHRVhoaG8zV0Q5LTU0Q1F0cXJaNjhvNi1JMWFKSUJadw?oc=5",
+      "published": "2026-07-29T07:00:00+00:00",
+      "publisher": "Axios",
+      "summary": "Microsoft tops estimates as Azure passes $100 billion annually &nbsp;&nbsp; Axios",
+      "query": "\"Microsoft\" revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Microsoft Smashes June-Quarter Targets On AI, Cloud Strength - Investor's Business Daily",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOcVYyMk5NeVllNWtoSTdFLWVaRlJveVNFYUdKVU9abkpHdDJWUGpqYXMwMmwwRFlqRXZOQUtLX29FVWFyQWdud2hlbVVIeVAzRGlrUC1TTW90RE1uN05sWm1XaW12VTVaaEV6cUdSWmJNZDUtTG5GcHZHeWZ6NVhjWkJDU1czelhTc0ZJbURPY1Q?oc=5",
+      "published": "2026-07-29T07:00:00+00:00",
+      "publisher": "Investor's Business Daily",
+      "summary": "Microsoft Smashes June-Quarter Targets On AI, Cloud Strength &nbsp;&nbsp; Investor's Business Daily",
+      "query": "\"Microsoft\" revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "MSFT Deadline Alert: Levi & Korsinsky Reminds Microsoft Corporation (MSFT) Investors of Securities Class Action Deadline on August 11, 2026 - PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOT3VvNDVDa1R5SURnRHZwMzJUYlpub29LOEE1ZEpnZmExY3kxc0JWc25sTnc1clpaaUxsN2RPYW9FZ3FzMlE1YmRtLXpyM2FDV01OWWJHdi1iMVlCc3VTT21BNHRqdF80WnZEVjJ2cTdxbjg0NEVtZzhDTGVBdFQ2dzljN3FkOWRENWtMR2JyX0xDblplSXdoNThla29YcEQ2TjNVVTZkcDl4MWxjQVMyd3ZYZGo0U2NNc25Zc3VLclNHV0pwQ054U2dUY2x4SXVJX3E3X0xqNThaTTVrcTBqeFRTV2dUaXZDY3NocWNreUVuSFFRcUp6M3JsS2xrNUpRY21qNzZwamZmamFEbmtnaHZCT04xTy1GMEE?oc=5",
+      "published": "2026-07-29T07:00:00+00:00",
+      "publisher": "PR Newswire",
+      "summary": "MSFT Deadline Alert: Levi & Korsinsky Reminds Microsoft Corporation (MSFT) Investors of Securities Class Action Deadline on August 11, 2026 &nbsp;&nbsp; PR Newswire",
+      "query": "MSFT lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Microsoft set for $190 billion market value swing after earnings results, options indicate - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMmdTdm5hbGdYQlREcmpoNTJ6SjZjTHotOGlpUWpZOG5FY2lEWHBkRU9odFM1WTZUTUk2Q09uZXFrb25rRHJ2R3RyOHcyeUJZNUJtQ0s2aGlWYUNJOUJYX2VxUy0tN1VsOUFjSVNQdDZWVmFTNUxpbG9LSmRKQXNaeVBuWXZ1WXFxSUlaSXppZzZUemtBUGFoSUR3Y2txclRWekVDaHl2MWozZkFvUEE3bDlJemRaSFYyMEwxR3hlanhEQWpETU1Z?oc=5",
+      "published": "2026-07-29T07:00:00+00:00",
+      "publisher": "Reuters",
+      "summary": "Microsoft set for $190 billion market value swing after earnings results, options indicate &nbsp;&nbsp; Reuters",
+      "query": "\"Microsoft\" competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Microsoft earnings preview: AI spending, cloud margins, and why the stock keeps falling - GeekWire",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNHdkU2RGSFBCTnJoZEt4LWtCTkZmYkFmcGQ0UUE2SlIyMVItdk10b21VYTJYZWFKNlA5SEM3RmttbFg5LVZubXo2blFMb0xzVnZzcldKM01nRVp0c1VOQ0lQeV9VQ2RQel9fU3RFbUlwdF94RjNJSk1ZdzNCZ0F3X3FxZjdFdXUwZGUzekZBUHlPaTEyeW9XOFd5RWRIVEo4LWJ3WmxVXzkxcGEw?oc=5",
+      "published": "2026-07-27T07:00:00+00:00",
+      "publisher": "GeekWire",
+      "summary": "Microsoft earnings preview: AI spending, cloud margins, and why the stock keeps falling &nbsp;&nbsp; GeekWire",
+      "query": "MSFT earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "capacity"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Why Microsoft, Meta, and Amazon earnings could crush the S&P 500 - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQS3d6YTkyMTJRdUI5OFBrVEFOWTVtOHI0enpuYjVCNkF3MWFzZUlBa240bFJXTTMtcXI3WGN5czNGTUVLdWtNZjlQSWlzbU5xWDItdy1rTWp2cERWYW5XeUtoNEh1T1B0QW9pckdhS2hyemtkUGFPb3FTd3lnLVJ1eVpMWHMxXzZMWkNzUmYwWlBiZkNaRlNBT1dIOWZURjVTZXlTQjlkVWl5dW96eU4yc2dGNUU1T1cyanc?oc=5",
+      "published": "2026-07-27T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Why Microsoft, Meta, and Amazon earnings could crush the S&amp;P 500 &nbsp;&nbsp; Yahoo Finance",
+      "query": "\"Microsoft\" earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Microsoft Plans $190 Billion of Capital Spending This Year. Wednesday Shows Whether Azure Is Keeping Up. - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOeE9vRnlGbXYybzdRWW1wVEZpdkJ5NW5wdDFhUk04Y3EzbjNObGZMb0RXUDhJWTRfeGVxTGpLY2lFRHNzWThuOWRQNEI4UzZwX1o4X2ttR3JVU2h4SWNodjBLOVZzUnI3SjVqSjJfSXJ4Z3JMTDV1N1F3UTkwUWxMWHlyZFFIUjdTVFNEd3ZMR09xR1R2ektvN2M1Sk91NUw1cHc?oc=5",
+      "published": "2026-07-27T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Microsoft Plans $190 Billion of Capital Spending This Year. Wednesday Shows Whether Azure Is Keeping Up. &nbsp;&nbsp; Yahoo Finance",
+      "query": "MSFT capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Earnings week ahead: AAPL. MSFT, AMZN, META, XOM, PYPL, CVX, F, KO, ABBV, V, QCOM, BA, MO, SOFI, and more - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNQ01sX2VwVlU3T25SMlRLRDBxcGVvV1gzZlpJVHRlMkQwMkRoSWRrLXV4QjZ1LWpQRmxHd0Z4V25uZkh0VHF1eUhTaWVsTTZvVzAtVEFXTl9FUVB1YThjSktuSzZiZEhQX3ByaHNycHZ4bUpNbHIxSXZyZWtUc1lvY0hQQUZRMDc0c0xITllNNU80WS1MUVpoLV9UZ1FTZUJjbFRZYUNwc2RyZWpoaW9hVGd1U0lGU0pEVm9ta0MtdW1zMm93V2c?oc=5",
+      "published": "2026-07-26T07:00:00+00:00",
+      "publisher": "Seeking Alpha",
+      "summary": "Earnings week ahead: AAPL. MSFT, AMZN, META, XOM, PYPL, CVX, F, KO, ABBV, V, QCOM, BA, MO, SOFI, and more &nbsp;&nbsp; Seeking Alpha",
+      "query": "MSFT revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Microsoft Earnings Are Coming—But Azure and CapEx Will Decide the Reaction - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPeVFTeG0tZFU2UlJ3dnRZWXppRDBDLWxqckQwXzZNV0tIdkE5WW1NUHVyNFlxclc5elVqUk5HZE5hS3NfUUx0bk1fWFB2bU4tWHFuYXg1NnVOT0ZrY21OakdYMFl2MkFXZkYtVVJsWEVEQ3JyekFESlBPMllsbi1TMzhjSWlTNy1ncW5jNUpmczNjVnAxcmFDeHRfOG1VX0JnVVlCNQ?oc=5",
+      "published": "2026-07-24T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Microsoft Earnings Are Coming—But Azure and CapEx Will Decide the Reaction &nbsp;&nbsp; Yahoo Finance",
+      "query": "MSFT earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "capacity"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Microsoft Preview: The Definitive Guide To Azure, CapEx, And Earnings (NASDAQ:MSFT) - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMGg2QXlNWWpJQmlRZWozaElHSTdHN3I2cVNxUERRVk96V2RpV2w0cTh1RXByOUZLUDFYRkcyM2JEVGxUQ3JDVGpsOFZtVWhHU1JlQ29PZG1IalFoc3NLYjByY1Q3dDJaRHQtYnJuMThJT1I5ekh5ei01dG1kZS1WZWRGdVdEU2ZkQzF3bVduNUxKdDlVOGJmMzNJd2lBb2tlUUF3MmtJRWxqRVU?oc=5",
+      "published": "2026-07-24T07:00:00+00:00",
+      "publisher": "Seeking Alpha",
+      "summary": "Microsoft Preview: The Definitive Guide To Azure, CapEx, And Earnings (NASDAQ:MSFT) &nbsp;&nbsp; Seeking Alpha",
+      "query": "MSFT capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "capacity"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Databricks and Microsoft expand partnership to help enterprises bring business context to enterprise AI - Microsoft Source",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQLTl2ZnhsZ0R2NkdtOFNiXzI4SmdJWDBRQUdyVXlwdGFxMmJtbTJtZUJmUUJrazhuOFdjMTZkM1VEbF9Eb1B3ZmZCNHR2X1RUajBzZUpQeEZQbkV4Q0kyOTN2ZWhhQjBubENjWXhXNXdRNUpXaExRRkVsWl9ZNEdkSUloUUZvbmpCTUd5amdnYmJSY2ZfOG9RLTdBM3VSRkQzOXcySVloT1oxbUJGNUlOdWRnTmVQUE5RaGRzM1Rrd1R6MFBtSlNNdnNpamN6R29TRmQ4TGJFSXg4UFRJOFVXdkYtRQ?oc=5",
+      "published": "2026-07-23T07:00:00+00:00",
+      "publisher": "Microsoft Source",
+      "summary": "Databricks and Microsoft expand partnership to help enterprises bring business context to enterprise AI &nbsp;&nbsp; Microsoft Source",
+      "query": "MSFT acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "demand"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Microsoft's Azure Cobalt 200 Offers Up to 50% Better Performance - Stock Titan",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTTBpcExzQmhZTnBPeDRBMk50bUtubXJjbXU2SHY0TERMYWZNaG8zX2RUNnZkS3dkeHVpekdmTk9hZndNd05teUN6U2pHU0JaRkNGaGxfQnN5UVBoWGtQaUxnZHRGUl8tTmc5Q2tQM253emdPbU1PTGtER0xxR3ZTTng1UlNjX3Zsc0dfcHlLOVdXQURrb1hVamhjUGpqdkdjbWxqcnRHdGRtYm5CTEpsV3ZGYzZHT2g4RUE?oc=5",
+      "published": "2026-07-23T07:00:00+00:00",
+      "publisher": "Stock Titan",
+      "summary": "Microsoft's Azure Cobalt 200 Offers Up to 50% Better Performance &nbsp;&nbsp; Stock Titan",
+      "query": "MSFT acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Databricks expands Microsoft Azure partnership, to use more custom chips - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNREF5U0N2TUhPNzdSVTlFcEd3Zmg2UUx2Y09Ob1EzZGU2b3hDY3l3U0tua29zZXYwMXNRRU9SZk9lY0xnSkkyYTZEMzF3UVNIVUIzTzVwdWxmZ2VZV0poN0VoQjR4MjVzR1pxcGNTS0REX1cxN3Q0WXEyY1dFOW1ZcDEteHJ6cHd5dDRwZ2k1M0d5WVlDQ3JPeTJIaWNTemRKTGNJdWpHdlIxWll4RFJRUTlNaw?oc=5",
+      "published": "2026-07-23T07:00:00+00:00",
+      "publisher": "Reuters",
+      "summary": "Databricks expands Microsoft Azure partnership, to use more custom chips &nbsp;&nbsp; Reuters",
+      "query": "MSFT acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "demand"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Going Into Earnings, Is Microsoft Stock a Buy, a Sell, or Fairly Valued? - Morningstar",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUzNBTkhXakNuQnR3aHhOd3NWbWhRZnlkVEcwc2lEQm0ybFJ4U0NQaS1wMG9JODBtbi1XdEw4T0VlRF9oTEcwYzJIMlBCTW0zV0FMdTQwQWVXbTF6QzJQS043UXNTWTVzTm5sejA4S2dZTnBQNnVKOVNSOFBHZUl5REhwMWZIWm1CR0RfTFEyZ3U2Vlh4ZTdEcWtaaHAxSTVEbExpZnJxMkJzTWNyZml3?oc=5",
+      "published": "2026-07-22T07:00:00+00:00",
+      "publisher": "Morningstar",
+      "summary": "Going Into Earnings, Is Microsoft Stock a Buy, a Sell, or Fairly Valued? &nbsp;&nbsp; Morningstar",
+      "query": "MSFT stock",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "MSFT Shareholder Alert: Microsoft Corporation Securities Class Action Lawsuit - Investors With Losses May Contact Levi & Korsinsky - PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNbUtFTUdpeWp4b0ljYzUyNndpVlpWVDlPQWxzbmZKdU10bkVyMjFhcXZpZllSV094YXR5SGUwMWhmUXlaX1llRTItU3FDaXV6NW96YjlYNEJPOWI0S0cxTzg3azhocW5feDFvV3Z5aDNTRGRxLWQyVEV2YVNVVzJZc1RqYlpJZF8tR0xfbV82MG5hdkJZUjloeE9ELUt0UzdFeHg1Q3U5OG5Ga1BRZ095WEtkZjNTdmxCVFZuTFhUbkFoT19zd0p6ZEhNZlk2cUl1NGxCeUh3QVItLXBuZk95ZWt4TVcxUGtyM3ZNUjlrMHM3U254b19JRXgweXVtLTVRQWdiWDlkbGlxMVl4RDd0b3ln?oc=5",
+      "published": "2026-07-22T07:00:00+00:00",
+      "publisher": "PR Newswire",
+      "summary": "MSFT Shareholder Alert: Microsoft Corporation Securities Class Action Lawsuit - Investors With Losses May Contact Levi & Korsinsky &nbsp;&nbsp; PR Newswire",
+      "query": "MSFT lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory"
+      ],
+      "lean": "negative"
+    },
+    {
+      "title": "Manulife Expands Partnership with Microsoft to Accelerate Enterprise AI Governance and Innovation - Microsoft Source",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPRm1uUE1XTHZzc3hpbjNuYlU2QnREc0Zjc2hubXFhLTcxSjNmeHNDZU1ESFl6SG05Y1pRV09ORlBEN01SV3NBMGFEME15TGZBOF9OVkViaDhrY3M0a2NRSFVuMnktMHVkdlo3Wm9IYW1nVlNOWDF5YU0wRktmTUF6N3dnS01LR1ZPVDQtbm55R2hpWS1RTVROVmZjVUZpcjRQb3UzS2ZwS1N4LW1KTjdFeFM5Sy1zYV8xUjRNYW15NzhjR2Q1ZkhNbjJ3VXZ5UVhfUDB2OHB6WXR6bjNmNU13UnJqaGk?oc=5",
+      "published": "2026-07-22T07:00:00+00:00",
+      "publisher": "Microsoft Source",
+      "summary": "Manulife Expands Partnership with Microsoft to Accelerate Enterprise AI Governance and Innovation &nbsp;&nbsp; Microsoft Source",
+      "query": "\"Microsoft\" acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "demand"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Microsoft and Mistral expand strategic partnership to give enterprises and regulated industries frontier AI they can control - Microsoft Source",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOYXY2QVMzcXpqZGY5T3NmRl9BX3FQdWkybktodjNVQWxxTTFFSjhfcHFWdUVNRVlRUkNlWFNFT1hUa2pIQks0ek9DNGp5WFJ3VXROeVZDS1BMU3JGd0JNc3U3LTBJcUNIRHBELUM1UFBGcHdRWGNxdkJJbnU2bk5ZUFlLODFaY2xNaDhrMDFxUy02S3dCWFhtb2VxazZVdERlN3lDX1l6ZjdfVkwtUXM2N0JaaWQ4cGRtbkNWRXVqUEJEdS1WbVRBalZVeWZLLUVMZms2am5mdDBDYnJoNThMUTZwbWUyUUdMRUhMM0tPNUIzN3pXc2s2eTNZWWtjeDA?oc=5",
+      "published": "2026-07-21T07:00:00+00:00",
+      "publisher": "Microsoft Source",
+      "summary": "Microsoft and Mistral expand strategic partnership to give enterprises and regulated industries frontier AI they can control &nbsp;&nbsp; Microsoft Source",
+      "query": "MSFT acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "demand"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Microsoft's AI Bet Could Rewrite AMD's Growth Story - MarketBeat",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQR1pyZF9UUTZ0SmdSb3dDTXZHZW9QYUR3bWZ0SmJSNkdUY3FqUC1pNVRxWE9JZVU5S3pGb1hlOUFsNHdCSmtpNU54TjR3M3FaVm1jaEE1MDBBQ1RfZDh4TEZMWm1WVlZVallvOXE2VWJXLURqNFdETHRzZ3dSZ19WSXMycnNncXFsOWhDbVBsOA?oc=5",
+      "published": "2026-07-21T07:00:00+00:00",
+      "publisher": "MarketBeat",
+      "summary": "Microsoft's AI Bet Could Rewrite AMD's Growth Story &nbsp;&nbsp; MarketBeat",
+      "query": "MSFT capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "positive"
+    },
+    {
+      "title": "Over 60 Analysts Say Buy Microsoft. Here’s Our Price Target - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZzVVMFpNNHdibVBLb0RsbEJwZWNBXzA1ellNd09UaTBIREduQ0tDRXhqbGl5Y1RSOWZ0aDBjdVBfUUE0dnFGMExWV2F1MUpMMG93OUNPNU8yRUh1NEdVODBOQlVrcWlMc2xUbEF4MTlld005TmdoSjVSenJ6YkY0ellxOXR6UEhRd0tndUZHZjNmcEY4eFZBTEtuZw?oc=5",
+      "published": "2026-07-17T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Over 60 Analysts Say Buy Microsoft. Here’s Our Price Target &nbsp;&nbsp; Yahoo Finance",
+      "query": "MSFT analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [
+        "analyst"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Microsoft at Black Hat USA 2026: Defending trust in the age of AI and supply chain attacks - Microsoft",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNaFBlQk8taEdKLUhlTVFDU1lPdFIzUEFycGczWXgyeUtkdGwzVm4tRURQLWdyVktzZDRIVXhGQXh5Ty1rdHh6R0tWTS1NVkFTcVFuMXpnOVN6a01LcHlUeXNMVHJLQ3gzSU1jUEpQWU9oNm56WWdqOFZobVdXUkRZcWk4b19YMFdNLVRvSFA2VHdzcVlwdkhMdHRQc2Noc3FHQmVOcV93YUcwa0ZHSlhPQ09pT0hQNEwxSnNEbm1zMDZKdEhCNXJsYU5BTnNiUXpaWkdMdEZDNzBZSGJZODFQWA?oc=5",
+      "published": "2026-07-17T07:00:00+00:00",
+      "publisher": "Microsoft",
+      "summary": "Microsoft at Black Hat USA 2026: Defending trust in the age of AI and supply chain attacks &nbsp;&nbsp; Microsoft",
+      "query": "\"Microsoft\" capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity",
+        "demand"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "MSFT Shareholder Alert: Investors With Losses May Seek to Lead the Class Action in Microsoft Corporation Securities Lawsuit - Contact Levi & Korsinsky - Business Wire",
+      "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxNel9SRGVKTXlkZ0ZPMHotTHNFdXZPeTR4aUV6WXByNFIyb2o5WF9CMlBHa19FREtSZG52NFFmbjFHeVd5T0EwbllfVkRmRUprcndFdE5ONnFWakIwYk4teHJUMEdaVUlxVlhuVmVMV1Zwdlg1MktPc29ySE8wMHM5VGp6bmFqS3NSckZGZWtnTy1LbVVRVUFSakFWTEZuWkpYVU05VU1pRGJyZnpSVEg3MWdGd2ZWbUYzOGJ2T21ZUmpvRWw5U0hDWVJtbmJyYWpGa0xwQjNjVE9zYjJVMzlmdFFBVVUyVWV4RkxJLTRFN3QxY3kxX0l6VE1ZYmswU3FhSnZoRkNFVGlFREc4QlBGX0JRNVAtUHFVaXl2Rm1temZURGNfNFdackNMWWo?oc=5",
+      "published": "2026-07-16T07:00:00+00:00",
+      "publisher": "Business Wire",
+      "summary": "MSFT Shareholder Alert: Investors With Losses May Seek to Lead the Class Action in Microsoft Corporation Securities Lawsuit - Contact Levi & Korsinsky &nbsp;&nbsp; Business Wire",
+      "query": "MSFT lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory"
+      ],
+      "lean": "negative"
+    },
+    {
+      "title": "Citi Just Slashed Its Price Target on Microsoft Stock Ahead of Earnings. Here's Why. - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTTZ6VXN4S0s3elVYcnZ2RzNrajh3WmFwTW1Ga2FpVnZnMGhzTTBwb1FXa0J4QVFpZjF1d2NIeWRTcmNzVUxxZWMyY3djRnlJWGk4SVNqT0hZSDVEWXFRM3RKMTFlZUVpVHZCMnlkMnFlZGJ0dk5BUTlaTnloWG5pRFpOdVVJaVYxckt1LWZwZmNRSFdCTkdzYjNyMA?oc=5",
+      "published": "2026-07-15T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Citi Just Slashed Its Price Target on Microsoft Stock Ahead of Earnings. Here's Why. &nbsp;&nbsp; Yahoo Finance",
+      "query": "MSFT analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "analyst",
+        "speculation"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Why Two Major Analysts Are Pumping The Brakes On Microsoft Before Earnings - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQV0JtamVYc0IzYlpCYUlyMVBZT05LbGNGWWo3OVVQTnZPWjhoOHBzS01UVHB5M3dYOFFUU0FNajBYc1BWQ0VhelQwZkdNVVZxb1p3dDNVVWY0Rk1QWUNyZ05QSlljQ05LdWNFMFB6TWFNLWE4dDNWN1l0ZUJ1OWoxZnU3V0E3RjVZSXRpYjI4TDJuWEZWVWlQLTl3aw?oc=5",
+      "published": "2026-07-15T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Why Two Major Analysts Are Pumping The Brakes On Microsoft Before Earnings &nbsp;&nbsp; Yahoo Finance",
+      "query": "MSFT analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "MSFT Sees Fresh Price Target Cuts Days Before Quarterly Report – Citi Sees Strong Q4 But Expects Higher Capex Spend In Q1 - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOX3JtUWloajNKTENJLUNzV2xQY25tMDlyLXBsNVZQeS00a0xSUzFmSzFKZktJNF9VRG9JUjBvaS1DUGI3RW5MUWlmOWhNX1djQkVfTzBLRVVOTlFmUmMzN05vZlplTWl1ekJ4aUotMTBsQVVxNUNEWUlvTWdldDdQVHRDdU5kOGpnemJ3VExKWGd4U2hBNjFucA?oc=5",
+      "published": "2026-07-15T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "MSFT Sees Fresh Price Target Cuts Days Before Quarterly Report – Citi Sees Strong Q4 But Expects Higher Capex Spend In Q1 &nbsp;&nbsp; Yahoo Finance",
+      "query": "MSFT analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "analyst",
+        "capacity"
+      ],
+      "lean": "negative"
+    },
+    {
+      "title": "Microsoft Stock Hit With Price-Target Cuts After Flaccid Performance - Investor's Business Daily",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbHV5VGE0R0RvRlJWd2gtUkVWcDFfWUx1d081UmVTR2JIUnFkbTJTcW5HTEtmMXRab2p2V1ZCdEVSeGt4X3dGYkdhOXVTdTh6eE5XaFh4WTFOZWNLUHhva0wyNE1SVTYwb2V1OG1mRkJoT2JPMXAxS0tLOWdIQXBaeVU1MFp6RFViZmlxbDV5RkdRWDhRMGlBaXpLeEJEOTh2T3o1dHUzeWVVbUhlTVRoSA?oc=5",
+      "published": "2026-07-15T07:00:00+00:00",
+      "publisher": "Investor's Business Daily",
+      "summary": "Microsoft Stock Hit With Price-Target Cuts After Flaccid Performance &nbsp;&nbsp; Investor's Business Daily",
+      "query": "\"Microsoft\" analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "negative"
+    },
+    {
+      "title": "Lost Money on Microsoft Corporation (MSFT)? Join Class Action Suit Seeking Recovery - Contact Levi & Korsinsky - PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQVEhuMVhBM3lyNTJzSThMdUk0VWoyeVhzdWFuVGpiWEFlS29oVHJwZVg4OEtSNWZHYnFScWRZb0FPR0JqS04ycG55UE5wbUJYZDRXblF6dTE4eHNEX3NWUHVOa0dzTHVqcWhyM3ROemlGdnJPT3dWa1RNUXdSUTlhUTkwM1BVTGtSSURMNXllZ2FJb0lzOWNiRk9QNk43ZkNjYmdKaGZFeWZGbjNRVHk3TEVqTzNJZmd3YzFSYVUxYmp0TnRPLVIwT2VhTjB4THdYUWZyU0MwMFNRS19yX1A3YUJuQTRabjVfbTFhTDUtQjJ4Tktq?oc=5",
+      "published": "2026-07-15T07:00:00+00:00",
+      "publisher": "PR Newswire",
+      "summary": "Lost Money on Microsoft Corporation (MSFT)? Join Class Action Suit Seeking Recovery - Contact Levi & Korsinsky &nbsp;&nbsp; PR Newswire",
+      "query": "MSFT lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "3M and Microsoft announce strategic partnership to advance AI data center infrastructure and enterprise transformation - Microsoft Source",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPdkpKZnFhMTNSaXZPNXBwOWdoUTctc1RrTFJKbzhBVlNtRmNyYThSRi1ocFkzYnJLNkF3Nkl6eTRKUFFqVE43N3BRS0xWYzY1SWN1Vm1MRy1MMHhiU0RNVWlrRURTcFFkYnNta0NCblZycDFabGdKQUthcnBQWDFpWWtJTkpQemJWbjlGdTlvSDhXWUFJWjg0RWNrOUlXWDVRaTJybHJTNVNVLWtVX0YzUEtBTmdOa25aNkk1cTd0VkV6a2RVdXpfSnlyNG41Znh3eU45dThCOUhYaGRmd2lzUlFkNWQ4QWpsQS1KT2JUV0NZUnNwdEJ3?oc=5",
+      "published": "2026-07-15T07:00:00+00:00",
+      "publisher": "Microsoft Source",
+      "summary": "3M and Microsoft announce strategic partnership to advance AI data center infrastructure and enterprise transformation &nbsp;&nbsp; Microsoft Source",
+      "query": "MSFT acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity",
+        "demand"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Unpacking the AsyncAPI npm supply chain compromise and import-time payload delivery - Microsoft",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQQUs0VENRb3lGZjFfTDhCLWZ5c19GYTJXcS0tcnBPbjBRUzJCTlNpdTNjOGlGcEx3bHMzLW9xR0x6MkRHS3FPTERldFMtWHBkb0lmT0Z1ZXlLa04zSnVBTVRWTDRUQ0VDTXBZYVdOcG9QTlRnYWI5U21CYzRGNnZYRTc0MFgtelJEUzNpaWdqUFN4aUVhbmdxdm0xMFJUdVF6TFJUazgyUkY5Mk1fRTR3emhudzRtSTZjQW10anpIT3J6V2NQUDVwdExZcGtSUQ?oc=5",
+      "published": "2026-07-15T07:00:00+00:00",
+      "publisher": "Microsoft",
+      "summary": "Unpacking the AsyncAPI npm supply chain compromise and import-time payload delivery &nbsp;&nbsp; Microsoft",
+      "query": "\"Microsoft\" capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity",
+        "demand"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Microsoft (MSFT) Stock Declines While Market Improves: Some Information for Investors - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNaWJXUkJBWFI4S3ZDT0cxNkZ0bTFDSTRuRVlnRF83MUxSWjM3ZXJkSnh0YWdWdWhBclIzd1JTMkJPa0VWOEtLMzlpWC0xbEYycjdOQVVHUWoydGZLMTNFZzNTcFBab29MZVBYYlpnOUJFOFhBXzNCcGJwTFJWR09pM21xbWpJR2EzSEdwZU5zVHdxaUVxRm96T18xWnhxSnVYZkE?oc=5",
+      "published": "2026-07-14T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Microsoft (MSFT) Stock Declines While Market Improves: Some Information for Investors &nbsp;&nbsp; Yahoo Finance",
+      "query": "MSFT stock",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "MSFT Court News: Microsoft Class Action Lawsuit Alleges Securities Fraud on behalf of Investors with Losses - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOWDl4QnJmdTN0TmhIRUh3Z1gwbGZ4T1c0ck83QW1PTkNyck9ER0dUVFBnMm5wclpaUHEwQTJuQ3B0al9RUHAyNFAyMUVoX0hLdmw3UUNjSWQ2RmllRkZSRTd5Tm44MjNiMWVDNm84SjQ1bUhMQ1puRmNJbWtSQ1ZkS01vYXZ1MXRVVk9BanBxRVp1dmNoeFpGWUxtcEk1R1FESHpPUHpMRmgwZlczWVJJb3ZBb2hCaVhXdmotbnNaQ29hdkRIMGZrOEhwZjdSa1g1VVNyMGZlamx1VnpUMkVJRThUem9oTHduald5eHdNXzJGU0prMWxmSXZiaw?oc=5",
+      "published": "2026-07-14T07:00:00+00:00",
+      "publisher": "TradingView",
+      "summary": "MSFT Court News: Microsoft Class Action Lawsuit Alleges Securities Fraud on behalf of Investors with Losses &nbsp;&nbsp; TradingView",
+      "query": "MSFT lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory"
+      ],
+      "lean": "negative"
+    },
+    {
+      "title": "MSFT Stock Bucks Iran-Linked Sell-Off: Microsoft Releases Mac-Style Search On Windows 11 - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOcFZqNFZwYWV3cS12VndZUkNNMnlYQTlvM2x5TXpWaHFiSVpBRkJZTXI0M2QtYU9VTlRHTTZ3R0FhZzJRajQwcXVsenk1d3pMM1BpRGtaZGxYUjc1Tk1ZUTloSGJ2LW44WWFjSzQxYTdOckY2bWM0QXJEbW1HMk14WXNmNElCNU9fS21naC0wY0tmMGxKaDBGcQ?oc=5",
+      "published": "2026-07-13T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "MSFT Stock Bucks Iran-Linked Sell-Off: Microsoft Releases Mac-Style Search On Windows 11 &nbsp;&nbsp; Yahoo Finance",
+      "query": "MSFT stock",
+      "source_api": "google_news_rss",
+      "tags": [
+        "product"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Mount Pleasant data center noise complaints, lawsuit filed - FOX6 News Milwaukee",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQck8xOVdGZTQySTVhd2pIWE82eUVJZlVQdkJYYnltS2RiT2s0UlY3UUVtdERuQk5YOUF0QWlVbjkzbjA1Sno2RHdkQ0xHbzh1MUJ2NzN1anA2ZnlNYktMX0psdGtNNWg0c05obVZFX3k0ZWhrR0hublp3aThyUU9fb09xT25hNndmYThlMnVJdkVpQlJxQW1EQ2ZVNnI3Z9IBowFBVV95cUxNb1lwYlJzV0FDRE15WVF4YnlDREpMdUpHQ3JpeDZTTm9kMVhfWWg1WW5qM3dJbFpaTGhjV1FCVkR1clJCMVJhYmxYZEswMWg4QzJMNVFPcUNQZzFxTk94RVloM25USDlpMFViNmRFck5wZVplZy1FS2FDdGpjMWNLcVJncHhISEh4UUM3QXdFWmtta1l4R0dLLW93Q2JXLURHWGdB?oc=5",
+      "published": "2026-07-13T07:00:00+00:00",
+      "publisher": "FOX6 News Milwaukee",
+      "summary": "Mount Pleasant data center noise complaints, lawsuit filed &nbsp;&nbsp; FOX6 News Milwaukee",
+      "query": "\"Microsoft\" lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory",
+        "capacity"
+      ],
+      "lean": "negative"
+    },
+    {
+      "title": "Should You Buy Microsoft Corporation (MSFT)’s Shares? - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQV2c5cF9jQXJQbjdWbUgtYlB6NWwtaHdBREpnb1Q3SXFCb3ZfYnZIOWVUQ3NiZF9ibmVINl9SZ3p2YkZLUlRfM0dMUVNTVmFaYXZ5dS1hcUQ4ejZldEtEbzdIVGpEemxOSTVuTWpHSWNmcTNWdjZyMlBxRjFaVmVKZjBNc2FkUDc1N1VRaGVSb21VdXFKLVNqYXNsTjBaVmpnby14MQ?oc=5",
+      "published": "2026-07-12T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Should You Buy Microsoft Corporation (MSFT)’s Shares? &nbsp;&nbsp; Yahoo Finance",
+      "query": "MSFT stock",
+      "source_api": "google_news_rss",
+      "tags": [
+        "speculation"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Microsoft (MSFT) Stock Looks Cheap On Earnings While Cash Flow Drives Debate - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSlZOZnR1T1lYejZSZkZmZlJsNDBsMDhzbUZUZUtrZ0toMC0zZm83eTZQOXR0R3VzVWFFVGZRaU9vVU5SOURTMTFLRVNRbi1QVG94VUpxY0liSzY3alFkMUo5dUNJOGpTd241RHZEVEctOEVNdG85bk12cHVFTl9pOHk5cG8wSEEtWVdnUkRnQVlWcFhJWVg0MXV4QWhYUQ?oc=5",
+      "published": "2026-07-10T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Microsoft (MSFT) Stock Looks Cheap On Earnings While Cash Flow Drives Debate &nbsp;&nbsp; Yahoo Finance",
+      "query": "MSFT stock",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "MSFT Stock Gets A Price Target Cut, But Argus Still Sees Nearly 32% Upside - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMk91R2lOaHp2VnZmNnBjdk9yeEt2TExfdUVENS1xRk8wZEpRcHlYZGtuVEh0NjV1bnR2MmgwLUItZ0J3bVZiU0huMzR1d0lma1FJUnZ3RGtuR1gzTm1lMkZmQzRzRnRMaXdkRTVzNkxqdVAxVGE0ZnRXOU9kN0dhSU9RLXVNLXpfREdyanFhZ3ZhalR6c00xZw?oc=5",
+      "published": "2026-07-10T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "MSFT Stock Gets A Price Target Cut, But Argus Still Sees Nearly 32% Upside &nbsp;&nbsp; Yahoo Finance",
+      "query": "MSFT stock",
+      "source_api": "google_news_rss",
+      "tags": [
+        "analyst",
+        "speculation"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Microsoft’s Brad Smith on Washington’s AI policy: ‘Regulation without transparent or complete rules’ - fortune.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNN1hXb3BtMll1OTVlMlpCMGhhQi1uQi1VeHRWek9YUU1ZM0gwTE1WQlFyQU4wUTBTNmN4N0FPQ2dJaG5qTWFfUTlOaXR5Z0k4YjBSZ0o5aXFuUWo0cW5POExLdWhxVlN3b0c5OVRDUmNMWXZIaTV1UXBFWXFCYlJzc1p2WkJQcHBQNGRDTy00T1RaNko3Z25xZE1ybVlkUDVEb0lHakFPRFhTRFYwNk1EOQ?oc=5",
+      "published": "2026-07-09T07:00:00+00:00",
+      "publisher": "fortune.com",
+      "summary": "Microsoft’s Brad Smith on Washington’s AI policy: ‘Regulation without transparent or complete rules’ &nbsp;&nbsp; fortune.com",
+      "query": "\"Microsoft\" lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "New Analyst Forecast: $MSFT Given $525 Price Target | MSFT Stock News - Quiver Quantitative",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOaHVWamlWM3lwR0JFbllUSjZ4VWNsV29va3g0TDRMZ0p0TG02SS1LdFM5am1wLU9obW9CbnFrVjNhbHNqbW8yNm1hdk51V3FURk92Uk90NVFIZklyZ29lOEx1Vy1xMHlUMVo1LWdabXdwUHRYLWFHV182ekNkWmhmZTVYZ1doWEdJT2l4YmEtcDRaU25D?oc=5",
+      "published": "2026-07-06T07:00:00+00:00",
+      "publisher": "Quiver Quantitative",
+      "summary": "New Analyst Forecast: $MSFT Given $525 Price Target | MSFT Stock News &nbsp;&nbsp; Quiver Quantitative",
+      "query": "MSFT revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [
+        "guidance",
+        "analyst"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "MSFT Investors Have Opportunity to Lead Microsoft Corporation Securities Fraud Lawsuit - Morningstar",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNUU1Ca1lMOVc4ZFF5UU4zMUF4b0pSSUZIajZrNmFSYjhqMTRRZHBVZFJsek84UGNLYUhZaEtaaFFKMDFPMXA4SEg0bW9TSG5qRnprVDlzdWZ2NFg1V2FxSHBxN0FIV2lLMXcxNnlRQ0RJdURFazRtOURvaWQxdWVwaWtSMVR4Tm9yQmV1ZW9TeWUwWXRRc0tHUVVpZlFRN21xSUtVaXAxS3oxVVdhUGpHZm5pdU1TbnZ4aE02aF9qY01DOXdKOXFvV2RrMDdOVHlPTWN1Y1ZTdXZpSW9ITGJpVQ?oc=5",
+      "published": "2026-07-05T07:00:00+00:00",
+      "publisher": "Morningstar",
+      "summary": "MSFT Investors Have Opportunity to Lead Microsoft Corporation Securities Fraud Lawsuit &nbsp;&nbsp; Morningstar",
+      "query": "MSFT lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory"
+      ],
+      "lean": "negative"
+    },
+    {
+      "title": "Lawsuit targets Microsoft data center in Mount Pleasant over noise complaints - WKOW",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQWWxSdzJ3cEYwSmxWRlEtTDhsdGthTXVpZ3ZFTmJLWERrYk9oZnhmdTBGNGtmdElPQXdyZzM2OHBDLTBvTFZYb21JcHpjUlNtX3BWcGxNQlRCcVNNb0R6bGY1bkpCaFJnTEN6eVhVWW5hMHBnWlM2ejJJVmNTYkdFUnRNQ0FVc3Z6VWRRX1ZuZDBUUXB6RUtCbmpYU3JQSEF4UzcyeDRVLXlONVg2bm1wcTFmZzRpYmRTUHozMkNOMjVNVF8tNWtqV0NQVkI3RVl3Sm15ejFkNFkwUzA5RXpEZHVnZkg1R2lB?oc=5",
+      "published": "2026-07-04T02:30:11+00:00",
+      "publisher": "WKOW",
+      "summary": "Lawsuit targets Microsoft data center in Mount Pleasant over noise complaints &nbsp;&nbsp; WKOW",
+      "query": "\"Microsoft\" lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory",
+        "capacity"
+      ],
+      "lean": "negative"
+    },
+    {
+      "title": "Sturtevant residents file class action suit over Microsoft data center noise - Wisconsin Examiner",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPODdhNFMzNTNrdjVfNS1Mc1JXZDRBWGx5ZjlJV0lQM2tZbklFYkNLWnRUQ0NlQlBDWGlTdTBMTHVyenFZa0FQVDZVUVNJNEhBZWRDZjNRSWtfT2pYTWE0V1ZKa0c3QkFpbU9Lekx3cElqQkFwaUVMVnNRUVdWWVIxbU85WE0zVzRzc3k5UHZ2b1RCYUt1MC1CanQtbURDazhTS3BXX1ZvM0RNOE1MUjRiM1BwS1BoNmhVc1Fna3llbw?oc=5",
+      "published": "2026-07-02T07:00:00+00:00",
+      "publisher": "Wisconsin Examiner",
+      "summary": "Sturtevant residents file class action suit over Microsoft data center noise &nbsp;&nbsp; Wisconsin Examiner",
+      "query": "\"Microsoft\" lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory",
+        "capacity"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Microsoft sued over noise complaints at new Mount Pleasant data center facility - WPR",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNV1piSWdpcE9lQUx2WEFEUUozWVJsVHJqU1hZOGFUSk9LQUwxVGdIUVJGUUNhajFOYUZGZlZHMlNKSTNRZTJaN1J4VkhoNERFMUladDJ6TDBiYTVhbjkxb2V4TFcwMXd5dXBmamZwVGh2TDY1bEVGbXk0QVRDa2NmeEU2alhSelpoaDd2QWlnQm5yQk81?oc=5",
+      "published": "2026-07-02T07:00:00+00:00",
+      "publisher": "WPR",
+      "summary": "Microsoft sued over noise complaints at new Mount Pleasant data center facility &nbsp;&nbsp; WPR",
+      "query": "\"Microsoft\" lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory",
+        "capacity"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Microsoft sued by Sturtevant residents for noise from data center - Milwaukee Journal Sentinel",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNVTdhZXhrMHd4SlBwWE9uNlBjaGhVbkhEdmkzQkZzdi1ud25peWlVRHRCRWwxNlUwenpJZ0wzd0t3NVYwLTFXX0JZd2JMbEZ3cWx5Q2pjVzlvVElPVW9Fak56VjlpOE1OY1EyWFNVRkdkYVRMdWQ2UHBRdVJNcmtnWkpxeGY4Uzl1a0VGRjVXOWk0dlVNV1pTb3VuQ0I4RTM0azE5dEQzMDcyYnBKaU9sMFVzalFhVzc3Y1czQlI1bG5fdjFFVXpkSUNYM0g4bnc?oc=5",
+      "published": "2026-07-02T07:00:00+00:00",
+      "publisher": "Milwaukee Journal Sentinel",
+      "summary": "Microsoft sued by Sturtevant residents for noise from data center &nbsp;&nbsp; Milwaukee Journal Sentinel",
+      "query": "\"Microsoft\" lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory",
+        "capacity"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Microsoft Gains Solid Ranking in Gartner Supply Chain Top 25 - Supply Chain Digital",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZEg0emotdTA5Q0Q3UVkzclZkcktmV0JTeENNcV9iOVF1cWVWdVYwN1hwQlpKdTNIMkk4X2FlQlhOaktjY0cyTmV4N3NmX3IyNkg0MGNveU5MandNcmlaRUVfWGYzRUh3c3NHMUVtWjBXaXptQlhHeTY2NVgtbVFtSjVNWWNJLUdZUzlHNA?oc=5",
+      "published": "2026-06-30T07:00:00+00:00",
+      "publisher": "Supply Chain Digital",
+      "summary": "Microsoft Gains Solid Ranking in Gartner Supply Chain Top 25 &nbsp;&nbsp; Supply Chain Digital",
+      "query": "\"Microsoft\" capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity",
+        "demand"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Microsoft stock is headed for its worst month since 2000 - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObWVNRE40SkdPWW1sVUVJOS15dTY0czk5ekU3RS0zU0NpbTlGVzNOaGkycXJKaTl0c0FITXZsZ194R2NTbkxEV2dYdEdLeHFJRmgzQUFqOVVkckJsdmktQ2kwcEJ5ZXVib2JXTFk0S1NrVGV0T0sxRkZhdFFqSG5VbVlaSE5mc3duQ294bm5zZ1JZbzdwSkwyaHdVV3N1akpLV08wZDhsZFZyRkdTSE5rdWtONA?oc=5",
+      "published": "2026-06-29T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Microsoft stock is headed for its worst month since 2000 &nbsp;&nbsp; Yahoo Finance",
+      "query": "\"Microsoft\" stock",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Microsoft (MSFT) Faces EU Gatekeeper Move And Italy Antitrust Probe - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNHhJLUJvTnJsY3BrSGFsaGdYWTBfNVhWZFlyM2lwWmdNRzRpUUJuSVdnbFBQamZPS1VJdUVqR3pQVXU1Si1hUEhzeGlTbXpxaVk1RGVKbHJKX0FTWDl3RzR4anpBem5seTFnQ0l5ZDNNbUdiaHM5OXgxeDVxOXRBMWg3eWRjVzFCamd5YzdaYjZORW5wSC1hRnpaMHdSdE0?oc=5",
+      "published": "2026-06-29T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Microsoft (MSFT) Faces EU Gatekeeper Move And Italy Antitrust Probe &nbsp;&nbsp; Yahoo Finance",
+      "query": "MSFT lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory"
+      ],
+      "lean": "negative"
+    },
+    {
+      "title": "Microsoft (MSFT) Expands Operations With a New Strategic Partnership - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbjhndTR2NWZZU2w3Y1EyU285VUY5bWZfdEdfSm5zWFlaY0FPa0VxR1VMMWRRaUNlT0VfZFF1UkM0Y3BVeHliVEJCN2d5X1hsLUZOT2wtc3JjdVZ6cG83TDdxbmZmazdCeEhIbjFyY1c3VlBlZ1ZqU3QzN08zcHhtTm84MUpvVDhwOEc3R2hjYTc3YWhYWkF6OFRhTnM5QnZQRDdUOEtsWUpUOU84?oc=5",
+      "published": "2026-06-29T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Microsoft (MSFT) Expands Operations With a New Strategic Partnership &nbsp;&nbsp; Yahoo Finance",
+      "query": "MSFT acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "demand"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "JJ Food Service completes a 21-year Microsoft ERP journey to the cloud with Dynamics 365 Supply Chain Management - Microsoft",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQLXloNGE0ekNQUnh1S0RwSGJuOUY3YTQtd2VOcVFvRl9CLWNLakNXbF9qR09TcWJjbWRPR0l2QnVDZzJSaWt0dHdwUGs2TVhEVndUMWJvMXNERzJaYmNKeTBDSFV1NEdCMDVTTGtFelVXMXJJNVd2X1F3WUhPVFZtcWNHUnRCVWZJUEJ6UllWZ2Q?oc=5",
+      "published": "2026-06-26T07:00:00+00:00",
+      "publisher": "Microsoft",
+      "summary": "JJ Food Service completes a 21-year Microsoft ERP journey to the cloud with Dynamics 365 Supply Chain Management &nbsp;&nbsp; Microsoft",
+      "query": "\"Microsoft\" capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity",
+        "demand"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Microsoft Forecast: Strong Buy With Near-Unanimous Analyst Support - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRFEwRk1oVGlmX180TS01aFJaQ3g3d3ZJdEJacUNGZDNtV2M3V2VyTEU1cmY4VUxiWkpPR3NNS2xIWGJQM25lemdXWTNfQm9XY0dDV3RMdXlXWFNISTJ0czF0Mm52VnNiT2RSalVkTmt6SGhXcXBobHZkNk5RNERvVUFKanhrQUpiSzNEVDVBV0JkdkFCMHBnc0xWOHdOOHNh?oc=5",
+      "published": "2026-06-25T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Microsoft Forecast: Strong Buy With Near-Unanimous Analyst Support &nbsp;&nbsp; Yahoo Finance",
+      "query": "\"Microsoft\" revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [
+        "guidance"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Microsoft Forecast: Strong Buy With Near-Unanimous Analyst Support - 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWFdSTnNtY0hNWUV5bWpNT0N1bzdoOW13QS1BdVBQeWhneTFmRlNHcTFfaUx1Ri1FR0JhSVQ4aVJxSC1Rd3owZElVZERqbHZNTVZ2dkVLWG1nb3NVNFo5c3hzdkMtWEtBOWc3RF83YldxM09FMm1Hd1VqSmdOVnpYV0VEU1Z3cWRUTEtWNF9OU2E5QW1ZWnlXaXoxWlJldy1pWFB2MHhKZ1dyU2J3VFE?oc=5",
+      "published": "2026-06-25T07:00:00+00:00",
+      "publisher": "24/7 Wall St.",
+      "summary": "Microsoft Forecast: Strong Buy With Near-Unanimous Analyst Support &nbsp;&nbsp; 24/7 Wall St.",
+      "query": "MSFT analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [
+        "guidance"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Arkansas Democrat-Gazette, WEHCO join lawsuit against OpenAI, Microsoft - arkansasonline.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQakg2UlVoRndsdmFZMlV4d3VTc0dvWHY0RGlDVVJpb0tzbWFTSzEwcGlybTZBRHV4Zk9nMWhneklSenZjR2tPekEtR2k0N2xfaHI0cl8yVlJLTEdfOElfZ1dsY2gzN1g2QmRBQy1MZU1WUnVBM0FtcmhyeHgtVFBlT29ySmhIZVVCaXJreENDUFBjUlh2VU1CWA?oc=5",
+      "published": "2026-06-25T07:00:00+00:00",
+      "publisher": "arkansasonline.com",
+      "summary": "Arkansas Democrat-Gazette, WEHCO join lawsuit against OpenAI, Microsoft &nbsp;&nbsp; arkansasonline.com",
+      "query": "\"Microsoft\" lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory"
+      ],
+      "lean": "negative"
+    },
+    {
+      "title": "MSFT UPCOMING DEADLINE: Levi & Korsinsky Alerts Microsoft Corporation Stockholders of Securities Class Action - Contact the Firm - PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxONzVpM2RkQlZpOHBHUUFKbzVqQlN1NFpsTHM2Wm9KTmVjNW5rN0VXZVJQaDNENElNbmVqdlYyZUFQNUhNeWNPc1ZMTFBVQTZzWnU0cWpLeGQ2eHFLb0Y3M0R4bWdsN1RkLUZCdHF5V256WURnVkc5TjR0SVFaczY3aS0wTkhYaWR3WHBwZko1Y0YwM1gwRlpEb01CY0hXbDgzMnV6TW11cllmMHpWcFRNUTRlZjJMTTFnOFVyVWgyejZWRUktNXdzdWc0RlQtLURCaWo2YTV3Z0RWc1Vna3lIUkUzTzBCZ2M2ZDgySHY1TzBoSDhQV291Z2tWV2RSN0RYaWQ0b1JRcV8zYjhReUNz?oc=5",
+      "published": "2026-06-24T07:00:00+00:00",
+      "publisher": "PR Newswire",
+      "summary": "MSFT UPCOMING DEADLINE: Levi & Korsinsky Alerts Microsoft Corporation Stockholders of Securities Class Action - Contact the Firm &nbsp;&nbsp; PR Newswire",
+      "query": "MSFT lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Microsoft (MSFT) Faces Shareholder Lawsuit; TD Cowen Maintains Buy Rating - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMGdXSnlPamxxNEI5STlFa3huOW1hbEctYnVvby11djlweUJLb1ZBaDVIRVppd3hDd0hOLXQtM0xiMnd6Mk9FcE5PV2RWRnIybURKMFJVMVNLWFNMOXR4dmhwOUpFcVpVbjNzQ2ZrWXlJMmt4MXRnVnNUeWRUbTRMNVJ0eXJlcHYyLUpKZmVmUnU3VUxfakdSNWhFcm84YWxReFZGUk5tZ04?oc=5",
+      "published": "2026-06-22T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Microsoft (MSFT) Faces Shareholder Lawsuit; TD Cowen Maintains Buy Rating &nbsp;&nbsp; Yahoo Finance",
+      "query": "MSFT lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "analyst",
+        "regulatory"
+      ],
+      "lean": "negative"
+    },
+    {
+      "title": "MSFT Stock Enters Bear Market After 21% Drop From Peak: Retail Cautious But Analysts Stay Overwhelmingly Bullish - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQY3hRYk9uX0xMY05MODliem9ualY2OS1hNzNxV1dVYUdFYW5aRExmNlFOaXFYNXpETk9TbDNMeVFDZ2ctTmdxSmg2MHNJMFE2bF9kVmgwaHlQeEhXZVJBX29haVkzQjZHd3BLNFRfaDZuaVpFYlNNSmJYMnZpZ3FjM1c2emJ5TjZJenV5VTBNZXRVSjl6emRWaG5yTnhXZExTVjFLQ003UXN3OTVTVWRXRlNEeXlyeWJzQWxaZXlEMGpmV1ZHWFlVTTloS3V4dHMwUFFyLXFhNDRqd05jLVBSRkU4QVdOenBNMnFNZFJQM3NaUC1MbEt6dnRTRmNoRnpa?oc=5",
+      "published": "2026-06-22T07:00:00+00:00",
+      "publisher": "TradingView",
+      "summary": "MSFT Stock Enters Bear Market After 21% Drop From Peak: Retail Cautious But Analysts Stay Overwhelmingly Bullish &nbsp;&nbsp; TradingView",
+      "query": "MSFT competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Chevron to fuel massive Microsoft data center in Texas using natural gas - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNXV3WDNkY0tpSjlfQnUtbGN4SHRZTVZZTndPMVY5NmJ0NGZCYmotak1XREN1Qmc5SkhXZjJmcU5uWGg1dVlZZlc0Q3VzZFc5N3FlUDhfQ2hMbHhTZ2Zfb2RLdkEwOHhicmt4cWg2RHpfMGhreFU3eVJXX21ETGN2VDJuWHBIY2d5bklwM3hWRTbSAZYBQVVfeXFMTjdJcE9TVk8zcW9nMzdTLTJYTlpCSW9Hcmo0eV9WaDRlX0thLVJHMmR4Y0xWOGZFdTZ0Ri1qaWs0emtUWFNpWS1zT0xkNlRlOFpjbkJkczBtdTE2aW9oUzVtM1pYOHlQd2gtQzVwTlUxaHF6VzV3bWxTdnljVE1ZaWRpTC1JMGNpME5oeUVzOFRlYTAxTXFB?oc=5",
+      "published": "2026-06-22T07:00:00+00:00",
+      "publisher": "CNBC",
+      "summary": "Chevron to fuel massive Microsoft data center in Texas using natural gas &nbsp;&nbsp; CNBC",
+      "query": "MSFT acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Microsoft Stock: Market Is Missing The Big Picture (NASDAQ:MSFT) - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRldvNVNiVEZza1NRQXdIalZQeFQtODJhWVNXeVRrcl9tckJtTlBqQ3loeWZFWHdsSWI0Y3ZMNDhvNnBPdFVUdkVTV1o0bjhKcDdMOXh2eWY2WkZUdTBkQmJwaURuZXVValJaWG0zQzdGS2NvbDRhXzE3WW5jSzV5ZGE4aGZUeFhocU9NOA?oc=5",
+      "published": "2026-06-21T07:00:00+00:00",
+      "publisher": "Seeking Alpha",
+      "summary": "Microsoft Stock: Market Is Missing The Big Picture (NASDAQ:MSFT) &nbsp;&nbsp; Seeking Alpha",
+      "query": "MSFT competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Y Combinator, Microsoft (MSFT) Expand Partnership to Provide Startups Deeper Access to Azure and Foundry - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPN3QyMmVJWTJtZVYtTGlZMVNPOXFCdnEzMVBoNC1ESFpKVTRxYlg4eEFUQUMxejFLU29NM2FURm9xdEY2Ukt2MkZDR24xT0o5dld1UFNkVTJERkRTUnlFTmJTSmszRC15T25pZjAyWkhlZXo4S3pfa2VQckhTNF9mM2Y2Y0FUNnNsTkJxTTNHSWVPXzA4Z1c1cllzVEhmYVk?oc=5",
+      "published": "2026-06-19T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Y Combinator, Microsoft (MSFT) Expand Partnership to Provide Startups Deeper Access to Azure and Foundry &nbsp;&nbsp; Yahoo Finance",
+      "query": "MSFT acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "demand"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Microsoft (MSFT) Stock Sees Modest Fair Value Lift As AI Debate Drives Price Target Split - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxObHdoZHhIUTdhVnJUVGZfdXVJcWg1ajJ5Vkg4d05HYkxjTTROZGNKZmRZamEzSEVmMzY3V1ppVVJKenVMY0pGR3NVeVREa2JsdVdXZWw5UEJrOEEtLU1mLUJ2MDNXX2hpYnMyOVVhTDFGeUU0MTY5Vk9GU0hRTWJCQjNZVmE2NkZQMDRMZ3dKQUVzMnVaeE52Nk5Sdm5Mdw?oc=5",
+      "published": "2026-06-17T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Microsoft (MSFT) Stock Sees Modest Fair Value Lift As AI Debate Drives Price Target Split &nbsp;&nbsp; Yahoo Finance",
+      "query": "MSFT analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [
+        "analyst",
+        "capital_return"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Microsoft (MSFT) Falls More Steeply Than Broader Market: What Investors Need to Know - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMWZzSzFXNURBeUJneDZ2OThyVXRhajlDSlFDTXY0WE9tOTZNNXFXbFRGLTBwbk5STkpjR2dmVFc0YlZGVkdTU05KWDkzRndiZUthd3Z2LVNHbVE1bklVNGF1ODRSZDVnX3BkNDZMcGlWNmkzYS1XODY5NS10d2xVak4xV3BrYnI2Wkl5Z25BTS04dkJ5S01XRS1obFUzOFU?oc=5",
+      "published": "2026-06-17T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Microsoft (MSFT) Falls More Steeply Than Broader Market: What Investors Need to Know &nbsp;&nbsp; Yahoo Finance",
+      "query": "MSFT competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "negative"
+    },
+    {
+      "title": "From package to postinstall payload: Inside the Mastra npm supply chain compromise by Sapphire Sleet - Microsoft",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZGluUGtUaUFaVjRleDVqbmNPaGVZVXpWZFFqbVpHU3Q3bVB5V29ZWUZOWTZPa041cFZ0Sk51TDc4M0FoOFVrcHctZWVQTGtKSXBxY3lQaGxxWWxtTnZkZ2tZMlVFUEs4NjVrVEhwUTZmcERrVkUzdUV4cGNRTWk5Q1RKbE5aVmQtV2kzZExtYS1mV29HS1ZTNm5pYzdHZ1dSUzBvMVZVOEhidHdHbDROVnRfRWhNcHZVbHBz?oc=5",
+      "published": "2026-06-17T07:00:00+00:00",
+      "publisher": "Microsoft",
+      "summary": "From package to postinstall payload: Inside the Mastra npm supply chain compromise by Sapphire Sleet &nbsp;&nbsp; Microsoft",
+      "query": "\"Microsoft\" capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity",
+        "demand"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "MSFT Stock Rises Despite Shareholder Lawsuit Over AI Spending, Cloud Slowdown - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSTFkMDBIcjliSWVrcko3bEVGTHBocVp1NG5GTnl2c2RLWDZXX1VKN3EzOHF3WklFZ0RkaG5jRzJZU01tN213Zkhvam80bk1UaFNJQ0tOSHpDZUw1VzBIbTU4RmxnUUdKbnNyMUZhQ0lOZUE4WVVDei1SYlRYc3lLeHZJaUsxUlBVdHpYemJyRzhZelFyX3YyR3liWEpoUEVRZjlV?oc=5",
+      "published": "2026-06-15T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "MSFT Stock Rises Despite Shareholder Lawsuit Over AI Spending, Cloud Slowdown &nbsp;&nbsp; Yahoo Finance",
+      "query": "MSFT lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory",
+        "capacity",
+        "price_move"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Microsoft Faces Azure And Copilot Lawsuit As Copilot Adoption Grows - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONS12aGFheEZqQjZ4bDJPNUZvS1QtdXBYRGhpS19lTmZRZFY0T2M0akswVzM5d3d0bWFKZjZhYkc1bnY2VTVueTVDMHd4SU1vMGQxOXctRFlrbUdHT3VoeVBPNnJ2cWVkVzNJQkRmUWVnc0c1NTA0VExhYXpBQXEwS1oxVnNXOHhnTUsyU3VGRFhrZTFXT3lCZWJickR0ZTYzUUp1eA?oc=5",
+      "published": "2026-06-15T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Microsoft Faces Azure And Copilot Lawsuit As Copilot Adoption Grows &nbsp;&nbsp; Yahoo Finance",
+      "query": "MSFT lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory",
+        "demand"
+      ],
+      "lean": "negative"
+    },
+    {
+      "title": "Microsoft (MSFT): The Top Strong Buy Stock to Invest In - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQaE1TeUx2ckU0WU5ocDloUFdIVXlzb2dBX0tOTFZjeGk2eEZRRXEzeHJuMjE0T3drQk44ZHRtc1JkdHpXRWxOcTkxVmJiR2Q1eWdkVW9uWUFpVkVqRVNuRkVkRnU5bU5WR2FDUk1ZYzFZSVRZTFNtQnJrN0EzQmx2b2xkWXVJb1FtWmpDb0x2TEZoX3VSM2ttVXBR?oc=5",
+      "published": "2026-06-13T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Microsoft (MSFT): The Top Strong Buy Stock to Invest In &nbsp;&nbsp; Yahoo Finance",
+      "query": "MSFT analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Lawsuit Tests Microsoft AI Story While Shares Trade Below Valuation Estimates - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOLUhjRm9IZDNyemdnTE9wdzRQOVdhZFphMUlPMzFSbEdodExPRm80c3NMa0E1Rm9maVNVb1NndkozeTlWRENZT3FYQXQydUZsa3U3OXpKVWtYd0U0WlZkUWI1UEFZQ0RTX2Frb0JXUXV0cjBIbFFsbDV4ZlBGbzFlXzZMaGMtRzBqdUJqRU16Y0tKYldWVHUtSnF0aVhIZw?oc=5",
+      "published": "2026-06-13T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Lawsuit Tests Microsoft AI Story While Shares Trade Below Valuation Estimates &nbsp;&nbsp; Yahoo Finance",
+      "query": "MSFT lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory"
+      ],
+      "lean": "negative"
+    },
+    {
+      "title": "Microsoft (MSFT) Stock After 17% Year-To-Date Slide Is The Market Overreacting - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORndtRVk1X0Z0OWtHMDdYc2JLU1duMXo3ck5GN0lVQjNtN1lRVU5FanUySTFEYUlYOVloWnBtaERLRUlnaW5wM0RqVERfa3ZPTGMyS1BSOEdyanpRSldUTkFhMV96SnNCTWFtaGJYQWx3bDJiQjRwNG5TQXU4MHAtQ05lTHZKd1VqVjNqbUxiVERMM0Zybkd1dQ?oc=5",
+      "published": "2026-06-12T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Microsoft (MSFT) Stock After 17% Year-To-Date Slide Is The Market Overreacting &nbsp;&nbsp; Yahoo Finance",
+      "query": "MSFT competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Microsoft (MSFT) Stock Falls Amid Market Uptick: What Investors Need to Know - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTVl3U3FCWWpaVUx2MlZyalU3bzFhTE5lbDI0c2ZQUU5SbVRCdkxpUTJyb0R3dkd6SDZnWkZmVExrLVRMamVCX0JNR3Q1el8ySTNWelBDSHdpUXAwSWZERkZNOTh3VGFUTXNiOGtqZDZROGZtMzh1QlRNUGl5bVJzaWNJMlJVV2RDb0hBYm5QQTVsVWdjZFNnX20yWEE?oc=5",
+      "published": "2026-06-11T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Microsoft (MSFT) Stock Falls Amid Market Uptick: What Investors Need to Know &nbsp;&nbsp; Yahoo Finance",
+      "query": "MSFT competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [
+        "price_move"
+      ],
+      "lean": "negative"
+    },
+    {
+      "title": "Microsoft Stock Is Trailing the Market in 2026. Here's Why It's a Screaming Buy Right Now. - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRW85V3dIQWlEbjBtS0dLQS1wNlBoSzdLcVJLckpNbE1hbS1ITjVPSm50VnVwTkFrWjBzTEFkdnJuU1NDaWFWZmEwb3M4Rnl4UnpoOHJoVkxFVUZVVklNeTBLMUExVXRFRTJjYVpHd2xHZjBMRzRhamhTd1hJVDZfUjB5OUxpUlFENVZGd2NwT0ZiUWE1N3M4cm1BUzd2N0wtYXlj?oc=5",
+      "published": "2026-06-11T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Microsoft Stock Is Trailing the Market in 2026. Here's Why It's a Screaming Buy Right Now. &nbsp;&nbsp; Yahoo Finance",
+      "query": "\"Microsoft\" competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [
+        "speculation"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Miasma Worm Supply Chain Attack: 73 Microsoft GitHub Repositories Compromised via AI Coding Tools - Rescana",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRi05NDN5YU9hdXRhMDBhTlZLV0NOck9ZbTRYUnlXTm9SMmVOUjJ1S1ZEd2gtek1qZ2JJcHhVZV9uMENHVUc3ZGNhRmxIUU5HQVYtMW5KdmVMVTBKWi1MRWcwY29LTk5HUlJsTHcwTnFJNVZ3S3l0V2lKMWNwVXFKYUF3TE1HZ05wQ1A2TzJSRXhTUHlGcnpKYlYycXh1TFFDNHR1aDd4SHZxanJHanctcEJmeXVES2E5NEtxckctMmZMODA?oc=5",
+      "published": "2026-06-07T07:00:00+00:00",
+      "publisher": "Rescana",
+      "summary": "Miasma Worm Supply Chain Attack: 73 Microsoft GitHub Repositories Compromised via AI Coding Tools &nbsp;&nbsp; Rescana",
+      "query": "\"Microsoft\" capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity",
+        "demand"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Wells Fargo Raises PT on Microsoft (MSFT) Stock - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMDI4LTNNZUs0TWNrZXJ0SEM1T05VMnp2TF9VN0tvRXdZalRIUVRoVHR3S3BUS1ZOaVFZM3NqMk1sUlBiemF5dzJETEh1OEJxVy1wM2ljemxBeFBzYVM3MmlkUUxIMjJUazF0b2xjcUduNzd3dXRub1ZYRUpNZXNPUUZQZ3JzTkQ1WnlwTDV3dFJZaXB0SUpBZFJpcUM?oc=5",
+      "published": "2026-06-06T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Wells Fargo Raises PT on Microsoft (MSFT) Stock &nbsp;&nbsp; Yahoo Finance",
+      "query": "MSFT stock",
+      "source_api": "google_news_rss",
+      "tags": [
+        "guidance"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Miasma Worm Hits Microsoft Again: Azure Functions Action and 72 Other Repositories Disabled After Supply Chain Attack Targeting AI Coding Agents - StepSecurity",
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNbVIxMjMtUFBDc3hpLThYT0QwWXJRTURLeHNuV0NnUTJFYkhRQzZNQkU3M0hNdkJlVkdhMHVnaXZLTF8wTnVPbUZ4YVlLbExCQ3dFbzh6M2VRSjFNRWQxN2YxRWZycHhvWVVlWVRXTldUdTUwSU40Tk9qdHFGb1JVSkw2ckFqOF9Qd2RCMU5tNTRjeXFwcnlzV2FWNnZwWE9peUhLczBDR2hRVmxXZkZ2SmI5LUNxOTBnYWo4WWpjU3doZmE0eFVXdjdJUDBjQ1NubnZtVDdQd1duME1OZEtPYmJpdUpWTnFFMlBzbGtIdUR0dWZlazctMVhBTndGX21BZWU2TXkwMA?oc=5",
+      "published": "2026-06-05T07:00:00+00:00",
+      "publisher": "StepSecurity",
+      "summary": "Miasma Worm Hits Microsoft Again: Azure Functions Action and 72 Other Repositories Disabled After Supply Chain Attack Targeting AI Coding Agents &nbsp;&nbsp; StepSecurity",
+      "query": "\"Microsoft\" capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "capacity",
+        "demand"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Navigating Microsoft Corporation (MSFT) Delivered Positive Results Against Market Skepticism - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONEs1eXpZcEFrUFVVbkM3WTUwR0tORXoxanZXOFFXWFZrdHE0R3pVMU9hRGZjMXdlT0MxY0RkUTMteDg4WTM0dS10NGpfM3FXdk5yNW13NXJxc1VLQ0o5WFRTMnVFczFaVm8yT2RxUk1PZGxScVNyZzdzbENRYm1JdHhWNE54X1c1dk5SSXZoTDhkZ3BLRWdIdG9NSXh5Z1p3Tmd5ZHJjQjlIdWFhMmQzd05R?oc=5",
+      "published": "2026-06-03T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Navigating Microsoft Corporation (MSFT) Delivered Positive Results Against Market Skepticism &nbsp;&nbsp; Yahoo Finance",
+      "query": "MSFT competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Dan Ives Says ‘Market Is Mispricing’ MSFT Stock — Here’s Why - Stocktwits",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNOEU5NldhOFZVX3p5emFad0ZXUXlweTVmbUJqMUZ4aWJjdzdhUG5pdFBQUDVpWkVDbkR4dFhVVXRUSTBWTWF1RF9nLUM0S25yQ2JHazRfNlBsSW44VkxGeUczY2M5X1IxYU9hRmV0V2g4NXkzNkVod0hRM0kxdkNQT09qbFdzM1U1S2c3TldZQ1Q0eGZ0TU5CSFBYeW1qc2xmSE1lWHdZeGFVQnRIRWVvb0hGOE4ya2FlZUE?oc=5",
+      "published": "2026-06-02T07:00:00+00:00",
+      "publisher": "Stocktwits",
+      "summary": "Dan Ives Says ‘Market Is Mispricing’ MSFT Stock — Here’s Why &nbsp;&nbsp; Stocktwits",
+      "query": "MSFT competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Western Computer Launches New Dynamics 365 Finance & Supply Chain Management Assessment - news.futunn.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcHpHVWFRSUxidGJTWXBWT2JpdmRkMmFGWERTRFZXOXhMbnkxVHpmeXIyVm1wRG4xWVhwVEk2eHk0Z2ZleVpxSGJ3TFBDNkZKMHg5b0xMU0QyV3hsdm9GTjF1YU1wTHFyMUFkUFc3ck0waERLdE10OHlCc29XWnFObVd0cDFMR3UwbWhjVVZvcjdfa1ljVU9LdU5WbGRtNEliVWhaWlBtQXUtWi1mbHI3UVZYeGpPUQ?oc=5",
+      "published": "2026-06-02T07:00:00+00:00",
+      "publisher": "news.futunn.com",
+      "summary": "Western Computer Launches New Dynamics 365 Finance & Supply Chain Management Assessment &nbsp;&nbsp; news.futunn.com",
+      "query": "MSFT capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "product",
+        "capacity",
+        "demand"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Sonata saves 200 hours each month with near real-time forecast control in Fabric - Microsoft",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTUlhOC03OVJpQmZqdFZObHpPbVlPbDdQWWNlOFFMSW1uVlVfWm5GYk11Rno3c0oxU05jaGhmaUtmZzliMEJwS214Qk8yUVFKYVdQMXE4X0ttdnliMjNkbTRqd19DZFVIUXQyZGcyY29VZ0Z3ajJtM3F5aERObzlHMEdyNEU5SHcxWFhLajh2RXBxbUVWQXc?oc=5",
+      "published": "2026-05-29T07:00:00+00:00",
+      "publisher": "Microsoft",
+      "summary": "Sonata saves 200 hours each month with near real-time forecast control in Fabric &nbsp;&nbsp; Microsoft",
+      "query": "\"Microsoft\" revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [
+        "guidance",
+        "capacity"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Microsoft (MSFT) Stock Trades Up, Here Is Why - StockStory",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRnZrRHFHZmRBQVRQNURWNUcyUDJudnpWQS15VUlzejVnU1M0bkY5MW0zV2d0LTFoS3YxUmJ6UWFGaEVyZ3RCQ1lUV0JWYWtvazdDRW1NM3dOQmxLb2NBVzVUM1h2d2wxN2JlQjlfbGtjQTl1UFJnUDQ0blYycFpob1RDS1BjeFU0QW1VQlg1N2RWWjZFdDhUY2tkZE9qZGFqcDBzcVhyR3lKQQ?oc=5",
+      "published": "2026-05-28T07:00:00+00:00",
+      "publisher": "StockStory",
+      "summary": "Microsoft (MSFT) Stock Trades Up, Here Is Why &nbsp;&nbsp; StockStory",
+      "query": "MSFT competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Why Microsoft Stock Is Worth $600 - Morningstar",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORU93R2U3cHJERWhOZGc4XzMzSkxjY25qRm0yd0o0bl9uZV9mdTVvRTNSeHNWQ01IMWdVa3dPLXREMF9TZnl4emF1NjVjeElsQlJuYzQtRWN4YS0tVzBWVzY0UzJqa2hERU1JU19ZU2RXb3drVHNsYm8wVlMza1JyS1JCa0o1OUt1dkFNdUZPZUthYjRW?oc=5",
+      "published": "2026-05-27T07:00:00+00:00",
+      "publisher": "Morningstar",
+      "summary": "Why Microsoft Stock Is Worth $600 &nbsp;&nbsp; Morningstar",
+      "query": "MSFT revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "EY and Microsoft announce global initiative to help clients scale AI enterprisewide value creation and move beyond experimentation - Microsoft Source",
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOZjI0dzlfdDNSa3RqRldvZDRqb2tWZFRkRzZ4ZXR1UVBybzc4X243Mm1uc3NXWXFFYjRLTDlRcWZMYnpKcDlkWVNvd1ctVWxkbzYtMl85ZHBKR0ZiUG14UFF2ODdpekY5cEQ0ckJZZUt6SlV1bnRaOG1uN0tPT1hGbVlDakNHcXo0THM4ZUxnZ3NQekc2SmVuVDNNR3V5TXNIOEVBZ0FUb0FRMGhZLWNkT3lDVTVZdF9DV0V6SXRpcU42a1pQSEhzVktibk91TnJRcnFMTUlNQkZqOFdBS3dlN2tQYjE3MkJMalp3UlJod0VibUhmZ2t3ZXY1QWlsZG9ZaFdiV05Ccw?oc=5",
+      "published": "2026-05-21T07:00:00+00:00",
+      "publisher": "Microsoft Source",
+      "summary": "EY and Microsoft announce global initiative to help clients scale AI enterprisewide value creation and move beyond experimentation &nbsp;&nbsp; Microsoft Source",
+      "query": "\"Microsoft\" acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Wedbush Views Microsoft (MSFT)’s Restructured OpenAI Partnership As Net Positive Rather Than Strategic Failure - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPOVhMcVpRSDlwb01jaXROdktuTGdFSGRfcEc3dzhXX1hDMUFUQjBmNkcwakw4ZFhiQzdHXy04aGxKMzZyaTl0YnFMdmV4cGlmX0NYMENhQU41aFdPVmk1bVRDMWphZUItZE1IWTQ1OGZ5c3FtNHBFRlhZbzVaNmtuNjVHblhrOHlGZ0pBMG5INkdGQlpFbTdRdXc3dXdlQzhlNXBMQmdkbDNBdw?oc=5",
+      "published": "2026-05-20T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Wedbush Views Microsoft (MSFT)’s Restructured OpenAI Partnership As Net Positive Rather Than Strategic Failure &nbsp;&nbsp; Yahoo Finance",
+      "query": "MSFT acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "demand"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Microsoft (MSFT) Expands Discord Partnership With Xbox - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNEk5enpnMFh6c3NGY05EYXJXejdMRmI5bHlZVFhNQmd2N28xMk1MeWVkSjJtOVJTdEFvUW5nenZlODEyU2dJZnE5YnFuMEtCeEhrbW1adWRaTE5yZlNoOGp0UmlSUDFWQXlaMjc3alBRQlg2eEZtSzU1NWFQVmhDVkhWR1VhLS1EVG5vTDdPYnUwdW5YcFFxcVJjWFg3ZHVsMXZfZUlrazJaZk0?oc=5",
+      "published": "2026-05-16T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Microsoft (MSFT) Expands Discord Partnership With Xbox &nbsp;&nbsp; Yahoo Finance",
+      "query": "MSFT acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "demand"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Microsoft's durabletask PyPI Package Compromised in Supply Chain Attack - StepSecurity",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdFlZUTRfTEo1SUJZak10QTJhcWFQUWljWmJXVDYtenVKeFY2SGlGUnN4UFBvQmJySmhBemc2SG1DT2Y1ak1lX0ZreUx6bG5mbXBBbUVPM0c0WjN3S0V2M2xYaVlnS042NEt0ZTZ0aXJZQWp1ZHlqTmJ4c2dnYjZIa0FFaFNXUlJGNi02eDNBbi1CMWlYTjVHRW9Yeml1LVJubFl5NHhB?oc=5",
+      "published": "2026-05-16T07:00:00+00:00",
+      "publisher": "StepSecurity",
+      "summary": "Microsoft's durabletask PyPI Package Compromised in Supply Chain Attack &nbsp;&nbsp; StepSecurity",
+      "query": "\"Microsoft\" capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "capacity",
+        "demand"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Assessing Microsoft (MSFT) Valuation After UK Antitrust Probe And Reshaped OpenAI Alliance - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUVBIQ3cyNGhCX1AzRUJCV1oyaFNhSHZoSWM4WE03dXBteWgwSnJLdXFOOHpkaFhuNEVKVFdvTlpSel9FSnZMa1UxU3VJLVlXck9NbTFORWhRZDh6RkUzWG0tV3lzOWVGU3B0VFp1S09DVThsLUxpQjNhcUQ0R0N2RmFmdWFxR1V4MnQtMko5MnF2TktSS29HejhjbFdaSGdWT0F3Qw?oc=5",
+      "published": "2026-05-15T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Assessing Microsoft (MSFT) Valuation After UK Antitrust Probe And Reshaped OpenAI Alliance &nbsp;&nbsp; Yahoo Finance",
+      "query": "MSFT lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory"
+      ],
+      "lean": "negative"
+    },
+    {
+      "title": "How Microsoft Stock Rises 50% To $600 - Trefis",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWkdLSFRfY3d1T0p4MnJzRWRpRXJ5aWMtVEIycUNPaV9feENOUTR6ZmZFRmdocDdoZVpxaDh1QUM1UWxSeDduV25UOWo0bDVZWkRVYW1qNFllVWhiOFYtcS0wZmpMSUlFaDhrQVdHZ0JvbzFEcVlmSUJhMUdjem4ySFdfbGNBZ0V0Y3doZ3hFcVUyY2JjNTh6TURTN1M?oc=5",
+      "published": "2026-05-15T07:00:00+00:00",
+      "publisher": "Trefis",
+      "summary": "How Microsoft Stock Rises 50% To $600 &nbsp;&nbsp; Trefis",
+      "query": "MSFT competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [
+        "price_move"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Why Microsoft (MSFT) Stock Is Trading Up Today - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYzJ3UzdrTGdIWEpOZnd5bV9SSzh4bGEwSlllM28yYk41NTY1TzBCaTB4OFNZWWN4QVA2NVFXNG1CMXhkZXdLSm83ZVdNOGhYUHVqUURTMk84V2NpNE56ZjJaTzRRbjBhbjJPQnBrSmxhY0NhR2NHVkxRajhEVnBnTXNWOGY2WjRtU2dSUmZvdkc0cHRSQlpCZXBrNE9ScjVlanpNbDRtd0U?oc=5",
+      "published": "2026-05-15T07:00:00+00:00",
+      "publisher": "TradingView",
+      "summary": "Why Microsoft (MSFT) Stock Is Trading Up Today &nbsp;&nbsp; TradingView",
+      "query": "MSFT competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "How Microsoft Pulled off ‘One of the Best Tech Acquisitions of the Last Decade’ - 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQbW8xU196M3B1Z011akRsTzNFYU81QVJVT0FkenNUSHZjMm5TUTNYa01zbDJWNXVZcWtSWHpVNFBXdmRzSGZQdmFGQW9oTUdDM3FDR1FmNklwbzB3ZGY0VzJkdWlLMzM3S09rWmlQZHI2aTlnT3h1cUxZQTRSdUZSc0xJWlhHSXdzVXZFeFRXVjRBNl9vMzdJTTl2czhVeHI2YV8zdHY0bmtwbjJrX3haTnpVVjctM0ZLeUNONkh3?oc=5",
+      "published": "2026-05-09T07:00:00+00:00",
+      "publisher": "24/7 Wall St.",
+      "summary": "How Microsoft Pulled off ‘One of the Best Tech Acquisitions of the Last Decade’ &nbsp;&nbsp; 24/7 Wall St.",
+      "query": "MSFT acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "mna"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "How Microsoft Pulled off ‘One of the Best Tech Acquisitions of the Last Decade’ - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNmlUQnZUTFVLTVRxa1RSM1FLdk1FMXJBU2puWUVLRnppc290WHVlMXFvMHFaTnJxY2otakxQVGxnTzktbGxOTnlDaE9qT1EzQWpNYXRibDY3ODNhNjFsalNIMDZZMi1JUWgzTklqN0ZMOUxnS1N4V0txZWNyTzBQTmJoRWUzQWh4VWcwc0YxQ19MY1lseEY3dzNWVVdIc2M?oc=5",
+      "published": "2026-05-09T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "How Microsoft Pulled off ‘One of the Best Tech Acquisitions of the Last Decade’ &nbsp;&nbsp; Yahoo Finance",
+      "query": "MSFT acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "mna"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "The Top 5 Analyst Questions From Microsoft’s Q1 Earnings Call - StockStory",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTXFZSUVjb3NFNnBPb1JyaURvRHo1SURGNTBJQnNoSW9tNUhmMW91eE1WNWktVTk4bHdDVmwzcEZPVFdlbFZjX1l2ZGxMVkJocHc0XzFpaU5RTFJUT2o3MnBUSUxLVldMTE1NNnJOYVdiaXFWLW50TEowaUhSZkZiZnh2MXVwbmw1MnBINmIyUVlWbWdkVHUteFRGXzFENVIxSXFvYUlLTGczRWI2eWNrUzIxaUQ5WUxOLV9NWi1UUTRWUQ?oc=5",
+      "published": "2026-05-05T07:00:00+00:00",
+      "publisher": "StockStory",
+      "summary": "The Top 5 Analyst Questions From Microsoft’s Q1 Earnings Call &nbsp;&nbsp; StockStory",
+      "query": "MSFT capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "From intelligence to impact: How agentic AI is reshaping today’s supply chain - Microsoft",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQQzh1QkhsUUg1Tm1rUVhseDZYYXpIZ1pmNTlvWlc1aEZLWjE0OTkyMmZQNTBqOXg4UkI1cHQ4emlvamRKcVpBLU9zWlJrTklfWUxGaFVnRkhUdUFCVjVLNXhUX2tjZUVpME9WTnJDUDloNEZlbzRHN1NOaTIwRTdoMDZYQWlPbkJodUdHY3VCR01kMElsZldoUXJ5WWw0X3Q5aTQtS0QxWWNOc1hVTWZUWms4VUVQWU05ZDZaMVYwMjdRUjM5STQ5UEQtSWJNTlhFNGYtMUdldjg1dm96MVVfMTNKaGtGQUhV?oc=5",
+      "published": "2026-05-04T07:00:00+00:00",
+      "publisher": "Microsoft",
+      "summary": "From intelligence to impact: How agentic AI is reshaping today’s supply chain &nbsp;&nbsp; Microsoft",
+      "query": "\"Microsoft\" capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity",
+        "demand"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "How the right business laptop can boost supply chain efficiency - Microsoft",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQR3lFWG1qckdfX210TUhQbW0tMmZrN01hdWZ4TC1sY3ZSRlo3czFicmNndEQ0TmdsdDdrOHp2RHdGdlV0M04xZV9TcGMtaXVkVGVscGFVZ05aQVY4RUNhdjd1bV9RMjFTSW9UTEZUVmZua3NHX0dpUFJKYjlUeHNWQmhubVZyVW92MjlMYy1xcnNCNWRGTTV0ZUFERFdqZ3VUbkg2X1BVazFyRlY1aVhKLW84SW8zbXVqWTBCaGl4Yk8zeFd0Y2c?oc=5",
+      "published": "2026-05-04T07:00:00+00:00",
+      "publisher": "Microsoft",
+      "summary": "How the right business laptop can boost supply chain efficiency &nbsp;&nbsp; Microsoft",
+      "query": "\"Microsoft\" capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity",
+        "demand"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Microsoft: This Sell-Off Doesn't Make Any Sense (NASDAQ:MSFT) - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNW5yZVRqblhPVWZMOThXTE5Dbm83ZElyRzRKNGpESWhpczJCY2FGS3JfZ19WbGg3MVl3QzN6cjRYRHowZDhTR2p0VHFXWVBUX05ONDFLNHdZNjRjZUZMMGlRTjZZVENUOXdlRUF1LUxKT3RzZ2twSFVQR0tKd1Q4eGxUeG0yN3Y5NTFr?oc=5",
+      "published": "2026-05-01T07:00:00+00:00",
+      "publisher": "Seeking Alpha",
+      "summary": "Microsoft: This Sell-Off Doesn't Make Any Sense (NASDAQ:MSFT) &nbsp;&nbsp; Seeking Alpha",
+      "query": "MSFT capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Microsoft slips even as Azure, AI, boost results, guidance: What Wall Street's saying (MSFT:NASDAQ) - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWFo2Tk92WEQ1bDJ6S2RPTlpGVEg3b0s1ZTROQXVhWWF0NjIzSk1QMGFWUG0yY0d0alJ3MDhmazc1aEtCSEstbERpWkloV2ozNENhNk54NmRXRktUVkM0dWw0YjFXYWtXV1JSQ2xhWlo1aVlUb21QOFM4MVZSRFNJOEJTTjlla2F1Rlo2bm5ybnpMUTJXNGU2R3lMRHl2OU5ZWTJUUGNMc0FIeW1lY2JleXloUUJmckFNTHc?oc=5",
+      "published": "2026-04-30T07:00:00+00:00",
+      "publisher": "Seeking Alpha",
+      "summary": "Microsoft slips even as Azure, AI, boost results, guidance: What Wall Street's saying (MSFT:NASDAQ) &nbsp;&nbsp; Seeking Alpha",
+      "query": "MSFT earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "guidance",
+        "analyst"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Microsoft Stock Slides After Earnings. What Overshadowed Strong Cloud Growth. - Barron's",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBmaUZwRHVGcjBkYW9KSktkTFYxMlY3OVFRZ3EwcDhZcjJMYW9pNUJOUFlRR1NaVHhKbGtWSlV5Um9vNWh1T19Bek1HMXktUFVjR1BZbGlwcDlZN19Denh1cHdwUG80TzJnWUZmYlctYVJ2MzRhTmZQVzhHRjc?oc=5",
+      "published": "2026-04-30T07:00:00+00:00",
+      "publisher": "Barron's",
+      "summary": "Microsoft Stock Slides After Earnings. What Overshadowed Strong Cloud Growth. &nbsp;&nbsp; Barron's",
+      "query": "MSFT earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "price_move"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Microsoft Earnings: Azure and Capital Expenditures Are Expected to Accelerate - Morningstar",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORWxMRmdXVGs3OVBSbFJqbzZUOGpYTTZ6bE5fdG5hSEFZVHZsSXJBbXp1eFE1djV2cUc5R21Jdjc0cDBhN2ZfcC1LbXg2SFdLQy1YM2x5Sm9wbnRIVzNUZWc4eHBvZVl2SWNRbHh4MnVFUS1FdUFHSDktLVNTSXdtLUNaVFpXZFRzRlhvbUJ5SGlWVTh2YjZFMm9HcE1VWEU5R2ktZVlJc2tmRFoxeWNtZVZqYw?oc=5",
+      "published": "2026-04-30T07:00:00+00:00",
+      "publisher": "Morningstar",
+      "summary": "Microsoft Earnings: Azure and Capital Expenditures Are Expected to Accelerate &nbsp;&nbsp; Morningstar",
+      "query": "MSFT earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Microsoft stock sinks as AI spending ramps to $190 billion as Q3 earnings top forecasts - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQV2Zodnl5eGY0cUc0SEY1Vk5PdHM5Ri1TTzZVTmJCZTlXd2RqandyeEhlUEYtZ09MbXowUWt3ZzBNUzBIVHJobHNNaVY2cW90Wmt3ejNFVUtNNWs5YWNPc0oyaVZiaFY3WDZ4dW1VV3VsVEVFbnZpd1pEQ3lFSDhGMjdnYWZpc1BvZkdnN1NocXgtMDB5aUZ6UVFXUlQyTExySVdfUDZuSENXQnlDQ0NfWXlZQ3hRaXBUbEFKWXVXR2J2VDkxUllsNm9QRkxfTHJfQk1Pc085YjYxdWRQUlgzTE1Ma0c0Y2t0eHc?oc=5",
+      "published": "2026-04-30T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Microsoft stock sinks as AI spending ramps to $190 billion as Q3 earnings top forecasts &nbsp;&nbsp; Yahoo Finance",
+      "query": "MSFT revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "guidance",
+        "capacity",
+        "price_move"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Microsoft CFO Says Supply Chain Limits Can Be Managed As MSFT Lifts CapEx Outlook To Nearly $190 Billion - Benzinga",
+      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPVC11OWR3b0J5OVNYWHlrN1RxLVBNTEhxVjNUNGk0a09MVXNlejRSaE0wTktaQmN3RVY1VUVZMTRLRkZxSGtuU2tIT1o1TngzbTdQN04wUDA5ajlKSXR3M0VVNVlUU0ptRExoc3hydVhOb081RHlOZnpBMHFDX0tfTVREV2k1ZG9KckNKUnBJZ1YycGpBQmFmc01TdTlNdnVWeThkWVY2ZVBjOTlDZDR1MldHc2NCYXN1UnBLU1p3NjI3NHlndjJVY2VxdktqbjNPQnlpS0VCTlkybjdhQ1VBSS1WajFOaU5rZEY5YUk1SjB5SC1yTjdTQS10clVQWXhMT0lPT1N5MllCaGdxLUd2UlUwdUp6Zw?oc=5",
+      "published": "2026-04-30T07:00:00+00:00",
+      "publisher": "Benzinga",
+      "summary": "Microsoft CFO Says Supply Chain Limits Can Be Managed As MSFT Lifts CapEx Outlook To Nearly $190 Billion &nbsp;&nbsp; Benzinga",
+      "query": "MSFT capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "guidance",
+        "capacity",
+        "management",
+        "demand"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Here's How Much Traders Expect Microsoft's Stock to Move After Earnings - Investopedia",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNOEI1UjlyWWZDWHhvdkxSWUZxLV92bGo1RW8xM2cwX19leHhMR192cGYxV1RGNi01WS1TYVJPcEE2cVNoX2hHd09vaFg2Y3NxVE5UZjFGZmRwYU5lQ0VYeHR4M29pQ05oNmYxN2xhMlZWcGdhVVl3YzU2WFdHWlh3YnlIYXhqOEl6Wmg0LTltVVF3RDMxT3kwaEtZWXF0RnZDeU12N1BXQVlJanlKQWNxaDJhbmo5SVBTb2RSbFhMSEplSzV1Uy1DMTln?oc=5",
+      "published": "2026-04-29T07:00:00+00:00",
+      "publisher": "Investopedia",
+      "summary": "Here's How Much Traders Expect Microsoft's Stock to Move After Earnings &nbsp;&nbsp; Investopedia",
+      "query": "MSFT earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "speculation"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Microsoft calls for $190 billion in 2026 capital spending on soaring memory prices - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWEhfS2hRWWw2b1RmWEpIZ0w0R3lrZTRFNjNOc21ZY3B6VW90VTI4T1dNVERldXk0aWs4RUJCRm9tdURJdThpaWdPWTNCOFNwTkNRVDZVQ2tmX2FHODFSWXgxNDlvNnI0X04zYVl4dmRxVmVXSVBsZC0tdTBBNkR4btIBhgFBVV95cUxPZGdXSlpScWdsbVZkaGZhajg2RUVPZlA5dG14SGtlOHFPckF6cWQ3Qk9ucEJXWGFqMFMzMlpKUEoyNV9QUEhmbnBzT2t6WEJlU3VsanNQNmFSazBxVm9oNENxV0pvRkc1amR5cUZkZTFEM3c3RDhLZlRReTFqai1HNU5mUXF3dw?oc=5",
+      "published": "2026-04-29T07:00:00+00:00",
+      "publisher": "CNBC",
+      "summary": "Microsoft calls for $190 billion in 2026 capital spending on soaring memory prices &nbsp;&nbsp; CNBC",
+      "query": "MSFT earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Microsoft beats expectations but its guidance comes up light, disappointing investors - SiliconANGLE",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPLWtpcXBFOTJBZUMwUjg1TWhlQjhLd3V4aXJrVjVwblhWUlBIcjN6LVVVajFvM3huRFFYci1SdUdESGQwNEZKcTJHZGV6bHdLOFYzcl9vOVc0VWxRLThBV1ZXVTRpTFJFZHd2OTJVYlZkZWkza0N6d01LT3UwRlB6TVgyQXpQRXl3ZENSRFZ4Y1NHR0N6a3dvTjVTdC1ZSXdkYzNhMXpJdzB6UnJzV1E4?oc=5",
+      "published": "2026-04-29T07:00:00+00:00",
+      "publisher": "SiliconANGLE",
+      "summary": "Microsoft beats expectations but its guidance comes up light, disappointing investors &nbsp;&nbsp; SiliconANGLE",
+      "query": "\"Microsoft\" earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "guidance"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Microsoft tops revenue and earnings estimates, Azure revenue grows 40% - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbXR1OTlYOGc0ZGZfbk9zelUzcFEwZ2p2TnJvcW9aU0cwVEprNy1aQ1BsMFFnc2UzVU1DYXlQM3ZUVkR0U19FR3JnaFVDbHVCVm9PZTFiNkhUYTFTMjFwa0hUYVh2TXBUMUFyU2x1VzBPMmxWejhqZkkyTHl5aTdvTENrVVRBcVpwWk1DcU9wbE1fYkZOOFVfR04wa2x1Rm8zNlZQSk1HdGhPUGgwRFJ0RGxwWTBxcThjdzRYdA?oc=5",
+      "published": "2026-04-29T07:00:00+00:00",
+      "publisher": "CNBC",
+      "summary": "Microsoft tops revenue and earnings estimates, Azure revenue grows 40% &nbsp;&nbsp; CNBC",
+      "query": "\"Microsoft\" revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "MSFT Q1 Deep Dive: Cloud and AI Momentum Drives Growth, Margins Remain Stable - StockStory",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPRlplSV9ZYXFVMjhKYnpsbTVueVNKV0NVRlQwa0pBVXZGOFFUZlp6dEFqd2hidlNfNXNQRlZTZ3BOZzVuX25XVDFWN1hyV19pUzB1UVVpdjN4am1LSnVTNTlWekd5ZGNaWS1SbDVHWkFCV0dJMlVoendZOUVVU3dOaTh2cUZXQjZUN0FhRUgtVFJRLXJ2T05vbVFwcjM5Q1FSY1RtV0FUdkptbl9nWHBMN0VEcTdwR21rYUh0V2NCZmkyanpBRTUzeDlKVUhtblNjaWlaTmpB?oc=5",
+      "published": "2026-04-29T07:00:00+00:00",
+      "publisher": "StockStory",
+      "summary": "MSFT Q1 Deep Dive: Cloud and AI Momentum Drives Growth, Margins Remain Stable &nbsp;&nbsp; StockStory",
+      "query": "MSFT capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Weetabix modernizes supply chain with Dynamics 365 to scale with confidence - Microsoft",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQT01qQkRfM2MxQUNDaWtuOWp4RUt5YnB2Zk1YME1PNlpJcVI5TXlxWDA3Qm5HNUo0VkFTZldPd0xTWjRpM2trOS1oNlAtMjNXSzR5RUhscGRiMGVOVmNVRHRCbFFEWTJYUWNTMW5YN1pjcHkwTEFQRzJ3X05qd3kzNmtHX01sZUxBUWlyc0gteFAxd09PYzdDeFB4eW8?oc=5",
+      "published": "2026-04-29T07:00:00+00:00",
+      "publisher": "Microsoft",
+      "summary": "Weetabix modernizes supply chain with Dynamics 365 to scale with confidence &nbsp;&nbsp; Microsoft",
+      "query": "\"Microsoft\" capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity",
+        "demand"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Microsoft facing UK antitrust lawsuit from Slack over Teams 'bundling' - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOWkJERlpfN3hNSFd5aG1QNGxFQlQwT1FGVHliaHJQTHdKSjNNZ1YtRDk2d055cmtVYXItMjBhX05JWDh3dVpleXFZTGZ6WHc5WnNJaWZIeElxblRGVkJ6NVB6X1BPaTU3d05PZEg1OFU5WWdaNU81ZzRKdGNuTXlOOHRsZ29QNXlBVEdXM3VVQjJzUFM5dHljTGhZNlBMRmZmampjRzBIR2xzWWNVcHFYRVFseXQ5bENqNWJKUDNRVFdHOUFBV2U0Sll0TE9EREhEbWJxUndB?oc=5",
+      "published": "2026-04-28T07:00:00+00:00",
+      "publisher": "Reuters",
+      "summary": "Microsoft facing UK antitrust lawsuit from Slack over Teams 'bundling' &nbsp;&nbsp; Reuters",
+      "query": "\"Microsoft\" lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory"
+      ],
+      "lean": "negative"
+    },
+    {
+      "title": "Microsoft (MSFT) Stock Outlook for 2026 | September Edition - forbes.com",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVmtVQTVaakRua1c0cFJOeFNYWmxVakR4VkNPSjYtYk9tQWRmTkRjWWNYbzhfeEZuMFhqbjhXb0x6bFR0Q29XUGVVckNvcmRBVF9JeWUxbTA4ZzJKanlIakRBbVhXLWNkYTdwaVZKcXJJdmlWU1NSd21KQlVxRFVGeGREMkIyUXVCTHFkbg?oc=5",
+      "published": "2026-04-27T07:00:00+00:00",
+      "publisher": "forbes.com",
+      "summary": "Microsoft (MSFT) Stock Outlook for 2026 | September Edition &nbsp;&nbsp; forbes.com",
+      "query": "MSFT stock",
+      "source_api": "google_news_rss",
+      "tags": [
+        "guidance"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Microsoft Stock (MSFT) Opinions on OpenAI Partnership Changes - Quiver Quantitative",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNXpMX0l5a1d0QzNvRVduSUU1QVdlU0UzLU13RzJRZU1XWnVFUXVMblBmenBjcUFIbWRrc3BlWXE0d19ERHFfMnVPZE53Tm12eExnVGpadUtYZTJZNGpQQVdZUnNGLWgtMDJvb3VEcnBFeGQwMFFISU5BU2kwRUhBckhIZ0pCLWdZRHNuRmdJRHpweGVDYzA1aEg0bHU5d2c?oc=5",
+      "published": "2026-04-27T07:00:00+00:00",
+      "publisher": "Quiver Quantitative",
+      "summary": "Microsoft Stock (MSFT) Opinions on OpenAI Partnership Changes &nbsp;&nbsp; Quiver Quantitative",
+      "query": "MSFT acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "demand"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "The next phase of the Microsoft-OpenAI partnership - The Official Microsoft Blog",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNakYwXzBZNG85QlRVd01tNzEwaEM3djQxWnMya0FNXzNiV1BJMmdLUzcySkRVdHZ1NHlyLXNJZ29oQmpXdWcwZjZuclFOR3ZfWUpaamY3V0JFU0tGeFpzcmFjbU1Kb2F5WU0tZU5BUUNZRWZhRFVKaC1rZGtTSUdMakRGWDVPaUVJZERKeV9zR3lveFdHdmVmSjBCQQ?oc=5",
+      "published": "2026-04-27T07:00:00+00:00",
+      "publisher": "The Official Microsoft Blog",
+      "summary": "The next phase of the Microsoft-OpenAI partnership &nbsp;&nbsp; The Official Microsoft Blog",
+      "query": "MSFT acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "demand"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "The next phase of the Microsoft OpenAI partnership - OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBIWjFhTVJJSG5kRU9TX3pSTEw5Ylg0RHBDR01RbzBQMnltTjFQcHRmSW9Cemlob1dRaVR4djI0NEJjYVBlS3dzRzVNYmNIb25VWU53UnBWeFVPVlJ1bFlFVGQwQno3TjEtR0hybWNR?oc=5",
+      "published": "2026-04-27T07:00:00+00:00",
+      "publisher": "OpenAI",
+      "summary": "The next phase of the Microsoft OpenAI partnership &nbsp;&nbsp; OpenAI",
+      "query": "\"Microsoft\" acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "demand"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "OpenAI shakes up partnership with Microsoft, capping revenue share payments - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZl90d0piaDQ4OVBtOW0wMUVod2MxTVgxQXVxTmUyQkM3ODZScFdZczhUNzRLYXRtUXA4aFY5UXpEMjZuYWw4SmFGY1FqXzdPeE5wRmRhNTl6OEV4MTIxY2NaRVdUNGhrSmoteWF1RURNbG1aTkxHN2VueE90ZF9aN3JmQdIBiAFBVV95cUxPb0RqcF9va2ZCaDlqcmFXSzhnMzJyQjZUQ0JJNWNLMGtQZ1U2QVFMSFNDTVBTd2xqdHFXV1YtaXF3Q3VOVUdTZlUydDE3U25GbldfWkNOMFFpQ3U0b1UxeGZ3S1BfOVE4ckdWc2t0M3dHTFNNNVlyWU8xRk02SHRvd01EajY0Rmpj?oc=5",
+      "published": "2026-04-27T07:00:00+00:00",
+      "publisher": "CNBC",
+      "summary": "OpenAI shakes up partnership with Microsoft, capping revenue share payments &nbsp;&nbsp; CNBC",
+      "query": "\"Microsoft\" acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "demand"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "OpenAI ends its exclusive partnership with Microsoft - Ars Technica",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWHBWWnlSRTJsa1dPU2JmWkxTc1RmSmp3eVRwSHJyM1otM1pCVDVadW9hR2NTVmhFYmUyNGp6cmpYU0ZabnVuZ0k2YS1fbERaMU53Z3RLTGk0T09GZFNvVXNqMFdNTWR0amlOM0VmYjlpTTQ1aEtPVDQ3N3gtcTV6eU5nbFdIU3A4MHRJV001UmRWeFo5cTkwdnltYkxMdnE0bzZlNmcySzJadFpkVzczT2xR?oc=5",
+      "published": "2026-04-27T07:00:00+00:00",
+      "publisher": "Ars Technica",
+      "summary": "OpenAI ends its exclusive partnership with Microsoft &nbsp;&nbsp; Ars Technica",
+      "query": "\"Microsoft\" acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "demand"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Microsoft and OpenAI Loosen Their Partnership - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVlVnRWhQek1BMzRVVjVzODROT3lWWjZUczM5Tm1VMTdiUlRCeTFYbFdUbThFbi1tUmQyVHljc01rY0lZVFV2Q3dDTjMzV3lsMnZFTGNDNU5KRVp1emI2QVRiOUU5Q1YyUlZfSElqWVd5RWRuZXNfTjFrbU10UGVpaUl2UGZlZw?oc=5",
+      "published": "2026-04-27T07:00:00+00:00",
+      "publisher": "The New York Times",
+      "summary": "Microsoft and OpenAI Loosen Their Partnership &nbsp;&nbsp; The New York Times",
+      "query": "\"Microsoft\" acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "demand"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Microsoft (MSFT) Must Face a UK lawsuit Over Cloud Computing Licenses - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSEQtLWlwdW12R2paRllMWDlPU1NNdnFrSlFNNGJfOUxCa2MzaV8xZnFSMFJ6UTlVWlh1SkJ1dmF6b3dacl90ZXdCV0Z1X3EyeDl6cFNIZTNwOWRQTTdmUy1SYnR6dFhqXzl0ZFlBbTdLTHk0aDA1X1RzYUtTUFVYUGZwWmVrZXVuenFTVzVvcVBfRXhrYmFJ?oc=5",
+      "published": "2026-04-25T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Microsoft (MSFT) Must Face a UK lawsuit Over Cloud Computing Licenses &nbsp;&nbsp; Yahoo Finance",
+      "query": "MSFT lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory"
+      ],
+      "lean": "negative"
+    },
+    {
+      "title": "Microsoft (MSFT) Earnings Expected to Grow: Should You Buy? - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdjNqdzh1YldZbG9tZGhycWZkQWk1MFFMQS1uQTBKX0RFTHZHNF91NWZrd2dwb0Z3S2pGeW9UWFNzSWZ6VnFmT3pNUklHS0R5YzU4Y2ZUX0FqQjk4amFnNlJrTkE1T3hJOTV5Mi1mYWpxLUtHcGYwLW5FeHBCclFYeTFGTzUxNW9tY0phdjBuenotVGpWTV85NFpZOEVGSFhHdVAzQw?oc=5",
+      "published": "2026-04-22T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Microsoft (MSFT) Earnings Expected to Grow: Should You Buy? &nbsp;&nbsp; Yahoo Finance",
+      "query": "MSFT revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "speculation"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Lenovo captures No. 1 global Windows AI PC ranking with 31% market share by embedding Azure AI Content Safety on-device - Microsoft",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMXd4Rl9NRFF5WUQyRVR2NmI4aklGaXN5b2g3SlktRFB0aUh4aTdhUU9LdkJuUnRlcnBVX2Q0VlduU2VNbGc1SmVxMHZheThJVmtVQWJVOURuRmEtVFVzZHpFX2Y0UThvUTV4ZTNKLXdTaEpmZmEzRFFDVzhSaHlQLTVReGFITWF1d1NPNE1MTEhPSnp5YnZoUzFjeWxtQQ?oc=5",
+      "published": "2026-04-22T07:00:00+00:00",
+      "publisher": "Microsoft",
+      "summary": "Lenovo captures No. 1 global Windows AI PC ranking with 31% market share by embedding Azure AI Content Safety on-device &nbsp;&nbsp; Microsoft",
+      "query": "\"Microsoft\" competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Bank of America resets Microsoft stock forecast ahead of earnings - thestreet.com",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVFRNcWdfdFpxYzU0M0E3SGdXajduVG1DVWVWV1BJMGw5YmNKeGhqVHY4a3dWWWpRdDBYcnFKNmJyQjZyeGRSR1NZUGdmZnNRaGMweGFGYXJiVG1HTm1wYy0zWEVqUy11UlB0QVBTdHRjeExJUjNOZ21qLXN6YXZuUU1OZ1c2RmhRZkY1ZEZtb0x1QURCOFNDTWo0cW5TSm9vMU9yV2V0SGdHdjJk?oc=5",
+      "published": "2026-04-21T07:00:00+00:00",
+      "publisher": "thestreet.com",
+      "summary": "Bank of America resets Microsoft stock forecast ahead of earnings &nbsp;&nbsp; thestreet.com",
+      "query": "MSFT revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "guidance",
+        "analyst",
+        "regulatory",
+        "speculation"
+      ],
+      "lean": "negative"
+    },
+    {
+      "title": "Becoming a Frontier Manufacturing Firm: Agentic decisions across the manufacturing value chain - Microsoft",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQNzk2U0swamRTUEl4d2FISG1OdnhzX0wyRWc0ZW5ZVktXR1M5X1BpUTVKWFJVZHl6NFFHY05UZUtJRXo4cnNyVkxPV1Z5X19od2RmYTY4ZUlnSHpFOWJVYW5zd3NBcE81ZmF1aVFwUDFPNTVyTGF2YkQxRVF6aDRqb0ZnUnlaODV3ZjkzNlp3bWp4dG55LW1fMXZ2dDlWQ2s5bVJidlRuZVlST2hQeTF2aFFuLVJ3aG5sNWUyM1JMTkk5ME81cnJwUGVlZVY5RDBKTV8zdDgzMHI3Vk9NdERjWktYLVVpVktjX24wWjVJTWgzV0xleGtRMWt1SllrRUZT?oc=5",
+      "published": "2026-04-16T07:00:00+00:00",
+      "publisher": "Microsoft",
+      "summary": "Becoming a Frontier Manufacturing Firm: Agentic decisions across the manufacturing value chain &nbsp;&nbsp; Microsoft",
+      "query": "\"Microsoft\" capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Microsoft wins Franz Edelman Award for transforming its cloud supply chain | Microsoft Signal Blog | Microsoft - Microsoft Source",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPb2JTX0psWUpzVGM1M082dnhqd0tUZHVoWVljcm1uZDRlandnaFpVQUFkRXM4MlpLLUZmd3JFOTlqMGI0ZDVQejA3NmlsRXR0MkFid1FiRHd0WU5pRjByRVpJb0lDUlZxYm9ieERiaUJLZ2FISGdDcmlsbXFVelF2RU9yRDU5R1hlSXdhdElPTUMzem9sNGhLWkFQZlVKX3VxcEl1QUIyWHdfZ1RsWng5ejd0cHMycTB6MHc?oc=5",
+      "published": "2026-04-15T07:00:00+00:00",
+      "publisher": "Microsoft Source",
+      "summary": "Microsoft wins Franz Edelman Award for transforming its cloud supply chain | Microsoft Signal Blog | Microsoft &nbsp;&nbsp; Microsoft Source",
+      "query": "\"Microsoft\" capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity",
+        "demand"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Microsoft and Publicis Groupe expand their strategic partnership to power the future of agentic marketing for businesses worldwide - Microsoft Source",
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNRThjUExCQ21aWm5xM3hJQW9rNzJNcGxlaHRlVzZRdUJlUzdZX0lDRk1GTmNGSGl3eHNMeVppNGFmTkQtLVJPSGgyV2Q5eUZqdGc4RVk5NTRKbENJWGk0T1dxMTVfUm9YdnNVWmd6M1UzQklfaHB1a0pQZ3hGS0pHZzJ4S0t3NVAtQ2pHWUhrOUgxYmlHSnROS1RFeHQ5bUZZM0pwUEZ6ckk0OHAzbDI1Z2IzTm5YYkNtMGR2OFJlWlFkT1lBeHV4MXBJN1Q2ZnR6SVpPNzU2U1otdUZDVlVGSGpndVNvY254cThyUHM3a2JFdzlScEFReEVYbERrS1BJUlhKWDNkSQ?oc=5",
+      "published": "2026-04-08T07:00:00+00:00",
+      "publisher": "Microsoft Source",
+      "summary": "Microsoft and Publicis Groupe expand their strategic partnership to power the future of agentic marketing for businesses worldwide &nbsp;&nbsp; Microsoft Source",
+      "query": "MSFT acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "demand"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Microsoft (MSFT) Deep-Dive: Navigating the Agentic AI Era and the CapEx Challenge - FinancialContent",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNUHQxZzFwQWRnSlBPUFhBamhPNktkMHhPWVRqdDVqdlJadTM4WXBLZENNQmllaDNJX1ZZcGNDd1haZjRhd1dreEhvZWRodTdkVDBqZUpoM2JSelF5WFFZVWtURFY5VGVUd0RZd3BQblZhR1Fnb2JiTENxOG5TUGg1eXYzWXhKbWJLUEEyUndhSnlnTDFpVEdLeExOMXo1M0xzVi03ZjBXZjJMcGczZ2dvRzBlTFBpMWRUU0Q2RHBpTEw5c21Ec0NDeHc2RHlOTUNqem9jQUl5MExnNzhUM0o1TVpB?oc=5",
+      "published": "2026-04-01T07:00:00+00:00",
+      "publisher": "FinancialContent",
+      "summary": "Microsoft (MSFT) Deep-Dive: Navigating the Agentic AI Era and the CapEx Challenge &nbsp;&nbsp; FinancialContent",
+      "query": "MSFT capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Mitigating the Axios npm supply chain compromise - Microsoft",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOallIdUhSQm81WlZobmlobUpnR3cwc3hENVRmUkNKUkhDcXJTZ0kySHdVM2ozcTdJaVBmMHNXV012eTh3d3dpZ09hSEk4dUNoUEdEWHp1bXM3TjZMQ2w5NUlZR195TFhVa0g4eFFKNzA2OTBJMS1SSjBfVVRMTi0zSjlzQVFoMExjRlIxcGNkc1g2SF9RWWxWaU5qZ0VoQ1NhaHpTVVhFcG54UQ?oc=5",
+      "published": "2026-04-01T07:00:00+00:00",
+      "publisher": "Microsoft",
+      "summary": "Mitigating the Axios npm supply chain compromise &nbsp;&nbsp; Microsoft",
+      "query": "\"Microsoft\" capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity",
+        "demand"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Microsoft (MSFT) Declines Amid Investor Concerns Over Guidance and Capital Expenditure Intensity - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQ2hudzVub1NKNHZpR1RVeVpHSmxsTTNra0JrWVpOSThsTmoxVm9qams2RVpYUEVWaENORTlyMmc5Q1Y0SU9mYy12ZFpVUnFLWFlyR2pRbFV4TXd4eC1vb2JxQ1F4SlJGTnU4dWVWczloeVM4SWNvMjI1Q2dMOFpXWFVwR01fV0NBOFpzN0FGNGlES0h5TlNyaE5mdDJiWF85U2NRWA?oc=5",
+      "published": "2026-03-25T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Microsoft (MSFT) Declines Amid Investor Concerns Over Guidance and Capital Expenditure Intensity &nbsp;&nbsp; Yahoo Finance",
+      "query": "MSFT earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "guidance"
+      ],
+      "lean": "neutral"
+    }
+  ]
+}

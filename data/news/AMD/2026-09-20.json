@@ -1,0 +1,2461 @@
+{
+  "ticker": "AMD",
+  "company": "Advanced Micro Devices",
+  "as_of": "2026-09-20T09:06:38+00:00",
+  "lookback_days": 180,
+  "summary": {
+    "total": 188,
+    "by_event_tag": {
+      "demand": 47,
+      "capacity": 37,
+      "earnings": 30,
+      "speculation": 26,
+      "guidance": 22,
+      "analyst": 19,
+      "price_move": 13,
+      "mna": 9,
+      "regulatory": 8,
+      "management": 2,
+      "macro": 2,
+      "product": 2
+    },
+    "headline_lean": {
+      "positive": 38,
+      "negative": 5,
+      "neutral": 145
+    },
+    "top_publishers": {
+      "Yahoo Finance": 49,
+      "CNBC": 9,
+      "24/7 Wall St.": 7,
+      "TradingKey": 6,
+      "TIKR.com": 6,
+      "TradingView": 6,
+      "Trefis": 6,
+      "Reuters": 5,
+      "The Motley Fool": 5,
+      "Seeking Alpha": 5
+    }
+  },
+  "articles": [
+    {
+      "title": "AMD Beat on Revenue, Profit, and Guidance — So Why Did the Stock Drop 7%? - TradingKey",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQOWgycWIzMXpJOU1OaWNtTm1HRll3eGFEcllxZ0htNzgyRVFyWWJ3VHl1NGJSQnBqbUd6RU1tcXVwVVNtM0pEUWhxcmwxa3k0NF9qU1N2dnJIY0NsV2I0ZWZoTzlWamNLVHJxdjhNeEVkYmMwUEl5dUlLRVU3eHI0MDB6Y1NBLXMtRGctcDhzV3NuQ3FFa1dFbTFJNXVJemsxU2FSaDhZQXRWNVpMS3pLWVV2WGVLVTRkT0E?oc=5",
+      "published": "2026-09-19T14:52:22+00:00",
+      "publisher": "TradingKey",
+      "summary": "AMD Beat on Revenue, Profit, and Guidance — So Why Did the Stock Drop 7%? &nbsp;&nbsp; TradingKey",
+      "query": "AMD earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "guidance"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "How important is AI to the stock market? Warnings bring new scrutiny - ABC News - Breaking News, Latest News and Videos",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRVIxYmJpcHdsT3pkWC1oR3ZUcmRtRGpsRHM1eGxDRVotOUV4SmlzdjdUX0xqZDQyaDlzM3kxTTMtYWxCaUhOMkhUQkthX2dlOUFGZlcxOVNjZHA1MW5wUWtFaUgzLTRJYVlRUE5IZndiZEdNSU5CbkZiUVJCbXU5ZU5mRWNmc21oXzJEeWZEajlzREZvZ1h2VnNmR1B2eng1ZUlZ0gGoAUFVX3lxTE1zMF9ycEkwN3FJS1JFZlhBVTFLTFJySmM5dEFFMXBwdzdBcC15NTlLZFpKdER6TUgteDI4OUNyMTJucFlwNVA0cm5taWtlanJKNjdfRThremRwUnJxZ3NSVXFVS0RoMXFXT01WQXRTeU94bE1MbDExYW5qdjhEb1ZjOE9TMmpQUGV5YUdQT3c0SGkwRjNvbGZ0ZVZETDVCU2k5QTYwQ2Znbg?oc=5",
+      "published": "2026-09-18T09:29:41+00:00",
+      "publisher": "ABC News - Breaking News, Latest News and Videos",
+      "summary": "How important is AI to the stock market? Warnings bring new scrutiny &nbsp;&nbsp; ABC News - Breaking News, Latest News and Videos",
+      "query": "\"Advanced Micro Devices\" lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Why AMD Stock Jumped Today - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPb1dOSF9kalB5d2hESVZ6VDZTbnBGZ1h4NkNsV256RHlSdF9BTTE5X2ZMc3NHYkhHQmUzbnpFNHBXZFFIZXRHem1ON2QzdU4wOTVvTXcxVXFZNlJjZWg3TlI4Rk5oLUtNUF9YUTFBeWVDOVBMak9nc0xkNjNzLWVVUXNDZWFXVzZRYzNnLU93RUp2R0stM2c?oc=5",
+      "published": "2026-09-17T23:35:49+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Why AMD Stock Jumped Today &nbsp;&nbsp; Yahoo Finance",
+      "query": "AMD stock",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "AMD Dismissal Bid Sinks in Processing Tech Patent Dispute - Bloomberg Law News",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPYzZsN0VKZ2pBMWg4cTJZRlRMSjVESFMtZldoamEwdFB2N1lxaHNKQ05NbzNXVDJWTTUxX2hNSlR5QzNfV3E5TjdldDRERUlJZFQteTlDMUxqbkNhbGtMeXh4cUp6RTlhbUpMTDRINGhndlRTZkFyekFPS19SUWtGOVh0LVhMWTJjcDZPa1FacV9GWmRuc0RJdGJB?oc=5",
+      "published": "2026-09-17T17:02:00+00:00",
+      "publisher": "Bloomberg Law News",
+      "summary": "AMD Dismissal Bid Sinks in Processing Tech Patent Dispute &nbsp;&nbsp; Bloomberg Law News",
+      "query": "AMD lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Why Advanced Micro Devices Stock Just Popped - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNeFZYQThMSGRkN0Z4TGJ3LVJGOEpYam0wbjBxX1R0Y0Z6MGU5VkhyUVBJZXJtWnYwbHFlcjhlTWJuVHY5ZmoxSEpoYjBERFlwSTExUHJvMHU4LWZtbU1zOXp4dlBXeVpTSmF0SEkwS3JqYXM1RHlibldVWEtGdzQyWVpDZ1hXMFhkMVhZVmxHbXFhaUp6bHJuc1VoS3NWZw?oc=5",
+      "published": "2026-09-16T17:57:59+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Why Advanced Micro Devices Stock Just Popped &nbsp;&nbsp; Yahoo Finance",
+      "query": "AMD stock",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Advanced Micro Devices (NASDAQ:AMD) Trading Up 2.2% - Time to Buy? - MarketBeat",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNY21MUjZQeHQzR2c1YmYwN0JlVXVwOHgtWFdudGp5a3RmbWpuc205SkU1S25zYTdNY2Q3bFFrSW82SXlETjZXUThONEJIRDJUbGRGSDNsM3hxZnJlWXZCcG1IRk10ZjNyLXU1MkxGRHE1UC1XZ1JNMnRiX0dWYlgtdDdpUTA3UTQ3QS1iaDZDOGlGYUp1eWdEdjdiMHgzdnNDVl80ZG1aWnpDXzlPVUdmUFlNMkphTTFyY0Jv?oc=5",
+      "published": "2026-09-15T21:33:30+00:00",
+      "publisher": "MarketBeat",
+      "summary": "Advanced Micro Devices (NASDAQ:AMD) Trading Up 2.2% - Time to Buy? &nbsp;&nbsp; MarketBeat",
+      "query": "\"Advanced Micro Devices\" lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "mna"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "News | Growing calls for AI regulation could delay data center developments - CoStar",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPYzJfa1FxYXdHRVBpZG5uT0RQUjFWTnhqOE5Ud0JIODlQdTQ0TS1OWnJENWNBZ2IycnluUDQyZFhBVVpJUHVqRTJubWliWERILTR2djFyTkltcDdzWEIxYTlwVHhJVklXV2VONHNCaTh4dXNqcWZOWVBkM1JkajZORmpIN3NzSVZOYmowaTc2QWxEdTZBU3JSbndFdlBya0F1SURMUldxYjV4ZHVtSHc?oc=5",
+      "published": "2026-09-15T04:54:29+00:00",
+      "publisher": "CoStar",
+      "summary": "News | Growing calls for AI regulation could delay data center developments &nbsp;&nbsp; CoStar",
+      "query": "\"Advanced Micro Devices\" lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity"
+      ],
+      "lean": "negative"
+    },
+    {
+      "title": "US senators weigh requiring AI giants to commit to preventing catastrophe - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOajQ3blBOeUpzdkljZFFjVWZySFdmLUpqZjdVQWl2STV0U3ZJaERkWmtSU1FoOU53NEpyeWRsVng4aHZ0M1lNM1cwQWpITk96cEtKOS1heWFBVjEzUFVGa3d5aE9WVDEtbEpYOEdnQmw1aGdscnR0SU5EVXJCY0lVbEdWNjdYelQyVlExQ19SeDd5RTVtZEt0NTRIX2FIU1ZPWjJJTDdkdE9EMC1oMkE?oc=5",
+      "published": "2026-09-14T19:43:38+00:00",
+      "publisher": "Reuters",
+      "summary": "US senators weigh requiring AI giants to commit to preventing catastrophe &nbsp;&nbsp; Reuters",
+      "query": "\"Advanced Micro Devices\" lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "AMD Shares Fall 5.6% as AI Development Debate Weighs on Semiconductor Stocks - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSC11SHlMYV9qQUlpeVJJd054VVRlVEdHaVIwSWQ1UHFPcHJwWmFlUUxPR0NVUjVIT1FyUFk5VGRNNDFkRTFOamZsU1FuRUFST1kzVUNpLWZ0Umk4VGZQdkRtblBMaEFqY1lJeWMtOC1nODdyUTVpMHZCa0ZaemxxUElieUl2TjB5cU9WZg?oc=5",
+      "published": "2026-09-14T12:02:52+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "AMD Shares Fall 5.6% as AI Development Debate Weighs on Semiconductor Stocks &nbsp;&nbsp; Yahoo Finance",
+      "query": "AMD stock",
+      "source_api": "google_news_rss",
+      "tags": [
+        "price_move"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Advanced Micro Devices vs. Nvidia: Which Semiconductor Stock Is a Better Buy in 2026? - theglobeandmail.com",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPT0VSZXdOOFRRcHlWZ29OXzAtblRWTXRLdVUyNjdQLVJBSmU0RklSRlNYdkh0cFRXRHdQUi1uOEZkVlJJZDN1M2VULWRJcTlZZWpwb3NYNFJZOG5rQzlRSy1SNGxjSWVMX1VfTG0yOTdDV2JpMlhVRHVSWGpyLVM5NlZZVDFrcm9BbjBzTTB2TFBZZDEwSXdkeG1HQ2NJbkJNcWM0VjhvQXBDUHZKWE9mQl9sNElvQkZ3TUIyZmV3M3lPdU9TbHBKWkdTOG5BZGJFQ0xnNmdOUF9vU0R2aVFMNy1ZWWFHTHdpUTRDcTh1dVA3aWp0b0lIYndB?oc=5",
+      "published": "2026-09-10T18:51:00+00:00",
+      "publisher": "theglobeandmail.com",
+      "summary": "Advanced Micro Devices vs. Nvidia: Which Semiconductor Stock Is a Better Buy in 2026? &nbsp;&nbsp; theglobeandmail.com",
+      "query": "\"Advanced Micro Devices\" lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "speculation"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "AMD Stock Rises as CFO Claims Its Addressable Market Could Reach $3 Trillion - Barron's",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBiaXNUTGhIVFk0NWc4dGtjZVlMWHN4Ujl5bFNUaHlIYVFkeTg5MHVlSktlMGJTQkxoTjU3VUxLbXNLNjN1QUItd3lHczJvUVRPaDctTFJycmFxdndKeEhwSHhKOVU2Q0dGd1pKek5ZMU16VXc?oc=5",
+      "published": "2026-09-09T07:00:00+00:00",
+      "publisher": "Barron's",
+      "summary": "AMD Stock Rises as CFO Claims Its Addressable Market Could Reach $3 Trillion &nbsp;&nbsp; Barron's",
+      "query": "AMD stock",
+      "source_api": "google_news_rss",
+      "tags": [
+        "management",
+        "price_move"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Could Advanced Micro Devices (AMD)’s Partnership With Cisco Systems (CSCO) Unlock a Massive Middle East AI Opportunity? - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOaDVJdWIwOXNtRlBLRmVScHM4dVJGZ2hQcjVfOTY0TzNEM3NNZXc1ZWJubkFlUmN2aGMwTFZfTWtZdGVVWnVHNW9KYnAyR2loV2RsSExBMlpFTjkxMTVjX1BBT3d2VWlaV2NaSjdwd3pwM2E2T2pBckNfRm1Kci03enNseGV4dk4wUERzb3BQT3hWOHU0MWJaSjZEYzA?oc=5",
+      "published": "2026-09-09T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Could Advanced Micro Devices (AMD)’s Partnership With Cisco Systems (CSCO) Unlock a Massive Middle East AI Opportunity? &nbsp;&nbsp; Yahoo Finance",
+      "query": "\"Advanced Micro Devices\" acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "demand"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Advanced Micro Devices (AMD) beats Q1 earnings forecasts - equiti.com",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPeVQ4U1g5ZkNnVUJyODg3N3BoSi1xTkhTSndGVUREWEVxd3Q2dkE1a09XWDAyM0hfZG5BMGp3Y1BGdGZDazV4eTMtSDNPeEhCOGNlNzRvSDNuWFFkMmJzWHlQZUlvdHZrV2JNQlhSalFfRjYyUEdlQko4cTFKU0Nzb2dmeW5UbDhNZjZHbWJfSjdNV2pBMXg5cmxxWTBhYXUyeFgxSw?oc=5",
+      "published": "2026-09-09T03:02:02+00:00",
+      "publisher": "equiti.com",
+      "summary": "Advanced Micro Devices (AMD) beats Q1 earnings forecasts &nbsp;&nbsp; equiti.com",
+      "query": "\"Advanced Micro Devices\" revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "guidance"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Why AMD Stock Popped Today? - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcHFnckNlbHA0Z0dmQnFHRU9XVUxrUDZlS1liLVVhRU1lankxRFk4NHdrTzc3VWNTMUxGd2JhY3dDNW1rQXdsYmp2c0loTndyTURkeERQREZ6UmctNjBXM1l1Q0Y1clBxaGo2X1kxVjdEa1J3ZUVCZTIyMUwweE5mNkV3alRhMFlmdFFXOEpwNmE0TW9lQXc?oc=5",
+      "published": "2026-09-08T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Why AMD Stock Popped Today? &nbsp;&nbsp; Yahoo Finance",
+      "query": "AMD stock",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Why Advanced Micro Devices (AMD) Stock Is Up Today - Quiver Quantitative",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNU3BIMVNMRHpBdXVvcUFwRnM2bjVZZGd4Wk5vbW5pX2w0R2hXMTM4RTdybFppb09CSnB5YWVfZmUxUzZEZlVpNFY5QXhCaGxZa3htbEFuUGRaVFk1Um5UZGxYc0hxRnVwSlR2N3g1ZzQ1LUEyc05PcVdrcmZIMl9iZzdFYlZkSE5FZm1ISU04c0Q?oc=5",
+      "published": "2026-09-08T07:00:00+00:00",
+      "publisher": "Quiver Quantitative",
+      "summary": "Why Advanced Micro Devices (AMD) Stock Is Up Today &nbsp;&nbsp; Quiver Quantitative",
+      "query": "\"Advanced Micro Devices\" analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "AMD (AMD) Stock May Be 24% Undervalued On Saudi AI Expansion - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOU0FXR3I3QnIzQUdSSjNFNVpvVS1TLThvUWQya0lsLW9TVVhQNHhKSFlwNFJOeG00MkRILUlwNXE1VmphSUo1VV9nRXJiTThoRm14NE4xbTZjQzUxRm1NeWdTcmEwOXNzNThUbERZVnZsTXl3THRmOFVIaG9TMXhiWnFKZW95X3ZJeDQ3V0xB?oc=5",
+      "published": "2026-09-03T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "AMD (AMD) Stock May Be 24% Undervalued On Saudi AI Expansion &nbsp;&nbsp; Yahoo Finance",
+      "query": "AMD stock",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Nvidia Just Delivered a Massive Warning to AMD and Intel Stock Investors - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNV2t5c21zWnh0SHBSdU1yVXpSNWNtYjJuVnRKdzJkUU9WWGRqWnRvYmVveTROdTd4dmdxLVRLelhGSU9PbV9vZmpKLTBCT2s2b0p3cmx1Tk5Wc2VSQzFXTmloTGJtVWgyalVDbUIwN3JRb3RLWEFDTVBPbWwybi01aS04VHhXMjN6c1pOeGdHbTRybG1iTmFiU0VHdjN6OXNaOGJSeg?oc=5",
+      "published": "2026-09-03T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Nvidia Just Delivered a Massive Warning to AMD and Intel Stock Investors &nbsp;&nbsp; Yahoo Finance",
+      "query": "AMD stock",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Retailers Ditch Variety to Beat Supply-Chain Costs and Tariffs - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNU3BFdUVzYjdzay1taHA5dWVKQzhFNlF1V0xUOTNxdEJlSFNOSVprTGFYTnpVWm81V2FqMHpvQVNZdlhHT2h0b0gxRXMtbkxrakVvU0lsTnE4LWtqWjdlVjYxWGQtRnJTUmU1Z2wxZDhGTjE5U3l0N2xnX1BhcHFueGF6ZFE0bW96MExqaDV2Q0U4MVUwS241U1otYVBzYWxtQ3lGMUJLa3pBbXpZ?oc=5",
+      "published": "2026-09-01T07:00:00+00:00",
+      "publisher": "WSJ",
+      "summary": "Retailers Ditch Variety to Beat Supply-Chain Costs and Tariffs &nbsp;&nbsp; WSJ",
+      "query": "AMD capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory",
+        "demand",
+        "macro"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Intel vs. AMD: Why the Market Share Number Is Misleading - barchart.com",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWHFsNWNyaFF6dlV2MW9SeUUydVVQLXpIQ3ROa0Jjd25JbV9JYlBCNUVJSzlMVDB4TUJyck1Pc2lubkFXOXZqc1kyaXk0Mml0WVR5QS1NaDdjQXprY29OVHBQUi1YbkR1QUlNOE5ua09VUkhtQW8tanVVcGptN2YzeDI5RkdGZDBsak5KOHRNZV9feTJIeEV0RU1hZE54TEU?oc=5",
+      "published": "2026-08-29T07:00:00+00:00",
+      "publisher": "barchart.com",
+      "summary": "Intel vs. AMD: Why the Market Share Number Is Misleading &nbsp;&nbsp; barchart.com",
+      "query": "AMD competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Why Is AMD Stock Sliding on Friday? - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMkhpLWo4Tkc4V1Q0MTlJZUVIWDZleG92R0czanZ0SHVEbUtfdjVDX001RDR2WmFUZ2dWOXpzTkx2ZUVaLThSRXh6TDdiREdpN1VuMFZoeWloY3h2VEdKb3MtRHBQUW1YNnFkbzZ2TkR3dHdzaGhtMDFNM2dIaURDV3UwVlQ0OF9oaXczaEJYaEFieTVMMnZyZQ?oc=5",
+      "published": "2026-08-28T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Why Is AMD Stock Sliding on Friday? &nbsp;&nbsp; Yahoo Finance",
+      "query": "AMD stock",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "NVIDIA Surges 6% as a 70% Growth Forecast Overrides a Memory Margin Warning, AMD and Intel Tick Up - 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQRUhUUDNGdzI3WWVWRWtvM2VVeTZXTDNxU1RhVEZ2N1F0TzNSNTN0b3E0dlAxNXR2NURYaDFTLUtmUlJfUHBrOFVKTG1RUHJZcFBpSEk4ZDlXOFBtU21IdDhMS29PLXBEREo4ZEVpbXlyVVhiLWlXTFVHd1Q0N1JJZHFPYVZ1RkdtTjZkLS1NVGtsN1lsaThtWDhSZ0FUUzRNV1V3c0EyWGVYMjViUnQ3VEtzMHZ0MGo0NUhTQlB1enZYeHRRMnBHVXZhRUpOSDFxN1IwcUlR?oc=5",
+      "published": "2026-08-27T07:00:00+00:00",
+      "publisher": "24/7 Wall St.",
+      "summary": "NVIDIA Surges 6% as a 70% Growth Forecast Overrides a Memory Margin Warning, AMD and Intel Tick Up &nbsp;&nbsp; 24/7 Wall St.",
+      "query": "\"Advanced Micro Devices\" capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "guidance"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Top analyst resets AMD stock price target for rest of 2026 - thestreet.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWmxUUXI2dG40UWdrV2xSamkxZzgwQTZkQWlfYi1JUTB1WmxfN3NIX0V2RVBZOU03bjQweFRpX0tkWUdJblptWWVSQVlHaF91YThPSHdKZUlBbGFzMU1hY3NqSWJzejdjMmxKdW9aQlljWjFLMWpqQ0FfbVUwQXRXbjFfUk1yaEFkUThJRlBXSVExZk95NzVBZDJuZ1dYengxdGpn?oc=5",
+      "published": "2026-08-26T07:00:00+00:00",
+      "publisher": "thestreet.com",
+      "summary": "Top analyst resets AMD stock price target for rest of 2026 &nbsp;&nbsp; thestreet.com",
+      "query": "AMD analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [
+        "analyst"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Prediction: AMD’s Next Move Could Be HUGE and Here’s Where The Stock is Going - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQUNQWkxjbEJkZU1TQ2NTTkhrZXpucEtfWkZOeWI0dFptLU45UVQ0Tlp0MGU1Y19lVWdzT19ZWTFtZGNfRlNqLUJrYXQ5ZEtlOGtVdHU4MG53eWVJczNkV0wyU0NybS11czZYVVVSQ3NoSnVJUDVOMkNFTnIyZ3EzNnd3LVdMUW00QWp5YmhWX1JtalFsZkpIZ2NEbw?oc=5",
+      "published": "2026-08-26T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Prediction: AMD’s Next Move Could Be HUGE and Here’s Where The Stock is Going &nbsp;&nbsp; Yahoo Finance",
+      "query": "AMD analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [
+        "speculation"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "What Is Advanced Micro Devices (AMD) Telling Investors With Its AI Security Push? - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWVhaZmpkZG52T1NIbXFYWTBsYWlEOEMwUVBTTVg1eHZnM1pEMUI5b1pWYlJtVjM3amtrZkdrZDBHV0kyTzA1MnJRb3FMYWlZYWFZQ1U4RUJmWEh1TEtPOWw5Y1hoNUgyLVlleFR5YUdpM3FUd3N0RlFBVDhZcEc4bGdBQTlaUW9Rbm1nRV9BRTlDWDZkLVpIODVuOWVSc1E?oc=5",
+      "published": "2026-08-26T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "What Is Advanced Micro Devices (AMD) Telling Investors With Its AI Security Push? &nbsp;&nbsp; Yahoo Finance",
+      "query": "\"Advanced Micro Devices\" lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Advanced Micro Devices Advances After Raymond James Upgrades Chip Maker To Strong Buy - TIKR.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdHRUZ0x4S3ZqTU84c2lKclNqR2N1dkhpOGJLcmtxaGhXVTZUM3BDNS1RT2wxaTVwQmRXLUtId192bnhpb3d2aHYtQ2JYQjZIamdwcDF5UXNUcHdyN25rMWZPNHU0QnZTR25fYlJ3ZUxZeFplWkNuNngxazVvSnFoU093MUY2TGtCVi1DdDh5UlB6R0pfTHc?oc=5",
+      "published": "2026-08-26T07:00:00+00:00",
+      "publisher": "TIKR.com",
+      "summary": "Advanced Micro Devices Advances After Raymond James Upgrades Chip Maker To Strong Buy &nbsp;&nbsp; TIKR.com",
+      "query": "\"Advanced Micro Devices\" competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [
+        "analyst"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "AMD Stock Gets a ‘Strong Buy’ Upgrade: Why It Could Outperform Nvidia - Barron's",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZUVRQy1Xb3Brb3haWUNuTHhibXVHNFdoQlZNb3lyY01qQVhHdlVqc0sydDc3ZVZGbnBfMEJWaUhyU0pYQkk0UjZJVGgzaFZhS0NiZHp5dGhUT3A4ZERQSXNBeWh0UUpvc0ZSdTU0clpnSVE1YVU1VTR0SXRuSlQ0TFdrQ0tvek9BMkNJ?oc=5",
+      "published": "2026-08-25T07:00:00+00:00",
+      "publisher": "Barron's",
+      "summary": "AMD Stock Gets a ‘Strong Buy’ Upgrade: Why It Could Outperform Nvidia &nbsp;&nbsp; Barron's",
+      "query": "AMD stock",
+      "source_api": "google_news_rss",
+      "tags": [
+        "analyst"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Why Nvidia rival AMD may see a 40% rip in its stock - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTjBKcGJINTduaTdranItVVg1SEJDNFRTLXdjT3lnZGdkTG1DMV9KZmNqWDQwMHNmc29Ed2E4ZnhwNEZSdnF5SGMwMEg3NzV2U2t5Ukt1X2RKRHBwU0o4T3NTMHExMGxacVJZb2plRHJjSjRYZjhoaGk3MWV6UV9xcGhIM25Rc0puNjhoaG05VUJpWlJwM29qUHQ3a2dGYjBwSGJ6R0RLNDFUR3ZLY1RTV0dDNVc?oc=5",
+      "published": "2026-08-25T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Why Nvidia rival AMD may see a 40% rip in its stock &nbsp;&nbsp; Yahoo Finance",
+      "query": "AMD stock",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Advanced Micro Devices Shares Rise After Raymond James Upgrades Stock to Strong Buy - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTTJPZTdzemJ5c25Wc3VUalllaUZFYl9sanFaN2xaenJWZmNCcjdfT3RueGhORUtRZ1EzMHRlZE43TDIzTEx3QTNaeUFWLXJrcEpPT2NWSFltZHFGaENEZUhqRFhWX2xFd29NTDNxcFhKR0phQnRwY0tsTTQycURaYVN5UXU1cmlYR3RIRHFjd21Cb3FXVlBtbWpvRlpmZ2RE?oc=5",
+      "published": "2026-08-25T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Advanced Micro Devices Shares Rise After Raymond James Upgrades Stock to Strong Buy &nbsp;&nbsp; Yahoo Finance",
+      "query": "\"Advanced Micro Devices\" stock",
+      "source_api": "google_news_rss",
+      "tags": [
+        "analyst",
+        "price_move"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "What Could a $10,000 Investment in Advanced Micro Devices Stock Be Worth by 2030? - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWXY0WWdXZWFtNlVMcTJZcjBKT24yeE9rT1R0aHZ6TnBzRjJHV212T2pYNDg3Q2pLa3dsNWdQWEV6UmtlT0hmbVpNQlFndXo0VC1UakhFUll6elpUT2F0b3lnWnk2RmY4NHh5N1MyNUdyOHItTEFTTG44eWlYYjF6M2xyZ0N6SDFNZW1FY2xObVpPOG1YMElHTg?oc=5",
+      "published": "2026-08-25T07:00:00+00:00",
+      "publisher": "The Motley Fool",
+      "summary": "What Could a $10,000 Investment in Advanced Micro Devices Stock Be Worth by 2030? &nbsp;&nbsp; The Motley Fool",
+      "query": "\"Advanced Micro Devices\" stock",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity",
+        "speculation"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Why AMD can beat rivals Intel and Nvidia in the market for data-center CPUs - MarketWatch",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNaHhPeDdLRkk2QkVJc0tqLXNmUVNoeGRfNjgxbDlRajBNSUFmb1hXTXdzS29vNHh4cm84UE1mREJVYm82clhtWUxXNU9FbDhkM1EwMV9xQWRRQmQ1VzJycG1ESmpDTUNOWm5LOThRT1ZuclY2STF0SXR6cGxnT3hPdWFabEZDS3psMXViQjZfakJHZFBuMjZVYnp0RDhkU2wyM19ySFZROE1Ld1hOczNEbXpkQnBWeWg4bFE?oc=5",
+      "published": "2026-08-25T07:00:00+00:00",
+      "publisher": "MarketWatch",
+      "summary": "Why AMD can beat rivals Intel and Nvidia in the market for data-center CPUs &nbsp;&nbsp; MarketWatch",
+      "query": "AMD competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "AMD Stock Is Rising. Here's Why This Top AI Stock Is a Strong Buy Right Now - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOaGZ3VTdwVVFyNVc0VFItNTIybVl3cjZLMm1JUkp1NnNVaFJ3Zkl1YW9RcnNUVVJXRmEta195Yzk1b3hIeS1tNFhQeW9YeFhseGFYTGY3eG5qZnpMWnJMUjBMNElocG1tNnJaZDYyaDZUNnhyNExQVnNqZVE2LWdQcHl4c2NTb2EyMjVCN3dDb2h5cGtWWlE?oc=5",
+      "published": "2026-08-25T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "AMD Stock Is Rising. Here's Why This Top AI Stock Is a Strong Buy Right Now &nbsp;&nbsp; Yahoo Finance",
+      "query": "AMD competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [
+        "speculation"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "AMD Gains Ground as Intel x86 Market Share Goes Back to 1995 Levels - TechPowerUp",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdFRSTHRNbWVOSFhPVU91cFZpbU05M2RheEdaZ3Y3amM2UmEzbWFJMUxoR1NtRFh5YkxGR1kxTjFIbi1yMHk0dEhjR0NfNU45blBpRi1MOVhXWTJZeWdaRnNTVzJneDU2bVhrV0VQWGpkZm5VYlpvc0xjSHA0QTZYSmZva2lROFppSkNOSUZUVzh4NVRVQzdReXU5enBoOGtRS0R0UdIBqgFBVV95cUxNRkgtZzlfREh6X3ZhM1oweGkzdE1nWF8tUGtBZ0FOT1dUNHdoaGRqejdVRklaMHRQNnpSZlZyRW9PX2gxNjRQMElfdGNBT1JNUWtnMHQ4YTdtOFEwRUt6UzhOdUZuRF9hRHVZWlBlYWlJX3RyczlnTmI4dkNhWnBlMkZxbU9YVU5qS2tHcUhvVE40Q0E4ZjU0UW9qUnJBeEttcGVpZ3lFaUdqdw?oc=5",
+      "published": "2026-08-24T07:00:00+00:00",
+      "publisher": "TechPowerUp",
+      "summary": "AMD Gains Ground as Intel x86 Market Share Goes Back to 1995 Levels &nbsp;&nbsp; TechPowerUp",
+      "query": "AMD competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Intel’s Market Share Of The x86 CPU Market Falls To 1995-Levels, As AMD Now Controls An Adjusted 46.4% Of The Market For Server CPUs Vs. Intel’s 53.6% Share, Claims Mercury Research - Wccftech",
+      "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPbzd3Yno5Tm1PMmotTUpFSU94VFU5a1dERkhsTU1nRU9DTGpULWRUSHl3cnVqakJTcWk5WVVQU2VJd0VrYTJqMHlRMjBGZmQ4c0dldU96T09wRVVrV3FCZ09VYWUwa2VUbG1sZXp0TURzcEs5LTN4N0tyVWtUX0xPZHlnRnJPTDNjUFhqSDVOWDEwZGlaczlTMWJVcno5WUNDT1l0Nl8wMFJmbEc1ZmZsTTlkb25HR3RzaHhsV0Z3cWhPektNdGliU0RvbkhuSnlrZ0xwU0IzN3lObzVxYUR1MjRtdGFsY013M2FHYlNvUG1OQjduSmJzbTRDVjU2M1dFQ1RBNGlEMWRnTDFKSjFSQ0VDRzJIUjN3dzNZUkJSYWl1Z9IBpwJBVV95cUxON0szMldPYmFwc0ZYdXcwakp4ckJXeXVxd3ZfQ2R6S2UyUjVzcVB4empoQlRMaENkRHEzRDdWT2p6M2xLX3lUWjR1a2FKUWpFLXBsd1JHaGctOUZMaEpLdTlTQUtzUlFoVW9NaFNSalJ1M1hJZ0c1ZGloSFRvTjNWOTFVMTE5a095cHBmMm92S21SbWYzVFRrMU00QXBIOHV1LXFocm81REJkTlNaZDZfeXdoWk9pY1ZOX001UXdjTjVwWUc5bS1BTTdIamI4a21peUxWS0NUaGlMZnNzUDFLZndWZFVjeVZwRUVrRzlENmdVWmUyLWFBZzkyV2xHMGt1eFBVRUdQUTZLTmIxcG1CUk8zbW42cFR5T1o5QTBsZjVKVm1kMTlr?oc=5",
+      "published": "2026-08-24T07:00:00+00:00",
+      "publisher": "Wccftech",
+      "summary": "Intel’s Market Share Of The x86 CPU Market Falls To 1995-Levels, As AMD Now Controls An Adjusted 46.4% Of The Market For Server CPUs Vs. Intel’s 53.6% Share, Claims Mercury Research &nbsp;&nbsp; Wccftech",
+      "query": "AMD competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "negative"
+    },
+    {
+      "title": "UPS is investing $2 billion in international, healthcare and supply chain businesses - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9tblQ0NERwdWdwblpNQVA0VDhmZU1rLU9Pc0QyVXA4aTROS2RuZE1yVlYwck40RTFHR1gzTGw0cEtXREx6dFFnWnRSTl90c2lBUlc1TmpsTV9tYXlXZkdpOURSNUozeEtlS3pTMXRsWHVaU01jc0tz0gF8QVVfeXFMTllLM2k5akRUQzBPZ0pyRENlODE5Q3U1N2FyY05NMzB0RDkxZjdSa2ZYck5FcXVlNTdHQXdKd1pmNG5UNF9tVFZQeUZIbjVYUVdPSFNHUFF2OXkyWHppV1VXLVhkSTFnb1ZSUkVNSUpRVW9UUVRsSVpWUHdxYw?oc=5",
+      "published": "2026-08-24T07:00:00+00:00",
+      "publisher": "CNBC",
+      "summary": "UPS is investing $2 billion in international, healthcare and supply chain businesses &nbsp;&nbsp; CNBC",
+      "query": "AMD capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity",
+        "demand"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "UPS Invests More Than $2 Billion to Give Customers Even Faster Service, More Control and More Resilient Global Supply Chains - UPS",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPaG1DS3dRcjFlNFJNTTJ1VkV0UUpKXzkwTXhDVEVaSVVLREZ3aDI0bENvTmZ4ZUxsalpYeFVJdWN6YkJKdTZZNGNYZUljb1B2ZWhkVUgyRGwzb3VkNkdGSl9oM21aN29hSFBXV3hLUTgyOVJhS1ZZZDc3a3cyajJMSmtvYjFzZHVtMk5LQ3RpOERQbm84R1dGTF91TXRiTVVtQlVFQWVMUFhsYzRfMnFkVkN0Vl9yU2w4d0N0X01QM2xYU2k3dGkxTzNmLVNXaHpwVXc?oc=5",
+      "published": "2026-08-24T07:00:00+00:00",
+      "publisher": "UPS",
+      "summary": "UPS Invests More Than $2 Billion to Give Customers Even Faster Service, More Control and More Resilient Global Supply Chains &nbsp;&nbsp; UPS",
+      "query": "AMD capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity",
+        "demand"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "AMD Vs. Nvidia: The Tortoise Keeps Pushing Ahead, Heedless Of The Hare's Rapid Pace - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNjFhN3pRQXBLaDF1aGh4OS0wVTR6UGhGUVg0cWUzaHdnVUJKOEZHZnJfVkdkVUtwOFVZaE1QSm1La0c4WEpqTlhtY0tzaFFlXzZaSFhKZlNlQ3o0c2g5dFlfeFhZZkZwRTR3QkNPVmpKSGh5d2Q0a2d2MXdxdDU1YzR1c0EwSmY3TTd3WlhDT2o1aUFHSGI4Rm5seUNNTWczY0cyREFsLTkzR1VVdHpLaHkxam56RWNpSUE?oc=5",
+      "published": "2026-08-23T07:00:00+00:00",
+      "publisher": "Seeking Alpha",
+      "summary": "AMD Vs. Nvidia: The Tortoise Keeps Pushing Ahead, Heedless Of The Hare's Rapid Pace &nbsp;&nbsp; Seeking Alpha",
+      "query": "AMD competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Desktop CPU shipments crater 20% amid high component costs, but AMD gains record share despite 'ugly' desktop processor market — Intel floods laptop market with millions of CPUs, but AMD still sets all-time share records - Tom's Hardware",
+      "url": "https://news.google.com/rss/articles/CBMigwNBVV95cUxOS1pJbGM5TzRnOGszc3htcUVCbnBWOXZmSzBnVXZFVTNZcGhRNVNUdm9sVi1RdllFS3dtSWtCWldJNmhCR1JvbWpxTmVuaGJKRGI3bWRTQndGV2xKNEVBTTlCSDVONTA4dENaYVA0U1lpdlZiSzZDVEo5by0xX21peDdIWFhka19fcFJUZ09pREx5NXpCSlNwWlhZTTQ3SWJYamJEVHJ4dldfUG5FM0lJSXlvS0pWdXBLQVBYNWRlWHI3MHFxR3p5ZVM0dUZJRDRpRUx6TFV5NnlOUVFQVENsRFFFTWpXVlVuYlBEbUF5Q0VqanBjLXJ6cEJRTmhCdWt5LVFJOWpxODlhZzVqc0w2WFUtemhIODlaOG90UkQ5SWtzSEdhb1RqUmsxTHhnNDFpb0NYN19ON3NtaWlydjhrMjRmckV6am5jQkpQU1hKb3NnSFY2QVlGMl95U2dGRHNIeEJNTTRnREhoYXpaX19CNW5TdUhrZm1oV3BDcTc4d2J4M1U?oc=5",
+      "published": "2026-08-22T07:00:00+00:00",
+      "publisher": "Tom's Hardware",
+      "summary": "Desktop CPU shipments crater 20% amid high component costs, but AMD gains record share despite 'ugly' desktop processor market — Intel floods laptop market with millions of CPUs, but AMD still sets all-time share records &nbsp;&nbsp; Tom's Hardware",
+      "query": "AMD competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "positive"
+    },
+    {
+      "title": "AMD Hits Record x86 Market Share To Cut Into Intel's Chip Lead In Every Segment - HotHardware",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZlpPWjFaaHVGRlVITnlqV01ROUdkLUVRZDcyV2lVTzdWamhWV2dxSGFVTEJ1RjdNRG9TMUQxT2xXTGFMQlFGX2hRblJBMmF3a05uLXNZeVB4VC1UcHhRRkRXZE11dERUY29xTDREQ0hoQzFHZXNwWXZ1R0FZQ1NJVW85bw?oc=5",
+      "published": "2026-08-21T07:00:00+00:00",
+      "publisher": "HotHardware",
+      "summary": "AMD Hits Record x86 Market Share To Cut Into Intel's Chip Lead In Every Segment &nbsp;&nbsp; HotHardware",
+      "query": "AMD competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "positive"
+    },
+    {
+      "title": "Prediction: AMD Stock Will Hit $650 on This Date - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSnIwVW9sX1lmZDZyX1RrYXRCcUtPSmVLNS1JLUplbTNPcDE1UFJrTkZiQ2tqY2QwLTN0N1hFUHVnVDlEdFNQVmpwOW11X2ozZmtMdzFpeXI1OXVWRGh1aWdHa1ZoVEpXc1FOZklQQXhCSTJWeWRoWm1rS1hua2NqMFRCcHk0MEM5eTB0VXhFT3Ytb1B3MmVneg?oc=5",
+      "published": "2026-08-20T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Prediction: AMD Stock Will Hit $650 on This Date &nbsp;&nbsp; Yahoo Finance",
+      "query": "AMD stock",
+      "source_api": "google_news_rss",
+      "tags": [
+        "speculation"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "AMD Crosses a 30% Client CPU Market Share Against Intel - PCMag",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNU0lpclQ2WGYzdFAxV2M4ck1NbmZvMUxzcDRDRmk3bkIwYng4ZEREWEJkUWFGV1pqM2JHRnRjNnI0QWltS1ByZmY5cWd0NjNIUHhDUHhJeWRHbV9FaERmWkdzUDYxUVFKTkhxNWtWcE9PZl8yb1ZMb2Z3SzE0c3ZHWTVyX2FkUmdB?oc=5",
+      "published": "2026-08-20T07:00:00+00:00",
+      "publisher": "PCMag",
+      "summary": "AMD Crosses a 30% Client CPU Market Share Against Intel &nbsp;&nbsp; PCMag",
+      "query": "AMD competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Where Will AMD Stock Be in 5 Years? - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZ185c2RGeXFPbWt1WjU3Sk96bThUdFhoYk16VnoyeTdiTWZIQTJLX2dreXNGXzlyTlRvaHJNMFZKc0gweVc2aVlQRWJJRTZQMkw3NXJGM1ZmbjY1aTB4SURIdngzMkY3MHNYbFpVaDFCYnQwSkI3R19vU0RqOXhaY041V1FXNEdUZEtvVHQzT21Edw?oc=5",
+      "published": "2026-08-19T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Where Will AMD Stock Be in 5 Years? &nbsp;&nbsp; Yahoo Finance",
+      "query": "AMD stock",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Move Over, Nvidia: Why AMD’s Latest Acquisition Could Redefine Direct-Silicon AI Inference - 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPQXJhUU9wOGozc09nQ3BOdEZaeWNMVlhadzFEQlE4SXNmVzV5djZ6S216eTh6VnhyNU1KeDhCT3d1UlZuUzFfTXV4eVdfbUlTTmJmcDIwTGpGeHViU2V6MFZhci1yZFpmOUV1OXg4eUZjZlRtX2FvMm9NVkd0WDhhTVN2Q2dJeEoySjdER2o4NVVqZHY5V29CV0c4UThPR3VraktxZUl4QV9rX1ZFR0tYTU1xcUJXUU92VjJ4VnRWOFNqcWJQWGEwMi1KQQ?oc=5",
+      "published": "2026-08-18T07:00:00+00:00",
+      "publisher": "24/7 Wall St.",
+      "summary": "Move Over, Nvidia: Why AMD’s Latest Acquisition Could Redefine Direct-Silicon AI Inference &nbsp;&nbsp; 24/7 Wall St.",
+      "query": "AMD acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory",
+        "mna"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Advanced Micro Devices (AMD) Is Positioned for the Next Wave of AI Demand - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSDJfeXlKYmRPbzdoRTVJVTVCbVBuNHk2d2pEV0M3TDVXWGNEM0JqaXZldjAzRXFXUVQtRUtMbkNrcUJzaHdsMldvZzRMM3VGSEEtbXcwYlQ2blNtaDYwb0VDN2lzNTZVVlNtNDVmSkVTelBiM3hXVGt3Nm5DalREWkNBcjV6M0VVZTFvVWZwSW1BcG9PNmtCemxNUlVCaEVGazEw?oc=5",
+      "published": "2026-08-17T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Advanced Micro Devices (AMD) Is Positioned for the Next Wave of AI Demand &nbsp;&nbsp; Yahoo Finance",
+      "query": "\"Advanced Micro Devices\" stock",
+      "source_api": "google_news_rss",
+      "tags": [
+        "demand"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "AMD Stock Jumps 5.6% While $4.75 Billion Debt Deal Lands - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMVAyZ1FUUlE3dy1XYjlTSVczTzZPdkhVN3QzQ0xUbUgwOWpsTkVVd1BZRnAzQjA2d0xNTkN1cmVNdnR6ZlZTVENzbjZWal9LVDRQMjdybENuZ1Q0UU5yYmctMXpvRloyTmJzRkNOS3VSS1FUT0ZqZ1gzVjNnT3VvRFBpSnZwRUp1RE9CMw?oc=5",
+      "published": "2026-08-14T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "AMD Stock Jumps 5.6% While $4.75 Billion Debt Deal Lands &nbsp;&nbsp; Yahoo Finance",
+      "query": "AMD stock",
+      "source_api": "google_news_rss",
+      "tags": [
+        "demand",
+        "price_move"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "AMD's Massive Upside: Why One Analyst Sees 160% Price Appreciation Ahead Following a Tough Month - 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQbWVEVzM1REdpQ2d2YzhDY2EwZGdQWGZ2SWJBNWd6bnFremNkRFAxR3RucFFGUlZ1bnc0bTgwWW53enpfRmh1NGlkNk0wM2xGT252MTh5TE5RbkczMTNQazM3TkxJc1NmcnFmMWxPR2FGYUE4dWtDRkRCYWdoNndWSnlldm9ocU43MmxzMkdFT3JvX0hGWmNjU01WenRIdUU3VDU1R1NkckxqNkNRNXg4dTUwamxFTWFoeHhVUzZVVFZBcGtOa1Fac1Q4REV5dHlDNlFZ?oc=5",
+      "published": "2026-08-14T07:00:00+00:00",
+      "publisher": "24/7 Wall St.",
+      "summary": "AMD's Massive Upside: Why One Analyst Sees 160% Price Appreciation Ahead Following a Tough Month &nbsp;&nbsp; 24/7 Wall St.",
+      "query": "AMD analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [
+        "speculation"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "AMD (AMD) Stock Trades Up, Here Is Why - StockStory",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPS0g0MEJGMm82MXAxaTRNYkJINjVMLWFzVXBpaWsydHJkNlFPTklGZGhLcy00Mk53WURLRmJzUHo0Vmh3djEyZmNWRy1VZ1BzYlVrVHhLa0w0VlEzSUF2ZFJMMU91VFYxWFd3eThPUUJreFo4VVA1alhFZ2xoV2NSaWR0T1JTRF9rZUF4aUg0Y1BfNHBTTDdycHlRd2M4OTA?oc=5",
+      "published": "2026-08-14T07:00:00+00:00",
+      "publisher": "StockStory",
+      "summary": "AMD (AMD) Stock Trades Up, Here Is Why &nbsp;&nbsp; StockStory",
+      "query": "AMD competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Advanced Micro Devices vs. Alphabet: Which Artificial Intelligence Stock Is a Better Buy in 2026? - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPaVZBNHJGTUUzX29YZU1XTldtTVBFU2Z5TkZtY0kzTWVka2NHQ1p6cWhWSVlIYWJ1cVRjVlRZRDV2UlVjWnBNZzMycVVncmZOQWZjTVE0Qnk0M1dnd3VvWjlmZURodjFUSzhYTHdIWkptd2RKemdHNkx0RjlaYk5xLS1ncUVySmh1MTZxVm91dlVqcWdROThGaFoxRndGVFh5dWdONGdDRXEyM2cycnJFVTJWLUlNYXdacklrR2F5eUZEZDNpX244OXd2WUluNTNZZUhmblpweGJpNGhSRmJMVQ?oc=5",
+      "published": "2026-08-12T07:00:00+00:00",
+      "publisher": "The Motley Fool",
+      "summary": "Advanced Micro Devices vs. Alphabet: Which Artificial Intelligence Stock Is a Better Buy in 2026? &nbsp;&nbsp; The Motley Fool",
+      "query": "\"Advanced Micro Devices\" lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "speculation"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "AMD Buys Taalas, The Startup That Carves AI Models Into Silicon - forbes.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRm1xSDdkM0tPdWZmYjhYNklOZ3o1UFBDY2c1NVpqdEFPSkhDVzJIS2lPZDdoR3U3NnhxRVpTWk5ERnh6aXRlZGVlSTlvNTc1aGRkM2lfR0xvX1lubmFja2ROVXVacUQwMGtzVUd6bm5XLWFIcDhwUFV2WTBXM3lnYV9kcVUwUnBveHdIeEdCQ00yYmhzd1p0N0JoM3VfdTE5UVVCcnJNWEdmbVh6RUltdG5rRHQ?oc=5",
+      "published": "2026-08-09T07:00:00+00:00",
+      "publisher": "forbes.com",
+      "summary": "AMD Buys Taalas, The Startup That Carves AI Models Into Silicon &nbsp;&nbsp; forbes.com",
+      "query": "AMD acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "mna"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Advanced Micro Devices (AMD) Price Prediction: How Much a $5,000 Investment Could Be Worth by 2031 - 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQd2tqLXFlOWhyaXFOdzBHbkJ0VU9RSDJxcmpVclNJbVlmeld2ODlzRTc1bzk0Z000U2Rhc1FVTnVQWHUzNlM2SmU5REVKU3FudXlHdjFiN2lUbU9vdWlnMmVXVlNsZ21Nb2N2Skk0V2FFS3gyZ3FpazVRMGdTV0FDZGs3QVJtYVJWRkFfY1B6RVV6bVFUdG1rT2o0QnIwU1ExTUlKYm14cWZ4aWI1NWJwaW5fbEhHUDNKN0Fvc01YWXc4bUVWYWlucDJzNUhMZHV2S29V?oc=5",
+      "published": "2026-08-08T07:00:00+00:00",
+      "publisher": "24/7 Wall St.",
+      "summary": "Advanced Micro Devices (AMD) Price Prediction: How Much a $5,000 Investment Could Be Worth by 2031 &nbsp;&nbsp; 24/7 Wall St.",
+      "query": "\"Advanced Micro Devices\" revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity",
+        "speculation"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Should You Buy Advanced Micro Devices (AMD) Stock After Its 12-Month Return of 200%? - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPOXA3cnI3ay1xcGg0Z2Q0dEpCZDlqT0FGRTlmSDlrOS01MEx0b1M5TU1MQXdxazYxOG1UMlQwLUlkSmNOc1JlT0I2SzgwTVd5aW5RZTF2VktlNkw3LXRveHhyUjJvX203YVppTk1rQ0JvZG9mRWtXd3VHOW1PSkp5ZFJWQmxvU0lBOE53NGJjUDJDRnVuUmRfbA?oc=5",
+      "published": "2026-08-08T07:00:00+00:00",
+      "publisher": "The Motley Fool",
+      "summary": "Should You Buy Advanced Micro Devices (AMD) Stock After Its 12-Month Return of 200%? &nbsp;&nbsp; The Motley Fool",
+      "query": "\"Advanced Micro Devices\" competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [
+        "speculation"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "AMD Sales Outlook Disappoints Investors After AI-Fueled Rally - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZ0toSkdHeGxMd0ZJa2VicmppVnpESkJtemhGRElZUGpOX0tSREdVT1BjdXE4TzJnTlBUV1dvenRUUExxTFk0MWtBb0xlTnlZbXkxLTdxNHNZaUFlb1A0Vm9NaWdzQTBETzRydTRVZm5kS3pQVnhmSUNsX2s0a1NaZmZiV2VxcWxZazY5b0I1bHQ1bGptMk9COWF3YnE1UENpRFpkMllfSnUyRlZOLWplTVVn?oc=5",
+      "published": "2026-08-05T07:00:00+00:00",
+      "publisher": "Bloomberg.com",
+      "summary": "AMD Sales Outlook Disappoints Investors After AI-Fueled Rally &nbsp;&nbsp; Bloomberg.com",
+      "query": "AMD revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [
+        "guidance",
+        "management",
+        "demand"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "AMD's revenue climbs 50% and data center sales doubled, but the stock is down - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1FSkxiYWZwZ3B4SElFOWl3R0tlcUowc0ktU3JLN3lBTG9iSFBoMllXVExVMjR2bHY1NjhkSzZzRE5hdzZjcVBkM2NoMkl1Y3YyT09xd2NSVEx0ODA1NkZSbnh3aGl0ZTJJRVdkS1NLVWl6Z9IBd0FVX3lxTE5DZjZ1S0J3SURPUW8tNlIwbG1CeDIwRDlPY1lRQmN1YW9GQjZ4RjEtMmtQS0tvS0RMS2UxQW5Bc0UxU0hnbUxuYk10MlFxNXFVSWJ5MUc1YWVHRG4zSWEyY3dTS2k1RFA5dW1sWVBCdkNZLTFMRjgw?oc=5",
+      "published": "2026-08-04T07:00:00+00:00",
+      "publisher": "CNBC",
+      "summary": "AMD's revenue climbs 50% and data center sales doubled, but the stock is down &nbsp;&nbsp; CNBC",
+      "query": "AMD earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity",
+        "demand"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "AMD's AI-powered revenue forecast fails to wow investors - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZVI0Wnk2b3Jpb0tucDcyRzl0Y05zX2RwWTZWRU5CYVhyc3BLSjc5NVJDSlZFSGZNZ1F4S1FTei1saXVaaGFaTzFsUTkyUFFOelE5bEY3eTlyMURpYXlBbmNPUk1IOTJVaVlLcjVwWk82Qlhic3lfNndTa2N1ZnNHMXBLOFFTOVRFdXcwYWF0SWQ2a0hVcUNDeDA1U0hmRXdoMXJOVUpVeW1rbmU5dXhZOVFBaHBhRXlMa2pscWRn?oc=5",
+      "published": "2026-08-04T07:00:00+00:00",
+      "publisher": "Reuters",
+      "summary": "AMD's AI-powered revenue forecast fails to wow investors &nbsp;&nbsp; Reuters",
+      "query": "AMD earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "guidance"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "AMD slips even as AI-linked GPU sales aid Q2 results, guidance (AMD:NASDAQ) - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSGhWeHBndnFhVnZxMmJQdnl0eUdfTG1NakdtNG95cFhza2VmbmtDbkpiVEk2UmdVNThpZnRXQVRXeHV0VkN5Xy1ETzIxQU5LOW5Dcnh0bzM1WGZwWjNSRUF4ZXIyRUpSV0JKaTBud3FBMnFhZDkyYnhreUZkWnFEak4xcWpzZ2IwZ1pFUjNnSWpwZDl6NFpVWmpoWmppT0di?oc=5",
+      "published": "2026-08-04T07:00:00+00:00",
+      "publisher": "Seeking Alpha",
+      "summary": "AMD slips even as AI-linked GPU sales aid Q2 results, guidance (AMD:NASDAQ) &nbsp;&nbsp; Seeking Alpha",
+      "query": "AMD earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "guidance",
+        "demand"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "AMD Shares Fall 8% as Elon Musk Commits to Nvidia Chips for SpaceX - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBFaGtxOHFMdFctcDd6TTgzZndpV0U1QUFGRV9nbFdxcVZDemlTTW80ZmZTOWxXT0N1ZUJYM3ByQ3Z1ZGF3d1E5S2FjRlp3dzBicVRtaGNBMUV5V1BEWUFfZ2lwaE9kck1xYlNYTENuTnFlMEFkcHlwRGpxYlY1UQ?oc=5",
+      "published": "2026-08-04T07:00:00+00:00",
+      "publisher": "WSJ",
+      "summary": "AMD Shares Fall 8% as Elon Musk Commits to Nvidia Chips for SpaceX &nbsp;&nbsp; WSJ",
+      "query": "\"Advanced Micro Devices\" earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "price_move"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "AMD Reported Record Sales on Growing AI Demand. The Stock Is Falling Anyway - Investopedia",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcEhIa3VUQ0FiTHNnTmRTanBRZmxXdTdJQ0xocjRFeTNINUZsZzhvVk9DM0xLWlNMRHpRQWhQSGp2YkVNWk1OREw5VS1SQXZsZ0pCYnUxZDNnaC1fTUk2UU5uTmZuQkNENDhFTGR6YnBobHJ2ZnQ3LVJBM1pNN1Z1WjJHdm9OYWxWaEVDV1pJbw?oc=5",
+      "published": "2026-08-04T07:00:00+00:00",
+      "publisher": "Investopedia",
+      "summary": "AMD Reported Record Sales on Growing AI Demand. The Stock Is Falling Anyway &nbsp;&nbsp; Investopedia",
+      "query": "AMD revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [
+        "demand"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "AMD more than doubles its data center revenue, but its stock falls on concerns over rising capex and margin pressure - SiliconANGLE",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNU9Pd2VKVTRObVZDMmRQaC1XOHpYb2d0WUJKZXVJUmtIMkV4ck1xc0NvZGdrVWYydFphbXNMcGdLaFpCSUNXb1dTTnlwc0dKWVNmRjdHS3RhcmhCTGUyaWZJX3pBWS1OYlFHdl9tZ3ZMc0Uza0NZeGhtdG9VZ0w5a3Q5SzlaMEtRbThOTWpsXzFzeUdORU5CaWRxRnRJTkRwemZsdw?oc=5",
+      "published": "2026-08-04T07:00:00+00:00",
+      "publisher": "SiliconANGLE",
+      "summary": "AMD more than doubles its data center revenue, but its stock falls on concerns over rising capex and margin pressure &nbsp;&nbsp; SiliconANGLE",
+      "query": "AMD revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity",
+        "price_move"
+      ],
+      "lean": "negative"
+    },
+    {
+      "title": "AMD posted Q2 earnings on Tuesday. - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPTjJURTEzZ05ybXlRLVdRbkw5a2tYMzJ4LWNDS0ZSeTRsaHd3akNKYlJLMXZfUjA2ZG9DM2JKeWdGUTQzWU4zOFB3cXk5Q212NGpMWGk4UlRYQm01QTJXLXVTV1Y0Ym0yYUFBX2VjUnY1bWhlZUY2UWw5T3IzRXJBSHd0bklHX2hZRm02NW5QT2hMRnZSb2hZdTFZMUdDaEx1NnRvVlJRa0piZHU2dE83YXBPdU91UzdKRUVDU0gtTmtJY2ZXMkh6V2JyVVJ4Z2otcjJ5R2ZDQlNTc3VHTzJZYlJzd0htQQ?oc=5",
+      "published": "2026-08-04T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "AMD posted Q2 earnings on Tuesday. &nbsp;&nbsp; Yahoo Finance",
+      "query": "AMD revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "AMD Earnings 'Were Good,' Says Analyst Even as Stock Sinks 9% After Hours: Wall Street Wanted a 'Blowout' Forecast - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTXRsQklURDZWOGc4ZHhfQzZmMDFrY3VEYUFKY0J1bTAtbXZPUm5IWGV4ZVBZcm9jQ2YwdlNFYndSaDMxNU1iRGIxaVNldHphWmMzT2xLOEprcWJtWG1VYmQtV3IwWlZ2TTB6ZTlFYnNONTVIa0x6elY1bF9pR19MNjNwbWJIZjVMSjNTOFoxdTY4WndrMkYw?oc=5",
+      "published": "2026-08-04T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "AMD Earnings 'Were Good,' Says Analyst Even as Stock Sinks 9% After Hours: Wall Street Wanted a 'Blowout' Forecast &nbsp;&nbsp; Yahoo Finance",
+      "query": "AMD analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "guidance",
+        "analyst",
+        "price_move"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "RXT Stock Drop: Rackspace AI Efforts Lead to 33% Stock Drop and Securities Fraud Class Action for Investors - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNUmQtY1FlVXhBTWZ3S003anJDbExxa2xrTGs2ZllQNmdVWk5aS2I2X0taMGpFWkg4ajRObWxaaU9kUUhWTGtfZ0xoQ29zYjU5bVYtT2JSWmhhS1Qyai1mMHN5em8wMktWQTBRandKaGxKU3IwejVLZGNqZ0FGeHZWUmItYi1NM2x3T2RVTUhpLU1pZ2l0MjFoR09feXJyRDU0ZF9xLVlEbFNJOUJ5VGp3NTJobi1oS0NXd0dEMThnaTlfb0gwSktHWEhDQnZYdy1EbFNjTW93Wjl1WlpsNmo2YW1RWnpsNU9QakNvQWpWT3Nac3pZbWpVY2Rn?oc=5",
+      "published": "2026-08-04T07:00:00+00:00",
+      "publisher": "TradingView",
+      "summary": "RXT Stock Drop: Rackspace AI Efforts Lead to 33% Stock Drop and Securities Fraud Class Action for Investors &nbsp;&nbsp; TradingView",
+      "query": "AMD lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Rackspace Technology, executives named in securities fraud lawsuit over AI strategy - The Business Journals",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNXzVCdWY5Z0RXc3hNMGFhVkUtaUJDeHpBNVV3OTlmajZfMlBkbWVBVVZpMjJ6bTREZC12Sm55V202azJjd09aU09vdEZfcF82S0ZSR09fajJBc0VjdVhuZ3lJRWFXdENuWWx2TTduMkpjelktN3diQVl2MndZVXZKNHBubi1DNjc3d2dXdm9jSVJxNGg0Q0lhQkc1UTMxUlpOMjc0?oc=5",
+      "published": "2026-08-04T07:00:00+00:00",
+      "publisher": "The Business Journals",
+      "summary": "Rackspace Technology, executives named in securities fraud lawsuit over AI strategy &nbsp;&nbsp; The Business Journals",
+      "query": "\"Advanced Micro Devices\" lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory"
+      ],
+      "lean": "negative"
+    },
+    {
+      "title": "AMD earnings are a key test for chips and momentum stocks. Here's what the options market is saying - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNa2puNkFEbndUUXhDeFpmZ3BNaHVYMDAyZTB0ZGZOMmUzYlZOUGx4cEJuT0UwN1Q3NUdGSl91VXQyOG5aNHRBTFRaaEpTT1NxTm4ydEpEQWZtMXRVVGJuTUFIMV85OENZUzZNZ2ZqMXJzZjJVX2dwM2lpUGs5VnVjYWxVQndmRWJ2andkaUdpTUdRNE44VHlreVN4bkZvRDVxYmRQaVpzeWxFVmwtazlrdEd4NEZhVXZ2VjJQbjdEU3ZkWElzTkpDWkprUFEwZzTSAdQBQVVfeXFMTTdDQ2k2a0RlNGJ1bDRNME9UWmVVZDlOOVQ3OEdvbjVGVWVkYTc3NjVHYU5iQTN6MXRlUVBUcENHUjNaMEstMDFGcVlHMjdVblMybkM3UjZTb05ZWGVPanNtWW0tTDljLU9LeFlrX3h2NTBRUEhBc1FNUkc0Sll4UHZfVzlTSWowWHNxZVZ6WFo5b1U2RGpHeUVPenR3Zi1TZHJyQ1VudUswcGxqWVB5czZ5blJGSDhOX04zbExNZ1N4YUc5cmpsQzlsR1BSVDVkR3JFSmU?oc=5",
+      "published": "2026-08-04T07:00:00+00:00",
+      "publisher": "CNBC",
+      "summary": "AMD earnings are a key test for chips and momentum stocks. Here's what the options market is saying &nbsp;&nbsp; CNBC",
+      "query": "\"Advanced Micro Devices\" competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "AMD Earnings Preview: Can AI Chip Revenue and Helios Orders Push Stock Above $600? - TradingKey",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPejg4LVZFUVM1WGN2NmYxSkJUYWktT0xUODdtVTZleWxqUHNVaDlCZW5WZGNuc3hCX051eUxuaU5QdVBQaWRhSGtjQlBtc1dhOGwxT3R0M2tycVlIdm8xSVl6bzk3RnF2SGU4enpWWFRubl9pNEh1anpkYXFUN1BTMjJ2aGpTeFRsOVVFVEFmNG8tYUxzaHk3R2ZDaDJ5bFdyaDhvOG5GVjNFM2NoWHo4ei0wYXN0NmlJYXVxVXBUXzNWUHpxVm9JUS1uZTRGZFgyOTZzUjN6TzFEMExNcjUwbzdfZzFaUDQ?oc=5",
+      "published": "2026-08-03T07:00:00+00:00",
+      "publisher": "TradingKey",
+      "summary": "AMD Earnings Preview: Can AI Chip Revenue and Helios Orders Push Stock Above $600? &nbsp;&nbsp; TradingKey",
+      "query": "AMD revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "demand"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "RXT Class Action Alert: Robbins LLP Reminds Investors of - GlobeNewswire",
+      "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxPRVdTR1NETmJneG01QXhrMXdhUHhXYmZFY3UzMWFRWXR1bEc5dHUzYlV5aTRyM2RocHd2YTdrbGJuRWFJZlJNWGNZRC1NLWxjZUl2MDFJQVVJSnRLbEFkdlRtUjNhMnEwSDJ2TGxwT01UejVpeUFkaFJlbmRIeDdIcFN6cFJuSkx6ZFlYdGhtYzVQYmJuamEyOENsZHA3U2hmRE1jaWpkM0gzemluZW1HRzhhckpHYW0zOUtFM1pxUWJSMDF5em1CZWc2VkVpTHVlam9ZUzU0czc5Y3ZWSmlKcGw0QTV4ZXlVZ2ZJMzJhN2paZXRINHdoTjk0Zkw3NVExMDlUc1RON1hwQlZqdzNaSGFOWmR4WUd4emNTLS1DcEFwTU1YYkMwbG8tOEVTelpMc2c?oc=5",
+      "published": "2026-08-03T07:00:00+00:00",
+      "publisher": "GlobeNewswire",
+      "summary": "RXT Class Action Alert: Robbins LLP Reminds Investors of &nbsp;&nbsp; GlobeNewswire",
+      "query": "\"Advanced Micro Devices\" lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "AMD Earnings Preview: Is the AI Ramp Finally Accelerating? - Moomoo",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOam5nR0pPRmFlcldVZ3Z4aTdQQTRoUjhhLWh2OEZ3T1JWZy1GcThWbUlSLTRzQUkxTkNtc0tZUXg0NGc4TXZ4ZTNOYnRjNks1NmM5WHBZcXBEU0FzNEk3d3NwdmhwZ0RjQkRYQnJaX0MxNnJGQ2RicURaWWJTbHYtdGxpUmF3NTFmbld5aTczWXNlUUxuYVUzTGpVZl8yVmdxZHd6RUdkTlA5d2RNMFhZ?oc=5",
+      "published": "2026-08-02T07:00:00+00:00",
+      "publisher": "Moomoo",
+      "summary": "AMD Earnings Preview: Is the AI Ramp Finally Accelerating? &nbsp;&nbsp; Moomoo",
+      "query": "AMD earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "AMD Reports Q2 2026 Earnings August 4: What the Stock Needs to Show After Its Anthropic Deal - TIKR.com",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOc0hQNUk5UE9NNGtDaTA4QXpGYVVobklmQXVPSWlaZVlEX0Q0RzZQTnZMVFVJWkJTTGg3SUhKanJQWmJOVnBNR2lHTjMtdlhmTEdCZWlicU44N0RlSi1CcjdlOTZ4ZVBlRjBJbU5DUjFCR3hvNTFHUlJ5NDlvazlST24xaXUtcEJEUUZxMjhHb0JUUGVMWVhiaXk1NklydDdzS2JxcDUxOHUzd2RzZ1EtdndyM25TUGJ5?oc=5",
+      "published": "2026-08-02T07:00:00+00:00",
+      "publisher": "TIKR.com",
+      "summary": "AMD Reports Q2 2026 Earnings August 4: What the Stock Needs to Show After Its Anthropic Deal &nbsp;&nbsp; TIKR.com",
+      "query": "AMD earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "demand"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Advanced Micro Devices Stock (AMD) Opinions on AI Event and Analyst Upgrades | AMD Stock News - Quiver Quantitative",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdlBqQmxCVFVLR2VfYnV3VG5QODBiNDdJY3dDX0NOWkFpNjdSM05Wc0I5aDdJdWp0OC14Z2dqYk9tbW1mVEVfbFlSZTJKOXBfTjdxME1lMHU5MUhOZm5FeUwwMVVIdzBwT1ZkNEtuVjRZYnlCLWdnbXFwU1hOLWxXLWpGNlI4OEpaUURYVUtkaVg5dXlDQmNETjloVlBwX015WERtRjNsRmdnVkF6eUdKWHhkZw?oc=5",
+      "published": "2026-08-01T07:00:00+00:00",
+      "publisher": "Quiver Quantitative",
+      "summary": "Advanced Micro Devices Stock (AMD) Opinions on AI Event and Analyst Upgrades | AMD Stock News &nbsp;&nbsp; Quiver Quantitative",
+      "query": "\"Advanced Micro Devices\" analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [
+        "analyst"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Here’s How Much Traders See AMD Stock Moving After Earnings - investopedia.com",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPaDJpR25PX2FpeFlvMHhRV3NqRVhVcFNhS2plRWktT3U0Q2hRellLd1o2cGsxbDNhb05VeXRUY2Nta2l3QkFjeUlsMzZvbXdvZ3U4OXktU0hVSTJ6eUhhcjlMX0VuemtyQVBfSFljYzJXQjJ6UkxyR3hLRGxTRHFzam5YcHh6WW9XWHRjS1BTeUQ4SkY0UkxSWEhYVENFUUU0dHp6LWlQdE1fZTZf?oc=5",
+      "published": "2026-07-31T07:00:00+00:00",
+      "publisher": "investopedia.com",
+      "summary": "Here’s How Much Traders See AMD Stock Moving After Earnings &nbsp;&nbsp; investopedia.com",
+      "query": "\"Advanced Micro Devices\" earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "speculation"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Susquehanna Just Upped Its Price Target on AMD Stock. Here's Why. - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNY3I2cTJ5UV9yTDBTRXJtZTdJVkZKSmRaTzBOSzRUeDJwa3pPaFlBOS14b0ZqcUFrZ2tFbkRwbnlfZ3g2OVRtbE0zNS0xRWVwYTdzWkdTN2dXV1dlTGlWLWV1bERVOF9JcGkzenpucGJDaEJsTnloUXlTcTk2akpSR0JPLXlTWnM1a2NPOTd0ajF3d2FfTHVoTXJ5bEFxWEVzUHc?oc=5",
+      "published": "2026-07-30T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Susquehanna Just Upped Its Price Target on AMD Stock. Here's Why. &nbsp;&nbsp; Yahoo Finance",
+      "query": "AMD analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [
+        "analyst",
+        "speculation"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Powering up procurement: AI in healthcare supply chains - McKinsey & Company",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNOTBORTY0NEROU0sxcnFvclBxZEs1dXFfdHBDcWVCaUU2M2FtcUhWVzVteGxSQ0VsMHVWVXBkSUdXMGNvQW5CSzJyQklKQTFVZlRwQ0N6Mzk3bno5eXJ4eGJCTm11Q0JQV1c1V3hyVFJ1dXAzanNRTDZiRzdxYkVvZThQcDNKZERpUk1HNHp0S3NRWmp2ZG9OY2ZDVzBFT1NVTmJZSW1pNW9ZaElBc3BKblp1REgyeTRVSFdCRUZRaXVkankzMWJYT1pB?oc=5",
+      "published": "2026-07-30T07:00:00+00:00",
+      "publisher": "McKinsey & Company",
+      "summary": "Powering up procurement: AI in healthcare supply chains &nbsp;&nbsp; McKinsey & Company",
+      "query": "AMD capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity",
+        "demand"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Prediction: AMD Stock Could Double by 2028. Here's Why - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUUpnN3F3VzVjb3NWcmttUEVRVm5LTlJhOVJFZDF6eTNJWFdmTWZPbXVlaVhyMTNDVG05Yi1DNG9wM0lzODM5cDBUQ18tOWp3dG9KTDZGMG5pc1BGVjM2aXBITzI0bW5Pa3U0WEoyYjl2eXRfcjJnaVhNcjlZRWZNQVVjMFQ1em92MXljRDI5LU1tNFJCaHFxTGZqVlN0WDQ?oc=5",
+      "published": "2026-07-29T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Prediction: AMD Stock Could Double by 2028. Here's Why &nbsp;&nbsp; Yahoo Finance",
+      "query": "AMD stock",
+      "source_api": "google_news_rss",
+      "tags": [
+        "speculation"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Advanced Micro Devices (AMD) Earnings Expected to Grow: Should You Buy? - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQd25YaVlyZE9lNDV4SDRnZVVvdUhxUUhiWjMyUjBGTzlrQUpVbGNwWmNOTW1KZG1iMkZPbXlDLTI4SE42a251bmZHczBOM2tqaVl1ekFvWi1QZlNyLVNLV0xRYTkwM1lzVnVRZWdlVEJ4ZlpuZ01obXg5cXdBMzNsdHRKM0wwNW92dEJBRXdDMW1HZ3NxSFI5OVBCeDhxcGwxanc?oc=5",
+      "published": "2026-07-28T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Advanced Micro Devices (AMD) Earnings Expected to Grow: Should You Buy? &nbsp;&nbsp; Yahoo Finance",
+      "query": "\"Advanced Micro Devices\" earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "speculation"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Wall Street's Average Price Target for AMD Implies Only 9% Upside. Is the Stock a Buy, Sell, or Hold? - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOcHdYSFFzZEFTU2lsZzFJOENiMjU4b21HVE4xejZZaWhQOTdlZ3kzaGtEN3hPeU9OUlg5Q0lNUUVvRTJ2YmlBVUtxVzRmOFBzV0s4OXFEZTk3Um9DV0lrR252M0FpUW45S2dNOTJ1VHlBYkoyMFNZeEl4MXNYWEhPUWswY1hLNkRDWDc0VUczUEJhSGExN21uMTEyeHRFMFE?oc=5",
+      "published": "2026-07-28T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Wall Street's Average Price Target for AMD Implies Only 9% Upside. Is the Stock a Buy, Sell, or Hold? &nbsp;&nbsp; Yahoo Finance",
+      "query": "AMD analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [
+        "analyst",
+        "speculation"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Core Scientific lands AMD AI deal as bitcoin mining operation winds down - CoinDesk",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVklRTXNGbElhZkdBU2tsMWNva0x4T2hodDhqSnV6MmpjY3diWDRGNnQ2cV83NjBDc1JyLVkyNURjdEtJLUVZcHpmQlIwRTZtQlR0R3VrZ3BIRFBMY0thaVktUk5zR2pIVzl2QzdBUF9qYTJ2ZnU3U2lqVXlJRThTeUxzdmFsRnVBU2dCUmptN1VKNFpHUkw4SFNPd1lxSFVBSEQwOGs3QmpvTUtCakNrYjhsTTJ0YWtI?oc=5",
+      "published": "2026-07-28T07:00:00+00:00",
+      "publisher": "CoinDesk",
+      "summary": "Core Scientific lands AMD AI deal as bitcoin mining operation winds down &nbsp;&nbsp; CoinDesk",
+      "query": "AMD lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "demand"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Core Scientific and AMD Announce Infrastructure Partnership - investors.corescientific.com",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPTEstWlVPenBxdWx3WkxBUVI0N3BXbDZSWGtkZ3IwcjFianBmWERSWGJOUXRrblpXZG5NVnF1QXozLVZrRzY3MTFKVW9tXzMyX3o0OHB1cERDQXRhSzQ0RnRKN3NoaENMbGhxbXc4akNKVmtiREFWSnBkSVBXczZTejJrblRkelNsZW9fVl9PMTRuVDY4UXV1Ui1vV1kxSVl4eF9tZjN6enF0QjllSnI0TkMzakZfaXFiS2wyMVU0LTN1dUhMVXpmTFdmcDRldDg?oc=5",
+      "published": "2026-07-28T07:00:00+00:00",
+      "publisher": "investors.corescientific.com",
+      "summary": "Core Scientific and AMD Announce Infrastructure Partnership &nbsp;&nbsp; investors.corescientific.com",
+      "query": "AMD acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "demand"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Advanced Micro Devices (AMD) Stock Falls Amid Market Uptick: What Investors Need to Know - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPM2ZxUlpOSkw0YzJkTG56SDBacWg3R1FoZnRiWlR6UXc0bDlxNGFxTGZDaTBfN0c3VXBiUkF4LUVLRENET3BGWGNPYVBRdHhoc09iRkZDUklEdGhhbXp1clRVSGZaNnN5UzZ1NHdkd0dpSWtCZ1BJRkpITVpCTHY1TU5ENm5MQ0QtVmpZQnlJaG5VbDdCS2MtaDA2czNGZw?oc=5",
+      "published": "2026-07-27T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Advanced Micro Devices (AMD) Stock Falls Amid Market Uptick: What Investors Need to Know &nbsp;&nbsp; Yahoo Finance",
+      "query": "\"Advanced Micro Devices\" stock",
+      "source_api": "google_news_rss",
+      "tags": [
+        "price_move"
+      ],
+      "lean": "negative"
+    },
+    {
+      "title": "AMD Is On Track to Beat Lisa Su’s $100 Billion Revenue Prediction By 2 Years - 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTWxPOGowZG9NQVFoemk5cVRFcGFXd3p1M0xtX3JjeVd2U0xEMVJZaU1DTzRqSzFTU25GSFVSOVNCd1hWc1FvY3puVmQxY1FraXA5ZlZmWlllM1JQSXNWV3cxM3hpeXdJUl80dVpMMTJvbUxLLVJWNTBtc0hMNXNaQkxTLWNIajUxcF9kVUZCZEF2VFpWWVV1eWN1SzF1ejNubjRtODNzVWM3cXBFems4eGlEMWxiTThRVVE?oc=5",
+      "published": "2026-07-27T07:00:00+00:00",
+      "publisher": "24/7 Wall St.",
+      "summary": "AMD Is On Track to Beat Lisa Su’s $100 Billion Revenue Prediction By 2 Years &nbsp;&nbsp; 24/7 Wall St.",
+      "query": "AMD revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "AMD's 2026, 2027 data center revenue growing faster than expected: Wedbush - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUlhyUzhIeWpsOEt2SlhzUkR0Ql9ObEtISnVEanlFd1NUX3FEbXpld01JNTU1U2ZRYm1BUlZsZ2VrWXhSNUdzbjRsbU9NSUJNUU5PQ1ZZVjhtdmFsUUV3ejVmOWtUX2NXQVVnWEZUOVB0RW9ERV8zRDBubTZUMDBRTHlweEZjQVlHSk9ranREQ2cxazJhdFJnOWJzVXhnZjFDQmxtTTBfZkYzQmxGYWc?oc=5",
+      "published": "2026-07-27T07:00:00+00:00",
+      "publisher": "Seeking Alpha",
+      "summary": "AMD's 2026, 2027 data center revenue growing faster than expected: Wedbush &nbsp;&nbsp; Seeking Alpha",
+      "query": "AMD revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "AMD’s Data-Center Forecast Improved—Then the Stock Lost 5%. - Moomoo",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOYTBWSVl0M2JWa3kwVmNmRlhLRE5ycmJJQ0lTVFctZ1RhLTM4T2pnRVktV0FKMWtiazlkNzQteDE1SHpqS1JhN215R3JwWGxSQ1JhYkJUQWVlSWhNUjdaNkU0M29xeEJxS3FZUzVnMzM0U0RnRU14d3RNVWV2Rk9CV2U0Uks2SUdlTFU5YzAxbGdkY1ZaT1M1ZWFUdFgtaFFpdnRBU19oSWVfYXVu?oc=5",
+      "published": "2026-07-27T07:00:00+00:00",
+      "publisher": "Moomoo",
+      "summary": "AMD’s Data-Center Forecast Improved—Then the Stock Lost 5%. &nbsp;&nbsp; Moomoo",
+      "query": "AMD revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [
+        "guidance"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Why This Analyst Is Betting AMD Stock Can Hit $1,250 in the Next Year - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTk1VaF9zVXZCbEIySVhqeFNBekZjZUZTcnBaRXlPeU1FOXN5QkY1bFRXQzViUGNZQ1l0VThQVXFUckEtMGcza0psUS15UmNPcEhnX0lwRVlWZng3V0Q2eWw0akVVeDJGdzZ1YzQzLU9mNk44VGhIc3JXdk96aV9UX1R6SUFWQkdTTWFxUlA3Zl9GQzlyQV9JbHlB?oc=5",
+      "published": "2026-07-27T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Why This Analyst Is Betting AMD Stock Can Hit $1,250 in the Next Year &nbsp;&nbsp; Yahoo Finance",
+      "query": "AMD analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Why is Advanced Micro Devices stock sliding today? - Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeXZnY3ZTSkdXNnI2M1BuclpFVU1XS0RLb2E3NDRDTE9fMk10dGRnLV9Fa1BKMmRlTXJVSlFSUjc1V0NDa2ZYbUFnZWhMQXJTeFIyQlRSenRwRnRQd3ZubW1paWFWa2hKT2F4enZWUXZibEtsUTQ4VjNxcGIzRnRpVWtvNGlIOHZtMGJmUTViNG9kck1NczZIR2pWTUN2U19UMDVBRnhjbjZxX3BvU2Z6RA?oc=5",
+      "published": "2026-07-27T07:00:00+00:00",
+      "publisher": "Investing.com",
+      "summary": "Why is Advanced Micro Devices stock sliding today? &nbsp;&nbsp; Investing.com",
+      "query": "\"Advanced Micro Devices\" competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Advanced Micro Devices Inc Stock (AMD) Moved Down by 3.39% on Jul 27: Drivers Behind the Movement - TradingKey",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOOXdMUE01LUlhQTZ4VXhYWVZfaGNxaHM5ZHc3R2JVQU1EWnM2eWRYME14U0Ytd3ROOTNGZ2pGeXpfdmI0a2V2U1QwcU5aNkRibEhYU3BIYjcyeTA5aU9QNW84QmpiX2dCMEQ2WFdoVF8xbF9HVEFIdXU0amJMcjRVNEprMVhlcDJqMlE?oc=5",
+      "published": "2026-07-27T07:00:00+00:00",
+      "publisher": "TradingKey",
+      "summary": "Advanced Micro Devices Inc Stock (AMD) Moved Down by 3.39% on Jul 27: Drivers Behind the Movement &nbsp;&nbsp; TradingKey",
+      "query": "\"Advanced Micro Devices\" competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "AMD (AMD) Faces New Supply Chain Risk As China Scales Domestic DUV Tools - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQVhCUjBsVzVMbzdhYTFwZW9ZYkZranc2U0R5R2RxWmh4VktjeXpxSzZvZGVKbmJES0VpMjB4djFXTEo3am9PZVVJdDlyU1BReENQRnhQeDdvbTZiX1hZTGp6RDVkQ1Z3dFJyb0FMeFBZYjdmTzcyY0U2Y3BwYlVZOG45R3ZmbW1HdTAzb213aXR5UzN3cXc?oc=5",
+      "published": "2026-07-27T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "AMD (AMD) Faces New Supply Chain Risk As China Scales Domestic DUV Tools &nbsp;&nbsp; Yahoo Finance",
+      "query": "AMD capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity",
+        "demand"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "AMD Stock Scores Price-Target Hikes On AI Computer News - Investor's Business Daily",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQWlF3bi1xTzc3dktoTWswWExSRW1oXzlJWHd5RWhzWUhoeXpRS1ZMOGFlTlhvMjJ3anZ2NlJfWlVxMDVWd181OGw1RDdsUlgxMVJ2QnFfTVZWc0xpOUg3Vk9wOWg3ZC1SWlpUTFpUT0NkaW1VV2c5eU5yU19PLVNxQl9hWEVseWpuTlZnekZrbGd5WUE?oc=5",
+      "published": "2026-07-24T07:00:00+00:00",
+      "publisher": "Investor's Business Daily",
+      "summary": "AMD Stock Scores Price-Target Hikes On AI Computer News &nbsp;&nbsp; Investor's Business Daily",
+      "query": "AMD analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "AMD Stock Slips Despite Wave Of Price Target Hikes – Retail Traders Say Chip Rally Is 'Starting To Look Exhausted' - Stocktwits",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOZHpueUl2V3JaZUhDaElyaDdlTzFYSDkwS0ZfSkxfYm1oRkxHTm1LdE9IeGtYNFRMUEpMODdqdkZEcHZ4dlJoLXNrZW9iTjJFa2gwbkJXRVZjUmhXRDNYbVFJSGJjOFFEZDZGX29ISW9jb3pwX2VxZDlCNmVldVRkM2hUZXNVc3FQOU9pZHlPMW04UUJub0dBNzNiUkQzQm1iSjRfUnpHWjgzSHYzMnk2aEgybXBTOFlROF9jSFI2N3hKbFVrQjFPdkxNRGs3VXM?oc=5",
+      "published": "2026-07-24T07:00:00+00:00",
+      "publisher": "Stocktwits",
+      "summary": "AMD Stock Slips Despite Wave Of Price Target Hikes – Retail Traders Say Chip Rally Is 'Starting To Look Exhausted' &nbsp;&nbsp; Stocktwits",
+      "query": "AMD analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [
+        "analyst"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Can AMD Partnership Strengthen Cerebras' AI Infrastructure Leadership? - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPT042VG14ejhTT0w4ZHRtaEVqRU5WSVNGZUZ0TGJieHlKb0JPSkxrclNTYVhMMjlodlg2cF85bl9HSUZvNExnLWhLMS1ORFE5MWZuOGdieUowWml3d1BGYWthcU5UYWNQemtQMUNfaUpxRDA1M3R4b0lkMnVGS01paHkzNWItWXExR2tkNUx6b1V1Uk9pVVpTZnd0UkxKU1NEajFvaA?oc=5",
+      "published": "2026-07-24T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Can AMD Partnership Strengthen Cerebras' AI Infrastructure Leadership? &nbsp;&nbsp; Yahoo Finance",
+      "query": "AMD acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "demand"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "By Regulatory Design: Geopolitical Concentration In The US Morphine Supply Chain - Health Affairs",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNLVp3MjR2ZS1PYW1hNktmR1ZqV2pYeUtkUVA3N2lEUHYzanAzYm1qMXhXb2FwLXVhRmc3SkR2c3dnYjA5TWhtcDY3Mm5VM0dITnZqTExVZGtBMVJycktfTlR5WEktTWN4UE1pbmNkYWJVYjUxbWhkNllKWDN4YjdRWWVMb2QtenpEbXhwMWpZRU1hMjdrVkdkcmtaNW5ieG15UnlNM1JaaFF2YXBQRU00c3d4dGdlRGtz?oc=5",
+      "published": "2026-07-24T07:00:00+00:00",
+      "publisher": "Health Affairs",
+      "summary": "By Regulatory Design: Geopolitical Concentration In The US Morphine Supply Chain &nbsp;&nbsp; Health Affairs",
+      "query": "AMD capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory",
+        "capacity",
+        "demand"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "AMD’s Lisa Su defends open-source AI following Hugging Face security breach caused by OpenAI agents - Fortune",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSzl2bU9TZUVrc040OEttNi04SVkyTW5FdDVFV2hOcHdWaEZkNkFYc0FlU2JxcThRb1c2LTFZQ08xOVRab3pMTjRIVGs1WHkwbW9pVWZTMjVhTTZBdk5nNjI2NjlHbk5aRGZ4ZUlfdktoQ1QzX2JnRE1xVHNaWkpTdW1RelctNWpLbTBIMk1XRF9RbjBYSy0zS1FLaUx6UQ?oc=5",
+      "published": "2026-07-23T07:00:00+00:00",
+      "publisher": "Fortune",
+      "summary": "AMD’s Lisa Su defends open-source AI following Hugging Face security breach caused by OpenAI agents &nbsp;&nbsp; Fortune",
+      "query": "AMD lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Cerebras stock gains on AMD partnership - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxObEM2aTF2dXBpd2kyT1lUa1FGcFhDQTFwTmk5cWJKeFMzS3lvNVJXdGlyNFZ2Y2pBRkV6LXkxenlWUnA1YkhxZ2tWa002dmF4MTNzUWJ3dXZzZHBHa1BPb1hvOGJ1UkpmcGN0Wm1PVEY0NnEydVRybm1BZGJFTUkyVlJn0gGHAUFVX3lxTE01eUVVZUVGbWtBeTdlZ0MtVTBKTlNtVXRqaUVHZlc3aU11SllqVVlhVGNLZ2xWWlNNYWh6UmVhSjVlRDVzSHdXdmxLb0gtamlKdjB6SE02WXdFUkRXSVUwTWkzOXNIYjhnOGVCVkF1WHVsYzdSc0tVMkd1T0ZMWWNkZGNUZ2MwNA?oc=5",
+      "published": "2026-07-23T07:00:00+00:00",
+      "publisher": "CNBC",
+      "summary": "Cerebras stock gains on AMD partnership &nbsp;&nbsp; CNBC",
+      "query": "AMD acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "demand"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "AMD and Cerebras Announce Disaggregated AI Inference - Cerebras",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQSGxfRjlGZUZfR1hack0zbEdZcVJXY1JCaWw4dl9fMFZnQnJHVnVfU3NsZkpVd2hPbjh5Q0dHTVcxYTByelU2b3lMUzVDNk54ZFN4OG1VSko2MXEzV0d3bDdHSTJiRHlrMFZtallYSllLUzdSQ2lVdDVra2ZqY0xPaEV2cmxRaXRIWnhRd19obk82eFBGQXQ1YnpYc2hLY0poOGVsdS1yZ19mVGs0RlFVZ1diV0luRktiNV9Uc05vSHpEbmViQ1NjX1h1UQ?oc=5",
+      "published": "2026-07-23T07:00:00+00:00",
+      "publisher": "Cerebras",
+      "summary": "AMD and Cerebras Announce Disaggregated AI Inference &nbsp;&nbsp; Cerebras",
+      "query": "AMD acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "AMD and Cerebras join forces on AI inference - Axios",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1qbXYxNHF1dXJoeVRKR2VYdkZGZXpheVNFa0pvVzVMcVhSaHhFRmhFY19Ib2tiSFZSQ0tNcHdMZmxiZHg1N1RmM2tzZnhMbTRZZWIyZnFOaGJmWEZFWmQ3TzVNby0?oc=5",
+      "published": "2026-07-23T07:00:00+00:00",
+      "publisher": "Axios",
+      "summary": "AMD and Cerebras join forces on AI inference &nbsp;&nbsp; Axios",
+      "query": "AMD acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "AMD takes a shot at Nvidia by betting on AI's next big shift - businessinsider.com",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTlhaMlU2dVBUZHNxTVk2UmVyNC1oTnlDQTVmN2RLX3F1OFpiNFVFZ2UzeVdOY2hYaHVZWkctMkFmbDFrcktZYkx0aGlpeE9HVmJpbURhX2dVNEkzSHY4aDZHYWRxVnFnUlVHMXIwWkwwQVA1b1hIZ1RXZFlCeHFHUkxqb0RlWnQ2SGc5SW5kaw?oc=5",
+      "published": "2026-07-23T07:00:00+00:00",
+      "publisher": "businessinsider.com",
+      "summary": "AMD takes a shot at Nvidia by betting on AI's next big shift &nbsp;&nbsp; businessinsider.com",
+      "query": "AMD acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "AMD’s $5 Billion Anthropic Deal Could Redraw the AI Chip Battle - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTmNpdmFuRVprcGtmQm1DbldwcjNVTFFaV0JFTzhQbDVjVjIxbjB0OFZpaThOWE1GX3hEVHBtZzg1aDl3QzNJV21xdnIwNWV5SXdxLWtYV0pzS1RDQThkRGQ0UFlteWRjUlRMdnh1emFnSHBBMzV3ejNrMjBZNWw1TWh1M2NWcnNLYnZmSHZNRjE5QTJMZ3JqZnRKenl1c2VGMlRyaUlINDdpNzFEUURlQUZ2eVR6Z1BqRjhfaGF6Yw?oc=5",
+      "published": "2026-07-23T07:00:00+00:00",
+      "publisher": "TradingView",
+      "summary": "AMD’s $5 Billion Anthropic Deal Could Redraw the AI Chip Battle &nbsp;&nbsp; TradingView",
+      "query": "\"Advanced Micro Devices\" acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "demand"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "AI is driving change in supply chain skills and talent - Supply Chain Management Review",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTENzb2lrdzNLX0t0b0JlNUxHcFU0MEhMdVYxZk5YdWNEOTI4UlNnbjNiR216YXlUcHcxc19BMjcyaTFYRGItbWtVZmc2RldzM3FzOHBuMGlBaDctcWJVNV8xQkpYTHBOVWdja2lVcXYzOUxORWRKdE1FQ3B1M3drdk5RdHVXbXFYMUhV?oc=5",
+      "published": "2026-07-23T07:00:00+00:00",
+      "publisher": "Supply Chain Management Review",
+      "summary": "AI is driving change in supply chain skills and talent &nbsp;&nbsp; Supply Chain Management Review",
+      "query": "AMD capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity",
+        "demand"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "New Open Weight AI Models from China Renew Calls for Regulation - HPCwire",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaTdqSkNwMFN5LWhhT0VTcF9BdUExb0xGMzdhTUpEWUFZSUx3TWh2MHdFYnJqQ2c5a01JbzhjX0xHTkxTcE14YndBb0FURjdYV1Y1NGVXVzVPMnRLSVFzZl9PYjJ6aFA2MVR0WnRIb0JoVFg2UlE2c1VjTkp5UTF6TVJMWjF0YWdVa0oxOGRTY3IzamR6bkRMNllnWTlJNVBYeVkteWFrbU5Ydw?oc=5",
+      "published": "2026-07-22T07:00:00+00:00",
+      "publisher": "HPCwire",
+      "summary": "New Open Weight AI Models from China Renew Calls for Regulation &nbsp;&nbsp; HPCwire",
+      "query": "AMD lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "AMD to Invest Up to $5 Billion in Anthropic Chip Deal, WSJ Says - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOc1luNDYxVzM2RE55NGVtWDhMZTJlM3BsYzdHQ2FwZXdYYXozN1hEOEpic3dqaHF1SFFIWFk1N3VQdzNtUXgxNWM2QTVWMS1JekJ3LU5aeXJObTVzcWRiU0ozam9vN3JXUF9ZWWdlSjgxU2YzZU1rN25tcFpNREo1ZEY5ZmI0UnVXdFp4Qmhlam5SdGdzUFBJT2xPVF9WV3Y5Rzdsc1lJRUZDWlYtTmdCNEd3?oc=5",
+      "published": "2026-07-22T07:00:00+00:00",
+      "publisher": "Bloomberg.com",
+      "summary": "AMD to Invest Up to $5 Billion in Anthropic Chip Deal, WSJ Says &nbsp;&nbsp; Bloomberg.com",
+      "query": "AMD lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "demand"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "How AMD Captures Significant Market Share From Nvidia - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWk93UmhzV0gyODZaM0hWeFRMWWJFb1VKdlpVOW1rektPSGRmYkdhZHFLaFdZQUIwUWR5TGJJQnF2VnJIRGFWdkNlSUpxVURiaDJnaXhfSzhWWldodENDa3pQVmw3d1VEV1l3N2ZkdWw1aVRrTjd5Y1RQVmFVem5HSFhXd2ltUzNiTS1QQW44OGh4dzZRVC16alJkanlKT1lycDZZVw?oc=5",
+      "published": "2026-07-22T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "How AMD Captures Significant Market Share From Nvidia &nbsp;&nbsp; Yahoo Finance",
+      "query": "AMD competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "How AMD Captures Significant Market Share From Nvidia - 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcmtUd3ZsWGw3cnR1Mk54V29zMnBnbnZxaU1YYzZOZlRuZ290cUJBdVo1dnRvX2RhZndIRmVxWktBQ0dqX0ZMWllwdUQzUklubHFFYmdkQnR0YjNoNWF5eFNITW9RVTFsbGJZWUhoNU9pUXRGcGdhNmxnVWhyVklZbmhpdGpSV3gtaHhSekJ0WVc3RjhvdDAwRkg2dlNzZw?oc=5",
+      "published": "2026-07-22T07:00:00+00:00",
+      "publisher": "24/7 Wall St.",
+      "summary": "How AMD Captures Significant Market Share From Nvidia &nbsp;&nbsp; 24/7 Wall St.",
+      "query": "AMD competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "The Divergent Paths Priced Into Advanced Micro Devices Stock - Trefis",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbE1SM0N0Q2hVTzFxX28yc2xMRmZ1NWVtSlY5ZHFZRllKbTdVcHNwVERsQ01NT21LdG51S1RsUmlfNDluV09IWUJHX0tvU25ZSk5Ic2o4NDJvRkJGdmZOYnl6WU9jXy1qYnRuNV9SZ1d4RzgtSmFDYTBoekxHS05icFh4eHlKRnNSZDV3MlBFNG9iaExWRlgtcUtXamM3bEFZSTRuRzhZMjAwb0pyZ2JTMnFpQjVjRzBxcW0yMw?oc=5",
+      "published": "2026-07-22T07:00:00+00:00",
+      "publisher": "Trefis",
+      "summary": "The Divergent Paths Priced Into Advanced Micro Devices Stock &nbsp;&nbsp; Trefis",
+      "query": "\"Advanced Micro Devices\" competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [
+        "speculation"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "AMD (AMD) Lands $5 Billion Anthropic Partnership For AI Chips - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPSU1XMWczZ3QwR3AwRG4yU3Qtek5OZ1g3bFBLSks4MzNFSG0zRGhDcTZpdjJ4UnpsTVF5S2F4MUJNRkJKZFpHbjEwUUI1Mms5UDg1TDFFQVlRRy1lUWtFTFhGSzR0OTZjUXRQMklpM3NYVnlYRUN4MTVVdnRTdkZVVmgydm9NZXBkcEwxOUNMdHY?oc=5",
+      "published": "2026-07-22T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "AMD (AMD) Lands $5 Billion Anthropic Partnership For AI Chips &nbsp;&nbsp; Yahoo Finance",
+      "query": "AMD acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "demand"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "AMD: We’re Pleased with Anthropic Partnership Ahead of Advancing AI Event - Morningstar",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTDE5ajdzYVppQUxXQVlqYk9TbmpSRTdxdUhCQ3VrTmg1N3dZcTN6WlBxd2dCRzFxdnBWTXpkYVNOMUF5WFRocWZQcE1Zb1ZZaE1TM2JFeldZSEVkN3dkNm5VM0U0cjZTc3duOWpfUUVmSEpnVWpyRjRVdEtVOTRnRmpnVlIyTWJjOGlwQkdhZWxTeTNHUzJHMXRGbFNYODhNaDZ5UlFR?oc=5",
+      "published": "2026-07-22T07:00:00+00:00",
+      "publisher": "Morningstar",
+      "summary": "AMD: We’re Pleased with Anthropic Partnership Ahead of Advancing AI Event &nbsp;&nbsp; Morningstar",
+      "query": "AMD acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "demand"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "AMD to invest up to $5 billion in Anthropic as part of computing power deal - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE05M3pjdUNHbi1CdmZNVFdBOXN6RzRGQkMyUVZCbnRZenNtbngtNmtjZ0M0YkdfaFRxSHczZ29zTVFDWFNyRFRwbEFrbWo4TndnR052X1NIYmV2ZnFlSGJ0ajd4UFhLbmtOVG9RNm52ZEx4bGFjR3h1ZdIBfkFVX3lxTE5lWXU0dTlGdENpVEVRa1RoNnlLeFZpTXZkVHJVbnByT2U4c3k1S2t5a2l2RHI1OXZ4VHRlaU53OFJJYlNzeWFmaGRrMTdIMWkwME9xZTBub2hRSWZJV1VzeGhxOWRKVjRwZDV5cTN0bGhOQWpPcmJ5SEdxSnR2UQ?oc=5",
+      "published": "2026-07-22T07:00:00+00:00",
+      "publisher": "CNBC",
+      "summary": "AMD to invest up to $5 billion in Anthropic as part of computing power deal &nbsp;&nbsp; CNBC",
+      "query": "\"Advanced Micro Devices\" acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "demand"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "These 2 Analysts Just Upped Their AMD Stock Price Targets. Here’s Why. - barchart.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSGFmb2hrcUlkUDNpN3dXZ1hmeTl3ZU9zTldrc1RRcjJlc29Ja2EwbDl6UnVVVzlQbVJ0SDhlWXpHY3p0MDBGMjlObHA0UlpkRDVjcjAyYThEZ0pGTl80QjJ3eHJPMXhzcXhCLUhvelZ2TVB5NEdpNmJIdnRKSVlpemJWSXlRdW03N2RlS3NNU3l4d0pOSkd1WU1idy1YWTlYMXdsOTlmQkM0QTY1SDUyVw?oc=5",
+      "published": "2026-07-21T07:00:00+00:00",
+      "publisher": "barchart.com",
+      "summary": "These 2 Analysts Just Upped Their AMD Stock Price Targets. Here’s Why. &nbsp;&nbsp; barchart.com",
+      "query": "AMD analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [
+        "analyst"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Server processor market: How AMD surged to 46% - SiliconANGLE",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNHRCQXIxcmJJWUNLaWgxZWZaa3BxalFJZ0JlTVJLTkpaOWY2TTFZZHlhTDNaeGU2MXNnbUhMVUEyZ1Y1SDV6NHVFVGV1em5jd0llVURLaDZmVEtRX1RVZ1drNlFDazJoNEJEUWxwc2Zhb0FFc2N2TVBzdFFFZHZZVzdlQ1JfQlJMNHNtaw?oc=5",
+      "published": "2026-07-21T07:00:00+00:00",
+      "publisher": "SiliconANGLE",
+      "summary": "Server processor market: How AMD surged to 46% &nbsp;&nbsp; SiliconANGLE",
+      "query": "AMD competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "positive"
+    },
+    {
+      "title": "Chicago Booth launches GEP Center for Supply Chain Innovation and Applied Technologies - The University of Chicago Booth School of Business",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPdmU5U3JsMzNvYUxGZWhPQkY4eGgxUHk4NERWejNHYV9aR0ZDb0hXeG5CRVZFQnhFU0lSN09RbjY0MEdDREJ5d01sZW52V2VMMWtZaDJhSW4xN2dTcU9DOGZwamxXWGh0SDdyb3lPMDV1NHllcERIV29ZRzhMY29TS25sVmEyQ1V0WUxwVDBLdW1sZEs5S1VjUEhMTEp5OGpoRVFNYmxvUXhPQ0RRbmVVQ1ZXTkRpbHR0MUFDcmwtV1E1dHVYTWhrSE1IZzZ2V21vdlA4OVhCVXlHQTBHelA2Z2lBM3YxbW9uSDh0Q1ZLWmVVWkRHR091OA?oc=5",
+      "published": "2026-07-21T07:00:00+00:00",
+      "publisher": "The University of Chicago Booth School of Business",
+      "summary": "Chicago Booth launches GEP Center for Supply Chain Innovation and Applied Technologies &nbsp;&nbsp; The University of Chicago Booth School of Business",
+      "query": "AMD capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "product",
+        "capacity",
+        "demand"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "AMD stock rises on price target bumps, Microsoft deal - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQOGJOOU12UUdJS015NEVOaThXWXhIWG9ZbWEzNGZodGtZTmtmN3VySzZPcVBmSXd4TTl4T3hOaTQ2QnBiVllRQXphV05CaEJyWjRHb1YyVS1hNE9TNzRYejdtazZZS1VQZXV5OTd1TnJsaDBKdi1fZTF6UGRvZVZ4RTUwYUVGcTJDTmo1NG9DdVF4dVIxZF9oQ0pKM0hVaXZDSV9zUV8wN0V3bWhUd0x4dHpR?oc=5",
+      "published": "2026-07-20T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "AMD stock rises on price target bumps, Microsoft deal &nbsp;&nbsp; Yahoo Finance",
+      "query": "AMD analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [
+        "analyst",
+        "demand",
+        "price_move"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "AI chip rivals trade espionage, theft claims tied to Austin AMD lab - Austin American-Statesman",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQXdaTFdIV29RUHpzZG9HbVFfb2p2MkJjSDNCRnVndmR4cE9wakhEaEU2ZzJwcVBoaENvT29EZFIzT2RxTkxqbUhtczhEbkxZY2ZCNEEwZFdXclpKMDFYQ0V5Z1l0WFV6Vzd2UXgwUDdNQzh4eTFjZUp2S1BCUVFQejNaSlZrUnJiSjR3UnNwWWxtY1p0MDBwS3JtVDJQOU04RXlMMWZ2Zw?oc=5",
+      "published": "2026-07-20T07:00:00+00:00",
+      "publisher": "Austin American-Statesman",
+      "summary": "AI chip rivals trade espionage, theft claims tied to Austin AMD lab &nbsp;&nbsp; Austin American-Statesman",
+      "query": "AMD lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "AMD launches Helios, its first rack AI system to rival Nvidia, adding Microsoft as newest buyer - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0tRlF5bzh6NUI5VmZKRW9oTzljR3pJbjVLSl9Yb0NqeEtfMVlTQU5TcHl2dU10YkNtN1ZYb0pCWHl1RHhVd1hNZkZDQ21GSTN0NXZTVXRwalhsWk1tNjlYejF5SUF0TTNLdXVqZnROaWV6R3JfZ2fSAXtBVV95cUxPSE4wRDExampVaGU0bDg4VUVIVDFxOEo1QkxXelFLQ2RwTGpzWHJrOV9vb1l3dWIwUWtEWlU5THY0My1HTUlEMVFpRVFCOURkTUVWQXQ0aktqTzdqN3luZkZVZC05eXRwN2otTFVuSHVLdS1kVEtpNU9WT1E?oc=5",
+      "published": "2026-07-20T07:00:00+00:00",
+      "publisher": "CNBC",
+      "summary": "AMD launches Helios, its first rack AI system to rival Nvidia, adding Microsoft as newest buyer &nbsp;&nbsp; CNBC",
+      "query": "AMD competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [
+        "product"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Microsoft expands Azure AI and HPC infrastructure with AMD - The Official Microsoft Blog",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbG5XdmVxY090czBnTEhIVU54OFVFeUQ5SmxhVDdka3NBb0tEMzRHNjllRDdwdUJ4OUdndzBlMkotWW4yc2paTU9qWDVsTndIRVU3NnBlRG0wVnB3cWpOR21rd2JKY1hCWGxQSl9fM1hLcHVHTE1UcDVEZV9rT01hVTI0MWxWTVdyTy1ISjFKOFZydVZtVnYtSHlGVlRHM3h0VmRPUkFn?oc=5",
+      "published": "2026-07-20T07:00:00+00:00",
+      "publisher": "The Official Microsoft Blog",
+      "summary": "Microsoft expands Azure AI and HPC infrastructure with AMD &nbsp;&nbsp; The Official Microsoft Blog",
+      "query": "AMD acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "positive"
+    },
+    {
+      "title": "AMD Fell 5% on Thursday. Here’s Where the Stock Is Headed in 2026 - TIKR.com",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWWJfdF9RRlhVWUMwUGZob3M2QTJmeDF0ZTYyalN6MjktUTl3UEFIQnU2M2VFNTVzS2pfdmZQTlZCR2ZMZ0tPbGhSTkJ1eGxwS292cjVCOWlpR1JIYmNjeVV1TkVSZ2NJZGdfalkydG44SVo3VU41UzY0dmp0WkgweF91STNDcHdhdkx4R3MwWGt6Zw?oc=5",
+      "published": "2026-07-17T07:00:00+00:00",
+      "publisher": "TIKR.com",
+      "summary": "AMD Fell 5% on Thursday. Here’s Where the Stock Is Headed in 2026 &nbsp;&nbsp; TIKR.com",
+      "query": "\"Advanced Micro Devices\" analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Walmart bets on AI and digital twins to shape its supply chain strategy - Supply Chain Dive",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPU0lsWEM1ZVB6Ukc2aVROUG8ycGZIcng3ZnRGQkJmd1F2bjJJaWxaYkdOQThYSFZVc0FhQV9JZ0NNOHRaeTh5LVVLU01LSWZSQTBjdFFMS29Hb0thTEhuTFFOc3ZWalRUR3pEbzhGQzRBNElFanpuODlneU5LMHVMTmFDN3F3NHV4LXdMd2d5dFBGWFI5UTdLekdoYUpIaHhidGRMUHRGVkNTWmMxLXAzYVVTc2JyT28?oc=5",
+      "published": "2026-07-16T07:00:00+00:00",
+      "publisher": "Supply Chain Dive",
+      "summary": "Walmart bets on AI and digital twins to shape its supply chain strategy &nbsp;&nbsp; Supply Chain Dive",
+      "query": "AMD capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity",
+        "demand"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Advanced Micro Devices, Inc. (AMD) Stock Surges as Goldman Sees Big Earnings Coming - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNS3pPRFhEb0RYNTRiSDFyNFdocGQzbXlZRC1sSU44N0VYcFg3V2hXWkk1Yzh0ZndlcHpVaEgxZWVsREE0NHhldDF2R2tOdjRFcXB3VHF6TzVyTU5xWUFiVFhnU2d5enpNZHpzQVdqOXZUV1d2QUpOLUMwRGRETXZJY1NrUFoxbGgyWkpUU2VURmp3dWdrZkw1cjF5MA?oc=5",
+      "published": "2026-07-14T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Advanced Micro Devices, Inc. (AMD) Stock Surges as Goldman Sees Big Earnings Coming &nbsp;&nbsp; Yahoo Finance",
+      "query": "\"Advanced Micro Devices\" stock",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Prediction: Lisa Su Will Deliver Great News for Advanced Micro Devices (AMD) Investors on Aug. 4 - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNXZtQXdvNlRoVy16RTcxMy1oYWNTMHktc21mUXhLM01rM09hc3VRSWFQb3NpN0tFR25wbmxzTzJLVklJRXFmZUJkVHM5VWxVa0pKd1U0OUVocWg2aEtPT3hIRmFQQUMtdjE4WHRZa1htdHY0dWtIbHdrVTJDSUNVOXJlempMLUZwVjYyY0NtZU82RkJNR2ZyUkpyUHdVdw?oc=5",
+      "published": "2026-07-14T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Prediction: Lisa Su Will Deliver Great News for Advanced Micro Devices (AMD) Investors on Aug. 4 &nbsp;&nbsp; Yahoo Finance",
+      "query": "\"Advanced Micro Devices\" stock",
+      "source_api": "google_news_rss",
+      "tags": [
+        "speculation"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Goldman Sachs Raises its Price Target on Advanced Micro Devices, Inc. (AMD) - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWHpPSVJyVjZ2LVNZaU9VLU85Q0tpRkc2dmlVeWtja20ySXVDS0VIdzl5WTZwbXlacVFnRUdkZHJKSEhnZXlBdG9DbHBoY1Y1dnBBOXF0T2hqZ29tYmdUNFlGWjN5S2xRWHE3MTRhYXJVblFxa3RpVk85SDJyR1lKMVpDTDVBUE53SG90eURUYTY4WGJiTEI0bVltWU1CbGc?oc=5",
+      "published": "2026-07-14T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Goldman Sachs Raises its Price Target on Advanced Micro Devices, Inc. (AMD) &nbsp;&nbsp; Yahoo Finance",
+      "query": "\"Advanced Micro Devices\" analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [
+        "guidance",
+        "analyst"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "New AMD Price Target as Earnings Estimates Grow - TheStreet Pro",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVURjd2hQRTJfLVotcHRQZTFMNVFhYzdOR1pQTWFiTXlkWDdsejQzVmxyenFpZE5GZVpoLWs2aDJZTWNPZXZDT1Zjd1VsbHZJZzYwSDV0c1ZmWmd6N2ItQmVtU2hLRkltbng0bml6R3hRTzV3dTc0ZUpyUHFkUUhDQ3dGVHJCV0JZSXVFZjhNRnRLckliYVVjNXBlWm0?oc=5",
+      "published": "2026-07-13T07:00:00+00:00",
+      "publisher": "TheStreet Pro",
+      "summary": "New AMD Price Target as Earnings Estimates Grow &nbsp;&nbsp; TheStreet Pro",
+      "query": "AMD analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "analyst"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Price Prediction: Up 144% YTD, Where Will AMD Be In 2027? - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTWxNTnVjZldNMzh3dFpLR200OFYzVkdVOFZsOHM4aHVWUXNQaE5LZy1DQWNfZ3VRcUNMNjB5dzZUeWRRX2VhU3Q4dUt3cTdlNFhQeE5FbURHWUdobV92ck54Nm95RDJLWVEyMXpiRGV5b295cVZiNndUbzh1YURsNEF1OE5WZV9vR2EwUVhJZHpwSjZfaS1WZlAycw?oc=5",
+      "published": "2026-07-10T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Price Prediction: Up 144% YTD, Where Will AMD Be In 2027? &nbsp;&nbsp; Yahoo Finance",
+      "query": "AMD analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [
+        "speculation"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Analysts Think AI Demand Has No Ceiling And Raised AMD’s Price Target Again - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNam5HUjRkR1FjeWwyNVk3bWRmQ1c3Tm9WQmxOSklLS283RGRGYTRHak9hQUFUUXE2bWJRUXFOU0tZNVcwdjlWMEloTGVnRThwMEQ0SWNjVW40SjR2WTB5Wjl0cjFwbWZiX2JHc1A4VmhicXFWU255ZjlVNTh3dHRVMVdTTU5JOXQtS2lRWEl0aVlYVmdFTmc?oc=5",
+      "published": "2026-07-10T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Analysts Think AI Demand Has No Ceiling And Raised AMD’s Price Target Again &nbsp;&nbsp; Yahoo Finance",
+      "query": "AMD analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [
+        "analyst",
+        "demand"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Goldman Sachs Increases Advanced Micro Devices (AMD) Price Target to $640 from $450 - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOd3FCVk4yZHZvdWUxcDFKS011T1JUWnNqZkxJYzJEdi12N2pDWHpFbEdxRkUyT3V2UWhCeld0dmo1MHM4U2FQWUoxTHY5OHRrOHltN1RsU1B4RVlhYm1XMnZGd25tS2hqczNPQmRMQ2JBeURWc2lRUFlMaFdaWmdhXzdDVTh1UXJzRHpCdXFXRll2SUY2WnhoSk5wd0RWU29Vdm0waEhR?oc=5",
+      "published": "2026-07-10T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Goldman Sachs Increases Advanced Micro Devices (AMD) Price Target to $640 from $450 &nbsp;&nbsp; Yahoo Finance",
+      "query": "\"Advanced Micro Devices\" analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [
+        "analyst"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "When Companies in a Supply Chain Work on Different Timelines - Harvard Business Review",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQXNWOVVTS1I0ZzlrMXJ4QV9iQUg3WDNSbnFQZ0Z3Z3NKT1FZRW5GUTFtQ1pUeWtSZ1IxT0pqd1ROa1dzUkVyaXlrdHNfNnlrLVpPSUg2cGNzUkpNTTBKNkY1a2xWc25rU01CckJEVTctZGVhNno0TmJKeUpGZGhhR3hUZGpjU2s3Mlc0VA?oc=5",
+      "published": "2026-07-09T07:00:00+00:00",
+      "publisher": "Harvard Business Review",
+      "summary": "When Companies in a Supply Chain Work on Different Timelines &nbsp;&nbsp; Harvard Business Review",
+      "query": "AMD capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity",
+        "demand"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Advanced Micro Devices Inc Stock (AMD) Moved Up by 7.75% on Jul 9: What Signal Does It Send? - TradingKey",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQeFpoQi1qLUJMVTdGSjFNdDZRVG9aRmRhcHYyaEdoYUstalVtLW9jNE9fN0MtZ2ZkN0ZiQmxqeGs0LWhEMlN1aUVybTJtRmZiU0FuYTBxY0hGcE8zaWFmek9GQTdvY1JiNU1LV1dKaVNucTJwbnltNHRaQ1ctaFgzdFQ3UG0za29GRWc?oc=5",
+      "published": "2026-07-09T07:00:00+00:00",
+      "publisher": "TradingKey",
+      "summary": "Advanced Micro Devices Inc Stock (AMD) Moved Up by 7.75% on Jul 9: What Signal Does It Send? &nbsp;&nbsp; TradingKey",
+      "query": "\"Advanced Micro Devices\" capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Why Advanced Micro Devices Stock Tanked on Tuesday - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTXdzR0V5bndld211cWlsMXNaMHE0VkdXQ0NILTVlVFMwVU9mQW5wT29SZ1ZyNC1USHNMcjBhdUxSRGZxMFFjaE1YSFlQa0hFTVNsQnc5NmpCS1ZkaEE2YmpaM1p0VFpERDhndFRybkk2cVp1YW9rc1JYX2o5WVVGZERYMWR6cS1ycGVuMFpCeGxsc1NSSVJFZUZCTXRvdw?oc=5",
+      "published": "2026-07-07T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Why Advanced Micro Devices Stock Tanked on Tuesday &nbsp;&nbsp; Yahoo Finance",
+      "query": "\"Advanced Micro Devices\" stock",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Here's Why Advanced Micro Devices (AMD) Fell More Than Broader Market - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQTdoNjJoUnc0WEJlVWU4THZ4YlRFYnhYbEIyU3hiSEMtdFlQUjRmT0VneDU0M1ZEU3J2MkltcVlDSkdfdmVUYmdubUlheVk1V1V2d2s1Z0FXSk8tNnVtU0JXWmlyOTJxMkdXb1RpUUhfUjhIQXJEanU3Q1BLaEFzUXdqTFNpT3FpbHl6cTFCVXNvcU1qaXNqUTgzVWZPUQ?oc=5",
+      "published": "2026-07-07T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Here's Why Advanced Micro Devices (AMD) Fell More Than Broader Market &nbsp;&nbsp; Yahoo Finance",
+      "query": "\"Advanced Micro Devices\" stock",
+      "source_api": "google_news_rss",
+      "tags": [
+        "speculation"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Why supply chain leaders should learn to stand back and 'see the wave' - The World Economic Forum",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNVVOaWNwZ1dTSGhiN1d3RV9ZaHV6MW1BUnoxZ3NHV0R4eVJObExza1N6a19MYmdSU3Y0QVV2MUwzQjA4elJlaVRSZ0FlUzBUNlBXSVNZQXlVSWZtckNhYlBYVl9vS19obXg2LTJsbURLaFM5NGtPZU9ZaHVfN1BkeGpJRlFIcEc2SkdnMjA3b1hkU3NOSEQxUU84Y3ZuWUxPSmc?oc=5",
+      "published": "2026-07-07T07:00:00+00:00",
+      "publisher": "The World Economic Forum",
+      "summary": "Why supply chain leaders should learn to stand back and 'see the wave' &nbsp;&nbsp; The World Economic Forum",
+      "query": "AMD capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity",
+        "demand"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Advanced Micro Devices Inc Stock (AMD) Moved Down by 7.09% on Jul 7: What Investors Need To Know - TradingKey",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWlp1SDY4eG5WVEtDczNJaGxXbXNsNUIxYUxEMzZ6N1dVcVA5SS1JWDN5UXVjTXlGVlZpWElkRXZabC01OG92MUFMUWRPWk1FSkUwaGtUeGdDTkpDa0cxcGpDQ0xJcWR0U01aMF9fMVVlN2x4NUdBM0RONTNPdWxKZHpwN1pvRXlFWnc?oc=5",
+      "published": "2026-07-07T07:00:00+00:00",
+      "publisher": "TradingKey",
+      "summary": "Advanced Micro Devices Inc Stock (AMD) Moved Down by 7.09% on Jul 7: What Investors Need To Know &nbsp;&nbsp; TradingKey",
+      "query": "\"Advanced Micro Devices\" capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Why Advanced Micro Devices Stock Just Bounced Back - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZkVDanZuV3VXU0d2M05rN3dWZHhzY2YwM1hQNlpGY0dab1Z6R1J6RFZBaWpzZU1xc09nWTlRb0syaEROZTd2N3hiU3pqYWJlVERYYWpRb3Jfa1l1NmEwRVBCdmp4QVNudFJEdE51cXNyZlRuR2l5UlF1SFJVRk5UTTZEZnJ1Tk5JdFBtWEJSZFdyOUU4NTIyZEh1ZFRLdw?oc=5",
+      "published": "2026-07-06T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Why Advanced Micro Devices Stock Just Bounced Back &nbsp;&nbsp; Yahoo Finance",
+      "query": "\"Advanced Micro Devices\" stock",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "The Wide Divide Priced Into Advanced Micro Devices Stock - Trefis",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMEhnZGtMTVVmSldlRzBBcS05UVB4MzBvQjlIaVhtdEc2a2ZrNEtPWFhyUkFOQ0hKY1lfdUhBTHJWQk05QlVCX3RHOUhQTmJFSXM2Ny1BZGxqeEpRVl9yMHpHZjJlYkZHUGYtTHFjU0ZCYXRQMjJiRU5EZ0tfNF9zTFZVNVE1SzlDeWhiUWV4dV92bmtmUHhiZkp6Y0ZvcTVpT1psOUM0TDdjNFFlVjVYZTBDQlJoa1E?oc=5",
+      "published": "2026-07-02T07:00:00+00:00",
+      "publisher": "Trefis",
+      "summary": "The Wide Divide Priced Into Advanced Micro Devices Stock &nbsp;&nbsp; Trefis",
+      "query": "\"Advanced Micro Devices\" stock",
+      "source_api": "google_news_rss",
+      "tags": [
+        "speculation"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Gartner Identifies Top Supply Chain Technology Trends for 2026 - Gartner",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTVZkX1BKWW1FYmU4b1NCbWNqYWl0U2NRdnc2SnVkbllSMy0xUDVVRTZmYUdJRDEtNFg3TnpvbU0ybXhiTVJSQm9PdGVmN01ZVUE2Y0wzd1lyTTQ0eDVuZXhpV3k0Y0d3WmJfUUNkRkpMdC1rUEllUE8wa1RBZFM0WldiY19hOV93d1Y2OGR1MDBfWUFTZkdZdEJGT0lpVlFnSUV2MXVfRWRBVVdraENOZTdVUVFmTEd2ek9TTk5WTG1VQQ?oc=5",
+      "published": "2026-06-30T07:00:00+00:00",
+      "publisher": "Gartner",
+      "summary": "Gartner Identifies Top Supply Chain Technology Trends for 2026 &nbsp;&nbsp; Gartner",
+      "query": "AMD capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity",
+        "demand"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Oracle Adds New Fusion Agentic Applications to Help Customers Improve Supply Chain Performance - Oracle",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQRFZaNzFjMTZNMFNhejV5SG5UcGFQV0pwUzNoY0RCd2tWVmI1TG9ybHZlVHgwVDBSLVFTeTVNcUZzOXZ1cS1laW5vb0lrVVhySTZxcjF5cEs3NDRRV3NidTA4LWhEMUFxYzktNDFRRFFfMXVQdjlrOThXNXFPTi1FRmQ1b21NU3ZUcnVqczJVVTNIckVFbk43VzBSRjZrZjNfQy16ci1nbE4xejJMc0ZucDdGX0hEamRqLTJTSGhoZXZVRXlveXhEcXFyNk5FdzFEd21BSXlxWlBKZ2dDU3pGSA?oc=5",
+      "published": "2026-06-29T07:00:00+00:00",
+      "publisher": "Oracle",
+      "summary": "Oracle Adds New Fusion Agentic Applications to Help Customers Improve Supply Chain Performance &nbsp;&nbsp; Oracle",
+      "query": "AMD capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity",
+        "demand"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Advanced Micro Devices (AMD) Is A Stock That Could Skyrocket, According To Newsletters - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMHpUU2c1TlBiRzduOEFmLWtRN0xNYXpaOTlPSDB3T1l5SXg5eUFvWkhVeHVBM0hiUVU1LVFySGdXZmVGMzdBbW1VeURQMzZqSExaeWNydHJxY1EzaE9DV3NNWXNzMFVhMmsxalFmRU9pU0M4cDZ0YnlQUmRDd0ZjcEdtTzROUzVNVHBKbDFCNVdJSl92anNjRVM4UGxrZw?oc=5",
+      "published": "2026-06-28T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Advanced Micro Devices (AMD) Is A Stock That Could Skyrocket, According To Newsletters &nbsp;&nbsp; Yahoo Finance",
+      "query": "\"Advanced Micro Devices\" stock",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Is The Growth Baked Into Advanced Micro Devices Stock Believable? - Trefis",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOY21UbmpXZkpKSVpNVm9tekVBcDFfa0ZSeXVIU3c2WERyWnN1SjBCazFfM0JOM1NrR3lmQlh2dS1mT1dKNFhObWp6U2NlRnROTFY1MlZld0FkYjJNaDVwem54X01tUG1qSTZidXNEZ1V0MEpMQ1gtQmxseUItSVNWM0xndzRUWWdMZWdkUjdPaGFxUDB6UUFUdUNyLS1SaVNqak9GdmpnamFnVEZmS3dVSXhmQWtWdWVaQmNwMnByRVRndw?oc=5",
+      "published": "2026-06-26T07:00:00+00:00",
+      "publisher": "Trefis",
+      "summary": "Is The Growth Baked Into Advanced Micro Devices Stock Believable? &nbsp;&nbsp; Trefis",
+      "query": "\"Advanced Micro Devices\" stock",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "positive"
+    },
+    {
+      "title": "Why Advanced Micro Devices Stock Slipped on Friday - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPeUc4d05qV081VUo1N3lrVjA4Y0d5c2lEMFNQSVM2Vm5sMVJjc3Z5RS1vT1JYT2dnaEpTYTRZN0hxdmNlb2xLVFZRLUhYZnZSc1NZYWxYUFVXOG9nLXhId2hqaEl4SS1TYmVYUldRTDU1T2FOdEJsSzlaWUI2OVQxRFBhUWstU3FXbHpkNHJabVN1S0xZckFHaFg4bnZDdw?oc=5",
+      "published": "2026-06-26T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Why Advanced Micro Devices Stock Slipped on Friday &nbsp;&nbsp; Yahoo Finance",
+      "query": "\"Advanced Micro Devices\" stock",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "AOA 2026: AREDS2 and AREDS2+B vitamin complex implications for AMD - Optometry Times",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQS3dHVEQ2VXdfYnVfaUd1cGN3aS1hY2xOQ0RjLTBZUV82cVlaRmdXdkJmSy1CMWVHVW1YV0h0YzBDcjFtTlAydU9qdUZrSWE5MTFCVGRoRnNabnhPd2EtNTR1ejJuT3hfUXRvUUFUX0V5bzhVN3hUSjdyZ3VqdGhwRXpLamk1QnBFNjhuS1JkbFpHQXBHNVJ4WnpOZ04xSGNIdkFF?oc=5",
+      "published": "2026-06-24T07:00:00+00:00",
+      "publisher": "Optometry Times",
+      "summary": "AOA 2026: AREDS2 and AREDS2+B vitamin complex implications for AMD &nbsp;&nbsp; Optometry Times",
+      "query": "AMD lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "AMD Stock Forecast | Advancing AI Event, Q2 Earnings - Capital.com",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE83bk80R2JZckktckV1S1htMWZNTHYzazlPbjJTTHZ3VzhDaHN5Ym0taFhqQ3BDaWc3NjJYTkJWaVU3Y1pFUUJWSk9XLUJpSV9aeUtrYTVQenhGb3pjTW43bjE5U29PN0w1VHk0dDBuMWRBeU9DVnVUS0gtdw?oc=5",
+      "published": "2026-06-23T07:00:00+00:00",
+      "publisher": "Capital.com",
+      "summary": "AMD Stock Forecast | Advancing AI Event, Q2 Earnings &nbsp;&nbsp; Capital.com",
+      "query": "AMD revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "guidance",
+        "speculation"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "AMD Stock Has Passed Wall Street’s Target. Why Analysts Keep Chasing It to $665 - TIKR.com",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMFVOWjd0dU4zXzBfUjZCZnJSODV2ODJfcVptUFRlVjBmNzhaTjMxYTIwbkdDS1lwLTBnZzljMUlzM0NlX1d2ZDNSUXA4OHkxZmdtd2Z1LTQ4OEozdjhpUnB6NG9udTNnVEhOZ29zOVh3TnFJdnhaMjRNXzZNWklZbXc2MEpsN0Vrel95WWhJWWZSZ29kMmlTUDJFQ2dMQzRUZ092eQ?oc=5",
+      "published": "2026-06-23T07:00:00+00:00",
+      "publisher": "TIKR.com",
+      "summary": "AMD Stock Has Passed Wall Street’s Target. Why Analysts Keep Chasing It to $665 &nbsp;&nbsp; TIKR.com",
+      "query": "AMD revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [
+        "analyst"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "With Its MEXT Acquisition, Advanced Micro Devices Stock Could Rally to Higher Highs - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSWVsZzlTMzdfbTF1ampyYXEwTlZfRHdwZmQzSEJ0MEszczg0a2Q2T2J5TmVYbnZTa2ZYZFN5Tm1Ca3RHQnNqNWN3Q09PTnJ1aG9rZ3JaYmZxQW5odWVXTkxRYm5lNTJJcWFVbEpOemFtU0poZElEN0liMWhSR0Z0VDNiV3VOSDRGS0NwSzZuWUFKd3Y2NWJiaVFKU0RMY3lVbk1pb093?oc=5",
+      "published": "2026-06-23T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "With Its MEXT Acquisition, Advanced Micro Devices Stock Could Rally to Higher Highs &nbsp;&nbsp; Yahoo Finance",
+      "query": "\"Advanced Micro Devices\" acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "mna"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "States Are Using Policy to Strengthen Preparedness and Supply Chain Resilience - Association of State and Territorial Health Officials | ASTHO",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQbFpuUDBwcXJQeDViZlhiRFNBZW9pVEdRWlM4Mk9saTlBYk5XbHBFMzhYM2piTjBpUkdqRGN2c0dLR3FkVVd0WGUzbVZzYVJ5elZtdFVtOFRiSGlsX3BWZmVUMHU1emZIZndaRUJGNWtKYnl0RGhxSzZiTXVrSk9yYnhFU2w3WnJTbU93cUJsbGlaVVJJbTlmQ3pxblk3OEpDZV83SFZQZFZ6ZzJhOFVhUW5USjZzMXNBYTJ1cUFFNXhtbkhM?oc=5",
+      "published": "2026-06-22T07:00:00+00:00",
+      "publisher": "Association of State and Territorial Health Officials | ASTHO",
+      "summary": "States Are Using Policy to Strengthen Preparedness and Supply Chain Resilience &nbsp;&nbsp; Association of State and Territorial Health Officials | ASTHO",
+      "query": "AMD capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity",
+        "demand"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Why AMD's Recent Acquisition Makes the Stock Even More Attractive - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOYUlkaS12bW5XVGg5S0hyVllaZmFYbGdLNFFMbzh1VU1sbFhJc0pQTWlyUnlrOXNXZ051a3VGeXNQa0gtcF9yRkRReEVKSkxuSnhQMGxXZllqYWdhMVdnNU13V2FjOUxlcTkzZFpjVkRfTVpQamlJcWdpNC12WnVDQ2d1SG8yNWx0TnlfdmxyY1p1RlFCLWtF?oc=5",
+      "published": "2026-06-18T07:00:00+00:00",
+      "publisher": "The Motley Fool",
+      "summary": "Why AMD's Recent Acquisition Makes the Stock Even More Attractive &nbsp;&nbsp; The Motley Fool",
+      "query": "AMD acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "mna"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "AMD (AMD) Buys MEXT To Tackle AI Data Center Memory Bottlenecks - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUnlMYUZFWVlYTmM0eFM0UkVjZTZTRXZjWm9GdTRZMXlqUXNKc1A1X3hQUC12c0daaENITktVR1NUNUx1RkFpaUtSOXNGejZFbjlSQ1NTS19EbGhBN0c2cXVrdWllSzRyamRJZUVMWHE2Tmw1dXlZUFZQcjBtVG43T3hHVjk3OXBLUEYwX1RBdlpEdw?oc=5",
+      "published": "2026-06-18T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "AMD (AMD) Buys MEXT To Tackle AI Data Center Memory Bottlenecks &nbsp;&nbsp; Yahoo Finance",
+      "query": "\"Advanced Micro Devices\" acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "mna",
+        "capacity"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "AMD Stock Rises on a Citi Upgrade to $575 and Its MEXT Acquisition: Is the AI Leader Still Worth Buying in 2026? - TIKR.com",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQRHZiangzQzVCbnRmYnEwRUJ6UkxKa0EtWms0NkwyOUFGTndVUVR3RWd6bHM2X29YcXotUE5xaDRZSGxSTERyZ0xGN0xLdDEwZDI5bWd3dFBPaGxkcTFsck1RRXVDZHVTdU50TUJMSkFzYlgzdS1NWWU3dWZSczM3ZWN2eXAyQkxNdGtTZnRWSFNIcE5nc1dJTXBSYjZNUnlSa3p3V3ZKRVgzdm9KWldMeENEREZKZXNkakpDMTFuWnZZemtIaEJxRmlJdG85eDJs?oc=5",
+      "published": "2026-06-17T07:00:00+00:00",
+      "publisher": "TIKR.com",
+      "summary": "AMD Stock Rises on a Citi Upgrade to $575 and Its MEXT Acquisition: Is the AI Leader Still Worth Buying in 2026? &nbsp;&nbsp; TIKR.com",
+      "query": "\"Advanced Micro Devices\" acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "analyst",
+        "mna",
+        "speculation",
+        "price_move"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Latham & Watkins Advises AMD on Acquisition of MEXT - Latham & Watkins LLP",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRWJvLWpLeFpySEFHV21fMTAxZVktZGstbXBpVnBwQXZ6NFNIS21sYnF4Z3Q4Zmp2WFplSUk4ZVpHMnlSbzA4VEtQazFMaFR5a3VCQnZPYmhuZ3JsT0gtVEhvYWlneDAyRDdLRTZkT0N5WVJsTW9EQ1VST3BadDR4X19lTkZmQXNCclBrcA?oc=5",
+      "published": "2026-06-16T07:00:00+00:00",
+      "publisher": "Latham & Watkins LLP",
+      "summary": "Latham & Watkins Advises AMD on Acquisition of MEXT &nbsp;&nbsp; Latham & Watkins LLP",
+      "query": "AMD acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "mna"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Why This AI Data Center Stock Is Surging on an AMD Partnership - Barron's",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNcTFxbi1YeDZYRHNmeUlpNERiMkJXZjVIVXRQVmgxTzlWdlYzRjhFVnBDV2J3QzloeDNHT0M0bVozeWdMeWpaOXdOcERvZlpMMlFwWXJrRWMxcHlsbE5xV0RNWXJKbGI5dklnaVJtaVRnZGRpRmZJUXE5M0pYWE1Fc00wUXp4OXJyMVY4OQ?oc=5",
+      "published": "2026-06-16T07:00:00+00:00",
+      "publisher": "Barron's",
+      "summary": "Why This AI Data Center Stock Is Surging on an AMD Partnership &nbsp;&nbsp; Barron's",
+      "query": "\"Advanced Micro Devices\" acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity",
+        "demand"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "AMD Acquires MEXT to Advance Memory Optimization for Compute Infrastructure - AMD",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPWTExMXRhejMzdlV3VENMeDNaMnBGbkNmajNqLXFQS3Z2ZE9DV3FOOEh6ZGE1a2Z2ZG1pTVRWeTdjUmM3WWM1MEZUVTFkM21tNVltYnlnWTdObmJvVm9Iay1VcnV2dTYxLTFlM1Z6UmRqOS0yVjR6bkxENk5Wd0I0b1YtcHoyVTg?oc=5",
+      "published": "2026-06-15T07:00:00+00:00",
+      "publisher": "AMD",
+      "summary": "AMD Acquires MEXT to Advance Memory Optimization for Compute Infrastructure &nbsp;&nbsp; AMD",
+      "query": "AMD acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "mna"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Inside AMD and Nebius' Compute Investments in the UK - Data Centre Magazine",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQOVR1b3hBRG40d0M5VHlXTHppaldkNHpHLXVvYlo3STdncURVY0thT2N1dS14a2YxLThtY3cwc2pTMGpCcy1Pa0ExN0VuUG42QVZJcTJ2WV9FSF85SEE2TkdWRmhXS21QSExHVHJQb1VzUFNBOWttVV9ENTgtV1ZoRFB0OFlrMnU4b0ZaNG0zVHQ?oc=5",
+      "published": "2026-06-12T07:00:00+00:00",
+      "publisher": "Data Centre Magazine",
+      "summary": "Inside AMD and Nebius' Compute Investments in the UK &nbsp;&nbsp; Data Centre Magazine",
+      "query": "AMD lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Structural Risks to Watch For AMD Stock Over the Next 6 Months - Trefis",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNGp5ZUJrZDktc0l1VmtKakRFaGl6SHl3ejM1LUs4aGROOVdBc1RYWjVXbWhJcGFnVTRldEpKOEpDRXVnTTg5VEJ6OVRfMjlRU1lZVXVXUGsyOWMwTjNkZmdlTEhpbjl6bHVwU1dDM3BLR3U2cTRsREY0R2pMQm5vVG9QbFNrUGlBQUI1azRiX2hQU0lWYlpLazVHUEF6eS13ejVKcWdZcDhpRTlvWGUzd21NSllaZHJrNEM4MDZ3aWs4Zw?oc=5",
+      "published": "2026-06-05T07:00:00+00:00",
+      "publisher": "Trefis",
+      "summary": "Structural Risks to Watch For AMD Stock Over the Next 6 Months &nbsp;&nbsp; Trefis",
+      "query": "AMD earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "5 future-ready supply chain capabilities - PwC",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTFJldEFNdmNaMWY1VzNBMnM1ZUExN2xnVmwzSTU3QWctMnJ3eXZlT0ZXS3FSQk1XdGN4cV9ZTm5ZNFdMVFgwNWo0c1pjTzhLWnUyRlJfNmtSU2IyZUtWQmFpZW5SR0NVc1d2ZER3aVNXaE1kbkFRQXRMLTI3dEFHVEh5QXBCc0c4N2JuNnZlT1JtX1p4QzBXMmpTVmFZZXY3Z2JlOUtEaFktWWJCU1VTcnBZRQ?oc=5",
+      "published": "2026-06-05T07:00:00+00:00",
+      "publisher": "PwC",
+      "summary": "5 future-ready supply chain capabilities &nbsp;&nbsp; PwC",
+      "query": "AMD capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity",
+        "demand"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "AMD Stock Forecast 2026: A 57% Data Center Revenue Jump and a $120 Billion CPU Market - TIKR.com",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxON0gxbXpSN2R4MmZNNlVoR0lyV0YxcUdWTmRRa3RHQXc1V0dfZjMtUDZLQUd0bDNFRmg5TXlLWXlkLVBTaFl1T2FCeTJtbHh3ZXpETWNSWnM0V013STJVcUxKbzR2RGI1WUlrN0dQUHhualhIQ2lGYUZXaUJLZThfMF9JdUNfZzE0ZkpxM016cFJIaGxQdG4tS1gwaG9XLUozLUEwU1ZUbHkxSUx0?oc=5",
+      "published": "2026-05-31T07:00:00+00:00",
+      "publisher": "TIKR.com",
+      "summary": "AMD Stock Forecast 2026: A 57% Data Center Revenue Jump and a $120 Billion CPU Market &nbsp;&nbsp; TIKR.com",
+      "query": "AMD revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [
+        "guidance",
+        "capacity",
+        "speculation"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "AMD Stock: A Guidance Raise The Market Is Still Rewarding - Trefis",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUVNBa0NLR1JseDBfakdVYWtEZGR0V2VzLURfb3RWSFJDemtwX0hSd2xFNEhUZlpTcmxRa2JpVTVHalpSa2JVTFNOT242TUtzckJMcG4tMnRfWFRuRHI4MzE5bGZGNFlIblItZW03Ni1fMVZJaVdUOF9VTnVreS16aW9MWEJiZkVuMWRjY1V3QTMzM0R6dXV1MFpROTU0bktJcEFfZEY3X0Mwc2hRaE5tRmRnQVRUams?oc=5",
+      "published": "2026-05-29T07:00:00+00:00",
+      "publisher": "Trefis",
+      "summary": "AMD Stock: A Guidance Raise The Market Is Still Rewarding &nbsp;&nbsp; Trefis",
+      "query": "AMD earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "guidance"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Advanced Micro Devices Stock (AMD) Opinions on NVIDIA Earnings and Computex - Quiver Quantitative",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWEE4bHg5QWNDUDBZSC0temZucGo2eE9zaldGVnNja1lIQjU3LURCOUpyUVBiZkJJTkViMW1IWkk2N2V1S2haNFZDd0NPVElaWTJ4LV8wcjE0ZEVsemthdmRUbnFSd2Q5aVB2TWZRMGxHTHpxejh5UEstWmQ2QkZsUFN0Ylp4OHRBQV9zYjVrN29aak93dENiQ2JURkRxMzltdlpxa0hIV0RnbWVtVmE3N1l3?oc=5",
+      "published": "2026-05-26T07:00:00+00:00",
+      "publisher": "Quiver Quantitative",
+      "summary": "Advanced Micro Devices Stock (AMD) Opinions on NVIDIA Earnings and Computex &nbsp;&nbsp; Quiver Quantitative",
+      "query": "\"Advanced Micro Devices\" capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "AMD ramping up Taiwan capacity as global CPU market tightens - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQjI4X0VSUXNhNWpmQ05qRDl1VzNhVHA4N0Z2SEk1WU02OUMybUpCM2tjMzdNQ0N0WXlfbklUSVYtTUg4ak4zV1FIT3k1MnlrUjJ6M0Q5ZXg5amV3aS1ndmFaZHlSNTVXVjFIanRwWGVuLXY2em9CZ2FDNlpYMTJaNjluU3NfcnZMSFN4eHNPNG5DQ3ZHSVNxc2MwdzdaWFJYZzVXQQ?oc=5",
+      "published": "2026-05-21T07:00:00+00:00",
+      "publisher": "Reuters",
+      "summary": "AMD ramping up Taiwan capacity as global CPU market tightens &nbsp;&nbsp; Reuters",
+      "query": "\"Advanced Micro Devices\" capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "AMD plans to invest over $10 billion across Taiwan's AI sector - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOUlliVkRRa1llYU5MN3NsTi1tSkFZc1pibFIxLUFJSGZIYUttSWNwWm5oNHhYSmpITk1tdjZtaXZTdXAyU0psWVQ0SXdTSlFJQ3V3TGE3aUhRa0hQRTUwajRJdEJtMkIxSEJMeWRXS1F1cnlkX0RIbXE2NTNEOUVtQ0pqd21XOEVCX2JNR05USVdyYV9iMmxWMWQ5cDI5dFc5OWl0OUhtN2VSX0gyeXZDUjdQeXA5d0dMRXdYR1VRUQ?oc=5",
+      "published": "2026-05-21T07:00:00+00:00",
+      "publisher": "Reuters",
+      "summary": "AMD plans to invest over $10 billion across Taiwan's AI sector &nbsp;&nbsp; Reuters",
+      "query": "\"Advanced Micro Devices\" capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Texas Instruments, other tech firms want Ukraine suit tossed - Dallas News",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNXzNFVjZMVnMyWUh3cnJJR0tGdGdZd0ZqQWlJNzRRd1hYLWxDbFdjSFRZckdrZFozZkd4eXdMUHgyNG9uMG82Vkg0U2tYaGlLMFZVRTE4YVJmcUp3TlY3Qmt5ZFJwdXc0RW9rbFh0WE9rSDRPYWlVRjRuTjZLaWZTYlNFNV9jWVN3V2szQXpwcXBsNUtZa3lleHJMeGZrZndOWWFacA?oc=5",
+      "published": "2026-05-18T07:00:00+00:00",
+      "publisher": "Dallas News",
+      "summary": "Texas Instruments, other tech firms want Ukraine suit tossed &nbsp;&nbsp; Dallas News",
+      "query": "\"Advanced Micro Devices\" lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Advanced Micro Devices Stock (AMD) Opinions on Q1 Earnings Surge and AI Outlook | AMD Stock News - Quiver Quantitative",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSU1QQjZJOUloYjJnUGh4bDZrOHM4bkh4SzJWcGpsSi1pQVJySUlKbElnN2dTZ09zTC1rS2pHQTFyQWNITDExRzdncm9LcFRIdkVGSWZGYWRnVU9FeUY3SU1YVG9laENkZXNEX1l2WFRIWEg4SW1SUGx2UGRUMS0tY0MxS2NmMmNTSkNZYU9pWU9RWnYzLW5mc1l6T0xDSVZHTVNKb0UtQ3hZZDNUSUl5LTZjaWhlTEk?oc=5",
+      "published": "2026-05-17T07:00:00+00:00",
+      "publisher": "Quiver Quantitative",
+      "summary": "Advanced Micro Devices Stock (AMD) Opinions on Q1 Earnings Surge and AI Outlook | AMD Stock News &nbsp;&nbsp; Quiver Quantitative",
+      "query": "\"Advanced Micro Devices\" revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "guidance"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "AMD Samsung 2nm Talks Highlight Supply Chain Flexibility And AI Ambitions - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOa29SYm91SWd3eDdOMUhTNHNxUUhwY3oxQXNFNWJneWNob0swNFR6VXpZT2dNb1pFTTNOYmViZ29RWTI3cmdETEU0ZFlSYTNyUmNZYm10ZHljV012OXdtRTNvR2x2aXZQU1ZnQkFNdHJma3BWMWJUWHpEMUhiLXVMdVNwSWpKTHRsWWlocG1uNm5USV90azgycmRSRmQ?oc=5",
+      "published": "2026-05-14T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "AMD Samsung 2nm Talks Highlight Supply Chain Flexibility And AI Ambitions &nbsp;&nbsp; Yahoo Finance",
+      "query": "\"Advanced Micro Devices\" capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity",
+        "demand"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Cathie Wood Dumps More AMD Shares Despite Its Massive 108% Rally. Here's Why. - barchart.com",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxON1B4UjJZNkl3Ym1GZWdtUzdaeHkyV3MxS3dIQm5DTnRlVjNHS1V0aE9IMnB1V095YkF6UXJXTmJZbS1idnJtZWVoT3pwVHNmakl1TENWMjh3cnc2em1FTEx1eXRVbGpKQ3pVU25XYVV1cHppd3ctb09RWW9VMnlOVDhncmVOUm50eU5CTV9Vc29hNG5ZYllTUTE2d1RIX05YRVV3ZVZVbHlHWnZHYWpZMzRHX3Bqakhpcmc?oc=5",
+      "published": "2026-05-08T07:00:00+00:00",
+      "publisher": "barchart.com",
+      "summary": "Cathie Wood Dumps More AMD Shares Despite Its Massive 108% Rally. Here's Why. &nbsp;&nbsp; barchart.com",
+      "query": "\"Advanced Micro Devices\" lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "speculation"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "The Zacks Analyst Blog Highlights Apple, Advanced Micro Devices, Chevron, Jones Soda and Onfolio - Zacks Investment Research",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQemR6a0ZCYzd0eEQ2STRFeGVlRnN5cmZjaGc1X3Bzckp6OFBjWG5sMVlkRGc3OVFLM2pNOXdsNDQwQWgyNVhsZ2tqUnotTG1COUJZdXZNQ3NHRnJkM0p1eTdTTUN1RHlmanRGTGxUT05EM2pBXzlDWTNCSVNyZHdfYm9DVl9hblQ5dUhMX0JiUi0zZ1ZVN0JtYVowUWJPVUtCTmR6NUZnN1ZRZzZNN1FWaFplbF80enozYVhaTFhNNDR1ZE9PQTBYMDhNV2h4aGc?oc=5",
+      "published": "2026-05-08T07:00:00+00:00",
+      "publisher": "Zacks Investment Research",
+      "summary": "The Zacks Analyst Blog Highlights Apple, Advanced Micro Devices, Chevron, Jones Soda and Onfolio &nbsp;&nbsp; Zacks Investment Research",
+      "query": "\"Advanced Micro Devices\" lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "AMD jumps 17% as AI-driven data center growth fuels earnings beat and analyst upgrades - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQTnZTTmh1TXpUNU5HRl9IckV1Wk01R2pmLU1TUEozSjZEcXVSQkxZWU9FekFqekR6LWtWVXNPX3UzVUJKeHhWcjBYMVI1bDBSYnBnam9sTkRnVFlNUEtJVVpUTXZFV2VqUEVhS3l0cXlTOWJRWV9ZdGZUUUtoMDVsV0UwbzBJV05tUXprak51Z2w?oc=5",
+      "published": "2026-05-06T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "AMD jumps 17% as AI-driven data center growth fuels earnings beat and analyst upgrades &nbsp;&nbsp; Yahoo Finance",
+      "query": "AMD earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "analyst",
+        "capacity"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "AMD Earnings: Server CPU Demand Is Skyrocketing - Morningstar",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMTR1REF1UThzZzctdzNEaUR5ZE5UMDVMVXE3RWlBRERQaHJ2ajdkNWU0Z2RIX0kxWXQ0NEZBTURFejZIS3J6U3M3RjBVa29LSXY5SDVaWU5jOWlZWEc1LUZKblJIaDQ2Q2NLai05eGhKUk1nWVdmQ0JXaVZDSUNacmZsaFM4bl9t?oc=5",
+      "published": "2026-05-06T07:00:00+00:00",
+      "publisher": "Morningstar",
+      "summary": "AMD Earnings: Server CPU Demand Is Skyrocketing &nbsp;&nbsp; Morningstar",
+      "query": "AMD earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "demand"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "AMD's Su explains what's behind massive forecast change as stock roars 19% on earnings - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE12OTNlWmZHSHZlaGNqTENiYzV1RFhkcXIxM2VaMmU4aGpuLWhVemcyZTBDU3dFV09Ib0J0MVhkbU5ZNGVFU1d1S2htQjY0bmhPc240YlFJM0ZaX2FsaF9kQjF2MnNrTWdqUWI4dUxJekdtN1NtQ0lmU0xLUWfSAYIBQVVfeXFMUFFIWkNUNXBkM2ZRQkgtX2FDN2dLWVZxclNsbF9UeUtUY1d0WXZKMkFTTlotdG9Yb0RPX2tEOHBQalhaSXRkZkxFM0pXRkMzY25VYnNEOWJ0TjlhalVSZlhsWHlSaXlmMGpfcHpKQVA2ajM0NXFPMFFvTzdZS1Vkcl8wUQ?oc=5",
+      "published": "2026-05-06T07:00:00+00:00",
+      "publisher": "CNBC",
+      "summary": "AMD's Su explains what's behind massive forecast change as stock roars 19% on earnings &nbsp;&nbsp; CNBC",
+      "query": "AMD earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "guidance"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "AMD Beats on Earnings, Raises Guidance on AI and Data Center Growth - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQeTlSeDhaMnBGbWlxdkxEMHJrcjFUVFNIN1BVb3NfeWNlSzVqaVhQWFdPX2E5Z0wxSy1PRlRSc2YwQkRsRmZJaW9pQ0s1XzAzMXBzd2prekk1Y05kTG5wNGhpclJPZF9XMFFDWDNGdk1KeHQ2d0QxWmJ0X1M0ZHlTd2pRNjUzM2EyejduSEllMXVlMzhBbXJnV0RKMFBGTzB4?oc=5",
+      "published": "2026-05-06T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "AMD Beats on Earnings, Raises Guidance on AI and Data Center Growth &nbsp;&nbsp; Yahoo Finance",
+      "query": "\"Advanced Micro Devices\" earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "guidance",
+        "capacity"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "AMD Stock price jumps big after Advanced Micro Devices earnings call forecast second-quarter revenue above - The Economic Times",
+      "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxQRE5ULWRtaHpfSC00bnd4cXdoRXY3dTAwRFJmRDB2d2NoSTJTM3lsQUp2dlF5amVjbjVyNDRlTUN4MHBZRFdjaGl0VlR3eFluSGJlWlVJTkI2cklpV2xGU0VULW5YNE5HY3pfYU9DWndoSkotdVQtVFd2MHNpSmlrQWVoajU1STBBMEUzR1NYZzRId2phNktVbklGN1pqcXNNN0I5WHJrZmtNcGV1T1BoT2V2RXhoRkpNMy0zNjdmcTJZMEt4MTRaZ05pSERwM0FFZjhDUkZETUJYYjJUTFFjYmFQaHd3Sl9YLUUtbVJlN19BNER2THhPU2hHbXhfQzI5M3pyMkdxc3FqVFZKVkxCQVlMSllXMFpSQktuQ3Y1SUYweDdfSDc4U3VSbE4zWGZU0gG2AkFVX3lxTFB4SUxFVUo1UGstNlk5ZzJMdFVFeE1LVHNrT24wbnk2VzJhZzk2NlNIY3pTdTdoT0wtLXFmNDlXR2R2S1IwRHYzamJGNGxqVy1mS0w3el95VUY1eXh6bzdZUUJ5VmRDQmFyZHR5TVJnWE9EM2FHaExsVlltYndVNlNrZWpPMlRwdUc0MU9YcW9mZHFZeXpiSEJtSXUzVmctd1F5V2w1VFhWT2JvaUoxU3d5LTZtcFVMN1QyZ0lvWjdRc3NaYk4yN09qV25FbkxGVjF3c0U5U0I2d202MGRnQklBUjdrdGhpeUJ3SWJaWmlkLWQ4ZUl3eHFnMm1PTnowRENZWkMtQ0tyWXZGcHNrYWVVYUJNMVlUaFNabWdOdTA2czhVdmZYUGExbXk2QkhWRWZPcy12YkE?oc=5",
+      "published": "2026-05-06T07:00:00+00:00",
+      "publisher": "The Economic Times",
+      "summary": "AMD Stock price jumps big after Advanced Micro Devices earnings call forecast second-quarter revenue above &nbsp;&nbsp; The Economic Times",
+      "query": "\"Advanced Micro Devices\" revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "guidance"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "AMD Stock Surges 16% on Strong Earnings, Stellar Guidance for $11.2 Billion in Revenue - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOS1BfWHFIaS1EVUFUUXAtU1V6ZzNpMEt3eEM0TVRDaHJLTlRZWWdET0xEQXpnNTdwZmFQSllTYkhoUlJrbnVzUGp2VmZYZWRXdWFHY0pqMUhTeTM2b3FwYWNlMFhZSG1TUGxnaF9ucFlJbW5MVGZ2T1ZLMlFfcHhwTWN2eWprb3drN2tYa2FYcWQ4NzV0c1FoNXpnaTlMR0FrUUVwVldlWTl5WGZLSVhVbk9DdEpsSHF4N3hpYk1WTWFKSmNrTXlmeHJnWmIzODgxdlBaNUhaem5PZlJ2dHc?oc=5",
+      "published": "2026-05-05T07:00:00+00:00",
+      "publisher": "TradingView",
+      "summary": "AMD Stock Surges 16% on Strong Earnings, Stellar Guidance for $11.2 Billion in Revenue &nbsp;&nbsp; TradingView",
+      "query": "AMD earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "guidance"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "AMD shares rally 19% on AI data center demand boom, rating upgrades - Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOWW1UdDVtSDJndjExR0dZT3poTDI3X2J5WExjM3htUnRJMUMyak5yRlpFMjladDVQMVZ0U0diejloWVVXRXBaWnI2Z1ZCV0tsYmR2QWYwaENqUW5vWnVVZnBfblYtLXJLalZjLTNCMV9MYjRrOGNZLWpMWHBNRVp3TkljSFJLblF3VDRjb2xOVTVuVThqWXE5SVJEQlZqVVpXQnZXZG84SkpMVzZUcjhTQ3Z2VENTSFg1aEVlcg?oc=5",
+      "published": "2026-05-05T07:00:00+00:00",
+      "publisher": "Investing.com",
+      "summary": "AMD shares rally 19% on AI data center demand boom, rating upgrades &nbsp;&nbsp; Investing.com",
+      "query": "AMD earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "analyst",
+        "capacity",
+        "demand"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "AMD's stock soars 16% as data center growth pushes revenue and guidance past estimates - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE94cU9qRmZ5Szh1bnRWMjhMbUtfVXBpak9RTlJmbG52dERGU2pyajQ4VC1pYWZ5TVNoQ0R6UFk0V0U2NzY0SC1lRkdPeTVsdWlEZDNTUElrUXpvZjBsVzNHdXRxRnlvUldCREpmaUhvOHNUZ9IBd0FVX3lxTE1JVFpBWDIwVlNHa1dGRlNpdlhnd25ZOHNKQ2tRV0FzTmdlcDJqRm5kRXVGaEl4aHl5M1F1V3hhMEJtYnUzZy1SUmtyOTVIamNVcEc0ZHVqa19xVWVKR1pHWHE4eXdnNWd5QjJlSUN3S0VCdllvZDJR?oc=5",
+      "published": "2026-05-05T07:00:00+00:00",
+      "publisher": "CNBC",
+      "summary": "AMD's stock soars 16% as data center growth pushes revenue and guidance past estimates &nbsp;&nbsp; CNBC",
+      "query": "\"Advanced Micro Devices\" earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "guidance",
+        "capacity",
+        "price_move"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Advanced Micro Devices (AMD) Technical: Steep run-up ahead of earnings, at risk of mean reversion decline below 380.20 - marketpulse.com",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOOTUxVG5fcVhaWS1Nb1dONmdiSGhibDFzcS1ZaU54VUlWQmNHUjFudHNjSlZBXzF2T24yZGZhczNLODZIOWFiN0ZsV0NDRm05Vm9FcUtFdm9iUmlmT1Z2Yzd0aU0xT1NyNWR0WEJrTlFzT01PSHo5NldPYkU0OWZZenlacEV5Q1Vlb29KdTkzX01oMjhmU0JwdmV4Rml2OGotdGlhUDVsbERteTRCUHJfWnZvanMxd2VSZ0NVbDI5T05NVnJ4LXdWZnlPaVlIR2E3MkVoRDVyMU53TFhuanZ6NDBBV3o?oc=5",
+      "published": "2026-05-05T07:00:00+00:00",
+      "publisher": "marketpulse.com",
+      "summary": "Advanced Micro Devices (AMD) Technical: Steep run-up ahead of earnings, at risk of mean reversion decline below 380.20 &nbsp;&nbsp; marketpulse.com",
+      "query": "\"Advanced Micro Devices\" earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "AMD shoots up as Q1 results, guidance top estimates (AMD:NASDAQ) - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZ0wyMXl0OUp4Vlktclk0S1JObHF1VmpValdwOUdudlFWelBqNzFTYUM5SHQ3eFhCVmZldTM5MmZmV1BkM1dCZDJfc3g5QUdKMGtjaDQ4SXFMSm5qZjJwTHdmTFp4U3ZobmZCWUZTTmpCSzRLamgwYk5YWWdhWVd6MGd3bGl6dWpQbHIxMTFlWWRmUQ?oc=5",
+      "published": "2026-05-05T07:00:00+00:00",
+      "publisher": "Seeking Alpha",
+      "summary": "AMD shoots up as Q1 results, guidance top estimates (AMD:NASDAQ) &nbsp;&nbsp; Seeking Alpha",
+      "query": "\"Advanced Micro Devices\" earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "guidance"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "AMD forecasts revenue above expectations on strong AI demand, shares jump 12% - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQMzRfRTFOZjVpVkJVNzFyMHpBdWFZa0p4eDV4SkJjSFdPNTMtQ2lRcl9Banl0My1vS083cjNCcmFzU2pPOHNHRHpTNzlkMmJ4ekRnZVlHVXlYSHZ6NW8xTjRlMnY4U3VnNjA2ODlhQTJkbVU0bzQxRkx0TzRtcUFVUHhPZkZCVVotc05Za09RbGs3VEk3OEVOZlVCR0M2ZWU5RzYzVS1yeEtSbU8xYjMyd0hwVnEwUzNqWUR4aEliTFU?oc=5",
+      "published": "2026-05-05T07:00:00+00:00",
+      "publisher": "Reuters",
+      "summary": "AMD forecasts revenue above expectations on strong AI demand, shares jump 12% &nbsp;&nbsp; Reuters",
+      "query": "AMD revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [
+        "guidance",
+        "demand",
+        "price_move"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "AMD (NASDAQ:AMD) Surges After Strong Q1 Earnings Beat and Upbeat AI-Driven Forecast - ChartMill",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOcE5GTjRTUVV3ODJBRnYydG1jT3VRN0YwV3hzZV9lRFMybkRyWkpsZmNoTkw4czR6Ujh3LVJXQVpWMy1nRGwtZFl5RHRjYUJkc2JiWHl5WGpRcEZmblVPeGdKa2VsX0xDMENjMjZaVG9GNFVTa0o5YlFTakoyWWxRaEl0QlA5ZjZjelBfS3lLaml0dG11WXpZR2o0YWE0Q1EwOFFodVpLTjdOY21KamJITENDZ2I5R2xGX08wcmgtWTVpM29xMTNKYUs1UQ?oc=5",
+      "published": "2026-05-05T07:00:00+00:00",
+      "publisher": "ChartMill",
+      "summary": "AMD (NASDAQ:AMD) Surges After Strong Q1 Earnings Beat and Upbeat AI-Driven Forecast &nbsp;&nbsp; ChartMill",
+      "query": "\"Advanced Micro Devices\" revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "guidance"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Mine Drainage Task Force Symposium explores AMD technology, regulation - - dominionpost.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbnVJWFBUVXBja2JibGg4YVJyQmxqMVlGWElzR01LZXVxZUV6TkdmQVozX2FMQUZyZ0x3cE10VDFnN1ZqTlFGWFBjT0ZjdzJRWjI3dTN6RDVLU0VxQmhINFhqZXVKbENXNHgwVVBFX1A3Sm05S0c1YlVDX25oT1IwLXF6SXVZNnVWV0N1cVVqZ3ZNZ1I2WlFEaFdCdzlkcjBZS0pfSDVHNHdiTlpVRzFv?oc=5",
+      "published": "2026-05-05T07:00:00+00:00",
+      "publisher": "dominionpost.com",
+      "summary": "Mine Drainage Task Force Symposium explores AMD technology, regulation - &nbsp;&nbsp; dominionpost.com",
+      "query": "AMD lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "AMD, SMCI, INTC, ANET, MU: 5 Trending Stocks Today - Advanced Micro Devices (NASDAQ:AMD) - Benzinga",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQRTJURnZMTi1qODl2MDNPTkhob2ZRMDBjTnVkVEhLOHc5dWtPTWFhT0djeXNYVWJGWXVDQ2F1NlgxZmQ2NDNDdDloMnV1Wm0zUWE3MjF1ekJ3bkZFS2NSQWZPMlNoX0E5RjZJX2Y3cWJqYnhaMTVtWXFWY0trMThTYzRGandFQVZTdEZBUHVQeVZiUXY1c0dNN1lPcEVOdzhScDhwWWtNemptTndRdGxpTVJTRzJNZ0VZcWRVbTdVU280TFQ4R1ZxN2x3TzNPaFQ3Y1o4dFFzWWxCei1kZ016cnd4UF9LYjhOLVY5TXhtcHlDM1poaktxT01aV2dQdHpCc05hVA?oc=5",
+      "published": "2026-05-05T07:00:00+00:00",
+      "publisher": "Benzinga",
+      "summary": "AMD, SMCI, INTC, ANET, MU: 5 Trending Stocks Today - Advanced Micro Devices (NASDAQ:AMD) &nbsp;&nbsp; Benzinga",
+      "query": "\"Advanced Micro Devices\" lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "AMD Stock Forecast | Q1 2026 Earnings in Focus - Capital.com",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9fS0gzcEQ1SjY2Sk95U19lVzFDcUE1cjYzLUhqSlUzQnVDZE8zY1JiUDJjQ2tULTZmZFMyNm9aS3o3eVk1Ui1EVEVzb2JCdzJXVmQ2eEtYemFoRzVJa2RMeVZKcmJFNWt4bFBuc2xzMF9MLXRWcU9iV194dw?oc=5",
+      "published": "2026-05-04T07:00:00+00:00",
+      "publisher": "Capital.com",
+      "summary": "AMD Stock Forecast | Q1 2026 Earnings in Focus &nbsp;&nbsp; Capital.com",
+      "query": "AMD earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "guidance",
+        "speculation"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "How Much Is AMD Stock Expected to Move After Earnings? - investopedia.com",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQa1NPOV9JWGFfWWxDclRkVnVCOHE5NEFoRlBqcVh6UEdFYi0ybDY2UXNFRHFTY2dHNVNfQm9zZ243U2VOYzFFeUtUVEFRel9SX0MtUk9YVFAxWU9PcTZUQW9iZndHdFZDdHpjQkc2SUJWN0Uza1hUTUkzQ1pKYUVOaVVqd1lJaEhWTGdwczZvRTBTM0liQ19CY3M0VUtSWlhQMXhjOHprbTZ2VEhz?oc=5",
+      "published": "2026-05-04T07:00:00+00:00",
+      "publisher": "investopedia.com",
+      "summary": "How Much Is AMD Stock Expected to Move After Earnings? &nbsp;&nbsp; investopedia.com",
+      "query": "\"Advanced Micro Devices\" earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "speculation"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Riot Platforms Expands AMD Partnership as It Shifts from Bitcoin Mining to AI Data Centers - tokenpost.com",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5KVUprTlFXWW9NZUZja3c5eWJLQWZ3VHNia3lLdTg4dEMtZllKUGJ0UjB0Z0wtanlpX1htRFRXaWNQYjg5TjJnQXp1X0wyaE5rUnJMUWxoUkk?oc=5",
+      "published": "2026-05-02T07:00:00+00:00",
+      "publisher": "tokenpost.com",
+      "summary": "Riot Platforms Expands AMD Partnership as It Shifts from Bitcoin Mining to AI Data Centers &nbsp;&nbsp; tokenpost.com",
+      "query": "AMD lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity",
+        "demand"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Riot reports $33 million in first data center revenue as AMD doubles contracted capacity - The Block",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPX0VHUWRhMm9LbktFUE9VZTBDakh5V2VLLTB0dkdUSGU4UnpoTDBpdU04ejE4NDBQaHNRQ1RyZ3JjcmFWZ1FyQ1g2elJjUndVSThZNjhLVHhxdEFURFFsSEw1YXozVmxNWnBnbWp6dTNLTFpieGh4cXpUamptV1BnNHo3WE5pMkEtcW1BS1VJV0dDN095WUFmdU1TbXFyMGxfbmpvMV9GT25ra0hpV3J2ajlqNjBIeC1PbDBuMkxYQ0RjbklmUzdXTg?oc=5",
+      "published": "2026-05-01T07:00:00+00:00",
+      "publisher": "The Block",
+      "summary": "Riot reports $33 million in first data center revenue as AMD doubles contracted capacity &nbsp;&nbsp; The Block",
+      "query": "AMD lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity",
+        "demand"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Buy AMD Stock Before Q1 Earnings: Here's What You Should Know - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPLXFtTC1VVEtPcjRwOTZJd0pNcTJxRjdMSlJTSVQzOE5kYzR2X1VCcnVnMlp1bHdWNnJ6MWNQbUJkZlp0VEhRRW4zMi00TzRGeDN5VkZwem5qRWV3aGtnRHRyTTBvcEFNYWY3eFJtQlhEcW1qQ0FtTTQ3bDBCbGlfenNNV2dIaF82SHdrdFVWR3BnSkk4eWhZNWE1SG8tMzlMQlRpWWt5RkpHeTBsSmNlNXhGTnZmanc?oc=5",
+      "published": "2026-04-30T07:00:00+00:00",
+      "publisher": "TradingView",
+      "summary": "Buy AMD Stock Before Q1 Earnings: Here's What You Should Know &nbsp;&nbsp; TradingView",
+      "query": "AMD earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "price_move"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Exploring Analyst Estimates for Advanced Micro (AMD) Q1 Earnings, Beyond Revenue and EPS - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZDZsVHlnTkRBZGVXeXNhZzlKMkpMbTNsX21PQWxSYVIxZDFQLXhfeFlsYkphQVN6NFEybHd5NXpqSURfcmtiVmtKTFB6UUcyRE9iX2ZuSkVITnJWUHg4UUFqSVhueG05WW1SSGxZSnJacFRwcEI3YTJCRU82U0dyZUh5WUVTTldVZk1URUdDNkdHUkp1YzhjbmJqa1hvVGc4Qno2bXFYbGRtYnc?oc=5",
+      "published": "2026-04-30T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Exploring Analyst Estimates for Advanced Micro (AMD) Q1 Earnings, Beyond Revenue and EPS &nbsp;&nbsp; Yahoo Finance",
+      "query": "\"Advanced Micro Devices\" revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Advanced Micro Devices Inc Stock (AMD) Moved Down by 3.44% on Apr 27: What Signal Does It Send? - TradingKey",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQN3RCbk1hQ1VGVzJPS2x1N0dDRER1X0hXZUNWSXNXVDczdENrQ3BudHAzWl85bXNlVDZpc1Y1c0tQZUkwWDBjcklNZ0J4anZSQUt6eGlkZ3czX2JGTHgzYVRCYVdjVEotb1RySjVyM2s5aHZDQm1mZ3lfbnNSaHFQZHNrYnRQai00NHc?oc=5",
+      "published": "2026-04-27T07:00:00+00:00",
+      "publisher": "TradingKey",
+      "summary": "Advanced Micro Devices Inc Stock (AMD) Moved Down by 3.44% on Apr 27: What Signal Does It Send? &nbsp;&nbsp; TradingKey",
+      "query": "\"Advanced Micro Devices\" revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "AMD shares soar 12% on no company news. Here's what has investors so excited - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSjJNeFJybGJicUQwVG9HWlhoRmUtS0d1czd5cnBORXQ2a3puaVJ5ZzVPQ0R6TmIzZnJERElLS3NOVVc1aWp5Wl9LUU5Wd1B4VmJFbWlNdlJDb3Nwd2RaYlFBb0RmdFJ6eDRCc2RUaDFlTUc3NVRtMmxmWUhWT0J0TTNBU1NlWEI4ci12bGMzX3NTbWZ1ODVuNzVxX1lrdGtaelNHS0huLUFSc1XSAbABQVVfeXFMTjNfRTBSWEZRTDFGNEhhNzF0MlNMZHMxQmRLV0pxdWRydjZHbzNTN1k0S09VWHBFamljUFF1RXVtSUd5LVFDNTMtZTNpdDVYeFVHZWlvVTNPOHFaa0l1YTY0aHBGaDJoLTJQZmpmZDdSSFVkQXVUTGtBZGMtQ1pQNW1IdXhQYlcwcEZTVWVqYTNsc08tVFpYeGVaQktnX2F1X0dneUpFWEJQV3REbF95WjU?oc=5",
+      "published": "2026-04-24T07:00:00+00:00",
+      "publisher": "CNBC",
+      "summary": "AMD shares soar 12% on no company news. Here's what has investors so excited &nbsp;&nbsp; CNBC",
+      "query": "AMD stock",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Prediction: The AI Supply Chain Shortage Will Create 2 New Trillion-Dollar Companies by 2030 - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQk1iTzlvNnBFN01Oa2s0Nzl6QU5OVWtZTzZZUkx1RFQ1ZzdhY3Q3d3M1b0loSWk5Y1ZVaUZrM3RERG5hMlpCNlVnMWRaUkROMlJGNnVfVFNSaUFQVERoMUxuWS1nRlZVZ0d3dF9nNWIzUjk5VkZpWWY5TEpyMThHWjd4dmNWUGxwbXNHSVZrTGNkN1BNYmVKLQ?oc=5",
+      "published": "2026-04-19T07:00:00+00:00",
+      "publisher": "The Motley Fool",
+      "summary": "Prediction: The AI Supply Chain Shortage Will Create 2 New Trillion-Dollar Companies by 2030 &nbsp;&nbsp; The Motley Fool",
+      "query": "\"Advanced Micro Devices\" capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity",
+        "demand",
+        "macro",
+        "speculation"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Why Advanced Micro Devices Stock May Drop Soon - Trefis",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdGZqY0xJZUI0T2JSSkxUbG5LZWliaEZJdUswRmlQa192VGNjMklqQ2UySXlnN2dSaVotOWxkT2JBV3ktMUZmcElxSENIUXFMaFVtVks1UHJPOXBhdGVEZ2kwNmJOZjczOFpNa3BGUWVhaHRmdFlNVVNSYlQwWTRMcXNlM21BZWtyMW5JYnlPV2tjZE9HUDVXMEVpb01EZmtIM2h0bzlYaGh4eW1B?oc=5",
+      "published": "2026-04-17T07:00:00+00:00",
+      "publisher": "Trefis",
+      "summary": "Why Advanced Micro Devices Stock May Drop Soon &nbsp;&nbsp; Trefis",
+      "query": "\"Advanced Micro Devices\" capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "AMD stock just achieved a milestone it hasn't in over 20 years - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUThiOWo4cVUxUUFQSlJzbGU5WG1penZha0lLV3lUUm9RTWFiUTF6U1RTWkktYUc4RUVudkFwSy14WXhsTlJYTnFtTDdqWjhqRGJpTDIyMTNTcXh4d3Vfd0R3VF9fTVNzd1liMV9BQjh2RmxEcm50RzluTHBxVE9JbVRDY0JrSWVKRVBGVVI5V2lzaC1WbG5ZaDU1cklJUDN2RXZPSDd1X2xEa3VkWVg3WV9ISEZjV2JqU1V3?oc=5",
+      "published": "2026-04-16T07:00:00+00:00",
+      "publisher": "TradingView",
+      "summary": "AMD stock just achieved a milestone it hasn't in over 20 years &nbsp;&nbsp; TradingView",
+      "query": "\"Advanced Micro Devices\" acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Advanced Micro Devices (AMD) Is Up 6.7% After New CIQ Partnership Targets Open, Power‑Efficient AI Infrastructure - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPOVpVbVhiU2pHUXd2N3kzdWI2RGRCUnFyYjM4bFotOWJucGhsX1BNaTNTc3hLRkpNNXV6V1dXVUVybWpRUzFtV0x2S2FrcGxGb3dJcUxGRTczdWJwS2hpczAyZWpHWHlNcUZ4dWhVU2lFWmFQaDM0SlA1ZTltRHI3cXlQR1ZRWTV0MlpMRXFOVkR0XzVKT09OSTN3bmlYQQ?oc=5",
+      "published": "2026-04-02T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Advanced Micro Devices (AMD) Is Up 6.7% After New CIQ Partnership Targets Open, Power‑Efficient AI Infrastructure &nbsp;&nbsp; Yahoo Finance",
+      "query": "\"Advanced Micro Devices\" acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "demand"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "No, AMD Is Not Buying Intel, Despite the Internet’s Freakout - gadgetreview.com",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNV3pqZ2w5Ym5XUWpwbmlXMG5EUFd3NXFVWWtZbERXZ2pPVVZqUjc5dk10akFlemVNRXV3a29lSmhWN210Z0s5c0pHLUlzVEc2VXVGVGlid0lrR183VVJyLU15d1k4WnRiTVRwYUFuSHFGUHdCaDBqVEV1b214S3g1R1E2OHkxRm5EZ2lmZS1YRQ?oc=5",
+      "published": "2026-04-01T07:00:00+00:00",
+      "publisher": "gadgetreview.com",
+      "summary": "No, AMD Is Not Buying Intel, Despite the Internet’s Freakout &nbsp;&nbsp; gadgetreview.com",
+      "query": "AMD lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "AMD says it will buy Intel, completing the strangest reversal in chip history - TechSpot",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVjBUb1VfcWpTUU1CRVRDYmhMaDhSMXFfakd4d283Umhjdl8xOUpCaVZmenkyNy1jNWxsZlNfQnFvYWxjNGdNYVJsSzE5Ulk2X0gtSHNvZS1LdGN1Sm1YTXVFc01saGdGS0JGRGJEVGdIMjJYYS02YUhvN3NUTzUxR1N6TGtPZWJ3dWtnZVd3aHEzTnBpNEM4eFRSM1hSdjg?oc=5",
+      "published": "2026-04-01T07:00:00+00:00",
+      "publisher": "TechSpot",
+      "summary": "AMD says it will buy Intel, completing the strangest reversal in chip history &nbsp;&nbsp; TechSpot",
+      "query": "AMD lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "AMD: Helium Shortage Is The Least Of Its Problems (NASDAQ:AMD) - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPd0R3ZERPenh4SFhXb3V5S0c3d19fSmxBbmNhX1J0U1A3WHRHa091QVp0Ym9XOG11aHl6OWs0U0tDRXNPM0NDZW9hRWpvZExQbzhMc3c0OHVHQk1ZRG1qQzRQbGh1clJNcVpoeWU2QnBBQjNMV2JIaGNzdWtJMUxnWVRsVzA?oc=5",
+      "published": "2026-03-29T07:00:00+00:00",
+      "publisher": "Seeking Alpha",
+      "summary": "AMD: Helium Shortage Is The Least Of Its Problems (NASDAQ:AMD) &nbsp;&nbsp; Seeking Alpha",
+      "query": "\"Advanced Micro Devices\" capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Trending tickers: Meta, Google, AMD, Next and Currys - Yahoo Finance UK",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbGxkWEVkWS1KdVhnVnZMdkx4dVFRMWs1RXRXdkZtRW5VWVFpdDJiVnFVc21SbWRpa1dyVTRyejQ0MF9TVFU3c1hIZGhMZU5wb0h5MjcyV1daSXRucVNaOWlLUTJ3dGVydDZFVldzVko1NldWRTBjYVlkN29aNk54N3dmbVp5MWZMTVZGUjNRYmkxbW5QWnV4M05VZkd5QQ?oc=5",
+      "published": "2026-03-26T07:00:00+00:00",
+      "publisher": "Yahoo Finance UK",
+      "summary": "Trending tickers: Meta, Google, AMD, Next and Currys &nbsp;&nbsp; Yahoo Finance UK",
+      "query": "AMD lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Advanced Micro Devices Retreats After a 7% Rally: Can the Linux CIQ Partnership Keep AMD Competitive? - 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPcXJ3d0xiTndkUVlocEV1MkU0cmNhZ25Wb0ZzT09MSjVNNkFIYjBMeTRVZTNCWXlPWEhERGViM1VVa2YtU1lUQUFiX1dmUWl1SjRpUjFKQ0dHdGxCZnBsc0t6X293UDNWYjViRlVLbUxHX2ZYM2xkNm9oMmN2N1owbmFzSTZUb3AtVzBjSWtMOFVkaEo3aF94U0tGV0VEbUZuRlhabzJvdEVrY3I0SHI3R2hWOG53R1h1dDJ3UTVpb1VlVFIxMU1neFJob2MzVHVmOWo0MUJOdEFYQQ?oc=5",
+      "published": "2026-03-26T07:00:00+00:00",
+      "publisher": "24/7 Wall St.",
+      "summary": "Advanced Micro Devices Retreats After a 7% Rally: Can the Linux CIQ Partnership Keep AMD Competitive? &nbsp;&nbsp; 24/7 Wall St.",
+      "query": "\"Advanced Micro Devices\" acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "demand"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Advanced Micro Devices Retreats After a 7% Rally: Can the Linux CIQ Partnership Keep AMD Competitive? - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNa3pQUmlGZ24xOWZoTE5nNUE4aUd5NW9KZEw2dDBEOF9aU2tfelRqMmZWU0FDS0xuZnd3cmVuUlU0b2FEaTNUNzJwVEZUbF9RWi1QWkl4ODNVWkt4YUNFcXl5RUtFVmFiTU9uMmhRVnFLM1BQdmpCUlRSVEMxOGpmeDlwNDhpZE04YkFtZmlRQzR3eGFWelJva3dkQ0twNWs?oc=5",
+      "published": "2026-03-26T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Advanced Micro Devices Retreats After a 7% Rally: Can the Linux CIQ Partnership Keep AMD Competitive? &nbsp;&nbsp; Yahoo Finance",
+      "query": "\"Advanced Micro Devices\" acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "demand"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Intel, AMD soar on reported CPU price hikes amid supply chain crunch - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTmhUMnJ3b2dTckRVN0cxWS1IclJjUWtLcEdUMm1DOGNERzJiaEhTU2ZWYmFfS1hId2RKS0Z4UnV0R2w4OFdoV0FMc1pOaFFmbkw0Z0swak5VTzVuX2ZpX1FhV1h3Qm8wTV9xSnJDSjlwWVBTVWluOEdvTUlPcGRld01XREx0OTBzQ05yV2ZUSDk4SnNpd3dpRUFjTDhwOGl1QUkwM3BUNDBHaF9GcG91YjROaVRCMjUtaVZuNFNpRzhlZw?oc=5",
+      "published": "2026-03-25T07:00:00+00:00",
+      "publisher": "TradingView",
+      "summary": "Intel, AMD soar on reported CPU price hikes amid supply chain crunch &nbsp;&nbsp; TradingView",
+      "query": "\"Advanced Micro Devices\" capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity",
+        "demand"
+      ],
+      "lean": "neutral"
+    }
+  ]
+}

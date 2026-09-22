@@ -22,6 +22,50 @@ for _d in (RAW, NEWS, FILINGS, SCORES, REPORTS, CONFIG):
     _d.mkdir(parents=True, exist_ok=True)
 
 
+LOGS = DATA / "logs"
+
+
+def get_logger(name="reportstock"):
+    """A logger that writes to data/logs/<date>.log as well as stderr.
+
+    The reason this exists: roughly forty `except Exception` blocks across these
+    tools swallow a failure and return None. That is the right behaviour for a
+    scraper where any field can be missing, but with nothing recording it, a
+    network blip and a company that genuinely does not report a metric are the
+    same event downstream - an absent number. The log is what tells them apart
+    after the fact, so a score built on a degraded fetch can be recognised as
+    one rather than trusted.
+
+    Console output stays at WARNING so the tools' own stdout tables are not
+    drowned; the file keeps INFO and above.
+    """
+    import logging
+
+    logger = logging.getLogger(name)
+    if logger.handlers:
+        return logger
+
+    logger.setLevel(logging.INFO)
+    fmt = logging.Formatter("%(asctime)s %(levelname)-7s %(name)s  %(message)s")
+
+    try:
+        LOGS.mkdir(parents=True, exist_ok=True)
+        fh = logging.FileHandler(LOGS / "{}.log".format(today()), encoding="utf-8")
+        fh.setLevel(logging.INFO)
+        fh.setFormatter(fmt)
+        logger.addHandler(fh)
+    except OSError:
+        # A read-only filesystem is normal on a free host. Console still works.
+        pass
+
+    sh = logging.StreamHandler()
+    sh.setLevel(logging.WARNING)
+    sh.setFormatter(fmt)
+    logger.addHandler(sh)
+    logger.propagate = False
+    return logger
+
+
 def _load_dotenv():
     """Read `.env` at the project root into the environment, if it is there.
 
@@ -211,6 +255,10 @@ def with_retry(fn, attempts=4, base_delay=1.5, label="request", quiet=False):
             retryable = (
                 status in (408, 425, 429, 500, 502, 503, 504)
                 or any(m in text for m in transient_markers)
+            )
+            get_logger().warning(
+                "%s attempt %d/%d failed: %s: %s",
+                label, attempt + 1, attempts, type(e).__name__, str(e)[:200],
             )
             if not retryable or attempt == attempts - 1:
                 raise

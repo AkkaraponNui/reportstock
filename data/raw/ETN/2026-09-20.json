@@ -1,0 +1,216 @@
+{
+  "ticker": "ETN",
+  "as_of": "2026-09-20T09:05:31+00:00",
+  "source": "yfinance",
+  "profile": {
+    "name": "Eaton Corporation plc",
+    "sector": "Industrials",
+    "industry": "Specialty Industrial Machinery",
+    "country": "Ireland",
+    "exchange": "NYQ",
+    "currency": "USD",
+    "financial_currency": "USD",
+    "employees": 97303,
+    "website": "https://www.eaton.com",
+    "summary": "Eaton Corporation plc operates as a power management company in the United States, Canada, Latin America, Europe, and the Asia Pacific. It operates through Electrical Americas, Electrical Global, Aerospace, Vehicle, and eMobility segments. The company offers electrical and industrial components, power distribution and assemblies, residential products, single- and three-phase power quality and connectivity products, wiring devices, circuit protection products, utility power distribution products, and power reliability equipment; and hazardous duty electrical equipment, emergency lighting, fire detection, intrinsically safe explosion-proof instrumentation, and structural support systems. It also provides pumps, motors, hydraulic power units, hoses and fittings, and electro-hydraulic pumps; valves, cylinders, electronic controls, electromechanical actuators, sensors, aircraft flap and slat systems, and nose wheel steering systems; hose and thermoplastic tubing products, fittings, adapters, couplings, and sealing and ducting products; air-to-air refueling systems, fuel pumps, fuel inerting products, sensors, and adapters and regulators; oxygen generation systems, payload carriages, and thermal management products; wiring connectors and cables; and hydraulic and bag filters, strainers and cartridges, and golf grips for manufacturers of commercial and military aircraft, related aftermarket customers, and industrial applications. In addition, the company offers transmissions, clutch"
+  },
+  "market": {
+    "price": 424.77,
+    "market_cap": 164980670464,
+    "week52_high": 478.0,
+    "week52_low": 311.92,
+    "off_52w_high": -0.11136,
+    "avg_volume": 2221511
+  },
+  "analyst": {
+    "target_mean": 479.5708,
+    "target_high": 534.0,
+    "target_low": 333.0,
+    "upside_to_target": 0.129013,
+    "recommendation": "buy",
+    "n_analysts": 25
+  },
+  "annual": {
+    "periods": [
+      "2021-12-31",
+      "2022-12-31",
+      "2023-12-31",
+      "2024-12-31",
+      "2025-12-31"
+    ],
+    "revenue": [
+      null,
+      20752000000.0,
+      23196000000.0,
+      24878000000.0,
+      27448000000.0
+    ],
+    "gross_profit": [
+      null,
+      6887000000.0,
+      8434000000.0,
+      9503000000.0,
+      10317000000.0
+    ],
+    "operating_income": [
+      null,
+      2995000000.0,
+      3885000000.0,
+      4632000000.0,
+      5209000000.0
+    ],
+    "net_income": [
+      null,
+      2462000000.0,
+      3218000000.0,
+      3794000000.0,
+      4087000000.0
+    ],
+    "ebitda": [
+      null,
+      4009000000.0,
+      4904000000.0,
+      5617000000.0,
+      6179000000.0
+    ],
+    "rnd": [
+      null,
+      665000000.0,
+      754000000.0,
+      794000000.0,
+      797000000.0
+    ],
+    "eps_diluted": [
+      null,
+      6.14,
+      8.02,
+      9.5,
+      10.45
+    ],
+    "shares_diluted": [
+      null,
+      400800000.0,
+      401100000.0,
+      399400000.0,
+      391200000.0
+    ],
+    "total_assets": [
+      null,
+      35014000000.0,
+      38432000000.0,
+      38381000000.0,
+      41251000000.0
+    ],
+    "equity": [
+      null,
+      17038000000.0,
+      19036000000.0,
+      18488000000.0,
+      19425000000.0
+    ],
+    "total_debt": [
+      null,
+      9114000000.0,
+      9802000000.0,
+      9821000000.0,
+      10532000000.0
+    ],
+    "cash": [
+      null,
+      555000000.0,
+      2609000000.0,
+      2080000000.0,
+      803000000.0
+    ],
+    "current_assets": [
+      null,
+      8746000000.0,
+      11675000000.0,
+      11801000000.0,
+      12355000000.0
+    ],
+    "current_liabilities": [
+      null,
+      6360000000.0,
+      7747000000.0,
+      7857000000.0,
+      9370000000.0
+    ],
+    "invested_capital": [
+      null,
+      25693000000.0,
+      28305000000.0,
+      27640000000.0,
+      29320000000.0
+    ],
+    "operating_cf": [
+      null,
+      2533000000.0,
+      3624000000.0,
+      4327000000.0,
+      4472000000.0
+    ],
+    "capex": [
+      null,
+      -598000000.0,
+      -757000000.0,
+      -808000000.0,
+      -919000000.0
+    ],
+    "free_cash_flow": [
+      null,
+      1935000000.0,
+      2867000000.0,
+      3519000000.0,
+      3553000000.0
+    ],
+    "buybacks": [
+      null,
+      -286000000.0,
+      0.0,
+      -2492000000.0,
+      -1862000000.0
+    ]
+  },
+  "metrics": {
+    "years_of_data": 5,
+    "currency_mismatch": false,
+    "trading_currency": "USD",
+    "financial_currency": "USD",
+    "revenue_cagr": 0.0977,
+    "revenue_cagr_years": 3,
+    "net_income_cagr": 0.184056,
+    "fcf_cagr": 0.224536,
+    "revenue_growth_ttm": 0.214,
+    "earnings_growth_ttm": -0.159,
+    "forward_eps_growth": 0.644609,
+    "gross_margin_latest": 0.375874,
+    "gross_margin_trend": 0.01504,
+    "operating_margin_latest": 0.189777,
+    "operating_margin_trend": 0.015506,
+    "net_margin_latest": 0.1489,
+    "fcf_margin_latest": 0.129445,
+    "fcf_margin_trend": 0.012645,
+    "rnd_intensity_latest": 0.029037,
+    "roe": 0.19684,
+    "roa": 0.07052,
+    "roic_est": 0.140352,
+    "current_ratio": 1.24,
+    "debt_to_equity": 105.059,
+    "net_debt": 9729000000.0,
+    "net_debt_to_ebitda": 1.574527,
+    "market_cap": 164980670464,
+    "enterprise_value": 185656672256,
+    "trailing_pe": 43.29969,
+    "forward_pe": 26.328268,
+    "peg_est": null,
+    "price_to_sales": 5.494594,
+    "ev_to_ebitda": 27.965,
+    "ev_to_revenue": 6.183,
+    "fcf_yield": 0.021536,
+    "dividend_yield": 0.010359,
+    "dividend_rate": 4.4,
+    "payout_ratio": 0.4358,
+    "beta": 1.168
+  }
+}

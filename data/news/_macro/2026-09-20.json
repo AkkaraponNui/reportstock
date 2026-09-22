@@ -1,0 +1,1522 @@
+{
+  "scope": "macro",
+  "as_of": "2026-09-20T08:30:47+00:00",
+  "lookback_days": 45,
+  "summary": {
+    "total": 118,
+    "by_event_tag": {
+      "macro": 42,
+      "guidance": 25,
+      "regulatory": 20,
+      "demand": 10,
+      "capacity": 8,
+      "product": 3,
+      "earnings": 2,
+      "mna": 1
+    },
+    "headline_lean": {
+      "positive": 7,
+      "negative": 3,
+      "neutral": 108
+    },
+    "top_publishers": {
+      "Yahoo Finance": 8,
+      "CNBC": 6,
+      "Reuters": 6,
+      "CBS News": 4,
+      "The New York Times": 3,
+      "Morningstar": 3,
+      "Bloomberg.com": 3,
+      "EnergyNow.com": 2,
+      "ABC News - Breaking News, Latest News and Videos": 2,
+      "U.S. Bank": 2
+    }
+  },
+  "articles": [
+    {
+      "title": "Oil Prices Edge Lower as IEA Reduces Demand Forecast - EnergyNow.com",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMmRubzFyVkR3TGxucVhZRDcxaUlfeHEwRk95QklBaDc3U3paQ2tCbWJpT2c4NnJLcnFWaHA3UnZuN2dndUJsS0h5bzdTMU1Jc1FZMUpDcVY3UDZ2Mkx6SXlzRUMwSmlOZzlvS2thS2trY1VkOVVXelFPd3czMDVVamotTFRYem1Mamhj?oc=5",
+      "published": "2026-09-19T08:32:00+00:00",
+      "publisher": "EnergyNow.com",
+      "summary": "Oil Prices Edge Lower as IEA Reduces Demand Forecast &nbsp;&nbsp; EnergyNow.com",
+      "query": "oil price forecast OPEC",
+      "source_api": "google_news_rss",
+      "tags": [
+        "guidance",
+        "demand"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Fed holds interest rates steady as inflation hits 3-year high - ABC News - Breaking News, Latest News and Videos",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObE9meWdub2FOS2dVY0pKYUxReEZrZGJhMnIyNG9JTEJpZlhISXFXMlZGZk1kSjRPWlRPejV6aTdXSHZnWWFkeHBvZVEydk9Sa1dLallzVGtIenB2OV9yR2daTDNrb2psQW5uZ2JSYnlOMUxmYzExZ1NBT1V3OGVlaERaZ1pPaVYwTDUyNVJCR1lJUkpoRFhhMzJha09TOVXSAaQBQVVfeXFMUGc0WHV5TzVaUnlTZjZ2Y1h3RHdSSnc0LWZoTzF3Uzk4WFkyQVByY1kxNkNoeDREX3Z6TDRSOUsyMmFvbHBGUWNlWUlXZGxJZFN6RFB5NWREWWtlRXUyMXJyUUlMTXo0cmh4NlpfT1pMUklyOGJLb1F5SDdteTItMzl5NVQybXk5U2ZQWkRGYmhnU0dJZ2hoTEFjb3FLaktRcjZNbDc?oc=5",
+      "published": "2026-09-19T00:33:38+00:00",
+      "publisher": "ABC News - Breaking News, Latest News and Videos",
+      "summary": "Fed holds interest rates steady as inflation hits 3-year high &nbsp;&nbsp; ABC News - Breaking News, Latest News and Videos",
+      "query": "Federal Reserve interest rate decision",
+      "source_api": "google_news_rss",
+      "tags": [
+        "macro"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Oil (USCrude) Price Forecast for Today, Tomorrow, Next Week, and Next 30 Days - LiteFinance",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcm51RHFTMGNQcnB2aFl5bjNQQzFXUVVHckh1eW1IVktpM0lfaXlCQ2p6RF9nYWxkajlxb2R2V0lkRi1FNnljalUwMlhaU2FFT2dCUDBwem9tVG14Y1FXZGVKbWJvSm0xNlVVZ1BwdTItWnJkOTF3TnFTU2FQLWZibmhXRXlnX2RJY25leTB2ekVVUHZMZS1zbjBhWkNJLWs?oc=5",
+      "published": "2026-09-18T07:00:00+00:00",
+      "publisher": "LiteFinance",
+      "summary": "Oil (USCrude) Price Forecast for Today, Tomorrow, Next Week, and Next 30 Days &nbsp;&nbsp; LiteFinance",
+      "query": "oil price forecast OPEC",
+      "source_api": "google_news_rss",
+      "tags": [
+        "guidance"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "A Firmer Fed - Morgan Stanley",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUW5PRDVXUjZ3eXY1MVczTENvMThqenROQkVYVDlnZ2NtZmw2Q21oSF9MNmFxUEp1VUUzcUUwaC1BZnk5OHBuaHZ3Q2d3YmxpVldZNzNxeVdUWnlHVXhHNlBDOEFqNE4zVlpxUzZzRWhrZXMxUWs5WXBjRTZnR0J4bzhIUzlGaXpLS0o3eGNNbEc3OFRoS0lkNVJKLWRmSGhSSmZyMXFBNVRPUU5jVVFwVUNGbFc?oc=5",
+      "published": "2026-09-18T04:00:00+00:00",
+      "publisher": "Morgan Stanley",
+      "summary": "A Firmer Fed &nbsp;&nbsp; Morgan Stanley",
+      "query": "US dollar strength emerging markets",
+      "source_api": "google_news_rss",
+      "tags": [
+        "macro"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Why fixed income is critical for the AI supercycle - T. Rowe Price",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQVNEWmp2MFRPMVdJdEpRd3RVVW43NHpHQlJZNkVQWGRPalctUVlNc3FqSktkN0lyZExoZ1JYTEQxdmllUXE0T2JFcFVlNmN2Nzd3d0ZlX2x0akxMZGZnZElWekxUdy0wV2FkRnlzalM2WGNsbk5CUXhEWkxVQ1VBajktQVRjcUZRcTRTTnZZVC15eG1kRTFj?oc=5",
+      "published": "2026-09-17T23:11:06+00:00",
+      "publisher": "T. Rowe Price",
+      "summary": "Why fixed income is critical for the AI supercycle &nbsp;&nbsp; T. Rowe Price",
+      "query": "AI capital expenditure hyperscalers",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "CNAS Insights | America Must Expand AI Export Controls Amid Talks with China - Center for a New American Security | CNAS",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOVktjNG1fVTNrRXBvOERoRHpRQVNRaG5sQzliQ2dWQzlWTGw0Q2xWVUtqYnVYa2VTdWEzazdCbHFxZ2tKS3VlekpEdE1Ma2l3OGdqTFh6SUhxWFRWQnFkY19pRm9YVHhrQUV4amRtUXR3RHpSdnBlekxick0zN1FkUGdqZDRlRHhhclc2RGRVUGlWTC1lTkRBclEwaWUwbEtzUl9sdVZqTUFYT3FHOXhTSGEyQzlBZUxmTm1obHhyR2hVbnhvM003UTI3b0U4OXdVUm1fRFdyZw?oc=5",
+      "published": "2026-09-17T21:57:56+00:00",
+      "publisher": "Center for a New American Security | CNAS",
+      "summary": "CNAS Insights | America Must Expand AI Export Controls Amid Talks with China &nbsp;&nbsp; Center for a New American Security | CNAS",
+      "query": "semiconductor export controls China",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Canada Is Moving Closer to Europe. Trump's Tariffs Help Explain Why. - Reason Magazine",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTE82cFI2dXN1WDFzV1BWOTlfdXVwQ0FPb0o0UlpURVlzc055VlhLV3cwNUNQRVlhS292R2Z1dDd0S1NSN1ZTdFJOdWZnOFZzNlpNODhjMFVSdi1ibHpWZVdnUjN6S3hMbTI2Qk5EWE1IWGhTbVFUMVJKNlIzY2xlaFJqSFhDNDlTYk56ak5vVGpkcFk2eHY4bnViQ3k?oc=5",
+      "published": "2026-09-17T20:40:50+00:00",
+      "publisher": "Reason Magazine",
+      "summary": "Canada Is Moving Closer to Europe. Trump's Tariffs Help Explain Why. &nbsp;&nbsp; Reason Magazine",
+      "query": "tariffs trade policy technology",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory",
+        "macro"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "OIL IN 2026 – Analysts Hike Oil Outlook on Geopolitical Risks, Oversupply Concerns Limit Upside - EnergyNow.com",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTjNFYXZxdjR4ajVFalRORWRNOFBBR2I3dkw4UTIyRFFfUnZIY2VtcUt1SlNOUEtkMVRHWnFnLUc3dFFSaDFILUpMUkhwbGx1bjl5cGl2VGNManU3ZnV4VWZVeVNzR1VGMWxlOUx1emwta1RiblR6OTVGVTY0T0NManp3bWh2VlN3N1R4c2xvaTNtcmFCMENxbTJydS0wOTF0NE1KV0otSzBiVk95SWlkT3J4b2Q4LVhPaTBHRkJfLWs?oc=5",
+      "published": "2026-09-17T17:42:25+00:00",
+      "publisher": "EnergyNow.com",
+      "summary": "OIL IN 2026 – Analysts Hike Oil Outlook on Geopolitical Risks, Oversupply Concerns Limit Upside &nbsp;&nbsp; EnergyNow.com",
+      "query": "oil price forecast OPEC",
+      "source_api": "google_news_rss",
+      "tags": [
+        "guidance"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "AI CapEx Spending Is Outpacing Cash Flow as Hyperscaler Investment Surges - Cloud Wars",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRXc2dTgwV0RtN0tuZWxIUnEyQmxfcEUxUEJUTk1KX0puc2ptbHFlVEk5MlkyeEQybVNCSHV3WTk1Wi1xbm5RdVNXR2hvQlNGUEtJSVUxZUhKVnAxY0hVLTBpcUY5a0d2WS1Wb2FYUl9yYVluczcwUW45SXdWS055dnFDY3RHaGhuUjNIZ2VPRTlvNkpfa29uZE5KRnZLTFAzTFpCZlVYTEhSTll6cjNnX0RfNGxLbGNR?oc=5",
+      "published": "2026-09-17T12:00:00+00:00",
+      "publisher": "Cloud Wars",
+      "summary": "AI CapEx Spending Is Outpacing Cash Flow as Hyperscaler Investment Surges &nbsp;&nbsp; Cloud Wars",
+      "query": "AI capital expenditure hyperscalers",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Examining China’s AI Financing - Rhodium Group",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8xMUl2SlRnd3RpWjZ4Rlh6VHh1b1lNTUp0YmcxZ1hwblNUZ1dvOVdjbTZNWjlZZHVwN0pUSndJdlBYNXdLd1VlTkZiRWdIMjZ2eUhUYkJ0RjdPY0ZDbjNQUk9rLVBOZw?oc=5",
+      "published": "2026-09-17T11:49:09+00:00",
+      "publisher": "Rhodium Group",
+      "summary": "Examining China’s AI Financing &nbsp;&nbsp; Rhodium Group",
+      "query": "AI capital expenditure hyperscalers",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Global Economy Is Running Out of Wiggle Room - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNWndEeXg3MU00cXljY1dsM1NEVUZLQWFDcy1fZXczcVZKcFc5YTZtQl9sb09KVjk1ZkFLYTlrNzE2MnRfWEpIMEk0R0FsOUFuSmxRbDZBWUJCV1Y0UFlrY1JvZVo0c1VKLTRIcTBTbENsWkNCcDhjeWlsNGVaYmUtVWZXZTQ2dw?oc=5",
+      "published": "2026-09-17T09:04:23+00:00",
+      "publisher": "The New York Times",
+      "summary": "Global Economy Is Running Out of Wiggle Room &nbsp;&nbsp; The New York Times",
+      "query": "global recession risk outlook",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Warsh says AI's hyperscalers are part of why your borrowing costs are rising: ‘The competition for capital is real’ - Fortune",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE02c0g2SWh3ZGcwOG5LZFV4TW1OUldYV0lSdlplVl94NGE2V3N5UnRyVThDSnM3Yi1vZDlqNThwSTJXejVhaTRHU195X29EWHJXNUdNa3VUc2F2ZnljY0ItaGM1U2ZVTzBlNXJkSV9MdjY1bHJfc3UtUA?oc=5",
+      "published": "2026-09-17T07:00:00+00:00",
+      "publisher": "Fortune",
+      "summary": "Warsh says AI's hyperscalers are part of why your borrowing costs are rising: ‘The competition for capital is real’ &nbsp;&nbsp; Fortune",
+      "query": "AI capital expenditure hyperscalers",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Canadian Quarterly Economic Forecast - TD Economics",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ubV83T04yTWI5QzE1SlU0ZDYwQjJBdGpzWDY0LXV2Njh5MkxIWFRwYzdUWUMwX0hmWHdCNHNuQUwwVU5WUzVPS0FKZEpFU2VSYVBRZGUwUW5vNFZsOW9nLWhtXzh6QQ?oc=5",
+      "published": "2026-09-17T07:00:00+00:00",
+      "publisher": "TD Economics",
+      "summary": "Canadian Quarterly Economic Forecast &nbsp;&nbsp; TD Economics",
+      "query": "global recession risk outlook",
+      "source_api": "google_news_rss",
+      "tags": [
+        "guidance"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Fed Raises Rates in First Major Step by Warsh to Contain Inflation - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRXNJaUw1MEZvcHA2N19Dd0hBbjlCYkFqOFNjclNYRTl4WkxkRENSbnZ2b1djdnZEN2FXZjJWVktja1BINHUxNkp6dFNPTHdkYy1nWXNVSUV4U1RzazVUajhndFlwUU5NVU10WkJ6MmU0YUhsa2tMTUVoVmV0c1BidFU1OHFiOXZ0bkpoaHdjWjh1a2piWWVqSw?oc=5",
+      "published": "2026-09-16T21:23:09+00:00",
+      "publisher": "The New York Times",
+      "summary": "Fed Raises Rates in First Major Step by Warsh to Contain Inflation &nbsp;&nbsp; The New York Times",
+      "query": "Federal Reserve interest rate decision",
+      "source_api": "google_news_rss",
+      "tags": [
+        "guidance",
+        "macro"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Federal Reserve hikes interest rates for first time since 2023 amid stubborn inflation - foxbusiness.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTkNGQWZwRUllRWhwM29vZGhCd0Z1TjVzSGtnUXZibzlBNnNNX0hobXRaempWb1k1bndFR0xaTk5yTllrRWFWQk00b3NDYVhQTDI2bUZWQW0xV3lCeUNuOFhEaVVQdnJGc3ZCQUY3MzN3ZWpqb3A1ZG1HT2dMNGdieEw0R0ZsZ2pYTlJMOVdMeVhkVFFWQ2o40gGcAUFVX3lxTE5zT2pObGszWGx6dXo3VjdyQnlDN0U2N1ROcFp1NW81amlLVGJ2b3Nmb19Ca2RxcVpISHdhdTdfdXppX1JJV2RUTEwyYm9MdDRucDdMNEY5Y1M5d1IweWZSbUVseGYydldTNm91OWVVdDFvT1BJQUVXa0lpLTY4OUwtVTUwUHZBWlNQaDN2VW9kSzFmSGQ1bWtzT001bA?oc=5",
+      "published": "2026-09-16T20:01:00+00:00",
+      "publisher": "foxbusiness.com",
+      "summary": "Federal Reserve hikes interest rates for first time since 2023 amid stubborn inflation &nbsp;&nbsp; foxbusiness.com",
+      "query": "Federal Reserve interest rate decision",
+      "source_api": "google_news_rss",
+      "tags": [
+        "macro"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Fed approves interest rate hike, signals one more to come this year - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB2d21SUXhkazRGZk1QSTgxb2lQME5TUzdVNEZ0bWVxdWRENm96dUNfU040Rnc4Skl5MnZwcXlKLXh0c1NzYVhrNDZHY0F2M2otb0ZEZmRyd0N2Vlk1WjZ1a1FpZk9jaEtBV25HejlPUE5LVWllZDN2TtIBfkFVX3lxTE5MbUliaWM2Nm1nSDRQU0ZEUmdZUXVNVjRZeXpzRWlaY2pMRzMwdGFUb09jaWhqUFNJZEo5OUxJenR2aEtkcWR0MnVYR3VmdndJWlJTNGlPWmUzNmJYLS1oZ29fMW5PR0dzY3JYUkUzaGdfemtIQjBqc1hjMjNtZw?oc=5",
+      "published": "2026-09-16T18:00:14+00:00",
+      "publisher": "CNBC",
+      "summary": "Fed approves interest rate hike, signals one more to come this year &nbsp;&nbsp; CNBC",
+      "query": "Federal Reserve interest rate decision",
+      "source_api": "google_news_rss",
+      "tags": [
+        "macro"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "US Fed to deliver rate decision with markets betting on hike - afp.com",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBpUVgwbnd0X05XenhFY3VNS2hOWDdMUUpsWVE0ZFNEeV92SFZ4dDRScFVPdW5SQ2lWZnVwUlVuaGluOE9qX0s1dDVIT2NtVE5mMnlsdGMwRklZOFhsZUt4aERVS0FfN2x5RFJRQTNkRTluQVR6NHd2SXhIYS0?oc=5",
+      "published": "2026-09-16T14:34:11+00:00",
+      "publisher": "afp.com",
+      "summary": "US Fed to deliver rate decision with markets betting on hike &nbsp;&nbsp; afp.com",
+      "query": "Federal Reserve interest rate decision",
+      "source_api": "google_news_rss",
+      "tags": [
+        "macro"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Fed raises interest rates to 3.75%-4.00% in first rate hike in three years, with more expected - U.S. Bank",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRHE2X3NqMTh3SDJDcXAyMlBMcE96b2xIc3BBSTJvNXA1WFZuSHlpanRkMnlJdjNYZUdONHVqT3g5VXZONm02UGRzTjVLSU11bldvdHktMjVOVHBrdnYya3RCS0c1TFp1Zl9lX1dDQUhaTTVMM2wzeFlvNGFYNktiVEl2dk50aWhUU3diQUFYaVh1OXpQRnZPdDN5LTdycndSRDVOdw?oc=5",
+      "published": "2026-09-16T07:00:00+00:00",
+      "publisher": "U.S. Bank",
+      "summary": "Fed raises interest rates to 3.75%-4.00% in first rate hike in three years, with more expected &nbsp;&nbsp; U.S. Bank",
+      "query": "Federal Reserve interest rate decision",
+      "source_api": "google_news_rss",
+      "tags": [
+        "guidance",
+        "regulatory",
+        "macro"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Trump and the Federal Reserve are on a collision course over interest rates - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORUx2RFdkdERoV091d1VKeFloZFNyMXVxN1RTelVMd3VzQUI0eHpDTWdaQm0zbTlxSTNNcERBZzlycXM5bmRKNWpjZEpGQ0RWVzJYWjF3M1pNRlFfUkp0Z3g0WGpndHcweWFMNUlmOVVtRWRUZThNR0ZyLWFsalVabE9zNlFZNnFSb3dncHZidlh6d05pVkVaamtn?oc=5",
+      "published": "2026-09-16T01:00:00+00:00",
+      "publisher": "NBC News",
+      "summary": "Trump and the Federal Reserve are on a collision course over interest rates &nbsp;&nbsp; NBC News",
+      "query": "Federal Reserve interest rate decision",
+      "source_api": "google_news_rss",
+      "tags": [
+        "macro"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "WATCH: Warsh says 'inflation is too high' after Fed raises interest rate 1st time in 3 years - pbs.org",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbG5TakU0X3dMbFJEZU9LRkkweWpLSC1HQnR0ZGZjSnBBMnhxeDJfeXpJbl9ETDVKajhrMnZIZy1hRUdpZFllY2VTbmROclRnbUk5TU9xalVmbUxkVEd5THdtaW9ReHpua1M0Q3RLdFlTOWQ3UGxkUmF0QjZELWhNSjRENm1FbGl1RWN2VHd4Y291RGdpN0RtRDdjdFJmSjFGcU5TQVRlT0w5T3o1TzZZSHAwMTRrUHZCLU9acUZB0gHDAUFVX3lxTFBFVmt4Z21jOVJHWklFdzlfMS1HOXVvdXRJdV9sZmhENW9OWDVrdVF3UHpuYk03VFZfVVB1V3pjLUtJaUd5TUswTFhUZTNXTFYtZXdaOWIyeGszNmNwM2ZKeUhHcThwRUJSNHduR0V3cHVrTHljM25HazRWcXB0VlYtekVnZW5NQlE0ZU9YY2h1NkFmeGRsOWRBNXkxTGVVYlRUR3JKR1JwUjRfQ0xjZU9nTjBadjZqeThjeExQbG56X0Zwcw?oc=5",
+      "published": "2026-09-15T21:48:27+00:00",
+      "publisher": "pbs.org",
+      "summary": "WATCH: Warsh says 'inflation is too high' after Fed raises interest rate 1st time in 3 years &nbsp;&nbsp; pbs.org",
+      "query": "Federal Reserve interest rate decision",
+      "source_api": "google_news_rss",
+      "tags": [
+        "guidance",
+        "macro"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "BIS in the New Age of Import Controls - carnegieendowment.org",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9fZU5lYzhjc2JXRU55QklBWVpKY0NJNUtmalR2akE2XzZoNEtSY2dXdDh0SllWdUlKd1RzUC1TOXNxZ3VGYUVMc2VTSF9KN3dKRnV2T1N3QVNaRHBQWE9ERC03UUd0ei0yWjFMcUg3UDFwS2ZxT05fNnJ3OGRWbmM?oc=5",
+      "published": "2026-09-15T20:46:37+00:00",
+      "publisher": "carnegieendowment.org",
+      "summary": "BIS in the New Age of Import Controls &nbsp;&nbsp; carnegieendowment.org",
+      "query": "tariffs trade policy technology",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Federal Reserve is expected to raise its benchmark rate, defying Trump’s demands - AP News",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcEg4dFhUa0hYYzZsdXJhRTVFZ09rQUl5ems3Z0JuTE8zdlZJb3Z4bC1QUjZ3d0MzZG1KazlSenRUT20wSGFCMm9ya3AzQjJQeFBVZXB1enM4SDd5akRpNmgwT3RuOXRhSWZvVDYtZ3BOdkx1OWVkWmRCd292c1ItVDVVcmZKV1VPMWtjSU9IVF8tWEpUYm1pRnJacE1JbE5DbHJLbQ?oc=5",
+      "published": "2026-09-15T16:32:00+00:00",
+      "publisher": "AP News",
+      "summary": "Federal Reserve is expected to raise its benchmark rate, defying Trump’s demands &nbsp;&nbsp; AP News",
+      "query": "Federal Reserve interest rate decision",
+      "source_api": "google_news_rss",
+      "tags": [
+        "demand",
+        "macro"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "What’s at stake in AI’s trillion-dollar gamble - MIT Technology Review",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNejNNMURnQWVMZXpvQmRQRUl2SzZWbkc2MmFPa1ZIQThwYmxkcDEwOU4tcVRIMk5IR2x2aGF3T0JrT0JLNU82a0tIa3Z5cjRDR3prdElrRTV2SHBuSWN4Qy1xS3F6am1DSFRxX2FTUlZBNnIwZXE1WHV6Z0dvNjR5d3IyX21qS3dlUTQ1WFg0QjdYcnNWU0dnTktfUldUQTTSAaQBQVVfeXFMUFYzLTNYOUFwSVlaUWw4SkdaR3BEeVltcS1sRm5JbWZiREN0TGV3RHptd2JUOTJkY2s0UU9nNWpvbDZxZ2p1SGRJOEVfcEVTamJRQmdsUEQzZkprMl9palQ0YWhRenlTd25oZkNvRGg3VklORkhfM09sdHEybzJCTUlnTWZIM2J1SmFLSFJHMUdjamlkaUNma0g2blhsWGlFQ0pYcEU?oc=5",
+      "published": "2026-09-15T10:00:00+00:00",
+      "publisher": "MIT Technology Review",
+      "summary": "What’s at stake in AI’s trillion-dollar gamble &nbsp;&nbsp; MIT Technology Review",
+      "query": "AI capital expenditure hyperscalers",
+      "source_api": "google_news_rss",
+      "tags": [
+        "mna"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "What’s happening this week in economics? - Deloitte",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcV9VYnV0R0RPcWN0d2g1SHJIVlNmaVA1TV9nXzRKdVlFcWtSMjQ1T1B0djE4dDNRanZvSVFGX0ZBNUd6cnZkVnAtenFuMnFzdU9zYzg5cFdkTVRxU1F5YVVXVFhVWGdhd2RsTDBkNS1Xcm9ub1FnMFp5NnB3WVBYa3JJa1FVbG5IT0ZRRHphTUhtNThkenVJS1ZrdWNDdw?oc=5",
+      "published": "2026-09-15T07:00:00+00:00",
+      "publisher": "Deloitte",
+      "summary": "What’s happening this week in economics? &nbsp;&nbsp; Deloitte",
+      "query": "global recession risk outlook",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Oil Prices Surge Past US$100/b Amid Middle East Attacks - mexicobusiness.news",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNFFKWXVEYTVRaVhCTXVpTmxBWmJJRFFXS0x1Wjc5RmJfLWluYzhkS2tKTkN4QmVCSTJqNlVTdVlrZ2c0YmN1Vy1MQVp4UklZUXFSNE5UclUyaXJkSEZUVWRiMFdXeHRjbTUxQVFXTjhfRkM1czZjR2xFa2RUTTA0RV90ZHdvd1hBZm9IM293NHFXbTQwRkx4Y21meHY?oc=5",
+      "published": "2026-09-14T19:16:22+00:00",
+      "publisher": "mexicobusiness.news",
+      "summary": "Oil Prices Surge Past US$100/b Amid Middle East Attacks &nbsp;&nbsp; mexicobusiness.news",
+      "query": "oil price forecast OPEC",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "positive"
+    },
+    {
+      "title": "The U.S. economy faces mounting headwinds. Here are the biggest risks. - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9QakUtQzNvVVFQV3NVbFZWQy16QzBQM2RxbnU2RnJvdE9CT1VPUDlXeEQ1Q2ltelp1b0VSSDJ2VVM5X1NuMnRxRVpBMjVtMmJzRmc5clBKRlowWTFfSnpmM3o1LTVTYm1LcDkw?oc=5",
+      "published": "2026-09-14T17:48:50+00:00",
+      "publisher": "CBS News",
+      "summary": "The U.S. economy faces mounting headwinds. Here are the biggest risks. &nbsp;&nbsp; CBS News",
+      "query": "global recession risk outlook",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Daily: Stock outlook remains constructive - UBS",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQeC1nR3hsOG95eGRsMXQ5Z3lNMjdCOXgwRjU3a0F0U254SXNwNHYwamEtNE1NWDM2Ql9pYWVLWkZfN2xYMktrZm5zcjRnMzNPWWJQLUViN1czeXN2Ym02X3pxaWhfc0FpSHpnSG9KeFpSWjFtbEhOMFZDaGxrS1Uwek4waGxDZkZxM05LTS1tcFVGM1VSdVBWamY0SXN4TktuYXR5bnRDOHRJdjJjSlNQaWZIc2RkMnZNaFZJekpkUQ?oc=5",
+      "published": "2026-09-14T10:26:40+00:00",
+      "publisher": "UBS",
+      "summary": "Daily: Stock outlook remains constructive &nbsp;&nbsp; UBS",
+      "query": "global recession risk outlook",
+      "source_api": "google_news_rss",
+      "tags": [
+        "guidance"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Fund Selection — September 2026 - Professional Wealth Management",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAyQndyUF96RmFWX0g1WHpuZHUxaVNpNTJUM3ZlOFA5bUc1VmcwNElvU2drTVBjODZFUEF3RjVDN0k0dlFBRDYzWHo4U2pMQXFuTHY4MFk2SjFnREVUdmE5czg2dDNSUXNMY0Job0RXck5BOWtJZEE?oc=5",
+      "published": "2026-09-14T09:36:37+00:00",
+      "publisher": "Professional Wealth Management",
+      "summary": "Fund Selection — September 2026 &nbsp;&nbsp; Professional Wealth Management",
+      "query": "US dollar strength emerging markets",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Why the Odds of a US Fed Interest Rate Hike Just Shot Higher - Morningstar",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTzBZZlkwZWhpeGhFSmpPNzc3eGVJdl90Zk1PTXVmV3VpM1lwcFpnZTY5ckV3NmhrekJGendHSEpTYzNkZlMyUXF1M21jTHNUNWhIV3c3U1hHcnF0X3ZNSkNZSnBiV200b3R5WVZVb3A2NkN5N19lUWpjUTVGNF9vVjczNmlQQ1BVVUpiSXNIYUV0R3R3SDVxZXdUbng?oc=5",
+      "published": "2026-09-14T09:19:25+00:00",
+      "publisher": "Morningstar",
+      "summary": "Why the Odds of a US Fed Interest Rate Hike Just Shot Higher &nbsp;&nbsp; Morningstar",
+      "query": "Federal Reserve interest rate decision",
+      "source_api": "google_news_rss",
+      "tags": [
+        "macro"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Weekly market commentary - BlackRock",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORkJPa3I0ekJyVEI0RFJhY210TmplVHJZQ0xJNy1qenNkc0lMMHk0TmZwdDV1TEVZNmJoV3dfVlNTT3UyZHE5Q01SdmQ4eDd4WjAzZVhFMFB3VUd5QjlYXzZ5MWFRYzdIQVRVM1JMZXNyQ05aTExrejM4cHdBSktKSlJOOWxkY0V4YkNRRDZZTzlDZUYzZHlUWXdhTFUxNXJSNXc?oc=5",
+      "published": "2026-09-14T07:00:00+00:00",
+      "publisher": "BlackRock",
+      "summary": "Weekly market commentary &nbsp;&nbsp; BlackRock",
+      "query": "US dollar strength emerging markets",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Week Ahead for FX, Bonds: All Eyes on Fed Rate Decision - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOT2FWUnZ2OXJzNkR6VEpTYXhoMDZ2Mm1VYkZ3N1NCT051SHk2S1FxbnNIcGtBam1pNGN5M2lCazQwMFV5UHBNQUVERTVyTHd5VmFHaXBmRWdRVG9IY0gzWWNkT1Q5cXl3VUw2eVFkeVc2ZVA2R1JTcnA0NE5BU1BjUWI2dTVTMXQ0cURjTGw0N0t3cERhdnNfMHlvbW80MGZ5aVhRRWFZX3Fadw?oc=5",
+      "published": "2026-09-11T07:00:00+00:00",
+      "publisher": "WSJ",
+      "summary": "Week Ahead for FX, Bonds: All Eyes on Fed Rate Decision &nbsp;&nbsp; WSJ",
+      "query": "Federal Reserve interest rate decision",
+      "source_api": "google_news_rss",
+      "tags": [
+        "macro"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Inflation persisted in August, potentially locking in a Fed interest rate hike - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE45NWtYSmQ5R05raVhQakVkMUdmLWJVTmlCR0R3WWZBbmVsVVQ3SEpnS181Wk5qRUt1cWJhelI4cEZtUDVwb0c5U2dNN0hiZVd0NkdQU1Y0SWRrMlJnQjlXZ1BtdlBHbzF2WkswVFhUVTNXQ3dkcmc5WtIBfkFVX3lxTE9FQ0o0emFuVFUxWFIyNEpyaXpvaS0wVVlydUtLSHhBVDh1blJ6LTdreGozdjZjdmo5eXF5cFdYc05xQjFCMVhnQzFMRkpJVkk2VWwzUlJ3a3F6bjZXTEt4dW1aUDdEWFdHek9FSTVUVTAxdmNSVk8xa0dUMXk5dw?oc=5",
+      "published": "2026-09-11T07:00:00+00:00",
+      "publisher": "CNBC",
+      "summary": "Inflation persisted in August, potentially locking in a Fed interest rate hike &nbsp;&nbsp; CNBC",
+      "query": "US inflation CPI report",
+      "source_api": "google_news_rss",
+      "tags": [
+        "macro"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "August Inflation Data Keeps a September Rate Hike in Play: What to Know - Kiplinger",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVi05d0VzY0dJVGVwZXJ4WHA5V05ZLXZiVVhEZy1oSENmeGxTVUdRcEZNVmpZb1g1aVk3ZW1MU05KRW1ZamRKZHZtTEJ1QXA3Ym9TQjY3RGViam9UV2o0b0lETk9hN2hSWUN4UWlxRGdVZU9GSzZLN1dzVjFua3AwdlVLZ0RNcjNx?oc=5",
+      "published": "2026-09-11T07:00:00+00:00",
+      "publisher": "Kiplinger",
+      "summary": "August Inflation Data Keeps a September Rate Hike in Play: What to Know &nbsp;&nbsp; Kiplinger",
+      "query": "US inflation CPI report",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "macro"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "August CPI Report Shows Inflation at a 3.4% Annual Rate, Above Forecasts - Morningstar",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSldHc3B3Vjl3aTBHWk9rSEdpVzZZZnI2Uy1yOFh0UmhGZERqWlNWQ1FNcGVSZTFYeS1YMHMzMEpWZ2pwaUJkLVdZbF9CTkhBQkFaR2N0MW1SSUpieHRSU0NwYjBCdGVPZkJlMHhMd0xqbkxtT3BZVTF4M2dTNDAyb2xNdklvTHpxZmlkcGpKbU4tMGo1bFVZNUpPQWt5Yi1JMGc?oc=5",
+      "published": "2026-09-11T07:00:00+00:00",
+      "publisher": "Morningstar",
+      "summary": "August CPI Report Shows Inflation at a 3.4% Annual Rate, Above Forecasts &nbsp;&nbsp; Morningstar",
+      "query": "US inflation CPI report",
+      "source_api": "google_news_rss",
+      "tags": [
+        "guidance",
+        "macro"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Inflation ticked up in August, setting the stage for the Fed to hike interest rates - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWm44cERNRk96Tm5Mc3JwMzZKLUJFYzctbDFTLUZqRFJRbTM2N1hjOXIzZzlFWnJtSlFRcDRZZzhjQWQyM1lyR0ZHSUhJLTJ2Z3JiVG84d0E3d25IYndacXR4MHllaGtCTUhYNUhZT0xiTjdJZ0NNa2gtZGZ0d3ZTUmowQ0R1RGxnRUVGMzZodlo1X2txUk5PeUZjSjBOUQ?oc=5",
+      "published": "2026-09-11T07:00:00+00:00",
+      "publisher": "NBC News",
+      "summary": "Inflation ticked up in August, setting the stage for the Fed to hike interest rates &nbsp;&nbsp; NBC News",
+      "query": "US inflation CPI report",
+      "source_api": "google_news_rss",
+      "tags": [
+        "macro"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Inflation stayed hot in August with annual pace of 3.4%, raising the odds of a Fed hike - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5LTU1TOTRNdWpDME5UU2d4Rm44aDB0a1ptLVVSMjNzWUlmRjc0N1p2UlNVVU1IVHZxWWhBWEtQUHpCcVhzU3pha1BEWXk0U3l0VkVKQjJ2VzY3Ylhsek5id2tBN2tsN2NMQmQtR1M5MkdXRnR6VHc?oc=5",
+      "published": "2026-09-11T07:00:00+00:00",
+      "publisher": "CBS News",
+      "summary": "Inflation stayed hot in August with annual pace of 3.4%, raising the odds of a Fed hike &nbsp;&nbsp; CBS News",
+      "query": "US inflation CPI report",
+      "source_api": "google_news_rss",
+      "tags": [
+        "macro"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "CPI report: Prices rose 3.4% in August, matching inflation expectations and raising Fed rate hike odds - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPaFNGYVlleDVEU0pzWjREM01pVFgtNXV2YUY3WEZ3UTMzWFNra1YteGM2NFd3cXFPeFdZNE1YQ3VwTjlXbENSU2x1a21OU3lNQ0Vvd29OZHZDSFhvdjE4d2MtcERuSUZUaGtuQzRMOGZnRWJ2c2dlQXFuSndQbmFaZGFzWFZTd1JwUnliM3Y3VjVFREFqQy1WTHYtb2d5NUlmOE14bkNqQzI5ZzVrc0hYbnZDTnk3TXBXSkdXUGZSd1l4NkxPYjZpZXY3Z1BfaHNNczUzNEpsQnVaMGNBdGttNHQ0SFktR0Npd2pF?oc=5",
+      "published": "2026-09-11T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "CPI report: Prices rose 3.4% in August, matching inflation expectations and raising Fed rate hike odds &nbsp;&nbsp; Yahoo Finance",
+      "query": "US inflation CPI report",
+      "source_api": "google_news_rss",
+      "tags": [
+        "macro"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Here Are the Key Takeaways From the US CPI Report for August - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcjg4RDZyMlFtTVZsVEVmRC1EQ0dXRi05RkdBNVNIZjlBT1h6cGtMVzhQUk5Ka0lHQTNjTVlZUTY0eGREVTB1UDhQX3NkcVVKS012bTJpQzZZek9lRFF6LXlfNVAySFB4LWxvb1UtM2U3SE1SRFZfVEQ2S09mNDdvMHNzOUVPVDNWdGtidm9kYkphMzZUcnB0aGN4ZzlSRzQ3NnZFSjluNllBMkhOd3NlZHllTWRMVTBYYUw3dllDUmFYZw?oc=5",
+      "published": "2026-09-11T07:00:00+00:00",
+      "publisher": "Bloomberg.com",
+      "summary": "Here Are the Key Takeaways From the US CPI Report for August &nbsp;&nbsp; Bloomberg.com",
+      "query": "US inflation CPI report",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Countdown to CPI report: What the inflation data could mean for Fed rate hikes - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPS2FaOUd5d2NpdmY0S09nRWtmN3ZnbDBqUXZFT1dWSVdkdk1PaERuaE9CQ09SaUtEZi1LWENMX1hxdXhwQXV1Tm1XbXczdXJzR2MybXlXTEgya2JObE9jS0RjODNCMGYwUlFwZjl4WVBJMVJlUXpqYTl4ay1QNjRTQXZNZ3JISFdyY01DUHBLMWNWSVJhTlB1TzRSci1EN2dkT2V6bDNpdGxJNTE5MmwyS0JiVXRKdnpPZ1BjOQ?oc=5",
+      "published": "2026-09-11T07:00:00+00:00",
+      "publisher": "CNBC",
+      "summary": "Countdown to CPI report: What the inflation data could mean for Fed rate hikes &nbsp;&nbsp; CNBC",
+      "query": "US inflation CPI report",
+      "source_api": "google_news_rss",
+      "tags": [
+        "macro"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Firm Inflation Reading Pushes Fed Closer to a Rate Increase - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5YeGlveWlreGUwUGJJNVh0d3A3OEl6UG9CLWJhdGtoWGVjNFl1MEpuMC1jelBXRmVjOS1TYTJDV1JOV0JpYld5Z0lmWHQ5M0l6QWJ2T3lDSWUyQWNfSjBZbG83ZVdNdkt3dlRwSnBVN3BuV2NIOHFqYw?oc=5",
+      "published": "2026-09-11T07:00:00+00:00",
+      "publisher": "WSJ",
+      "summary": "Firm Inflation Reading Pushes Fed Closer to a Rate Increase &nbsp;&nbsp; WSJ",
+      "query": "US inflation CPI report",
+      "source_api": "google_news_rss",
+      "tags": [
+        "macro"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "CPI inflation rose 0.4% in August 2026, annual inflation at 3.4% - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9SdzdZUUVTRm1YUi12VzQ1QTh6TGhwbDFKa1NNLXZwMTJHNVFKOHo4cVI2Z01qV1o1X1h6cjE1YlJTMmtSeVhZU1BzMDVfeWdoVjZ6dkl3M3RTUHZ5RXRYZzQ4MzV6MnhzbDQ5OHlvYjl6NmsybjBGUEl5d0g?oc=5",
+      "published": "2026-09-11T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "CPI inflation rose 0.4% in August 2026, annual inflation at 3.4% &nbsp;&nbsp; Yahoo Finance",
+      "query": "US inflation CPI report",
+      "source_api": "google_news_rss",
+      "tags": [
+        "macro"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Here’s the inflation breakdown for August 2026 — in one chart - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5zNzhBSkh6SjhkTHBVOHVDVjlPaDZDZkg4Nl94c3Y3X0s1X2RQX1NGLS1OWl9VdGJvaTQ2QjBQSDZMdHpBbEF6dV9ELWtFVktxUVh3TVRhZjl0ejRWMzMwbDR0MzFaamlTOXRBQ0dmcHEwZ1JCRmFld1ZGZUXSAYIBQVVfeXFMUGlsMXdZeGowTl9pZ2lEdDcwUUxOVmk2MGxLSWpZYmJYNXZ4dmFLczhQZEtNWDlxTm1qSXo1YTdDY3ctSVVjMXNadVdicUw0NzlYT2hJMG1UbVRHSWcyQUdKSjBWUUFPTmpWLUNWNW5yNDJ2SU82bU9lZV9fdllVYlZnQQ?oc=5",
+      "published": "2026-09-11T07:00:00+00:00",
+      "publisher": "CNBC",
+      "summary": "Here’s the inflation breakdown for August 2026 — in one chart &nbsp;&nbsp; CNBC",
+      "query": "US inflation CPI report",
+      "source_api": "google_news_rss",
+      "tags": [
+        "macro"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Oil Market Report - September 2026 – Analysis - IEA – International Energy Agency",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5jWEZRRHY5TzNLRUc3XzRpRjBJTDItMUllOENKTUdOZV9mNjNwWDh5dUZSSWY3Y2duTkFHZmxJTlB1V1o2M0NwaWJSTExjdUptS254Y19KZmxFY1oxbDNQeHpaYjR6bFBpdFFLTg?oc=5",
+      "published": "2026-09-11T07:00:00+00:00",
+      "publisher": "IEA – International Energy Agency",
+      "summary": "Oil Market Report - September 2026 – Analysis &nbsp;&nbsp; IEA – International Energy Agency",
+      "query": "oil price forecast OPEC",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Global Outlook: Resilience to continue into 2027, but the risks are building - Oxford Economics",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNU25reEE1bmhjd1lzUDJ5SnNybkVSQlVXZU5ocjdXSWwzM0N2UTNMbFJhbmJVUElVME9CRndfSGpQWEFwRTZaWDJHa2tiVWNjcjI3Y3RkdDJacF9LVzMySVVDUXJUNEg4MEtnOUs1dWpDdXJ6VHczNTViNVBPWWd5OS13OXJTOFpJeW5PRGxfUl9UYWQ2NzY3djVVTVl1QUtxb1E?oc=5",
+      "published": "2026-09-10T09:49:06+00:00",
+      "publisher": "Oxford Economics",
+      "summary": "Global Outlook: Resilience to continue into 2027, but the risks are building &nbsp;&nbsp; Oxford Economics",
+      "query": "global recession risk outlook",
+      "source_api": "google_news_rss",
+      "tags": [
+        "guidance"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "COMMENTARY: US CPI, where the significant and the silly collide - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSmhLc3dLcnJOclBhYjVoYmZrWG5RRHBzQ1VramVqZmxoczVpUXBIQndSRWIzTGhBUW5lV3d5eGhrTEZRZTB6WkhpcDAyaEtRaHVIRXdXOW9SVFVnN2NoMThjN2I4NWtVYU9obGo4elJHZTRLbzdYUlhWZGV1TUNyTTU3VDJrUlRmRTRkNndKREdoSzBBVnFVV2pzejUwMXdvU21aOUtKaUQ?oc=5",
+      "published": "2026-09-10T07:00:00+00:00",
+      "publisher": "Reuters",
+      "summary": "COMMENTARY: US CPI, where the significant and the silly collide &nbsp;&nbsp; Reuters",
+      "query": "US inflation CPI report",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "The CPI report arrives tomorrow. It could determine whether the Fed hikes rates next week. - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE42M1BqZk9GWEg5c2JPeXdqUlM2N2pTWVhhX0dXUjJ0RkpXNjVyWExpblFYeE1LcHRKWWE5MXJoUTBmcU9kWmVQY0dqY1RteGZIMXo2TmN5T3RoSDFSWnhfR3BucTBxbE5PdzFfaHl3?oc=5",
+      "published": "2026-09-10T07:00:00+00:00",
+      "publisher": "CBS News",
+      "summary": "The CPI report arrives tomorrow. It could determine whether the Fed hikes rates next week. &nbsp;&nbsp; CBS News",
+      "query": "US inflation CPI report",
+      "source_api": "google_news_rss",
+      "tags": [
+        "macro"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "China’s AI models aren’t proof that US chip controls have failed - East Asia Forum",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUE9QdVRJTHdPbXQtN2NHMTJUcVRHcW9EUGZlRTQ5Y3FabVNHWnZaLUN0aV9JaUlFcWQ2R3VpZ25PbUs4R2NRMExBMmpTR00xcHd3RFFHMnpKWmJpenhnazNpOWp2dTVpejlfQ3dpeFl2d0g1OERvMUpRcVFTTEw0eHF6VnJMQ3RRVW5pZ3BkMmRPSlFCN3U4VGxDQWM5OGNxY3c?oc=5",
+      "published": "2026-09-10T07:00:00+00:00",
+      "publisher": "East Asia Forum",
+      "summary": "China’s AI models aren’t proof that US chip controls have failed &nbsp;&nbsp; East Asia Forum",
+      "query": "semiconductor export controls China",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Asia Fixed Income Investment Outlook – Quarterly Update - invesco.com",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUkhRM3NFRmRjXzk1VXE5czZXOEVXWUlNcDlhWnpsOEZxTFBQODZ0eWtiaUpyXzNMczFMMUp2MG81Z1loV0JxWlpmZ3k5Vl83bERCSU9tSVlRdmJzSGE5WHJEQXNkdmozQ1B5TWNZRGJaVjVTZ1RqVFRQVEdld0g1SnJXcXJKMlJFX0xrV0FCUkNEakJjXzFEcXNvU1ZuWGdyOVE?oc=5",
+      "published": "2026-09-10T07:00:00+00:00",
+      "publisher": "invesco.com",
+      "summary": "Asia Fixed Income Investment Outlook – Quarterly Update &nbsp;&nbsp; invesco.com",
+      "query": "US dollar strength emerging markets",
+      "source_api": "google_news_rss",
+      "tags": [
+        "guidance"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "OPEC Lowers 2026 Global Oil Demand Outlook Amid High Energy Prices - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbUE2c2RwME9ZYkQtQlpoVXItOTFfM0hzQXdHMWhrLVdzZ1ljeW5MdkN1NlZNZEFaeFRBZFVmM0luZDY5c3ZMX05JUjdieW5IeWV2T3JYNVVYR3ZTZmphT2tldlBBMGJ3dnJHMUJYTXZNeDZ0ajMwdzg1blpYMThpZjc2dXlUOUt4VnNJUg?oc=5",
+      "published": "2026-09-10T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "OPEC Lowers 2026 Global Oil Demand Outlook Amid High Energy Prices &nbsp;&nbsp; Yahoo Finance",
+      "query": "oil price forecast OPEC",
+      "source_api": "google_news_rss",
+      "tags": [
+        "guidance",
+        "demand"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Fed's interest rate decision may come down to hair-splitting inflation data - Axios",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB1Zk9ZOFJXWEpFRVhVMENrSFVkam5jdGtkVzE3Q1hPcXlRMkJwNDJCZkpucVc3SXQ4VjBiTjZpWC1sMTFzWHRUeGRZWGIwaC1iNDAyYjIzckgyM19nSURkWEk2cC1OSkEzZEFROWJsTQ?oc=5",
+      "published": "2026-09-09T07:00:00+00:00",
+      "publisher": "Axios",
+      "summary": "Fed's interest rate decision may come down to hair-splitting inflation data &nbsp;&nbsp; Axios",
+      "query": "Federal Reserve interest rate decision",
+      "source_api": "google_news_rss",
+      "tags": [
+        "macro"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "August CPI Seen Cooling, but Will It Prevent a Fed Rate Hike? - Morningstar",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTjZmcGNFb2ZSUi1zVXJrenkxVXlhVENBcUxCZi1mSDRvczhqSDdGdGtVenpPWDlGSjlYWkVWNWNZZDVlU1lWS1U5S3VxM180Y0RNOEtiX0RoQy1ETHU5Sm9fblcxc1h1cC1uNFBHakF4MS1adjZfM3VxSjFsOHQ4cWowYWJ4d3d5cHZvZnhzMExCVVE?oc=5",
+      "published": "2026-09-09T07:00:00+00:00",
+      "publisher": "Morningstar",
+      "summary": "August CPI Seen Cooling, but Will It Prevent a Fed Rate Hike? &nbsp;&nbsp; Morningstar",
+      "query": "US inflation CPI report",
+      "source_api": "google_news_rss",
+      "tags": [
+        "macro"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Covert Compute - C4ADS",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9DanQ4Wmh4ZlFObHRJVEF2V1g3dWZOS09hMDVwWi1Sczd1NHpRTjlLLW5ndHlic3JTRW81VTRNTXdwLWxKTXFHU1ZGNDdPei1jcTFv?oc=5",
+      "published": "2026-09-09T07:00:00+00:00",
+      "publisher": "C4ADS",
+      "summary": "Covert Compute &nbsp;&nbsp; C4ADS",
+      "query": "semiconductor export controls China",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Bond selloff: What has been causing it and what to know - Fidelity Investments",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPbWtQaVR4LUdVRTgxRV9vejN3NUEtYmFrVkFObndIUjFFY3RvQ0x3eENmcXYwbzAwb2JYRERKd3lIX1ItZ2Y5U2loLUtKZ1NMeVhmVFIwZ20ybXJXNnZCU2t6T1Z6YjJFV0RNYURfTmVNbGFEU01uTnBNWHVOdzdrN3Zn?oc=5",
+      "published": "2026-09-09T07:00:00+00:00",
+      "publisher": "Fidelity Investments",
+      "summary": "Bond selloff: What has been causing it and what to know &nbsp;&nbsp; Fidelity Investments",
+      "query": "global recession risk outlook",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "US chip controls were designed to slow China — semiconductor exports just rose 130% - Martin Cid Magazine",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBQNUZHcjUtaVpYNnBJWlRNUWZPQXZnZ1dJU3I0VWRnUV96MVBuLTVQbGtSZ0IwMUpkSHVXaFBDN1BKYmIxUHBCMlliMi1FRjF2WnJoRHhWSW90bklXc3BEcEVIbzNJN3J2WmpxNnhYblN2bjJHZEU4SVBsY3kxVTA?oc=5",
+      "published": "2026-09-08T16:31:57+00:00",
+      "publisher": "Martin Cid Magazine",
+      "summary": "US chip controls were designed to slow China — semiconductor exports just rose 130% &nbsp;&nbsp; Martin Cid Magazine",
+      "query": "semiconductor export controls China",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Japan protests as China slaps new measures against its exports of a key chipmaking material - ABC News - Breaking News, Latest News and Videos",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOM3dOT0J2c3NGSG52OGZ3SXJScE1ZSXJwdnFpZFhLQnlwdmRxek50M2FLS29fZ3FnYkl3dXNMM3JEZjJUenlHcUlrakp1azB2dTdpU1BCM045Nkt4c1lQdGR1LWc4Sm9fajVCdVliR3dJODhxX21kSkVJTG1LZWtGci1NUlhkYnZrd1dabHJIUVgxR2xGeGdnQzdXdGNMVnMtY01PStIBqgFBVV95cUxOdG9SZGc5MzViWVZNUE0tWkhhenFCdDlFR19yX0lxRnBubW15T0tldlJvRlNxUzJvc1NXT29aYlVUTGhPXzQ1bWpkUmgxSXloTy1CTHp2bGd2SFJTbXo3WlJ3VkJMeGVGb1lrOE9yTjdkdmg5QW81QW5wNGV0bXZneVdOejRXOEZXX2RzaUlaU2NSenJEZ1YzNW5uczMyZjNaZEJ4ZWxLaXNEZw?oc=5",
+      "published": "2026-09-08T07:00:00+00:00",
+      "publisher": "ABC News - Breaking News, Latest News and Videos",
+      "summary": "Japan protests as China slaps new measures against its exports of a key chipmaking material &nbsp;&nbsp; ABC News - Breaking News, Latest News and Videos",
+      "query": "semiconductor export controls China",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "US Market Pulse September 2026 - Goldman Sachs Asset Management",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9KMEdjQUdsUmJtNWdoa0ZPYnZkYVJnOXJRa0RqM0xuT0lWZkZ4NlpVcC1aeGU3NjY0RmpZYmh4am1OelZGcHFnYVFIcmRLTXFBZV9YZ28wNHNHUWJKNXBPZ01MMmQxOHRuVmtydnhNWQ?oc=5",
+      "published": "2026-09-08T07:00:00+00:00",
+      "publisher": "Goldman Sachs Asset Management",
+      "summary": "US Market Pulse September 2026 &nbsp;&nbsp; Goldman Sachs Asset Management",
+      "query": "global recession risk outlook",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "\"AI Makes It to the Summit Table\" Intensifying U.S.-China AI Supremacy Battle Poised for Head-On Clash Over 'Unauthorized Distillation vs. Semiconductor Export Controls' - economy.ac",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9HVnlLVk5xSEVNNXhSSmJ5ZnVGTlVuTmFSZVdSdW1IRnVSUlNWQ1ppdUtsM3o1d3lPbFN3N2VtVGkwdUVRemV0YWhOQ2dPQVp0MGhReENVYw?oc=5",
+      "published": "2026-09-08T03:12:19+00:00",
+      "publisher": "economy.ac",
+      "summary": "\"AI Makes It to the Summit Table\" Intensifying U.S.-China AI Supremacy Battle Poised for Head-On Clash Over 'Unauthorized Distillation vs. Semiconductor Export Controls' &nbsp;&nbsp; economy.ac",
+      "query": "semiconductor export controls China",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Emerging-Market Local-Currency Debt Is A Diversifier Investors Keep Overlooking - forbes.com",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOWXgyTExmaE9wWHBGT2tDVlA4QjZBWU9nOWxWWmIzTkNHMFRndGNQOVhHc2hVQVhGT0tWZ0s2TUVpLTZud3pTRExUSHFYeDhzbDlTRk81MzFjYmQzd1JLbUpmUFZHM0N1LTh2bFA3S2dtSmVwUExUQTFpR283dXd3N1RybUtQLWpsSW9ZWllzNHBfRUxwSnZHaXJNTktveVRkcllLTW44SnJRWENpX2Q1cmZLSWdJRDdfR2xrNWh2WkktZXhRMTdBYg?oc=5",
+      "published": "2026-09-07T07:00:00+00:00",
+      "publisher": "forbes.com",
+      "summary": "Emerging-Market Local-Currency Debt Is A Diversifier Investors Keep Overlooking &nbsp;&nbsp; forbes.com",
+      "query": "US dollar strength emerging markets",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Wall St Week Ahead Investors to pore over inflation data for signals on rate trajectory - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSm4tQk9RbVZZMU1qVTF1Z3hxMmlDUjZwby1vWTlJdUstalo4WGdNVFB1UTZhMlhmZjRKN2pZcTNsLUlTWGZJYzJWTXpqODV3WU9xVjJaNkNramNSa25ROW1NU3ZnMm1Ma3ZidFQxQWhrODM4VFFkV2lsRzEzcTNhRnl4R3pOc0FCbEFmRHNLYlU3bFpTTWN2X0k2dDZsUnpyaWVVZzEwWTBjNnNwbHUtd2tNLVJ1Mm9TazhrZENISQ?oc=5",
+      "published": "2026-09-06T07:00:00+00:00",
+      "publisher": "Reuters",
+      "summary": "Wall St Week Ahead Investors to pore over inflation data for signals on rate trajectory &nbsp;&nbsp; Reuters",
+      "query": "US inflation CPI report",
+      "source_api": "google_news_rss",
+      "tags": [
+        "macro"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "6 Hyperscalers Driving the AI Revolution Are Projected to Spend $1.3 Trillion on Capex in 2027. Only 1 Is Forecast to Have Positive Free Cash Flow. - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPT3djVlN3UUlEb3FRbzlud3hZRjZXRkVZRUVqUVZ0M0QtNDBROUtSNTU2bTlrU25iSWM2ZnV4T05ZUVFYa0t1TlBkZXhPb3pkY3N1QWVyc3BpYVQ5VDZkRVhMZXBwWk9MRERYRThhMmUyYWxrMmhGaTllSENybXVOM2tCRWVPVUpHVlE?oc=5",
+      "published": "2026-09-06T07:00:00+00:00",
+      "publisher": "The Motley Fool",
+      "summary": "6 Hyperscalers Driving the AI Revolution Are Projected to Spend $1.3 Trillion on Capex in 2027. Only 1 Is Forecast to Have Positive Free Cash Flow. &nbsp;&nbsp; The Motley Fool",
+      "query": "AI capital expenditure hyperscalers",
+      "source_api": "google_news_rss",
+      "tags": [
+        "guidance",
+        "capacity"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "US, Japan race to secure chip-grade minerals as China curbs exports - Asia Times",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNb2YwSEt3NmlHNnpBNGxZYXRPdEFrQ080NzhQa29EWGx5WTVVVlMzTl84NmZwYXZTVFRrWEwyalhlSGdJNlI4ZnQySzZISXJWQzdVRmhTX0RnaHdrTnozNTU0NjlBbnlNdzFueExsRC1ZelUzRkpqdjRaYzZXWEFZT25xWjEtZkNUUDc1U0lrZVNZRFNwRkZXS1VxVGd0dw?oc=5",
+      "published": "2026-09-04T07:00:00+00:00",
+      "publisher": "Asia Times",
+      "summary": "US, Japan race to secure chip-grade minerals as China curbs exports &nbsp;&nbsp; Asia Times",
+      "query": "semiconductor export controls China",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Stock Market Under the Trump Administration: What is Driving Markets in 2026? - U.S. Bank",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcUowVHR1VXAzd0Zfamw1MkVSejFsRGo1bkdGdHhjNVBZVFdwU3VpcE5neGJOeWl6RmdQVkFsYlcxNEVTRGg3WHNYSGR1d1BpTjV4T2NqdWdER3ZtQ0RVbU40WTcyRXRaTEM5bFZteVlYNE5EYkM1M1BaR0lYTGlUeFlTeDhVMzRaWFFqZEZhcGc3RFJoZy1qZy1mTGViQQ?oc=5",
+      "published": "2026-09-04T07:00:00+00:00",
+      "publisher": "U.S. Bank",
+      "summary": "Stock Market Under the Trump Administration: What is Driving Markets in 2026? &nbsp;&nbsp; U.S. Bank",
+      "query": "global recession risk outlook",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory"
+      ],
+      "lean": "negative"
+    },
+    {
+      "title": "Attack the chokepoints: how years of US export curbs reshaped China’s tech scene - South China Morning Post",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQS0xoeE9pT21YOWVsYlZJcnZkSk1nRlFiTzdjWUM2VWhmeFZNZUxJZ1dYQXVVS3FCNnlGTEVtdHdsdXNYYzFsMkZlWVQzYjhzRGdIeEJmd3AzV3FZSFppeUcyWTZjWVh4Z1NrWVpKV1VfT0R5ZEpfdDZVWlRJcWQyRTVzUTJHR3NJeHFWQW1PX0E2RlltRDl6N2ZvZG10ZUtVQU43NUd3c0dQYTdJcFBLdm85QTZ4OGY1cU5ETDdUZ1NYeGRBaWfSAcYBQVVfeXFMT19nSy1vRHV0VXA4c3RsbFZlY0hyRHZsTVV5ajRFTzcxenAwVkxmei1KMHh6eXVPS0dpb1B4anJjM3lacmRNQjdmcVhqWUlPclVERm1KS0FhYTZ0VjhhRkJOd2hHYmxBYi1OalNlMzl3Nlk1VUN3Z3I0bXVDUnI1MFN2Y3cza3Q5WWlhVjU2Q1gtdHlCQVVjQ3Z0dWVYTzVlVlpBQmZ4SkJMVFVqaFdqcTZDTkw3ZGVWMnNRRjA3MHRkZHlxYkN3?oc=5",
+      "published": "2026-09-03T07:00:00+00:00",
+      "publisher": "South China Morning Post",
+      "summary": "Attack the chokepoints: how years of US export curbs reshaped China’s tech scene &nbsp;&nbsp; South China Morning Post",
+      "query": "semiconductor export controls China",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Where Does $100 of AI Capex Flow? Unpack Full AI Infrastructure Cost Chain - Moomoo",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPM01jVFd4alpzbWg0U283OTlPUmdpS3VPbmRpWnlRRWY3YW9NSVI0cWNBRnd6anhUdGUzdkkzakNOODRfVWpFcFpDQWpLMGVEUFp1aFBHcTlkTi1CdFpxd0lfSVhhRlJTSVFMZF9WM0o3OUhGeERTcUhHWGNhRzdEamhLOTRpNGxMZ0d1UFlWTWpUNHlhNUowV2Z3SGlOS2RuNWc?oc=5",
+      "published": "2026-09-03T07:00:00+00:00",
+      "publisher": "Moomoo",
+      "summary": "Where Does $100 of AI Capex Flow? Unpack Full AI Infrastructure Cost Chain &nbsp;&nbsp; Moomoo",
+      "query": "AI capital expenditure hyperscalers",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Where $31.6 trillion of capex flows in the era-defining AI build-out - PwC",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRGRHT0Jza0F0SmZCYXcyM0VWenN1VmtIMC0zYXZBR09fMGp3SlM4ZWZrRFhQU0kwRUFYZnU2U3ItVnk2MTVtMlVTUnh1bjF3amFXb0tzNVhvUEpodUFrUXhUbGN3Ymd2Nkg5V1BNdmxJMEdaRnVidnF6RmRzQkloOXJ2TWJHZXhPYlRv?oc=5",
+      "published": "2026-09-02T07:00:00+00:00",
+      "publisher": "PwC",
+      "summary": "Where $31.6 trillion of capex flows in the era-defining AI build-out &nbsp;&nbsp; PwC",
+      "query": "AI capital expenditure hyperscalers",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Why America's AI Boom Isn't an Industrial Boom - Time Magazine",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVWpHeWNtUWtNMFViaGpIcnRDR0xOWHVkdk82U2VKT1FnY3pNaUdWMTFZTzhJOS16akpSal9hX1ZYUHZlYjFUVFRsY204cGdhN1pwSnhlVFdTeDZPN09aVzdSMHNxb2hIUHAwQ3B3c21OTjZFYnJYU1o1eFVqUHRlRnNVRndnX3oxX3c0?oc=5",
+      "published": "2026-09-02T07:00:00+00:00",
+      "publisher": "Time Magazine",
+      "summary": "Why America's AI Boom Isn't an Industrial Boom &nbsp;&nbsp; Time Magazine",
+      "query": "AI capital expenditure hyperscalers",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Morgan Stanley Emerging Markets Domestic Debt Fund (EDD) Edges Higher to $5.80, Stuck Between $5.51 Support and $6.09 Resistance - Sign of Strength - CarePlus VietNam",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQenUzMG5DNVc3aEw5SnhiRk91eWlnX1VCSFRDbGJfT0FFNVVNRHhLWEFCZHRBbV9rVTdsVjZOR3hETkhLQ2Y5UFgwSnBDNFFHdy1MWWhxbndyeFc3WC03MmpEa2tJRGdmbGc4UkRUTjB5WjJyWV81a2o1WFVUcVBZcUZFaVBZTlItU21WWDZNNGQwRXJUbFBLMmlsOG9aUWVEYkVFS2xzN0R2bnJDZEhDSFB6elpFY1BqeHlDMUN5UVhZQjFEZkc3VzBpMEIzR1hJQ3ZXOU94S3RyZTNEVmpTTW0tenQ3ZEpReDdBNlQ0Ti1MMnF5WmFaQWpn?oc=5",
+      "published": "2026-09-02T07:00:00+00:00",
+      "publisher": "CarePlus VietNam",
+      "summary": "Morgan Stanley Emerging Markets Domestic Debt Fund (EDD) Edges Higher to $5.80, Stuck Between $5.51 Support and $6.09 Resistance - Sign of Strength &nbsp;&nbsp; CarePlus VietNam",
+      "query": "US dollar strength emerging markets",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Emerging markets investment insights and market outlook - UBS",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNnZJcXBockFJN2t0dHlObUVlRVdFd2k0MFFleVVVdjJLc3loS0dpalI1OTJGZnFjQW1RVmRGQnQxSzIyNmJ4akJ4QWM4WVpfMjE4NGdrM3BYbEFaVm1QbXJ5MjhuLUdBaHo3TEpkT252WU84NzJRc25Hb215YTBCckVibmNjcnBHdWYtSG5jWkFUaDVDYUxEWE9wMVdtYWM0bUo3R18yVUtmYnMxQ0h3bVFrMGc?oc=5",
+      "published": "2026-09-01T07:00:00+00:00",
+      "publisher": "UBS",
+      "summary": "Emerging markets investment insights and market outlook &nbsp;&nbsp; UBS",
+      "query": "US dollar strength emerging markets",
+      "source_api": "google_news_rss",
+      "tags": [
+        "guidance"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "2026 US Market Outlook: Stimulus Tailwinds, Tariff Risks, Mid-Cap Opportunities and AI Shifts - Markets Group",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxONzVVc0RQaTBzbFJZbS1HQ3Q3MnFTZW5pcmZoVmpfQlBwaXZSNTlKS0FVeHdRb3ZWNGhKdGtLaG1zTUhKYkY4OHU0TDBjeU03TUFmc1ZsdERqbzFKMDEzNjNpSnI0SS0td1hiNjJIdFlHTE5DRTlqaHBfZ2VNVUFLakZsV1BEWmpXRkU5UXg4TkVwTU56V2lvenpRQ0NzTHNBZDZVTng5MWgzRWVYeGtHei1lYXBIMjhIRHd2d0lNVE1ibEh5d2lFMHZQd01qVGpqRlRjaGFn?oc=5",
+      "published": "2026-09-01T07:00:00+00:00",
+      "publisher": "Markets Group",
+      "summary": "2026 US Market Outlook: Stimulus Tailwinds, Tariff Risks, Mid-Cap Opportunities and AI Shifts &nbsp;&nbsp; Markets Group",
+      "query": "US dollar strength emerging markets",
+      "source_api": "google_news_rss",
+      "tags": [
+        "guidance",
+        "regulatory",
+        "macro"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Dollar Breakout in Focus: Can Markets Hold Their Bullish Trend? - CryptoRank",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPMk8xYnNuNWZ2ZmtFT09sX1lwUnlaMkhYbjRpN3N6ZDV0VGYzbmU4UHp6d2d4ZE5CczA5eVBOTjhYLTlYQmtGV2RPcWJZTS0wZlBjQlRQcGlyNFRBNVpIUW1oU2k1UzRxQ2l4VEt6allSUkZXdTk2eU8xRGxYOWVNRw?oc=5",
+      "published": "2026-09-01T07:00:00+00:00",
+      "publisher": "CryptoRank",
+      "summary": "Dollar Breakout in Focus: Can Markets Hold Their Bullish Trend? &nbsp;&nbsp; CryptoRank",
+      "query": "US dollar strength emerging markets",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Building Trade Ties with Japan’s Next Generation of Female Leaders: 2026 Program Recap - Asia Society",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVGZES0V3N0N2Wm5ydldoUXlMV0RJdGsxX1VoWWtwblVCY25EY3piczB3RVlXWTR1TGtQcnJodTBQdnNLajNOVHdVdy1jeEJuRHZ0RUd5MXJTMi1VUF8xT2ZFcUJQRWZGY2FBQ25aQ1lvNDJqX3R1cllGVGZ6N3RFdElCalNpX29Pb2NjX3NuUEd6TGM0MDg2TUZLTENlOUpJbjEzQ2ZkREdYaTI4WkJMQy03YzBhOFZh?oc=5",
+      "published": "2026-09-01T05:16:27+00:00",
+      "publisher": "Asia Society",
+      "summary": "Building Trade Ties with Japan’s Next Generation of Female Leaders: 2026 Program Recap &nbsp;&nbsp; Asia Society",
+      "query": "tariffs trade policy technology",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Easing credit risk masks a fragmented landscape - moodys.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaUxvWm9jdnFIUmgxR3A3UTIzM1EwRXB3VzAxZW5NWE83Rkh5OGRaOGxzdmtna2FJZ3lJaHBucFVxS1BJS2FCYVJRdzg3XzFGRndxcF8tQ1RRLVlET3ROWVRrQkdYTmM5VzBBSkNlSFV1d1VtQTFReDBGOUUzSUhicFotV2tMcFVkZnJ2dFBQaUJUREEybGFkREIxUUpvVXpmWFVwVFYwYjJaeE0?oc=5",
+      "published": "2026-08-31T07:00:00+00:00",
+      "publisher": "moodys.com",
+      "summary": "Easing credit risk masks a fragmented landscape &nbsp;&nbsp; moodys.com",
+      "query": "global recession risk outlook",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "September Fed decision is now a coin flip as rate hike odds increase post Warsh - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZWlrekRPMjZoeC1sSXNwR29MZy1pT0w2UTVRcC1JdjUzUTZDaTFkWi1DTVEtVlJzU1JHd3ZTMUhQLTBJMjV0cUU2MWdsRGphU0F3UE9NbGUtcFVUcE1FZGZFNjczSVN5WnM2NF9BUFhKUVRMbjhJMXQ1ZjhUMlhLV2xxOE04eEY1Z0F0am5qNXZacFRrQkJ2dDhnY3NNSWFfTUxCd3RR0gGrAUFVX3lxTE1iME12QXVKVkQ4QTJVSHg1WGpwd0cwZEZCQkt2eEdlQy12dldQUmpEZEp0bkFsVEJZTG1GRFRWSmJIbExpS3lSS3lYeHBEbzNKVWYyOU9SeW5pTUZNcGVMOUNFb3hya3lPaVFSVFh5TXp2SXJ2QjBkOS0wY3dvZzl1V21tQ2xXNUQ1R0VUWG9PWWo1M25aNG5ZdHNhSU9kNDVvOVVrOF80SXN3UQ?oc=5",
+      "published": "2026-08-28T07:00:00+00:00",
+      "publisher": "CNBC",
+      "summary": "September Fed decision is now a coin flip as rate hike odds increase post Warsh &nbsp;&nbsp; CNBC",
+      "query": "Federal Reserve interest rate decision",
+      "source_api": "google_news_rss",
+      "tags": [
+        "macro"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "New US export controls reportedly target Chinese access to remote AI servers — Trump admin's cut-down AI diffusion rule could be shared with industry as soon as September - tomshardware.com",
+      "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxNV3RGYmw3MU9Ua3ltUW91dXBjSURjWlhYcnIxZ3A0Nkx5cVJJUEZtam1hak8zazhDeS1jRExGYzhvcHVTUmNRT3AzV2JnVjh1R09GdUlRaXgwbElHdHdxRWZ3RUREbDVHSVpYVjZOVXV3SENsWFpqSG9PQ1h0b1dVT19CaEdhbHpDSklSbmRmNC1KeWJ3Z1ZtaFhWekhpY0pBTGFPSGtmbDFqenFNVmF2NThpNm9lMWtDdmU0UHFtcEhFUnRjTmw4U1RvdVFDWVdsNTZmcmljdGlMbHB6bmM4QUJ6OXJ3VlNabU04MmVzMlUtck52ZlhFdF9CTFI0aTVTU0xNQXpKVmlwMVEzdy1pYUhBb2YyZmFBY2NTTHBaR1lfM0RwQ3gwY0NGZHc2TVBTbzFqRXdFaFgtclVpTUE?oc=5",
+      "published": "2026-08-28T07:00:00+00:00",
+      "publisher": "tomshardware.com",
+      "summary": "New US export controls reportedly target Chinese access to remote AI servers — Trump admin's cut-down AI diffusion rule could be shared with industry as soon as September &nbsp;&nbsp; tomshardware.com",
+      "query": "semiconductor export controls China",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "AI Infrastructure Investment To Exceed $1.3 Trillion By 2027, S&P Global Ratings Says - PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQYzVuVjZ0MlBUZUN2dkpSaF9TbE1YbFFLeEYxSXVlVDBNZllZeldTU2lNMXZKRHk3Z1hwTUFPbVhpcFNCcEhadXh5VGt1YTRIODZnUjIwQzgxN2VzWk04amdlekVkeDk3Wmp0WTZLWnJNVXpERXh0bHo0WXgtZmJHNXhwdUxCbUI2bFpITDliQTBSQ1QzZ1F0LXRwR0UxUENRRDJaRmFCbFVQZjZVdk9jWWtYcE5jOTlqT2FJUHlzSllNUUItNEZmZnIxcDVsQ0c4ZE1RVWNR?oc=5",
+      "published": "2026-08-27T07:00:00+00:00",
+      "publisher": "PR Newswire",
+      "summary": "AI Infrastructure Investment To Exceed $1.3 Trillion By 2027, S&amp;P Global Ratings Says &nbsp;&nbsp; PR Newswire",
+      "query": "AI capital expenditure hyperscalers",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Another potential headache for US data centers — Trump tariffs - Politico",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdFRMNlNMVUdZcnBvbXI3cURKYmxzLXpUaGx2MFZHVGUzOHpIWXhVSkJ6RXE0VVJpeGJUakFUVUtyUDBKV0Zrd2VjUUZiN0pUd050Rk1QNVF0LWVSTVIzOEpGa2xPUWNtT29nUWU3eWlHeWY3Mzh0b19BdjdhcldDYzZHS25UMTBzOWJB?oc=5",
+      "published": "2026-08-27T07:00:00+00:00",
+      "publisher": "Politico",
+      "summary": "Another potential headache for US data centers — Trump tariffs &nbsp;&nbsp; Politico",
+      "query": "tariffs trade policy technology",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory",
+        "macro"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "AI industry says Trump plans to tax chips in the “single dumbest way imaginable” - Ars Technica",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNDBYdk5UNUdIeXBUcjJ6SmNmdzVjRzAyUmJYSGlXdnI4dVoxbnYtSE1sdThJSjB5LVZTLVpZemg5NDV4Znh6Q05Zc1RraDRhV0ZsWVZhSXlqYjJsYW9ueFFmdExsN1lUQ1pfU1FqdU5MU1NrVDNDUWZEZXBwRTc1XzlzcndqVElSQUd5ay1uWjVSOTRCV01QbE5qYS1NN196dkFRVlI5ZUhNYUNJcjBlSXdjOU02R1pHZmZzaUpZVjU?oc=5",
+      "published": "2026-08-27T07:00:00+00:00",
+      "publisher": "Ars Technica",
+      "summary": "AI industry says Trump plans to tax chips in the “single dumbest way imaginable” &nbsp;&nbsp; Ars Technica",
+      "query": "tariffs trade policy technology",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Opinion | This Is How the A.I. Debt Binge Sinks the Economy - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNMi03ZGR2NlpxVlEwcVRtdVhGQ3Q0MmZ4OXI1cklEWVhYZ3o3ejBpR2ZsbWZCRjRXS2RfQlBnVEF2UVBsVG95T2ZvXzVxWERObmZHeVlkNzNVcURtVThhN3p1VXlXY25oYWpfSlFiRHhBeUdpNE55SUtJNE9QQTBoaGV3?oc=5",
+      "published": "2026-08-26T07:00:00+00:00",
+      "publisher": "The New York Times",
+      "summary": "Opinion | This Is How the A.I. Debt Binge Sinks the Economy &nbsp;&nbsp; The New York Times",
+      "query": "AI capital expenditure hyperscalers",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Are US export controls on tech failing? - The International Institute for Strategic Studies",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNXzdiQXNNWDQ0aDRaWGQ4Vms0c0ZIYVVpZVNmZ2ZvNEMwVFVvLWE3VzBlQmpPS19Eamt5RW5icE1BYnB2czFjWjhXWU1BOG55R1BRSHhqODZTXzRIOGZjZnhOd0FPNGVxbTdpT3FwWEpoc0xaWUYzT0gwdFZqM0dUX3lnTjl1bllfM3ZINE5YaVZxVzVPcWlMTUtBQktzZlZSZ0E?oc=5",
+      "published": "2026-08-25T07:00:00+00:00",
+      "publisher": "The International Institute for Strategic Studies",
+      "summary": "Are US export controls on tech failing? &nbsp;&nbsp; The International Institute for Strategic Studies",
+      "query": "semiconductor export controls China",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Global Economics Intelligence executive summary (July 2026) - McKinsey & Company",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSmgzTkdja3YzVE1LaEtHbGFYak1oUU9Pei1CR1AwOW4wak5uY3hRQk0wb1o1SWhObGhxTUZDaEZqSUZ0TjdqUS1Ed3hwclZJRi1YV0RLQzZIY3paTzR3R2l0dkp5TkhLYVdXbm5NREhjc0lSazNjRmhJNlc4Y0Z5c2d0MWZ0WWNqNVhWRjFIRUdnWHJvaEYzdmp6NnV3cXd3bjdybm9EVTN4TEgwdUJsVA?oc=5",
+      "published": "2026-08-25T07:00:00+00:00",
+      "publisher": "McKinsey & Company",
+      "summary": "Global Economics Intelligence executive summary (July 2026) &nbsp;&nbsp; McKinsey & Company",
+      "query": "global recession risk outlook",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Dollar Debasement Frees Emerging-Markets Currencies From Treasuries’ Weight - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNOUVudFdmZWV1UzExWDZmai1zd0drOGNsdEpoNkI3c3d4NG1IekVHMVNBYndUb19ycGJqLVA1blZsQS1vZE00ZGJmc040bkJyWEdfNWFMemFjZVNtUlNaeDdVSnVJSHM0U0M5WEE5UGR3SjdjQ1lwaE9MWVNHcDVuSFEyVFA4R3FEMktXZnE0WE52aGhYSVY5OTNNZkMyNnM4ZEZqc01OaDR2ampiWGc?oc=5",
+      "published": "2026-08-25T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Dollar Debasement Frees Emerging-Markets Currencies From Treasuries’ Weight &nbsp;&nbsp; Yahoo Finance",
+      "query": "US dollar strength emerging markets",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "(USD) Dollar Debasement Frees EM Currencies From Treasuries’ Weight - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOb0VYTnBvbVYzOUxRbUFHTmlNLUMtMWtKUXk3NEpsLWs2T3owTkdkTjdNdmliMVBkX1FXR3l3RmUxTTZFalE5OWpLSG9oa2NDTU11TDZuNFVYV3BUMGlXWS1tcWFJTlhYQTZYUHRyZjdzQmtJU1VZVWlJQUEwZnZfbkQ2djcxSzI1TEVVdEw3WXVvRXNRWU4tSkpreVpPQTRpWGlqMkI4b29aSklBTkJVUQ?oc=5",
+      "published": "2026-08-25T07:00:00+00:00",
+      "publisher": "Bloomberg.com",
+      "summary": "(USD) Dollar Debasement Frees EM Currencies From Treasuries’ Weight &nbsp;&nbsp; Bloomberg.com",
+      "query": "US dollar strength emerging markets",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Explainer: The super peso is back — and it's starting to hurt - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOeXRQWGxKYTl0d29jd0dBLVJQbEFBSG03SUMwOEhsbGRjUG1sVV95TDFyZmpIWDRtV1d4X19zWGdHR3lRdmgwT1kwQnNWYVptOTkyd28xT1JYcmp5aXdybVNxLXBSeFVJY1RweFhOdUM5RWxHMmlqVnpTdHNpTnFNU3htZmlIZ0N6NnlZR09XR1U?oc=5",
+      "published": "2026-08-25T07:00:00+00:00",
+      "publisher": "Reuters",
+      "summary": "Explainer: The super peso is back — and it's starting to hurt &nbsp;&nbsp; Reuters",
+      "query": "US dollar strength emerging markets",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Taiwan issues indictments over alleged illegal export of AI servers to China - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORUFqODhsNEhfOVR2RWdNdXd1LVI2REthVUgzaU4zdXNIa2RlZmdSTXVwemR6ODVzUm1mMmtOZ0FRR3FEbVp6YWlTbDZmcm1nLTdQcFFkcWhVTTBvMkJ4dDh2blB2NkswdzZTbEFGWEZ2c3Nwam9aWXREYmhVR0wzQzdSdVoxUThYa0VrcFI4R0VKaWk2SDVFNmJUaVFuZ1Z2Nmhha21pSWxaRm1rQklZWm83aUNhbjg?oc=5",
+      "published": "2026-08-24T07:00:00+00:00",
+      "publisher": "Reuters",
+      "summary": "Taiwan issues indictments over alleged illegal export of AI servers to China &nbsp;&nbsp; Reuters",
+      "query": "semiconductor export controls China",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Global Economic Outlook: August 2026 - S&P Global",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNOTYxaGtnei0xSUhpdG1acUJvUmpncVRfMFJwMEpCNHpKUTREdzV4NGxNZ0F0NUVBSjN3bzJWeExkbTdHV2hrOEJJWEtmZGhOX21zakRkejJpU3pKV1liZ2pRTjBLU1BlX1I3dVo1dHMxQWU0Q05oMlpHNV9QbXhpUGNKVzFnRFdyRjZDOHZWUmJDV0RxMFFXTks3aXJtNlBfcEd0Q3pYOEx5MGh6a1pEUUV3dWs?oc=5",
+      "published": "2026-08-24T07:00:00+00:00",
+      "publisher": "S&P Global",
+      "summary": "Global Economic Outlook: August 2026 &nbsp;&nbsp; S&amp;P Global",
+      "query": "global recession risk outlook",
+      "source_api": "google_news_rss",
+      "tags": [
+        "guidance"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "An economist who studies financial crises sees a debt-fueled US recession coming by 2027 - businessinsider.com",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONE9GN0V1dENUV1UyRE1pU1NHdjR5MHhLazlkd21QOFRyZjZzaVRCNWp4endoaE5JUjk3aFZXXzFtZ29PS2FBVkZmMHZTWi1kZFUwams2XzZzUV9meEh5c3hQM3NVNGhBdnJ3MWNITUFfTi1FdlFyZFhHdzd0LTRIdTNHcGV0dDhUUnU1aTRwV3FMaE5ERXkzM1BqQ3ZqdnhLNmdGVjRCVFlSZEpK?oc=5",
+      "published": "2026-08-24T07:00:00+00:00",
+      "publisher": "businessinsider.com",
+      "summary": "An economist who studies financial crises sees a debt-fueled US recession coming by 2027 &nbsp;&nbsp; businessinsider.com",
+      "query": "global recession risk outlook",
+      "source_api": "google_news_rss",
+      "tags": [
+        "macro"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Tariffs will hurt, but escalation of trade war risks a recession, economists warn - Financial Post",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVmZYbVNnQ2s3ZzlUY2RKb0pRSkE3eEhxYTlJTW56c0pGYkdUNktCdHo2eDk0dkdhMDR1UFRUdjB5dEhUZkxKbjVPR2Q1UW9QdGl2YW5PbVVJemVkeHEyV1dLVDBjd0ZGXzBONjUtb2lPcC10dDNZejVScnRJZ1FIbnlETXk1RXNMdDFma3lXWjJDTEVUNXdiYQ?oc=5",
+      "published": "2026-08-24T07:00:00+00:00",
+      "publisher": "Financial Post",
+      "summary": "Tariffs will hurt, but escalation of trade war risks a recession, economists warn &nbsp;&nbsp; Financial Post",
+      "query": "global recession risk outlook",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory",
+        "macro"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Trump announces tariffs on Canadian vehicles, steel in escalation of trade war - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNW84WmlYQUhTTFBGRkRjRGV0RFl0Skh3c09MTXd0RjJ4UWVYalg3ZEJJUmltVFh2YlZqZ3NtVW1oWGRhNXV1elc3Q0ZfRXFCdWtoSVV0NlItRV91c25SUkV3cF96bXVKSzVBcnRTYVA2S1pjSVI1bzRmMmVrTzA3bURUdnEzMFcwWU5zTGIzdG94RjhqemM5cXpKY0pGNC12d1FUYy1oM1k2LTh0QmJJa0RsQzFnVngxRVVJNA?oc=5",
+      "published": "2026-08-24T07:00:00+00:00",
+      "publisher": "The Washington Post",
+      "summary": "Trump announces tariffs on Canadian vehicles, steel in escalation of trade war &nbsp;&nbsp; The Washington Post",
+      "query": "tariffs trade policy technology",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory",
+        "product",
+        "macro"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "US-China Relations in the Trump 2.0 Era: A Timeline - China Briefing",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVl9rOHkwQl9VYldidlJVajgtZzY4VE5TQmt6eEQ2czIxaTk5N3Ywd3diVXdCT3dKVmhUNmxMRjJ0UnJKdGE2TUtuNklrdWx4UTVGZG5kY1pvWnNEWUhkdmZ5WkV3R0plREV6aTlGc1JEUHVQeG02VzRsVE82OERteXhsMGNfTEVPMllnN0p3?oc=5",
+      "published": "2026-08-24T07:00:00+00:00",
+      "publisher": "China Briefing",
+      "summary": "US-China Relations in the Trump 2.0 Era: A Timeline &nbsp;&nbsp; China Briefing",
+      "query": "tariffs trade policy technology",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Trading Day: Tech, tariffs & Treasuries - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcnpWXy1Hc3JkNTNkazF3bW5KeG1lWUlydGl6ODFTRlY1czlEdHBINm5iWGc3a2laWFM3TDlMWjVZbk9FMXhoWXk4S1VjQmhTeWZpRlNwZjJBVmd4TzBSMl9vdEt1VWdOeXZWMi1qZGFxdTk2XzMzLTA4T09kUXUxZ3hhbFhuT0pyN3JfejhtaFJNVHlMS1c2bE9BQUtITklPVVE?oc=5",
+      "published": "2026-08-24T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Trading Day: Tech, tariffs & Treasuries &nbsp;&nbsp; Yahoo Finance",
+      "query": "tariffs trade policy technology",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory",
+        "macro"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Wealth management with macro factors - Macrosynergy",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5MSWFJSkhadDBrUXVnVE5aVms1Q0JYR2gzNnE3am1jRFVaTUtUcmkyQzI3TzMtRVBoVGEzbTdhQjRTVnlXaXJGNTM0bjVXclpINW03UkUydnBObXpjWlgzaFpPM1pQVEtZYkxrSGlSXzR3REl1SjdoczMzZw?oc=5",
+      "published": "2026-08-22T15:03:20+00:00",
+      "publisher": "Macrosynergy",
+      "summary": "Wealth management with macro factors &nbsp;&nbsp; Macrosynergy",
+      "query": "US dollar strength emerging markets",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "AI’s Absurd Spending Boom? Hyperscalers Are Spending 102% of Cloud Revenue on Capex - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQaHJCSHJwUHhwUW5ndFZDYmtXQi1iWXJCMS1NRTZSM2ZQWHFVRTRKbnVhV0dwcnExdl8xTVFhRmxiVEJqcVVOSUJ1OGE3bGtOc2hIS0xhU3Nkdk5MZWV3U3VVTDhVZ3JSTVlYcl9nd1liNzhGSFhoSmtTekFVS3lTUHZQMUQzdWxKM0c5UW5fZGFiLVdNUDlscDZYbU9mMV9VUUE?oc=5",
+      "published": "2026-08-22T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "AI’s Absurd Spending Boom? Hyperscalers Are Spending 102% of Cloud Revenue on Capex &nbsp;&nbsp; Yahoo Finance",
+      "query": "AI capital expenditure hyperscalers",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "China's Mature-Node Chip Share Rises, CRS Reports - Legis1",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5VZURuZ0o2SHZqTlhBd1plb0YtN0RDdW5SaXlhckFCS29obEJ2Y0N5RzZvUHN3OElSbHQwa2ZSb3lORUlfY3NMcmltOHBVWExhaFotNHR6VEV0blVFbkJsV1ZzbmtkcTdaSnUtWEZvWVRXeHBERkpN?oc=5",
+      "published": "2026-08-21T07:00:00+00:00",
+      "publisher": "Legis1",
+      "summary": "China's Mature-Node Chip Share Rises, CRS Reports &nbsp;&nbsp; Legis1",
+      "query": "semiconductor export controls China",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "positive"
+    },
+    {
+      "title": "AI Infrastructure Pushes Data Center Capex Forecast Above $3 Trillion - Data Center Knowledge",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSjVKSXJwYVRhV1RUUVhOX0hqZGhpYUY0OGlIWS11VkZVSExuTU42X1dhYmNsQmJydF9lZVFPekdueGVYT3ExM0lWNTIwbS1HZHloUXFpQ0hvLTNRdnRuZDZQcnEtVFNuRWlUMzlaQUhwQmZZTjFMTnMzZUJ3a05xZkprWDlNZFJVZFNOZDdNT3hBNm13N09hTWJMWjJNbUFNck1seWpJVjRiOEFsdkwyRnJERkV6bF9TMlpTcw?oc=5",
+      "published": "2026-08-21T07:00:00+00:00",
+      "publisher": "Data Center Knowledge",
+      "summary": "AI Infrastructure Pushes Data Center Capex Forecast Above $3 Trillion &nbsp;&nbsp; Data Center Knowledge",
+      "query": "AI capital expenditure hyperscalers",
+      "source_api": "google_news_rss",
+      "tags": [
+        "guidance",
+        "capacity"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Abrdn Emerging Markets Ex-China Fund, Inc. Q2 2026 Commentary (NYSE:AEF) - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRzJIX3lfQVJzY2xxdHVFS3MzeWNmUTlFWmt4UXBvNlJXT0tHVzc3QnhJMG83SkdmRXgwVFdsREFENFQxRm5sX0RJODRDcUFmTzJLUng4UV9EZVo1SHdINTM3QVBQWjlxc092cVRManp1V2dyY29NNzBObElPS0pMVEVQbVlfSjk4dG9ZaE80ckJWQ3R6Q1RqeDhMOVBTMzVyenc?oc=5",
+      "published": "2026-08-21T07:00:00+00:00",
+      "publisher": "Seeking Alpha",
+      "summary": "Abrdn Emerging Markets Ex-China Fund, Inc. Q2 2026 Commentary (NYSE:AEF) &nbsp;&nbsp; Seeking Alpha",
+      "query": "US dollar strength emerging markets",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "What Does Trump Media & Technology Group (DJT) Mean For Investors After Canada Tariff Pause? - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObUQzdndtTnBYZVBkNURVNWdwSmc2T3dUdW1qVTFwaWhlMWF0cmdfSVQwbnVOWmxBa0FuWl9CcUgteG0xU3QxSWZEbXdqNlhnZDZqMlhvYXdnTnFZclFPRjBGejJvWVVFR2RySVdZbmhtLWVSNllpUjd3aTRnV2p6M0ltc1lncWdyRUhuM0Iydl93eFRzdnNRdmllQ3RjRzQ?oc=5",
+      "published": "2026-08-21T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "What Does Trump Media & Technology Group (DJT) Mean For Investors After Canada Tariff Pause? &nbsp;&nbsp; Yahoo Finance",
+      "query": "tariffs trade policy technology",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory",
+        "macro"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Leveraging Trade Policy for Climate Change Adaptation in Viet Nam’s Agricultural Sector - International Institute for Sustainable Development",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUUFkaW14NUU1Z3NPejJ0V3NxSU95V2VIT0NNc3FWSVV1emV1bUtHS3lhbU5zM0ZNeVZ5Y1pxbzItMTJnS2MtWjhLR28tWUdHYzJzQ1lnVUN2cklDcE9hQzJxSWZ5Tkp5NVBqRVQ3SUJhZldGR25PRjVaa016Q20xdFZrVk01QWJtX1JwSFk4ZzljQkxHRFNXZw?oc=5",
+      "published": "2026-08-21T07:00:00+00:00",
+      "publisher": "International Institute for Sustainable Development",
+      "summary": "Leveraging Trade Policy for Climate Change Adaptation in Viet Nam’s Agricultural Sector &nbsp;&nbsp; International Institute for Sustainable Development",
+      "query": "tariffs trade policy technology",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Trump calls for lower interest rates as Fed officials watch inflation - USA Today",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTlZoeTJUZXZOQTg4VGlyOEVEVkh0ZE5seFRKcVp0NWN1UzNSbDVISUF6cC05c0I1bGNFV3h6MGs5eGFCdWVieDlKay1rcmxQaERnQTNBQTJyVWd3TFpkRjRPdnZIV3NUbmI5UTBWN3hnaFNuakVpRVpIT0dtRzEzbld0dHFpemZkQlZCSnBnSURQc0lSaVFOcHE3YmJwQlV2cFZVUm1RMGVZYjA5Z2FqU0pvZFc?oc=5",
+      "published": "2026-08-20T07:00:00+00:00",
+      "publisher": "USA Today",
+      "summary": "Trump calls for lower interest rates as Fed officials watch inflation &nbsp;&nbsp; USA Today",
+      "query": "Federal Reserve interest rate decision",
+      "source_api": "google_news_rss",
+      "tags": [
+        "macro"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "US Trade Talks Fuel Worry in Canada Over Tech and AI Rules - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVi1nRm9FZTB4eDFGWDFrSXJrdkJiZWpac3ZVMjVGY1lFR09GU25CQWE3Zm54MS1yY25hT09PYmxxVjVJaUpPalZYVnVKREVMZWd4U2lLU2MyRVlGdmJUNlJHNWZoSG0yV1U5dlVubUYxaUFXS1JBNVVORkMzYUR4TTlXVDAyNTJiTkQwVU45Z3BJcnRPMkZQNHoxRVV3NHAyeENOM3FiWjdIYnFMd3c?oc=5",
+      "published": "2026-08-20T07:00:00+00:00",
+      "publisher": "Bloomberg.com",
+      "summary": "US Trade Talks Fuel Worry in Canada Over Tech and AI Rules &nbsp;&nbsp; Bloomberg.com",
+      "query": "tariffs trade policy technology",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "The U.S. banned Nvidia's best chips from going to China. Now it's trying to close a crucial loophole - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPeWJpVjNJOUI4aGhPa05XTERJZkExbFpwNnA4LW91MVA1TnQ1RVhhZm44czFRSmJIZ2tZX29zOC14Y1RLNmlxeWxzZ2l6UUwyNVE3WDVjM3RuczFsMTB4dXEtMFBKT2NiNGxMaG92SF9RVEhmVXp6UmNqYlRGZTFsSnZtZ9IBiAFBVV95cUxPUGhwUXl6NlowWGJNTVNaTUF0WlB5c0RjRUlXYjUybGpzYVNwQmVlQ3BvZlFkaWZndVNyZ2ZjZnQ5ZkJtWURNVnRIRUZncEQ1ZHVHUklwcEdkQ1EwX2F5bVl6ZDJpNnltbWExRkN0SVVpUGg3V3JMZkZOSF8yVkI4X0dYNHNWbUdS?oc=5",
+      "published": "2026-08-19T07:00:00+00:00",
+      "publisher": "CNBC",
+      "summary": "The U.S. banned Nvidia's best chips from going to China. Now it's trying to close a crucial loophole &nbsp;&nbsp; CNBC",
+      "query": "semiconductor export controls China",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory"
+      ],
+      "lean": "negative"
+    },
+    {
+      "title": "U.K. Signals Willingness to Reconsider Digital Services Tax After Trump Tariff Threat - Time Magazine",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNd1pTZDR4N2twWXIzNjRIQkluQWNvLWFwQlM4UWtucWswSGUwcVZ4SmVLT1BFSVRKQVV3anFlVGxYaTExNjVlYjdIWnpHQjUwMnBrbDlxT1BSdnJ5a2h1STI2RGJWN01kX21BRU9KWmw1b1RqUTRITlhNdXFuZ0ZnUmNoVkowVlNuSElPNnd0bGpIRXFhVGVsZUZ4Qk80d1c5NkpV?oc=5",
+      "published": "2026-08-19T07:00:00+00:00",
+      "publisher": "Time Magazine",
+      "summary": "U.K. Signals Willingness to Reconsider Digital Services Tax After Trump Tariff Threat &nbsp;&nbsp; Time Magazine",
+      "query": "tariffs trade policy technology",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory",
+        "macro"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "With Export Controls, Nvidia, AMD And Intel Lose Much More Than Sales - forbes.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRkZBLUtlTlowQUd6enBHUnlFWDZvRGtZcnN2UGhRbGNRWmgzaDRJcGNKdHFhUk5UeXpEbGNtYVVSeUdTZGVkbTkwUHE2TjhCa1haNXZrMGI2bDh2dzBVWnU4Ty1tRnBqV2ZxaDJOczU2WVNGZS1WR1ZQOXhSRk9QekZtYzNjS1VWb2Y2SXk4cmdfems3MndJYm1PenNuYmNYOFJ0Z21pNkRBTy1QZDZTeks3MW5oZw?oc=5",
+      "published": "2026-08-18T07:00:00+00:00",
+      "publisher": "forbes.com",
+      "summary": "With Export Controls, Nvidia, AMD And Intel Lose Much More Than Sales &nbsp;&nbsp; forbes.com",
+      "query": "semiconductor export controls China",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Trump Announces New Tariffs on Drones and Components Over Supply Chain and Security Concerns - Homeland Security Today",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQSmFzNm1nR1lZYmJ4S2tfWEhXaTJKYUZNMmNYbDktMUhUOVZIV0lCNmV3SGJvT29yTXJwaGRsMGtqSlJHUzk4UlFDZWpXTTRyMTk0LWZfb0RxU3QzVUwyVXYtRm5vdnB4a3VBZTBfcXQ1MUtoRndpRURPNHdERV9IY0Y2SVV1TmgyejdRVEpiTTUxYkRBQV81Wjd2dEpDRV85dkZjUUJCdXJISkVqcGFjajktNHloUG5PWTlpeTdvVmV3TVdtSFNUd3VRQ3p6amNNQlJqS2FzUnlIUlpndzBhT1c3LS1JdTlNRDEw?oc=5",
+      "published": "2026-08-17T07:00:00+00:00",
+      "publisher": "Homeland Security Today",
+      "summary": "Trump Announces New Tariffs on Drones and Components Over Supply Chain and Security Concerns &nbsp;&nbsp; Homeland Security Today",
+      "query": "tariffs trade policy technology",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory",
+        "product",
+        "capacity",
+        "macro"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Low inflation may not be enough to prevent further tightening of monetary policy in Japan - Deloitte",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMVhrajlySXBWeW1JRVl1T3N1cVFDRUxYZjNzLTVmdXppNGw4cXg2MDhYcEk5NG9fN1lYRjNISDRVNUtVcllzRi1Tc0ZzaHptV1l3TVBHWUtJTzN3eDM2d1dLWWpPU0dBZUpoczJBOVJ0akZ3MWVBc1BVR3RlSHlReXlaeWRwa1gtUlE4REg2SV82UTIyNFplN3BTbw?oc=5",
+      "published": "2026-08-13T07:00:00+00:00",
+      "publisher": "Deloitte",
+      "summary": "Low inflation may not be enough to prevent further tightening of monetary policy in Japan &nbsp;&nbsp; Deloitte",
+      "query": "global recession risk outlook",
+      "source_api": "google_news_rss",
+      "tags": [
+        "macro"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "OPEC And IEA Each Took A Knife To 2026 Oil Demand Outlooks. How Bad Are They Really? - Investor's Business Daily",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOa1ZCbmVFNzNJUjNId1JKZDYzcVdCeEEzbUVUN29nc0NISzBUUmN3SjE4UVBOZmxIS3ZvMk1vd0lUNFJjR3pRcllfSDJ6YWo4MUhkQVNvclZ4Q1NIbTVxZ3JNak5PSmIzNWJoaVBDSk1Tajd6Sy16OEtrd1h1MVlzdURiR08tdXhMeWh1UF9TWS1nOWFZb2ctQTJKMUZLZDhh?oc=5",
+      "published": "2026-08-13T07:00:00+00:00",
+      "publisher": "Investor's Business Daily",
+      "summary": "OPEC And IEA Each Took A Knife To 2026 Oil Demand Outlooks. How Bad Are They Really? &nbsp;&nbsp; Investor's Business Daily",
+      "query": "oil price forecast OPEC",
+      "source_api": "google_news_rss",
+      "tags": [
+        "guidance",
+        "demand"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "China has wrested control of oil markets from OPEC - The Economist",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdXpTVktFVzVqbmxPOVpHYkZ1RW04N08wbHFBRjlYUDdDN0dKbzNfSEd3VDZOZ2J5TXUzWDBWWFBnczBiQ19jY1M3YWNOTjREdXBMaU1PUTNtbU15d3VrWkw5QUhaejFxN0ZyU3FydjYtblg1eXRXQ18tRmMyakhZcURjUERSeTZIZ2ZGR3l3YVhSQWFTYzhoN0s5cw?oc=5",
+      "published": "2026-08-13T07:00:00+00:00",
+      "publisher": "The Economist",
+      "summary": "China has wrested control of oil markets from OPEC &nbsp;&nbsp; The Economist",
+      "query": "oil price forecast OPEC",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Oil prices decline as IEA forecasts a decline in demand - upi.com",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObTY2Y2lma1NBVE9vdDFLdkxEUVVmejkwdUVSSng4X3U4SE5yN0xiLV9YeERFTWxSQmMzdy1lN3FlNzNPNTRNbXFZR3NtdGhDVW05bjdNcVZBMFBlc3ZuSnZqNDFLRmZUZjM4emhWbHo5M25xaEx3eWdtVlUzaGNoMzJlZV95V0pHcFFHdnNvLUpwQVVKVmJoMFNtdktZTUXSAaQBQVVfeXFMTlU3elNyMlJ5RC10N3lKUWY2eFpqcHlMLUxKNXFadzEyMUhsZGdkOEo2N2hXYjJ3LWhlM0NGa0ljVTVNLWk4MmgzcEJBa3dPcXhlYVc1cF93T0RDdUlRQ2dIS1lmUXd4cHRKdFJ4bElFRTkwWklzTDZCV0NCRlNya2ZYM2NiblVSSWFDY01GN1h5dEg0VFo5TFd2RHprWkFETVI5NEI?oc=5",
+      "published": "2026-08-13T07:00:00+00:00",
+      "publisher": "upi.com",
+      "summary": "Oil prices decline as IEA forecasts a decline in demand &nbsp;&nbsp; upi.com",
+      "query": "oil price forecast OPEC",
+      "source_api": "google_news_rss",
+      "tags": [
+        "guidance",
+        "demand"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Oil settles down 2% on weak demand outlook, hefty US crude build - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRHRqOVFPR196RlJ0WTVZajZ6NHRpdmhmZ0EtSDMwTDVZVk5mX2JnVm9LVnFDQ2M4c08ybExVeldFQk9BdG9HVldTbnJFRDVjdTc3MF8wZmc4ck41bWd6Wng2SFowYjZrNW1UVzJuMDR4cnBUT0c2TXUteFR0cTFiVVY5bm5Da09NSDI4akNIcFY4NHRBRzkzNXNuZ1luQjNGUHFFdnVhT1RCNGlKMWx4MkgzdzhLdw?oc=5",
+      "published": "2026-08-13T07:00:00+00:00",
+      "publisher": "Reuters",
+      "summary": "Oil settles down 2% on weak demand outlook, hefty US crude build &nbsp;&nbsp; Reuters",
+      "query": "oil price forecast OPEC",
+      "source_api": "google_news_rss",
+      "tags": [
+        "guidance",
+        "demand"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Oil Prices Fall More Than $1 as 2026 Demand Forecasts Weaken | Ukraine news - #Mezha - Межа. Новини України.",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE82OTFTNXhla281Nm1ITF9ady1SNXpKNjJ3cWIybXdDQjNjVHpueldtNTJTLW9mblJfUFNHWUxRQTRCdnJFa2UwRG0zeThjT0c1aDdvY19tRlRvLXJDUzdSTUdn?oc=5",
+      "published": "2026-08-13T07:00:00+00:00",
+      "publisher": "Межа. Новини України.",
+      "summary": "Oil Prices Fall More Than $1 as 2026 Demand Forecasts Weaken | Ukraine news - #Mezha &nbsp;&nbsp; Межа. Новини України.",
+      "query": "oil price forecast OPEC",
+      "source_api": "google_news_rss",
+      "tags": [
+        "guidance",
+        "demand"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Live Updates: Trump Administration Tariffs, Trade Policy Changes, and Impacts on Global Supply Chains - flexport.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUjMzUDdNTFA3RG1ud3k3UjlWM3pRRTVWeXZuclNqSzhSM1djLVNTNWJHT1ZqeUZMNWQ0MU45aFZnRXFBTHp4d1FTRWVxVUpiOFpqYlJwR2haTklZVkpBTXl6cjBfQnFUXzFhY0dMZUlNV2FYRzdOY0xPV3VuRlVfal8tSXVTWXlJOXB1NG0zenlRWlBRVDc0am1OdzZZZkdVQ2Uw?oc=5",
+      "published": "2026-08-13T07:00:00+00:00",
+      "publisher": "flexport.com",
+      "summary": "Live Updates: Trump Administration Tariffs, Trade Policy Changes, and Impacts on Global Supply Chains &nbsp;&nbsp; flexport.com",
+      "query": "tariffs trade policy technology",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory",
+        "capacity",
+        "macro"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Donald Trump launches tariffs targeting Chinese drone technology - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVnVNZWVVeXk4N0Y3UUNUZlVtVVAzd1pQbk0ybkprOHJpZzRlLUo1V1UwRHJYWkVQLWhsa1FEOXFtaWtCTElmbWgycXNTN3VveEFOX21kUmlPTDZlRHNBb1lsWDAwN1pOZ1B1aHBhclVNbXJQVVdWdTEydHRqcnkwdC01QXM?oc=5",
+      "published": "2026-08-13T07:00:00+00:00",
+      "publisher": "Financial Times",
+      "summary": "Donald Trump launches tariffs targeting Chinese drone technology &nbsp;&nbsp; Financial Times",
+      "query": "tariffs trade policy technology",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory",
+        "product",
+        "macro"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Are US export controls really about containing China – or controlling America itself? - Global Times",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5OUEJVUHFVZG5EeEZLdzlURloyVTdLWlJtbXdDV1Vlc3YzaFlIaGt1dVZZaGlLMjRXbkJaYXQzV2FFYjZna1pCZTlmem1Td0M2NUxTQV9MRWRmbTBzQ2U0bHRn?oc=5",
+      "published": "2026-08-12T07:00:00+00:00",
+      "publisher": "Global Times",
+      "summary": "Are US export controls really about containing China – or controlling America itself? &nbsp;&nbsp; Global Times",
+      "query": "semiconductor export controls China",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Oil Market Report - August 2026 – Analysis - IEA – International Energy Agency",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0xTXNaRlk1XzJkUnJ0c2U0bnZZSDhLRWZzaFNSNk9iQXVfQWRfME1SZXFCZ1RNckpBQUYwbGdKdFFjQTRESHpROGRZRkQyMndXSW95NS1QS2V1VDZqRFVUR2N1WTkwajBt?oc=5",
+      "published": "2026-08-12T07:00:00+00:00",
+      "publisher": "IEA – International Energy Agency",
+      "summary": "Oil Market Report - August 2026 – Analysis &nbsp;&nbsp; IEA – International Energy Agency",
+      "query": "oil price forecast OPEC",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "OPEC further lowers 2026 global oil demand growth forecast - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdGtBOHhHeFZVQ0xfdlpxYWtxd1Y4VUVEMFFFMlUxakNMd29IeThMN1RxeVlEbHJpMk8xN0RzakdZWEZxUWFHOGVDSXNRTEM4WjYzcW13TkVSbHBPT1c5VEdCM1A0cFJNVG5fd19yeDlRLTJNYjJYbjVVN1lLRmtQZk5oMW85MXkwNzBhaHNuQUR1Z0RnbHI4RHduQ3dRdFMyOXdvYzZEUmRkVjV6ZXVZ?oc=5",
+      "published": "2026-08-12T07:00:00+00:00",
+      "publisher": "Reuters",
+      "summary": "OPEC further lowers 2026 global oil demand growth forecast &nbsp;&nbsp; Reuters",
+      "query": "oil price forecast OPEC",
+      "source_api": "google_news_rss",
+      "tags": [
+        "guidance",
+        "demand"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Oil Prices Fall as OPEC and IEA Slash 2026 Demand Outlooks - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYlFrWEhhR2hOTzZQc3pqTmVESEZFRmZfdEh1SjJrazJFank5NzVNVzRIOXY1UFJEbGtabEVMSUxxX0dZQ3FFWVVvM1E2VVpaTHZvSEF6cll0RkNnMWlFWnZTOUEyVjB4Qm0xZXVRaXhmMlY2Y1lSSkdza1dYSTAxRDJpYWhkYXZr?oc=5",
+      "published": "2026-08-12T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Oil Prices Fall as OPEC and IEA Slash 2026 Demand Outlooks &nbsp;&nbsp; Yahoo Finance",
+      "query": "oil price forecast OPEC",
+      "source_api": "google_news_rss",
+      "tags": [
+        "guidance",
+        "demand"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "OPEC's Four Consecutive Cuts in Oil Demand Forecasts Fail to Suppress Oil Prices; Dual Threats from the Strait of Hormuz and the Red Sea Sustain Energy Risk Premium - Moomoo",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQWhKTGdFdThYcTQtNWZ5b3BoOG56akF5Sl92azMxMV9SNlhleUFsYWJqaUJla2NlNWUtMktCWjRJelAxUGhRd0NGelhYYk5GWFB3a29rQnZ3V2ZJQWNZbGxzTVhRMVdabDA4cmFUbjE2ajNFSXkyanN1YjNBV1JpLW9ld1VINGFmRFFhX3p3aUZGZGhlbmEzNFBHaXVidzBL?oc=5",
+      "published": "2026-08-12T07:00:00+00:00",
+      "publisher": "Moomoo",
+      "summary": "OPEC's Four Consecutive Cuts in Oil Demand Forecasts Fail to Suppress Oil Prices; Dual Threats from the Strait of Hormuz and the Red Sea Sustain Energy Risk Premium &nbsp;&nbsp; Moomoo",
+      "query": "oil price forecast OPEC",
+      "source_api": "google_news_rss",
+      "tags": [
+        "guidance",
+        "demand"
+      ],
+      "lean": "negative"
+    },
+    {
+      "title": "The Fed was expected to hike interest rates in September. Don't bet on that now, economists say. - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWkV3WmFpUmlEQlBFQ2hBNzk2eUx2d3RSZjlTT044WXc3Rjl5Mm53SmJqdnZFTHRPVmF2VFlKTUdQZjQ2LXdTU01TS0c5VDJBWjFrNnQwVHc4QnVidzgtSVFiYzZlc19fcXlyUVEzMk1lWHdmUkg5c2VTT2JJbnQtNDh2NFlGQmtUMU1TM1NIOXpYU0lCVTYxNA?oc=5",
+      "published": "2026-08-07T07:00:00+00:00",
+      "publisher": "CBS News",
+      "summary": "The Fed was expected to hike interest rates in September. Don't bet on that now, economists say. &nbsp;&nbsp; CBS News",
+      "query": "Federal Reserve interest rate decision",
+      "source_api": "google_news_rss",
+      "tags": [
+        "macro"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Global AI Investment Is Forecast to Exceed $1 Trillion in 2026 - Goldman Sachs",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeDZ2dUk3YUJGenFKNm9feDlCc3RxZU9jaXA0WkYxM21uY2dBVmpGXzVMVkQtSXpUbjNEVEJjSGY0M1ZWcExLZ0U1dFNfaVhRc3FSV0IwOXJRMWwwLXpkQTE5RWZvYXBIV1B3NVVvUTdscUlScm5id29aRnNXVEF1OU56T25qbnAwV3dVNUJTZDdaVF8tRHE1SExhb1g5TThkQ0tHbWxBNlI?oc=5",
+      "published": "2026-08-07T07:00:00+00:00",
+      "publisher": "Goldman Sachs",
+      "summary": "Global AI Investment Is Forecast to Exceed $1 Trillion in 2026 &nbsp;&nbsp; Goldman Sachs",
+      "query": "AI capital expenditure hyperscalers",
+      "source_api": "google_news_rss",
+      "tags": [
+        "guidance"
+      ],
+      "lean": "neutral"
+    }
+  ]
+}

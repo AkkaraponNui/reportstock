@@ -1,0 +1,2335 @@
+{
+  "ticker": "LLY",
+  "company": "Eli Lilly and",
+  "as_of": "2026-09-20T08:35:06+00:00",
+  "lookback_days": 180,
+  "summary": {
+    "total": 190,
+    "by_event_tag": {
+      "earnings": 35,
+      "guidance": 19,
+      "mna": 16,
+      "regulatory": 13,
+      "analyst": 11,
+      "capacity": 8,
+      "product": 7,
+      "demand": 4,
+      "management": 1,
+      "macro": 1
+    },
+    "headline_lean": {
+      "positive": 29,
+      "negative": 26,
+      "neutral": 135
+    },
+    "top_publishers": {
+      "Yahoo Finance": 54,
+      "24/7 Wall St.": 13,
+      "CNBC": 12,
+      "Reuters": 11,
+      "TIKR.com": 11,
+      "Trefis": 6,
+      "Seeking Alpha": 5,
+      "Stocktwits": 4,
+      "PR Newswire": 4,
+      "investor.lilly.com": 4
+    }
+  },
+  "articles": [
+    {
+      "title": "What Does Eli Lilly (LLY) Gain From Its New Genetic Medicine Partnership? - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZTBQMVpZZUtmQUpHNTlTejFUS1h0MG15TnFYbUl6bGNlZ19nTXVNZlowYXdqc1QwZ3pVNVdGY0FTX0d2VjN3djdXeklDREg5TFZRODI0bTAybWJBN2Z3aTh5aXdFNlk3cDZHQkQxSTBBLUd3M2dwcktZUXFZNlJCQ3NGQWVHY2xZQUdvSw?oc=5",
+      "published": "2026-09-18T10:10:25+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "What Does Eli Lilly (LLY) Gain From Its New Genetic Medicine Partnership? &nbsp;&nbsp; Yahoo Finance",
+      "query": "LLY acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "positive"
+    },
+    {
+      "title": "LLY Shares Dive On Analyst Downgrade Citing Obesity Market Overestimation Concerns, But Retail Dismisses ‘Absurd’ Selloff - Stocktwits",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNUVJJTnZyeW1MLTFVM0FCNXdaRC1ldEViUnVrUWtOTDJIWW1BYklHM19fNDlDYXRNYkVXRmVwcHFOX1E2bDN1bGR6dVM2YUVqNXlyd1ZYdnRnZm5IWmdmbFFLQ2ZpdmVqUmh4Qzl4T1BfTDFVbXhsY1BBcjRKSUFWRUVQRnVQa2diWVRMTkRVWXNPM2NpQjByNThObXd2YkE0OEJUTFF5dkZqV3NhLXZHWjlONnl5MFRDU3BWUjY2b01MNVRQaW51Q1I0YXlsd3R0bU1wVjJDOEJqLVB3TlB3?oc=5",
+      "published": "2026-09-17T22:00:28+00:00",
+      "publisher": "Stocktwits",
+      "summary": "LLY Shares Dive On Analyst Downgrade Citing Obesity Market Overestimation Concerns, But Retail Dismisses ‘Absurd’ Selloff &nbsp;&nbsp; Stocktwits",
+      "query": "LLY competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "analyst"
+      ],
+      "lean": "negative"
+    },
+    {
+      "title": "Eli Lilly (LLY) Gets a Big Price Target Boost, Analysts See 20% Upside - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNc2NybFFSWnhkUXpwRjlNakctSXFUOWhsV0F6dE0xWkZ1NWZvRC1pQ0p6YjUzdkJ6c29hMHM3THdoMllEYXVDR20wX0QzWklDeHhDQ0xyb2xtNVJ1enA5LVdlMS1nNW9ubFdOVi1wN2ptMjBkaEprT01vZm9HS1pEekxyTlBjY2d0LWZoajR3WDQ?oc=5",
+      "published": "2026-09-17T15:51:07+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Eli Lilly (LLY) Gets a Big Price Target Boost, Analysts See 20% Upside &nbsp;&nbsp; Yahoo Finance",
+      "query": "LLY analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [
+        "analyst"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Eli Lilly Vs. Merck: One is a No-Brainer to Hold Through 2030 - 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNV3NGYnE1anB5SW8wMG1WUlJnMC1OcjlNaXU0MTRXb3dzckoyaWxkSUlEcWF5cGdlekU3ZFlBVGdsUTJRYVphLVAyanFzdEhLSlBzM0xhdF9WYkI4Wi1BS2x6d0pjMXZHN3k3Sjg3eVQ2WF96ZGpPWmx4akZ5UG4wd05JeTluQWY0WTFGMEctM2FPZjY5bjJoOG9iT2tqbFl2amZKNVpB?oc=5",
+      "published": "2026-09-15T12:30:00+00:00",
+      "publisher": "24/7 Wall St.",
+      "summary": "Eli Lilly Vs. Merck: One is a No-Brainer to Hold Through 2030 &nbsp;&nbsp; 24/7 Wall St.",
+      "query": "\"Eli Lilly and\" earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Lilly says Foundayo has captured over 30% of new US patients on oral weight-loss drugs - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOek55cURnNVVRbTZMOEdZTEpWaGdrc2s4Njk1RF9UTzZ5WTBURU9nUFZqeHdwVXhILUktelE2Tm82NGF3WEVGenlpOHczajhNUUw5WXVDS1p1LWdFRFFvUnpkQV80c0ZYelNCY182N0pQbnJoVzJPcUZrZnpQb0hPWmFBa1ZxTVZ2UllSWU5iVFVWc1dyWWtubE5mdndtT2pSM1piaG1fdG1XcDNjZzIwOWF4Yjc4MDIzYXZLTkJlbC10QUxSbGVLMGQyRW4?oc=5",
+      "published": "2026-09-14T20:38:18+00:00",
+      "publisher": "Reuters",
+      "summary": "Lilly says Foundayo has captured over 30% of new US patients on oral weight-loss drugs &nbsp;&nbsp; Reuters",
+      "query": "\"Eli Lilly and\" competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "negative"
+    },
+    {
+      "title": "Lilly completes acquisition of AtaiBeckley to advance therapies for treatment-resistant depression and other mental health conditions - PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPaGEwbkdNSWVFNXZlY0xHa0lac1l5TC1IS2dGSGVlQ2RpWk1PckcwbXBJS0tpNjFSbzVjVmlrcFZ3M1FYdnFZS3J3V0xScm1NZklqdHFycXpPSFNtOGoxY2p6X29NQkZCaVMxT212ZFZfcFJEQnpHRldVQnpxVjkwTkl3bzNDNFVxdnB2ajJ1RTFqZVktd0RSdVk4cXduRnpxbTlUbHRMZkJ4V0JCbzJnTHg0WklGQWhDZDlwSVRfMmNWUDNxQTNDSUM0QmRBZjd6cjQxcjgyOW9XQjJqcjQ1WVMyTUpRYUcxdGFaYnFpY2lnUm0tNGRkNzBrMWdBbzlFbEtpNzA1NEl0dWxzZ2NCaEZBNlVIUUhq?oc=5",
+      "published": "2026-09-11T13:02:00+00:00",
+      "publisher": "PR Newswire",
+      "summary": "Lilly completes acquisition of AtaiBeckley to advance therapies for treatment-resistant depression and other mental health conditions &nbsp;&nbsp; PR Newswire",
+      "query": "LLY acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "mna"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Eli Lilly Stock Has Become a Trillion-Dollar Giant. Is It Too Late to Buy? - 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTFA5NW4ybkwtci1BMDNMQm5reTZPdlB3aS00dk5sQ3BITWhuT3J6Q0h6RTFYakFYWEtRa3A2VWg3Y1N2aDczZXI0RTN4NUQtWmI0bjdJQWVIc0xLZ3ZPOVBKM1hqbmpGYzE4ekpZbTZ3SlA2bnhjUW1tLU5qZmFLOVBFRHNwS0xHQnd2Z041VGpybjZnN3RPbEhycDRmWmxrc0ZtNXpwWDdtRFhJRE1aMExuenl4amc?oc=5",
+      "published": "2026-09-10T07:00:00+00:00",
+      "publisher": "24/7 Wall St.",
+      "summary": "Eli Lilly Stock Has Become a Trillion-Dollar Giant. Is It Too Late to Buy? &nbsp;&nbsp; 24/7 Wall St.",
+      "query": "\"Eli Lilly and\" revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Can Jabil's Supply Chain Strength Sustain Its Growth Momentum? - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZ3JKS29adHJkQ2RTVlpuSDZSZDNpZU5DRzFMVnJTZDFKNFloVWRmU255aFNKSTR4Sy12LWxfdkJTNDdqdHU5SG85dDVtS3c3R1ZLN3VWMVdyd0U2c0hiX1lCMmFrRWplQmlHeHNXTENoRVZyRmpJekZIeEx0UzRPR0pNanB0ckFtM0gyNmNzRElILVFERF9zRHQ0SEIxeDUxc2Zn?oc=5",
+      "published": "2026-09-10T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Can Jabil's Supply Chain Strength Sustain Its Growth Momentum? &nbsp;&nbsp; Yahoo Finance",
+      "query": "LLY capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Eli Lilly lawsuit against weight-loss drug seller gets another shave - Courthouse News",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQajZrSzRIUVJUeV9YVHhvaF8xMFNDdi13Q2FFOENGb1Z6M2stU01PbXVpRjEtQmhQbC1EcU5ubUVpdjZSVzhXdEh1S1ZJZEdPUkJjOEgwbC1NeWRHanpvblktUGg5VmwweU1KY3pCRW4xc05UVmNfTkdGNU82c2NuZjlvXzhaN0FqY1Y3dGR3TGhzWFdmSmJlUVFuV0FrOU1z?oc=5",
+      "published": "2026-09-08T07:00:00+00:00",
+      "publisher": "Courthouse News",
+      "summary": "Eli Lilly lawsuit against weight-loss drug seller gets another shave &nbsp;&nbsp; Courthouse News",
+      "query": "\"Eli Lilly and\" lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory"
+      ],
+      "lean": "negative"
+    },
+    {
+      "title": "Eli Lilly Has Been on an Acquisition Spree. How Much Could Its Latest Deals Boost the Stock? - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPN3JrUFhhdTFjZlpkVlJZNzVNTm9qcTZfbWxwcW1XNGNRd0lIcy13OGxNRjhNb3FtUm1SdlJHY1FDekFCcjBseTR5Q003dzVTSUI4ajRsMnZQdlhsMVg3cUdfLUdPeVJNZlJpck1qZ3UzN016YkdyYzNxWEtFSEVnc1Z6NkhtUzJFSEUwVTEyNzZqczloUkhIdQ?oc=5",
+      "published": "2026-09-07T07:00:00+00:00",
+      "publisher": "The Motley Fool",
+      "summary": "Eli Lilly Has Been on an Acquisition Spree. How Much Could Its Latest Deals Boost the Stock? &nbsp;&nbsp; The Motley Fool",
+      "query": "\"Eli Lilly and\" acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "mna"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Investment and Innovation: Multi-Billion Dollar Eli Lilly Facility Finds Home in Virginia | VEDP - VEDP",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSFFLZk9WMmxrTE14ZzF1cHdaQzNHbTAzZTh1b0x4clhSM1BrM196eGgwbTMwNnpGOTVxUHdGLUhzNXdsWS1DSDFCWUQwYV82X3Rady1ZUXc2aVQzYlhuOUxaa0I5d0FMQjEteXRXWE45NzNGRExwbk93Um52R0RZUWE1alRfVzVmbEl2NGtMT2VQQXhTR280Y3pwQVZaRUt3RENCVzBGUU5SSTNvSlkxVzNPaFZDSkFIVjZLWQ?oc=5",
+      "published": "2026-09-07T07:00:00+00:00",
+      "publisher": "VEDP",
+      "summary": "Investment and Innovation: Multi-Billion Dollar Eli Lilly Facility Finds Home in Virginia | VEDP &nbsp;&nbsp; VEDP",
+      "query": "\"Eli Lilly and\" capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Lilly (LLY) Down 2.7% Since Last Earnings Report: Can It Rebound? - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUUlha09kWW1Dc3haMXk1VWZMSXdUS1NSeVhsVHVMNU1yZjdoeXdzRXVnVlhWSnBEdFl1MzItZVJ0ZnN2V0EyTXEtV01JOHlxR3FBeVdlbmlzY0tuaWZVR042SG9QMVRlRVpsXzhQSURwR1F1d3J1Y2JXWHUxSmRmRWJDUkM0TTV0NkJn?oc=5",
+      "published": "2026-09-04T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Lilly (LLY) Down 2.7% Since Last Earnings Report: Can It Rebound? &nbsp;&nbsp; Yahoo Finance",
+      "query": "LLY earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Great News for Eli Lilly Stock Investors - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPOGhCbzQ4Vy03VndadnJWTENQT2R2c1hxRjBsM0dlVlQ1RTVET3Y1eHpkOHVTbUYwbFVVbjFoQlJmX3JESDNwUUw0bUg1T2JKWE4zaGpkZmdpQndPaUVVajlEVXd4bzlhZjBJYnJuUlc5QndoZ0RSRVotQlp2bUtkUDRQeGZlLXl0R0hZ?oc=5",
+      "published": "2026-09-03T07:00:00+00:00",
+      "publisher": "The Motley Fool",
+      "summary": "Great News for Eli Lilly Stock Investors &nbsp;&nbsp; The Motley Fool",
+      "query": "LLY stock",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Lilly’s Record Stock Price Is Hiding an Even Bigger Opportunity - 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRnFtV1RsNllHbEUwUHM5d2F2SGJHMU8yWWR1elpKZ2plaEx4MFdWb083NWc3d0xiOVBoNC0wSUdoSTMxYnFXTVpFOXBpX25VNUFTbEFTeERFbkJ3UjR0U0xmR2pfN21DSF9JNFNmQk5nZlQ3MmUyekdkOVNCNEZqdGRhdHZJcHRGeE16cGZJUWdrSmR6NmdMUnlqdk9OZ1ZrWUFaaFdIZHdIdw?oc=5",
+      "published": "2026-09-02T07:00:00+00:00",
+      "publisher": "24/7 Wall St.",
+      "summary": "Lilly’s Record Stock Price Is Hiding an Even Bigger Opportunity &nbsp;&nbsp; 24/7 Wall St.",
+      "query": "\"Eli Lilly and\" analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "positive"
+    },
+    {
+      "title": "Eli Lilly Just Announced a Major Acquisition. Here's What It Means. - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQeFpDSWJGX3E2RWF3dHNnSklza2tCS3IwWVI0WWVLTEFVRFl2dmZjSXZYVHBzMkhDZi1KXzNLT3BCOVNBbkpJY29ZR2c1YkVhZVlxOVRycnNCeUFZT3VZakt2SWR4cGxYNEdQdGpiLWRRd0pHaTNNWTN1MTlHN0RXVU5TRjNNR284cWJlVUQxN0lkUnJhR3c?oc=5",
+      "published": "2026-09-02T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Eli Lilly Just Announced a Major Acquisition. Here's What It Means. &nbsp;&nbsp; Yahoo Finance",
+      "query": "LLY acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "mna"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Lilly to acquire Merida Biosciences to advance treatments for serious autoimmune and allergic diseases - investor.lilly.com",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNcW5wVmVTd2RXdTltQ3pWeVR0X3FObkhIXzdfcmhIWXJEYXBldnFkRHhoOC00YzhObEVXNnYxOVkyVGhtZXpYa1M4eFZaQTZFaUpmS0M4WkxfbTRzWi1MNzh6b3BUVEc5ZmstODV5bnZXQnU1N2RtdVhvYzBhc0d0QWp1d3dGRjcxNUd4M1pjSV9mckxRSFgwSjluRjM1VVVMN2EyNVNnUy0wUnhONGpHMzRGTVJIbnJNbEMzUlRR?oc=5",
+      "published": "2026-08-31T07:00:00+00:00",
+      "publisher": "investor.lilly.com",
+      "summary": "Lilly to acquire Merida Biosciences to advance treatments for serious autoimmune and allergic diseases &nbsp;&nbsp; investor.lilly.com",
+      "query": "LLY acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "mna"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Lilly (LLY): Pharma Giant Keeps Growing With $2.9 Billion Deal - Barron's",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNQkRBMzhiLTlLOGpYZ2FEdFpYS1RUdnBHdWM5bnAwM3FSOUVPTGlYWVd6cWJTQXpYMHRlY3JERmNnXzYxMW5Uc001TTZ5WXdONHJPQXpFNXBmTkd3akNXMUFIbXk0VC10RXJrWUwtTzVnUWdqWUptaWVuRU42VHpzeUN3d2NYOVdKUGRTeVV4ZzJUUQ?oc=5",
+      "published": "2026-08-31T07:00:00+00:00",
+      "publisher": "Barron's",
+      "summary": "Lilly (LLY): Pharma Giant Keeps Growing With $2.9 Billion Deal &nbsp;&nbsp; Barron's",
+      "query": "LLY acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Lilly to buy Merida Biosciences for up to $2.88 billion in autoimmune drug push - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9xUFFnZHRVSjg1V00zekVOckxWbWJqaldZLUt1eW10WWk2N0FnUy1mTWxVcE9YYTloY1U2S04yU3dVajk2WWtoR1JKb1hfRzl4OW9EZ0lQVnFTdUxhTlYxb1diR3RmbDhsaVpYcUF1dGFyWXpTSmhfTkdCcHPSAYIBQVVfeXFMT3RRQUpCdGNuMnUzeDJuVVE1ZHJLMF82bzdxTnhSWDlQWnNfcXdNSWxoMzN5SE81ZHo4emhTb0J0QkhkNTU3dE1UTko5OFhxTVltSzhSY012SzdFVk9xRU1MblNUOEVZQTJvckowTUlvNlo3bTItR1llOF84X3E2bHdIZw?oc=5",
+      "published": "2026-08-31T07:00:00+00:00",
+      "publisher": "CNBC",
+      "summary": "Lilly to buy Merida Biosciences for up to $2.88 billion in autoimmune drug push &nbsp;&nbsp; CNBC",
+      "query": "\"Eli Lilly and\" acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "AbbVie vs. Eli Lilly and: Which Healthcare Stock Is a Better Buy in 2026? - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQRHYyYUw3MHp0dllSd2hHV20tX1owVl9DTGhqdTA2UHNLUU5BdW0zZ0FxQ01Jd2JVSHZzb29VaHJ1NS05ellvRldsel9JSFlkZEVJUk9RVTl3MEhEdUdZanF2djIybzJRaEMtcHdlTHZjNXlXVjd0Rko4VW13dFJSZmNPbDRzb0JIcndoaXQwaXZxT2VFelE?oc=5",
+      "published": "2026-08-29T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "AbbVie vs. Eli Lilly and: Which Healthcare Stock Is a Better Buy in 2026? &nbsp;&nbsp; Yahoo Finance",
+      "query": "\"Eli Lilly and\" stock",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Is Eli Lilly Stock Outperforming the Dow? - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQYzAxNGpHRFpZYmt6bW13SnNOTkF0RkVTWmt4eDh0NGFRRWpkWlhIRXFEQzRmM2FXNVFpWi1jSGRFNTBrRmNscHpUNkdrMEZndXdEaUtZMFpqMFhJTkdVbkV6WWhHbURCWUI4Nkk3ZHpMS1VHdDZneVdGRzBNTTNlSWFoYUZ3QkFQNmltWFE4c2ZBR2dtcVVKaFJwZE51X3M?oc=5",
+      "published": "2026-08-28T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Is Eli Lilly Stock Outperforming the Dow? &nbsp;&nbsp; Yahoo Finance",
+      "query": "\"Eli Lilly and\" stock",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Is OmniAb (OABI)’s Eli Lilly (LLY) Partnership a Game Changer for OABI? - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZ2diVG1tSmoyLTNFamxDTXp6bnREOFlWZ0V4TWVwSVptT2RSNjBHVVpCU0ZsWDJPSVFSQWd4VDhzZlpZV1JobDd6UzZhU0tvTmRrdU9XVnBlRExlWUsxU05WRjF0a1BQbXRRb2w3VHNjak1zWXczSER1bHRlMzZaOFEzZFp1UXNVMW1seWtuVQ?oc=5",
+      "published": "2026-08-28T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Is OmniAb (OABI)’s Eli Lilly (LLY) Partnership a Game Changer for OABI? &nbsp;&nbsp; Yahoo Finance",
+      "query": "LLY acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "positive"
+    },
+    {
+      "title": "Myriad catalysts on deck for obesity’s brightest stars as market continues to accelerate - BioSpace",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPU05zaXJMM0ZKRG9sUElGcVVPa0ZmZXlwUWFwWEFjMW1qdzRmZmdvR1A2RkRuNlZVWGt5Vkh2eVlvcFJ4N0h0d2NiX3V2VG9iUzhVMk56RXFDM2FCTXBLUk5iOEllVERBWlVQSlo2VVprVnY5ejlJX2laMDI2a1A2TkYtalFrOXBKeDBoeXN0UGVYM3N2WXZCc3RuUlUwQ2Z6SmdsZjdQSy1vZ2RPblhqcVdNRVIzXy1hdS14VmV5WUFHdHlzellBdQ?oc=5",
+      "published": "2026-08-27T07:00:00+00:00",
+      "publisher": "BioSpace",
+      "summary": "Myriad catalysts on deck for obesity’s brightest stars as market continues to accelerate &nbsp;&nbsp; BioSpace",
+      "query": "\"Eli Lilly and\" competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "LLY vs. ABBV: Which Stock Has the Stronger Growth Prospects? - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNdVZhcmlNaVEtY3RzeF9WNXJ2bWhKSEhaVFNKbzlIamZHUDE5M3otT09jejJ3bnp3d0dLd0lqSEZvRTZ3YVhhLVZqMjlzQ2dBN3oycF81Q1JUMlZ0cG1QSThWbFk1N0hIdFd0S05PcVJySlo4UFpGVElIa1BUaXJlbkhvcjlEYjB0UGVNeVlpTUk?oc=5",
+      "published": "2026-08-25T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "LLY vs. ABBV: Which Stock Has the Stronger Growth Prospects? &nbsp;&nbsp; Yahoo Finance",
+      "query": "LLY stock",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "positive"
+    },
+    {
+      "title": "Eli Lilly vs Novo Nordisk: One Winner in The Weight-Loss Drug Gold Rush - 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWEtLWndZSU5qcTQ2bXA5aUF1RXp0QWZXMHdEMDEyMDU1YXQydjZRbTNCRlB6TlF1LXMwZ1RlUTQzWlFqYkdyUWtyRkNsY2Uza2d6TjgtSmhnLW1PcmYxRlE5Vk5GRXdqZWt0SjZLS2FfQU5JWndRU1FjUTdneFV4YVlnUVVPUGhVUUZPX3ZtZGFwMExHbjhiX3AxRnN4T3hBVTRkQ0U4Smh2VFB2eE1GZXJqZzY?oc=5",
+      "published": "2026-08-25T07:00:00+00:00",
+      "publisher": "24/7 Wall St.",
+      "summary": "Eli Lilly vs Novo Nordisk: One Winner in The Weight-Loss Drug Gold Rush &nbsp;&nbsp; 24/7 Wall St.",
+      "query": "\"Eli Lilly and\" competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "negative"
+    },
+    {
+      "title": "Eli Lilly Has a $100 Billion Revenue Story in the Making, 18% Upside Ahead - 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUVoxSHRCWmJNWEtROWRnOTJKcWtMWWlBeDV5Z2w1Q29DcnEzVDh4dWFaMTJyRnh5bk5aUTRvSnk3Yl9JcUxtZXhPbmtvU2NuNXdNTjh4Vm52dnVQMVhfdlJEanRzR3dLdVBRMGowODJXcUl0ZE9mcEx2bUQzVjBiOTBSRkdCWURpNldZMmt2Z3RBTTg0bWtrVWVGMlFCcXRk?oc=5",
+      "published": "2026-08-24T07:00:00+00:00",
+      "publisher": "24/7 Wall St.",
+      "summary": "Eli Lilly Has a $100 Billion Revenue Story in the Making, 18% Upside Ahead &nbsp;&nbsp; 24/7 Wall St.",
+      "query": "\"Eli Lilly and\" revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Eli Lilly (LLY) Is Suing Six Companies Over an Unapproved Drug—Leaving Novo Nordisk (NVO) Clear in the GLP-1 Wars - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSTZMSTFkSWZTQWplU2gzMGNweHBzNkJ1dVhVY2hyY2dmTHBmb1IxTGVnZWYxYzlvaXVmNDZjdXhEcGNYSmN0QzFrYjNrMmcyVkR6cFJyRTJkcDg3QUNRZ25MLWZFRlZ1Q2FDVnJMSmtkZzkyVHdqRk5oejhRQTAyTll6ZzVHWXlGT2ZMcw?oc=5",
+      "published": "2026-08-24T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Eli Lilly (LLY) Is Suing Six Companies Over an Unapproved Drug—Leaving Novo Nordisk (NVO) Clear in the GLP-1 Wars &nbsp;&nbsp; Yahoo Finance",
+      "query": "LLY lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Is the Weight-Loss Drug Market Really a Winner-Take-All Fight Between Novo Nordisk (NVO) and Eli Lilly (LLY)? - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNU3U3NzhCcjc4bjhMWjNFTFFmZDF2RE4zSmhVRlljOU91UU9vTzF0Z1dvcG1QMmxtTkJ3S3l0bGFpUlM2R2c3NVdRb2cxaTBMMnJYWGp0d2RoT1FfbjJBWGVNYUlZWUxBYldKN0JIcTludU9CNFdYT1NsV04tckNJb3hOemZqT245M0N1ZW9rVHhWVUNhRGc?oc=5",
+      "published": "2026-08-24T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Is the Weight-Loss Drug Market Really a Winner-Take-All Fight Between Novo Nordisk (NVO) and Eli Lilly (LLY)? &nbsp;&nbsp; Yahoo Finance",
+      "query": "\"Eli Lilly and\" competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "negative"
+    },
+    {
+      "title": "Prediction: Eli Lilly Could Be One of the Biggest Winners of the Next Decade. Here’s Why. - 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPNDJxS2FDVHZCblktQjJKQlhrbExmaGJ6dHlpYllOVV94TkxxRVdHbUh3VEk2TE9ybzNkVktyRWNIS04yOEFobjE0cFNXM3JSWWNzWDlKN0l0UFBtT2x1MDJwbDFIaUpqLXctU21FaWlXWWNpbFl0RHdmc3FoNUd6QWZ0VU1NZXhXYWlyYkNXcUZzUWgtZkttOURVQlh3SWN4VnprUnBVdVdkNUxNQkg4dHVGbElibmtXdW41ZU05R19IeFg2Wm5laQ?oc=5",
+      "published": "2026-08-23T07:00:00+00:00",
+      "publisher": "24/7 Wall St.",
+      "summary": "Prediction: Eli Lilly Could Be One of the Biggest Winners of the Next Decade. Here’s Why. &nbsp;&nbsp; 24/7 Wall St.",
+      "query": "LLY analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Eli Lilly: Shaking Off Competition From The Dethroned Novo Nordisk (NYSE:LLY) - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQanBfYWRoWU44LUtnOVNZLWpRRk5QaVIxa1JtTy10YnY5di1SRGpoclc3SVpjT2pPLXJkQnNjZ0hEZ2F1VWo2NE1QSFJvMG50ekFKLUNTSkNfZ3kta2hGV01MQ3pvRWM5NTZiQkVvcEJhY1Ntd3VCTzR3OHNyc3Y0Qmo4U2FKY1lXQ2xtQmNsNTkyZDdWR05tMEhIMk9uNnExcHVpbg?oc=5",
+      "published": "2026-08-22T07:00:00+00:00",
+      "publisher": "Seeking Alpha",
+      "summary": "Eli Lilly: Shaking Off Competition From The Dethroned Novo Nordisk (NYSE:LLY) &nbsp;&nbsp; Seeking Alpha",
+      "query": "LLY competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Stock Split Watch: Is Eli Lilly (LLY) Stock Next? - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVDRENmlCb1RfbWprZ1Rzcl84cVh1dnJtZ185dG9mOFoyUTZOSXRBWjVRYlZtSzlSZzlsUzNDQ0k0dFdEOExnajNTY3NuQzhkbVhMcUQxSHIzUl9wU2pwaG8tWWcyQjY0d3dxd2ZJQml6X0JfempubVotRlBxc055bHg3a09aRC1jTndFZ2hjQWUwcXVpc2Zv?oc=5",
+      "published": "2026-08-21T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Stock Split Watch: Is Eli Lilly (LLY) Stock Next? &nbsp;&nbsp; Yahoo Finance",
+      "query": "LLY stock",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Stock Forecast: The Market is Sleeping on Eli Lilly’s Next $1 Trillion Opportunity - 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQd1NkQ0g3X1c5dDBNNG8ybFRJbVFYeThWMnBabXBDVmZXLTJKaUNlYzg1Ym5TZkl6THRmWFBFXzNqOWFsSXhBN2RuLVF2SUM4clFkcWdwck00V2dsOVJWYXZPc2QtSXNaMDBsQlF4UmVWeWY2NFVLejBkRFVkbEJRTHppbXJ3dGgwYk9PZzNiV2xKTFZBU3p3bXZwUGdPakZqM2ZqTHZVb1k0S2h3ZEpMdHZweGx1VF8weEN4NC1ReGQ?oc=5",
+      "published": "2026-08-19T07:00:00+00:00",
+      "publisher": "24/7 Wall St.",
+      "summary": "Stock Forecast: The Market is Sleeping on Eli Lilly’s Next $1 Trillion Opportunity &nbsp;&nbsp; 24/7 Wall St.",
+      "query": "LLY revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [
+        "guidance"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Eli Lilly, Novo Nordisk and Merck: Buy, Sell or Hold? - 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZlFTdXkxbTVidkRTLVNSVDJuQ1dkVnhsQ1U5Q2F3LVNidTgxUFF4UEtlUnk4dGQxVkhHbUExeHFMai1kb2RNZ3YxNnhqeEQ1VVpRYm1ZZ2o1Z2tVM25yaVRHaWJxa1VtLWRkQnFHQTdYblczODhhQ3R0UXdfWlowYWZ5M045M2VQWUJFNkFsZGkxMkhEUmQ2OA?oc=5",
+      "published": "2026-08-19T07:00:00+00:00",
+      "publisher": "24/7 Wall St.",
+      "summary": "Eli Lilly, Novo Nordisk and Merck: Buy, Sell or Hold? &nbsp;&nbsp; 24/7 Wall St.",
+      "query": "\"Eli Lilly and\" analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Why Eli Lilly (LLY) Stock Is Up Today - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUUtfYU44aHpLZFpHLUQ2Rm43ZC1DVDg1STBZNlBEY2dqVm9YLWdyWUtlS2t4Uzc5d2pRcVlESGwtcE04Qlh3RVdlUDItM05fWEQwa1UyRmkxVlBUU21EeEhZT25nbzR6MlpldWRxTUJRNjlCY1FCRTE4WFV4WUhTclI3eDFnSHhWbUlvVg?oc=5",
+      "published": "2026-08-18T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Why Eli Lilly (LLY) Stock Is Up Today &nbsp;&nbsp; Yahoo Finance",
+      "query": "LLY stock",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Eli Lilly and J&J bounce on new data, as software stocks give up last week's gains - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPenYtWjlNbWt3cTZJOG1TR1hBSlM5SlAzQTJFVjU0amdZNGhuNXl4bmxoZ0htYWhGSUI3TTRlS21NZnBFSDBvSDdYVVAwSDFwMkR5ZE9OWEc2R0NWSzFSNW9TSGhHMVJweDhheWw1SEIwSmJWSEZycUo2VGp3R1hKam96QUIyVThMTTV1NXhvWDNBb05KakF3WDNuUGJzS1dX?oc=5",
+      "published": "2026-08-17T07:00:00+00:00",
+      "publisher": "CNBC",
+      "summary": "Eli Lilly and J&amp;J bounce on new data, as software stocks give up last week's gains &nbsp;&nbsp; CNBC",
+      "query": "\"Eli Lilly and\" stock",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Eli Lilly’s Weight-Loss Pill Just Went Global. Is LLY Stock Too Late to Buy? - TIKR.com",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxON3NQVXlGeDJ0YUNHODhmaFN4b0FJZjA0LWtRZzlvYUl0SDFhQlpabEFHdWJnQnc3ZTBOQWRaXzE4emRPNkRWUldTYklOdnlwbVZKQnR0ZFFwNXlyYmExc0dndFBkT0NtZ0stc3JDRkJ2dm43SHpSVngyWUtOTGpQTmZIR2hYQ29CUGxEX3JvMHhVTnFGRF9FM2RlVUtwWm9X?oc=5",
+      "published": "2026-08-15T07:00:00+00:00",
+      "publisher": "TIKR.com",
+      "summary": "Eli Lilly’s Weight-Loss Pill Just Went Global. Is LLY Stock Too Late to Buy? &nbsp;&nbsp; TIKR.com",
+      "query": "LLY capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "negative"
+    },
+    {
+      "title": "Novo Nordisk CEO defends lawsuit against Eli Lilly: 'Competition has to be fair' - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQUk1YTNrS200TmdDUl9lWlhCbTJkblJzcnpMVkthUmhhZjI2RVlxUGtUVmVpV051ODdXY3Vyb0NYQmdkSzdsNTFXS19xRkFLMlNJMDAxRm1VaVlyT3dDcGwxN0VMN1RqejdCbFVzWDBUVFlRd2t2VncxR3FtNkhBVXhXdjgyeHAweUpGUkNMTETSAZYBQVVfeXFMUHpVVldySm0xMmdMUU1BWjFJaENwQ05oRWRoQ2I0VDJxbTRfWktnZkRDUkhtZTlscUVCZkUwU2JuanViRDBhSlk5RW5CcDlrdkFJbkhVd3Q2TDRWYXdpYi15aDJuUEdVbkdIcjNDZzI5NnFVODBTSmJpTWxFOUZFRkxKQzQxMHA3RUI4UlFHNnA4SG4tUENn?oc=5",
+      "published": "2026-08-12T07:00:00+00:00",
+      "publisher": "CNBC",
+      "summary": "Novo Nordisk CEO defends lawsuit against Eli Lilly: 'Competition has to be fair' &nbsp;&nbsp; CNBC",
+      "query": "LLY lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory",
+        "management"
+      ],
+      "lean": "negative"
+    },
+    {
+      "title": "Lilly calls on online platforms, payment companies and regulators to shut down the illegal retatrutide black market - PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPNkhRM1p0a1h3ZlVRSnlTSlEzUUExdDZiSXJnWmk4TUFIMlo1ZmVVQ3lCWWotZTJ1Vk5iQURiT0dSNmFISU1sSTdaMnVDaFVrT3l3MUg3ckRHQ2dGT2pia28tY183RzV5UVRmeFdoQndlb2V1dUVXR3R3cWs5UFVYMy1HUVNWNUZuZmQ1Q2hiMGJWYlVGLW5RNWdTMmdxdUNlMG5kWWIzOFd1cVkxX2lCaWhrZHoyak5tX0xDajFPdEkwME50Nlp0eG5tYnJ4dWJkNnR5TFlVOXZfT0dBSTE5SFJhMURJUl9wbUo2V3FsZVBxdEJrRUFBalotcnJCWEk?oc=5",
+      "published": "2026-08-12T07:00:00+00:00",
+      "publisher": "PR Newswire",
+      "summary": "Lilly calls on online platforms, payment companies and regulators to shut down the illegal retatrutide black market &nbsp;&nbsp; PR Newswire",
+      "query": "\"Eli Lilly and\" lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Lilly files six lawsuits in bid to shut down ‘black market’ for retatrutide - BioPharma Dive",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQN1lOYXRDUkN1VHV3d1RJQUlmSFJ1dlVwV3R3Um5fNlo5ZjNPRnM5ZUtRa0UweWV0VlQyMEMtRjVoREhvWW02LTQxaTE5MkFueW1OdV9PTzh6dHk5RnAzbTZjczdxUGRjc2JFZ19nZU96dlRWVnFiaUY0Z2ZKdklKQjlIRTViN2I0LXFDelQtYjhSZGZLM0ZCMFdR?oc=5",
+      "published": "2026-08-12T07:00:00+00:00",
+      "publisher": "BioPharma Dive",
+      "summary": "Lilly files six lawsuits in bid to shut down ‘black market’ for retatrutide &nbsp;&nbsp; BioPharma Dive",
+      "query": "\"Eli Lilly and\" competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory"
+      ],
+      "lean": "negative"
+    },
+    {
+      "title": "Eli Lilly Beat Big and Raised Guidance. Wall Street Sees More Room to Run - 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORFBQQkhZSmZuY3FnUktXeGZ0Y01FMWFBazBla1lzOC0yM3RxVmh0c1lXZG9OM2RGNWxfN0Vpbi12YUpaN2dGMzRkR2REamR0d1VINGpMVTYzOVdXU05hdHpBNVJIWkJBaW1qNERiMWcyQ181dEFvMkdhUU5RR3VEOUxhY1g1dm10bmFQbV9telNpTEUza3FiOFZ5dl9VQ2dZOVY2ZTRhOUF1ZGRUZEVHQ1c0WVRSMnc?oc=5",
+      "published": "2026-08-11T07:00:00+00:00",
+      "publisher": "24/7 Wall St.",
+      "summary": "Eli Lilly Beat Big and Raised Guidance. Wall Street Sees More Room to Run &nbsp;&nbsp; 24/7 Wall St.",
+      "query": "LLY earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "guidance"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Global drugmakers invest billions to boost US presence - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNOXpTeHpFWXhrT3JvTDhZVUFoMkFkbWZUZ1BGRUhldl9aZzdjRGh2T1dzb2lrcnNkMkJzNjFVSmE0aDh1dEJwc3J6MHdReFBRbXk4UU5ZSGRFSWxrWHJnVEdQaXpHYVJjQ3ZNdk1tS21VQ0tCSnhoVEF5Q1VlaHdBYTFTQnNGZy15aXhobEIwdXB6bEE2Nkc1WVBoblRleE1ZY3lLRER2c3d1RHlBUGQ0ZkluTV9ZVmxDSmpObDZaYlpERjRueWVSbFBsU0o?oc=5",
+      "published": "2026-08-11T07:00:00+00:00",
+      "publisher": "Reuters",
+      "summary": "Global drugmakers invest billions to boost US presence &nbsp;&nbsp; Reuters",
+      "query": "LLY capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "The divide between Eli Lilly and Novo Nordisk is widening after their latest earnings - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOb2dUNGllTE5tVDhEbmFKRmdLbzBkOEVhZGczREdGVjVGRnhVRUVKZVV6aENnZ3F6ZEhaSG45YU1LRXhYMkdJeEpXZWN1TGx3VEhRWHJURUlPUmJ5R3JkN1l1TlhUVnNfRWtkWE9pZUxiR1RCTFY4ZlNtRDFUa285aDhkN21EUUnSAYwBQVVfeXFMT3dIY2swa1BIbmc3Qkk5UjFQU19OdGh4MDVkNndVU0JKRDFpd3ZxMWxLQWhCTDRTekhXdnd1RTdYcEZQRGpUNlhUM1M5SGJPLVpKNTBZTUxYYmpkVGluUHVWUG5xQlFqUkFydG9JY3p4VUtiZWlzd0MzY0VBVDVtUkFJYnN3Y3lxT0poWkk?oc=5",
+      "published": "2026-08-06T07:00:00+00:00",
+      "publisher": "CNBC",
+      "summary": "The divide between Eli Lilly and Novo Nordisk is widening after their latest earnings &nbsp;&nbsp; CNBC",
+      "query": "\"Eli Lilly and\" earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Lilly, Novo defeat antitrust lawsuit over GLP‑1 drug market - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSmFnbktQR3FEcDJsYjZqMmI5Y3UtLS01amdfcFRST194VHBlSFhlUlJiRnFEMzlTS3BnR3I3V01iUUpPVTFzaE1kZDROS1lLeDlxMkxMR0FGSnVJODQzR0VyQjVrVkk0djU4WndHRTMwX1hkLVBjaXhxd19iRllSYWZqZnhzdXEzTGktU2pLXzcwQ2tYbno2VGc3d1NfaFI3cnNkM0RvbElQbENPQ2w4?oc=5",
+      "published": "2026-08-06T07:00:00+00:00",
+      "publisher": "Reuters",
+      "summary": "Lilly, Novo defeat antitrust lawsuit over GLP‑1 drug market &nbsp;&nbsp; Reuters",
+      "query": "LLY lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory"
+      ],
+      "lean": "negative"
+    },
+    {
+      "title": "Eli Lilly easily tops quarterly estimates, raises outlook as Zepbound and Mounjaro sales surge - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4wT092aW9Jd0d1MTFTR0hmQzhRd0pnQVVheDRad1ZFMXhYZ0ZIZjMyWFRwUTQtSFdHMVdWOUlHa25ZRVdtQU5PclBJenBoU28zVFN3UWNGWFR0Z1hUcGF2NWdUcVpFOU9HQ1VxbDJxV1NkSVRNZ0HSAXtBVV95cUxNWG43amNEbmRBNjQwVjNVa0tRTzlwQTVZLUExeGhGZU1FLVBBUlRzR21YRHN3YWstVjgzNWhGVFpfTDIydEVXb1lUNS11d2ZBOUdTR0NoNmExOE5YMDVLeVo0TUR1b1dQSXBfTUFyQm5PU0FZM05TTm15Q1k?oc=5",
+      "published": "2026-08-05T07:00:00+00:00",
+      "publisher": "CNBC",
+      "summary": "Eli Lilly easily tops quarterly estimates, raises outlook as Zepbound and Mounjaro sales surge &nbsp;&nbsp; CNBC",
+      "query": "LLY earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "guidance"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Lilly beats estimates on resilient demand for injectable GLP-1 drugs, widens gap with Novo - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNQUM2ak5mV1hSTDU0UzlDQVoxVERuOTNXT1p5OTJmbkdjaWFlVHBnLTVORDZkQmdBY0hFYlZCZzJsaV9lZTl5QXBFMUFLNDBkYmxoRi1CUXZncTVOZnE3NXFzb1dGdG93d2Q3MHpQelNsLV9jbzREblJEMmtOSTZBbTkwaGxzc3ItV0RPNGJHNk04Ti1kaEQ0UG04ekxRNk94SHBuUFprcl9kY2Y3dmxuTjh5RHBaQWdlR1Y4T0hTTjRZY1QwMnhjaXJzQTJNZjl1WlpPUFFmcVBCTkNBc253?oc=5",
+      "published": "2026-08-05T07:00:00+00:00",
+      "publisher": "Reuters",
+      "summary": "Lilly beats estimates on resilient demand for injectable GLP-1 drugs, widens gap with Novo &nbsp;&nbsp; Reuters",
+      "query": "LLY revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "demand"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Eli Lilly Q2 Earnings Review: Breath-Taking Results Mean Higher Ceiling On Stock Price Target - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVHJKQkVoLTVxNU5COHB0S2pUYkNyaHJJNmNXZ1hqbUxsaEZ0MVE5cDNCd1h3d0YtS21VeDhEeEpUVTlnRTlWZnByS1hpckVjZHFlMFA1UlgwMGlLclJUV25MNEJsUW1rempjR3lhWFFlTFQyNWgzVVNfWmw4RmhROHlMeHRnSkhyN1NDTUpvbVZhakdkcU42U25EdjlKNHcweno5U3A3LXFIU3pzVVBuRFNMa3M1Q2wydTNr?oc=5",
+      "published": "2026-08-05T07:00:00+00:00",
+      "publisher": "Seeking Alpha",
+      "summary": "Eli Lilly Q2 Earnings Review: Breath-Taking Results Mean Higher Ceiling On Stock Price Target &nbsp;&nbsp; Seeking Alpha",
+      "query": "\"Eli Lilly and\" analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "analyst"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "GLP-1’s Drove Eli Lilly’s Record-Breaking Q2, but AI Will Be Its Future - 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUU9NQkplVHNoX0lkZ0hVZHFvUEhLazVwUkpIb3kydkpIREZVT1J3Vll4YlY2UHB3ZmZpLTNEdjBjMmgxdldpM2N0OWlpQnc2cU94cGlXYmV2dVJSSTR5U2ktY0xta0o0MXd3Xy01allrYTVLUUl2ZFlER3Y3bDl0NzlJUHFHMGZNejczRWk5ZXZOWm40YTFPY0NEV05iOV9ZMnI4VExEU0ZNTHpKRVVVSVZB?oc=5",
+      "published": "2026-08-05T07:00:00+00:00",
+      "publisher": "24/7 Wall St.",
+      "summary": "GLP-1’s Drove Eli Lilly’s Record-Breaking Q2, but AI Will Be Its Future &nbsp;&nbsp; 24/7 Wall St.",
+      "query": "LLY capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Here’s How Much Traders See Eli Lilly Stock Moving After Earnings - Investopedia",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbzIzRXAzaldwazFtVHpoYWk5QkE5dzRNWWJqZU9DbzYxalJIMUt0WVFVZ2YyV0NRNkVWbkRIbllwVXdDZUtNeW0wLVNrak43eTAzWkpKYnpQaGFZRWtBRTg4U3duUU1sTnQySWhtbThYVlMtMmxFeFFiMG9Wb0Z2UFktMnlGQTEyaF9UMEl0QmF1NGQ5RmRCNnJaUE5jeXFFcEdCdVFQTzJ1aEJlVE1WUHlYUVhHTDhuV3c?oc=5",
+      "published": "2026-08-04T07:00:00+00:00",
+      "publisher": "Investopedia",
+      "summary": "Here’s How Much Traders See Eli Lilly Stock Moving After Earnings &nbsp;&nbsp; Investopedia",
+      "query": "LLY revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Eli Lilly (LLY) Stock Looks Below Fair Value On Cash Flow - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOalgtWkkzdFgyUFdXb1B5aDZETlY5eGpzSjZQTG12Q3ZYaUxhbE5PT25VNlBOWGw0Q1FWRVVkQnB5aFBvX282RDFFOENHU2JmVHd0Mm9uNVJDLXJGN1RZT0t4T0NwaHBvX1RHT1hUM2FyV0JmU0JTMXZJWUc2Und4VmhESUZEYjdIZHRrQ1p0YW45WG5v?oc=5",
+      "published": "2026-08-03T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Eli Lilly (LLY) Stock Looks Below Fair Value On Cash Flow &nbsp;&nbsp; Yahoo Finance",
+      "query": "LLY stock",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "What To Expect From Eli Lilly’s (LLY) Q2 Earnings - StockStory",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQXd5dnVYRThQQzBZX1RubXUyMWF6VUN3OVJ0czRjSjFBQjNGMEZwbXNpYzZ2c1RrbkNxTldVTHl0OVljbjQ2YURTZTg3ajRWSjlTckUwMTUzX3g3VVI3SjNObU43Q3FaSE9jNHh2MVQ5MjZZY0pIMExVaXJlTWs4UnZjVG9paDNGQXJNYnVyWDRjSUVma3RsTmpDVTYyQkVILXRfOQ?oc=5",
+      "published": "2026-08-03T07:00:00+00:00",
+      "publisher": "StockStory",
+      "summary": "What To Expect From Eli Lilly’s (LLY) Q2 Earnings &nbsp;&nbsp; StockStory",
+      "query": "LLY analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Eli Lilly Reports Q2 Earnings August 5: The One Number That Decides the Reaction - TIKR.com",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVDdwcVQzaDVrV0lscGMxM1lqbTBUWXRzZGpKNzVncGc2TGFOTWlpa0xaNFVYcDJLS3gtQU5MREFuR2ZJS1djX3ZRUUVpX1cyQlVMMTUzTlNLYmhnVVBMeXhqOG13b3h0Sk9IWjdya2tLMU9UZ1J6XzVnUENKanVIZ2lvSkVXaTM1dUwxbGljSXpoeW5mUTVoWE5YRmdsaE5kY1N4WnpNcks?oc=5",
+      "published": "2026-08-01T07:00:00+00:00",
+      "publisher": "TIKR.com",
+      "summary": "Eli Lilly Reports Q2 Earnings August 5: The One Number That Decides the Reaction &nbsp;&nbsp; TIKR.com",
+      "query": "LLY earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Eli Lilly Stock Has Skyrocketed. Novo Nordisk Has Crashed. 1 Number Explains Why They're Not Even Close Anymore. - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdGJ0eVhzQUdEX3picktjTFJET1YyenZjMzhtc2R2cjRnQnVuaGw1V0dCU014MVZNd2Z5b3VMWnMwVmQ1bHN4eU1YeTREWGw3RmE0ZHE1ZmJISzhGeF9wVmJhcERRUGVwSW44dXVaZUYyZEp6b2JkMVptZThtQVVmdmFJR3pwUnBsYk5DU3RMdGhrY2lNWUhHazJxc2dRQQ?oc=5",
+      "published": "2026-07-31T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Eli Lilly Stock Has Skyrocketed. Novo Nordisk Has Crashed. 1 Number Explains Why They're Not Even Close Anymore. &nbsp;&nbsp; Yahoo Finance",
+      "query": "\"Eli Lilly and\" stock",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Novo Nordisk vs Eli Lilly: The Better Buy Before Earnings - 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWWZwRkRMVDlfaWVjbERUeDUwN1JvUEN0SXZ4UzU4NDA2R0V1M09hTnR0QnEwNlc3R2U0b2dJcVRmSTRzQTktNlp6ZTBWSTUwZXo2VzBoUXl5d19XVFJSa3pyVFk3Tk1qNEZjSUFINF95Q3gwekpmVkg1dk9tY2R3Rnl4Mk5YMGQtdG5wMTNsci1HQ2psVDBnRzNOLWVFdjNycFE?oc=5",
+      "published": "2026-07-31T07:00:00+00:00",
+      "publisher": "24/7 Wall St.",
+      "summary": "Novo Nordisk vs Eli Lilly: The Better Buy Before Earnings &nbsp;&nbsp; 24/7 Wall St.",
+      "query": "LLY earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Novo Nordisk vs Eli Lilly: The Better Buy Before Earnings - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdzNJbnNBMDNLV2hhTUtWRGtrNjM5SVc2UllpcWp1bk5yc1g4cUx2VWJZZ0xuV3lKandycF9Fb3djeTdxZTVpOHJEdkRZT25meDFIUllxY0NoeUNJTG1zWDFfOXRaN1dGUG95WVozQkVyMk1iRHFTYlZYN25IRTFEdTJyQmlTYkFGQjBCRTRmSQ?oc=5",
+      "published": "2026-07-31T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Novo Nordisk vs Eli Lilly: The Better Buy Before Earnings &nbsp;&nbsp; Yahoo Finance",
+      "query": "\"Eli Lilly and\" earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Lilly, Resilience to invest $750 million in US drug manufacturing expansion - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSHFnb1dTWGJ6SE15aHFvd0VzUzVZSVhpckJQd3BSMmFTRndTdkdYRE9PTzlFLWtrMVdGbzFzeUYyUUJSVHlyTWVVOVlIR3gtWktNTVNFbm0yTFg5Y1JLamY5czZWaUE2ZkF0dE00eWE3aWEwVW9aejU0b3l5b0VPOTRFbmRyVHZnSGRnWnF5NDFlUnRKTkhLd09QRTRhbHZRWU13dW9UVVIwa3piQlBKaldoSnlydUhVN2lWNw?oc=5",
+      "published": "2026-07-30T07:00:00+00:00",
+      "publisher": "Reuters",
+      "summary": "Lilly, Resilience to invest $750 million in US drug manufacturing expansion &nbsp;&nbsp; Reuters",
+      "query": "LLY capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Eli Lilly taps local manufacturer to boost obesity and diabetes meds - Cincinnati Enquirer",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOcTlSSjZnNFdxM3pFcHBnNEVwWHYxOFZEaUVYaTJONE5peGlLMTdIaVJDdHg5MEtORzJXV2VyeWhpMWFHRGswcG5MUlg0amVzeXlfQ1lBdmFwS3BUM21Zb2Y1bWRwVDB0WnJLUE9lS2hJeG91ZDFSS2FlcjBZaWpFQWs1NGF2bUlXM25JbDJ2MmFTNFBBdnZ6M0JiZlBFU2EtS2R4TUZ6ZkR6TWtzM1lIOFZQZklYWEhlMEtoODRPU28xc0pkenRYbTlyaHo?oc=5",
+      "published": "2026-07-30T07:00:00+00:00",
+      "publisher": "Cincinnati Enquirer",
+      "summary": "Eli Lilly taps local manufacturer to boost obesity and diabetes meds &nbsp;&nbsp; Cincinnati Enquirer",
+      "query": "\"Eli Lilly and\" capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Ahead of Earnings, Is Eli Lilly Stock a Buy, a Sell, or Fairly Valued? - Morningstar",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQcl9Ba0UwX0dJOHBEUXNnZ0FLUkF5Z093a3I3QUFGUktRME1Gd25kZ0lZandDS3FIdnk5RmE4STlydjVUbXR4OVVPYjJpeG8tNUFSUEdJYlBYSXpreFN1MDlLZ1ItRkU0dTFPTlZKTTlKOWhrbDFPdUdkMnAzcW5TN2hXa0lfMURZdXZsUDVOT3J2dHhTcFVXeVQ0YjM?oc=5",
+      "published": "2026-07-29T07:00:00+00:00",
+      "publisher": "Morningstar",
+      "summary": "Ahead of Earnings, Is Eli Lilly Stock a Buy, a Sell, or Fairly Valued? &nbsp;&nbsp; Morningstar",
+      "query": "\"Eli Lilly and\" stock",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Eli Lilly (LLY) Earnings Expected to Grow: Should You Buy? - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPOUNKQ1hfY09MZEp5VmZ1NWtPNkJqck1seWNRaWhFQTVtcXJLQXRxYUhRcjRWcjRPUGk5R0tHZEZKNjhIeEJNMDc2ZWxNNzNDbDNsMjhYWWU4M2ltal9JLUZydjFpbUtpaHZxeXRnSmIxWUJ4SWlfMU5yRjBrWlNrQ0ppVE9MOUlyTmNhVl9QaVJqTkRsanEyX281NWs?oc=5",
+      "published": "2026-07-29T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Eli Lilly (LLY) Earnings Expected to Grow: Should You Buy? &nbsp;&nbsp; Yahoo Finance",
+      "query": "LLY revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Why Is Novo Nordisk Suing Eli Lilly, and What Does it Mean for Investors? - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNYmQ0blRUYkpaWkcwRHd4ZDJNbmJwaUZST3AtSmdQcTFHaUF3UGJYcjl4YUY4eWxiZ18wLS1BX1ktT1hpeEhXbXc4dmYzaGJvTU1KNTd6VElrV0UtVEtMdGVQTlFhWDB0QkpkYmNfU1ZfdkhEMHBaNWhWdVFndktYLTJlMjZiZTlCeV93REhfbGE?oc=5",
+      "published": "2026-07-24T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Why Is Novo Nordisk Suing Eli Lilly, and What Does it Mean for Investors? &nbsp;&nbsp; Yahoo Finance",
+      "query": "LLY lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Novo Nordisk pursues preliminary injunction to block Eli Lilly weight-loss drug ads - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOa3U3YkVSSzk1QnM5WTU4NEhfM0xGUFBoVE9Zal85LUR0OWRoMlZuOVBERFhoUnVwdlFFOVNtV0VlSFVCRTZIcHJENDRWZWJmeUtLQzNUdjFLX09wNXBCZzBISmFfN3NrZDc1a3ZlaEVuOUtmeU42cjh6dWVxbWprS0pzSzZaNmRDM1N5SXFhZm9VZ9IBlwFBVV95cUxPNEtZakRmQ09DVXZvSkJSRUt1cDVIbVNjZkswcW01czVUZG1na1lRdkVnaUFaVWFRdG40OVJVNGNLTzZsaUFPRHl4WGRXYXVfdnZ2NmJaeHU1R3k0TFpMUkhnNmMyUFNlUy1NUTZlTmF5RmpFT1h6VFdJNEt6RzVTaUZ3aURoV19mN2R6RHUzLXh4SnNPb0lR?oc=5",
+      "published": "2026-07-24T07:00:00+00:00",
+      "publisher": "CNBC",
+      "summary": "Novo Nordisk pursues preliminary injunction to block Eli Lilly weight-loss drug ads &nbsp;&nbsp; CNBC",
+      "query": "\"Eli Lilly and\" lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "negative"
+    },
+    {
+      "title": "Novo Nordisk seeks preliminary injunction days after suing Eli Lilly - MobiHealthNews",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcjl5dTdmVjdTTWdveFdMLWpmQi1VWWFIOWxHSkRNODBwZUpTWm9KcjhwUlRMMmcyTUkwQk9nT2xIb2VNbzF4NWVmWHN5eHJ6bGxyOTBnVm9iMnM0dzZFSEQzQXdoTlVKX0ZzS2VIdmlLVmZkajhHeUFKV0hteS05TGhXWHY3eWpnaU5vZi1tQzdjYWQyeHpIVDVsbTNnekxKSnZkaUhISQ?oc=5",
+      "published": "2026-07-24T07:00:00+00:00",
+      "publisher": "MobiHealthNews",
+      "summary": "Novo Nordisk seeks preliminary injunction days after suing Eli Lilly &nbsp;&nbsp; MobiHealthNews",
+      "query": "\"Eli Lilly and\" lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "New Bill: Senator Ted Budd introduces S. 5043: Secure Drug Supply Chain Act of 2026 - Quiver Quantitative",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUHdQUjdVU1lDNkZrY0ZpQldQOGU1Yl9QYmhNTEdkYmFTektNSkJCNHI4WGdiRjRaOGJlZ0hwRjMyX3BlVk1rS3dmZjdfR244cXp3U0FNc0x3UzFmS2d2Q1dOcjRjSGZKUWp5SjVGTjJtZnRzeXQ3Qm9Yd0txXzBqQWxFTm9YendyeDVubS1QaExQWFRVUHBzMkZyWVdJSFBuZl9aT0xtWmtlNXlXakVzWk5aWGd1c1F0SDNJOQ?oc=5",
+      "published": "2026-07-24T07:00:00+00:00",
+      "publisher": "Quiver Quantitative",
+      "summary": "New Bill: Senator Ted Budd introduces S. 5043: Secure Drug Supply Chain Act of 2026 &nbsp;&nbsp; Quiver Quantitative",
+      "query": "LLY capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "West Pharma raises profit forecast on strong demand for injectable drug components - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNQk03QWtEVVA5d0hkTWF5eEJiN3VVLTRRbWxNWk0zZFljZm0yWmtHNDJpNVhBWUNGY3NyUnVneGF3cVY2dk9RVFJiTE5VLThna0NzWU9RMDhGRVpEWFRlZ2F3aFNlS3ZLRG5ZN1hzZFVkWnVpTHBpM0pQSEx5STBmWWpCejByRXd4aGFBaGN3MkdKWGc4ZW9fd3JhdFhwYURoaFJSUDFqck0yQUJJYmpjdUVQZEg2ZFdVd2hpblVzZ050QVVsdlZwbGY1UjA?oc=5",
+      "published": "2026-07-23T07:00:00+00:00",
+      "publisher": "Reuters",
+      "summary": "West Pharma raises profit forecast on strong demand for injectable drug components &nbsp;&nbsp; Reuters",
+      "query": "\"Eli Lilly and\" revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [
+        "guidance",
+        "demand"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "How Novo Nordisk’s GLP-1 Advertising Lawsuit Against Eli Lilly (LLY) Has Changed Its Investment Story - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSHJsR0tROTVyWXpKQVA4QmNOZDlzN3JVeXBleElXTjlSQS10aGpxbVBoS3BzRGl0ZllVb0pSdE1SQk9zWmlXb0Y4YjYwZXNRaHFOcnNpVnNyT2x3SHY0TURQQkJNQU8zX2FGRDctc0xXOXhHUFFoN21OMDlxcHZRWFFyeUdzSkJjZlh3bnY4cHpCSkhvNHc?oc=5",
+      "published": "2026-07-23T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "How Novo Nordisk’s GLP-1 Advertising Lawsuit Against Eli Lilly (LLY) Has Changed Its Investment Story &nbsp;&nbsp; Yahoo Finance",
+      "query": "LLY lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory"
+      ],
+      "lean": "negative"
+    },
+    {
+      "title": "Novo Nordisk's Federal Lawsuit Against Eli Lilly (NYSE: LLY) Reshapes The GLP-1 Investment Landscape - foreignpolicyjournal.com",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNLU9EMFJ4OWZrTFJaaUltQVNkRGI5OG5oMXM2SUJSbEoxdW40OE9HNkdYMkNOSFVJYUtyUmYxSDRGUVdVcUlieTVmMzRTcEtpWU9jM2JhV3duUTc2cnlvNjRCM0doajQ3ZUIzNlJEN3duLTZvWmhfY0FfRk5BRmpaY0t4UE1nNXJvOVFDcmg5ZmhiR015UDdfc0ptZG9Rb3RiNmhwQ2tUYlRHT3pENk1BS0FpQlVtcXNLZVdNN09YWjNBMlJJUE1hRVl3YkFoeHN3M0MtazZCY2hGdUVKRlE?oc=5",
+      "published": "2026-07-23T07:00:00+00:00",
+      "publisher": "foreignpolicyjournal.com",
+      "summary": "Novo Nordisk's Federal Lawsuit Against Eli Lilly (NYSE: LLY) Reshapes The GLP-1 Investment Landscape &nbsp;&nbsp; foreignpolicyjournal.com",
+      "query": "LLY lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory",
+        "macro"
+      ],
+      "lean": "negative"
+    },
+    {
+      "title": "Construction begins on Eli Lilly's $6.5B manufacturing campus in Generation Park | Lake Houston - Humble - Kingwood - Community Impact Newspaper",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNRHlkdDFQSk94TlIwT3EzaExGQnJwS01DNTg1ZzBsUlExT3JoN0F6Ml9pX0VSdjZwUHJVZURON0EzOGNNSWVhUnFGaWxRX0ZIWUV4Smo2Zk10RnpSUDBJS3VydTFFVFU4TkNkVW9mNE5YUzJDWHBfaE9yOGxWZlZ5VEdjbm9kdTctUG1KY0FBaXZRandvVFRyQm4xcHlzR096OGEwRThHY2pNUk1LSzJjbWQ1QUMtWW93aEV5UXdUOXEyTmpRRXRuenRDY2Y0SlU5OUJtSUxmV1JIRWJNUXlfeA?oc=5",
+      "published": "2026-07-23T07:00:00+00:00",
+      "publisher": "Community Impact Newspaper",
+      "summary": "Construction begins on Eli Lilly's $6.5B manufacturing campus in Generation Park | Lake Houston - Humble - Kingwood &nbsp;&nbsp; Community Impact Newspaper",
+      "query": "\"Eli Lilly and\" capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Novo Nordisk sues rival drugmaker Eli Lilly over GLP-1 ads - LiveNOW from FOX",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPS3ZLYXdtRTdYNkNtdGI2SWJoTGROQzRUVDlHN0Z2M0ZXdTNTVFM3aFNsa0puTUlfN01oMmYwTXR0NGhaMzlORk9VMmZYX0E5M3pHRFVPRHM1cXdZZS0xaDY5VGVDZUR4b0JfQ2RIQlBSalhkNTEtZEhpWFREaEsxMXRGX0poUktIVmR6MHExX2RqVWRN?oc=5",
+      "published": "2026-07-22T07:00:00+00:00",
+      "publisher": "LiveNOW from FOX",
+      "summary": "Novo Nordisk sues rival drugmaker Eli Lilly over GLP-1 ads &nbsp;&nbsp; LiveNOW from FOX",
+      "query": "\"Eli Lilly and\" lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Does Eli Lilly Stock Have More Upside? - Trefis",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTEN0cHdFcU1Bcm56Ty1GR0JPaC1qdUt4S09ZblNkQXRZaUZtaUV2N3FTc1NSTzUzZDBqMFpYclRJZjVMckQxb2xrWFQ2aTI4WUttd3l2UW9IQXlGQjhYVXljdUJSNFR1QVBkZHdhWG1EcHNGcWFsdXlHR1R6cl9kcmxSZThKbXE1NjlEblZRemg2ckk0c2tmcGktYUJ1eWxuVWNzb3BfTndKaUE?oc=5",
+      "published": "2026-07-22T07:00:00+00:00",
+      "publisher": "Trefis",
+      "summary": "Does Eli Lilly Stock Have More Upside? &nbsp;&nbsp; Trefis",
+      "query": "LLY competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Novo Nordisk sues Eli Lilly, alleging misleading GLP-1 advertising - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Sd3lySXM2YnBPcmR4OWJITkFTYkNKRFpVNGI3Z0t6ckc5M3Ewa09JZ1F5WXFzUld1cXpkelplWmVlc1hzWHVsbVNkZ2Z2MEtlSkZBNzcxYnhuNnlPNV9GeHR0VTF6eWNwX2FQNG1LMmFOZVZmWUdqLS1SUmdsbE3SAYQBQVVfeXFMT1JYbUtDRUZickk2bl9MVXJoVTVpVEZRYU45bFAxWDFILTd1MDh4dHBYWS15OUVhZmxqUDU2R2VSSlRVUTY2alpSVHhScWhaWl8xMXJCWXJ2d2ttNmJONmZ5bUtJejlzbXFaY0Ixa0RNbGgyelZFY29LOGdPZjNlWTJwUkxq?oc=5",
+      "published": "2026-07-21T07:00:00+00:00",
+      "publisher": "CNBC",
+      "summary": "Novo Nordisk sues Eli Lilly, alleging misleading GLP-1 advertising &nbsp;&nbsp; CNBC",
+      "query": "LLY lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Novo Sues Rival Lilly Over Alleged False Advertising in Weight-Loss Ads - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPOVJyUmtoaDZrMnl3UjFLblhKemlSZlhCR1czb1I2RXZlVzFBX2F6U0dzMVdJN2paTzFUZGlFaXVNQ055Wk9tN1ljcXowaFFZa2RUV29pZWVKYkdyOTNFbVVwd1pWQkVuTWhyYVhXZkwtcGdKS3FoSDROSUFHR3I0X2p0Y0hucmg3b2MtcEplUzd5TlV2eTVmSndWWkdNOVNXbW0tLWFOYXVRRVBRbll3eGxwSndjZw?oc=5",
+      "published": "2026-07-21T07:00:00+00:00",
+      "publisher": "WSJ",
+      "summary": "Novo Sues Rival Lilly Over Alleged False Advertising in Weight-Loss Ads &nbsp;&nbsp; WSJ",
+      "query": "LLY lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "negative"
+    },
+    {
+      "title": "Is Eli Lilly (LLY) Undervalued After Novo Nordisk’s GLP 1 Advertising Lawsuit? - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNVkpuNzdEbVRKT3VNRWlucWwxMF9hMmhJUXVsNVRlcXV2TWFWajVQazVMa3hpc0ZkZ0Y3Z09WXy1hMUtWaVMtdmRGTEpLZjdmSzhTdE9kZy12eUQ2YmRyMmpsY2tyQW9SLU9WOFVCNDJYYW1CZk9HVTYwZTBIZVk3Y0laLTJLQkVlSDZhcUFPbHA3cGdRbUdPcEpxYw?oc=5",
+      "published": "2026-07-21T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Is Eli Lilly (LLY) Undervalued After Novo Nordisk’s GLP 1 Advertising Lawsuit? &nbsp;&nbsp; Yahoo Finance",
+      "query": "LLY lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory"
+      ],
+      "lean": "negative"
+    },
+    {
+      "title": "Novo sues Lilly, claiming misleading ads in weight-loss drug battle - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcnJ0Q2x1Wmtoa1FXcjI1RjZwUU5FclB4Q0VST1NfVUZpdHFvUHF5UUpTRkhiclhBakRJY3VKRFhIclZFTnhLcUN3NFVCdm1BTlVBU2JNYVVLaERfYUJaOGFrVEtaTTdxSHFWRU5PX25WS0NjX0ZaRklIQktDbWVRLWNMTjdCbDJ5SEZFektfMDF6ci1aOGtZU3BmNFZMaDdyV1hrRjhYTXMtVTY4dE1KbQ?oc=5",
+      "published": "2026-07-21T07:00:00+00:00",
+      "publisher": "Reuters",
+      "summary": "Novo sues Lilly, claiming misleading ads in weight-loss drug battle &nbsp;&nbsp; Reuters",
+      "query": "LLY lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "negative"
+    },
+    {
+      "title": "Jim Cramer says he's standing by Eli Lilly after rival's GLP-1 lawsuit. Here's why - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNS1VLZGdPb2swdFhDR2RST1RXalhzZ3o5MEZleTZUSWlKNlhRZGxHM2FOYmNTdndnbUdUb19WdnZPcGRZOGZzb3FrY3NHanFlcVZBM3lNZUhuc01SUEhBcExYLXd4c3lJU3F6alJjekZmaE1relpRVV9BNU9RUnRfOFNhOU1YMndLUUU5OU1mQ1czdnJKSUgwVVJwaTl2ZjhSdEEwNEtlNEJ4N1JCN0tTTE5lRUpiNFU?oc=5",
+      "published": "2026-07-21T07:00:00+00:00",
+      "publisher": "CNBC",
+      "summary": "Jim Cramer says he's standing by Eli Lilly after rival's GLP-1 lawsuit. Here's why &nbsp;&nbsp; CNBC",
+      "query": "LLY lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory"
+      ],
+      "lean": "negative"
+    },
+    {
+      "title": "Novo Nordisk sues Eli Lilly over alleged deceptive GLP-1 ads - MobiHealthNews",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQWhaRmNRWk9wdjh1OGs0dzhTemZDNEF1OURsYkRUVlFGUGFBb1FWMWhXdGdHaVlXUzMxVXJZdmlITF9hQlhINFZVZmVHeWVhZTkyTGlDNXpFRXhqX3kySm9MQ2kxUzV3VTRqX3Z0WnoxbmRsNi1lOWVaMXlVcVNTNjVxeGlKNjBCV2Z1OEQ5LV9RcU1CZlRwdmZ4aVE?oc=5",
+      "published": "2026-07-21T07:00:00+00:00",
+      "publisher": "MobiHealthNews",
+      "summary": "Novo Nordisk sues Eli Lilly over alleged deceptive GLP-1 ads &nbsp;&nbsp; MobiHealthNews",
+      "query": "\"Eli Lilly and\" lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Why Novo Nordisk Sued Eli Lilly Over Zepbound, Mounjaro Ads - Pharmaceutical Commerce",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUkZqUTZ0bTQ2TGI5OUZGZDYxSFhYM0x4SExodkMxUFQ1RVJxUnpVcFhZTjA0YnlUZTFJbVdJUEtrMVNwN0FhWUZuYXVyZUZKVE5jVW9ycGZwVmpBcm5MWkpDQWUyTGZiN21NMVUtLV80NTc4ekZqMU5JRFZZWnVuWnF1NDBGSDhTMUVWQ083TUVBYjdQRzNabHdXU0VrTHRPejhmVg?oc=5",
+      "published": "2026-07-21T07:00:00+00:00",
+      "publisher": "Pharmaceutical Commerce",
+      "summary": "Why Novo Nordisk Sued Eli Lilly Over Zepbound, Mounjaro Ads &nbsp;&nbsp; Pharmaceutical Commerce",
+      "query": "\"Eli Lilly and\" lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Eli Lilly and Company (LLY) Is a Trending Stock: Facts to Know Before Betting on It - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSHFuRkdZR3l0RTM3Yjg3MFFKbE10ZlJvQUR6OEJRN1dkOXhNektsQXM4ZlhQbklPdUxBM3pZaFlURWRMeUp0b010dVVxTUlKSlVpUl9qLXBSNWo5MG9JNjc1MHJUdkIyRGFzdnAwNlA5bldqY2Y0OVd4OHl2anVHcWRtc0ZQVWpxekpSc09Xd3kxWVlOdUhyRm84TQ?oc=5",
+      "published": "2026-07-20T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Eli Lilly and Company (LLY) Is a Trending Stock: Facts to Know Before Betting on It &nbsp;&nbsp; Yahoo Finance",
+      "query": "\"Eli Lilly and\" stock",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Here's Why Eli Lilly (LLY) Fell More Than Broader Market - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMkdiNGlPZDRTWU9mYm5jWHVaNk4yNE0wa3JkcFhuSGZudV9pMFRGbDVFd2xkN2RHSzhfemtTUzZpWVA0d1poTUJCYV9YZ3pQazFHS0dnOEJWSC11c0phLWsxUFFCbFZSUThsOVIyQnBLQzhXSUo5VGlRZ2pjaUVKX25yaTJUdmlCSUpEenVFcUpzdw?oc=5",
+      "published": "2026-07-20T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Here's Why Eli Lilly (LLY) Fell More Than Broader Market &nbsp;&nbsp; Yahoo Finance",
+      "query": "\"Eli Lilly and\" revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "StockWatch: Lilly’s Up-to-$3.8B Deal for AtaiBeckley a Good Trip for Psychedelic Drugs, Analysts and Investors Agree - Genetic Engineering and Biotechnology News",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOQjZJZUM1dFpWb3ZTdFFhS2ZqdnMtREVYUUozOEUyVmNRSWhzVVVhSUhyNlg0TVUtQnNGek5KX29GZ2VYcmxHaDRnM0NDT2xoMnlmRzVuQ1hzMy1NLUZaLXpRMTBwY2czU2pIaVk4WHV0VXA1OGRVNG5PUFlZSkhhMXN6cXk3TTlJYmVkRkxzamJud1RIRjBiMXVZdVVIOEs5UmhUZUtHUTNJRTlpWGZmVW9VRXFXbkx4dkJINHhPTEE1Zk9QSWloVU5lVHFiR1BCYThNUm9XQURvRlZ0QlY1Z1dpWUVpVTVSbFNfZVd3Q2V6bVhZTW1sMFBfbjdiSXM?oc=5",
+      "published": "2026-07-19T07:00:00+00:00",
+      "publisher": "Genetic Engineering and Biotechnology News",
+      "summary": "StockWatch: Lilly’s Up-to-$3.8B Deal for AtaiBeckley a Good Trip for Psychedelic Drugs, Analysts and Investors Agree &nbsp;&nbsp; Genetic Engineering and Biotechnology News",
+      "query": "LLY acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Eli Lilly (LLY) Stock Looks Undervalued On Fair Value Yet Full On Earnings - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNb3QtcGtLYUZqNGZ1cEtqY1oyM2M1THBQaEVOSC01eVJsUnpCYlJkeXhTN3pHdVNRN2dNdmN0ZUctN3FVV1hrLVF6RUp5bkg4ZGxPM25RMXphMUlqVzRXMjc0elc2WFZlVU9YdXhpdzVaTmFWVV9SSVF0YVlQNDhBOVhmaDFObks4bVMtblpVMFFTTUxz?oc=5",
+      "published": "2026-07-18T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Eli Lilly (LLY) Stock Looks Undervalued On Fair Value Yet Full On Earnings &nbsp;&nbsp; Yahoo Finance",
+      "query": "LLY stock",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "The Most Overlooked Reason Eli Lilly Stock Keeps Surging -- and It Has Nothing to Do With Weight Loss - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPOFJEakxOc2R2dVNWcFRDQUdiX0dkYnc4VFNRSlQ4REphcmVIVVNKMU8xXzBFemlwV0dGUnJ1VHd3UHFLYmFHQ2t6OUNiRmRwaGNHMTBjZkMxNHN2b2RrWGJqODQ5TWM3YUc0NFV0d1lJbjBOZDBsbTV1RXBzV0ZncUE5NTdBNEVMdXFjREV6alZYNnYxMmVGS1BSUEhpUQ?oc=5",
+      "published": "2026-07-17T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "The Most Overlooked Reason Eli Lilly Stock Keeps Surging -- and It Has Nothing to Do With Weight Loss &nbsp;&nbsp; Yahoo Finance",
+      "query": "\"Eli Lilly and\" stock",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings"
+      ],
+      "lean": "negative"
+    },
+    {
+      "title": "Eli Lilly to buy psychedelics maker AtaiBeckley for $2.8 billion as experimental treatments gain traction - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPYmtnNzNheEZDZEFwLXY5UFBDc0FHeGc4OXZJUGgzeFNRVjE3RGtsOVhSMGFWRTRMNmpQdGRFZDNTWVhMcWR4MUNaOHB6X2g3LUloUE03NVZhZkxkeXFzeEV4ZnRYRWNaenBFZnAyT1BtNXNmU2NxS0VVcDU3SlZFLXFmYkRmOEZyRUdoQXltMkQyTmtLZ2tFejM1bHkxcDRmM1HSAacBQVVfeXFMUDYzb21fTEcxTXZjNWpnZ3IwT3VWclhOcXd3UkczSjdwTVozNDZ3RlpIZmxDVE5fYllfYURKT3dzLW1fWVNUdkc2M1dzUURiSHNKaEEzREljamltVDEwUVVNSG1WaUlnYVIxQzAybGF2LVJseE9nWnFYWkJnU0stZDM1Q3NiWXBhRTQtdWVLTElDaTNud09kQ2Nfa2wwaHF4UjE5SnkzNUk?oc=5",
+      "published": "2026-07-16T07:00:00+00:00",
+      "publisher": "CNBC",
+      "summary": "Eli Lilly to buy psychedelics maker AtaiBeckley for $2.8 billion as experimental treatments gain traction &nbsp;&nbsp; CNBC",
+      "query": "LLY acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Lilly to acquire AtaiBeckley to advance therapies for treatment-resistant depression and other mental health conditions - investor.lilly.com",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQS280WDZmcXhMU2J5MmdnQ0hKejh0X1prSWN3MDJUTko1NG1lSENxWXlLN1lfUGNVMDUtQktXYzVLd0p1c3A2WjdCUW9jUWw0OWhIek5DdlR2WTBCYmtXYWpOTTFWMnBCZjRDNzduTl9BTDlWWlJPdWc4eUd2emlJNnYzUmc3VUd5NU5OZmwxajlRMXdwTTdpZXNYUDFXeTctMTVmWnBnXzhlMk5yTjBwbFh1SF82b3BSM29tMnVhNTYyeFU?oc=5",
+      "published": "2026-07-16T07:00:00+00:00",
+      "publisher": "investor.lilly.com",
+      "summary": "Lilly to acquire AtaiBeckley to advance therapies for treatment-resistant depression and other mental health conditions &nbsp;&nbsp; investor.lilly.com",
+      "query": "\"Eli Lilly and\" acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "mna"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Eli Lilly to Acquire AtaiBeckley for $2.8 Billion - Pharmaceutical Executive",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5fUzBDVGV6MTBNY0tkXzBHZWFNenNCRUhYSzVQSkVSWXhiTl82UU5mdGFtWDN5MnRmWFN6ZmRrMGkxVzdHWXY3S1JqdlRJOHhTM1pLY0U3QnROb3NKY2JDSWd6T01Qb3ZURmFIX2l4YXZmc3FT?oc=5",
+      "published": "2026-07-16T07:00:00+00:00",
+      "publisher": "Pharmaceutical Executive",
+      "summary": "Eli Lilly to Acquire AtaiBeckley for $2.8 Billion &nbsp;&nbsp; Pharmaceutical Executive",
+      "query": "\"Eli Lilly and\" acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "mna"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "How Lilly's AtaiBeckley Deal Accelerates Psychedelic Drug Commercialization Push - Pharmaceutical Commerce",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbXJWZWZIcDBMcGhXT1l4VGxqdGFyTzlLYzVNY3QyalppYlg0Y1pHT0lBR1psWmQ5ekMzX0F4SmtaQWJ4Tk5tUlhQeTlpQzRJM1BxUG54aDVDb21YWk9nSE9MSXB6ZXQzcDRndzZ6em9IZkV2UXRsOWdvVUU2bDY0SWR0VHhLWjhwM0NpM3BCSnYxS3Y2NjV1UlMzNUl6RGdFMW5pVXBDajFjU0JGWHV4UTNTWnpidWRkV0RYVVVNN01Ndw?oc=5",
+      "published": "2026-07-16T07:00:00+00:00",
+      "publisher": "Pharmaceutical Commerce",
+      "summary": "How Lilly's AtaiBeckley Deal Accelerates Psychedelic Drug Commercialization Push &nbsp;&nbsp; Pharmaceutical Commerce",
+      "query": "\"Eli Lilly and\" capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "VivoSim Receives $5 Million Milestone Payment From Eli Lilly and Forecasts 500%+ FY2027 Revenue Growth - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUkRwVU5Kem5qTk5HWXk4WTNySy1CN0xfam1odEpJT3ZBQUV4T1d6WHJ1SWFZMHViaGwtMjl5QWtZNmNlazllWVEtbDByMEpwWkY4eUFmTVhSRHRxSGpDcTRMS1owa0J4VTNYMkR0dU9rTFZuNm14NGdoc21xeXkxakhObWtLaFVjaENBTXl0NElCVXZwbnNiVUlZTWpVdw?oc=5",
+      "published": "2026-07-15T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "VivoSim Receives $5 Million Milestone Payment From Eli Lilly and Forecasts 500%+ FY2027 Revenue Growth &nbsp;&nbsp; Yahoo Finance",
+      "query": "\"Eli Lilly and\" earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "guidance"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Eli Lilly (LLY) Stock Dips While Market Gains: Key Facts - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZS1zc2tHVV9KeHJNTmk0R0JyN2t0enJFRmVLbjdVXy0tQVJVWkdhVV9nd2hlZ1pRZFVuc0doYngyb2RVSm1ENGNxNG1ZZEx1RTVETHZPZjBIY3JBNlZWejdlQW90Qi1samQ4LTNJOV9VY2dmS1F5Y09ZTzJVYmJ6QXQ0akZqMHVDbzNyXzRLYmpyWUU?oc=5",
+      "published": "2026-07-14T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Eli Lilly (LLY) Stock Dips While Market Gains: Key Facts &nbsp;&nbsp; Yahoo Finance",
+      "query": "LLY stock",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Eli Lilly and Co Stock (LLY) Moved Down by 3.10% on Jul 14: Facts Behind the Movement - TradingKey",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxORzBmMzJObXd3bkVKWlJISHVPdmVQMDZfa2hsa0pyNklVYzh1NG9FWThEYWZhU2RaSXl6TmtndXNHa3pHMEo1cUQ1NUNnUG1fVEdtWHAwSXEzS0JUeS0wc0x5eWdBUHVyZkQyY2FDZlBsek91M0tRMmVHU1lpVnhTUFhiNGttdy1nVkE?oc=5",
+      "published": "2026-07-14T07:00:00+00:00",
+      "publisher": "TradingKey",
+      "summary": "Eli Lilly and Co Stock (LLY) Moved Down by 3.10% on Jul 14: Facts Behind the Movement &nbsp;&nbsp; TradingKey",
+      "query": "LLY capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "FDA Selects Seven Companies for Drug Manufacturing Pilot - The Medicine Maker",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVkROb3pjbk9BLW5GUnlZeTBPS0V0dXlEYVI0MERkZUZuVkg5MEVWZGNIS1lrRkViQ0tUMS1ad3NMVVAyS0M5Smo3RmY0anNxS3RPV1pQTk4yMEdLWHNIYTI0bGliZERwcDFpSElSbkUtbGFaakp0LVdYNXRYVFdvTTlpZl90ekNnWlE5bDhJZGJ3U2NkaVU0ZTBXU2NEMXNBMzlzd05GSEhHamh0Qm03ZDN3?oc=5",
+      "published": "2026-07-13T09:10:30+00:00",
+      "publisher": "The Medicine Maker",
+      "summary": "FDA Selects Seven Companies for Drug Manufacturing Pilot &nbsp;&nbsp; The Medicine Maker",
+      "query": "\"Eli Lilly and\" capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Prediction: 1 New Reason Eli Lilly Stock Could Still Be Headed Higher - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNOXo0WVBoUUFIZ0M5YUJHbEtsM2std2dldi1CcDl0dnVOMUZrWjBiZzA2SzJHTXR3SUdJWTc5Mk51ZzNFNTd4WkprcThGYzdZWWdhUEQyUloxVTJubEdwanVmVUl5Zk1hMnF3NnMyMEZjOU5EbXpxSTh1NEFfd1ZITjNVOHEtcjZobEY0OElNSTdqazV5UFFtSzh3?oc=5",
+      "published": "2026-07-13T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Prediction: 1 New Reason Eli Lilly Stock Could Still Be Headed Higher &nbsp;&nbsp; Yahoo Finance",
+      "query": "LLY analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "US appeals court revives Teva lawsuit over Lilly osteoporosis drug - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaE9nX3d0WTczaXdKaFVrcXpiclAzY0piblVhbXc1WDB6Z2s3UFRtNURzMkkxSmFtbGFCb241eXFuZ2lSUHZsa2VGaV9VU3M5Ymp0bkxnU09sdVBzMzVZSEN5YU9CX1hRQW1ZNG5XM3U0Y0gxd1lTd1haeVNERDd2cFMyY1Y5eXlFVlN5WUN4OHZkVC05Z2dSSTI5UjVHdThTMjhDVGRhM3FsVWZuVGs1bmN6R2ltcnVJQ3M4?oc=5",
+      "published": "2026-07-13T07:00:00+00:00",
+      "publisher": "Reuters",
+      "summary": "US appeals court revives Teva lawsuit over Lilly osteoporosis drug &nbsp;&nbsp; Reuters",
+      "query": "LLY lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory"
+      ],
+      "lean": "negative"
+    },
+    {
+      "title": "Tampa General sues Eli Lilly for allegedly pulling 340B discounts - healthcarefinancenews.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOYWhoUnlZZi1OZ1RUaHVwOUR2NlVfM2Zxb2FWcmJwZzFzR1NNM2RmRjlQaHAxOHlfSFZLRFdZSVhSUE5uLU4yQm52NHE0cmlBbnpNeEphX0x2X0VjaU1hQ3NNWjd4WENTYUdlQ1VYejNQcGpEaDhaZmx4WTdYTTRwdUtyTmIyVngwcVFSV1NFMVlEUkZraFVZcWZtaTFzM3hDeTRodTgzSQ?oc=5",
+      "published": "2026-07-09T07:00:00+00:00",
+      "publisher": "healthcarefinancenews.com",
+      "summary": "Tampa General sues Eli Lilly for allegedly pulling 340B discounts &nbsp;&nbsp; healthcarefinancenews.com",
+      "query": "\"Eli Lilly and\" lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Truist raises Eli Lilly stock price target on incretin strength - Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNelNnaXRvdmRsYzhFZ29Tdlh5SnpVZzg4TTdJOUJMaDBaMWVjZ1BqUUJMdkd2Rkgtek5nVU5UOUs0aXFOVm1pRXRCTTVFeEZGVGFFWFBtWHNtRUhac1JuX3c5UUw2cnI5blpMYlBrZmpLOHZGM1JmZDVTekdMVTB6bWpLQXJiRU5Nd3ZucUI2c1VKMTEyeVNKVkNLcmNYSGg4VmtNZmF6d1J6U2ZXVUd2Z2h6UW80X2h0RUFGYUJLdW0?oc=5",
+      "published": "2026-07-08T07:00:00+00:00",
+      "publisher": "Investing.com",
+      "summary": "Truist raises Eli Lilly stock price target on incretin strength &nbsp;&nbsp; Investing.com",
+      "query": "\"Eli Lilly and\" analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [
+        "guidance",
+        "analyst"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Tampa General Hospital sues Eli Lilly over pulled 340B discounts - Fierce Healthcare",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZFpUMWVRNllzSXgza2RWb3JwTHluLVpKS3RGbXloSVZCNlcyWW9VQnpVczBQd28wYjdfenItUmdqa2VIaElMNkVkOVRjRVVoWW5FR0tua1UxaktuZ0ZFT1VDUzFTNkxKaTd5aG95dnJYdF82b01hU1laaFU1WmZxNktBUVFydTloZUU5d19VTklPZWsteVVndmRYNEtxa1BDTW8tc0o3NDh2WWM?oc=5",
+      "published": "2026-07-08T07:00:00+00:00",
+      "publisher": "Fierce Healthcare",
+      "summary": "Tampa General Hospital sues Eli Lilly over pulled 340B discounts &nbsp;&nbsp; Fierce Healthcare",
+      "query": "\"Eli Lilly and\" lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "LLY Hits Another Record High: Is the Stock Too Expensive to Buy Now? - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONDcxUjdrbzlfRUZmZnZJdGsyRHNSYVEyZmg0b2FkX0c3SjhBOElsVGNyU0MxVS0td1p6TDRKRlNoaklGb2NWSDcwOUJUa05LUVdnbktVaTJkR0E0NDhUeFk0bHBOSWRCLXJJSlRNNlB6MGlQaldFVWtQdHd5SWtCS21hVDd4NVh0MV9oYlZrVDJtcnFIMFNDdWFnMnNLRW1qYWlQcTEtajYyWlA2RzdvZTk5ajAxbE5XcDZaWGxBcw?oc=5",
+      "published": "2026-07-08T07:00:00+00:00",
+      "publisher": "TradingView",
+      "summary": "LLY Hits Another Record High: Is the Stock Too Expensive to Buy Now? &nbsp;&nbsp; TradingView",
+      "query": "LLY competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "positive"
+    },
+    {
+      "title": "Is It Too Late to Buy Eli Lilly Stock? Here's What $1,000 Invested Today Could Be Worth in 10 Years. - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdVpZTW1IaDZ6WGp5V2xCSXg5RTU3Qm02cVhUQmI4MUFHUjJYcmJfYzVGSzhkUC1jVVFWbXVjT05xVHctd00ydVctR01xVEVNcTg5WGRRbGQwVlZBNlBLckdHQ0lNMVRIQVFUT0Rjek9OdE04QUM2YlRUSHljNlNZVHlWQW5uM1Z0VFRTcDBWLXJ4Zw?oc=5",
+      "published": "2026-07-07T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Is It Too Late to Buy Eli Lilly Stock? Here's What $1,000 Invested Today Could Be Worth in 10 Years. &nbsp;&nbsp; Yahoo Finance",
+      "query": "\"Eli Lilly and\" stock",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Eli Lilly and Company (LLY) Fell on Regulatory And Pricing Policy Challenges - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQaUxVc1VXSl9oUFhHZUljRlJ3RzRpWjg5c1dqa01MMWpfS3hra3VDcmZlRkFOWVMydFNzZ2dFT2IycjRjOFNQdTYwM2E1LUJNWXd1OFhuNDlSSlhlWjVTY3NHZjBOei1ERWR5N2xwM3NRaEJIQ0FfajlOOHhFS0VJdnpXd1FUbHd2SEVTa3NGaUE?oc=5",
+      "published": "2026-07-06T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Eli Lilly and Company (LLY) Fell on Regulatory And Pricing Policy Challenges &nbsp;&nbsp; Yahoo Finance",
+      "query": "LLY capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Eli Lilly and Co Stock (LLY) Moved Up by 3.06% on Jul 2: What Signal Does It Send? - TradingKey",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOYkNJNjRxVnNvT1ZvWjJCVGh3UzJUQ0w3eGZWVnFqNjR0ZG9QQWtSYllfc3BPczRSeHpGc25BSHJCWmZDN0g1Wk9lSmJiYXl1bHdiLUZBay1ZWUpZcHBiQVFHVXVHQVFVRTZnejJmYXp5aWlBTG9qNHFkVTNFTEcwRGJJSmhnY3BjSHc?oc=5",
+      "published": "2026-07-02T07:00:00+00:00",
+      "publisher": "TradingKey",
+      "summary": "Eli Lilly and Co Stock (LLY) Moved Up by 3.06% on Jul 2: What Signal Does It Send? &nbsp;&nbsp; TradingKey",
+      "query": "LLY capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Eli Lilly Price Prediction: The Case for Double-Digit Upside - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQX0t4Y3JtMTdjRDQyOWJXWXB6RVFJcjRKcUNxQkEwQmdqaHJUMG9uQU5HS1hjTTJ2REtRcFZ4MndEV2dJMTZ0WEd1QlZhWU5NVEsxLTJpZTBBcy1IaU9UcWdlMWU5dXFabUxNTEUxT012VFdYWWpnVTRXTXVKQXVmejA4SC15V3phS2M5Tjd1ZDdxS0xYNmxV?oc=5",
+      "published": "2026-07-01T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Eli Lilly Price Prediction: The Case for Double-Digit Upside &nbsp;&nbsp; Yahoo Finance",
+      "query": "LLY analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "FDA selects Lilly, Regeneron, Fujifilm, 4 others for PreCheck Pilot Program - Fierce Pharma",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTC13bWV0dHRtMjgwSVEtNHBrQVBwRDFQT3ZTRWVYOTdQWGQxLTRvSGNnRFY1NnEzQW9UZ1FwOG1vTXplQ0JlaXQxdWZ3eGFUeXdURVdLZG5BQ3lmaWlFekRIa3NEV2FvelpnNnZVc3RRelZsY2lwR1RtWWZDRVl4VzhaRWcwMVJiZzVOblB6SmNQU3hHUUZMYldTZHZUc2ZIZkl2c2RneFQ5S3g1TWRTSUt2cFd6UQ?oc=5",
+      "published": "2026-06-30T07:00:00+00:00",
+      "publisher": "Fierce Pharma",
+      "summary": "FDA selects Lilly, Regeneron, Fujifilm, 4 others for PreCheck Pilot Program &nbsp;&nbsp; Fierce Pharma",
+      "query": "\"Eli Lilly and\" capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Lilly and Regeneron amongst first incumbents to FDA’s fast-track facility scheme - Pharmaceutical Technology",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZ1FOVlpxZ1liaTFnam1UMFBtZl9XbG5DRUZKX2RXVmdyVzZRXy1NbjIzeUVvRWthMzVwWXE3ZjBhRE9IbmR4WmtVMkZiNWFwc3NIajlwdzZuWWp6RkxJMDlVd3dVbDF5YmRXcFRsbkZlNXpDcWsyN2J0MEpZOFRuWGx0T0FuN3Y1enNjc3NOeEJFOTNxVWhwcWxKZHduLU5odVBzS25xRzUtNE5hWHQ3TG5KZHhPRWI2UEJTM1BUVWF2VDIzckE?oc=5",
+      "published": "2026-06-30T07:00:00+00:00",
+      "publisher": "Pharmaceutical Technology",
+      "summary": "Lilly and Regeneron amongst first incumbents to FDA’s fast-track facility scheme &nbsp;&nbsp; Pharmaceutical Technology",
+      "query": "\"Eli Lilly and\" capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Eli Lilly and Company (LLY) Up More Than 6% Over the Past Month, Can it Move Higher? - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZTdlMXVVa25CSGJycEZUN1RBWG1mSzVYXzBZWGt6ODI1dTN5YzlaelQ2TnpnUExZUlYyRV80UFE1Q19pczd0V0t5R2s5d0ZjeFVzdjhObzRKa1l5eEphYzQwaXY5aDlfenI5UUdSNGs5YWVEYkNXaWQ4UzQwTHlKcHJ4a0pfWG1qZVhKUldSQXlhaF9ENmc?oc=5",
+      "published": "2026-06-29T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Eli Lilly and Company (LLY) Up More Than 6% Over the Past Month, Can it Move Higher? &nbsp;&nbsp; Yahoo Finance",
+      "query": "\"Eli Lilly and\" stock",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Eli Lilly (LLY) Outpaces Stock Market Gains: What You Should Know - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRXpfTHZmX1J1RUJ2STR3T1pzS0hlTWtmNFl3a1o1UWZ3WDJESDJXam1RVDBWSEptSkhlVUM0eDRZS0d2YnlZOHYzYUdleGtIMWY5dldyb1RpYWZMMkszXzlMbjVvUHdCdWZzZElOWURDcWhVcFpBelltUlM3ZzhMQXdoTURuZEVvcEdiLTA5MHEwX2NxN2FMWQ?oc=5",
+      "published": "2026-06-29T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Eli Lilly (LLY) Outpaces Stock Market Gains: What You Should Know &nbsp;&nbsp; Yahoo Finance",
+      "query": "LLY competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Eli Lilly Stock Jumps 7% as Medicare Opens GLP-1 Access: What a $2,100 Target Means for Investors - TIKR.com",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZER3U09sSkJNREc1RjNKeHFDLTZoY2ZHSmY5TktsS1hBLTdvUUtTT3RtZ1hub3NPRTVVVU1VZWZGVXlqQzFQS2NZSTUyaVhMejBTc1NSc25CNlZBM3VlTlJpRWk3bUJJLXl6bUktZXdEODh5VnItSXZ4YnF0RzB6YjZJSjZlczVVeEpzUGY3Yng4SGJGZGYtcDMyazY3NXlOWjE5WS1Zd3M0TkRKWklYaDYwblVpZnlHZjZF?oc=5",
+      "published": "2026-06-27T07:00:00+00:00",
+      "publisher": "TIKR.com",
+      "summary": "Eli Lilly Stock Jumps 7% as Medicare Opens GLP-1 Access: What a $2,100 Target Means for Investors &nbsp;&nbsp; TIKR.com",
+      "query": "\"Eli Lilly and\" analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "positive"
+    },
+    {
+      "title": "Eli Lilly, Novo Nordisk top AI citation share as new report questions DTC spend culture - Fierce Pharma",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQc3JtSE0xby1PR19jZ0JZQUxrci15eXhFREFsRE1QSGNQTVEwbVpWaEY5RjJmRUtpOWdUbDZodU1pQVlMVHBrdWRGeXBkVmtHS3pDZ3BRZnhkUE85bUpYektCM2pRaXliVGdTTUw3ODJ0Z082YW5EZTlNUDc0TWhTMzRGdDJOWElTczd1M3BCckVpYXJLbmxOempGZ0NYQ09TUUhtalNJVXVDbWpDazRsbjhWUnBvQ1NObWIwTEpTbw?oc=5",
+      "published": "2026-06-22T07:00:00+00:00",
+      "publisher": "Fierce Pharma",
+      "summary": "Eli Lilly, Novo Nordisk top AI citation share as new report questions DTC spend culture &nbsp;&nbsp; Fierce Pharma",
+      "query": "\"Eli Lilly and\" competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Eli Lilly (LLY) Stock After 45% Yearly Gain Is The Valuation Still Justified - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRjl5QkVNenBVVHhKU2g3MHh6OHlLOWFFS1FwSXV2dG9FOTNaRDNvYmN4VFBsWFE1bXBlYkNiWnlLZTRKcTR5UFg1cDdHQVVQamlVU2RIRjFuR2d5Y0JJMXlKQlZhRU9SenNteW1ZcThlNUZRUzlSSHdUYWMzLXl5RGVJR2Y1OWVkUHBFWmlCSFM?oc=5",
+      "published": "2026-06-20T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Eli Lilly (LLY) Stock After 45% Yearly Gain Is The Valuation Still Justified &nbsp;&nbsp; Yahoo Finance",
+      "query": "LLY stock",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Eli Lilly (LLY) Stock Sinks As Market Gains: What You Should Know - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZkprQl81X0tTOTlFbndfUjgzOTFDNHRpbU16dG12S255cjBzYlE3cWc2Z0hiNWxrRl84T1hpN3hmVmlOd3JHUUhyemtYS3VyOF9LUFN0RlRfVWtlRV9ZVFk1UjZ6TmhFQXMwQkJiU20tUUNDSUliMEh0X21wUmEtbDE0dVNEMEswN1RGajFBcHRTVkVk?oc=5",
+      "published": "2026-06-18T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Eli Lilly (LLY) Stock Sinks As Market Gains: What You Should Know &nbsp;&nbsp; Yahoo Finance",
+      "query": "LLY stock",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Eli Lilly (LLY) Stock Could Be 24.7% Undervalued on Its Growth Narrative - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNOU5NaDlrVkY5Vl9qaHZMTlFzT0ZETnNFbFFFOE5DLWVwZ3hmLWJHUTJmX0ItaHlyUWdob1pSMERLdmdhSktBcnhLbXM5Qi13U0pZNlh0cFZvQmpWc3Q4LS1oa0hERUFrSGl3TkhpdVVFeENYLUVMYXZxQU9MYlZwNXlMaEJFUTljbXJSN3RTWVpSWjhO?oc=5",
+      "published": "2026-06-18T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Eli Lilly (LLY) Stock Could Be 24.7% Undervalued on Its Growth Narrative &nbsp;&nbsp; Yahoo Finance",
+      "query": "LLY stock",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "positive"
+    },
+    {
+      "title": "Eli Lilly vs. Novo Nordisk: Better Obesity Drug Stock? - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTl92NVplaTAyQjN1RGRkaWMwdF93dzlmam9xbDBFaldoR1BuLWFqa1FzcEdEUjhRNWtZVjN5TGFDYXl1SXNvWl9JakhIMGZZNzd4VkFjU3VTRkJaRmo0elg1Vk9wUmljTXBlZl9jMUhyaUJmSGlhTHhnZExCMDY3dmRfMW1QaGZJbEZWbFFIMA?oc=5",
+      "published": "2026-06-16T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Eli Lilly vs. Novo Nordisk: Better Obesity Drug Stock? &nbsp;&nbsp; Yahoo Finance",
+      "query": "\"Eli Lilly and\" competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Lilly buys non-opioid pain drugmaker 4E - BioPharma Dive",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcEJPbEJZVVZ2a18tQkIxeW9GZ3VRT1F6NGh2NjdZQ2tWQlJFSXlwNjJwV3BjSTdtbm1XaU5sUFVsSUtJTzAtVFF4bURrcHVKT1hUU1Q0UkpOZGdBRE5SQjQtU2VFRlZzbzRyVDRRbkdJTTNaTFJPSWhmVzhzMk9XRjdEelZRSHNfTUhNbmpB?oc=5",
+      "published": "2026-06-16T07:00:00+00:00",
+      "publisher": "BioPharma Dive",
+      "summary": "Lilly buys non-opioid pain drugmaker 4E &nbsp;&nbsp; BioPharma Dive",
+      "query": "\"Eli Lilly and\" acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "GLP-1s, Eli Lilly to upgrade Alabama economy - The Business Journals",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNW5LcF8tYkxza3Bud0xMaHd0emxYTVdrSFNueVJyclZOU29ka2RsRG53UnhkODExbzZtVXlOZlBBbEhIRGdwV3docXhzM05wTDE2OGprN1M2aWVQbDVuR1pMdFA2SVp0anZ1NTUxVUgwNkRuUTdWODNMcXlsWHFsVW1NcjkwZU5MZXJwOHdrYzNxNHZ3Rkt1QmF0c1J5anlO?oc=5",
+      "published": "2026-06-15T07:00:00+00:00",
+      "publisher": "The Business Journals",
+      "summary": "GLP-1s, Eli Lilly to upgrade Alabama economy &nbsp;&nbsp; The Business Journals",
+      "query": "\"Eli Lilly and\" capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "analyst"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Forget Eli Lilly and Company: As June Volatility Rocks High-Flyers, This Stock Is a No-Brainer Buy - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQOHpKT1V2dzFWTW1EX2VYM09GVXUxZll5SDdvMm1LcDR2MFlhSW02SV92LWxMMUFrT1hoeUxmaUNfQlJURVJGX3VDOEV0RjVtUTZGQlRoaWc3am9Za2VvTlJlLWpmS3FSSS1hclVPeFQ4a19lVmc2WWdDNXRXUXRUcS15ZFhKVzFKYnh2M3FWanBEVmZtR3RSTW1n?oc=5",
+      "published": "2026-06-12T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Forget Eli Lilly and Company: As June Volatility Rocks High-Flyers, This Stock Is a No-Brainer Buy &nbsp;&nbsp; Yahoo Finance",
+      "query": "\"Eli Lilly and\" stock",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Eli Lilly’s Revenue Grew 56% in Q1 and the Market Barely Blinked - TIKR.com",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWVZDcUJ1dFNQZ1dzaFhEMlNfZTFKX2hvajlUdUtvRjYwV2x5Y2xhQ2YyV3MyMGluSUw4cG10REYwZzVTMWNBZ0d4d3Y1NHpmVXRtY0hoSDRwc0VmcU1zc2RhUnJiTW1TUjlDQVpOc0h3SVRjNkhXb3FneTJPTU01ZDQ4djA3NXJPZnZyTjJzVDlKUQ?oc=5",
+      "published": "2026-06-12T07:00:00+00:00",
+      "publisher": "TIKR.com",
+      "summary": "Eli Lilly’s Revenue Grew 56% in Q1 and the Market Barely Blinked &nbsp;&nbsp; TIKR.com",
+      "query": "\"Eli Lilly and\" revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Eli Lilly and Novo Nordisk set to share obesity drug market, with sales expected to exceed $120 billion by 2030 - thecorner.eu",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPTkViX1RUOVhlYkEtRlJ0blNsYXV1MlBEQzZDMFB4eHdJYm55MkxFQWpEbzRxYmdzbTdWcm9WZ05wbnFsdmJKNEFuZ0xOc0poeHdJWXdJb1lUaWJESHNITXdPQUtsMF9HS2F1V1d0RWJyYXA2bmYyclVORG11eEVZR2RiZXQzRkdkelo3amQ2T1VMQnNjN1ZMb0hNSElUQjBqQ0dDdm5HbTdabHNJSkJvaWtVZHVTUWctUF9GYVMxck0zX3F4VVFXb09jZXN0ZFUzRXJ6Q0daRmxnTW9obFJWQTBn?oc=5",
+      "published": "2026-06-10T07:00:00+00:00",
+      "publisher": "thecorner.eu",
+      "summary": "Eli Lilly and Novo Nordisk set to share obesity drug market, with sales expected to exceed $120 billion by 2030 &nbsp;&nbsp; thecorner.eu",
+      "query": "\"Eli Lilly and\" competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Lilly’s $25B+ M&A spree captures half of pharma’s 2026 capacity - BioSpace",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQaktrR1VOZXhUaWxYemZnNjRVa1NIQmJIMjE2SFMxMnpIX2dvbEFRdlBEb2I1OFJjbmxrWUptcUJNSkp6SlB6V2dFUE91X0pZTVItNmtjeWJkSTRDRU9hak9iVmxlRTE0ZkhMZlU3S2xRRUFya3d4bjB3Ukd4SzloSVl0cmYxamgyXzRZRndxOUFKajRsbS1uNw?oc=5",
+      "published": "2026-06-10T07:00:00+00:00",
+      "publisher": "BioSpace",
+      "summary": "Lilly’s $25B+ M&amp;A spree captures half of pharma’s 2026 capacity &nbsp;&nbsp; BioSpace",
+      "query": "\"Eli Lilly and\" acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Is Trending Stock Eli Lilly and Company (LLY) a Buy Now? - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRkJ3TWZ5VkFCYmVQbFVCZHpHSG9kakhnc0hyS29lN2NFV0tablpNeTdZTkEwd3U4N0MzVXMwYnZZZ1p2MTZKYjRYa2VfZUxUZ2V6WVNLZmJENXVnNFRLcDBKMWkxaG40anphVnp6RGtXRkhjcWJiYTlvZ0dLNUdHWFF4VVBadFU1QTRKTktqQXRNZGtPY01FTkd2Q1VDQQ?oc=5",
+      "published": "2026-06-08T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Is Trending Stock Eli Lilly and Company (LLY) a Buy Now? &nbsp;&nbsp; Yahoo Finance",
+      "query": "\"Eli Lilly and\" stock",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "A Weight-Loss Rival Just Crashed 23%. Why That's Great News for Eli Lilly and Novo Nordisk. - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQY2xZMmozYzhaWTlfamE5N0E4Z2FfQ19uRHU1NXhGSzJjQTcxMWR5NE05S0c1SGxwd0hTTWFDWllNX1FSZUJycG1sU2RHZ05rbkd4b2lIODhQX2pjRXFvU3NRa29UdHg3QUEySWpSOWp6a0k4OUNtRzdYMlNwSk1iaS1XOWN2a3l2SWItdWVVMkJPRTlRVE5iTGNuWWxKVlNkRi1qMkN4SFFPTEpBeDR1X2JnWk5lcXdpOEZnNkkwbG9UcVgzNkJKbWZWUQ?oc=5",
+      "published": "2026-06-08T07:00:00+00:00",
+      "publisher": "The Motley Fool",
+      "summary": "A Weight-Loss Rival Just Crashed 23%. Why That's Great News for Eli Lilly and Novo Nordisk. &nbsp;&nbsp; The Motley Fool",
+      "query": "\"Eli Lilly and\" competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "negative"
+    },
+    {
+      "title": "Lilly shares rise on hopes that next-gen drug will extend lead in weight-loss market - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQU0d1aWtzdkZ1cjVxczdERFgzcndmOGdwakZzZmJmNnloSWdZWno3ZmRzTEhpLUVMbWZKUEJMVVFhR0lIeFZCNEtrUm1CRHViQm1lOEdLbzdnRHBwRWFKUlctbGJNTGRmQU45RHRCX1I0ZUxyZWhJZktidDdCSGFVcl9XOW4tdnVnTllPYW5kaEt4SzV3NzNUUkE1RlNDUFFGRXVOZDhMaU9Rb1hHR0ZDUTZTMlVfTHA0RDlDZFdvbnBGcm5EU3h2M0Jn?oc=5",
+      "published": "2026-06-08T07:00:00+00:00",
+      "publisher": "Reuters",
+      "summary": "Lilly shares rise on hopes that next-gen drug will extend lead in weight-loss market &nbsp;&nbsp; Reuters",
+      "query": "\"Eli Lilly and\" competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [
+        "product"
+      ],
+      "lean": "negative"
+    },
+    {
+      "title": "Is It Too Late To Consider Eli Lilly (LLY) After Its 48% One-Year Surge? - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQOERVb2J0QmVFZ2tvQWVYLVZwWElsRC1XNUc2ZTdfdHZla2tFdTVVdlJVaHNPYWRicTJtc2JnZV9XX25jQzRqRlUyWEdUR2xESXVZUi1jN2dtaE4wZEh5MTBzTy0waUxKVllJemVPWFVSNjM4a3BJOXhQSE5IVGk5QWUyV094QTdaR2FCb3RrYmZVaEU4V2c?oc=5",
+      "published": "2026-06-06T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Is It Too Late To Consider Eli Lilly (LLY) After Its 48% One-Year Surge? &nbsp;&nbsp; Yahoo Finance",
+      "query": "LLY stock",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "positive"
+    },
+    {
+      "title": "Eli Lilly Stock (LLY) Opinions on Analyst Ratings and Pipeline Developments - Quiver Quantitative",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMFpSSmxZazd0cUpKejFtMlkxNmF3Ni1FeGh2NS1SLV84TjktbVBlS19KbjBFV2NjeE1FSWtzaDZ3TUt3ZHpibG1aUE9qdXJUd1o3ZWo0TTVSZGJvbHNRTXBJcGMxMENJc0xaenRNZC1zWXNZdU0xSmpIQ1FhNURrOTAwNWFQckptZVZoU0J1TjA0VE1IX1BfbGRoTkxZa1JDd1dzd0pvdUJFMDJaVno3Zk13?oc=5",
+      "published": "2026-06-06T07:00:00+00:00",
+      "publisher": "Quiver Quantitative",
+      "summary": "Eli Lilly Stock (LLY) Opinions on Analyst Ratings and Pipeline Developments &nbsp;&nbsp; Quiver Quantitative",
+      "query": "LLY analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Here’s Why Eli Lilly (LLY) is Among the 10 Best American Stocks to Buy and Hold for the Next Decade - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUWNIMDczelJGX1VIVFdQY1JzTS1Bak9UcDFjeFZISEdnNHNGZk9pc0V0NEtsamFUVVZVbUt0UXZxZ0hVUEpCUzdGYzBtTVNqbnIwZ09PandIVGhqWDhTYmJXYXJLV0pBdWIyczFncmhGSTI1bGE5M1JoVS1BTjIwSXF6M0FyYmhUS0dQREgyWUYtUQ?oc=5",
+      "published": "2026-06-05T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Here’s Why Eli Lilly (LLY) is Among the 10 Best American Stocks to Buy and Hold for the Next Decade &nbsp;&nbsp; Yahoo Finance",
+      "query": "\"Eli Lilly and\" stock",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "TD Cowen Raises GLP-1 Sales Forecast To $150B By 2030 – Industry Leaders LLY, NVO To Remain Dominant - Stocktwits",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTnprOW0tZlN3VTZnYy1xRDhsNlFCQmFYRDVHYnhVc2FPUnlUVUQwOVRfejMxZ21BR1FRb0lLNFFZbDhaYzQwb0UyTWx1amtGYmlBZ0xMTjN4SDVzVnJqWm1Kd2NsSzNvOWN2TkpxVmxKVE56SEVmVVhwMU5tWjlDU3lBN0RNdlJ2TzVfcER0WXhXMHRTeFd1V3p2dUp3em42cHBSM1N3ckFGWEZtUmc5OXFTa0FrRElLTVQ0UktR?oc=5",
+      "published": "2026-06-05T07:00:00+00:00",
+      "publisher": "Stocktwits",
+      "summary": "TD Cowen Raises GLP-1 Sales Forecast To $150B By 2030 – Industry Leaders LLY, NVO To Remain Dominant &nbsp;&nbsp; Stocktwits",
+      "query": "LLY revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [
+        "guidance"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Can Eli Lilly's 2026 Acquisition Spree Diversify Growth Beyond GLP-1s? - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVS1DcXhMVWNKcUN6Z1FrMWxURXRGOWNNU1Q0Z3UzU3VGZW5ZR0RqYUl3QXg5V2ZpaER0dmlkNmt6RGozNU9ldTRuVDVHVHlTeFJoWWZ0MEhmVV9TcUFvOVlzVkcweEVjTVNVeko0RXFhcGx4eWE0bTJtd2R6QWRLc2pxTGJLYkhKejRkejRZOTlsT21xdXVzRE9tZ2lXZm8xTHBVZQ?oc=5",
+      "published": "2026-06-05T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Can Eli Lilly's 2026 Acquisition Spree Diversify Growth Beyond GLP-1s? &nbsp;&nbsp; Yahoo Finance",
+      "query": "\"Eli Lilly and\" acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "mna"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Eli Lilly’s Mar Gimeno is confirmed as a keynote speaker for NextGen Supply Chain Conference 2026 - Logistics Management",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPZU04UnhjYjJTSFVrdTlJTVdDRXRpRENYUDRuMWFzTkQ5NFl1cU80ZVhTVmlucXY0aG0xQl82cHdQWHhoZ3dnejJiSHd5bGNsNkVCc1ZMMW8tUTNLajdNaUhUcHJlamxLQVlYNEg1bTRxS0RtMGV4eTRiak5kcVhIYlUwOExNZ0JBU2JzWnFRM1lGZ3pCNFJZYWJtTmxFbFVhM1ZVMFFERlNvd0djNDU5ajdURndTd2U0S3AtTlZxU0lGVjhrNEtpNXVzTG44Nkk?oc=5",
+      "published": "2026-06-05T07:00:00+00:00",
+      "publisher": "Logistics Management",
+      "summary": "Eli Lilly’s Mar Gimeno is confirmed as a keynote speaker for NextGen Supply Chain Conference 2026 &nbsp;&nbsp; Logistics Management",
+      "query": "\"Eli Lilly and\" capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Eli Lilly’s Mar Gimeno to keynote at NextGen Supply Chain Conference 2026 - Supply Chain Management Review",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdElCOW9fN0d2WHlDanhUWEhhX0pDQmNqTFFwYVZGblJJZmhtbWVIZTBlcjJFTlZvbDNCamlpZG5uQ1YwQ0lRNnJuNU1ZQmxCSEJuNnFqRjhfZmdlY05MVTNyWXM1cF9oQlhaX3F3d1JYNlFCZmpXU2lFNFNjREFHZGxYWE5sZjI5OFhyWU9IM1lZMjEzY0Q3V01sdkJXWWlVZFRj?oc=5",
+      "published": "2026-06-01T07:00:00+00:00",
+      "publisher": "Supply Chain Management Review",
+      "summary": "Eli Lilly’s Mar Gimeno to keynote at NextGen Supply Chain Conference 2026 &nbsp;&nbsp; Supply Chain Management Review",
+      "query": "\"Eli Lilly and\" capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "LLY Stock Gains 4% to All-Time High: Is Obesity Access the Catalyst? - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQ2pUSEtub25mSHhyLV9UQ2lPUkxOTWFrRUszR3ZVeWk1dnozWVhkYkphSnpNd2hhQnVidXZEZlFWT1o0TC1IemJlZ21qc0lEdUlOMzlXZ2hMZldUYVg0SkthRlhwZUVoOVZOZWpGa0hZdEtqak1tdHFXTXlTVlp5U3k3amNGdG91UW5ndmpGTDRmbWVIQVFMWTVkSFphYS1oOGM1ay1tMzcyRUhyR1JhYXMydFRrdkNFTTB6cUxn?oc=5",
+      "published": "2026-05-29T07:00:00+00:00",
+      "publisher": "TradingView",
+      "summary": "LLY Stock Gains 4% to All-Time High: Is Obesity Access the Catalyst? &nbsp;&nbsp; TradingView",
+      "query": "LLY competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "5 Catalysts to Monitor Over In The Next 2 Quarters For LLY Stock - Trefis",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPejJGSjBHcnRkSHNoSzNVekpudGVOZjc3V2R5bE5Pa2syTHhtMzhScUpPUkZnbEo1alhtNU1oa1Z2SmhuT3JiaHhRZG85RXNBcEl2RzNXeXhaZV84QUdpeXFyT2hwTFVMTV9qY3NRLVA0MHVoakVwTUJzUHZYRlBFOGFrVDI4aWhXVnY4X0Zsbi1PQlduN0pYWF9oVFRTcmMtNUxZUHp2QXdGaF9FUl9UbXJDZFZaQk5KYlh3T3JGemEzMHQ2?oc=5",
+      "published": "2026-05-29T07:00:00+00:00",
+      "publisher": "Trefis",
+      "summary": "5 Catalysts to Monitor Over In The Next 2 Quarters For LLY Stock &nbsp;&nbsp; Trefis",
+      "query": "LLY competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Eli Lilly Stock Receives Price Target Boost From Bank of America on Dominant Obesity Drug Outlook - TIKR.com",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNUjRyODc5NFpkMTlRUjRoc042YXNSVEZwNUl5T05ZRExmZEx4bFQtVzdTcllRN25ZQUxOZ1lwWFRaNTZ5Z2ktU1BKQXBHdGRRSk10MndKb29KODdiZE9YaWxwdDhhSDRVTlBSS0NTb0dTTHoyNEk0cGhfVnpYcml1QllnNTJTVkJSVGFrNnRKWVdsLS03UkFSeFhEc1J4VzlOZm9XbldSYVJFTWlqTWtFaFRHVFRHRHl4TDBqcFJGMXRoVWc4aGdjOUFOT3o?oc=5",
+      "published": "2026-05-28T07:00:00+00:00",
+      "publisher": "TIKR.com",
+      "summary": "Eli Lilly Stock Receives Price Target Boost From Bank of America on Dominant Obesity Drug Outlook &nbsp;&nbsp; TIKR.com",
+      "query": "LLY analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [
+        "guidance",
+        "analyst",
+        "regulatory"
+      ],
+      "lean": "negative"
+    },
+    {
+      "title": "Lilly Continues Biotech Acquisition Spree - DCAT Value Chain Insights",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPcFhZUU9LTWtNWGFHdF9wSnkzZkxaRFFaQ2dtYTZKU0JWekg4NG1DQnBFZ1p4T3FoOHNKLVFkM0xoYXhITkwwN0VMcG1NQ3hZVEJWckt4Z1ozekhDem04Rl9PQ3lTUFpYWHdJaFdEODNrQ2dKV0RPSXJLNkFaNjVGMg?oc=5",
+      "published": "2026-05-28T07:00:00+00:00",
+      "publisher": "DCAT Value Chain Insights",
+      "summary": "Lilly Continues Biotech Acquisition Spree &nbsp;&nbsp; DCAT Value Chain Insights",
+      "query": "\"Eli Lilly and\" acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "mna"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Former Nashville councilman denies involvement in alleged $200M Eli Lilly fraud scheme - WZTV",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVEdCb2NJTXBZQ1VpeWRGcGNxZnVWLUs3TFhabUt6cEpISTNTVXdVOGVpRUFqZDB4NV8tY1cwemppTWlmVFFuaTZrdzZVbWZUVkxLVW9JcHNheUMwLTRBWk9lV3hRUU16S0dNZk5PU1J4dWp5Ym9vT09pT28yeHp4QXFPcDhuQm15Q0I0b1Fpa01aMS1qNkNWcm4zb1RLVWpnV1Y2TTJyejhXbGVoeGQ4?oc=5",
+      "published": "2026-05-27T07:00:00+00:00",
+      "publisher": "WZTV",
+      "summary": "Former Nashville councilman denies involvement in alleged $200M Eli Lilly fraud scheme &nbsp;&nbsp; WZTV",
+      "query": "\"Eli Lilly and\" lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Lilly lands vaccine trifecta with 3 new biotech buys valued at up to $3.8B - BioSpace",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUTRJSVhyWHVtTVRjdEZZM3FFd2UtbXpxU1BwNEVaaXlxV1ptOWdzbFk1NUxYZm5hRjNyWjBqT2o2aDZLVGhrbFRuMzR6bzRQZ0dzbWdidWJPWk14TFFfLURIaXJldzQyeUVDR3hhM0lfaUNPeFR4UV9BRFZ1ZU5KMDJYZTg4cjlyamNwWkFTdDI5TkxXTzhRM055ZGdPaHcxN1RJ?oc=5",
+      "published": "2026-05-26T07:00:00+00:00",
+      "publisher": "BioSpace",
+      "summary": "Lilly lands vaccine trifecta with 3 new biotech buys valued at up to $3.8B &nbsp;&nbsp; BioSpace",
+      "query": "LLY acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "LLY Stock Back In Spotlight After Sealing 10th Acquisition This Year – Expands Beyond Obesity With $3.8B Vaccine Bet - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOenZ4NjYzSkpWT2ZVR1hnd1U5SVgwQ1VSdFFSdVpnMW9NSDlob09ieUxjYVpuMVpiY045bllFZlh6Szg5NTA3QVVNdzVXczd4bVZlbE1TbDJSTjl2S3l5aEV1cktoTlBYa1djX05wZUMwanItX2Q0a0tXaGhWQTJfTndCUUpHWjVoUVprYl9wc2VjNXpZVlZ0SnlKV01KWHFfRDFr?oc=5",
+      "published": "2026-05-26T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "LLY Stock Back In Spotlight After Sealing 10th Acquisition This Year – Expands Beyond Obesity With $3.8B Vaccine Bet &nbsp;&nbsp; Yahoo Finance",
+      "query": "LLY acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "mna"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Lilly announces three acquisitions to build infectious disease portfolio - investor.lilly.com",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPbUtQZkw1cXZlTTNSQWJIem5zbUdjSG5pMWh3Wk5qRUZXTlFmTldISEpXM0NDZ1BFaVRqcjhMVUlWWmtRc0puMGRDSlhKeFQtRkNCRXNVSXBTem9zNXdIZExWUmlwOU5jY05HcXU1WnNlaGd4azJuS3lOdUUzTnBjMTZXT2pIWnNZcVNaenk2Ym5lSFV0Rkw1WmtSU3pqbTlfOE9IRGZ2cVNPMHNQRURMekVSVnBvb0VsYUZxdUhB?oc=5",
+      "published": "2026-05-26T07:00:00+00:00",
+      "publisher": "investor.lilly.com",
+      "summary": "Lilly announces three acquisitions to build infectious disease portfolio &nbsp;&nbsp; investor.lilly.com",
+      "query": "\"Eli Lilly and\" acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "product",
+        "mna"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Eli Lilly sues church leaders for alleged $200 million 'sham' drug program - The Christian Century",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQ1lzNjJDbEVUNENGQVNpb3U3bW1Oa2pxbndpclNrUGNabTlhcEctTXN0bjljVzZUU2UzSXlfa1VnOFVYcEc4eUwtSXU2U2JucTZUblFHX0pacXIyX1RoR25XTlVraElhYWI4LVNsZ0thSUczYU01SWNtNXU3UExYNnd6T0pWZnZ5T1c0enZkSkxoclVjTVRMclJvNnp0Ny0zdUt6Z3pvQWE?oc=5",
+      "published": "2026-05-25T07:00:00+00:00",
+      "publisher": "The Christian Century",
+      "summary": "Eli Lilly sues church leaders for alleged $200 million 'sham' drug program &nbsp;&nbsp; The Christian Century",
+      "query": "\"Eli Lilly and\" lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "COGIC responds after Eli Lilly files lawsuit against church leaders, pharmacies over drug reimbursements - Action News 5",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUW9mcnFxelNxWUN4dVVTQ3JWaUZXTnNqVVRuUy1UQkRVZkZJLXoxS3J4S254eEdZUWw2VVh6bnYzbTNTRUlfSUh5cDNDdmpvdGd5M3JfQm1Ib19BVUYzLUtBYnBFSGZ2NDdTSE1TMHBqT3VrUkhkemVZeWI5dk9pRmh2d1VSSk5CZ054Nk5IS2JPM045RzU4ZEgza3ZLRndFUDRSWGtrN2QtWmFmWnc?oc=5",
+      "published": "2026-05-23T07:00:00+00:00",
+      "publisher": "Action News 5",
+      "summary": "COGIC responds after Eli Lilly files lawsuit against church leaders, pharmacies over drug reimbursements &nbsp;&nbsp; Action News 5",
+      "query": "\"Eli Lilly and\" lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory"
+      ],
+      "lean": "negative"
+    },
+    {
+      "title": "Eli Lilly Sues COGIC Leaders Over Alleged $200 Million Drug Rebate Scheme - Christianity Today",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObWRZQjhIUXpYWHh5VlpjaG9qZDVSSEtMV2lqTkw3bVdpenlmXzc0WExnbjNoOXJjOExxRThxbkU1MTM5WDhqeVdqR2wtSFRkNGhkTWlsR0d1RVNIQml3SDNUaWZQNUxkZXZON0J5dDJtRE9aZy1xeTFFeFB1bnFFR0NuMXZpbXBBNk9ZRG00ZEZIajRXZ2FoVU40VHA4aHFsOWpBUVVobFBSOUhXT2NyUQ?oc=5",
+      "published": "2026-05-21T07:00:00+00:00",
+      "publisher": "Christianity Today",
+      "summary": "Eli Lilly Sues COGIC Leaders Over Alleged $200 Million Drug Rebate Scheme &nbsp;&nbsp; Christianity Today",
+      "query": "\"Eli Lilly and\" lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "LLY Clears Major Obesity Trial: Get Exposure in THNR - ETF Database",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMFE4andGYklMYlA3VS10NHM0endRekNBNVNiMDR1UUcwT05PNjB2S3dRVkhMc0dIUDFNcmxnMFNBTmR2UEJVWk1pNEQ2OFg4cWZjbHBuSWhIbW5ac05rQTJFeGJaaml3VHBiVHk4aVU3andDR0x6VEdvbEkwdjRPTWdlVUthZnViX2p5TUxpUHI0X1JZMzQ3bmJJQ3g2WWtvRndoeA?oc=5",
+      "published": "2026-05-21T07:00:00+00:00",
+      "publisher": "ETF Database",
+      "summary": "LLY Clears Major Obesity Trial: Get Exposure in THNR &nbsp;&nbsp; ETF Database",
+      "query": "LLY capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Eli Lilly accuses church bishops, businessmen of fraud in Trulicity drug rebate scheme - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOalIwWjBoTWVlN3NQeXlRcUtmTUdqQl84MmlySnYtdmRoS3hpQ09oRHJ1bV8zRC16NF9hYkFIUXFjYThPOE5oSEVzQ1hYcEM2NUVCYWJtMFF5d254ZUdIRHBDcDNFS25WNjVRTUo4dDg0UkRISjkweDVNMVFyTTljQ3hxU3NMNGxidjJUenZid2NfTk5fQ3B1YlBR0gGfAUFVX3lxTFAwTHNiU1pxN01EN0JMYjFIQzN0c2dGZHJ4ZC1fZXYyNUtqMFloWUtxV0xrNzBFYW5qLXZwNmRIRDdiMDllSl9QX2o4Mm1hQUItdm1ubkJGdTVic2MwN295ekhmcHNuRXNySXRGYVdPWG1BcUFiS0FZREx6UjFvUXJ2ajNTZG9ZaXpCRHpmUkVuVUFNQWloWUNIaldrMHA2OA?oc=5",
+      "published": "2026-05-20T07:00:00+00:00",
+      "publisher": "CNBC",
+      "summary": "Eli Lilly accuses church bishops, businessmen of fraud in Trulicity drug rebate scheme &nbsp;&nbsp; CNBC",
+      "query": "LLY lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Lilly and Engage Bio tie the knot with $202M acquisition - BioSpace",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQQ3VSSjRxeWd4TXVlcndSMDVUbUM3YmZoQXJLR1BKVlBMUFRJRHUtWWUtMkY3SG41d1ZUZUdNaDhXY1FfS2U3TEFQNTQ3TUV2a2tKd0lkUTV0WnV4V01fTzB4c0FuNFdfWl9wQ29VY1hia1JJR0VSbkI3OEhIMXFxbXVGWEFTS3hWOGJvQ19VSQ?oc=5",
+      "published": "2026-05-20T07:00:00+00:00",
+      "publisher": "BioSpace",
+      "summary": "Lilly and Engage Bio tie the knot with $202M acquisition &nbsp;&nbsp; BioSpace",
+      "query": "\"Eli Lilly and\" acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "mna"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Lilly snaps up Engage to advance non-viral genetic medicines - BioPharma Dive",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPelpfWXR5RzF4S0NhWWNJQmF4M0I0bHJTZXhoXzRiMVhCQllsV0hiYU9GeXpvazNNcnpLamtTU0RIYjROVUM3SUM3RS1wZEhYVV9ZOG1NSjU2dDc2VXpYTWRtZTN1VFE2aU1tWG5yUEdLT0pUVWt1N2M5NEhPU2psWkRzZHNNVzFmUFp3bXhYaHlRSVkzM0thUDBn?oc=5",
+      "published": "2026-05-20T07:00:00+00:00",
+      "publisher": "BioPharma Dive",
+      "summary": "Lilly snaps up Engage to advance non-viral genetic medicines &nbsp;&nbsp; BioPharma Dive",
+      "query": "\"Eli Lilly and\" acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "US Supreme Court turns away Eli Lilly's challenge to whistleblower law - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVllGTXlBUGpkTE9XSkhEcTk5N3pra3QyLUFOWi1rZ19xMTMza2tkREQtQ21KNFg4bV9BREtDd09LNEJ3UU1wU1Q3aGpTNXJPSUMtTFRQZFpfcTFFWVp3ZHlDT3NRQUszcU01RFo5ZTR3UW43SldwazgtdmJmcHhNbEloa0ZVRU1pRTl4QnVVQXJHOW5pdV9oV2toVXlreHpaZTN4YW1NODRKTFcz?oc=5",
+      "published": "2026-05-18T07:00:00+00:00",
+      "publisher": "Reuters",
+      "summary": "US Supreme Court turns away Eli Lilly's challenge to whistleblower law &nbsp;&nbsp; Reuters",
+      "query": "LLY lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Eli Lilly (LLY) Valuation Check After Strong Q1 Guidance Upgrade And New Obesity Trial Results - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUWNuejB2YzYtTUh4TXF6a2ItNXlhUFNadk1yemV4anZFY0pENm9BV3phVlVpSWRta2Q2cFdVbTlFLTRObTFMdEFlTS12bDBSRUNXUklKa1RuQk1RUms2WlVFOFJVNGZ4YXVlcy1TLWRyOEppVmZTRUcwaFlRV0FnTXVpWElmQlZ1NjR4ZFZGekdsSk8zdkxLUWZn?oc=5",
+      "published": "2026-05-15T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Eli Lilly (LLY) Valuation Check After Strong Q1 Guidance Upgrade And New Obesity Trial Results &nbsp;&nbsp; Yahoo Finance",
+      "query": "LLY earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "guidance",
+        "analyst"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Analyst Raises Eli Lilly (LLY) Price Target by $52 Following Q1 Report - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaWxVaGVXRzljNzlxTjFYRWZ1dGlTSWJYVmpzOWxaSnBKdVNsS3Q3ZU56Szhzbm93NExSNGdDWDRBNmFRMHlWTHFVRlNpTUJoalRFU1NEUzUyVFZwS0NlWW9aNE03N2d4VkdSOVpmSVpkeU5FMElpS0owQmFvSXFQSWhDMlVWeVlucFlZd0lyYWJBSDVTV2dvOQ?oc=5",
+      "published": "2026-05-15T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Analyst Raises Eli Lilly (LLY) Price Target by $52 Following Q1 Report &nbsp;&nbsp; Yahoo Finance",
+      "query": "LLY analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "guidance",
+        "analyst"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Eli Lilly (LLY) Stock Trades Up, Here Is Why - StockStory",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWTlHSmZSaUtxZzVWdHVXUDZ6STR0RzZWd2RuODNWZlBsZFhNdnllYTlscmxOcXBPeUVleUticnh2aTlFUktjbmFaX0ZaT2N1TlFaeDdxYUFua2s2a0hWQ3B0cXVlX3h3MjJpbHdUcEhaQnVta1VsSlAzMHZGUlpqRDVHQkdGTEJRV1pDdlhaWTBDRC1aUFByNFl2Q1hBbmEtbkR1Nw?oc=5",
+      "published": "2026-05-12T07:00:00+00:00",
+      "publisher": "StockStory",
+      "summary": "Eli Lilly (LLY) Stock Trades Up, Here Is Why &nbsp;&nbsp; StockStory",
+      "query": "LLY earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Eli Lilly Price Prediction: This Is Where The Stock Will End This Year - 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZlVLVzcwRHd0U09ha3ZjbkVfVERxXzg2N2tFdWNNdlRBRTNwTHJCQVh5anRjTW9FdElQLXBmRXJJVWx2RDQyNDVOdHB1MzlBMkgwMUR4ZzdWR3ZNNU80Vnk5ckJyQmduR28tb1JFR0o1dDVCWlRLWjNUbzMxYVJFbU5HWHQ2RWx5TF9RTVh1WUxNLXRiWVZFUnlNT25IS19kVHZiOUFReTgzcjg0UHdsa2M0dw?oc=5",
+      "published": "2026-05-12T07:00:00+00:00",
+      "publisher": "24/7 Wall St.",
+      "summary": "Eli Lilly Price Prediction: This Is Where The Stock Will End This Year &nbsp;&nbsp; 24/7 Wall St.",
+      "query": "LLY analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Eli Lilly: 'Strong Buy' Raised Revenue Guidance By $2 Billion For 2026 And Label Expansions - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZkp6aEN2YVo0WFlKRkVnaE50emtta09BR0NVenh3eXJsU0xRSVROVXZWYWlLeGt2VXVPYUlpN1JtNkRBWU1JVmozOWpWdURqV2dKZnpTSlhBUlQxN3FqallrME9aaUxPT29wZjItNENPUHo4X3hXRE1seTE0NnFFZ2lKc180R0Y5QnZNTHJ1UVVOZnp0Q3BMd1JVQ0dUa2FjWGhtMXRUbE1zU0g0bDFQQm5RZ2o2VzJwSGEwdk84d0dyQzlvajhr?oc=5",
+      "published": "2026-05-10T07:00:00+00:00",
+      "publisher": "Seeking Alpha",
+      "summary": "Eli Lilly: 'Strong Buy' Raised Revenue Guidance By $2 Billion For 2026 And Label Expansions &nbsp;&nbsp; Seeking Alpha",
+      "query": "\"Eli Lilly and\" earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "guidance",
+        "capacity"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Eli Lilly Is Betting $27 Billion on Its Own Future. Here’s Where the Stock Could Go in 2026 - TIKR.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaEw4M2tuamswOUgxTjVxNER0WWxXbExZM1hvelV6ako2c2JCNEdiaTBCUDI2OHNTakJkTjNXWGkwN2VSV2VTQ2lVZGNJdXpJcVBNVTNla0lxRkRLVGtFN2dJQjJzN1ZiLTVELTZpMWYtbEJMME1TdloycEFUa0pBZzJxSXYzZjJicEZ4cF9OcWJkdTA1ZFBLTjJYbzZlMDdZVlF3eGZlYjY4emhYTE1xNlhJVVc?oc=5",
+      "published": "2026-05-09T07:00:00+00:00",
+      "publisher": "TIKR.com",
+      "summary": "Eli Lilly Is Betting $27 Billion on Its Own Future. Here’s Where the Stock Could Go in 2026 &nbsp;&nbsp; TIKR.com",
+      "query": "\"Eli Lilly and\" earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Eli Lilly commits $4.5bn to Indiana GLP-1 and advanced therapy manufacturing - BioProcess International",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQT00wT2Z3R2I4WFV2blFRMEU3NWlGSjJYMVNrZThUQ0hiRVZfaHRSVlkxTml1Y0VfdVM3UUNDQm5KSXkzdUNFUzhMdERXNmVBVk0zNGFSa0xSSkhac3lLakM1UmE1MGVJSUtGRTUyYm93TWlYZERZcU9Md0VsRk9JMGQ5TVVUQUtRNi1IdnZOTjZja3JDWHNQTmZYbzZYVTA1ZjEwUGFSTmNsaVpoaGhSOFk1SExBR1pPbVd6Smk2ckFPX1Zi?oc=5",
+      "published": "2026-05-07T07:00:00+00:00",
+      "publisher": "BioProcess International",
+      "summary": "Eli Lilly commits $4.5bn to Indiana GLP-1 and advanced therapy manufacturing &nbsp;&nbsp; BioProcess International",
+      "query": "\"Eli Lilly and\" capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Biopharma Manufacturing Expands in the U.S.: Amgen, Lilly Double Down on Capacity and Next-Gen Production - BioPharm International",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQM3Q4UHZrckoyZld4MXN6QTAyVjlYc2xLd3dZU3VlMVZ0SEIwaWJBQ1BlWTBveGxwY0pLSzlEdDROTTZ4NlctYkxZSTg4YjJRVjVhU0JKT2drTGd6V0VKZkdNcENKVllxa0M4UFZfT3l1X1Eyd21XdlpCb090Q0R4SnE5UDZ0YXFBcnYtam9XakNHVXRxSDg2ODZTblZJQXJoTlFLSnRXZi16dmRuWWNROU84LXdVVDBTTE1OdzF6WTUyWXBpXzRZcXZ5WmxSLUZlS0x4TGJBSzlfSkNTaWc?oc=5",
+      "published": "2026-05-06T07:00:00+00:00",
+      "publisher": "BioPharm International",
+      "summary": "Biopharma Manufacturing Expands in the U.S.: Amgen, Lilly Double Down on Capacity and Next-Gen Production &nbsp;&nbsp; BioPharm International",
+      "query": "\"Eli Lilly and\" capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "product",
+        "capacity"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Eli Lilly Stock Is Up 13% This Week. Here’s What a Massive Q1 Earnings Beat Means for Investors - TIKR.com",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQmwwY1NMMjl3Q3lPZGxsellFZU5Udlc2bXkyaUczX2N2Qm1ZeUtQWmhJcGpYclhmNlpwQTJLZFZST0dwV0Q0QlpGZmpzTXNLaVhPamlXSzU5NWpCMzV3eVdaMjd2SzRlMGx3NFV3Q2RlbGoyc2JYZmZ1dTlaVDRPTW1HYU9yNnMtWlJSTlZhUGEyMlhLcURWR2JwUzFtUXM4NWlZQnhQc05Jb1pzSllENVpaSEZfWEVqc3c?oc=5",
+      "published": "2026-05-05T07:00:00+00:00",
+      "publisher": "TIKR.com",
+      "summary": "Eli Lilly Stock Is Up 13% This Week. Here’s What a Massive Q1 Earnings Beat Means for Investors &nbsp;&nbsp; TIKR.com",
+      "query": "LLY revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Eli Lilly: No Big Gap To Competition (NYSE:LLY) - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOQnJXM01YWjMzb1FCOG1iRHAyMHd3V1gtYnRHZHBCMEY0WFdneG81Z2htQ1FFZldlU0hENndmSlAzMGszaWtrR0VseEQyNlUzRmMxeWJoV00xM0NnZVEySkM4WVlFS3RObWtqSVgybWNEYlc2Q3VYeXBXUUNoTE5ZOXVB?oc=5",
+      "published": "2026-05-05T07:00:00+00:00",
+      "publisher": "Seeking Alpha",
+      "summary": "Eli Lilly: No Big Gap To Competition (NYSE:LLY) &nbsp;&nbsp; Seeking Alpha",
+      "query": "LLY competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Our Strongest Conviction Call: Eli Lilly Headed 21% Higher in 12 Months - 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMFlpMWhsQlIxd3loMTh0NnZCYVBDM3hmUklTb0YxYXNfQXBvTXNTUHA4THBjaFFmSVZRTHhIandVRk54RjNXcUJidnJKXzdhbGNZWHdGeW5sLXp1ZWprc0d4VVFYWmRRNEo3ZXJxdWdveUJPWl94RVlndnZZT002UFJiVUxyd0x4NW9tS01xT2JWMHctOGZ5ZFJmNEJDeXZtUkYzaDVHbjRGV0ZJaHFJRzNmUQ?oc=5",
+      "published": "2026-05-04T07:00:00+00:00",
+      "publisher": "24/7 Wall St.",
+      "summary": "Our Strongest Conviction Call: Eli Lilly Headed 21% Higher in 12 Months &nbsp;&nbsp; 24/7 Wall St.",
+      "query": "\"Eli Lilly and\" analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Results: Eli Lilly and Company Beat Earnings Expectations And Analysts Now Have New Forecasts - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUUpIMzY3Y2M4LVJ3TVZDcnp0UmVJNHlVWjRyMDExUDg2UnY0QVhncEdQbWRQMkpsOWNGZGw4c3oyeXBORGgyS0pKOTlNMDc3VG9pSmlvUEVSX1cxUXNidGZRZ0pmeVF4ckxKcnR3WUVYcjBkWHp1QnBDOEZlTTZORXFlMnVfN2tYRkVwMzIwQmc0dlNnakNJZTJ2MA?oc=5",
+      "published": "2026-05-03T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Results: Eli Lilly and Company Beat Earnings Expectations And Analysts Now Have New Forecasts &nbsp;&nbsp; Yahoo Finance",
+      "query": "\"Eli Lilly and\" earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "guidance"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Is LLY Stock Setup For A Rerating? - Trefis",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNaWNIdk0wWTdJZTFqTnlSaFJEaGYyRHc5M2E0bDFZMzVfamhxM1ExVE5OTHpwZzdINzR2aTZXclk2OU5TQTRKV0FpZXpNT3BsMmR5dTJPYk42X1VzTldpdWNvdWVuNFIwMnVCUU45RTdSc3RPY2tfR3oxMnJOUWdwRWxrNHdiOUliQldUQWM1T1UtWGVtcXFkTg?oc=5",
+      "published": "2026-05-02T07:00:00+00:00",
+      "publisher": "Trefis",
+      "summary": "Is LLY Stock Setup For A Rerating? &nbsp;&nbsp; Trefis",
+      "query": "LLY stock",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Eli Lilly Has Fallen 11% in 2026. Is the Stock Finally Cheap Enough to Buy? - TIKR.com",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQeUJpdmFGaElfVWR4Z3VGRTZvLWprdU0tc2dYeGZ0UkxRZEh6bEctTUdjTG94cDExaE1udzhIdjAyWHNKM0k0QnNkNzJEcVFvRWc3cmhBNnBWOC1xd01fMnNJWUlLajdWREd1a3dZc1dXYllQd2dSZll5eElkdUt2aFBsVGpkdFhjT2VMZjVwRjZEVm5PR2Z6dlAyM19PUDg?oc=5",
+      "published": "2026-05-02T07:00:00+00:00",
+      "publisher": "TIKR.com",
+      "summary": "Eli Lilly Has Fallen 11% in 2026. Is the Stock Finally Cheap Enough to Buy? &nbsp;&nbsp; TIKR.com",
+      "query": "LLY earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Eli Lilly Reports $19.8B Q1 Revenue as GLP-1 Sales Surge 56% Year Over Year - TIKR.com",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNSld3UDJrb0hRNVVJMXEzQWRwRXpTbzU0ZVI4bkRVWUpDT0w3TWpOcy1FaFRjM1dMMmp0QU1jZFlnLWtjZXd3TWJDVlZ6T0dyeGpMSWppUERCQzlHQUlwdnNVVG4zZVdRZVNjb3d3UV9XeEhFWm50dnlDTTJaVEt0TFJEbURZTEhZSDBGRFRHZW5zekVlQmhNYlA1TkEyTzQy?oc=5",
+      "published": "2026-05-01T07:00:00+00:00",
+      "publisher": "TIKR.com",
+      "summary": "Eli Lilly Reports $19.8B Q1 Revenue as GLP-1 Sales Surge 56% Year Over Year &nbsp;&nbsp; TIKR.com",
+      "query": "\"Eli Lilly and\" earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Eli Lilly Stock’s Path To 30% Upside - Trefis",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZlNzRHdEOXRvdVhWYVRwX3dIVkMta3BselVWc0JWUmdrTTdRcjUzZWhyMmVBMG94VGRud3NxT0RDSGktTXRqSGRlTTVDNFg2OU1zdFNnV1hnalJ4VXM5Ml90VWMybk43aWtDSTZTcWt3NS05RUNTTGNOby1Wam8zaUIzTGFsS2FfTXpnWGdJUkJWclVsZTBvdFhB?oc=5",
+      "published": "2026-05-01T07:00:00+00:00",
+      "publisher": "Trefis",
+      "summary": "Eli Lilly Stock’s Path To 30% Upside &nbsp;&nbsp; Trefis",
+      "query": "LLY competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Lilly reports first-quarter 2026 financial results, raises full year guidance, and highlights momentum of new medicines - investor.lilly.com",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNb1FhNzZPckI5Vmp3MEVoWmwwRFIxNXlhdWc2MUlHMVRJa3FnMVZPYi1qYkVsR2l1R1BSZGcybExyVzktSF9pVndkeDEwTDByQnRZdHRZRHd2RnRBN19HQ3BsVTd6d1RKd3RSRzF6SVBSeDRtMEoybEFaY19VeFlpT3RGZThwQ1RMaXNIY3BpWE5naDE4U3FURTdJRng4ZXJZRXNndzAxRUdPbWFhT0txMzd1cDVxMGNXc2YwWFZVbFpvUQ?oc=5",
+      "published": "2026-04-30T07:00:00+00:00",
+      "publisher": "investor.lilly.com",
+      "summary": "Lilly reports first-quarter 2026 financial results, raises full year guidance, and highlights momentum of new medicines &nbsp;&nbsp; investor.lilly.com",
+      "query": "LLY earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "guidance"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Eli Lilly Q1 2026 earnings: Mounjaro, Zepbound drive strong results - qz.com",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOc0pZMV9IeUdtaE9NNE13RTNqTnpQbkw1bEFzUHZUbW5yNHQwSHFIYnpfUlVfbk50WEpLRklYQlBiRUtPY2dYdVBlTTBab0NmQ0tOeXJuN0EtXzBYQ0FHQXkxYmp3c3hHWjlYb3dOS3drYWJlNkRaTmhPMmFiSEczTXc1akJtVVNiZXA4?oc=5",
+      "published": "2026-04-30T07:00:00+00:00",
+      "publisher": "qz.com",
+      "summary": "Eli Lilly Q1 2026 earnings: Mounjaro, Zepbound drive strong results &nbsp;&nbsp; qz.com",
+      "query": "LLY earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Eli Lilly blows past quarterly estimates, hikes outlook as Zepbound and Mounjaro sales skyrocket - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5yRU5BMGtSZWdWM2NJQjZSS2l0Vl9tdHVMQTVqSV8wLVZZMkhvQTJQSHN3aVZFQnBQdnBINzZXd045T001YmVOMksza1VneU1uSlVfUnMwQTNCY05MSi1ZMVkzM0Ffd01qODlUSkhjUXk1bm0wUkHSAXtBVV95cUxQUHZGanotSDBzbEFBUkpYMUhBZUdPeEEwbDV3WEttS3hMekxlbHRxXzNNUWdjbGJFSlhlYlVielNobkdTMExKZ2MtY21kWHdSY3htQWV1WmJjdzdRcVlXVndLbGpQQmhWa3VjMlhmamFKMm83ZDhIOXk1ZzA?oc=5",
+      "published": "2026-04-30T07:00:00+00:00",
+      "publisher": "CNBC",
+      "summary": "Eli Lilly blows past quarterly estimates, hikes outlook as Zepbound and Mounjaro sales skyrocket &nbsp;&nbsp; CNBC",
+      "query": "LLY earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "guidance"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Eli Lilly (NYSE:LLY) Shatters Q1 Expectations with Blowout Earnings Beat - ChartMill",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWGhjSmQ1eDdIX0VMN1NvNXJRY24xWnBObUdGMjBycW5jOEh3V2c5NzUtZXVUWElSWXZCSmdkeG5aaGxxTndrODlERFhKa3J1Rk4tanlqMGdMeWdDMVFONUNLa3ZNakQtWF95QXJVdUljQjlrOThJMk15cjQwVmU0SG40MkVPV1Y3Zzg0bEhBWnAxWldwdWdfOThHcXZLV2tONVdkejBtVFoxWV82QjBQZ09icC1wY2VITmRQVA?oc=5",
+      "published": "2026-04-30T07:00:00+00:00",
+      "publisher": "ChartMill",
+      "summary": "Eli Lilly (NYSE:LLY) Shatters Q1 Expectations with Blowout Earnings Beat &nbsp;&nbsp; ChartMill",
+      "query": "LLY earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Eli Lilly (NYSE:LLY) Delivers Strong Q1 CY2026 Numbers, Stock Soars - StockStory",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcTNUTnNlSFkwblNENXVTbkFDMmVLNTVsdHNxLVlvOXByMklqSHJTdU1OaUtXUE1heER3Q1g1VVp2QU1ncFNXajhuOEwtajJuVzJlelU2bmxNeXlXb3EwU2o5MlR6Ti1jM3dDTVFxdjRhblg5N0dkaFl3MkUzRTVxYzhCWEs2VlFZR1VOdWszYnlGZUQyd21DZWhSQ1JUanJBQXIxREpfZXl6b3ZyUlBDYWlNaUtobXJoQmx3?oc=5",
+      "published": "2026-04-30T07:00:00+00:00",
+      "publisher": "StockStory",
+      "summary": "Eli Lilly (NYSE:LLY) Delivers Strong Q1 CY2026 Numbers, Stock Soars &nbsp;&nbsp; StockStory",
+      "query": "LLY earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Eli Lilly Shares Jump On Guidance Boost, Earnings Above Expectations - marketscreener.com",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPU1l5dDRHRjhWZXRHenVRMmVjMGk0cmliaENEVzV2R1BHR2NJcVZVSm4yQWFzQkRrbFh4cHJUV0xEY0thTHdPbEgzU2Y5cVcxQTNhSzBhYXNxenc0WXZWakFsaWh5VDhvaDgtcDRhdDVQNGMwQ1MtUjg3MXQzcjRoLWF2ZUtPX2YydGVhU1J5X05wNWZpRFd1SDF1b1NiYVlYd05SSjhVUG5OUDBhSElHV2RnLUFjRnE3eTRkbg?oc=5",
+      "published": "2026-04-30T07:00:00+00:00",
+      "publisher": "marketscreener.com",
+      "summary": "Eli Lilly Shares Jump On Guidance Boost, Earnings Above Expectations &nbsp;&nbsp; marketscreener.com",
+      "query": "\"Eli Lilly and\" earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "guidance"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Eli Lilly Q1 Earnings Review: GLP-1 Leadership Is Still Expanding, but Pricing and Foundayo Are the Next Tests - Moomoo",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQmVsOTJiMFRWZXNwZ0FzN0JrY2dnZnVGd1dSUUhFbFYyYjZubjljZVBBME5aZ0NPSGl6bUhkUWZCTmFVZUZYZE1sVzFveWRRNDZOaU9tanQtZG1aYURzWHpDZDBOY3NYZjg2MF9iT1BGbXFuZmVjcTZxQjhsaDlvTFBSVXdDbU9Yb1lxblpsd0hia3VjZnNIV084QW1PWHp4MUQwdFNObzlJRVE?oc=5",
+      "published": "2026-04-30T07:00:00+00:00",
+      "publisher": "Moomoo",
+      "summary": "Eli Lilly Q1 Earnings Review: GLP-1 Leadership Is Still Expanding, but Pricing and Foundayo Are the Next Tests &nbsp;&nbsp; Moomoo",
+      "query": "\"Eli Lilly and\" earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "LLY Stock Jumps After Q1 Earnings Beat, 2026 Guidance Raised - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPaFpKNmY2TjBsb2VKclFRTFF0VDVwblpVUFNaMUJ6UGg1dTV1NkpvWVJWc3JDMVVKTGl3RzA3RF80WnlTWWlLUUtOVjZoS1RsYmt3TWlEOUFnVFRGd21VdGpMRk13SktNZWx4YTFSeUhWMElfNzNiaUsyZWhvcUM0Q0lldTZYZmRfenRKUjdTbFg4TUxpa0xv?oc=5",
+      "published": "2026-04-30T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "LLY Stock Jumps After Q1 Earnings Beat, 2026 Guidance Raised &nbsp;&nbsp; Yahoo Finance",
+      "query": "\"Eli Lilly and\" earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "guidance"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Eli Lilly (LLY) Is Down 7.6% After Upbeat Q1 And Foundayo Approval - What's Changed - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQaWk5MU9EY0tVbGhnRndLX29jZWdVQVM5Q0p0ZUh4V1c0UWZpVFhoY1pFMm1nZmJLajBLT0lUZl9jS1RSSEUzZFRycnFTdTdEdjNaenF0RjRxVkdSTzlYaktuNUVFMXZHS0U2MmFBQld2M1MyQjJkcWt1WFFhSDdjMjhLSFE0ZzdUVjhJNzdyVl9fTzg?oc=5",
+      "published": "2026-04-30T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Eli Lilly (LLY) Is Down 7.6% After Upbeat Q1 And Foundayo Approval - What's Changed &nbsp;&nbsp; Yahoo Finance",
+      "query": "\"Eli Lilly and\" earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Lilly lifts profit forecast as surging demand for weight-loss drugs offsets pricing pressure - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNdXRRWW1DdVB2UlFlRzVaMTNscThKQ0NWTzU5QzFIM3lNbjJHcmNJaEV2Q3h5a2x5d1Q5ZGhXSDJ6N0w0engzdlNZbVRCTUlaY1YzaEV5Qm1JZ21wMm1kczQtT29HZkZlMFB2TUg2OTNFTDFGWThyeDQ5QWxoVWQ0aERLTVpLcXJpOGdfeHgwZHBDX0cyTFRmeEwwYncxMTNZZ1Y0VVU3eGlUblhIcndYWmdUUlE1YTJCYk8wbFBMTnFPOGNRS0lUQU9JcVl4SXJ0dnM1UllmNTRINWVNNWc?oc=5",
+      "published": "2026-04-30T07:00:00+00:00",
+      "publisher": "Reuters",
+      "summary": "Lilly lifts profit forecast as surging demand for weight-loss drugs offsets pricing pressure &nbsp;&nbsp; Reuters",
+      "query": "LLY revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [
+        "guidance",
+        "demand"
+      ],
+      "lean": "negative"
+    },
+    {
+      "title": "Eli Lilly (LLY) Q1 Earnings: What To Expect - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbERwSVFpSG1BMHN5NjFOaGN1NzdmRkRNUHJYMVN5UEtNQi1ZUTMzQUpsWm9ZMzktVEFfMmNLRG5uOUFVclI1WlNPLVhsNWdvUmJBb29wekp1QXJOYnl2VEpGSkFuWTN6ZURnLXI4d0JmOGtFMTAxWVRCUklPTDBFME5xbFRxT2dYZ1piYzVfbEFfSG9TSVoxN3Bn?oc=5",
+      "published": "2026-04-29T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Eli Lilly (LLY) Q1 Earnings: What To Expect &nbsp;&nbsp; Yahoo Finance",
+      "query": "LLY earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Here's How Much Traders Expect Eli Lilly Stock To Move After Earnings - Investopedia",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNb0ZQSnRLdV9kVmpScUhCbWNrdm12Yk1NYkR1ZnF0QmUzQjVTYmhUajFYYi1jSDRfNi15Qlh0VkM2SXlMYjZkNG5xb1NMUlAyWmtNQ0RCUVN2Q3BMdlV5TkxzXzZtTnNpZjQ5WmNyQk5JWTlNcDJMbEpTVW1LcVdvN1J2Y1pnc0d1RHZhb29VMGpVOERiNkQteXh1MjZBRnNnelV3ejBCbkFWX3ZJaDZycS01SDZJSnJlUG83dmdPQQ?oc=5",
+      "published": "2026-04-29T07:00:00+00:00",
+      "publisher": "Investopedia",
+      "summary": "Here's How Much Traders Expect Eli Lilly Stock To Move After Earnings &nbsp;&nbsp; Investopedia",
+      "query": "LLY revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Eli Lilly investors are eager for Foundayo insight after early launch data - Yahoo! Finance Canada",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQYVc2T05mQ3pyVkdsR3htcEVtak5ILVF5MVIwR2tQbkFKSFpseTlKb0tPb1VxTUItZS1aMUVJU01pNk5KRk1hM0JUQmZMbmhycVRHd01OSjJ3NW91clRIZ0RSYjlCODZRLU1qWkZmaE5lYnNkOVpaNFVJemZZR2NTaVpIWlkxcEk1T0Rv?oc=5",
+      "published": "2026-04-29T07:00:00+00:00",
+      "publisher": "Yahoo! Finance Canada",
+      "summary": "Eli Lilly investors are eager for Foundayo insight after early launch data &nbsp;&nbsp; Yahoo! Finance Canada",
+      "query": "\"Eli Lilly and\" revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [
+        "product"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Guggenheim Raises PT on Eli Lilly (LLY) Amid Several Acquisition Deals - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZ2I1RVVYRm8xeXBsYXFqYVpVX0NkUjE3VWN1Mzd5Nm9kcTZoclNwVTUxdW5SQlYtR3ctLTVUVDJhRlZvbkdabWU5YWowVWhCYVF5NW9BbGtvQzVQU0dxZGt0bTVTbmJSeGNZWFFIZVRLdHZSVlNtdzJLM2R5UmtTV2VxUW9obG02TS1fN003MXd5UlBvWDhqblQ2Q3ZCcFBG?oc=5",
+      "published": "2026-04-29T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Guggenheim Raises PT on Eli Lilly (LLY) Amid Several Acquisition Deals &nbsp;&nbsp; Yahoo Finance",
+      "query": "LLY acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "guidance",
+        "mna"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Eli Lilly Stock Near Crucial Support – Buy Signal? - Trefis",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZWRsalFUb2I2WEpOeVBGei0xODNyeVo2TlBnaDRiUHo2U3dwdTU3WDdQdDJPYXVxOGo1dlVDc29lRnZRaEQ0SkFNRFpwc2plNkJFVXg1RVZ2aU1NM1R4TjhIV1cwaUYzLXRMbmxfaTBkSlpjSnZDRjdSRU5BSDI0cGxnc1p3MmVqREZpZGVVMnRpZ19vMHFXSlZjQWZQUmxtMUtwRUhPeUhLUm8?oc=5",
+      "published": "2026-04-28T07:00:00+00:00",
+      "publisher": "Trefis",
+      "summary": "Eli Lilly Stock Near Crucial Support – Buy Signal? &nbsp;&nbsp; Trefis",
+      "query": "LLY stock",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Eli Lilly Moves Boldly into Next-Generation Blood Cancer with $2.3B Ajax Therapeutics Acquisition - Oncodaily",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE40bWNXSWZlUHFoYUJCMjFscDFyOTF6NEJaa3dfUTFNajBRcmFJWjh6Tzk0bTVEZ2x5ZjB3bXNlMUtmaXZrbE5PX3VPdVF3SktEdnV1Y19zOTk?oc=5",
+      "published": "2026-04-28T07:00:00+00:00",
+      "publisher": "Oncodaily",
+      "summary": "Eli Lilly Moves Boldly into Next-Generation Blood Cancer with $2.3B Ajax Therapeutics Acquisition &nbsp;&nbsp; Oncodaily",
+      "query": "\"Eli Lilly and\" acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "product",
+        "mna"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Wegovy’s early lead to narrow as Eli Lilly prepares Foundayo launch - S&P Global",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOMC03NGV2Sl9od0pTZ0w4bzJCWWlRVV9BZHE2N1d6cXE5LWhmMTZYd0pEZlBLU25tUnJwS2dQdGZEU1hPOXV0T0ZEUzBjdno1TEc5OFhlVDducWludjZESnYyalVXMEJYUEtUaUhXcjVBdzZkUVpGZEhYcGNXbHQxalNQdDJEQkdrRnVIYjBjeHFsMEhQSHNnLTYzVVVMZmhPbGZzemo4QjRfa1JBWDE1aktRVnZyUHVqOW5DbDFzdHhuUHc4NVd0VzJMRFh3bTFJM01pQXdrbkFPMVVpSHBV?oc=5",
+      "published": "2026-04-28T07:00:00+00:00",
+      "publisher": "S&P Global",
+      "summary": "Wegovy’s early lead to narrow as Eli Lilly prepares Foundayo launch &nbsp;&nbsp; S&amp;P Global",
+      "query": "LLY capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "product"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Countdown to Lilly (LLY) Q1 Earnings: Wall Street Forecasts for Key Metrics - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTDFCTDltVGZUMHRaZjRVWG4yRVdxUVhXa3ZoZlVzaUJmMHlhR0RCeEk1NnpCS0xmdFduSFFjNVdrZWFQTTdLVmxjc05VWUNRUS1YbFVqSjhtME5RbDhsNktncnRQcVB1VFlZd2d1dFBweGo0NTJ2T2RNRy03WG15NXVaMGZMTE1SU2Y3QXpzN2NLTVFLWkV3T1JZaXQ?oc=5",
+      "published": "2026-04-27T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Countdown to Lilly (LLY) Q1 Earnings: Wall Street Forecasts for Key Metrics &nbsp;&nbsp; Yahoo Finance",
+      "query": "LLY revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "guidance"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Eli Lilly’s Been On An Acquisition Spree This Year – Here’s A Look At Its Major Deals - Stocktwits",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQd2ZLa1ptLWZvQ0F2SGRXRzhUZ25oRFZUQVdsbTlfX19ROXFUanJOajVfZ2hYZHNQSFZnbjB6MDVsbHFESTZna2dsZDkxRmVRLU1nVHE1ektOaThBbURmY2p6YjZPQ29Mc1hlR3JWMHh5eGQwdVdJa3JYTVJqZzFIQ0E1SWc3VGpfRUNwc2d3aWR0TlB1cEVZX1dwd1lqWGNiZ2s1OWRaU1Z5WVB2blc0TUdxOTh5QnNlOWg5NkdaRWhNLUU?oc=5",
+      "published": "2026-04-27T07:00:00+00:00",
+      "publisher": "Stocktwits",
+      "summary": "Eli Lilly’s Been On An Acquisition Spree This Year – Here’s A Look At Its Major Deals &nbsp;&nbsp; Stocktwits",
+      "query": "LLY acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "mna"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Eli Lilly Just Spent $7 Billion on Cancer. Here’s What It Means for LLY Stock in 2026 - TIKR.com",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNV0t2M2xBeVl0c1BpOUxZV01BYXhFN25Pc1dlakg1WURrdTZwMlpORFFzWkJETTZqNjItazktMlZsR0VQZ29tUWR3SUFtYUd4NHN1YzlSWGFtd0F6ZHA1LXVwX3dHcTBKX3BZNWl0NzFLaHFRT2JzcFptTzhfMGNDd3RxZGxrRVNRLWRFZEx6cXBFRXFNM0JrTnlRbTRvNGd2WEJQM0lzd3pJSnRO?oc=5",
+      "published": "2026-04-25T07:00:00+00:00",
+      "publisher": "TIKR.com",
+      "summary": "Eli Lilly Just Spent $7 Billion on Cancer. Here’s What It Means for LLY Stock in 2026 &nbsp;&nbsp; TIKR.com",
+      "query": "\"Eli Lilly and\" revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "LLY Stock Slides Toward Sixth Weekly Loss, But 200-DMA Holds Firm: Is It Setting Up For Earnings Run? - Stocktwits",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVUJObUI0NV80T0poUGNfdDY4enNNdWpTX1dTLUUzSnRUaE1wVXdFNXhFNGMyOXpNRmFIUE91dGFsaEx0eDB5ekNKNWQ3eUtYdWlPdEdoVEtiaEw3b0hyaWFKV3F4X29QUTZNQ203QTJHMkR0dU9ERi04bDdkaTJrTjl4SEhDMVNEZVhPcVFwYUtrMWU3cEpsM2g2aDNtcm90LURwdE1mdElJMThEWFl2VUtnS1lIVk16UE5v?oc=5",
+      "published": "2026-04-24T07:00:00+00:00",
+      "publisher": "Stocktwits",
+      "summary": "LLY Stock Slides Toward Sixth Weekly Loss, But 200-DMA Holds Firm: Is It Setting Up For Earnings Run? &nbsp;&nbsp; Stocktwits",
+      "query": "LLY capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings"
+      ],
+      "lean": "negative"
+    },
+    {
+      "title": "Eli Lilly (LLY) Earnings Expected to Grow: What to Know Ahead of Next Week's Release - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZzlTa3A0d0pyeGJ5a3Q5Z0JaY2dLMU11UXJnekE0SUdDay1vUXR2QU9WWUZVb2d6SFBvTURtRjNINzVQSm9BZThheW9SV0x0QW1aM3JadnpqYmQ5XzJVcm1TQlRPQ0lDaDBIQ1lhbjhzMUNlcHRXd0dxXzFYOTRvcVdNLWplak0xbm9KOTZ6NGFhejV0SXQybEFZOHk?oc=5",
+      "published": "2026-04-23T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Eli Lilly (LLY) Earnings Expected to Grow: What to Know Ahead of Next Week's Release &nbsp;&nbsp; Yahoo Finance",
+      "query": "LLY revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "product"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "SA analyst upgrades/downgrades: NFLX, AMD, LLY, UNP - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQUEhpbDd2N21KMExsdWlET0RfbktQMVVIUDlCN1BrbWJIcHVvZmswbVBUWlotQTVSZEtELUs5WldHOFk1eDV3a3lDLXlmLTJjLS1weldHZFgtUy1mbDd2OXh3SjV2UnctTDUzRzFFWTFndkhxUWM3LThaZWtfaW1BVGFlWDVIbHVNc0FjelZR?oc=5",
+      "published": "2026-04-21T07:00:00+00:00",
+      "publisher": "Seeking Alpha",
+      "summary": "SA analyst upgrades/downgrades: NFLX, AMD, LLY, UNP &nbsp;&nbsp; Seeking Alpha",
+      "query": "LLY capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "analyst"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Lilly to acquire Kelonia Therapeutics to advance in vivo CAR-T cell therapies - PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQM3cwOTRmS3h5WEFRemsxT1JuYjVLVlJlVE1rYUVxMVpEQlZSWVRaeFBwTnRmMHB3ZnN0SHpFQ0M4QlYyaWJWTTV4ZGZUSndxQi1RYU0tUEZ4YmpoLU5oWEZLSlVoUUZtRTQydnFiSVpTblR5a1VaYUpUOVdtZ1BybEZRSjVhYUhvNmFLZkR2RllhUXdsV0QwdnhLcmpjaWV4Qk9JV2tzVk05MVpVaDM1cWdmNmdhUlJwck8tc2JnVVRlV0hSVkFFVEFfZk1pdw?oc=5",
+      "published": "2026-04-20T07:00:00+00:00",
+      "publisher": "PR Newswire",
+      "summary": "Lilly to acquire Kelonia Therapeutics to advance in vivo CAR-T cell therapies &nbsp;&nbsp; PR Newswire",
+      "query": "LLY acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "mna"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Eli Lilly and Company (LLY) Price Target Increased At Morgan Stanley on Updated Biopharma Model Assumptions - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVTc5MnZ0bzVVZHN2TjhXSk5Ta2pTd1BZcDNjY2RHZlhZc1ZRMW85NENVemdmdm5pTTMtbmI4SG12WUN2eGh2WHVmSnpzMEdJcnRCT0NXMk5Na0RzZjdNVDg5X3lfTTBsTHJGNjlWeDM2RjBWejdCdFd0N2w4SEctU3FhX0FSN3d1dzE0VTlTV0V6NWZUdFJfTk9DNHc?oc=5",
+      "published": "2026-04-17T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Eli Lilly and Company (LLY) Price Target Increased At Morgan Stanley on Updated Biopharma Model Assumptions &nbsp;&nbsp; Yahoo Finance",
+      "query": "LLY analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [
+        "analyst"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Eli Lilly is losing market share as generic weight loss drugs flood the market in India - qz.com",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOX1d0RW5kWGJlMGRIdWtTMUx5UDZ1V1lqQklaZ1EtZlJLdmgxWkJ6MlhPVjh4UDBaY2Ffd2s4TWRnQUtlMjRSU2NhTWlTMWNhVUkyOWcxQUM2R3l6Q1RXdUhwdHpPWDd3YmhSNlFmTDBGLWtScVc4N04waDB5MXNGaw?oc=5",
+      "published": "2026-04-10T07:00:00+00:00",
+      "publisher": "qz.com",
+      "summary": "Eli Lilly is losing market share as generic weight loss drugs flood the market in India &nbsp;&nbsp; qz.com",
+      "query": "LLY competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "negative"
+    },
+    {
+      "title": "Eli Lilly market share drops, Novo Nordisk holds firm as generic weight-loss drugs flood India - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNT2x6cW1UelFBc1g0SEF0OHhzQWlQRlNxZ1J5bVEtbE82d0Vkbl9EdjJsOGlTdTVfWFBUWnV2cENUMWNNUWFsaHRCdWFGOUthRFVyc2hxdURyZ1J1UXVyRjJzdUc0eDVkdlB0T1lpX3lhV1o2ak1PMzA4alR1WG9jQ19zS1VNU2FETzBxQzVCSmlkTXhvYXJ0bkVNdEc3UGdFRnJVOU1tdmctclA4Mi03dTY4TVh2SDVx0gG-AUFVX3lxTE9fd29RT2gzejRPRzNhWll6QTZzaHVVN3JqQnVwSmgwT3E3cGNWbUdWWVROYWJ5elY3NFlmNU56N3AtMnRuejJJVzE4WXd3bW1JZkxXZnY5WTVyUC1HeV9rRVc5dzFYdkd0Uk9PXzNQU0xmUkhKMzhGeUtuZHdYUkk2N09laFdOdDZLNFQ0Tm4yZ3RIUzc2d2JqbVIzYTFBMVFpQTgwZzMyZndNTjJpY2JfaWRxT0FybTNoT2VRV1E?oc=5",
+      "published": "2026-04-10T07:00:00+00:00",
+      "publisher": "CNBC",
+      "summary": "Eli Lilly market share drops, Novo Nordisk holds firm as generic weight-loss drugs flood India &nbsp;&nbsp; CNBC",
+      "query": "\"Eli Lilly and\" competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "negative"
+    },
+    {
+      "title": "Eli Lilly and Company (LLY) Price Target Raised Following FDA Approval for Fundayo - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQT09FUV9kejhTaV9IYWhyZjlvczVUMU5xcGJRY2M2T29qRk0yazBNd3pHbFhOSFdjYnNwdWJLYzRUbkI2eE40MWpjaUt1MXgzZC1pYzItZ181Z1NxX2NYT1E0X2F3bEJMV29CLXFyZXpPR1BUUGJFZmpBeXJObmdEam9xWGpsYjRNYTE4QnFOM251MVZaOFY0?oc=5",
+      "published": "2026-04-07T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Eli Lilly and Company (LLY) Price Target Raised Following FDA Approval for Fundayo &nbsp;&nbsp; Yahoo Finance",
+      "query": "LLY analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [
+        "analyst"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Eli Lilly Stock Is Down 13% in 2026. Does Foundayo Change the Math? - TIKR.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOMjlMeFhnVlRNOFBiNFhDV1ctc1N6WEl6d0JYMmhqb3ZnNTJuc2V6N2dFa2sxQmJfT0lpR0kzRGN4cVVFZHFmc2hyVTFnSnBaWnQ0Z09GVE1tcVpCaW5lX2dTOEdGeF84YUtTS2h6WWN4dlZ1SlBQOElld01KanA3LUpVYVlTZmNnN1BiS0g3cEkzclF1?oc=5",
+      "published": "2026-04-07T07:00:00+00:00",
+      "publisher": "TIKR.com",
+      "summary": "Eli Lilly Stock Is Down 13% in 2026. Does Foundayo Change the Math? &nbsp;&nbsp; TIKR.com",
+      "query": "\"Eli Lilly and\" analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Eli Lilly (LLY) Stock Sinks As Market Gains: Here's Why - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbWZ5NXdkNUh2eloyOTlEMXVjVzFPbUFReWpsRS1DNHBTVE5YVUVXZXByNWRPZEZ5XzlJMWZBT0xDS3h6QUc1dGgyck9MVzJQUUs0SUluZ1NHcktJOFhRVmc3cjlGU1U5aVNtVUNKZjY0bE9JRVFVb3J0R1VmWW5KZnczWUZZNlZKWWFRVlpYRmxyWWpn?oc=5",
+      "published": "2026-04-02T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Eli Lilly (LLY) Stock Sinks As Market Gains: Here's Why &nbsp;&nbsp; Yahoo Finance",
+      "query": "LLY competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Can Eli Lilly Keep Its Crown? - Trefis",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWGlDYW5yRWIydzBEYUlkQVIzZkZvSXp3OW5BZDdwenF2UFpLd3BMZDNrREF6aHROV3ZFS21BSXljNy1lTUZLb1doUjZMOW1qajRyR3NKYVRMTWFoRXZZNjROc2R3M1c5YTd0LUlEUl9SSXpxSVFPZ2lvSWJGWGV4ODFIbGMzUXZBQWgycUhkcUJEQQ?oc=5",
+      "published": "2026-04-02T07:00:00+00:00",
+      "publisher": "Trefis",
+      "summary": "Can Eli Lilly Keep Its Crown? &nbsp;&nbsp; Trefis",
+      "query": "LLY capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Lilly to acquire Centessa Pharmaceuticals to advance treatments for sleep-wake disorders - PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQcmN3cU5WS1lTeFVncWFKdS1QLVF0ZWdEUWNRTnUwWFRFOG5fbjFsaXBwZFNCcGs5VDNYbVVpczREZ19hSU1vb2thZGpIUVo4RW5fZlZHdVpjQVJLajYwdHlCNGxsdlhrWV91Zlo5XzIzYkxqbW9kd3lIN2h3NHAwVUU2ejYwVVhISEl1SkcxTW8tdWRzNmp2VGsybVdPT2VOakhHWUhNbFUxQ0h6VE5sRVlhSnFDa1M1NVAwZ2RMVTZfTk5vcWZ3X0J5d1BRYjRwU3JqMjZBa3FZWE5B?oc=5",
+      "published": "2026-03-31T07:00:00+00:00",
+      "publisher": "PR Newswire",
+      "summary": "Lilly to acquire Centessa Pharmaceuticals to advance treatments for sleep-wake disorders &nbsp;&nbsp; PR Newswire",
+      "query": "LLY acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "mna",
+        "demand"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Lilly further embraces Insilico’s AI tech, inking R&D collab worth up to $2.75B - Fierce Biotech",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUTdLY1cwVlY3OUU4QUFRcVlzaWxGZThCbVVOSV91M1lzOVk1OTBkZV9salJrZEFncG02TEtmWHVJZmh0cVBOX25nb3F4WmY5SnZZLUU0bXcySkp3TTM1UmtBaHpKR2pQWDNMZ01FUWtrYmtpZEwyWHJJWGFkbmxXZkFPRU9nOHNsbldpb1VHdXdHV1RKa25QWTE3alprQ0lRbGViUHNCQkI3LTRMang2a25n?oc=5",
+      "published": "2026-03-29T07:00:00+00:00",
+      "publisher": "Fierce Biotech",
+      "summary": "Lilly further embraces Insilico’s AI tech, inking R&amp;D collab worth up to $2.75B &nbsp;&nbsp; Fierce Biotech",
+      "query": "\"Eli Lilly and\" acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Eli Lilly's Sustainability in Pharmaceuticals Strategy - Sustainability Magazine",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUGo4UUx5M0RtM3lkWDNMY0NOMmFRV0xCMktEUlVUQS1VMjRpb0szSzVTT3IxdU5od1Jaa2FQRzNvUHhONWg4OC1oS0FHWFRHUHF5UmRQY0hlMjhUNlRUNnVDbGlHOUdLUTI4VHlydVFCQmI0SlY2SEtRbW9aQmc4NzY0R2Fvc2hVVDNIc203MlluUmJr?oc=5",
+      "published": "2026-03-26T07:00:00+00:00",
+      "publisher": "Sustainability Magazine",
+      "summary": "Eli Lilly's Sustainability in Pharmaceuticals Strategy &nbsp;&nbsp; Sustainability Magazine",
+      "query": "\"Eli Lilly and\" capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Firing on All Cylinders: Eli Lilly (NYSE:LLY) Q4 Earnings Lead the Way - StockStory",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSHNVMGdtUE8tTGVFOWFkSndYcjhJLXVVV0NtaTdIdU9yOWxkNEtKUlpIS2FaakFwVlF2TzA0ZkJ4OVAyYmFHTjYtTWJnemowcVpaX2syYVRXd0piOVUtcnBKN2hyM0lYZU90ZlJmbFpnR2hsWHRDT1Nrb01PRVloNGFEMFByUFNPSzJGTDVRNFU4TzJOSGVvcTlFcWM0V2ZzNlRqOHNZaHo0VWVOdVRLLU5BRE1wZDM0XzY2VV9Kbw?oc=5",
+      "published": "2026-03-25T07:00:00+00:00",
+      "publisher": "StockStory",
+      "summary": "Firing on All Cylinders: Eli Lilly (NYSE:LLY) Q4 Earnings Lead the Way &nbsp;&nbsp; StockStory",
+      "query": "LLY earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings"
+      ],
+      "lean": "neutral"
+    }
+  ]
+}

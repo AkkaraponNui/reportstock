@@ -1,0 +1,1365 @@
+{
+  "ticker": "ASML",
+  "company": "ASML  N.V",
+  "as_of": "2026-09-20T09:07:44+00:00",
+  "lookback_days": 180,
+  "summary": {
+    "total": 103,
+    "by_event_tag": {
+      "demand": 29,
+      "guidance": 23,
+      "capacity": 19,
+      "earnings": 15,
+      "analyst": 11,
+      "price_move": 8,
+      "management": 4,
+      "capital_return": 3,
+      "speculation": 3,
+      "product": 2,
+      "regulatory": 2,
+      "macro": 1
+    },
+    "headline_lean": {
+      "positive": 25,
+      "negative": 5,
+      "neutral": 73
+    },
+    "top_publishers": {
+      "Yahoo Finance": 29,
+      "Reuters": 10,
+      "The Motley Fool": 7,
+      "Bloomberg.com": 5,
+      "Morningstar": 4,
+      "CNBC": 4,
+      "Investing.com": 3,
+      "TradingView": 2,
+      "Barron's": 2,
+      "EE Times": 2
+    }
+  },
+  "articles": [
+    {
+      "title": "ASML Stock Price and Chart — EURONEXT:ASML - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE85SkN0N2pXejJkc2tfM3Y3VVlNTkJqM2VGWjBLeEFoZFdSVlpLNWh2RG9mbWhUYXF6QjBpYmhUMHNqTlhEb2x4b0ZpSnpVRkJIcUo3M2Rhdi0xMmZTWjlJ?oc=5",
+      "published": "2026-09-15T10:00:00+00:00",
+      "publisher": "TradingView",
+      "summary": "ASML Stock Price and Chart — EURONEXT:ASML &nbsp;&nbsp; TradingView",
+      "query": "ASML stock",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Why ASML Stock Is Falling Today - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE01TVl5Y3l4cHY4N0lDMkxEX3ZkTUwyUjdTb3Q5TEdDSWpQTGFBTTJ6aVV2R1ZTb1RuWGdTM3cteDd4cFdqVGVfT1pabzZTY2Y4RG5ma3dURzBmU2RyUDY5X3lUU0w4NEZRWDlfa0RvMzRWZTBXcGZqSWFucEhYOXc?oc=5",
+      "published": "2026-09-14T19:30:00+00:00",
+      "publisher": "The Motley Fool",
+      "summary": "Why ASML Stock Is Falling Today &nbsp;&nbsp; The Motley Fool",
+      "query": "ASML stock",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "AI safety warnings hit ASML as Europe’s exposure to AI investment boom comes into focus - EU Today",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBwSmpqVmlfTTBFWm1RNTJZWTF4dWpJVmJXZHJERkxxMUtRdi05TVNtd0o3MXJoZTdBUnNQNWtqWkhhdGs5MUdiU3pHQXJ6bjlEMkt4QW5MUXJIcnZJZnZ0UzFrWmd4QUMybHozdGd4dnYwMU5rd2pWS25qdHFSZw?oc=5",
+      "published": "2026-09-14T14:25:14+00:00",
+      "publisher": "EU Today",
+      "summary": "AI safety warnings hit ASML as Europe’s exposure to AI investment boom comes into focus &nbsp;&nbsp; EU Today",
+      "query": "ASML lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "ASML Wins Over TSMC, Samsung for New EUV Machines as AI Demand Surges - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONTh5bGl1azZ2eFd4cTNQOUtoQml0R1g5ajREcTdpcVlUYUN5Z3pkWUYyQVlwWkxyak1vWUJWOEYzZElfWURoYWFTQ1V2bXAyV2tiZ3JoTnVPaDhHZ2Q1RWtOMzVJT01pR0g5RlBXdW9EbG5ETW9SUHp3d056bUxCclIwUGx5MzJXdUc4YUR2bzJuSDhpQVE?oc=5",
+      "published": "2026-09-08T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "ASML Wins Over TSMC, Samsung for New EUV Machines as AI Demand Surges &nbsp;&nbsp; Yahoo Finance",
+      "query": "\"ASML  N.V\" stock",
+      "source_api": "google_news_rss",
+      "tags": [
+        "demand"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "ASML Wins Over Top Chipmakers for New EUV Machines - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUGdwaDlaY2J0dnkxdHZEenU3SEFLRS1pTlVPaW8ybTA2TTA5am5RMmxidF8wR21hYnh0Mmg3bk9VMEE1ckNMNVpiR2tTV1VnSU1UTVh5WTdKWDlqOTcxamNodmI1bUVocmpnNkZLZTVZenZUR2Q1RkFsaHVMWVpGWEdlQjQ3OUxvdERhYVpoUHlpa1hCci1oWGdkekg3clhKWkJjRnVIdjEzQQ?oc=5",
+      "published": "2026-09-08T07:00:00+00:00",
+      "publisher": "Bloomberg.com",
+      "summary": "ASML Wins Over Top Chipmakers for New EUV Machines &nbsp;&nbsp; Bloomberg.com",
+      "query": "\"ASML  N.V\" competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [
+        "demand"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Samsung Electronics and ASML Expand Strategic Collaboration for Next-Generation Semiconductor Manufacturing - Samsung Global Newsroom",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOYkNpckVWbTZoSnY4R3d4bWdKTnR1LWZiQXE1ZGtQRVQxX0NEWnhmY1VkOEw1SWhSclZsRklyazhFVkFfOTJSd0VWWURBeGN6M2tSek1PZFA5MjJOU1d2V0NCYU5fT3RYSWF4YnhFODFSeFJBU2JfcGg3clE2Smswa0YzdkZEclloYUMtWUhYbzBIbHo3NVZmMlg5MHZZaGlOa2NfN3BXMjlabXh3ai03Tk9XWnRRdzRoM3dEeER0cTBEMVNTcUV1Q2xSLWgtV2JPOTcteGp3?oc=5",
+      "published": "2026-09-08T07:00:00+00:00",
+      "publisher": "Samsung Global Newsroom",
+      "summary": "Samsung Electronics and ASML Expand Strategic Collaboration for Next-Generation Semiconductor Manufacturing &nbsp;&nbsp; Samsung Global Newsroom",
+      "query": "ASML acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "product"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Samsung, ASML deepen partnership on next-generation EUV - upi.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNGQtLXVXR0JpRjNNdFVveFZ0MGNZdmtrb1ZZcUZSU3JHYVQxNm5JNkVCRTBGa09vNzROYU1KLVdKM1p3V2MtRllDQkFaYXlzTXFueFdWMmhhd1JUa3RLMXZQbXA4LVZneFBkSlR6R1pDT1dHdERQUkVfQ3A0XzhZbVhPZkQ2MWhidDI3N2o5dTZYSTZJcnfSAZsBQVVfeXFMT21SSUhrUFV2Ml9ZZUVrbWd2ZW5yU2JHeWZ6d2dMU0dzQ0lSQ1RBYmptczhhMldoTjZCSEpnaXF3REhoRmlyMXFwSGRmZFV6MlRrcXlDWUdsZjI2TlZuQXloNVlQQ1cxYlhPVDdxa3JtendObDJTWnVBcy15bU15bUhCdHh2ZUhSNHIwSk5uTEZTRE5icGdCTzQtdlE?oc=5",
+      "published": "2026-09-08T07:00:00+00:00",
+      "publisher": "upi.com",
+      "summary": "Samsung, ASML deepen partnership on next-generation EUV &nbsp;&nbsp; upi.com",
+      "query": "ASML acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "product",
+        "demand"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Samsung, ASML deepen partnership to advance high-resolution chip tech - The Korea Herald",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBvMUVQejVkZG1sSVdxaGc4S3ZuWEluUmh3cDRrdG9VQlBJNlIwWkt2LWVDUmdObG8zMVh2TG03Z3FNWVVVMXg3b21KS1dGdUVWTENsYUFiZw?oc=5",
+      "published": "2026-09-08T06:12:38+00:00",
+      "publisher": "The Korea Herald",
+      "summary": "Samsung, ASML deepen partnership to advance high-resolution chip tech &nbsp;&nbsp; The Korea Herald",
+      "query": "ASML acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "demand"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "ASML (ASML) Stock Sinks As Market Gains: What You Should Know - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaTdtM3VldldUVlQtcWduWFhwZE01S0dZV3M2NlBEWHozNHNwQmNzUW1hZmYtRmZDck40Q1E0OXUwN28tSTUyal9HMTlpWGRtVjlWcWx6RG0yOEhFcU9ZQmZSTXRKTjdEUlMzMW5lWUw3V2xCaHpJQlJ6X0FnN0RtTDFOakNfS0NvS09DbFhsMDQ1djhhbWFoQw?oc=5",
+      "published": "2026-09-03T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "ASML (ASML) Stock Sinks As Market Gains: What You Should Know &nbsp;&nbsp; Yahoo Finance",
+      "query": "ASML stock",
+      "source_api": "google_news_rss",
+      "tags": [
+        "price_move"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "How ASML Can Hit $1 Trillion Value and Why the China Threat Is Overblown - Barron's",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9JbU1HRG9hNm8yM3A5d0dwc2V6aDhpLXlLQnRTQ014QXFmMjNpc0tTMms5eGY0ZG5yZDl6SFd3bEpNQ25ZWXB6REVLOEZySjd4ZEJsS3REOW50Skp0djg5NkxIZnNrYlJsZlJjeGZVakRWRGRmdVN4M1lXNA?oc=5",
+      "published": "2026-09-01T07:00:00+00:00",
+      "publisher": "Barron's",
+      "summary": "How ASML Can Hit $1 Trillion Value and Why the China Threat Is Overblown &nbsp;&nbsp; Barron's",
+      "query": "ASML stock",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "ASML reports transactions under its current share buyback program - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOV0FqWTZOQnpPQ2o4WXZ4TEZER3I2TWFLdnp5MlozTl9XYmlBc0pqTTFvallTVHc2c2pDcGdQVWFsQldSaTJITi1KeHBrNDJ5dXV3TkMyR203WHVEX3NmdE5NaThmbHNpOHZuSVFIN29uWG1MbTgwSnM0Yzc1U0FPM1dheUw2aEE0Y2FRSzJTSllmemJodk5oQ1hjdkpERjRUUk9WcFJnTQ?oc=5",
+      "published": "2026-08-31T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "ASML reports transactions under its current share buyback program &nbsp;&nbsp; Yahoo Finance",
+      "query": "ASML stock",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capital_return"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "ASML Gains as TSMC's Spending Forecast Hits $85 Billion - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNblllTmZ4OGNXOXZRUGdselRKNW9rS2ZJR0t6YVVIUG12Y3dMOVdsaF9UazBiTFlyak5WdGhkaEdvMWRRZk0tdGtGLVRsOGw2eHhJQlZqVGZpMEJQRnVHbURMdXRDa3BKRzJvakw3eEpyN0o1aFJMUE03UnJzemxPaDNJNkotZHhWVTVzS2dQOWpqR1pkVFhoSTJkOA?oc=5",
+      "published": "2026-08-20T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "ASML Gains as TSMC's Spending Forecast Hits $85 Billion &nbsp;&nbsp; Yahoo Finance",
+      "query": "ASML revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [
+        "guidance",
+        "capacity"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Is ASML Stock a Buy as Rapid Growth Tests Its Premium Valuation? - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWWw5X2t2SFptdXY2b285WE5LUDVWY1dGQ2VFVkQzOWRuYW9ERjdCeGlUM01BRWJ6cWRxOUE1WTFucnN6Mzc2SGpQOXBIZE9SeFhraUJ4WTd3RjlzZFliMW5PYTFMMHJWaHZhUmlXbUtxZ2h2OTV1U1REdDI2aWk1VXVocGlPcDhDYWEzenZnQUJqaWVRNlZv?oc=5",
+      "published": "2026-08-17T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Is ASML Stock a Buy as Rapid Growth Tests Its Premium Valuation? &nbsp;&nbsp; Yahoo Finance",
+      "query": "ASML stock",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "positive"
+    },
+    {
+      "title": "ASML Stock Jumps 4.1% as TSMC Revenue Reignites Tool Demand - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUkdNMllxTnl1WFA3alpDT2Q4NUxiLUhZblBBdGtvTmdoUXk5dGlsekY0Nk04VF9Fb0hKLS1fZjdTelhpS0pWNGJNVnJuM3NVTGlNRjY4M0dsQ2RwUmVFdUVhNHBfS0o5N0REdWctYVJhX2dGUjVpOEx5cF9KTzBvUV92bExXX2hUbWJIaUR3?oc=5",
+      "published": "2026-08-11T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "ASML Stock Jumps 4.1% as TSMC Revenue Reignites Tool Demand &nbsp;&nbsp; Yahoo Finance",
+      "query": "ASML stock",
+      "source_api": "google_news_rss",
+      "tags": [
+        "demand",
+        "price_move"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "ASML Stock Is Up 55% in 2026. Can the Rally Continue? - Morningstar",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZkhmU2twNllxWHB0SmFNQjJNcmZUcWZBbHZZb2VGMktNNDUtRkZXQWlqMElLMTljYjNZWk5FNTZGM3BQWGUxR2RncHVfYXE4dldNTTJmZFh5YVR5VXVaVVhHYzdzd2VyTDBuaWpYbkpOX2UyVTZIczAxT2syMVg4V0lNRkZ6QUd4b0dkRXpRaHM?oc=5",
+      "published": "2026-08-10T07:00:00+00:00",
+      "publisher": "Morningstar",
+      "summary": "ASML Stock Is Up 55% in 2026. Can the Rally Continue? &nbsp;&nbsp; Morningstar",
+      "query": "ASML stock",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "ASML Stock Rises 1.7% as AI Demand Signal Strengthens - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdThVZEZPT0dfanVUS2VhUEF0emZHN29neDZ0dFF0aVBQZkozb2NBdGNBMHNSNVZJSnBHRDM4c0Yzclloalp2SEQ2MEEtXzlCTHNwbHFudUJONWVqR1I5VU52VzE5OUZIOElmTzZzOG5oUjM2MDdfYUJZRmQyZ0hqZEpGTjZpeFd2Mm53QWtR?oc=5",
+      "published": "2026-08-10T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "ASML Stock Rises 1.7% as AI Demand Signal Strengthens &nbsp;&nbsp; Yahoo Finance",
+      "query": "ASML stock",
+      "source_api": "google_news_rss",
+      "tags": [
+        "demand",
+        "price_move"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "TSMC vs. ASML: Which Is the Better Semiconductor Equipment Stock to Own for the Next 10 Years? - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPczJrQ3RfLUZ2dkZsVXJrelphT244VGhUSzRuWF9IRzhBV1VQc3VyQTFaYUg2b1FnX0pfaW9jY0htWk1wM29IY09iSFN0SF9iT010TTRPVmEwMm53aHJRdDV1eUxnS2xIeU42eVVoQVNOdHdvN2lBbGhiNUJyZ2NWR1dUSlFTN1Nja1ExbldUT2hWQ3otQ05odg?oc=5",
+      "published": "2026-08-10T07:00:00+00:00",
+      "publisher": "The Motley Fool",
+      "summary": "TSMC vs. ASML: Which Is the Better Semiconductor Equipment Stock to Own for the Next 10 Years? &nbsp;&nbsp; The Motley Fool",
+      "query": "ASML competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Will ASML Split Its Stock This Year? - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQU2lVa0YxbDRIYTYtQ2RFZDFuRGwzSk1yWmNxRU1XcEtNWmNhbG1JODhBcXlPWEFnN0J6U3hvUEdlQldFTUZhTks5OVpkc1hWenRHQ292WjAyZFFrUVA5WkpvX2lCa3hpMzNjbWNWZDNjdVNFN3RGS1RqQ2JsakJhTS1jc2lFVkQ0?oc=5",
+      "published": "2026-08-05T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Will ASML Split Its Stock This Year? &nbsp;&nbsp; Yahoo Finance",
+      "query": "ASML stock",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capital_return"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "ASML vs. TSMC: Which Semiconductor Supply Chain Stock Is the Better AI Play? - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRWtadUVrVV85SmRReXRNdXBlbDZ2YWFnN0Y3STVLSTdhOHhVUkttSGFfcU9JZDNDeVQ2R1VxR3NGaTQ5Wngxc2dYeFl6bWRRMlJWVHVPUkVadVI3S3ZkRW9RczNUMFUxS2loS2RPcF9LYXQxcFJKamNoUUdpZEg5ZUU0dGg1ZXhoek9qbEdqZUlrY3hnUjUtdQ?oc=5",
+      "published": "2026-08-02T07:00:00+00:00",
+      "publisher": "The Motley Fool",
+      "summary": "ASML vs. TSMC: Which Semiconductor Supply Chain Stock Is the Better AI Play? &nbsp;&nbsp; The Motley Fool",
+      "query": "ASML capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity",
+        "demand"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "ASML: Is a New Chinese Competitor a Major Threat? (NASDAQ: ASML) - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQbjZJVlBFNWJQVGFWWHQ1aHVsYjJ1NmdtQzl4VXVhUWswZTg1Rk5aRU03QjRldTJwVFd0Z1o5U1dNT1FXQzJUUlgzc1JUM2Y2V25YNVBTVTlKOTdOUVU0MHg4TmRnQTlPejZYSUxyYWZtQVp4amtkcGVTNzhYc0ZOOGZMWG5LS1BnUnZoeFM1dVNCbEE?oc=5",
+      "published": "2026-07-31T07:00:00+00:00",
+      "publisher": "The Motley Fool",
+      "summary": "ASML: Is a New Chinese Competitor a Major Threat? (NASDAQ: ASML) &nbsp;&nbsp; The Motley Fool",
+      "query": "ASML competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "A single report ‘brings down’ ASML’s stock: Whose anxiety does it expose?: Global Times editorial - Global Times",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE53V2kxUW5xWDdEdUtjb2VoUTBqTW1IcWlUZ2Q0Rk1ObUJmdW10VjFHYTlKa2RPRkFjS3NYRjJGUHNDWW9HWndHMGtUZkNiTE5ubGhOb3N6Rk13a1dULTExNDZR?oc=5",
+      "published": "2026-07-29T07:00:00+00:00",
+      "publisher": "Global Times",
+      "summary": "A single report ‘brings down’ ASML’s stock: Whose anxiety does it expose?: Global Times editorial &nbsp;&nbsp; Global Times",
+      "query": "ASML competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Explained - Why chip stocks sold off on Monday, dragging Wall Street lower - CNBC TV18",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQOWdSdkVyNmRDaHR2bGxDckdZWUFOSUplLXl3X3NFUjMzLXNvd05TWmx4X1FfZXhzUlVmY3NjT29PbkY1djFzWGk4emlFRWVveFEwZmhoSE1fbEhMVlB3emgyVElvRlZsa1pzQmhNYjFudEZNZ0JjQ0FwbmszeXdDOUtxaWJTOVJfZlNRUFdCVDNyWllEbWJsUFFXOWJpMnFDeHE0YXRBUnlBS0RXWUFSdEphQXU3bDhsSEhld216ZUtKLVdadWhfcHR5b3BHbXFaalZZ0gHYAUFVX3lxTFA2RTJNZkt3bkMzNFd2NzFtTmlvdFhJVzlndi0xYV9nMmxrRjRXNTJFX2U1RTg1bnVGdlVsSG5ldHpSQjZ5Q016bklOX2lwU3plajJTNjlnRGx0TFZuOXhYcGhPRjJ4T2M1QkQtaVQ0VmE5WklKMjFnMlh0Q3lDdUVqanV1NnkwcVV0dlMtNi13VjVudVlJS1Yzb05iT3o4OThVbXE4eDdpYXk1aTVtZ3h3bmk1VkgtdElfeXNlWnM2OHZxTWZLbmNkbGxMSnNUd2U2aHN1UlZVYQ?oc=5",
+      "published": "2026-07-28T07:00:00+00:00",
+      "publisher": "CNBC TV18",
+      "summary": "Explained - Why chip stocks sold off on Monday, dragging Wall Street lower &nbsp;&nbsp; CNBC TV18",
+      "query": "\"ASML  N.V\" stock",
+      "source_api": "google_news_rss",
+      "tags": [
+        "analyst"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Explainer: The $400 million ASML 'printers' key for the AI chip boom - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOeldxNTNBUUZEQUdxR0JVdVI3YlNsUDE4YXpvbDA1aDdfUHBfcHFQWWhrOG5ZSVJnR1dMbEpmTDBtMEp2YWtUcnM3cEVfQV9lMWI5NXRQQ2djaDJwOUpHMVpoSEV2NmJybUMzR2szYl9IMHhRc0t3eXNzXzV3TjhFSGh6RGttU2J6NWZfRXNxMmRCa2xSLVFGS210QlVhN0hBSkE?oc=5",
+      "published": "2026-07-28T07:00:00+00:00",
+      "publisher": "Reuters",
+      "summary": "Explainer: The $400 million ASML 'printers' key for the AI chip boom &nbsp;&nbsp; Reuters",
+      "query": "ASML competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "China’s reported chip breakthrough comes with some big caveats - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPd29CTXRwY0RhQVpUSkFudVNZTlk1UzFyZDlSYmNLcHBGNEV6TnowaWZDN1hPUUlmRU8tdGdPUWdfUTNlOTAtLV9LbjFQbjJ1dXIxYWxwTEpQQmQzVWd1SlRHOElFQWUzd0R6Sk9xRWpVVENYSzVJNWtUS3plNWcyUklxNNIBiAFBVV95cUxNLVU1ZjUyeW5VeWR0cGNocDd5aGVrVGZmNktzTDh3bWZOU1JRQUQtOVhPUm10ZEs2VzdFWmx2QkFEUW5fSUxGb1BDMndKQWF5NGJUdUJWYTZNS1hOdndvalJiblY4d1FfR2hJVDZsSk5paXY0cUhzRXd0a3NBWGtLRHdxNVBQX1Z0?oc=5",
+      "published": "2026-07-28T07:00:00+00:00",
+      "publisher": "CNBC",
+      "summary": "China’s reported chip breakthrough comes with some big caveats &nbsp;&nbsp; CNBC",
+      "query": "ASML competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Europe's biggest tech giant slides 5% on reports of a Chinese rival encroaching on its turf - businessinsider.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPcDcwVUE3LVgzRWhYU2JRWkZtcGF3RlFlUWlVUVd4X3k4XzZkdkJDcmU1ZHhILVNXNGVacFA3NU1Gb01PUjBfNVljRjlFVzhJb2kzVWtfVFYyUFR2RVRYZzB5UEhndmNGcDRTeGVsUkpkTmVnYnAwTDdsODVvUV8xbTVHV1lINUluakxOczFMUzJueFVmeGRZ?oc=5",
+      "published": "2026-07-28T07:00:00+00:00",
+      "publisher": "businessinsider.com",
+      "summary": "Europe's biggest tech giant slides 5% on reports of a Chinese rival encroaching on its turf &nbsp;&nbsp; businessinsider.com",
+      "query": "ASML competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "China's chip tool push shows ASML caught in US-China squeeze - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbV9aMnQ1SEV6WFc5cVJDdGhMdXk3OENvdmZibl83TkFrenMzV3RHdEE0d0VCMllXZ3RxN19jcWJURlJVZEpHQXdVZ2RjSnV2X012dTF3TE9VcUZBd3JwRDlBT090TFYxVEhvZzBVSWY5TXI2WERQbjJ0RlpYNW9vTk9KeVlxT0ZWSVpUR3FNY3RYWVlISnNvYk1aT09maUhGbkFTbVZuZw?oc=5",
+      "published": "2026-07-28T07:00:00+00:00",
+      "publisher": "Reuters",
+      "summary": "China's chip tool push shows ASML caught in US-China squeeze &nbsp;&nbsp; Reuters",
+      "query": "ASML competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "ASML Stock Falls on Reports of Chinese DUV Competition - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNS3NMVGc2dElyeGpPTkZjdndYb0Nsb3AzZ3Y0MVpyWGhmNUxwUGppc2R5SXFkVEs5ZFZYNmRvVTh0ZzFIMVg3VGdWRHUzbjlxV1RNZTJVVmRvMXdNQ0NsWUQ3SmlCZHE5S1hKZHgzN3NEMlJZREQyc2VMRkVZN1hFVTVRSW1MOGI5RnZmZlpsd3MtSmNpc0wxQUM5aEdWQQ?oc=5",
+      "published": "2026-07-27T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "ASML Stock Falls on Reports of Chinese DUV Competition &nbsp;&nbsp; Yahoo Finance",
+      "query": "ASML stock",
+      "source_api": "google_news_rss",
+      "tags": [
+        "price_move"
+      ],
+      "lean": "negative"
+    },
+    {
+      "title": "ASML Shares Slide After Information Report on China Producing DUV Tool - The Information",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZ0tWTGhRc2xGRXEzamprZXJid0x4Tnd1OXR5M2UzdWpQOVdaSk95bDloT3ZoUmdyemdETHptdFBJMnJjZFRWemJiTllwNENJdXNOQlU1cEtsVU14Z2RSLXYwbkcyVW9HWUMtekQ3Tm4zSjhtUUIyUnJyVFpMWkprX1otLXZtSWlQdktNOW5YX1FZR3dVb0JSUXlsd3RRRjRfSGJPQg?oc=5",
+      "published": "2026-07-27T07:00:00+00:00",
+      "publisher": "The Information",
+      "summary": "ASML Shares Slide After Information Report on China Producing DUV Tool &nbsp;&nbsp; The Information",
+      "query": "ASML competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "ASML Shares Slide: What Investors Need to Know - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVU5kTHZsYnlrSW5JSWtpd21ybktjMnRYN3JTSTBxN2NKc21VRWNtOUpjdlZLU3JkOFBYMXVhUlhSQ2F2Wk15R25xT3hnYnVoOUpvcmZXaHZ2aFFWQm5lZGhmbEdZLWdienM3MW80T21FcFpHc0otclRDdUsyR09UYkJKdDhweVBkaTZuWnA3LTVmZjFEeXlEdFpEbUl1UQ?oc=5",
+      "published": "2026-07-21T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "ASML Shares Slide: What Investors Need to Know &nbsp;&nbsp; Yahoo Finance",
+      "query": "ASML stock",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Where Will ASML Stock Be in 5 Years? - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQVnc4TktETFc4Ri02Rjk5WE53Tjk3dkp0WmlBVUhQSTQ1UVljZGtRT1pyUUUzVEpOODBJckY0OVUzUkp4RzNXUU1OWU16SmVDeEd0VzF6dEY5bG1vTkhoeWZxNHV0MENKVTJsT1M5OVR1ZkF0WGtlSUgzZkpSWFVqaWtuTDkxbmt0OHZLVmdNWmJFQzg?oc=5",
+      "published": "2026-07-19T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Where Will ASML Stock Be in 5 Years? &nbsp;&nbsp; Yahoo Finance",
+      "query": "ASML stock",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "ASML Raises Outlook, Plans More EUV Capacity - EE Times",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE56WmlobmplMDFXeXpGWlk2N2ptTmNWbERjNWtCMVZPbmNmaXJMVl9mbDNqdmdibGhJd3dxSVoyS21hXzRIUENFbHNNbWxiNUk5aTdIeFR5RUluVXpHRENaLXhlVlhDTDRaQlNFNzlLYXplNVd1eFpZ?oc=5",
+      "published": "2026-07-17T07:00:00+00:00",
+      "publisher": "EE Times",
+      "summary": "ASML Raises Outlook, Plans More EUV Capacity &nbsp;&nbsp; EE Times",
+      "query": "ASML capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "guidance",
+        "capacity"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "The AI Supply Chain Just Confirmed Nvidia's Future (NASDAQ:NVDA) - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQQV8ybElNaUstWWNabmlQR2RQMjl2NXV6M2tQMXJ5QUpEWTNCb01PRXBVOElTcjB0cHZCb293ZUNmMkczTG1CdUdrZE1qUVNtVVhST1MybjFaM0tPc1FFbXhLanIxM1RnWHNqUWltZFRPTmJkbzF4OXpLOWsxOURaUFNBYy1qazZkS0NtR1BR?oc=5",
+      "published": "2026-07-16T07:00:00+00:00",
+      "publisher": "Seeking Alpha",
+      "summary": "The AI Supply Chain Just Confirmed Nvidia's Future (NASDAQ:NVDA) &nbsp;&nbsp; Seeking Alpha",
+      "query": "ASML capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity",
+        "demand"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "ASML raises outlook on strong orders for advanced chipmaking equipment - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQbXp2S1NiR2s4dmVBM3VNX0ItOFpHRnZwbFhLcUpwTUxkY0dLZGFXajBkUGdKa1JrNl9nSTlpazBKVGo3a1pDMFlGaEYxWDNxZHBPR1ZfUUpBaGVRdXBBNkZ4NFdPM0V2Z0QtcXBKRXNabUlxRXh4SmtRZG40c0U5dXJMMmdVWGlwVlpnYmJvTWdiWmYzMXN4eTRXd3AzSWFSdXVnRTJJZ2VVYThjWVJmZzBtanIwZkJxMmhkbU12dzR4WWw1dUE?oc=5",
+      "published": "2026-07-15T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "ASML raises outlook on strong orders for advanced chipmaking equipment &nbsp;&nbsp; Yahoo Finance",
+      "query": "ASML stock",
+      "source_api": "google_news_rss",
+      "tags": [
+        "guidance",
+        "demand"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "ASML shares fall after hiking sales forecast for second time this year on strong AI chip demand - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9ONk5EcFhJVFp0WWpsV0dvckdvbzlyVS1vN1hIY0tvTUYweVdiVG1FNkZPOXV2NlA5djgyeU5pMFpaUHBnbVhBZi0zUFFjbWgyd2xpa19DQ3hMT0F5Nm9PRXp6andPZEQwcS1BcFNaeTRPajgtMS01SNIBfkFVX3lxTFBqNDRfNDNHZk9XMWZrX0ZFVlM1dF9NV2VZeW9uRkNucFotOHk3bkxjX2NhS2N3djZkZ2trbHlUOU5BQ05BNmk4RFVUNi1UbXBiTW5zYWswUDVFRS0wY1Z2alJMcjdFN2w5S3dZMkIteUlzaUh6QW9kRThDNmhBZw?oc=5",
+      "published": "2026-07-15T07:00:00+00:00",
+      "publisher": "CNBC",
+      "summary": "ASML shares fall after hiking sales forecast for second time this year on strong AI chip demand &nbsp;&nbsp; CNBC",
+      "query": "ASML earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "guidance",
+        "demand",
+        "price_move"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Chip-Machine Supplier ASML Raises Guidance Again on Unrelenting AI Demand - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOc2xhTkx4VDVUdnZlZ1RBU2M5VlNsdjdYQjBqNk1RUGhvUzhKd3VaZTBPa0NueThoN1NXbVp6RG1FTk90dFJuNHNLcEl4eGJXOUFtNEJQUmxnVmZUR3paX3RIN2NRSlUxQmJGN3RtUFZ2R0JsOW4yRUVpNGI5b1kwT2M0bGlPeHFCY0JNYVd2ZXlWSHZ4X1hnMS15NmJxOGRPdEplQktGWmhMekdRVVhaeXZsQ0ZYSWVES0gtbg?oc=5",
+      "published": "2026-07-15T07:00:00+00:00",
+      "publisher": "WSJ",
+      "summary": "Chip-Machine Supplier ASML Raises Guidance Again on Unrelenting AI Demand &nbsp;&nbsp; WSJ",
+      "query": "ASML earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "guidance",
+        "demand"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "ASML capacity upgrade soothes AI chip bottleneck fears - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPXzZLbXpRNUdRRjYtV203dG1SS1l6U29PMFZGelkzMVV3Mm1tSXI4ak90clF2Q0EwMW5sV1ptV2JURmVSRzYtMUZjenlvLWNuQklqZ2FDX1EzUWR1ZWI0bkZYcXVrbXNTZHdPZS1sNmthTlpOTHNpMkMxc1FfSUR1NEplT3l5Nk84Z3c?oc=5",
+      "published": "2026-07-15T07:00:00+00:00",
+      "publisher": "Reuters",
+      "summary": "ASML capacity upgrade soothes AI chip bottleneck fears &nbsp;&nbsp; Reuters",
+      "query": "ASML earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "analyst",
+        "capacity"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "ASML Stock Gains as Earnings Ride the Wave of AI Spending - Barron's",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1pXzhqd3RmelZWQV94U19DQlUzMVhaV0xYQjhhMWNNeUlYSGZpSkJQNDlHTV9VLTBfYWN3SlhfSDFIYTRfcjBHRkFMS09nY3EzNVZYeElJZVd3WHFaWU1OdFJBMGpSb2FYdmx4UEFlRXN3T2l5SUE?oc=5",
+      "published": "2026-07-15T07:00:00+00:00",
+      "publisher": "Barron's",
+      "summary": "ASML Stock Gains as Earnings Ride the Wave of AI Spending &nbsp;&nbsp; Barron's",
+      "query": "ASML earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "capacity"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "ASML Raises Outlook, Plans Capacity Hike as AI Boosts Demand - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOM3FuX2pJaXEyc2l6RGFadnNQRzg1dDVRdGZCaWRoUVo2Mk96cnRDeVlQclVuS2tNQ245alRDdTFqanJxYmVrYUVNd3VsVHlvS0JLQ19vLXFzUHpnRlQ4MkhsU2dIWkE1UVVsTlBHT21TS3laTXR4ZndDZGszdEdMcDVEbE1ESThBWElreUF2S0ZKTHpmeldabVQ1QXJNMmJFSk9oMGlzamZjSWJabm8xcXZXeUY?oc=5",
+      "published": "2026-07-15T07:00:00+00:00",
+      "publisher": "Bloomberg.com",
+      "summary": "ASML Raises Outlook, Plans Capacity Hike as AI Boosts Demand &nbsp;&nbsp; Bloomberg.com",
+      "query": "ASML earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "guidance",
+        "capacity",
+        "demand"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Earnings call transcript: ASML Q2 2026 beats guidance as AI demand lifts outlook - Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZnVHN0l2V3F4RXYwRFJ6RnJocTk1YzhxNHdZdlBYSmdwdDhENjNuOURORE5raG5HMDlKMVJMZHNUMG0wbGNUYXFQZDhCNk8tb29vVk52QnVuN2lKNXpNNXFCRy0tY1k0NnJKcU5qaE4tV1NzSVhlb18tY1pXZjFZb2lhVThiRS1FWFdmTWFBd2xLSzAwTjY4Y1dfSnJpS1NPVG5JeDhOaW9QT21lXzhDOXRLWjdnU1FTVUo2RUd1bVMtVmJIOWtPMXYyaHFwU0xG?oc=5",
+      "published": "2026-07-15T07:00:00+00:00",
+      "publisher": "Investing.com",
+      "summary": "Earnings call transcript: ASML Q2 2026 beats guidance as AI demand lifts outlook &nbsp;&nbsp; Investing.com",
+      "query": "ASML earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "guidance",
+        "demand"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "ASML Q2 Earnings Call Highlights - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNV1owcGJrOFVYVHR1UVdqSTZIQ0cwZmtoZEt1bmszeXRWaW56U3VxQXpQdnpjWS12aUlPRmNlU0RvbHFvY010S1BUVUQxNlZzcE15RV9OTmJSM09rckZ2aDQ1T2RIcXplTnNwc01mYUJRdWk3dHlIYmxlVHJLSVZzQl8wS1VGZUNRa05lcXUwQ01LVUM4LW1DRjRCNEQwUQ?oc=5",
+      "published": "2026-07-15T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "ASML Q2 Earnings Call Highlights &nbsp;&nbsp; Yahoo Finance",
+      "query": "ASML earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "ASML Earnings: Long-Term Prospects Vastly Improved - Morningstar",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOOWpDQm5aaUlPeURSZHQ1bU9seU9WX29peElBaVQtMHhId3lOeGNoSFJUQTR4bXM5YUJuWGpINnBlTHQtNDJkUHpCRVBaVlk5MXdHQTVjQldSLWExQjMzNE5tS0hnNGdlOG0zN0RIZGJKa3J3VHkzRHotWkxjWFJqX2R2SGZSWFYzcEpZWg?oc=5",
+      "published": "2026-07-15T07:00:00+00:00",
+      "publisher": "Morningstar",
+      "summary": "ASML Earnings: Long-Term Prospects Vastly Improved &nbsp;&nbsp; Morningstar",
+      "query": "ASML earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Is ASML Holding a Buy After Its Latest Earnings Report? - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxObjZVRjNGcWV6RHlBZXNqVkVMTWxvcWg0R1lDb0xoa3RObjFBRW9GQ1YxWnVxS2MxY192Mzluc183d2xKMHRQdDhHajZJSE1MV3JzRlBLWXdNRmprNDhkbURORE5vbVgydkFndE9nQmIyc3pzUHhNRzhqdjk3UVZzenhTQ0JvRlh4TFhIdVFtdS0zYkhtYkptQzRSemdYQQ?oc=5",
+      "published": "2026-07-15T07:00:00+00:00",
+      "publisher": "The Motley Fool",
+      "summary": "Is ASML Holding a Buy After Its Latest Earnings Report? &nbsp;&nbsp; The Motley Fool",
+      "query": "ASML earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "ASML Keeps Raising Its Sales Forecast. Here's What Comes Next for ASML Stock. - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQjNsdGNRX1hGS1pfMXR6c1Jjbk1rc0FNY0NaQ3M5T2lBWVJKVE9TZkxxVERVekdqdlljcFBGQmU2c2lyM3QxMGFXVnNKejE4MUEtRVZpLVlIY1VRcWlfZy1UeVJEN05xajhVcHFYZ2V4WUFBbGpyajVQVWszQlVJNmVUTGJBd1RYQ0dpNGlXZE1lTUNFYWpXR25vZHlDODg?oc=5",
+      "published": "2026-07-15T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "ASML Keeps Raising Its Sales Forecast. Here's What Comes Next for ASML Stock. &nbsp;&nbsp; Yahoo Finance",
+      "query": "ASML revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "guidance",
+        "demand"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "ASML Holding (NasdaqGS:ASML) Lifts 2026 Outlook As Intel Puts High NA EUV To Work - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVkdnMjdhalJXQ3FKbzFsN3YzeVpIc2pxLTlfUy01SkpscXduUkozWjRfVXlTeUFIcHQ1amZ4QUQyNEFybUNEV0dNSkdTS3NuUklJY0lEeTBfUzRnRzEwMUN3TkIwRDY1QlNBUy02cFVSX1FTM0tmdDRWTW9ydTVNenZGREg0Z3gyX2VETDlzUkJ2Z2tCaGZVQXpjcXRpZw?oc=5",
+      "published": "2026-07-15T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "ASML Holding (NasdaqGS:ASML) Lifts 2026 Outlook As Intel Puts High NA EUV To Work &nbsp;&nbsp; Yahoo Finance",
+      "query": "ASML revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [
+        "guidance"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Why ASML (ASML) Remains Critical to the AI Chip Supply Chain as Advanced Semiconductor Demand Grows - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNeXZJRS1acXpzaUhVQXlBT1lwYVhNV0JSSjhBNi1NejV6OUcwRnlCWG9na0NyN0tvczQ2eWdvdW05b1pWdkRqNmd2OE41OFh0bXZHTHlYeWJtU1BQdmxad1h2UTBrVVU3MGh2bWJKbVg2RFdZYzNWSG5aU2ljUXBFVlpBT0N1a1lsX1RGLXBtTmZVYkEwcktJajN3?oc=5",
+      "published": "2026-07-15T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Why ASML (ASML) Remains Critical to the AI Chip Supply Chain as Advanced Semiconductor Demand Grows &nbsp;&nbsp; Yahoo Finance",
+      "query": "ASML capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity",
+        "demand"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "ASML Raises Its 2026 Outlook: AI’s Next Bottleneck Is No Longer GPUs—It Is EUV Capacity - semivision",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1jaURiUWU3NkVoV21SQzRlUVI0VmdVbmRmTUhpRW5WejJMcVUyMi1HRi1qYmdzeE1VWE1ubE9RZm1icTUwQnVGY0VmaHp0U2Z5UEhxSWFQZ1Iwc2RhVW0xcHdvOHk1NmtYSFhQdVVjZElwclVkYlRjdFU3cFVrZw?oc=5",
+      "published": "2026-07-15T07:00:00+00:00",
+      "publisher": "semivision",
+      "summary": "ASML Raises Its 2026 Outlook: AI’s Next Bottleneck Is No Longer GPUs—It Is EUV Capacity &nbsp;&nbsp; semivision",
+      "query": "ASML capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "guidance",
+        "capacity"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "AI Demand Is Outpacing Chip Supply — ASML's Order Book Shows It - Moomoo",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWnlEaHdyYWpqejN0OTBwNDRWalNRdWhhVVlLenZybXJLSlNNMUhQZUt2SHBfTEs2bmNRS1VGX3dTQllIaXpjamNyVE9KRFZlb0RXS28xRllwcTg2bmxHYzEzdUJkX2JuWlcxXzVMTDFGTlZzQ2FTR3k4Rk42eTVaVk5SX3dKODdvOGszR0ZWS0VJbmhWYTJGZVlhNnVqQWVrQ252aVM2OVI?oc=5",
+      "published": "2026-07-15T07:00:00+00:00",
+      "publisher": "Moomoo",
+      "summary": "AI Demand Is Outpacing Chip Supply — ASML's Order Book Shows It &nbsp;&nbsp; Moomoo",
+      "query": "ASML capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "demand"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Trillion Dollar Chip Rout Trains Spotlight on TSMC and ASML Results - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRWJpTVhmclh1bjRTc05OcmQzUmpiM004S0xUTlloZGxkVWtXTGxSbzYxMlFTZmdzNTcxNnhtYTE4eU41ZW9jTXBOcTYxY1lPa1I0ZnRobll5Nnh2OG9PRTZhQ2V0M0NfYTJNSDFLRlh5TGhjQXdmTDc2RXJSUVdiR21odC1fMHRlc1RTSXBDczN4MTA3OXhBellWdHBBWWktRHBKdFo5NEFQcExsY2RhcFdsMzQ?oc=5",
+      "published": "2026-07-14T07:00:00+00:00",
+      "publisher": "Bloomberg.com",
+      "summary": "Trillion Dollar Chip Rout Trains Spotlight on TSMC and ASML Results &nbsp;&nbsp; Bloomberg.com",
+      "query": "\"ASML  N.V\" stock",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "macro"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Morning Bid: Big Blue's bad day raises the bar for ASML - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1uSmFtQlpEM3U0VkZvNlEwTEc5Mm0xNTZtaUYzMHZmR3NnT2RLQnJBVWRXVVd2VzZYRzVRdUhOTXVIa2luTGJhSnppaFpDZzJJNV90TjdDMWFrTDdfZVNnMDk5UlRHUDI5SmxHTlNta1VwcjRUZzJnREtfZ3ZzTW8?oc=5",
+      "published": "2026-07-14T07:00:00+00:00",
+      "publisher": "Reuters",
+      "summary": "Morning Bid: Big Blue's bad day raises the bar for ASML &nbsp;&nbsp; Reuters",
+      "query": "ASML revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [
+        "guidance"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "ASML Advances Semiconductor Technology with Intel Partnership (A - GuruFocus",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYklzTTRpd2FLZXNqWVhjSWozemQ0Z3RkT01VQXQ2WkFwdmxkRTFkYXJqVFJXc0R1aGJNWE1pUGFwMEx2V0w1dkltMzdWZFF4ZkhpNGdaV3Jkb0x2c3ROTlJhR3dtcXRTTGNsbUpwdTFLNU1qdGdNd0RXWE9fSHplNzlDU254TGY4UUhmSW93bUpHVUQyRnBXcHotRmFkVWg3Q1ZSX1c2Mi0?oc=5",
+      "published": "2026-07-14T07:00:00+00:00",
+      "publisher": "GuruFocus",
+      "summary": "ASML Advances Semiconductor Technology with Intel Partnership (A &nbsp;&nbsp; GuruFocus",
+      "query": "ASML acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "demand"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "ASML Earnings: Capacity Expansion & China Export Challenges - Global Banking & Finance Review",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNOHp4Y2ctRUJVc2taMFdDc2pDNFVGU1JQVUlwOG8wT2Jua0pzQm1FMzMtWnZQeTdIV21RRzBoaGU5Uy1vbnRZZ2lvTjBZOWJaalBKemw4V1JnMldXNkRSMnRQRE81TmxTbFR0MWhUV3hlXzB2LVFwcDJyR01ybUV6WVJOUEdJaWRuUFd0b2k3S3ZFYkZIOUpHTGE1WWQ?oc=5",
+      "published": "2026-07-14T07:00:00+00:00",
+      "publisher": "Global Banking & Finance Review",
+      "summary": "ASML Earnings: Capacity Expansion & China Export Challenges &nbsp;&nbsp; Global Banking & Finance Review",
+      "query": "ASML capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "regulatory",
+        "capacity"
+      ],
+      "lean": "negative"
+    },
+    {
+      "title": "ASML Holding's Next Earnings Report on July 15 Could Send the Stock Soaring. Here's Why. - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdUZvWHZSbC1QRnNxUGJkV2FzRmRHdmtXaHNCUG9NTFBteGlSLVZzWUdxM3BXdEVhTVVwMGVNQWRObzkzQjEycDFtT2pSOFBUMDVMV3NFMVRKcENsTnBoZU9zdndaUkk1VlF3SDNHU1pwUnp0VFJZc25fV2RZeDNmSVo2NlRmWFl4QkgwQ244NE1oZ2lSZFgtSjVWT3J5TVhu?oc=5",
+      "published": "2026-07-13T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "ASML Holding's Next Earnings Report on July 15 Could Send the Stock Soaring. Here's Why. &nbsp;&nbsp; Yahoo Finance",
+      "query": "ASML earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "speculation"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Here’s How Much Traders Expect ASML Stock to Move After Earnings - Investopedia",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUU16dUhSVm4tandxbnl2clFJa042S1B3MWQ2bThqYkNCSW90TzlocGZLMHBCS2M4U1ZkcWlHazJhTjNQUVZEaGRkOVdyOGRja1A1RG9YSWFaLXNYVVhkdUd2V1VSeGlGNjcySXJiTFdNM3dkVnZrTmwzZ2tSZGhQQ1B3U0tFRjlfVks0Y09rZlJSZHRnTElEMjNLWQ?oc=5",
+      "published": "2026-07-13T07:00:00+00:00",
+      "publisher": "Investopedia",
+      "summary": "Here’s How Much Traders Expect ASML Stock to Move After Earnings &nbsp;&nbsp; Investopedia",
+      "query": "ASML analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "speculation"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Bernstein Raises its Price Target on ASML Holding (ASML) - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNSlQ0NktpZFc1dHBGR3pWaGZKVHNRLUtyWlhBaXBoMjMwcG85SmFCVU5IdFVSQkFwbmlEVkhiM0hqWVc5SURyY043YVBEclkxbEVaMFo1SmMyTV9tR3l3NEpkSzRidldqYUdpanBDOFJlOW42N1JlMzZKTEZqcnFvZmxCMmJiQ2pMM01lWDY3V3l2eDI1YzhlYnl1ZzJBX251?oc=5",
+      "published": "2026-07-09T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Bernstein Raises its Price Target on ASML Holding (ASML) &nbsp;&nbsp; Yahoo Finance",
+      "query": "ASML analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [
+        "guidance",
+        "analyst"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "ASML Holdings (ASML): Best QQQ Stocks to Invest in - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdUpJcFdLa3dBS3lEcHktSkhNOTJSdVZya1phdW1Ka0ozRDY1bHpDMEM2aW5Td1ZaYjJNYmpadFpONzJWQW1BRFZFS2p3aUVWLVlrdGc2Y3dybWxjX0ROWUlzd1JBaHA4RmpVRjBkY1lfbG5nQ1JjZVFtU2tIUWk0bGt3WW55WUVYNW5JVldtTFB0ZTJPLTYw?oc=5",
+      "published": "2026-07-09T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "ASML Holdings (ASML): Best QQQ Stocks to Invest in &nbsp;&nbsp; Yahoo Finance",
+      "query": "ASML lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "ASML Holding N.V. (ASML) Price Target Raised by Jefferies on Strong Semiconductor Outlook - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOeWtoOGhER1J6OGpzVTY4Q2poTnNUZnFncWllSHl3OXpqU1hybzk3UnVYdWpFRjFJQmlwWWlSTXVPNWtsZGRqS2NqUkhtcUpYRkMwM0h3TFFoUzFjWndPQXl6VmxRaHExQmRFeUNtdFo3eFpRSzZ1blM2ZXJiQU9jMnk0MVVwTGJld3FWV2Fibw?oc=5",
+      "published": "2026-07-08T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "ASML Holding N.V. (ASML) Price Target Raised by Jefferies on Strong Semiconductor Outlook &nbsp;&nbsp; Yahoo Finance",
+      "query": "ASML analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [
+        "guidance",
+        "analyst"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "ASML Stock Jumps As Bernstein Aggressively Raises Price Target On Booming AI Chip Demand - TIKR.com",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZkZGUk9lWUZNSjE5SXRBSllUWmQxcnh0MUtSXzg2Q0p5bU4waGVERVNPR2RuMEc5VnZkUndDQk9ocjhKYkVGMVM0SlFpVDlGYXJISnlrYUMzVFlXWEl3VlJ4ZldsaHlybnR0TGtwdjZaVVZZeTlyUXU5cDhycENrUlo3Y2dhXzVMYndlcWQzdnNFaEhRamJMdTVLMEZsT1RKd0JqWlE3UnlPeTVtMGxtQm54X09PSVhiT1EwOUlR?oc=5",
+      "published": "2026-07-07T07:00:00+00:00",
+      "publisher": "TIKR.com",
+      "summary": "ASML Stock Jumps As Bernstein Aggressively Raises Price Target On Booming AI Chip Demand &nbsp;&nbsp; TIKR.com",
+      "query": "ASML analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [
+        "guidance",
+        "analyst",
+        "demand",
+        "price_move"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Wall Street Analysts Think ASML (ASML) Is a Good Investment: Is It? - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOaUlSVzZrNkNkQ2JvVmFnTVh2M0tpYjZfZTkzV2FhNGI0NloyaFF5VEpUMGZTV1o1UGlwY1dNSG9QNnQ0WDNJRzB4dDZoOXJtVzhzYnlmN0xKTVgwaU52ODBkRVJWcmFGWTRIMDZzdEFpOFdiU3cwc041cGs2bGxZU19GcHNkeTY0NDBYakpnSlM1OGZIdVlGOGJWUlk?oc=5",
+      "published": "2026-07-07T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Wall Street Analysts Think ASML (ASML) Is a Good Investment: Is It? &nbsp;&nbsp; Yahoo Finance",
+      "query": "ASML analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [
+        "analyst",
+        "capacity"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "This semiconductor stock has more than doubled in a year. Bernstein sees more gains ahead - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSjF6dkxVRFZnNVBpRFYwTU1RcUdmdXNGN0E4TjJHQ3F5Y2JfNmJsLWlWaDF1UUpZejd4Y0t4YzNKZmppeGR1REFKVXZfbF8zeXlPZGVRaHB6dkdWanBqOGZQMUlwSjNQNHdkbmFoNXNrbHVqOUVUU2ZxSE45SjF2RGx1UzNZRFRPY241Q28tNW1xQWdOelBhVjRjXzY4Z0VfR21GVWRzZVA?oc=5",
+      "published": "2026-07-06T07:00:00+00:00",
+      "publisher": "CNBC",
+      "summary": "This semiconductor stock has more than doubled in a year. Bernstein sees more gains ahead &nbsp;&nbsp; CNBC",
+      "query": "ASML analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Dutch trade minister heads to China as Nexperia dispute and ASML curbs loom - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPb0l2dGQxdVlSZWY5UlpHcVl1YUFfTVZBWEg3YWVoRTR0ZVBYcnJHWFM0MUdxVXZ2a19Cc1N2QlE3MjZJdVEwVVpwYlBiR2VyTkZkZ2pUbmNWdjFrQVF3NS1NM2JvNWd1bmxzS3RrX2ZudUM5ajNocUQ2NTB5VmFwNU1IdDFoLVMwd2N6MF9aeUNsWUwtNUdkSFpVUmd0Y0pGdVM4QXZvNmJNZmlvMS1RMXlYcEJ0d3F5WXptUA?oc=5",
+      "published": "2026-07-06T07:00:00+00:00",
+      "publisher": "Reuters",
+      "summary": "Dutch trade minister heads to China as Nexperia dispute and ASML curbs loom &nbsp;&nbsp; Reuters",
+      "query": "ASML lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "The Bull Case For ASML Holding (ENXTAM:ASML) Could Change Following AI-Fueled Backlog And Mistral Partnership - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTlpuS2o2VzBlS0JSUnd5bU5Gc0pab3p1amNiSlN2dGtfV0tFc2h5Ml9mUVZFMVRqNGtibVNwdm1qck15dUs1RlJrZFY0dHZsd09ZSUphSTJmMEJqQTNLd1Z3TUFFWFJVMTJ3YURCNk9senlON2VlNGZfcHh3WThvSFNnQmVsRDBqaWU4VXFLSDdnS29zTE92Nw?oc=5",
+      "published": "2026-07-06T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "The Bull Case For ASML Holding (ENXTAM:ASML) Could Change Following AI-Fueled Backlog And Mistral Partnership &nbsp;&nbsp; Yahoo Finance",
+      "query": "ASML acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "demand"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "ASML Holding (NasdaqGS:ASML) Raises Revenue Guidance As AI Chip Spending Builds - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNU0ZUMjVFenphNElfbnN5OG84bW0tb05XNG5UM3AxSzRKeDBGbktvUUF4eDgwWTNUeWFJOUhhVVdtZnFDUDIxdDZMRlZEdFBsNzEwdnVSWXdISmpCbUluSTFxQmV2aFA1WWMzY2xJalM4aFprVk9nNGFsQW1kLUphZnZjU054N2Jhc24ycXNOMXY0NGhCQ2hUS2dkVGNtZw?oc=5",
+      "published": "2026-07-01T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "ASML Holding (NasdaqGS:ASML) Raises Revenue Guidance As AI Chip Spending Builds &nbsp;&nbsp; Yahoo Finance",
+      "query": "ASML earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "guidance",
+        "capacity"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "ASML Holding (ASML): The Best All-Time High Stock with Legs to Rally Further - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcE1rS3kzVERHY1ZHU3hkUHlfcmRKekJvNlVIOWhWRzZzVU41TEp5bEtHdk1OTDAzY3FkSlFuUDg4aWtMbkh4SW1qOERzcElfM0tTSGN3MzhwZ3VRVXpnMXdJblF0VjV4ek1UZ2RMaldDREw1emZ3SjBHVG5jRm81R3BEcko3dGhGMURpeTcwSW9QdGhRQWU4?oc=5",
+      "published": "2026-06-24T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "ASML Holding (ASML): The Best All-Time High Stock with Legs to Rally Further &nbsp;&nbsp; Yahoo Finance",
+      "query": "ASML analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "ASML’s Chip Dominance Runs Into New Silicon Boundaries - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbnRBODZOQXd5RGswdVM3anNuby03Sm0tRHZhRnhySXE1UnRvRTMwNDhqdmQxRHptNV9zbVhMUHlFcHhhNWZQR1RDUUtmWTlENlhTUHAzNk5pRkRIb1hlY0JDOF9tZzJjNnhmSldIMTJsNDRJUXFVTEhZREVPQW5pY1dQVlVEVnpyZ0s1Q2hqV3AwWlRJQS02d2JKd1laTXJCQjFVUk5TUHREcDZBV1c4VVlpc1NPZw?oc=5",
+      "published": "2026-06-24T07:00:00+00:00",
+      "publisher": "TradingView",
+      "summary": "ASML’s Chip Dominance Runs Into New Silicon Boundaries &nbsp;&nbsp; TradingView",
+      "query": "ASML capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "ASML Holding CEO: Musk’s Terafab project may face supply chain bottlenecks - news.futunn.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQb1daS0dxODNQYVlmTUVaTTc0ZXFoTlpGVjZVU2FJbWgxUjU3TmFwYnZCeUwzblJhWGlQbVFoQzJaU1RPNDI3N3pPZ24taXFQbVRzX016QVNmYmpUanJQc3JkMXdqNkpmekZBYjJFSDdGUmJNYVdHTXlqQjNOeTJ2QkRJN3ZHdFJVRGgxYV85TTc3NjhLdFFJcWVIWU8?oc=5",
+      "published": "2026-06-17T07:00:00+00:00",
+      "publisher": "news.futunn.com",
+      "summary": "ASML Holding CEO: Musk’s Terafab project may face supply chain bottlenecks &nbsp;&nbsp; news.futunn.com",
+      "query": "ASML capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity",
+        "management",
+        "demand"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "ASML Could Soar Higher in 12 Months and Here’s Why We’d Buy It - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNbzZHcllNTG1MaFRHanJVWm5WSlZWcUdpN3YtdDRFQk1FbElHNnNLazNpRFE5WVFTUDUtMjNMdmphamNqaENHNUVIYUk1X2V2NkR0bDVaYVB0VEVZMDFSVVgxalFUdHBNNGphMkJDNjJNS1YtMDFfczRHRWRZX1czejFNNU1RT0VhY2V3Vk9GdW9jZWtB?oc=5",
+      "published": "2026-06-16T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "ASML Could Soar Higher in 12 Months and Here’s Why We’d Buy It &nbsp;&nbsp; Yahoo Finance",
+      "query": "ASML analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "The Chain of Peace: Do Supply Chain Chokepoints Deter War? - warontherocks.com",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQkMyMjdkeEdFVXhMRkRRRUp3Sms0QlZnZWg3eU9aaWUtTTRUekE0cmdJa0R2akxaeHhSelRtWG5yX1VnM05HSDJyRWNveXBUSHFCTzduMDJTZ191UHYyNUpkMUg2Y0hOZWlOU3V5LUpfSjNDMGFGUl9FMXZNQ2p0RkxrUW8zS0FtdlZV?oc=5",
+      "published": "2026-06-11T07:00:00+00:00",
+      "publisher": "warontherocks.com",
+      "summary": "The Chain of Peace: Do Supply Chain Chokepoints Deter War? &nbsp;&nbsp; warontherocks.com",
+      "query": "ASML capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity",
+        "demand"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "ASML’s warning for Europe – sovereignty has to move up the AI stack - rcrwireless.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNeUlSYUs4VkwtcDZlaEtJZU1VMEV5cUVfNmF5c1JwbDdPbGFvWm91MlN5UXdrZE1Ddm45ejZlU1NFY1VhT1RQOVNObFVrb0l2Xzc5TWYxcHVhUmxRd0NZdS1QRFBBX0lMZ1Z6TVNxV0thYWRfaGxqNTlrcTBDREF5V3U3dllZMDBZUDRFRWxKeHUwZnEtalRLYVBoTDc?oc=5",
+      "published": "2026-06-11T07:00:00+00:00",
+      "publisher": "rcrwireless.com",
+      "summary": "ASML’s warning for Europe – sovereignty has to move up the AI stack &nbsp;&nbsp; rcrwireless.com",
+      "query": "ASML capacity OR supply chain OR capex",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "ASML Won the Lithography War. What Happened Next Changed the Entire Semiconductor Industry - drrobertcastellano.substack.com",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQYURadkVYbTExeTluLVp4dWpRZ2ZnQ3k2M2I3NTh2ZmRmMHd5V09QRC11eTlnQXpOMUZONERoNHBUSnNHaGtRV3k2Rm43c1VwSnlBaGpVLUZhSXRRd05PTW8wM292blZXZEwxS0FNeDczVXNEY1pQNEtHaWNHN1VVdg?oc=5",
+      "published": "2026-06-09T07:00:00+00:00",
+      "publisher": "drrobertcastellano.substack.com",
+      "summary": "ASML Won the Lithography War. What Happened Next Changed the Entire Semiconductor Industry &nbsp;&nbsp; drrobertcastellano.substack.com",
+      "query": "ASML competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "ASML chief warns EU against directing chip supplies - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNHpCNDF1RW9LSF90WWVtYlBlVWhaZW5PR1NONjZJWTh0Rnk1aGMxOGhOUzNhSWFqYXJuRVlVSHRrYndWbE1uQ21sak1TQlpBRXliQkxGa2RVRGlRMkpGUTZSUVg3bEtLNEdqWjZLWmhDNE14T1VHS3pOeU13Y29mWWljU0M?oc=5",
+      "published": "2026-06-08T07:00:00+00:00",
+      "publisher": "Financial Times",
+      "summary": "ASML chief warns EU against directing chip supplies &nbsp;&nbsp; Financial Times",
+      "query": "ASML lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "negative"
+    },
+    {
+      "title": "ASML sees AI influencing every stage: chip design to fabrication - IO+",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNU0xHbEJFenNtU1QzY3JkR2hsOTVmV1pPRlh0QXg0WjJtZHpHTmhlRlo1aEh5ZlhwV0VtVTVNWTladzlla05PQ3hnZDFwT2R1cjVyYnI0a1BkanZGZnNlVHV2bXQ2ZWhqcEJNelR2SHRtZGpVeTRSc1c4QnNFX3ZTczlWcnhITHozUGxCTm1vTXptYnNl?oc=5",
+      "published": "2026-06-07T07:00:00+00:00",
+      "publisher": "IO+",
+      "summary": "ASML sees AI influencing every stage: chip design to fabrication &nbsp;&nbsp; IO+",
+      "query": "ASML acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "ASML CEO says EU Commission should not try to direct 'strategic projects' - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdFhWMW9KQ1YybGZzNXVQeWVpc3RsU2JiNDgtbDlQSWNHdDRoV29vZkNsYmhoXzBxb3ByMU5fdnNvaG00YnpENWJZaGhDcHk4S3BXMjkxRmt3alF0ZFVfLWRaQWpmZzRlMEtQQ0h4RzJGOHJYVXY3dldKNnY4UlZaNWp4NENYeUxKZTFjQkI2STgxNkd1ZVFJMldybl9ad3NYOExBeGtsbkFtUVBuNlhaNTBSQQ?oc=5",
+      "published": "2026-06-05T07:00:00+00:00",
+      "publisher": "Reuters",
+      "summary": "ASML CEO says EU Commission should not try to direct 'strategic projects' &nbsp;&nbsp; Reuters",
+      "query": "ASML lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "management"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "ASML Becomes Biggest Company in European History - The Daily Upside",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQ2g1NVg1aWZtOC12cXQxMS15ZGs0QlkzU1NqaXZ2aVAtS1JHZUNaZ1luZ1VvSHZxSU5rTGhCeG8weUtKeWZrd3E1UmpOS05NbUdSUzktc0lETjhMM1ZPemI1M1MzeXpDcURIaHo4OGg4SnBMWWs3RXNuNWh3Q3pKdXVlWHV2TFVTSHRxQXl0ZHpwbElPa1ZNVkhHamhMQmphREJWWjk4MVQ1UQ?oc=5",
+      "published": "2026-06-04T07:00:00+00:00",
+      "publisher": "The Daily Upside",
+      "summary": "ASML Becomes Biggest Company in European History &nbsp;&nbsp; The Daily Upside",
+      "query": "ASML competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [
+        "speculation"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "ASML Becomes Europe’s Most Valuable Stock Ever on AI Boom - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNOU9TcDVGYXZiRGprc0RXRHJVenZDamNmZkszaHhzOGhsRjBselRocWR4ejZRQVNHNjVnTHNvWEZmMnF4NmtwLXVUTnNWV1NVTV9Ma284SGs0bFJKckRDY3p6eHJMVmhnVTM5bmtyanQ1NW9mZ0FZcHEyTlkzLTJWTjM3aHEtMlh0dXNVODYtc3Nra3NGdktJYkNrRHIzcUdJVWpRVjlsaHVseE9o?oc=5",
+      "published": "2026-06-03T07:00:00+00:00",
+      "publisher": "Bloomberg.com",
+      "summary": "ASML Becomes Europe’s Most Valuable Stock Ever on AI Boom &nbsp;&nbsp; Bloomberg.com",
+      "query": "ASML competition OR market share",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Morgan Stanley raises ASML stock price target on EUV tool demand - Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPVTRDYTd3Uld2VWJLc0p3WmZRRV8xaHFfcnd2YUItQ0xOUFhPeU1wNzJwYXRfZTB6a09YQXBTME5tSTUyZERmMzVHbjJZMTlQNFI1RFhJQlJ0d2xXRlFNb2QwRHZrMy0wbEswaE9seGkxRF9TaGxlUFVEeE14aVJwbkxSWlVkczVpRVVwR1lJbHBwdkdjbGdwRngydHBpblRtZjFGcG9NZXZlcEdoUjB1RTIxemVqbW4tcFpIT3haQzh3dw?oc=5",
+      "published": "2026-06-02T07:00:00+00:00",
+      "publisher": "Investing.com",
+      "summary": "Morgan Stanley raises ASML stock price target on EUV tool demand &nbsp;&nbsp; Investing.com",
+      "query": "ASML analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [
+        "guidance",
+        "analyst",
+        "demand"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "ASML Holding N.V. (ASML) Stock Gains Attention After UBS Lifts Price Target to €1,900 - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZEtVTWxwYUprRzltNGFuZDFjbVI3ZDhwaVd5enotVzJ3VkdXQ2FXNnNrdTAxRlF3cUNzaEtyeW9vSDZtcGVpTFNxcGpuam9fMklQOTVxZ0RIN2dqUEEwVzREQlk1ZDgySjNVMTBWQUd5LXJDbGNnOGtpR0tKMjZwZEZ4REozazcwQ3dWbU9VWQ?oc=5",
+      "published": "2026-05-28T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "ASML Holding N.V. (ASML) Stock Gains Attention After UBS Lifts Price Target to €1,900 &nbsp;&nbsp; Yahoo Finance",
+      "query": "ASML analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [
+        "analyst"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "ASML Shares Are Up 53% in 2026. Is the Semiconductor Stock a Buy Now? - Morningstar",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObTIxb0RBSDBxTUZ0Q2tJVHNxYlp0SmV3V3kwYmJ1aWZDbGVVajJ3cEY1cXZ1eUxxeGVaOV92THRQdWpVdTRuZUZUMkxWMHdITUFjVlZEZzhzN1hCdUhfcWFTTUV2dzIzX25fLXlmVHlkbk90dTRnQm5OMkFSN3Bmbzd3R2dSSVNwYXNIUENGOVFsbjExTjE5ek1UR0ozcmtYYVpv?oc=5",
+      "published": "2026-05-28T07:00:00+00:00",
+      "publisher": "Morningstar",
+      "summary": "ASML Shares Are Up 53% in 2026. Is the Semiconductor Stock a Buy Now? &nbsp;&nbsp; Morningstar",
+      "query": "ASML analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Europe’s top tech boss warns Brussels is driving AI companies away - politico.eu",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOeWtIekZCN1Z2Rkp2bDZnX1lyZlRPVG1VRzN3cWN0NWFmM25kSjM0ZGU4R2ZtaHhkWGN0SWdNYWF0WW90eGR3cVp6cUF4RWEycmRxMXQ3WFc4X0VrOXVEUkxGcS1BdW1oWUF1NmtkVTBSbjFWS3BuZFBnaEdDMkdDWW5jLVJCRy0xeFcydmh6cGQ5c1hv?oc=5",
+      "published": "2026-05-21T07:00:00+00:00",
+      "publisher": "politico.eu",
+      "summary": "Europe’s top tech boss warns Brussels is driving AI companies away &nbsp;&nbsp; politico.eu",
+      "query": "ASML lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "negative"
+    },
+    {
+      "title": "Tata Electronics, ASML Announce Strategic Partnership to Advance the Semiconductor Manufacturing Ecosystem in India - iconnect007.com",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNQVNYZkstTDJIc2hGR1FrdnBnQTI1eDFYeXowZ2k1NWt4VkUyUV84V2tUVDNDMWt2OXF0QWRFQTVmNUgxbld4QTVyN1F5OFc1SkhDSklUZzExOTFDWlcxMG96akVHQTE5bXd3cVdadENtTlEwNXEwbERXZGFhVHNZcVhjN0p2eE94YnJkQkNyTWpmVGcxQW5hMl9lOFhkNldmcEtTbHhpVnV6QnBCTW9WWGQ2ZVJoUV9XOEphZnhuVDNrRGhpZGRKX3lVVlNBRGxRTFMyNWN2SzJJQ3RhSk5XM2VTelFmdjZGWnBQeDRTeGc5LVZKRkpJ?oc=5",
+      "published": "2026-05-21T07:00:00+00:00",
+      "publisher": "iconnect007.com",
+      "summary": "Tata Electronics, ASML Announce Strategic Partnership to Advance the Semiconductor Manufacturing Ecosystem in India &nbsp;&nbsp; iconnect007.com",
+      "query": "ASML acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "demand"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "EXCLUSIVE: ASML CEO sees tight supply in booming chip market as AI demand soars - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPMlBLNU5MQzJ2VTJ4cVZwMWJUWWVRR3FwM2lVT0NYX2VTZWF1bUozcWNUdTdBNGZFUi1oX21aUkxRclptb0FGZUNnUnZBU2ZTOG1HTV9jRFJsTUgyYWFwVWpGMEZfem9zUThKWWF3SlBoOXY2OEx1QlhYWVIwMzlOQnJadFIzdHJEQ2lGS2NEUjU2NmpIZXlyaHdOWGJ4VkI0VmFUNjdjVFJSbm55eFlRTFltR1RHM1RZZW45V2JjWUUyZVpBUGJB?oc=5",
+      "published": "2026-05-20T07:00:00+00:00",
+      "publisher": "Reuters",
+      "summary": "EXCLUSIVE: ASML CEO sees tight supply in booming chip market as AI demand soars &nbsp;&nbsp; Reuters",
+      "query": "ASML lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "management",
+        "demand"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Tata-ASML deal: How significant is it for India’s semiconductor push? - Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWHJDd3YzWjlWUkhKMVVFS2xWNnJueUZ1S0ZPYmJSb25GTnJZajlfUUZjd3NTcXhhdzBLdUZBMEUwS1UzS2x2blF1S3FlRmJud2thVEtHazBhS2theVA1ZGNmVzFGa01zWlRIWHowTENVelpXUlQ3T0NRYU10UWV2eUNWd3NzTlA0RTJmbVc0NVNsbnFHUWRCN0pnRW5kXzJNUFFQUDUybHN6RHPSAbABQVVfeXFMTnE2UnpQOWpnREVIMlF1S2Z1NXJ6dUJoeFFpRzc2dDUwaTR2Zkg4TVU5TVlSQ1A2d1I2Rk52cy1tRmpldGl4OVVmZmtFaEk0UC1tSW92RnZRRG9ZbFpUbkhXMFFSNHlVVmFCcVpMbkx4SElFcHRSSVNSQVpCaXIzQzZJVFZDOWl4eW5qbmVnMjdkYzFLZzNYc0ZMVW9DVzdGNVNzRU5Qc1ZLSTl4WTJURks?oc=5",
+      "published": "2026-05-18T07:00:00+00:00",
+      "publisher": "Al Jazeera",
+      "summary": "Tata-ASML deal: How significant is it for India’s semiconductor push? &nbsp;&nbsp; Al Jazeera",
+      "query": "ASML acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "demand"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "ASML, Tata Electronics Partner for India’s First 300-mm Semiconductor Fab - EE Times",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVUU5eHZ0c3ctUDlIaDRUbWp1bkNiZ180YVFyUHJaRnc0UlEwTklMTVV6Qkw4ZzlvODYzN2VmX2o1S3lyeFVqRGtYSFFTamxTVEpVVWVubUstUWdsS2NMejBQN1ZUQmNrWnhMQ2V6Z0VlMktPNXJtQ0c5VlFZWHVaRW11ZF9NNHdEZHR2a3NnMXdIcFZrSENJMkFyY2k?oc=5",
+      "published": "2026-05-18T07:00:00+00:00",
+      "publisher": "EE Times",
+      "summary": "ASML, Tata Electronics Partner for India’s First 300-mm Semiconductor Fab &nbsp;&nbsp; EE Times",
+      "query": "ASML acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "ASML to partner with India’s Tata Electronics - Taipei Times",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE16WlVIQzdjb2ZEN2hYQVhPWC1ZMHhqZFVYbnp4WmxQVjE1VlAzbFY0djB5a2tINDF3WmxVMmFyZTkwalRLdzM4djhkYS1PbkZzZWRoa3EwejRfR2twWjJwQjR3OXZaQ1B2eUF6LU84RmFJekx3SlE?oc=5",
+      "published": "2026-05-18T07:00:00+00:00",
+      "publisher": "Taipei Times",
+      "summary": "ASML to partner with India’s Tata Electronics &nbsp;&nbsp; Taipei Times",
+      "query": "ASML acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "Tata Electronics and ASML partner to scale semiconductors in India - capacityglobal.com",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPVldOZFRVTzBHclI2aVFKbzNWdk1YSVV0LS1adU9QRnQyaVplcERzYnBjTVhFQjB1eUc2S3B4LVhBQzhucndxa0ctTjBPWGxZcFJGLU9fdXEyWVFVYzQwNDNKVkVrckpJLTNoQ2xrVXFFUDVnSG5QMDh3cElDNE5lYjZOZXExQy01b2R5bUJPUDM?oc=5",
+      "published": "2026-05-18T07:00:00+00:00",
+      "publisher": "capacityglobal.com",
+      "summary": "Tata Electronics and ASML partner to scale semiconductors in India &nbsp;&nbsp; capacityglobal.com",
+      "query": "ASML acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "India's Tata Electronics partners with ASML to support first 300mm fab ramp-up - digitimes",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNaWM3MjhnbkJ0S3Ffa1lNaTREWkhtekcyYWZYLUE3ZDJGSGV4TFhZQkVYU2dUS0ZLRlBkN2JsYjRMcnVIWGdaUnlIVHJzQldXalNmUnRrWlB4M000a0dyR3pjcDlMMHJYOE5ZcmtxMFMydkRVMDZUUE0yeEhrVHFVTE5QSUlQckhYYTRpLUswNUxxd0VBNEpLWWlR?oc=5",
+      "published": "2026-05-18T07:00:00+00:00",
+      "publisher": "digitimes",
+      "summary": "India's Tata Electronics partners with ASML to support first 300mm fab ramp-up &nbsp;&nbsp; digitimes",
+      "query": "ASML acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capacity"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "ASML in pact with India’s Tata for $11B semiconductor manufacturing site - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9Ka19Ob21Dd01UOWtMTEFvUl9aaEV1SnRLVEJ6eTZSYVliU2hOVThkcjdOME5ZaE9URVZoZmFidFZMOFZad0YtZjBrZXBJcExqeGxpMWcyYlhnRFNsSzJlV2xpV2xGRl9IU3V1V2tydXF3ajdMTlN6ZkM0Q29jQQ?oc=5",
+      "published": "2026-05-16T07:00:00+00:00",
+      "publisher": "Seeking Alpha",
+      "summary": "ASML in pact with India’s Tata for $11B semiconductor manufacturing site &nbsp;&nbsp; Seeking Alpha",
+      "query": "ASML acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "ASML Partners With Tata Electronics to Advance India Chip Plans - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVUdhN0liQnNITjJkRkdaS0FBTXduSTVhZVdzb1Bza2VyMW15aHlXMjBvNTF1bHlsR1ZzcUwzNkJHWWN4V0NpQzB1Qjc2cWRTUVBoVEd5M3lWeDZ0QkgxZUgxNVVyTUlMMEZScy1EMVF1a3V0ZlVBSG1KYnRxcFFkajBfV2xxTXBTY1JtTWFwQlhZa1FLNWFueG1ramVtTzhOUjBRN08yOWtvRkFXZjB2aDhqVDg?oc=5",
+      "published": "2026-05-16T07:00:00+00:00",
+      "publisher": "Bloomberg.com",
+      "summary": "ASML Partners With Tata Electronics to Advance India Chip Plans &nbsp;&nbsp; Bloomberg.com",
+      "query": "ASML acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "ASML Holding (ASML) Provides Regular Update on Share Buyback Program Execution - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNajJ2cU84clU0X2NwTXVhbWtIRHJZWFFZTFRpM1lvWnZycHh1ZUJjTHhPelpMSFZOcjRTczlZOXdIZWRJeVNmeC1jeXVkLW05YXNWVktfRjc1aE1oamlMMy11em9Hc3VtMVZ4YUNld2JxVzljajJyN1ZQT3JmbTFEX2lQbmoyRmJRb2VBOTVKZlhDSFFUeldVZkRKVEZfMF9n?oc=5",
+      "published": "2026-05-06T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "ASML Holding (ASML) Provides Regular Update on Share Buyback Program Execution &nbsp;&nbsp; Yahoo Finance",
+      "query": "ASML lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "capital_return"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Top European tech CEOs call for easier AI rules - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRUVpU1hoZURPMlAtckRzaFlRYklYME9mMUk2TTJXUzNPbTVlZUhZVzEtdFN4a2dOaThxUDdRWkp2Z2Z1d19PMXZBdFI5Q0IzUFJXd2ZOODl1aWFXSkE3ZmhRRUpPRjIxMlRDcFNaTTNQLTlWQ3BXV2phTHowNHo1cElhRWJ3Yjk5N2dLcnd0RU51eFRNYnhzTVVhdGo?oc=5",
+      "published": "2026-05-05T07:00:00+00:00",
+      "publisher": "Reuters",
+      "summary": "Top European tech CEOs call for easier AI rules &nbsp;&nbsp; Reuters",
+      "query": "ASML lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "management"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Assessing ASML Holding’s Valuation After Upgraded 2026 Revenue Outlook On Strong AI And Memory Demand - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNnJpdEhUdS1ud2JwdWFGQTdGYTQ2cTVhS0xZS3otOHpXM0pOQTlxUlQ3UDFtV3dOc2ZjR3ZRaHNzSXRWeVp5d3NILS1lUmlRbGhnX1ZqZlVJNTMzR1ZZRDlPRU96WUVjOC1TVzZ2ZjdLMUR1Mi0waS1NVkZIS1d6dy1NZVpGbmNCd0FyalJYck9YZWVIM0RlcWttZ3pLUDk4LXpVX2xlT1V6Zw?oc=5",
+      "published": "2026-05-02T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "Assessing ASML Holding’s Valuation After Upgraded 2026 Revenue Outlook On Strong AI And Memory Demand &nbsp;&nbsp; Yahoo Finance",
+      "query": "ASML revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [
+        "guidance",
+        "analyst",
+        "demand"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "Palantir staff reportedly question company’s commitment to civil liberties - Fortune",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNYm5teUxtb2RHZW1sYk5rSzgwLUgtaFFGLVdpNUYwM0x2NWZsYjJQRDJpYzIwU2l4b05xMnhqTzVxQm1FNzBTam54R29QcVVzdnhyWk9aTWo2ZG1oN3RvZU1DRGZGcWFDcFJ4bmdFTlQ2RnphLWNvbFNvVjByTTkybmlJTlY4Vi1mRVJnVXhYYVdKQXBQbHZZRTRxS2o2Mnhja0lFSnRyMFlLZU80dnplWlNjNjhMam9xSFRCU3FQRFU1MVhTdWow?oc=5",
+      "published": "2026-04-27T07:00:00+00:00",
+      "publisher": "Fortune",
+      "summary": "Palantir staff reportedly question company’s commitment to civil liberties &nbsp;&nbsp; Fortune",
+      "query": "ASML lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "ASML Stock Raises 2026 Guidance After €8.8B Q1 Revenue Beat - TIKR.com",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQcnphbVpWbkZhWVlMZ19KMGo3bmNLd3lpczZaODR4OWlBMkZvaVJaNGNoczFwaFhtUnZtbld1WlptS25XS1poY1otNmRNTHRQcl96dmFwOTV2dzZCT0FFaEZ6NEVZb3pqbktKdnhDVVJEOVNzVHBnM1RvZ0xLSVdkamtncDlwblc0VDAyZVFB?oc=5",
+      "published": "2026-04-26T07:00:00+00:00",
+      "publisher": "TIKR.com",
+      "summary": "ASML Stock Raises 2026 Guidance After €8.8B Q1 Revenue Beat &nbsp;&nbsp; TIKR.com",
+      "query": "ASML earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "guidance"
+      ],
+      "lean": "positive"
+    },
+    {
+      "title": "ASML Holding (ASML) Price Target Lifted by $100 Amid ‘Overdone’ Pullback - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQYzRjalJlN3gwS01CV2dzYmxxQWJyb2JsUVVaaUZYeVY0N1E0Vk5mNFRnS1JmeFl1Z3NrWDZPUDF1NWM4RDRNSmt4d2d1MnFmaG85Q1dCQ0JJTWgtM3JiRTQwT0x3bk9hTkY4R1d2Vm01czZXWjFUWTlxcWp5c2x2aTZ4UGx6bW1uSUQxX200MjNPa0lObDZvb2FUTQ?oc=5",
+      "published": "2026-04-23T07:00:00+00:00",
+      "publisher": "Yahoo Finance",
+      "summary": "ASML Holding (ASML) Price Target Lifted by $100 Amid ‘Overdone’ Pullback &nbsp;&nbsp; Yahoo Finance",
+      "query": "ASML analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [
+        "analyst"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "ASML Stock Drops After TSMC Says No To Latest Lithography Machines - Stocktwits",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPbjMxekZVeWRLWEpCcS1zSnAwVFBOeTREclEzVjNQaUFSamxwOUZYUmVuZV8xV09aZDd2a2RQZXk4bnV6N05FUG1jZlZqZ2EyMHRqS0d5azVPQXBSaXNBNUlVVm5JTVNDOUU3eGpEcnRFRGtXZUVKNm9HYkx1azMwY0o4c2dpRTN1cmFObzBsNzNRbjZaa0QxTFlpVDJ3VXBFT3hVMXNVbmdjbkpYanBzTjhqR2pVd3ZJbW1VdU5KSVJWV1E1bUtTZ1VR?oc=5",
+      "published": "2026-04-23T07:00:00+00:00",
+      "publisher": "Stocktwits",
+      "summary": "ASML Stock Drops After TSMC Says No To Latest Lithography Machines &nbsp;&nbsp; Stocktwits",
+      "query": "ASML lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "demand",
+        "price_move"
+      ],
+      "lean": "negative"
+    },
+    {
+      "title": "The Best Artificial Intelligence (AI) Chip Equipment Stock Just Raised Guidance. Here's What ASML's Earnings Mean for the Nasdaq. - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdUZlS0lfZEhicVh3OGItMm5xV001QzhZZnlhbFVKUDFhWkUyWVJhZHJMSnlRRkMxUWI5S0Q1QVFpVGo4QW0zRTI3Ui1sVUVHRHhMLXlhd1J1TUNubC1aelR4Y0NPMXBpTHVyZ1llZlN6MjRmT3NxRGFVbjBCWUhxeF9US0lkajV4Tkk1N2UwQmNla0lTZERzRA?oc=5",
+      "published": "2026-04-17T07:00:00+00:00",
+      "publisher": "The Motley Fool",
+      "summary": "The Best Artificial Intelligence (AI) Chip Equipment Stock Just Raised Guidance. Here's What ASML's Earnings Mean for the Nasdaq. &nbsp;&nbsp; The Motley Fool",
+      "query": "ASML earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "guidance"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "ASML Earnings: Outlook Is Magnificent, but Valuation Overshoots Our Estimate - Morningstar",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOaE9feXlCeWctZEF3LTlJU2hJRDZHdXdabTJYVnUyVUdhUmd0dzRnWTdzb05tenpfWXpVQTF1Q0JWci1mZ2NOY1JRMF9vOThDU0ZHVElHcHIyS0U3OHpDcUdQOUdINFpqTFdiZ1dvX1BoSTJUUWg2ODBOSDhwSEw3ZlkzUnoxTDRPUEliakFXX0QteFQwV3FkNzBuRTJnXzZEY0gwM3hkZ2pFSVZpbzdYRFdFNW0?oc=5",
+      "published": "2026-04-15T07:00:00+00:00",
+      "publisher": "Morningstar",
+      "summary": "ASML Earnings: Outlook Is Magnificent, but Valuation Overshoots Our Estimate &nbsp;&nbsp; Morningstar",
+      "query": "ASML earnings guidance",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "guidance"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "ASML stock sinks amid tightening China restrictions despite strong earnings, guidance - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBhdDZkWnJZTmhSVjNIODFmcXpJQmljSUttcXpmLU5UbHIwVzlnOTB5REVIY1NZcEVFajhqTE9CVG9UQkt1ZHo2YlhnQjVlcGRsMkZDemtyVk9NMVRaUkNLWTNvVmpHUy10aW1nczZaT29TdU3SAXhBVV95cUxNcGtmZ3JHcHBrSHYzLTJOWUpNS2Zid3FtQ2lyNEIwS2JDU1BRaUJXSEpENUtDZE1ob1ZqOWIwT05PTUl2dWRPcGNZRVNVdWRkRU5JRTAtS2EyLVBWbDk3Si1QQzczcm9tblRiUjh3Z3k0bWlCd0ZkMmI?oc=5",
+      "published": "2026-04-15T07:00:00+00:00",
+      "publisher": "CNBC",
+      "summary": "ASML stock sinks amid tightening China restrictions despite strong earnings, guidance &nbsp;&nbsp; CNBC",
+      "query": "ASML revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "guidance",
+        "price_move"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "ASML lifts 2026 forecast as surging AI chip demand boosts new orders - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMEJGMi1ZX29NbzdBMURIdjBCY1NmeVZFWEZqNHgyT2xxZG45SmJzMjJrY211YVl6WVp3NUR5cURyRWswbmM2NlFyZEpwYnl0clZ0WHlScVZDYllKcDlmRWlFVWVwSDczdlBvUzlPanpwdF83QnhhQlJ0eDdmU2RuWHJ1TnFkd0N1cks0b2dCU2tRdzZUNVdB?oc=5",
+      "published": "2026-04-15T07:00:00+00:00",
+      "publisher": "Reuters",
+      "summary": "ASML lifts 2026 forecast as surging AI chip demand boosts new orders &nbsp;&nbsp; Reuters",
+      "query": "ASML revenue forecast",
+      "source_api": "google_news_rss",
+      "tags": [
+        "guidance",
+        "demand"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "BofA reiterates Buy on ASML stock, keeps €1,598 price target - Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWWR2anhZNkVocGozdlF6S24ybEJ1WHdmUU04Vl9zN0psc0ktUXQyQlNSdEJsM3Q2RDRXNE5nbXZnbnB1X1N1dmtTOGhYR3pRU09qT2t3RHVuZnhIVHg2cVIxLUFCVV81Vi0zc1plbUxOY0FWTmJJQnVaWGN6X1g5S1JoeVZzXy1qSU9yVm9ETzdrVGdHdFlWZ0RmTHp3c3l2em1hOG5hOXhKcGNCdjZmMzI3WTdQRnc1?oc=5",
+      "published": "2026-04-15T07:00:00+00:00",
+      "publisher": "Investing.com",
+      "summary": "BofA reiterates Buy on ASML stock, keeps €1,598 price target &nbsp;&nbsp; Investing.com",
+      "query": "ASML analyst price target",
+      "source_api": "google_news_rss",
+      "tags": [
+        "earnings",
+        "analyst"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "Chip-Machine Supplier ASML Lifts Guidance on Strong AI Demand - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMDY5M2J6eVJlY094ZmxyRmxUWU5jc0Q4T2FVMlRuNGhHTXVZQWVIcHdmQ0ptcjZ4TnBnMkc5SFh6QnNtT0pzYW1HNUl5REtYZmtJSnhCX0xmWHBFdm90QlNTV094bzNpamRGLTJJRFAxeG50SFlRYkZfc3hwRUVWQ1NrcVNNWHFrUXEtTDdSdjNaUlVhQUpRZXlRNWx0RGo3WTUxNnF4X2dHT1I3?oc=5",
+      "published": "2026-04-15T07:00:00+00:00",
+      "publisher": "WSJ",
+      "summary": "Chip-Machine Supplier ASML Lifts Guidance on Strong AI Demand &nbsp;&nbsp; WSJ",
+      "query": "ASML lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "guidance",
+        "demand"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "ASML Commits $1.5M to Connecticut Foodshare - CBIA",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOdDlkQWdIN25RUXgxUmxOWnlrY0FUc3AwVDA5Sk9MXzFNRkJIc3VfaThnNVo5MGVudktZaERId2RPZzljUjIteFNmRU0zSUM2enNlZHpKZzd6UFdhVDJEUnF1RlJHNVpNQUE3ekJHUzU5aVBVcnRGc21kWl9Yb1Q2RHdn?oc=5",
+      "published": "2026-04-15T07:00:00+00:00",
+      "publisher": "CBIA",
+      "summary": "ASML Commits $1.5M to Connecticut Foodshare &nbsp;&nbsp; CBIA",
+      "query": "ASML acquisition OR partnership",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    },
+    {
+      "title": "EU fines on US companies are biggest source of friction, State Department official says - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPNGdhZDltZk4zellLb3ZSQUdSa3JpUUVUdWRjdlRsb0pNOWQtbW5RaXM5bDNGa09VcGhMNWNBVEl0MVRUWWkxZWVJS3NUYzlnVXdkdnpHczVtWnpUUUQzZzdtbFh3aDZ4VnJYMDM3THZPVlZwckFDaWpRVXltZDE3UEtiUFBJZlJ1ZVdJaW9tU1l4RWJmNHpDaFM1cUM2aGlxekNyYkh0eldqRjJBNkNxWXRLTGJpNnFiSmdaenFjNktybnBoMDRaU0pKc2ZGNjc3V2tpYmx2bGpRaUIzWTRtUm50dGNYUkZQUEs3cA?oc=5",
+      "published": "2026-04-01T07:00:00+00:00",
+      "publisher": "Reuters",
+      "summary": "EU fines on US companies are biggest source of friction, State Department official says &nbsp;&nbsp; Reuters",
+      "query": "ASML lawsuit OR regulation OR antitrust",
+      "source_api": "google_news_rss",
+      "tags": [
+        "regulatory"
+      ],
+      "lean": "neutral"
+    },
+    {
+      "title": "1 Prediction for ASML Stock in 2026 - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQ2lLRWZLYzdVY1lFaFBlNzV6SkRxeVRWLXdMYlRKMFZnQVBMa3VjN1Z6LUJReTl1MDJOZ1daZU56SmdOaGE0OW5ISUlQOFJEU0hwZDZxWENCcENkdERzV2NCQTZ4MTB5U0JldG05WmUyZnRZbHFvMmZRbXFfam1lRFUyS19ic3hX?oc=5",
+      "published": "2026-03-26T07:00:00+00:00",
+      "publisher": "The Motley Fool",
+      "summary": "1 Prediction for ASML Stock in 2026 &nbsp;&nbsp; The Motley Fool",
+      "query": "\"ASML  N.V\" stock",
+      "source_api": "google_news_rss",
+      "tags": [],
+      "lean": "neutral"
+    }
+  ]
+}
